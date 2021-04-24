@@ -1,14 +1,16 @@
-var http = require("http");
-console.log("Hi")
-http.createServer(function (request, response) {
-    // Send the HTTP header 
-    // HTTP Status: 200 : OK
-    // Content Type: text/plain
-    response.writeHead(200, {'Content-Type': 'text/plain'});
-    
-    // Send the response body as "Hello World"
-    response.end('Hello World\n');
- }).listen(process.env.PORT || 5000);
- 
- // Console will print the message
- console.log('Server running at http://127.0.0.1:8081/');
+var express = require('express');
+var app = express();
+var fs = require("fs");
+
+app.get('/listUsers', function (req, res) {
+   fs.readFile( __dirname + "/" + "users.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
+var server = app.listen(process.env.PORT, function () {
+   var host = server.address().address
+   var port = server.address().port
+   console.log("Example app listening at http://%s:%s", host, port)
+})
