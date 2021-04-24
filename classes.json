@@ -1,0 +1,738 @@
+{
+    "classes": [
+        {
+          "id": "urn:li:lyndaCourse:354",
+          "title": "Project 2007 Essential Training",
+          "type": "COURSE",
+          "description": "Covering everything from the basics of project management to the ins and outs of integrating Project 2007 with other Office applications, Project 2007 Essential Training is a comprehensive and valuable course. Instructor Lorna A. Daly teaches users how to work with Project 2007 to best analyze and manage business ventures of any scope. She explains how to organize resources and assign work, how to streamline processes and resolve project conflicts, and how to customize and optimize Project 2007 for future tasks.",
+          "shortDescription": "Teaches users how to work with Project 2007 to analyze and manage business ventures.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Project",
+            "Project Management Software",
+            "Project Management Institute (PMI)®",
+            "Continuing Education (CEU)",
+            "Project Management Software",
+            "Business Software and Tools",
+            "Business",
+            "Project Management Software",
+            "Project Management",
+            "PMI"
+          ],
+          "classificationId": [
+            "urn:li:skill:4028",
+            "urn:li:skill:18281",
+            "urn:li:lyndaCategory:576024",
+            "urn:li:lyndaCategory:575057",
+            "urn:li:lyndaCategory:8388",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:8388",
+            "urn:li:lyndaCategory:7172",
+            "urn:li:lyndaCredentialingProgram:(urn:li:lyndaCredentialingAgency:1,1)"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "CONTINUING_EDUCATION_UNIT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/project-2007-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A354&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:685",
+          "title": "Creative Inspirations: Margo Chase, Graphic Designer",
+          "type": "COURSE",
+          "description": "Margo Chase is one of the most influential graphic designers of our time. Over the past 20 years, Margo's highly expressive work has been seen in movie posters for Bram Stoker's Dracula; on album covers for top performers like Cher, Madonna, and Prince; and in ads for brands such as Starbucks, Target, and Procter & Gamble. With a background in biology, Margo migrated to the world of graphic design, where she brought a unique, organic quality to logos, lettering, and identity design. Never one to live life passively, Margo has developed a love for competitive aerobatic flying in her own high-performance plane. This installment of Creative Inspirations takes viewers inside the studio, portfolio, and adrenaline-pumped lifestyle of this inspired and inspiring designer.",
+          "shortDescription": "Inside the studio, portfolio, and adrenaline-pumped lifestyle of this inspired and inspiring designer, Margo Chase.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Small Business Management",
+            "Creativity",
+            "Graphic Design",
+            "Creative",
+            "Design Business",
+            "Design Business",
+            "Small Business and Entrepreneurship",
+            "Business"
+          ],
+          "classificationId": [
+            "urn:li:skill:50362",
+            "urn:li:lyndaCategory:295004",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7268",
+            "urn:li:lyndaCategory:7268",
+            "urn:li:lyndaCategory:754022",
+            "urn:li:lyndaCategory:7162"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-margo-chase-graphic-designer\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A685&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:686",
+          "title": "Margo Chase's Hand-Lettered Poster: Start to Finish",
+          "type": "COURSE",
+          "description": "Acclaimed graphic designer Margo Chase shows how she created a beautifully hand-lettered poster for a special appearance at the Santa Barbara chapter of the AIGA. In this installment of Start to Finish, watch as Margo carefully creates a design with ink and paper and then refines the composition with the aid of a computer. The end product is a stunning, organic statement of style and grace that is refreshing in our world of too-pristine computer graphics.",
+          "shortDescription": "Margo Chase shows how she created a beautifully hand-lettered poster for a special appearance.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Typography",
+            "Poster Design",
+            "Typography",
+            "Animation and Illustration",
+            "Creative",
+            "Typography",
+            "Motion Graphics and VFX",
+            "Typography",
+            "Graphic Design",
+            "Poster Design"
+          ],
+          "classificationId": [
+            "urn:li:skill:1928",
+            "urn:li:skill:1021",
+            "urn:li:lyndaCategory:7434",
+            "urn:li:lyndaCategory:7175",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7434",
+            "urn:li:lyndaCategory:7179",
+            "urn:li:lyndaCategory:7434",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7379"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/margo-chase-s-hand-lettered-poster-start-to-finish\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A686&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:499",
+          "title": "QuickBooks Pro 2008 Essential Training",
+          "type": "COURSE",
+          "description": "In QuickBooks Pro 2008 Essential Training, instructor Suzanne Robertson explores the many powerful features of QuickBooks Pro, the popular accounting software that can be used for everything from handling personal expenditures to creating professional business account records. Suzanne covers organizing inventory and non-inventory items and using the automated EasyStep interview. She also demonstrates how to create and edit accounts, collect and pay sales tax, and handle invoices, vendor payments, and client refunds. Exercise files accompany the tutorial. Note: QuickBooks Pro 2008 is not currently available for the Mac. If you are a Mac user you will be unable to open the exercise files for this tutorial, however you will still be able to watch the movies.",
+          "shortDescription": "How to use QuickBooks Pro to do everything from handling personal finances to creating business account records.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Accounting",
+            "QuickBooks",
+            "Accounting Software",
+            "Business Software and Tools",
+            "Business",
+            "Accounting Software",
+            "Finance and Accounting",
+            "Accounting Skills"
+          ],
+          "classificationId": [
+            "urn:li:skill:71",
+            "urn:li:skill:1433",
+            "urn:li:lyndaCategory:755030",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:755030",
+            "urn:li:lyndaCategory:7169",
+            "urn:li:lyndaCategory:7204"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/quickbooks-pro-2008-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A499&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:753",
+          "title": "Troika's ABC Brand Campaign: Start to Finish",
+          "type": "COURSE",
+          "description": "Get an inside view behind the making of ABC TV's fall promotional and brand image campaign, and watch a 60-second spot that showcases the network's prime-time shows. See how top branding agency Troika Design Group works with Mike Benson, ABC Entertainment's senior vice president of marketing, advertising, and promotion, to develop a visual interpretation of the network's brand identity. Troika shows how they apply their \"liquid light\" creative platform to a wide range of programs and actors. Learn how Troika integrated a variety of special effects with live-action footage of the network's stars in this installment of Start to Finish.",
+          "shortDescription": "Get an inside view at the making of ABC TV's fall promotional and brand image campaign.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Campaign Strategy Development",
+            "Brand Design",
+            "Brand Design",
+            "Graphic Design",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:47608",
+            "urn:li:skill:43800",
+            "urn:li:lyndaCategory:8391",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/troika-s-abc-brand-campaign-start-to-finish\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A753&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:524",
+          "title": "Creative Inspirations: tokidoki, Character Illustrator",
+          "type": "COURSE",
+          "description": "The Japanese-inspired lifestyle brand tokidoki, created by Italian artist and designer Simone Legno, started as a set of characters on a personal website and has since exploded into a wildly successful, and internationally recognized collection. tokidoki, Character Illustrator, Creative Inspirations explores Simone's techniques and methods for building some of his popular tokidoki characters using Adobe Illustrator. Take a peek into his sketchbook, and learn how he creates one of his popular skatedecks from start to finish.",
+          "shortDescription": "Explores Simone Legno's techniques and methods for creating his wildly popular tokidoki characters using Illustrator.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Digital Illustration",
+            "Character Animation",
+            "Illustration",
+            "Animation and Illustration",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:6139",
+            "urn:li:skill:4126",
+            "urn:li:lyndaCategory:7305",
+            "urn:li:lyndaCategory:7175",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-tokidoki-character-illustrator\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A524&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:766",
+          "title": "Creative Inspirations: Dale Herigstad & Schematic, Interactive Design Agency",
+          "type": "COURSE",
+          "description": "Welcome to the future of media experience. Meet Dale Herigstad, Chief Creative Officer at Schematic—the company behind some of the most innovative ways to interact with your world. Remember the scene from Minority Report where the Tom Cruise character physically interacts with digital media? Dale was the mind behind that scene—and the mind that is bringing similar experiences to the real world. Dale and his company, Schematic, are transforming the future of user interfaces, brand relationships, and advertising. This installment of Creative Inspirations takes viewers inside their profoundly collaborative and innovative environment—where new ideas seamlessly integrate across multiple platforms. Experience why Dale says, \"the interface is the brand.\"",
+          "shortDescription": "Meet Dale Herigstad, chief creative officer at Schematic, the company behind innovative user interface designs.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Interactive Web Content",
+            "Interactive Web Content",
+            "Web Design and UX",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:55241",
+            "urn:li:lyndaCategory:7313",
+            "urn:li:lyndaCategory:7188",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-dale-herigstad-schematic-interactive-design-agency\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A766&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:558",
+          "title": "Artist Series with Hillman Curtis",
+          "type": "COURSE",
+          "description": "Artist Series is a series of videos, created by Hillman Curtis, that showcases leading designers and design firms. The series takes an in-depth look at the work and processes of the design firm Pentagram and the designers David Carson, Milton Glaser, Paula Scher, Stefan Sagmeister, and James Victore.",
+          "shortDescription": "An in-depth look at the work and processes of the design firm Pentagram and its designers.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Design Thinking",
+            "Design Thinking",
+            "Graphic Design",
+            "Creative",
+            "Design Thinking",
+            "User Experience"
+          ],
+          "classificationId": [
+            "urn:li:skill:7886",
+            "urn:li:lyndaCategory:7269",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7269",
+            "urn:li:lyndaCategory:7187"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/artist-series-with-hillman-curtis\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A558&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:503",
+          "title": "SharePoint 2007 Essential Training",
+          "type": "COURSE",
+          "description": "SharePoint 2007 Essential Training covers each aspect of using both Windows SharePoint Services and Microsoft Office SharePoint Server (MOSS). Instructor David Rivers takes viewers through the whole process, from smart content management to publishing collaborative projects and documents online. Along the way, he teaches how to create and organize sites; manage content; control security levels; understand simple and complex searches; and create and manage team sites, blogs, and meeting workspaces.",
+          "shortDescription": "Covers each aspect of using Windows SharePoint Services and MOSS, from smart content management to publishing.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Document Management",
+            "SharePoint",
+            "Document Management",
+            "Business Software and Tools",
+            "Business",
+            "Cloud Storage Apps"
+          ],
+          "classificationId": [
+            "urn:li:skill:3656",
+            "urn:li:skill:1901",
+            "urn:li:lyndaCategory:7277",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:7240"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/sharepoint-2007-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A503&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:745",
+          "title": "Creative Inspirations: Troika Design Group, Design and Branding Agency",
+          "type": "COURSE",
+          "description": "Ever wonder who's behind those cool identity graphics on broadcast and cable TV networks? Come take a peek behind the scenes at Troika Design Group, the leading firm for branding television networks. The members of the exceptionally creative team at Troika explain how they go about creating unique and dynamic on-air brand identities for some of the biggest networks in the world, including ABC, FOX, Oxygen, and ESPN. They show how the company organizes projects, develops its team members, and nurtures a highly collaborative and creative environment. Troika's employees show their creative solutions and tell the stories behind the work. The company begins with a deep understanding of the client's needs, and develops solutions that may include live action elements and a whole range of graphic animation techniques. This installment of Creative Inspirations takes viewers to the very epicenter of TV network branding.",
+          "shortDescription": "Takes viewers to the very epicenter of TV network branding: behind the scenes at Troika Design Group.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Brand Design",
+            "Creativity",
+            "Graphic Design",
+            "Creative",
+            "Creativity",
+            "Professional Development",
+            "Business",
+            "Brand Design"
+          ],
+          "classificationId": [
+            "urn:li:skill:43800",
+            "urn:li:lyndaCategory:295004",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:295004",
+            "urn:li:lyndaCategory:7165",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:8391"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-troika-design-group-design-and-branding-agency\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A745&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:767",
+          "title": "Creative Inspirations: Hot Studio, Experience Design",
+          "type": "COURSE",
+          "description": "Hot Studio founder Maria Giudice and her exceptional multi-disciplinary design team \"make the complex beautifully clear\" for web clients like eBay, Gap, and the San Francisco Museum of Modern Art. Maria focuses the studio's work on people-centered design to create amazing user experiences on the web and in print. See how they apply \"collective intelligence\" through the phases of discovery, strategy, design, and building. This installment of Creative Inspirations takes viewers inside one of the coolest design firms around.",
+          "shortDescription": "Takes viewers inside one of the coolest design firms around, Hot Studio.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Interactive Web Content",
+            "Interaction Design",
+            "Interactive Web Content",
+            "Web Design and UX",
+            "Creative",
+            "Interaction Design",
+            "User Experience"
+          ],
+          "classificationId": [
+            "urn:li:skill:55241",
+            "urn:li:skill:1626",
+            "urn:li:lyndaCategory:7313",
+            "urn:li:lyndaCategory:7188",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7312",
+            "urn:li:lyndaCategory:7187"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-hot-studio-experience-design\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A767&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:260",
+          "title": "Visio 2007 Essential Training",
+          "type": "COURSE",
+          "description": "David Rivers explores the many ways Visio 2007 can be used to create effective business and planning documents, from flow charts to floor layout diagrams. In Visio 2007 Essential Training , users new to Visio or updating to this version will learn how to incorporate diagrams with integrated data, create and utilize text fields, edit templates and projects with AutoConnect, and create and use themes for consistency. Exercise files accompany the training.",
+          "shortDescription": "Explores how Visio 2007 can be used to create business and planning documents such as flow charts and floor layouts.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Flow Charts",
+            "Visio",
+            "Diagramming",
+            "Diagramming",
+            "Business Software and Tools",
+            "Business"
+          ],
+          "classificationId": [
+            "urn:li:skill:5711",
+            "urn:li:skill:2722",
+            "urn:li:skill:16241",
+            "urn:li:lyndaCategory:8387",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/visio-2007-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A260&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:690",
+          "title": "Creative Inspirations: Ron Crabb, Digital Illustrator",
+          "type": "COURSE",
+          "description": "Ron Crabb's art is almost undetectable, yet it has been seen by millions. He is a matte painter for major Hollywood films, such as X-Men, The Bucket List, and Speed Racer, and it is a compliment to say his work is undetectable. As a matte painter, Ron's role is to create imaginary scenes that look entirely real. Building on an early career in motion graphics, he has developed his incredible photorealistic style. He spent twenty years working with digital painting systems beginning well before the advent of Photoshop. Today, Ron uses a combination of Photoshop, CGI, photographs, and good old-fashioned painting skills to create stunningly realistic matte paintings, special visual effects, title sequences, and concept art for movies. He also creates fine art using the same set of skills. This installment of Creative Inspirations takes viewers a thousand miles from L.A. to Bainbridge Island, Washington to get a look at the career, work, and lifestyle of a man who escaped Hollywood only to master it at a distance.",
+          "shortDescription": "Get an inspiring look at the career, work, and lifestyle of Ron Crabb.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Illustration",
+            "Digital Illustration",
+            "Creativity",
+            "Graphic Design",
+            "Creative",
+            "Illustration",
+            "Animation and Illustration"
+          ],
+          "classificationId": [
+            "urn:li:skill:633",
+            "urn:li:skill:6139",
+            "urn:li:lyndaCategory:295004",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7305",
+            "urn:li:lyndaCategory:7175"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-ron-crabb-digital-illustrator\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A690&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:481",
+          "title": "Access 2007 Essential Training",
+          "type": "COURSE",
+          "description": "From using predefined Access 2007 database applications to building them from scratch, Access 2007 Essential Training covers each step of understanding, creating, and modifying databases for custom business purposes. Instructor David Rivers shows even the most database-challenged how to utilize this powerful software for creating reports and charts, as well as for business record keeping and analysis. Exercise files accompany the tutorials.",
+          "shortDescription": "Covers each aspect of using Access 2007 to create and modify databases for custom business purposes.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Access",
+            "Databases",
+            "Data Analysis",
+            "Database Administration",
+            "Desktop Databases",
+            "Business Software and Tools",
+            "Business",
+            "Database Administration",
+            "Database Management",
+            "Technology",
+            "Data Analysis",
+            "Data Analysis",
+            "Data Science",
+            "Data Analysis",
+            "Business Analysis and Strategy"
+          ],
+          "classificationId": [
+            "urn:li:skill:718",
+            "urn:li:skill:523",
+            "urn:li:skill:2470",
+            "urn:li:skill:1758",
+            "urn:li:lyndaCategory:563007",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:7266",
+            "urn:li:lyndaCategory:278033",
+            "urn:li:lyndaCategory:7164",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:7182",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:592008"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/access-2007-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A481&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:252",
+          "title": "Excel 2007 Essential Training",
+          "type": "COURSE",
+          "description": "Like the other applications in Microsoft Office 2007, Excel 2007 boasts upgraded features and a brand-new look. In Excel 2007 Essential Training , instructor Lorna A. Daly introduces the new version in detail. The training begins with the essentials of using the program, including how and why to use a spreadsheet, how to set up and modify worksheets, and how to import and export data. Lorna then moves on to teach more advanced features, such as working with functions and macros. Exercise files accompany the tutorials.",
+          "shortDescription": "A detailed look at the features and uses of Excel 2007, including how and why to use spreadsheets.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Excel",
+            "Spreadsheets",
+            "Spreadsheets",
+            "Business Software and Tools",
+            "Business"
+          ],
+          "classificationId": [
+            "urn:li:skill:163",
+            "urn:li:skill:1267",
+            "urn:li:lyndaCategory:7418",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/excel-2007-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A252&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:540",
+          "title": "Acrobat 9 Pro: Creating Forms",
+          "type": "COURSE",
+          "description": "PDF forms can be much more than something to print, fill out by hand, and fax back. Interactive fields allow for a web-like user experience, and submission via email or server can enable a truly paperless exchange of information. Acrobat 9 Pro makes interactive form creation and distribution more powerful and flexible than ever, but such a wealth of features and options can be daunting. Brian Wood focuses exclusively on the nuances of this process in Acrobat 9 Pro: Creating Forms. He discusses the fundamentals of Acrobat forms, fields, and distribution, and explores the built-in form creation tools available in Acrobat 9. Brian also demonstrates the XML-driven forms that can be created by the Windows-only LiveCycle Designer application, included with Acrobat 9 Pro and Pro Extended. Example files accompany the course.",
+          "shortDescription": "Explores the nuances of creating and distributing interactive forms using Acrobat 9 Pro.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "PDF Management",
+            "Adobe Acrobat",
+            "Forms",
+            "PDF Management",
+            "Business Software and Tools",
+            "Business",
+            "Forms"
+          ],
+          "classificationId": [
+            "urn:li:skill:55247",
+            "urn:li:skill:2464",
+            "urn:li:skill:1911",
+            "urn:li:lyndaCategory:7365",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:7292"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/acrobat-9-pro-creating-forms\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A540&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:615",
+          "title": "Creative Inspirations: Big Spaceship, Digital Creative Agency",
+          "type": "COURSE",
+          "description": "Take a ride in the Big Spaceship with this intimate look at the inner workings of one of the web's most innovative firms. Since its founding in 2000, Big Spaceship has set about redefining what it means to be a digital agency—and has won countless awards in the process. True to its mission, Big Spaceship ensures that every aspect of the company reflects a fresh way of working, from the layout of office space to how clients are engaged. This installment of Creative Inspirations takes viewers inside the minds and methods behind this extraordinary company. Learn more about Big Spaceship by going to their website at Big Spaceship. To view examples of Big Spaceship's work visit Nike Air, Hungry Suitcase, HBO, Adobe and the Corona Beach.",
+          "shortDescription": "Take a ride in the Big Spaceship with this intimate look at the inner workings of one of the web's most innovative firms.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Interactive Web Content",
+            "Interactive Web Content",
+            "Web Design and UX",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:55241",
+            "urn:li:lyndaCategory:7313",
+            "urn:li:lyndaCategory:7188",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-big-spaceship-digital-creative-agency\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A615&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:605",
+          "title": "Creative Inspirations: Douglas Kirkland, Photographer",
+          "type": "COURSE",
+          "description": "Douglas Kirkland is one of the most accomplished and celebrated photographers of the last fifty years. This installment of the Creative Inspirations series offers insight into Douglas Kirkland's photography, from his early career at Look magazine during the golden age of photojournalism in the 60s and 70s to his transition from analog to digital photography in the 90s. His iconic images of Marilyn Monroe, Elizabeth Taylor, Jack Nicholson, and Nicole Kidman, among others, are known all over the world. This series of videos includes a peek into Douglas's work, his studio, and some of his on-location photo shoots. Also view a presentation showcasing his body of work, a discussion with a group of high school photography students, an interview with Douglas and Lynda, and more.",
+          "shortDescription": "Offers insight into Douglas Kirkland's photographs and inspirations.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Portrait Photography",
+            "Portrait Photography",
+            "Photography",
+            "Creative",
+            "Photojournalism"
+          ],
+          "classificationId": [
+            "urn:li:skill:4278",
+            "urn:li:lyndaCategory:7378",
+            "urn:li:lyndaCategory:7180",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7376"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-douglas-kirkland-photographer\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A605&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:727",
+          "title": "Creative Inspirations: Jason Bentley, Radio DJ and Musician",
+          "type": "COURSE",
+          "description": "A true tastemaker, Jason Bentley is one of the music industry's most influential radio and club DJs. During his fifteen years at L.A. stations KROQ and KCRW, he has helped such artists as Portishead, Jamiroquai, and The Chemical Brothers get a break in the music industry. Jason has reached a worldwide audience working as the music supervisor for video games, TV commercials, and major Hollywood films such as the Matrix trilogy. He continues to be a driving influence in the LA music scene through his popular radio programs, appearances at clubs and events, and remixes of current music. Jason is known for his commitment to electronica, and he helped introduce the Best Electronic/Dance Album category to the Grammy Awards. This installment of Creative Inspirations shows how Jason works his magic as he takes us behind the scenes at KCRW and gives us a peek at his home studio in Venice, CA. Use of Silversun Pickups \"Lazy Eye\" courtesy of Dangerbird Records",
+          "shortDescription": "Shows how Jason Bentley works his magic as he takes us behind the scenes at KCRW and gives us a peek at his home studio in Venice, CA.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Music Remixing",
+            "Music Performance",
+            "Music Remixing",
+            "Audio and Music",
+            "Creative",
+            "Live Music Performance"
+          ],
+          "classificationId": [
+            "urn:li:skill:9504",
+            "urn:li:skill:43802",
+            "urn:li:lyndaCategory:7350",
+            "urn:li:lyndaCategory:7176",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7276"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-jason-bentley-radio-dj-and-musician\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A727&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": "urn:li:lyndaCourse:618",
+          "title": "Creative Inspirations: Rick Morris, Motion Graphics Designer",
+          "type": "COURSE",
+          "description": "This installment of the Creative Inspirations series takes viewers into the life and home studio of one of the entertainment industry's most sought-after motion graphics designer. Rick Morris is a classically trained illustrator who successfully transitioned into the world of motion graphics. His highly expressive works have appeared as opening titles for films such as Mi Vida Loca, television programs like \"Survivor,\" and commercials for Toyota, Kyocera, and Michelin. He's also designed the menu titles for the DVD of \"The Sopranos.\" This installment of Creative Inspirations shows how Rick evolves his skills and applies them to moving images, how he continually develops his creative perspectives, and how he became a popular teacher at Art Center College of Design in Pasadena and Otis College of Design in Los Angeles. To learn more about Rick Morris, visit his website at nobleassassins.com.",
+          "shortDescription": "A look into the life and home studio of one of the entertainment industry's most sought-after motion graphics designers, Rick Morris.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Motion Graphics",
+            "Creativity",
+            "Graphic Design",
+            "Creative",
+            "Motion Graphics",
+            "Motion Graphics and VFX"
+          ],
+          "classificationId": [
+            "urn:li:skill:1778",
+            "urn:li:lyndaCategory:295004",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7209",
+            "urn:li:lyndaCategory:7179"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-rick-morris-motion-graphics-designer\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A618&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        }
+    ]
+  }
