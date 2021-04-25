@@ -8,6 +8,12 @@ app.get('/listClasses', function (req, res) {
    });
 })
 
+app.get('/uniqueSkills', function (req, res) {
+   fs.readFile( __dirname + "/" + "uniqueSkills.json", 'utf8', function (err, data) {
+    res.end( data );
+   });
+})
+
 // change port number to process.env.PORT when ready to deploy
 var server = app.listen(process.env.PORT, function () {
    var host = server.address().address
