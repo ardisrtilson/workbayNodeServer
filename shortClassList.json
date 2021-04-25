@@ -1,0 +1,573 @@
+{
+    "classes": [
+      [
+        {
+          "id": 0,
+          "urn": "urn:li:lyndaCourse:61219",
+          "title": "Excel 2010 Essential Training",
+          "type": "COURSE",
+          "description": "In Excel 2010 Essential Training, Bob Flisser demonstrates the core features and tools in Excel 2010. The course introduces key Excel skills, shows how to utilize these skills with in-depth tutorials on Excel functions and spreadsheet formatting. It also covers prepping documents for printing, working with large worksheets and workbooks, collaborating with others, using Excel as a database, analyzing data, charting, and automating and customizing Excel. Exercise files are included with the course.",
+          "shortDescription": "Excel tutorials that use real-world examples to teach the core features and tools in Excel 2010.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Excel",
+            "Spreadsheets",
+            "Spreadsheets",
+            "Business Software and Tools",
+            "Business"
+          ],
+          "classificationId": [
+            "urn:li:skill:163",
+            "urn:li:skill:1267",
+            "urn:li:lyndaCategory:7418",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/excel-2010-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A61219&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 1,
+          "urn": "urn:li:lyndaCourse:766",
+          "title": "Creative Inspirations: Dale Herigstad & Schematic, Interactive Design Agency",
+          "type": "COURSE",
+          "description": "Welcome to the future of media experience. Meet Dale Herigstad, Chief Creative Officer at Schematic—the company behind some of the most innovative ways to interact with your world. Remember the scene from Minority Report where the Tom Cruise character physically interacts with digital media? Dale was the mind behind that scene—and the mind that is bringing similar experiences to the real world. Dale and his company, Schematic, are transforming the future of user interfaces, brand relationships, and advertising. This installment of Creative Inspirations takes viewers inside their profoundly collaborative and innovative environment—where new ideas seamlessly integrate across multiple platforms. Experience why Dale says, \"the interface is the brand.\"",
+          "shortDescription": "Meet Dale Herigstad, chief creative officer at Schematic, the company behind innovative user interface designs.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Interactive Web Content",
+            "Interactive Web Content",
+            "Web Design and UX",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:55241",
+            "urn:li:lyndaCategory:7313",
+            "urn:li:lyndaCategory:7188",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-dale-herigstad-schematic-interactive-design-agency\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A766&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 2,
+          "urn": "urn:li:lyndaCourse:56301",
+          "title": "Excel 2007: Advanced Formulas and Functions",
+          "type": "COURSE",
+          "description": "In Excel 2007: Advanced Formulas and Functions, author and trainer Dennis Taylor demystifies some of the most challenging of the 300+ formulas and functions in Excel and shows how to put them to their best use. Dennis starts with a review of the more basic, building-block functions, and a few critical keyboard shortcuts that will speed up working with Excel data, even on multiple sheets. He then covers how to perform advanced searching and data retrieval with Lookup functions, tabulate and sort data with counting and statistical functions, format data with text and math functions, and even work with financial data using advanced formulas. Dennis focuses on practical examples that will help users easily transition to using these formulas and functions in real-world scenarios. Exercise files accompany this course.",
+          "shortDescription": "Demystifies some of the most useful and challenging of the 300+ formulas and functions in Excel and shows how to put them to their best use.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Excel",
+            "Spreadsheets",
+            "Spreadsheets",
+            "Business Software and Tools",
+            "Business"
+          ],
+          "classificationId": [
+            "urn:li:skill:163",
+            "urn:li:skill:1267",
+            "urn:li:lyndaCategory:7418",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/excel-2007-advanced-formulas-and-functions\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A56301&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 3,
+          "urn": "urn:li:lyndaCourse:524",
+          "title": "Creative Inspirations: tokidoki, Character Illustrator",
+          "type": "COURSE",
+          "description": "The Japanese-inspired lifestyle brand tokidoki, created by Italian artist and designer Simone Legno, started as a set of characters on a personal website and has since exploded into a wildly successful, and internationally recognized collection. tokidoki, Character Illustrator, Creative Inspirations explores Simone's techniques and methods for building some of his popular tokidoki characters using Adobe Illustrator. Take a peek into his sketchbook, and learn how he creates one of his popular skatedecks from start to finish.",
+          "shortDescription": "Explores Simone Legno's techniques and methods for creating his wildly popular tokidoki characters using Illustrator.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Digital Illustration",
+            "Character Animation",
+            "Illustration",
+            "Animation and Illustration",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:6139",
+            "urn:li:skill:4126",
+            "urn:li:lyndaCategory:7305",
+            "urn:li:lyndaCategory:7175",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-tokidoki-character-illustrator\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A524&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 4,
+          "urn": "urn:li:lyndaCourse:51412",
+          "title": "Creative Inspirations: Duarte Design, Presentation Design Studio",
+          "type": "COURSE",
+          "description": "Duarte Design is on a mission to change the world, one PowerPoint presentation at a time. Nancy and Mark Duarte, the wife-and-husband team behind Al Gore's famous slideshow about global warming, have built a thriving business out of creating high-impact PowerPoint and Keynote presentations. Their company has become the go-to presentation resource for some of high technology's most visible companies, such as Adobe, Cisco, and HP. But Nancy will be the first to tell you that it's not the technology that matters most, but rather the story. This installment of Creative Inspirations tells the story of how this power duo elevated lowly PowerPoint presentations to arguably the most compelling form of modern media.",
+          "shortDescription": "Duarte Design has elevated lowly PowerPoint and Keynote presentations to arguably the most compelling form of modern media.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Presentation Design",
+            "Creativity",
+            "Professional Development",
+            "Business",
+            "Public Speaking",
+            "Presentations",
+            "Business Software and Tools",
+            "Meeting Skills",
+            "Meeting Skills",
+            "Leadership and Management",
+            "Infographics",
+            "Graphic Design",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:43743",
+            "urn:li:lyndaCategory:295004",
+            "urn:li:lyndaCategory:7165",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:7389",
+            "urn:li:lyndaCategory:7380",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7333",
+            "urn:li:lyndaCategory:7333",
+            "urn:li:lyndaCategory:7170",
+            "urn:li:lyndaCategory:7307",
+            "urn:li:lyndaCategory:7178",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-duarte-design-presentation-design-studio\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A51412&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 5,
+          "urn": "urn:li:lyndaCourse:767",
+          "title": "Creative Inspirations: Hot Studio, Experience Design",
+          "type": "COURSE",
+          "description": "Hot Studio founder Maria Giudice and her exceptional multi-disciplinary design team \"make the complex beautifully clear\" for web clients like eBay, Gap, and the San Francisco Museum of Modern Art. Maria focuses the studio's work on people-centered design to create amazing user experiences on the web and in print. See how they apply \"collective intelligence\" through the phases of discovery, strategy, design, and building. This installment of Creative Inspirations takes viewers inside one of the coolest design firms around.",
+          "shortDescription": "Takes viewers inside one of the coolest design firms around, Hot Studio.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Interactive Web Content",
+            "Interaction Design",
+            "Interactive Web Content",
+            "Web Design and UX",
+            "Creative",
+            "Interaction Design",
+            "User Experience"
+          ],
+          "classificationId": [
+            "urn:li:skill:55241",
+            "urn:li:skill:1626",
+            "urn:li:lyndaCategory:7313",
+            "urn:li:lyndaCategory:7188",
+            "urn:li:lyndaCategory:7163",
+            "urn:li:lyndaCategory:7312",
+            "urn:li:lyndaCategory:7187"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-hot-studio-experience-design\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A767&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 6,
+          "urn": "urn:li:lyndaCourse:481",
+          "title": "Access 2007 Essential Training",
+          "type": "COURSE",
+          "description": "From using predefined Access 2007 database applications to building them from scratch, Access 2007 Essential Training covers each step of understanding, creating, and modifying databases for custom business purposes. Instructor David Rivers shows even the most database-challenged how to utilize this powerful software for creating reports and charts, as well as for business record keeping and analysis. Exercise files accompany the tutorials.",
+          "shortDescription": "Covers each aspect of using Access 2007 to create and modify databases for custom business purposes.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Access",
+            "Databases",
+            "Data Analysis",
+            "Database Administration",
+            "Desktop Databases",
+            "Business Software and Tools",
+            "Business",
+            "Database Administration",
+            "Database Management",
+            "Technology",
+            "Data Analysis",
+            "Data Analysis",
+            "Data Science",
+            "Data Analysis",
+            "Business Analysis and Strategy"
+          ],
+          "classificationId": [
+            "urn:li:skill:718",
+            "urn:li:skill:523",
+            "urn:li:skill:2470",
+            "urn:li:skill:1758",
+            "urn:li:lyndaCategory:563007",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:7266",
+            "urn:li:lyndaCategory:278033",
+            "urn:li:lyndaCategory:7164",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:7182",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:592008"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/access-2007-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A481&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 7,
+          "urn": "urn:li:lyndaCourse:77481",
+          "title": "Douglas Kirkland on Photography: Shooting with an 8x10 Camera",
+          "type": "COURSE",
+          "description": "In the Douglas Kirkland on Photography series, well-known photographer Douglas Kirkland explores a variety of real-world photographic scenarios, sharing technique insights and critiquing the results. This installment is a love letter to the large-format Deardorff view camera, which shoots a negative measuring eight by ten inches. Douglas begins by showcasing a dozen startling and luminescent portraits from his years working in large-format photography, featuring subjects ranging from celebrities such as Nicole Kidman to Australian Aborigines. Next, Douglas tours the 8x10 large-format camera, showing how to achieve effects such as shallow depth of field and describing the printing potential that such a large negative permits. He then demonstrates a variety of lighting, posing, and styling techniques while photographing both indoors and outdoors at the Kirkland studio in Los Angeles, California. The course concludes with a critique of the resulting photographs. Douglas also shows how he resized and cropped the image to fit a print campaign.",
+          "shortDescription": "Photographer Douglas Kirkland uses a large-format film camera to shoot portraits.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Film Photography",
+            "Analog Photography",
+            "Photography",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:11049",
+            "urn:li:lyndaCategory:7208",
+            "urn:li:lyndaCategory:7180",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/douglas-kirkland-on-photography-shooting-with-an-8x10-camera\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A77481&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 8,
+          "urn": "urn:li:lyndaCourse:77482",
+          "title": "Douglas Kirkland on Photography: A Photographer's Eye",
+          "type": "COURSE",
+          "description": "In the Douglas Kirkland on Photography series, well-known photographer Douglas Kirkland explores a variety of real-world photographic scenarios, sharing technical insights and critiquing the results. In this installment, Douglas discusses the importance of developing a sense of photographic vision: keeping your mind and eye open for photographic opportunities, and maximizing those opportunities through composition and other creative decisions. The course begins with Douglas reviewing images from his personal collection. He discusses the importance of observation and exploration for a photographer, how to see art in everyday situations, and why one should always have a camera nearby. Douglas then goes on location to shoot in and around Korakia Pensione, a resort in Palm Springs, California. He explains his creative and technical decisions as he shoots, and describes how natural lines created by architecture and light can help make an effective photograph. The course continues on a hike through a Palm Springs canyon, where Douglas captures images in the field, working with moving water, highly textured rock faces, and even some local wildlife. Finally, Douglas wanders through downtown Palm Springs armed with a simple point-and-shoot camera, proving that with vision and an open mind, great images can be made with simplest equipment. Download a free companion guide to Douglas Kirkland on Photography: A Photographer's Eye from the Exercise Files tab. The guide contains photos, detailed camera-setting information from the shoots in this course, and more tips from Douglas on improving composition and maximizing available natural light.",
+          "shortDescription": "Well-known photographer Douglas Kirkland discusses the importance of keeping your mind and eye open for photographic opportunities, regardless of the kind of camera on-hand.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Shot Composition",
+            "Photography",
+            "Photojournalism",
+            "Photography",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:24702",
+            "urn:li:skill:193",
+            "urn:li:lyndaCategory:7376",
+            "urn:li:lyndaCategory:7180",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/douglas-kirkland-on-photography-a-photographer-s-eye\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A77482&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 9,
+          "urn": "urn:li:lyndaCourse:73561",
+          "title": "Acrobat X Essential Training",
+          "type": "COURSE",
+          "description": "In Acrobat X Essential Training, author Anne-Marie Concepción demonstrates how to create, modify, review, and share PDFs in Adobe Acrobat X Standard or Pro. Starting with a tour of the new panels-based interface, the course covers the basics of the software, such as creating and customizing PDFs, searching, editing text and graphics, and extracting PDF content to use in other programs. Also included are tutorials on creating forms, inserting interactivity and rich media, using the prepress tools, combining PDFs with other types of files to create customized portfolios, and ensuring document security. Exercise files accompany the course.",
+          "shortDescription": "Demonstrates how to create, modify, review, and share PDFs in Adobe Acrobat X.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "PDF Management",
+            "Adobe Acrobat",
+            "PDF Management",
+            "Business Software and Tools",
+            "Business"
+          ],
+          "classificationId": [
+            "urn:li:skill:55247",
+            "urn:li:skill:2464",
+            "urn:li:lyndaCategory:7365",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/acrobat-x-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A73561&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 10,
+          "urn": "urn:li:lyndaCourse:73286",
+          "title": "Access 2007: Shortcuts",
+          "type": "COURSE",
+          "description": "In Access 2007 Power Shortcuts, Access expert Alicia Katz Pollock shares hundreds of tips and shortcuts to vastly increase efficiency and get the full power out of Access 2007. The course includes tips for working with the Ribbon and Quick Access toolbar, managing files, customizing and automating Access, rapid data entry and editing, working with tables, queries, forms, and reports, managing your database, and much more. Exercise files accompany the course.",
+          "shortDescription": "Shares tips and shortcuts to vastly increase efficiency and get the full power out of Access 2007.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Access",
+            "Database Administration",
+            "Desktop Databases",
+            "Business Software and Tools",
+            "Business",
+            "Database Administration",
+            "Database Management",
+            "Technology",
+            "Data Analysis",
+            "Data Science",
+            "Data Analysis"
+          ],
+          "classificationId": [
+            "urn:li:skill:718",
+            "urn:li:skill:1758",
+            "urn:li:lyndaCategory:563007",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:7266",
+            "urn:li:lyndaCategory:278033",
+            "urn:li:lyndaCategory:7164",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:7182",
+            "urn:li:lyndaCategory:7260"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/access-2007-shortcuts\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A73286&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 11,
+          "urn": "urn:li:lyndaCourse:73284",
+          "title": "Access 2010: Shortcuts",
+          "type": "COURSE",
+          "description": "In Access 2010 Power Shortcuts, Access expert Alicia Katz Pollock shares hundreds of tips and shortcuts to vastly increase efficiency and get the full power out of Access 2010. The course includes tips for working with the Ribbon and Quick Access toolbar, managing files, customizing and automating Access, rapid data entry and editing, working with tables, queries, forms, and reports, managing your database, and much more. Exercise files accompany the course.",
+          "shortDescription": "Shares tips and shortcuts to vastly increase efficiency and get the full power out of Access 2010.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Microsoft Access",
+            "Database Administration",
+            "Desktop Databases",
+            "Business Software and Tools",
+            "Business",
+            "Database Administration",
+            "Database Management",
+            "Technology",
+            "Data Analysis",
+            "Data Analysis",
+            "Data Science",
+            "Data Analysis",
+            "Business Analysis and Strategy"
+          ],
+          "classificationId": [
+            "urn:li:skill:718",
+            "urn:li:skill:1758",
+            "urn:li:lyndaCategory:563007",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162",
+            "urn:li:lyndaCategory:7266",
+            "urn:li:lyndaCategory:278033",
+            "urn:li:lyndaCategory:7164",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:7182",
+            "urn:li:lyndaCategory:7260",
+            "urn:li:lyndaCategory:592008"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY",
+            "TOPIC",
+            "TOPIC",
+            "SUBJECT",
+            "TOPIC",
+            "SUBJECT"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/access-2010-shortcuts\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A73284&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 12,
+          "urn": "urn:li:lyndaCourse:73560",
+          "title": "Word for Mac 2011 Essential Training",
+          "type": "COURSE",
+          "description": "In Word for Mac 2011 Essential Training, author Maria Langer shows how to create, format, and print a wide variety of documents in Microsoft Word 2011. The course covers building outlines, formatting text and pages, working with headers and footers, using themes and styles, adding multimedia, and more. It also shows how to customize and automate Word 2011, including how to record macros. Exercise files accompany the course.",
+          "shortDescription": "Create, format, and print a wide variety of documents in Microsoft Word 2011.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Word Processing",
+            "Microsoft Word",
+            "Word Processing",
+            "Business Software and Tools",
+            "Business"
+          ],
+          "classificationId": [
+            "urn:li:skill:3299",
+            "urn:li:skill:260",
+            "urn:li:lyndaCategory:7458",
+            "urn:li:lyndaCategory:7166",
+            "urn:li:lyndaCategory:7162"
+          ],
+          "classificationType": [
+            "SKILL",
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/word-for-mac-2011-essential-training\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A73560&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 13,
+          "urn": "urn:li:lyndaCourse:73558",
+          "title": "Douglas Kirkland on Photography: Natural Light Portraiture",
+          "type": "COURSE",
+          "description": "In the Douglas Kirkland on Photography series, well-known photographer Douglas Kirkland explores a variety of real-world photographic scenarios, sharing technique insights and critiquing the results. In this installment of the series, Douglas explains how he works with natural light to create beautiful portraits. He shows how to make subtle changes to the light to improve its qualities and make the most of the environment he's working in. He reviews the images he considers the best of the day and also shows examples of how he uses Photoshop to complete his workflow and finish the images.",
+          "shortDescription": "Well-known photographer Douglas Kirkland explains how he works with natural lighting and how to best take advantage of it for portraiture.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Portrait Photography",
+            "Portrait Photography",
+            "Photography",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:4278",
+            "urn:li:lyndaCategory:7378",
+            "urn:li:lyndaCategory:7180",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/douglas-kirkland-on-photography-natural-light-portraiture\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A73558&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        },
+        {
+          "id": 14,
+          "urn": "urn:li:lyndaCourse:47952",
+          "title": "Creative Inspirations: Rick Smolan, Photographer",
+          "type": "COURSE",
+          "description": "Rick Smolan is responsible for some of the largest photographic projects ever undertaken. A former Time, Life, and National Geographic photographer, Rick created the best-selling Day in the Life book series and many other large-scale photographic projects, such as America 24/7, 24 Hours in Cyberspace, and Blue Planet Run. He pushes the boundaries of technology with each new project while delivering inspiring books that tell masterful photographic stories. His projects have been featured on the covers of magazines such as Fortune, Time, Newsweek, and U.S. News & World Report. This installment of Creative Inspirations takes viewers inside Rick's latest production, where he reveals his unique processes and shows how he reinvents himself for each new project.",
+          "shortDescription": "A look inside Rick's latest production where he reveals his unique processes and describes his creative reinvention for each project.",
+          "availability": "AVAILABLE",
+          "classificationName": [
+            "Photography",
+            "Photojournalism",
+            "Photography",
+            "Creative"
+          ],
+          "classificationId": [
+            "urn:li:skill:193",
+            "urn:li:lyndaCategory:7376",
+            "urn:li:lyndaCategory:7180",
+            "urn:li:lyndaCategory:7163"
+          ],
+          "classificationType": [
+            "SKILL",
+            "TOPIC",
+            "SUBJECT",
+            "LIBRARY"
+          ],
+          "courseURL": "\"https://www.linkedin.com/learning/creative-inspirations-rick-smolan-photographer\"",
+          "AICCURL": "\"https://www.linkedin.com/learning/aicc?content=urn%3Ali%3AlyndaCourse%3A47952&account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29\""
+        }]]}
