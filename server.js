@@ -1,25 +1,25 @@
 var express = require('express');
-const axios = require('axios');
 var app = express();
 var fs = require("fs");
-const fetch = require("node-fetch");
 
 app.get('/endpointC', function (req, res) {
    fs.readFile( __dirname + "/" + "classes.json", 'utf8', function (err, data) {
     res.end( data );
-   });
+   })
 })
 
 app.get('/endpointA', function (req, res) {
    fs.readFile( __dirname + "/" + "uniqueSkills.json", 'utf8', function (err, data) {
    console.log(data)
     res.end( data );
-   });
+   })
 })
 
 app.get('/', function (req, res) {
-    res.end( 'Hi there, welcome to my demo web service, created using Node, Express, and Javascript. If you would like to see a list of all the unique skills in the LinkedIn database, go to https://pacific-plateau-77351.herokuapp.com/endpointA. If you want to see a list of classes by skill name, go to https://pacific-plateau-77351.herokuapp.com/endpointB?id=<YOUR SKILL QUERY HERE, NO ANGLES>. If you want to a see a list of all 8484 classes available in the Linkedin database, go to https://pacific-plateau-77351.herokuapp.com/endpointC' );
-   });
+   fs.readFile( __dirname + "/" + "hello.txt", 'utf8', function (err, data) {
+      console.log(data)
+      res.end( data );
+      })})
 
 app.use('/endpointB', function (req, res, next) {
    try{
