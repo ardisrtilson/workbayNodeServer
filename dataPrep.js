@@ -28,7 +28,7 @@ const parseClassListing = (i) => {
                 classificationId: code.details.classifications.map(types => types.associatedClassification.urn),
                 classificationType: code.details.classifications.map(types => types.associatedClassification.type),
                 courseURL: code.urls.webLaunch,
-                AICCURL: code.urls.aiccLaunch 
+                AICCURL: code.urls.aiccLaunch
             }
         ))
         return allClassCodes
@@ -92,36 +92,36 @@ const getSkills = () => {
     return fetch("http://localhost:8001/skills")
         .then(res => res.json())
         .then(parsedData => allClasses = parsedData)
-    }
+}
 
-    const saveUniqueSkills = (uniqueSkills) => {
-        const unique = JSON.stringify(uniqueSkills)
-    
-        return fetch('http://localhost:8001/skills', {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: unique
-        })
-    }
+const saveUniqueSkills = (uniqueSkills) => {
+    const unique = JSON.stringify(uniqueSkills)
 
-    const filterClasses = (searchString) => {
-        getClasses().then(res => {
-            let classesArray = []
-            let flattenedClasses = [].concat.apply([], res)
-            for (let i = 0; i < flattenedClasses.length; i++) {
-                for (let j = 0; j < flattenedClasses[i].classificationId.length; j++) {
-                    console.log(flattenedClasses[i].classificationId)
-                    if (flattenedClasses[i].classificationType[j] === "SKILL" && flattenedClasses[i].classificationName[j] === searchString){
-                        classesArray.push(flattenedClasses[i])
-                    }
+    return fetch('http://localhost:8001/skills', {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: unique
+    })
+}
+
+const filterClasses = (searchString) => {
+    getClasses().then(res => {
+        let classesArray = []
+        let flattenedClasses = [].concat.apply([], res)
+        for (let i = 0; i < flattenedClasses.length; i++) {
+            for (let j = 0; j < flattenedClasses[i].classificationId.length; j++) {
+                console.log(flattenedClasses[i].classificationId)
+                if (flattenedClasses[i].classificationType[j] === "SKILL" && flattenedClasses[i].classificationName[j] === searchString) {
+                    classesArray.push(flattenedClasses[i])
+                }
             }
         }
-            console.log(classesArray)
-            }
-        )
+        console.log(classesArray)
     }
+    )
+}
 
 const getClasses = () => {
     return fetch("http://localhost:8000/classes")

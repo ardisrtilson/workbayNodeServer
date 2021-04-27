@@ -28,8 +28,8 @@ app.use('/endpointB', function (req, res, next) {
                }
             }
          }
-         
-// A lotta work just to make the endpoint data pretty
+
+         // A lotta work just to make the endpoint data pretty
          res.end(JSON.stringify(classesArray, ['id', 'title', 'type', 'urn', 'availability', 'description', 'shortDescription', 'classificationId', 'classificationName', 'classificationType', 'courseURL', 'AICCURL'], '   '))
       })
    } catch { console.log(error) }
