@@ -48,15 +48,12 @@ app.use('/mockData', function (req, res, next) {
       fs.readFile(__dirname + "/" + "mockData.json", 'utf8', function (err, data) {
          parsedData = JSON.parse(data)
          filteredData = parsedData
-         if (req.query.sort != undefined) {
-            console.log(typeof req.query.sort)
+         if (req.query.sort != undefined && req.query.sort != "id") {
             filteredData = filteredData.sort(function (a, b) {
             if (a[`${req.query.sort}`] != undefined && b[`${req.query.sort}`] != undefined) {
-               if(typeof a === "string"){
                var textA = a[`${req.query.sort}`].toUpperCase();
                var textB = b[`${req.query.sort}`].toUpperCase();
                return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
-            }
             } else {
                return null
             }
@@ -88,7 +85,7 @@ app.use('/mockData', function (req, res, next) {
 })
 
 // Set port to local port for debugging. Set to process.env.PORT when ready to deploy. 
-var server = app.listen(process.env.PORT, function () {
+var server = app.listen(5000, function () {
    var host = server.address().address
    var port = server.address().port
    console.log("Listening @", host, port)
