@@ -1,5 +1,6 @@
 let allClasses = []
 let token = `Bearer BYgPleMeIB9S0zJ2FQRG6vtsrq9rnbS8jvtTW4qHD_QwAN_lB1kkaO7tuZ_GGdtnpbHsT_ek1NhHXgziSynfCgFZGzVHrw3hltm0i7NPRuT6lyS`
+
 const scanDatabase = async _ => {
     console.log('Scanning Started')
     for (let index = 0; index < 8500; index += 100) {
@@ -7,14 +8,19 @@ const scanDatabase = async _ => {
         saveListing(retrievedCourses)
     }
     console.log("classes.json populated")
-    filterSkills()
-    filterClasses()
+    filterClasses().then(res => {
+        saveClassesArray(res).then(() => {
+            filterSkills()
+        }
+        )
+    }
+    )
 }
 
-const parseClassListing = (i) => {
-    return getClassListing(i).then(res => {
+const parseClassListing = () => {
+    return getClassListing().then(res => {
         let unique_id = 0
-        let allClassCodes = res.elements.map(code => (
+        let allClassEntries = res.elements.map(code => (
             {
                 id: unique_id++,
                 urn: code.urn,
@@ -31,7 +37,7 @@ const parseClassListing = (i) => {
                 AICCURL: code.urls.aiccLaunch
             }
         ))
-        return allClassCodes
+        return allClassEntries
     })
 }
 
@@ -118,7 +124,7 @@ const filterClasses = (searchString) => {
                 }
             }
         }
-        console.log(classesArray)
+        return classesArray
     }
     )
 }
@@ -128,3 +134,5 @@ const getClasses = () => {
         .then(res => res.json())
         .then(parsedData => allClasses = parsedData)
 }
+
+scanDatabase()

@@ -41,6 +41,12 @@ app.get('/endpointC', function (req, res) {
    })
 })
 
+app.get('/mockData', function (req, res) {
+   fs.readFile(__dirname + "/" + "mockData.json", 'utf8', function (err, data) {
+      res.end(data);
+   })
+})
+
 // Set port to local port for debugging. Set to process.env.PORT when ready to deploy. 
 var server = app.listen(process.env.PORT, function () {
    var host = server.address().address
