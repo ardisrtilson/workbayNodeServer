@@ -53,7 +53,7 @@ app.use('/mockData', function (req, res, next) {
                req.query.pageNumber = 0
             }
             for (let i = 0; i < req.query.pageSize; i++) {
-               filteredData.push(parsedData[i + req.query.pageSize * (req.query.pageNumber - 1)])
+               filteredData.push(parsedData[i + req.query.pageSize * (req.query.pageNumber)])
             }
          }
 
@@ -70,6 +70,7 @@ app.use('/mockData', function (req, res, next) {
          }
          if (req.query.filter != undefined) {
             filteredData = filteredData.filter(fd => {
+            
             }
             )
          }
