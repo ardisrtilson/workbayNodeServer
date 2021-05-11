@@ -75,7 +75,8 @@ app.use('/mockData', function (req, res, next) {
             }
             )
          }
-
+         if (filteredData === [])
+         {filteredData = parsedData}
          res.end(JSON.stringify(filteredData, ['id', 'first_name', 'last_name', 'username', 'user_type', 'email', 'zip_code', 'register_date', 'last_accessed_date', 'email_verified'], '     '))
       })
    } catch { console.log(error) }
