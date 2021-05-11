@@ -85,7 +85,7 @@ app.use('/mockData', function (req, res, next) {
 })
 
 // Set port to local port for debugging. Set to process.env.PORT when ready to deploy. 
-var server = app.listen(5000, function () {
+var server = app.listen(process.env.PORT, function () {
    var host = server.address().address
    var port = server.address().port
    console.log("Listening @", host, port)
