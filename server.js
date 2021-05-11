@@ -2,6 +2,7 @@ const { query } = require('express');
 var express = require('express');
 var app = express();
 var fs = require("fs");
+const { type } = require('os');
 const { Recoverable } = require('repl');
 
 app.get('/', function (req, res) {
@@ -47,6 +48,27 @@ app.use('/mockData', function (req, res, next) {
       fs.readFile(__dirname + "/" + "mockData.json", 'utf8', function (err, data) {
          parsedData = JSON.parse(data)
          filteredData = parsedData
+         if (req.query.sort != undefined) {
+            console.log(typeof req.query.sort)
+            filteredData = filteredData.sort(function (a, b) {
+            if (a[`${req.query.sort}`] != undefined && b[`${req.query.sort}`] != undefined) {
+               if(typeof a === "string"){
+               var textA = a[`${req.query.sort}`].toUpperCase();
+               var textB = b[`${req.query.sort}`].toUpperCase();
+               return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+            }
+            } else {
+               return null
+            }
+            })
+         }
+
+         if (req.query.email != undefined) {
+            filteredData = filteredData.filter(fd => fd.email === req.query.email)
+         }
+
+         let unpagedCount = filteredData.length
+
          if (req.query.pageSize != undefined) {
             filteredData = []
             if (req.query.pageNumber === undefined) {
@@ -56,26 +78,11 @@ app.use('/mockData', function (req, res, next) {
                filteredData.push(parsedData[i + req.query.pageSize * (req.query.pageNumber)])
             }
          }
-
-         if (req.query.sort != undefined) {
-            filteredData = filteredData.sort(function (a, b) {
-            if (a[`${req.query.sort}`] != undefined && b[`${req.query.sort}`] != undefined) {
-               var textA = a[`${req.query.sort}`].toUpperCase();
-               var textB = b[`${req.query.sort}`].toUpperCase();
-               return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
-            } else {
-               return null
-            }
-            })
+         let finalObject = {
+            count: unpagedCount,
+            value: filteredData
          }
-         if (req.query.filter != undefined) {
-            filteredData = filteredData.filter(fd => {
-            
-            }
-            )
-         }
-
-         res.end(JSON.stringify(filteredData, ['id', 'first_name', 'last_name', 'username', 'user_type', 'email', 'zip_code', 'register_date', 'last_accessed_date', 'email_verified'], '     '))
+         res.end(JSON.stringify(finalObject, null, '        '))
       })
    } catch { console.log(error) }
 })
