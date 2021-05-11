@@ -46,16 +46,16 @@ app.use('/mockData', function (req, res, next) {
    try {
       fs.readFile(__dirname + "/" + "mockData.json", 'utf8', function (err, data) {
          parsedData = JSON.parse(data)
-         filteredData = []
+         filteredData = parsedData
          if (req.query.pageSize != undefined) {
+            filteredData = []
             if (req.query.pageNumber === undefined) {
-               req.query.pageNumber = 1
+               req.query.pageNumber = 0
             }
-            for (let i = -1; i < req.query.pageSize; i++) {
-               filteredData.push(parsedData[i + req.query.pageSize * req.query.pageNumber])
+            for (let i = 0; i < req.query.pageSize; i++) {
+               filteredData.push(parsedData[i + req.query.pageSize * (req.query.pageNumber - 1)])
             }
          }
-         else { console.log("No page number entered") }
 
          if (req.query.sort != undefined) {
             filteredData = filteredData.sort(function (a, b) {
@@ -68,13 +68,12 @@ app.use('/mockData', function (req, res, next) {
             }
             })
          }
-         console.log(filteredData)
          if (req.query.filter != undefined) {
             filteredData = filteredData.filter(fd => {
-            
             }
             )
          }
+
          res.end(JSON.stringify(filteredData, ['id', 'first_name', 'last_name', 'username', 'user_type', 'email', 'zip_code', 'register_date', 'last_accessed_date', 'email_verified'], '     '))
       })
    } catch { console.log(error) }
