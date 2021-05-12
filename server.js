@@ -43,7 +43,7 @@ app.get('/endpointC', function (req, res) {
    })
 })
 
-app.use('/mockData', function (req, res, next) {
+app.use('/users', function (req, res, next) {
    try {
       fs.readFile(__dirname + "/" + "mockData.json", 'utf8', function (err, data) {
          parsedData = JSON.parse(data)
