@@ -60,7 +60,7 @@ app.use('/users', function (req, res, next) {
             })
          }
 
-         if (req.query.email != undefined) {
+         if (req.query.email != undefined && req.query.email != "") {
             filteredData = filteredData.filter(fd => fd.email === req.query.email)
          }
 
