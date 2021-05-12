@@ -48,7 +48,7 @@ app.use('/users', function (req, res, next) {
       fs.readFile(__dirname + "/" + "mockData.json", 'utf8', function (err, data) {
          parsedData = JSON.parse(data)
          filteredData = parsedData
-         if (req.query.sort != undefined && req.query.sort != "id") {
+         if (req.query.sort != undefined) {
             filteredData = filteredData.sort(function (a, b) {
             if (a[`${req.query.sort}`] != undefined && b[`${req.query.sort}`] != undefined) {
                var textA = a[`${req.query.sort}`].toUpperCase();
@@ -78,6 +78,18 @@ app.use('/users', function (req, res, next) {
 
          if (req.query.sortOrder != undefined){
             if (req.query.sortOrder === "desc"){
+            if (req.query.sort === undefined || req.query.sort === ""){
+               filteredData = filteredData.sort(function(b, a) {
+                  if (a.id !== b.id) {
+                      return a.id - b.id
+                  }
+                  if (a.name === b.name) {
+                    return 0;
+                  }
+                  return a.name > b.name ? 1 : -1;
+              })
+            }
+            else{
             filteredData = filteredData.sort(function (b, a) {
                if (a[`${req.query.sort}`] != undefined && b[`${req.query.sort}`] != undefined) {
                   var textA = a[`${req.query.sort}`].toUpperCase();
@@ -86,7 +98,7 @@ app.use('/users', function (req, res, next) {
                } else {
                   return null
                }
-               })
+               })}
          }
       }
          let finalObject = {
