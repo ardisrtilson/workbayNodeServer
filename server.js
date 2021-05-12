@@ -75,6 +75,19 @@ app.use('/users', function (req, res, next) {
                filteredData.push(parsedData[i + req.query.pageSize * (req.query.pageNumber)])
             }
          }
+
+         if (req.query.desc != undefined){
+            filteredData = filteredData.sort(function (b, a) {
+               if (a[`${req.query.sort}`] != undefined && b[`${req.query.sort}`] != undefined) {
+                  var textA = a[`${req.query.sort}`].toUpperCase();
+                  var textB = b[`${req.query.sort}`].toUpperCase();
+                  return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+               } else {
+                  return null
+               }
+               })
+         }
+         
          let finalObject = {
             count: unpagedCount,
             value: filteredData
