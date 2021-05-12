@@ -76,7 +76,8 @@ app.use('/users', function (req, res, next) {
             }
          }
 
-         if (req.query.desc != undefined){
+         if (req.query.sortOrder != undefined){
+            if (req.query.sortOrder === "desc"){
             filteredData = filteredData.sort(function (b, a) {
                if (a[`${req.query.sort}`] != undefined && b[`${req.query.sort}`] != undefined) {
                   var textA = a[`${req.query.sort}`].toUpperCase();
@@ -87,7 +88,7 @@ app.use('/users', function (req, res, next) {
                }
                })
          }
-         
+      }
          let finalObject = {
             count: unpagedCount,
             value: filteredData
