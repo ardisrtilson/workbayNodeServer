@@ -111,8 +111,7 @@ app.use('/users', function (req, res, next) {
 })
 
 // Set port to local port for debugging. Set to process.env.PORT when ready to deploy. 
-var server = app.listen(process.env.PORT, function () {
-   var host = server.address().address
-   var port = server.address().port
-   console.log("Listening @", host, port)
-})
+const port = process.env.PORT || 5000;
+app.listen(port, () => {
+  console.log('Express server listening on port', port)
+});
