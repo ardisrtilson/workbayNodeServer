@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server"
   },
   "keywords": [
     "workbay",
@@ -19,6 +19,7 @@
     "node-fetch": "^2.6.1"
   },
   "engines": {
-    "node": "12.18.2"
+    "node": "14.16.1",
+    "npm": "7.12.0"
   }
 }
