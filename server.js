@@ -11,8 +11,8 @@ app.get('/', function (req, res) {
    })
 })
 
-app.get('/endpointA', function (req, res) {
-   fs.readFile(__dirname + "/" + "uniqueSkills.json", 'utf8', function (err, data) {
+app.get('/courses', function (req, res) {
+   fs.readFile(__dirname + "/" + "courses.json", 'utf8', function (err, data) {
       res.end(data);
    })
 })
