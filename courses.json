@@ -1,3 +1,177 @@
+[
 {
-   "courseId": "atever"
-}
+   "courseId": "162708",
+   "courseTitle": "3ds Max: UVW Mapping",
+   "courseDesc": "UVW mapping allows you to take a mathematical, coordinate-based approach to mapping 2D textures to irregular 3D objects in 3ds Max. The tools might seem complex, but this course will help you master them and put UVW mapping to work in your own projects. Author Joel Bradley starts with the basics—defining UVW space and coordinates—and introduces the UVW Map modifier, the key to applying map coordinates and adjusting map placement. From there he looks at the source wrapping options in the bitmap and procedural map nodes, and at the differences when mapping to static and animated meshes. Chapter three covers the powerful Unwrap UVW modifier and its selection, peel-, and pelt-mapping tools. The course concludes with an overview of the options in the Edit UVW window.",
+   "url": "https://www.linkedin.com/learning/aicc",
+   "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A162708"
+},
+{
+    "courseId": "179589",
+    "courseTitle": "Inventor: Sheet Metal Design",
+    "courseDesc": "CAD software like Autodesk Inventor makes sheet metal design quick and cost-effective. This course shows designers how to use Inventor to plan, create, modify, and document sheet metal parts and assemblies. Author Thom Tremblay demonstrates how to set up your working environment, create flanges and other features with Inventor's specialized sheet metal tools, and modify parts—cutting, seaming, punching, and ripping as you go. He also shows how to reuse existing design features through the use of the fold operation. Finally, when your part is finalized and ready for manufacturing, let Thom show you how to document your design and get the flat pattern to production.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A179589"
+ },
+ {
+    "courseId": "365277",
+    "courseTitle": "Understanding Trade Secrets: A Deeper Dive",
+    "courseDesc": "What are trade secrets? How do companies protect them? How is trade secret law enforced? In this course, intellectual property lawyer Dana Robinson answers these questions and more. Find out how trade secrets can protect your idea from being stolen or disclosed and what is and isn't covered in a confidentiality or nondisclosure agreement (NDA). Learn what it means to misappropriate a trade secret and what employers can do to avoid liability.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A365277"
+ },
+ {
+    "courseId": "365278",
+    "courseTitle": "Understanding Patents: A Deeper Dive",
+    "courseDesc": "Want to patent your invention or technology—or avoid infringing on someone else's? Learn the defining characteristics of successful patents, including what is and is not patentable and the types of patents available. Lawyer Dana Robinson shows how to distinguish between good ideas that can be patented as well as good ideas that don't meet the strict requirements of patent law. He also outlines the process and timeline of the patent application process and explains how businesses can avoid infringing on existing patents with a simple search. DISCLAIMER: This course is taught by an attorney and addresses US law concepts that may not apply in all countries. Neither LInkedIn nor the attorney teaching the course represents you and they are not giving legal advice. The information conveyed through this course is akin to a college or law school course; it is not intended to give legal advice, but instead to communicate basic information to help viewers understand the basics of intellectual property.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A365278"
+ },
+ {
+    "courseId": "365279",
+    "courseTitle": "Understanding Rights of Publicity: A Deeper Dive",
+    "courseDesc": "In the US, everyone has rights over their own identity. No one can profit off your name or likeness without permission. But laws vary state to state, and so does what happens when rights of publicity (ROP) are licensed or infringed upon. This course answers the critical questions. What is ROP? What is the difference between ROP and copyright or trademark? How do you get ROP clearance or release? What is the length of time granted for an ROP release? How do you transfer ROP? And what constitutes fair use? Intellectual property lawyer Dana Robinson guides viewers through these complex questions and more. He also addresses what constitutes infringement and discusses recent cases on rights of publicity and the first amendment, covering issues such as using a domain name, username, hashtag, or other indicia of association with someone's name. DISCLAIMER: This course is taught by an attorney and addresses US law concepts that may not apply in all countries. Neither LinkedIn nor the attorney teaching the course represents you and they are not giving legal advice. The information conveyed through this course is akin to a college or law school course; it is not intended to give legal advice, but instead to communicate basic information to help viewers understand the basics of intellectual property.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A365279"
+ },
+ {
+    "courseId": "365281",
+    "courseTitle": "5-Day Drawing Challenge: Drawing Closer to Nature",
+    "courseDesc": "Drawing is for everyone. It just takes practice! Exercise your drawing skills and become better at seeing and capturing the world around you with Von Glitschka's 5-day drawing challenges. This installment asks you to reconsider the fascinating subjects Mother Nature provides and reinterpret them using your own imagination and a pen, pencil, or stylus. Von will assign a drawing challenge for each day. Take the time you need to finish each challenge, and then watch the video where Von shares his own hand-drawn solution. There are no right answers here; his solutions should serve as inspiration. For more encouragement, check out the chapter on staying inspired, featuring artist Oguzhan Secir. And don't forget to share your drawings via Twitter and Facebook! Use the hashtag #5daydraw.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A365281"
+ },
+ {
+    "courseId": "424043",
+    "courseTitle": "Design the Web: Creating a Pull Quote with CSS",
+    "courseDesc": "Learn to turn block quotes on your webpage into stylish pull quotes with nothing more than CSS. This episode of Design the Web shows how to style HTML quote elements and add quotation marks, citations, and photos with CSS styles and pseudo-elements. You'll also learn how to make responsive design adjustments for small screens. Chris Converse provides free exercise files for every installment of Design the Web. Download the files to practice styling pull quotes on your own website.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424043"
+ },
+ {
+    "courseId": "424044",
+    "courseTitle": "Design the Web: Creating CSS-Only Navigation Menus",
+    "courseDesc": "Did you know you can add dropdown menus to your webpage with nothing more than HTML and CSS? Typically interactive menus are accomplished with jQuery or another JavaScript framework. But the truth is, with CSS you can create the same rich experience, including full support for iOS and touch-screen Windows devices. In this installment of Design the Web, Chris Converse teaches us how to nest lists, style and position menus, add in ARIA markup for cross-compatibility, and make the menus fully responsive. The exercise files are free to all members! Download them today to start creating your own multilevel dropdown menus.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424044"
+ },
+ {
+    "courseId": "424045",
+    "courseTitle": "Creating a Responsive Web Design: Advanced Techniques",
+    "courseDesc": "Looking to take your responsive web design skills to the next level? Learn how to create collapsible menus and add scalable vector graphics (SVGs) to your layouts. Chris Converse shares advanced techniques to style mobile menus and graphics with HTML, CSS, JavaScript, and jQuery. These videos offer practical, start-to-finish tutorials to build more efficient and flexible webpages that can adapt to different screen sizes and orientations.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424045"
+ },
+ {
+    "courseId": "424046",
+    "courseTitle": "Creating a Responsive Web Design",
+    "courseDesc": "Discover how to use responsive web design to make your site more readable and efficient—on any device. Chris Converse shares his own specialized techniques for combining HTML and CSS into a web layout that can adapt to different screen sizes and orientations. The course takes the site from start to finish, from setting up the HTML page and containers to styling established elements for small, medium, and large screens. Along the way, Chris shows how to reposition the nav bar for better viewing on mobile devices, create animated transitions, and turn bulleted lists into interactive menus with full touch support. Plus, learn how to use CSS pseudo-elements and adapt layouts for print to save ink and paper. The exercise files for this course are free to all members. Download them and start creating your own responsive websites today.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424046"
+ },
+ {
+    "courseId": "424047",
+    "courseTitle": "Design the Web: Styling Form Elements",
+    "courseDesc": "Add your own style to HTML forms with CSS. This short course from Chris Converse's Design the Web series covers the basics of styling the color, font, and focus area of different form fields, as well as adding custom graphics to form layouts. Different browsers have their own artwork and indicators, but you can make a more consistent, personalized design in just a few steps. Download the free exercise files and start watching to learn how.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424047"
+ },
+ {
+    "courseId": "424049",
+    "courseTitle": "MASCHINE: Using KOMPLETE Sounds",
+    "courseDesc": "Native Instruments, makers of MASCHINE and the KOMPLETE suite of virtual instruments, have tightly integrated these two products. In this course, author JK Swopes will demonstrate how to use the pair for songwriting and music production, and configure your plugin preferences so you can browse, load, and use KOMPLETE sounds easily within MASCHINE. He also demonstrates how to create melodic elements, build beats, add effects, and build a song within MASCHINE using scene and pattern variations—all based on sounds from the KOMPLETE library.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424049"
+ },
+ {
+    "courseId": "424048",
+    "courseTitle": "Design the Web: CSS-Controlled SVG with PHP",
+    "courseDesc": "Learn how to use PHP, HTML, and CSS to dynamically modify styles in your scalable vector graphics (SVGs) in this installment of Design the Web—project-based courses for web professionals. Chris Converse explores techniques to modify the colors, visibility, and even stroke values of your images, using the PHP header function and query variables to modify CSS rules in an SVG. This technique is a great way to build a library of reusable graphics for any PHP-based website or content management system, including WordPress, Drupal, and Joomla! The exercise files are free to all members. Download them to start practicing this technique today.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424048"
+ },
+ {
+    "courseId": "577558",
+    "courseTitle": "How to Get a Job in Design",
+    "courseDesc": "Schools equip designers with the knowledge and skills they need to understand their craft and discover their own unique personal style. That said, many students are handed diplomas without having been taught how to grapple with the challenges of the design world that awaits them outside of school. In this course, Bonnie Siegler—the founder of respected design firms No. 17 and Eight and a Half—provides answers to designer's common questions about how to get a job. She explains how to introduce yourself, how to write a resume that makes sense, how to curate a portfolio that best showcases your work, and even how to manage your social media presence. Plus, she covers how to present yourself and your work at a job interview, and what to do after your interview. Essentially, Bonnie helps you understand what's important and what's not important when it comes to landing a design job.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A577558"
+ },
+ {
+    "courseId": "424050",
+    "courseTitle": "MASCHINE: Beat Making",
+    "courseDesc": "MASCHINE is the go-to technology for making beats. This course is your go-to guide. Join producer and instructor JK Swopes as he demonstrates how to create beats using MASCHINE's built-in sounds, expansions, and samples. He covers basic rhythmic theory, and MASCHINE's main features for altering the sounds of a performance, including swing, quantization, and velocity. Next, he moves into making beats with the built-in sounds and official MASCHINE expansions, and creating melodies, drum parts, bass lines, and percussion tracks. He also demonstrates how to add variety to your patterns and arrange your patterns into a full song structure. In Chapter 3, JK uses the same techniques to make a new sample-based track—a great way to make custom sounds you won't hear anywhere else. Start watching to learn how to make your own beats with MASCHINE.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A424050"
+ },
+ {
+    "courseId": "577559",
+    "courseTitle": "Dreamweaver CC New Features",
+    "courseDesc": "Discover the new features in Adobe Dreamweaver CC, the powerful web development and design software. This course covers the enhancements and additional tools added in the 2017 and 2018 MAX versions of Dreamweaver CC. David Powers begins with the streamlined Find and Replace bar, which is designed for quick find and replace operations. He also shows how to use find and replace in multiple documents, including advanced operations on a specific tag, as well as finding and selecting multiple elements in Code view. Next, he covers PHP support, explaining that Dreamweaver now supports PHP 7.1, and showing how to set the default version of PHP in Preferences, as well as how to set the version of PHP for an individual site. He wraps up with an overview of Dreamweaver CC 2018 MAX and the new undocking feature for Windows.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A577559"
+ },
+ {
+    "courseId": "2229236",
+    "courseTitle": "Designing a Training Program: Setting Goals, Objectives, and Mediums",
+    "courseDesc": "Discover how to create training programs for your organization that will be appealing to learners and have a lasting, positive impact on your organization. Instructor Karl Kapp covers how to use your own style and approach to create instruction that makes a real difference. Karl covers how to find out what your learners already know, ways to identify what will keep them truly engaged, and how to set goals that are clear to everyone. Finally, Karl shares methods for evaluating whether your training program was effective.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2229236"
+ },
+ {
+    "courseId": "2229237",
+    "courseTitle": "Azure for DevOps: Dependency Management",
+    "courseDesc": "As teams and projects grow, so do dependencies. Microsoft Azure offers dependency management tools to help DevOps teams maximize high availability and speed and minimize the risk of failure. This course covers DevOps management strategies utilizing Azure Artifacts, Azure Pipelines, and the most current security and compliance best practices. Instructor Gurinder Singh Mann explains why dependency management is so important on architecturally complex projects and how Azure Artifacts can simplify the process of creating, hosting, and sharing packages with your team—including publishing packages to your CI/CD pipelines. Plus, find out how to control access to Azure DevOps and secure open-source packages using the free developer tool, WhiteSource Bolt.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2229237"
+ },
+ {
+    "courseId": "2229238",
+    "courseTitle": "Querying Microsoft SQL Server 2019",
+    "courseDesc": "Discover how to query data from SQL Server tables. In this course, Adam Wilbert covers how to retrieve information stored in a Microsoft SQL Server database using the Transact-SQL (T-SQL) language. Learn the fundamental structure of a query and see how to manipulate data through the use of built-in functions, operators, filters, and other language features to return a dataset that's formatted to meet a wide variety of needs and perspectives. Upon wrapping up this course, you'll be equipped with the commands and keywords you need to know to effectively analyze your data.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2229238"
+ },
+ {
+    "courseId": "2229239",
+    "courseTitle": "Learning Shopify",
+    "courseDesc": "Want to start your own online business? Shopify is a trusted and popular hosted ecommerce solution that provides advanced store management in a remarkably clean and easy-to-understand package. You don't need to know HTML or PHP; all you need is an email address and a password to get started. This course takes you through the setup, configuration, publication, and management of your first online store using Shopify. Instructor Patrick Rauland helps you select a visual theme, set up products and inventory, collect payments, configure shipping, and manage orders with the Shopify dashboard. Along the way, he offers tips and best practices for running a successful online store.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2229239"
+ },
+ {
+    "courseId": "2832074",
+    "courseTitle": "Premiere Pro Guru: Understanding Video Compression",
+    "courseDesc": "Compression affects every aspect of video work. Compress too much, and you'll lose quality. Compress too little, and the file size is too big. Use the wrong compression, and your client cannot see the video at all. In this course, instructor Luisa Winters explains what compression is, how to use it, and how to optimize it to give your work the greatest impact. Learn how to finesse export settings in Premiere Pro and Adobe Media Encoder for the best-looking video.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2832074"
+ },
+ {
+    "courseId": "2832075",
+    "courseTitle": "Creating a Compelling Video Resume",
+    "courseDesc": "Video is dynamic, personal and powerful—so it’s no wonder that it’s becoming an important part of the job search process. Job seekers looking to stand out in a sea of applicants can create video resumes to showcase their personality, presence, and style. With the hiring process becoming increasingly remote, these videos can help job seekers make a memorable first impression. In this course, senior staff instructor Ashley Kennedy shows you how to create your own video resume, sharing best practices and expert tips along the way. To lend this process a real-world context, Ashley guides a job seeker through each step, showing them—and you—how to tackle scripting, setting up a recording environment, adjusting your performance and delivery, editing, and more. She also highlights situations when a video resume might not be your best option. Upon wrapping up this course, you'll be prepared to translate your own resume into a compelling video.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2832075"
+ },
+ {
+    "courseId": "2832076",
+    "courseTitle": "Using Red Giant Universe for Video Editors and Mograph Designers",
+    "courseDesc": "If you're an editor or motion graphics artist, Red Giant Universe is a massive upgrade to the effects available in your nonlinear editor or motion graphics application. In this course, Nick Harauz reveals the advantage of having this large arsenal of plugins on your side and how Red Giant Universe can simplify and expand your workflow options. Nick reviews his favorite plugins in the suite, including Glitch, Chromatic Aberration, Knoll Light Factory EZ, and Holomatrix. Learn how to use blurs, glows, transitions, generators, and other stylized effects to achieve exactly the look you want and work with large amounts of text with ease. Discover how to animate logos without keyframes, add a realistic grunge texture, and create and manipulate shapes. Plus, learn how to build an FUI display with the Universe HUD components and save your custom presets and stacked effects for sharing with other projects and colleagues. This course was created by Nick Harauz. We are pleased to offer this training in our library.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2832076"
+ },
+ {
+    "courseId": "2832077",
+    "courseTitle": "JavaScript Essential Training",
+    "courseDesc": "JavaScript is a scripting language of the web. As the web evolves from a static to a dynamic environment, technology focus is shifting from static markup and styling—frequently handled by content management systems or automated scripts—to dynamic interfaces and advanced interaction. Once seen as optional, JavaScript is now becoming an integral part of the web, infusing every layer with its script. Through practical examples and mini-projects, this course helps you build your understanding of JavaScript piece by piece, from core principles like variables, data types, conditionals, and functions through advanced topics including loops, and DOM scripting. Along the way, instructor Morten Rand-Hendriksen provides challenges that allow you to put your new skills to the test.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2832077"
+ },
+ {
+    "courseId": "2868004",
+    "courseTitle": "React Hooks",
+    "courseDesc": "React Hooks embed logic into functions in new React applications. In this course, instructor Eve Porcello covers various styles of Hooks usage and ways to integrate them into your programming workflow. She tells you how Hooks came to be part of the library, then walks you through how to install Create React App. Eve covers how you can use the useState Hook to handle different types of state variables and work with component trees. The useEffect Hook can be used for several application side effects, whenever the state of the app changes. Eve teaches you how to work with the dependency array effect and fetch data with the useEffect Hook. Next, she explains several additional Hooks and steps through the process of creating custom Hooks. In conclusion, Eve shows you some different directions you can pursue to improve your knowledge of the React ecosystem.",
+    "url": "https://www.linkedin.com/learning/aicc",
+    "urlParam": "account=urn%3Ali%3AenterpriseApplicationInstance%3A%28urn%3Ali%3AenterpriseAccount%3A109260298%2C117546986%29&content=urn%3Ali%3AlyndaCourse%3A2868004"
+ }
+]
