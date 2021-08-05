@@ -11,11 +11,6 @@ app.get('/', function (req, res) {
    })
 })
 
-const port = process.env.PORT || 5000;
-app.listen(port, () => {
-  console.log('Express server listening on port', port)
-});
-
 app.get('/endpointA', function (req, res) {
    fs.readFile(__dirname + "/" + "uniqueSkills.json", 'utf8', function (err, data) {
       res.end(data);
@@ -116,7 +111,7 @@ app.use('/users', function (req, res, next) {
 })
 
 // Set port to local port for debugging. Set to process.env.PORT when ready to deploy. 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT;
 app.listen(port, () => {
   console.log('Express server listening on port', port)
 });
