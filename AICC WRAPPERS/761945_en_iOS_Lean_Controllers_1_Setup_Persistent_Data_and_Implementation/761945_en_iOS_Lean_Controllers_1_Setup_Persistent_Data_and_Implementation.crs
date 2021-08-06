@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mohammad Azam
+Course_ID=761945
+Course_System=linkedin.com
+Course_Title=iOS Lean Controllers: 1 Setup, Persistent Data, and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to implement lean controllers when developing iOS applications. This course covers the setup process and how to work with persistent data. First, learn about the differences between massive view controllers and lean controllers. Next, find out how to design wireframes for an app, integrate the UI with data sources, and create custom views for an app. Then, see how to fetch data to populate in your tables and how to manage records. Finally, discover how to configure data sources and set up communications between data managers, data providers, and data sources.

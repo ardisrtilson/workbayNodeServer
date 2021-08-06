@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Brazzi
+Course_ID=2300010
+Course_System=linkedin.com
+Course_Title=Microsoft Teams for Team Owners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Teams is becoming a go-to tool for collaborating at work. Within Teams, individuals with the team owner role have access to controls and settings for team management that are not available to typical users or team members. In this short course, Nick Brazzi covers what you need to know to create and manage teams and channels in Microsoft Teams. Nick starts by showing how to create public, private, and org-wide teams, as well as how to set up tags that allow users to target messages to specific people. Next, he walks through the particulars of managing team members, including how to make other members team owners and remove people from a team. He also demonstrates how to manage team options and permissions, including how to use channel moderation to control who is allowed to make posts. To wrap up, Nick goes over tools for team owners in the Teams mobile app.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2810942
+Course_System=linkedin.com
+Course_Title=Excel VBA: Process Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel power users: Learn how to use Excel and Visual Basic for Applications (VBA) to create and run simulations of business processes for customer flow, queuing, and manufacturing. VBA exponentially extends the power of Excel, allowing you to control process flow and logic and add custom classes and variables. In this course, Curt Frye demonstrates how to build simulations of increasing complexity, which model the flow of customers through a multi-station process. Learn how to calculate arrival times, add customers, increase individual station capacity, and enable conditional station paths. At the end of the course, Curt shows how to convert output to an Excel table and analyze the results of your simulation.

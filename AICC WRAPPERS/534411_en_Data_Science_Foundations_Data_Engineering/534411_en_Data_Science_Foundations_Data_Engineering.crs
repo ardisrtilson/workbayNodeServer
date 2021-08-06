@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=534411
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Data Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Approach big data with confidence by mastering the core skills needed to put data to work for your business. This course covers the basics of data engineering, system design, analytics, and business intelligence. Data science expert Ben Sullins explains how to collect and organize your data so you can deliver results that your organization can leverage. Ben starts by examining the modern data ecosystem and how it relates to running a smart and efficient data hub. Then, he shows you how to perform the principle tasks involved in managing, loading, extracting, and transforming data. He also takes you through staging, profiling, cleansing, and migrating data. Along the way, he provides actionable recommendations that applicable to data experts throughout an organization—analysts, engineers, scientists, modelers, and more.

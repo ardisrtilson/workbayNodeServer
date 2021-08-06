@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2255010
+Course_System=linkedin.com
+Course_Title=ESLint: Customizing Styles
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Does your project style not adhere seamlessly to rules from a style guide? In this concise course—the second installment in the ESLint series—learn how to add and override rules to your ESLint configuration to ensure that you won't get flagged for errors that are really just aspects of your personal style. Instructor Sasha Vodnik shows how to customize your configuration by adding style rules to the predefined rules, as well as how to specify detailed configuration options for certain rules. Plus, learn how to identify and fix common configuration issues in ESLint.

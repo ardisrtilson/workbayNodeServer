@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=124391
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS Rendering with PhotoView 360
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How do you present a technical design in a way that everyone can understand? Try PhotoView 360, which makes it possible to create photorealistic renderings and animations with SOLIDWORKS Professional and Premium editions. In this course, Gabriel Corbett shows you how to transform a SOLIDWORKS model into a fully rendered animation. Learn how to apply materials and textures (including transparency and reflectivity) to parts and assemblies, set up the environment with cameras and lights, and render a final realistic image. The last chapter shows how to animate your scene and output the final video to share with your coworkers or clients.

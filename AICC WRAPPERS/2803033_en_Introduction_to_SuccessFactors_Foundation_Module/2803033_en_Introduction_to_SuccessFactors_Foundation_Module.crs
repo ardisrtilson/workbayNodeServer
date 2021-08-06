@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2803033
+Course_System=linkedin.com
+Course_Title=Introduction to SuccessFactors Foundation Module
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAP SuccessFactors Foundation—a key module in the SAP suite of HR enterprise software—boasts features that help organizations find and retain the best people. In this course, get a system-focused look at the module’s most notable capabilities, as well as practical use cases for each feature. See examples of how individuals in different roles—from managers to system administrators—experience SAP SuccessFactors Foundation functionality on both desktop and mobile. Learn the most essential concepts surrounding each feature and discover what to consider when implementing them. This course was created by Michael Management. We are pleased to offer this training in our library.

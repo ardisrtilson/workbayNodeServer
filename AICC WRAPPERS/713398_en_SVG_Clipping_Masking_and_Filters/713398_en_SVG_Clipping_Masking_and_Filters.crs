@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=713398
+Course_System=linkedin.com
+Course_Title=SVG: Clipping, Masking, and Filters
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do more with SVG. Many web designers and developers leverage the power of SVG for just that: Scalable Vector Graphics. But few realize that SVG also enables you to create code-based visual effects—the kind of graphics that used to be possible only in programs like Photoshop. Take a deep dive into the advanced visual features available in the Scalable Vector Graphics format, including clipping, masking, and filters, in this course with Morten Rand-Hendriksen. Learn how to use the clipPath, mask, and various filter elements to create clipping masks, alpha layers, and effects such as blurring and sharpening, color correction, extrusion, and advanced compositing. Morten includes a detailed breakdown of all the available filters in SVG, along with examples that show the advantages of code-based visual effects.

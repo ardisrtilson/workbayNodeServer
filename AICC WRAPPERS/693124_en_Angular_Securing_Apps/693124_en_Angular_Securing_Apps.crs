@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=693124
+Course_System=linkedin.com
+Course_Title=Angular: Securing Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular lets you build complex applications quickly, but these powerful applications can open the door to your most important systems. To keep your systems secure, you'll need to harden your authentication processes and make sure the other doors are closed, as well as keep a close eye on vulnerabilities as they emerge in the core framework and toolchain. In this project-based course, learn practical strategies and best practices for securing your Angular apps. Explore some of the most pressing security threats and how to prevent these issues from affecting your apps. This course also covers how to use JSON Web Tokens for single sign-on authentication in an Angular app.

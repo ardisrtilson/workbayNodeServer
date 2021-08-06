@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Wells
+Course_ID=746314
+Course_System=linkedin.com
+Course_Title=Unit Testing and Test Driven Development in Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Every software developer wants to ship high-quality applications. Test-driven development (TDD) is a key discipline that can help you enhance your development process—and, in turn, your code base—by ensuring that crashes and bugs are addressed early on. In this course, join Richard Wells as he covers unit testing and TDD for Python projects. Richard provides an overview of both unit testing and TDD, explaining why both are crucial for developers. He also shows how to set up your development environment for TDD and goes over the pytest unit-testing framework. Throughout the course, he shares best practices and provides examples and test cases that can help you gain a practical understanding of TTD in Python.

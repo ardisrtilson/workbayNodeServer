@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=2833055
+Course_System=linkedin.com
+Course_Title=Hardware Configuration for AutoCAD, Revit, and Inventor
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CAD software places heavy demands on computers and users. Designers will work for hours at a stretch in front of a computer. This course was designed help you make the most of that time by ensuring that you're using the software with the optimum hardware configurations. Instructor Shaun Bryant explains how to get your input hardware (mouse, keyboard, and monitor) optimized for use with AutoCAD, Revit, and Inventor. Shaun then discusses how the graphics processing unit (GPU) can make things run more smoothly for 2D and 3D operations. He covers how to configure the GPU in the Windows OS for AutoCAD, Revit, Inventor, and 3ds Max. Plus, learn how to render in the cloud with both AutoCAD and Revit.

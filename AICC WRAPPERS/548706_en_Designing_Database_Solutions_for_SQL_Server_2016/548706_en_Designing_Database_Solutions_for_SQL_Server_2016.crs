@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=548706
+Course_System=linkedin.com
+Course_Title=Designing Database Solutions for SQL Server 2016
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you're working with a team to design a SQL Server 2016 database solution for your organization, there are certain advanced concepts you need to know. In this course, Adam Wilbert introduces you to some of the concepts you'll need to design elegant database solutions that set up your team for success. He covers how to prepare the server for efficient usage, use backup strategies to minimize the impact of a failure, and follow security concepts to ensure users are granted the appropriate permissions for their roles. Plus, Adam covers some of the optimization strategies you can implement in SQL Server to help the system run smoothly in the future. This course maps to the Microsoft Certified Solutions Expert: Data Platform exam, Designing Database Solutions for SQL Server. If you're planning on taking this exam, this course is a good place to start your test preparation.

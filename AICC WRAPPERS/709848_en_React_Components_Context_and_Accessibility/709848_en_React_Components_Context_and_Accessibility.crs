@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eve Porcello
+Course_ID=709848
+Course_System=linkedin.com
+Course_Title=React: Components, Context, and Accessibility
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you've mastered the foundations of the React framework and its supporting architecture, you can start taking advantage of more sophisticated features that enable faster and more accessible applications. In this course, learn about the enhancements found in React 16 and how to leverage key features to build better React apps. Explore advanced components and patterns that can help you structure your applications more cleanly. Instructor Eve Porcello also shows how to use the context API, build accessible semantic content, and more.

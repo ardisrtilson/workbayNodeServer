@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul Hacker
+Course_ID=769288
+Course_System=linkedin.com
+Course_Title=Continuous Delivery with Azure DevOps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure DevOps can help you achieve faster time to market, aligning people, processes, and technology for optimum flow. In this course, instructor Paul Hacker, a practicing Azure DevOps architect, shows you how you set up a continuous deployment pipeline in Azure DevOps. Learn why the DevOps approach to software is so useful for modern organizations, and get a complete overview of the different stages and tasks of the Azure-based release pipeline. Discover how to set up your Azure environment, install and configure release agents, and run automated CI builds, and set up the pipeline. Finally, Paul shows the CI/CD solution in action, as he walks you through the complete deployment experience.

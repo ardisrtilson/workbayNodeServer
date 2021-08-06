@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=184455
+Course_System=linkedin.com
+Course_Title=Advanced 3ds Max and Maya Integration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Maya and 3ds Max are two of the most widely used commercial software packages for 3D graphics. Artists and studios commonly leverage the strengths of both toolsets, resulting in production pipelines that use more than one package. Whether you're switching to one of these programs, using both at the same time, or simply need to move assets back and forth, this course illustrates invaluable techniques and best practices for integrating these two powerful Autodesk applications. Aaron F. Ross shows how to manage assets, harmonize the interfaces and preferences, and transfer data, materials, and scenes, making the transition between Maya and 3ds Max as seamless as possible.

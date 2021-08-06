@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=734642
+Course_System=linkedin.com
+Course_Title=Azure Machine Learning Development: 2 Learning ML Studio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You don't need to have an advanced degree to take advantage of artificial intelligence. Azure ML Studio brings custom AI capabilities into any developer's hands. There's no special software or hardware required; all you need is a browser and an Azure account. This course shows how to solve complex data analysis challenges—such as multi-class classification—using Azure ML Studio. Instructor Sahil Malik explains how to clean up your data to meet quality standards, create experiments, evaluate the results, and train and deploy the model as a simple web service that can be called via HTTP. By the end of the training, you'll be familiar with the basic developer tools behind Azure ML Studio and be able to use them to design your own machine learning experiments.

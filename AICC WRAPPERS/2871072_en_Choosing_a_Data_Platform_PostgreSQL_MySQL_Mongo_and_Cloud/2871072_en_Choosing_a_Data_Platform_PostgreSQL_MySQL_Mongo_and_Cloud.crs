@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Amataverna Lee
+Course_ID=2871072
+Course_System=linkedin.com
+Course_Title=Choosing a Data Platform: PostgreSQL, MySQL, Mongo, and Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are a lot of different databases out there with their own pros and cons. It’s important to know what your options are. In this course, instructor Amataverna Lee covers PostgreSQL, MySQL, Mongo (a NoSQL database), and several cloud-based databases, to help you choose what will be best for you. You’re likely to encounter PostgreSQL in your career, so it’s important to be familiar with this type of database and how it differs from other types. MySQL is one of the most popular SQL dialects used today, so this is another important one to understand. Amataverna introduces you to Mongo, a nonrelational database that does not use SQL, and shows you some tools that you would need to use in Mongo. She also goes over several popular cloud-based options: Snowflake, Snowsight, Amazon Web Services (Redshift and S3), and Google Cloud Platform. With an understanding of these options, you can make a more informed choice on what is best for you.

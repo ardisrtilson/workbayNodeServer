@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anne Grundhoefer
+Course_ID=624357
+Course_System=linkedin.com
+Course_Title=Creating a Design System with Sketch
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Why reinvent the wheel? Design systems provide software designers and developers with a library of proven, reusable design patterns. They enhance team collaboration and bring consistency to the user experience. Learn the nuts and bolts of creating a design system in Sketch, the leading tool for UX and web design. Instructor Anne Grundhoefer builds in nested symbol-level management, color overrides and font styles, reusable icons, and interactive button and form field systems. She also helps you identify what components your organization needs by breaking down the existing product line.

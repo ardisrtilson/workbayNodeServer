@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Benkovich
+Course_ID=664822
+Course_System=linkedin.com
+Course_Title=Azure Enterprise Development: 1 Governance and Infrastructure Deployments
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Azure combines infrastructure with the tools and analytics you need to build, deploy, and manage virtual machines and applications in the cloud. It offers all of this and more, on a scalable, highly available basis. In this course, software architect and former Microsoft evangelist Mike Benkovich explains the benefits of Azure and reveals the ways companies can get the most value from their subscriptions. Learn best practices for resource governance with resource groups, policies, tags, and role-based access control. Discover how to configure the infrastructure you need by provisioning virtual machines and creating virtual networks that connect your existing data centers to the cloud. Review the Azure disaster recovery features, and then learn how to use templates and automation to provision and deploy services more efficiently and consistently. By the end of this overview, you will better understand the potential Azure has and be able to get the most value from the cloud. Watch part two of the series to learn how to modernize your apps with application services and the Azure PaaS offerings.

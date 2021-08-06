@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2822348
+Course_System=linkedin.com
+Course_Title=WordPress: REST API
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers can interact remotely with a WordPress site from a client-side or external application by using the WordPress REST API. Using JSON objects, this API allows you to create and send content to a site, request information from a site, update existing content, and even create single-page applications on top of WordPress. In this course, instructor Morten Rand-Hendriksen takes a detailed look at the WordPress REST API, explaining what it is and how you can use it to build experiences both inside WordPress and in standalone third-party apps. Morten begins by providing an in-depth look at how the REST API works, discussing how it allows clients to access the data in a WordPress site without going to the WordPress site itself. He demonstrates the use of routes, endpoints, requests, responses, and more. Plus, he provides several practical examples of how the WordPress REST API can be used in the real world.

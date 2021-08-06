@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=5043103
+Course_System=linkedin.com
+Course_Title=React for Web Designers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You don't have to start from scratch with React. This super popular JavaScript framework can make your existing websites and apps even better, with very little overhead. In this course, learn practical ways to incorporate React in real-world web designs. Instructor Joe Chellman introduces three small projects that benefit from React: a product manager that showcases React state, props, and events; an employee directory; and a status board that uses React to make external API calls. Each project demonstrates what makes React most interesting and useful to web designers and provides solutions for dealing with the few unique challenges.

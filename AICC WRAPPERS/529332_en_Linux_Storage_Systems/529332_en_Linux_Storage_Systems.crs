@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Dankwardt
+Course_ID=529332
+Course_System=linkedin.com
+Course_Title=Linux: Storage Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Managing storage in Linux involves both conceptual understanding of volumes and partitions, RAID, and Linux file systems, as well as hands-on knowledge of how to accomplish important tasks involving storage. This course shows how to deal with these topics and many different storage scenarios, including clustering, high availability, and security. Kevin Dankwardt shows how to create, mount/unmount, and format file systems including ext4, XFS, and Btrfs; use the Logical Volume Manager (LVM); enforce security with SELinux and access control lists; swap space; back up and recover Linux storage; and work with networked files systems—distributed, clustered, and FUSE based—like SSHFS. These are essential skills for any Linux admin, especially those who desire Linux Foundation Certified System Administrator (LFCS) certification.

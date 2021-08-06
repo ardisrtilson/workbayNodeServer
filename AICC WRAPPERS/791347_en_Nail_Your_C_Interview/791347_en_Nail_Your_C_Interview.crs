@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Erin Colvin
+Course_ID=791347
+Course_System=linkedin.com
+Course_Title=Nail Your C++ Interview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Applying for C++ programming jobs? Find out what questions to expect in your developer interview and how to answer them to demonstrate mastery of key concepts. Erin Colvin explores the kinds of questions you can anticipate in a typical interview, including topics such as the advantages of object-oriented programming and a review of the inner workings of several core data types. Dive into the nuances of how char values are stored in strings, learn how to find elements in an array, and discover how to use abstract data types such as linked lists, stacks, and queues to solve challenges. Plus, learn how to spot and explain the differences between C and C++ and answer technical questions related to classes. Along the way, Erin offers candid career advice based on her years of experience working as a developer, certified ethical hacker, and computer science instructor.

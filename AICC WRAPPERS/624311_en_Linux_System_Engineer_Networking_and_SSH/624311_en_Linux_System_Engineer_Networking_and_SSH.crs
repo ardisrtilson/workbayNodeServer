@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=624311
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Networking and SSH
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Study to pass the RHCE—the benchmark certification for Red Hat Enterprise Linux. Watch this course to prepare for the networking and Secure Shell (SSH) topics covered by the exam. Instructor Grant McWilliams provides an overview of Linux networking and key commands and tools for gathering information about your network, including Network Manager's command-line tools nmcli and nmtui. Grant also teaches the iproute2 commands such as ip and nstat, and cross-references them with legacy tools. Learn how to use ip, nmcli, nmtui, netstat, nstat, ss, arp, and dig to get statistics and analyze data, and change live and saved network configuration settings. Grant shows how to create a custom ifcfg-ethx file for manual network configuration and uses systemd to configure the hostname. He then shows how to connect to and configure Secure Shell (SSH), wrapping with a look at SSH security and SSH tips and tricks that will help you optimize SSH and execute commands remotely.

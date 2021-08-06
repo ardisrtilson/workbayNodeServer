@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=794147
+Course_System=linkedin.com
+Course_Title=Web Security: Same-Origin Policies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In network communications, knowing where something came from can often be as important as what it contains. Browsers can be particular about this, sometimes surprising developers when things can't be reached or connected. In this course, learn how same-origin policies play an important role in web security, so you can develop secure, interactive sites. Find out how to build Ajax requests using headers that affect the origin, how to work with server-only cookies, how to create secure communications between browser windows or tabs from the same origin, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bob Bryla
+Course_ID=2815158
+Course_System=linkedin.com
+Course_Title=Learning Oracle Database 19c
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with Oracle Database 19c, the latest version of the popular relational database management system (RDBMS), and learn how it can help enhance your database design and deployment process. Throughout this course, instructor Bob Bryla covers the fundamentals of administering Oracle Database 19c. Discover how to install the RDBMS on Linux, manage the database and query tables using the SQLcl command-line tool, and efficiently move data in and out of your database tables using SELECT and DML statements, respectively. Plus, learn how to create, assign, and drop tablespaces, as well as how to create and drop user accounts.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=721904
+Course_System=linkedin.com
+Course_Title=Blockchain: Learning Solidity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blockchain is a buzzword, but it's also a very powerful technology that allows everyday users to exchange sensitive data without a middleman. Programmers can leverage the blockchain in their applications using Solidity, a programming language for the Ethereum platform. This course teaches you how to build a simple contract-based application with Solidity. Emmanuel Henri starts with the basics of blockchain and smart contracts: self-executing transactions written directly in code. You can then learn all about the Solidity ecosystem, including syntax and advanced concepts such as source mappings, then apply them to build your very first contract.

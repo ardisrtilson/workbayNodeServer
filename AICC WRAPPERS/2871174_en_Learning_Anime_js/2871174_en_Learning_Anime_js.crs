@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Maryam Hanafiah
+Course_ID=2871174
+Course_System=linkedin.com
+Course_Title=Learning Anime.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For JavaScript developers, creating animation through CSS properties can seem alien, while specifying every detail in JavaScript can be verbose. Anime.js provides JavaScript developers with an easy set of tools for creating animations by scripting CSS and other changes. In this course, instructor Maryam Hanafiah explains how to animate HTML and SVG through JavaScript, including techniques to polish your animations. Maryam shows you how to get started animating simple objects, manipulating animation values, and defining animation parameters. She covers how to use easing and staggering for more natural movement, then concludes with a discussion on adding basic animation controls and scrolling controls.

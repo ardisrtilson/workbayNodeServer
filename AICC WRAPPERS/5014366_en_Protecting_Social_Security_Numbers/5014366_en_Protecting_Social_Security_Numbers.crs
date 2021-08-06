@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=5014366
+Course_System=linkedin.com
+Course_Title=Protecting Social Security Numbers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Social security numbers (SSNs) are one of the most sensitive pieces of personally identifiable information. If your organization stores SSN data, it has a responsibility to make sure it is secure—or face serious legal and financial repercussions. Learn how you can create a policy-driven program to protect social security numbers from unauthorized use. Instructor Mike Chapple explains how you can develop a company policy around the use of SSNs, identify SSN stores throughout your business, eliminate SSNs that you don’t need, and protect those that you must retain. By the end of the course, you’ll have the tools and techniques you need to help your organization protect the valuable information entrusted to its care.

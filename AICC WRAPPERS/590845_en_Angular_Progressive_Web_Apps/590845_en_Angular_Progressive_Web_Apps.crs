@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Maximiliano Firtman
+Course_ID=590845
+Course_System=linkedin.com
+Course_Title=Angular: Progressive Web Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers are realizing that making responsive sites solves part of a user's interaction needs, but more and more users are seeking app-like experiences regardless of what browser or device they use. Progressive web apps (PWAs) fit any form factor, are connectivity independent, and feel like an app because of how the app shell separates its treatment of functions and content. This course covers how to create PWAs using Angular. Instructor Maximiliano Firtman takes you through the steps of upgrading an enterprise-style application to a PWA. First, he discusses the preparation steps involved. Then, he explains how to lay out and create the user interface. Next, he demonstrates how to get your application to connect to web services. Maximiliano also show how to make sure your PWA is installable, followed by how to leverage service workers for going offline.

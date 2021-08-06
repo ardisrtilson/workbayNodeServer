@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=397390
+Course_System=linkedin.com
+Course_Title=Revit: Architectural Families
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Revit families are an incredible feature, offering libraries of ready-made objects that can be used in CAD drawings or customized to fit any project. Families can also be modeled from scratch and shared with colleagues and clients. This course dives into Revit architectural families, a specific family type for architecture and building information modeling. Author Eric Wing shows how to model families that help you build exactly what you need for your drawings. Eric investigates profiles such as chair rails, baseboards, doors, cabinets, and shelving, as well as adaptive components. Along the way, he introduces the reference planes, parameters, and formulas necessary to build architectural families on your own.

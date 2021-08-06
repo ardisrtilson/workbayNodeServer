@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Marjieh
+Course_ID=718630
+Course_System=linkedin.com
+Course_Title=Reverse Engineering Foundations: Product Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you need to work with an older design that predates CAD, or design an accessory for a third-party product? If so, then this course is for you. Join instructor Steven Marjieh as he acquaints you with the fundamentals of reverse engineering, which allows you to infer a model from an object and work with it in your own designs. Learn how to use physical measurement, 3D scanning, and touch probes to measure real-world objects and work with them in your CAD tool of choice. Plus, learn how to best approach the post-processing of scan data, including how to inspect the final parts and verify that they're correct.

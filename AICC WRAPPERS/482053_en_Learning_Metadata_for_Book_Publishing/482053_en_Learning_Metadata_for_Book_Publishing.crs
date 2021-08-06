@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joshua Tallent
+Course_ID=482053
+Course_System=linkedin.com
+Course_Title=Learning Metadata for Book Publishing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Metadata is the backbone of the book publishing industry. Without it, publishers can't sell books to retailers, and book sales suffer tremendously. And with the rise of ebooks, it's even more important for publishers and self-published authors to understand how to create quality metadata to help make their books more discoverable online. In this course, you'll learn everything you need to know about book metadata, including how to create XML markup and ONIX files, the international standard for representing and communicating book industry product information in electronic form. Joshua Tallent helps you understand how to create tags for titles, series, authors, categories, keywords, physical specifications, prices, and ISBNs. Plus, learn how to add information necessary for selling ebooks, and get real-world examples of how this data is used by retailers.

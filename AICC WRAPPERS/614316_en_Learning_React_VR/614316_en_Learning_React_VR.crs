@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=614316
+Course_System=linkedin.com
+Course_Title=Learning React VR
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers who want to create virtual reality worlds have a new option: React VR. Facebook has extended its innovative JavaScript library, React, to immersive 3D. This new framework lets you deliver powerful VR experiences over the web, for a variety of devices, using declarative components. Join Emmanuel Henri in this course for an introduction to React VR. Learn how to work with the 3D coordinate system and transform commands; add and position primitives, static images, and models; integrate sound; and add interactivity such as clickable buttons. Emmanuel also provides some inspiration for taking the 360-degree panorama you build in the course to the next level, using your new React VR skills.

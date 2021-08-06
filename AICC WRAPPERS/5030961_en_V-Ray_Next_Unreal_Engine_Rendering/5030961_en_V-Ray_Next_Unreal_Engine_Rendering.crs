@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=5030961
+Course_System=linkedin.com
+Course_Title=V-Ray Next: Unreal Engine Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The V-Ray Next render engine inside Unreal is a game changer, offering offline and real-time rendering for a variety of 3D projects, including architecture, animation, film, and product design. This course introduces you to the rendering workflow in V-Ray Next, including lighting, texturing with custom and third-party materials, rendering desired elements, and even compositing them with a post-production tool like After Effects. Instructor Brian Bradley also provides a tour of V-Ray Frame Buffer, the display window that allows you to perform color corrections and apply interactive lens effects, as well as high-quality light baking for real-time rendering.

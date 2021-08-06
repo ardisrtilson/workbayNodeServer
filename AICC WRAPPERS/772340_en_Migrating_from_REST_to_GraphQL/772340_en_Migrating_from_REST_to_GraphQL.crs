@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=772340
+Course_System=linkedin.com
+Course_Title=Migrating from REST to GraphQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Why use GraphQL over REST APIs? GraphQL is better at querying multiple databases, offers an easy-to-learn syntax, and allows you to retrieve only the data you need. Learn when you should migrate from REST to GraphQL, and how to convert your REST API add, update, and delete operations into GraphQL mutations. Instructor Emmanuel Henri also explains how to build simple, useful queries; use arguments, fragments, and aliases in queries; and perform operations using GraphQL.

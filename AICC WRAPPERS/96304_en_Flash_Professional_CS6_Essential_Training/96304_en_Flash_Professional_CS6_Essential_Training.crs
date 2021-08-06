@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anastasia McCune
+Course_ID=96304
+Course_System=linkedin.com
+Course_Title=Flash Professional CS6 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course provides a solid foundation in Adobe Flash Professional CS6 and shows how to create an assortment of Flash content. Author Anastasia McCune explains the different destinations for Flash projects—mobile devices, the desktop, or the web—and where ActionScript fits into it all. She shows how to create a new project, structure document layers and arrange objects on the Timeline, and how to get started drawing basic shapes and incorporate text, images, audio, and video. The course also explains the different types of symbols and tweens in Flash, and how to use them to build and animate content. The final chapters outline the publishing options available for Flash projects, including Adobe AIR.

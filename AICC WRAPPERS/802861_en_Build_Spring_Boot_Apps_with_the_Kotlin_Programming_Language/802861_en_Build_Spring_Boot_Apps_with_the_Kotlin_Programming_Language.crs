@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Greencroft
+Course_ID=802861
+Course_System=linkedin.com
+Course_Title=Build Spring Boot Apps with the Kotlin Programming Language
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kotlin is an exciting programming language that's concise, has immutable variables, and almost always gets rid of null pointer exceptions. If you're a Java developer looking to get started with Kotlin, then this course is for you. Join instructor Matt Greencroft as he demonstrates how to build high-quality Spring Boot applications with Kotlin, specifically the version of Kotlin that runs on the Java Virtual Machine (JVM). As Matt covers a range of key concepts—from classes to loops—he explains how each Kotlin feature compares to the equivalent one in Java.

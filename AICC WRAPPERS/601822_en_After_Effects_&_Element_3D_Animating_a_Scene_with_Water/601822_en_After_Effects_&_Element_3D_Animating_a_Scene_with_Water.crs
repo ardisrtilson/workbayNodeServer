@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ran Ben Avraham
+Course_ID=601822
+Course_System=linkedin.com
+Course_Title=After Effects & Element 3D: Animating a Scene with Water
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create an animated shower scene for a product visualization inside Adobe After Effects. The complete scene features a chrome showerhead, water streams, steam, and a realistic background—all built in true 3D space with Element 3D, an AE plugin that makes it easy to build 3D objects and particle systems. Explore different shooting angles with the scene camera, and learn to add a depth-of-field camera. Discover how to completely automate the stream speed and thickness in a very natural looking way, all with sliding controllers. Then turn that effect into multiple similar (but not identical) streams, for a realistic shower spray. This is a project-based learning experience. Each step of the process is rich with object lessons that are applicable to the variations that a motion design and compositing artist will face in the real world.

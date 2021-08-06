@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=2822585
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Data Assessment for Predictive Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CRISP-DM, the cross-industry standard process for data mining, is composed of six phases. Most new data scientists rush to modeling because it's the phase in which they have the most training. But whether the project succeeds or fails is actually determined far earlier. This course introduces a systematic approach to the data understanding phase for predictive modeling. Instructor Keith McCormick teaches principles, guidelines, and tools, such as KNIME and R, to properly assess a data set for its suitability for machine learning. Discover how to collect data, describe data, explore data by running bivariate visualizations, and verify your data quality, as well as make the transition to the data preparation phase. The course includes case studies and best practices, as well as challenge and solution sets for enhanced knowledge retention. By the end, you should have the skills you need to pay proper attention to this vital phase of all successful data science projects.

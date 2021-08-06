@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=753909
+Course_System=linkedin.com
+Course_Title=PowerShell: Scripting for Advanced Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use PowerShell for Desired State Configuration (DSC) and other advanced automation for Windows Server. In this course, instructor Scott Burrell helps IT professionals bolster their PowerShell skill sets by demonstrating how to use it to automate some of the more advanced parts of their Windows network. Here, Scott covers scripting for DSC and role-based administration using Just Enough Administration (JEA). Plus, he goes over how to use PSScriptAnalyzer to run quality control on PowerShell scripts.

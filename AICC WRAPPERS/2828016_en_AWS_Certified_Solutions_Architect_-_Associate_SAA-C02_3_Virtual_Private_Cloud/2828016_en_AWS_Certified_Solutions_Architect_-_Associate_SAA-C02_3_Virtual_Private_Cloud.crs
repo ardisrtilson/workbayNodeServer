@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2828016
+Course_System=linkedin.com
+Course_Title=AWS Certified Solutions Architect - Associate (SAA-C02): 3 Virtual Private Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Preparing for the AWS Certified Solutions Architect - Associate (SAA-C02) exam? This course is part of a nine-part series—completely updated for 2020—that prepares you to ace the critical qualifying exam. In this course, review a key subject covered on the test: Amazon Virtual Private Cloud (VPC), the networking layer for Amazon Elastic Compute Cloud (EC2). Instructor Tom Carpenter begins by providing an overview of creating and configuring VPCs, and then dives into a deeper discussion of networking infrastructure, including VPC peering. Plus, learn how AWS security groups work in tandem with network address translation (NAT) and gateways to secure your VPC. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

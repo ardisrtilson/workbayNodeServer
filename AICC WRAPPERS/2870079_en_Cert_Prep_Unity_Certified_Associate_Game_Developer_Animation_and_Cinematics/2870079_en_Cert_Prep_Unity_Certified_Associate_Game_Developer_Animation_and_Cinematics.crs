@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2870079
+Course_System=linkedin.com
+Course_Title=Cert Prep: Unity Certified Associate Game Developer Animation and Cinematics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity boasts powerful animation features that can help you bring characters and objects to life. In this course, instructor Alan Thorn gets you acquainted with the game engine’s animation capabilities as he prepares you for the user animation and cinematics portion of the Unity Certified Associate: Game Developer exam. Learn how to create animations and work with animation events, as well as how to import character models and rigs from third-party applications. Plus, see how to use timelines to create cinematic sequences, work with multiple objects and characters, and leverage Cinemachine to build virtual cinematography that adds an extra layer of drama to your games.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2832013
+Course_System=linkedin.com
+Course_Title=SAP BI/BW: Project Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a hands-on guide showing how to go from the theoretical capabilities of SAP Business Intelligence (BI) and Business Warehouse (BW) to the nitty-gritty of building real-world solutions. Learn how to organize data with InfoObjects, build catalogs and collections, aggregate data from multiple sources in a DataSource, trigger calls for data into a Persistent Staging Area (PSA), and add and edit data in a DataStore object (DSO). You can also see how to manage organization methods and perform operations in an InfoCube. Plus, learn to exponentially speed up your data processing workflows with automation and perform data analysis in SAP BW. This course was created by Michael Management. We are pleased to offer this training in our library.

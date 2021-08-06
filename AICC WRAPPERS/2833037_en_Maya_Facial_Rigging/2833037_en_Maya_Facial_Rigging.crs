@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2833037
+Course_System=linkedin.com
+Course_Title=Maya: Facial Rigging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rigging is a crucial step in character development and animation. A rig is the interface that dictates how your character moves and acts. And nowhere is this more important than the face: the window to your character's inner life. This course teaches you how to rig facial features for natural movement and expression using one of the leading 3D toolsets: Autodesk Maya. Instructor George Maestri shows how to prepare an existing model for rigging, use blend shapes to morph different facial features, and add joints to manipulate the face. He then dives into a real-world project, taking a model and rigging the head, eyes, and mouth controls. Finally, get tips for using different kinds of tools—constraints and clusters—to provide even more fine-grained control over facial movement.

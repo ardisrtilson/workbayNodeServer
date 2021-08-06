@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=711822
+Course_System=linkedin.com
+Course_Title=MATLAB 2018 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to analyze data using one of the most powerful statistical software packages available: MATLAB 2018. MATLAB is a highly useful tool for complex computation as it allows high-order calculations and analysis in matrices. In fact, it treats all of its data as vectors and matrices, so the course starts with a basic linear algebra tutorial outside of the program before describing essential analytical skills performed using MATLAB. Instructor Curt Frye covers creating MATLAB scripts, accepting user input, extending MATLAB with user-defined functions, controlling flow with conditional logic and loops, managing text strings and other data structures like numbers, performing advanced plotting, and summarizing data using statistical analysis functions. By the end of the course, data scientists such as engineers and economist should be able to effectively use MATLAB for numerical analysis, data modeling, and data visualization.

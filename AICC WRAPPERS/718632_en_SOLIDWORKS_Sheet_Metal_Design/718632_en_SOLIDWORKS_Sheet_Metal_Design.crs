@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=718632
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Sheet Metal Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CAD software like SOLIDWORKS makes sheet metal design quick and cost effective. This course gets you up to speed with the sheet metal tools in SOLIDWORKS, and takes you on a trip to the factory floor to see the final manufactured results. Instructor Gabriel Corbett shows what goes on behind the scenes and provides tips on designing parts for the real world. First, review the sheet metal tools in SOLIDWORKS and the properties that make sheet metal unique: bend radius, K-factor, bend deduction, gauge thickness, and more. Then learn how to create basic parts, with base features, flanges, and bends that add strength and connections. Find out how to flatten parts and add holes, cuts, and corners that are manufacturing ready, and use the Convert to Sheet Metal command to convert imported geometry into native sheet metal parts. Gabriel also shows you how to create assemblies from multiple parts, use the Pattern and Mirrors tools to effortlessly duplicate existing work, and then document your designs with detailed sheet metal drawings. Watch the bonus videos to learn about the different machinery and processes that occur during manufacturing.

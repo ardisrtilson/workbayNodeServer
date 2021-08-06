@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bobby Owsinski
+Course_ID=110288
+Course_System=linkedin.com
+Course_Title=Mastering for iTunes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this free bonus course, author and recording engineer Bobby Owsinski explains best practices for mastering music and audio destined for sale on Apple iTunes with their new Mastered for iTunes high-resolution audio program. Bobby demonstrates how to use all of the Mastered for iTunes and iTunes Plus tools used in this process, such as AURoundTripAAC, which allows you to instantly compare the quality of the iTunes Plus AAC file format to your source file. He wraps up with an explanation of the Test Pressing feature, which allows you to preview and approve the encoded file before it's published on the iTunes Store.

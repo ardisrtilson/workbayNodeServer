@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Callahan
+Course_ID=433941
+Course_System=linkedin.com
+Course_Title=Creating Fixed-Layout Ebooks for the Kindle
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fixed-layout ebooks for the Kindle aren't difficult to make. Once you know how the Kindle format works and have a familiarity with InDesign, HTML, and CSS, and a little bit of Photoshop, you're on your way to creating a beautiful ebook. The process is similar whether you're adapting a print design or creating an ebook from scratch. This course walks members through what fixed layout means, and what makes a good fixed-layout ebook for the Kindle. Author Kevin Callahan shows how to prepare an InDesign file for ebook output, export the text and image assets, add them to the Kindle template, and build in special features such as region magnification, pop-ups, and media queries that adjust your book's display to the reader's device. Plus, learn how to test and future-proof your files and upload your ebook to the Kindle Store with the Kindle Previewer.

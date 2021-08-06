@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Oliver
+Course_ID=540343
+Course_System=linkedin.com
+Course_Title=Adding Stripe Payments to Your Ruby on Rails Application
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Add Stripe to your Ruby on Rails application to collect payments from your users. Stripe allows developers to add Payment Card Industry-compliant ecommerce functionality without having to implement complicated security. The result is an efficient and secure app experience, with fully encrypted token-based transactions that allow you to charge for content on a monthly or annual basis. In this course, Chris Oliver teaches you how to build a Rails app with paid content, securely collect credit card numbers, charge your users for a subscription to your site, and give them access to the paid content, all with Stripe.js and the Stripe Ruby gem. You'll also learn how to allow customers to unsubscribe and resubscribe from the app, and create PDF receipts for charges.

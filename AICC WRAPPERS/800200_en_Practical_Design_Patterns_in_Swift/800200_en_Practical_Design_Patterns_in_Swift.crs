@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Károly Nyisztor
+Course_ID=800200
+Course_System=linkedin.com
+Course_Title=Practical Design Patterns in Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The “Gang of Four” software design patterns have been around for decades. There’s a good reason they’re still so popular today. These patterns embody proven best practices that result in more functional, robust, and future-proof code. In this course, instructor Károly Nyistor teaches you how to implement the most useful design patterns in Swift, using features like protocol-oriented programming, type extensions, and value types. Learn about their benefits and limitations and then explore each group of patterns in detail. Károly reviews creational patterns such as Singleton, Prototype, and Factory Method; structural patterns including Adapter, Façade, and Proxy; and behavioral patterns such as Chain of Responsibility, Iterator, Observer, and State. Each tutorial includes coding examples that show how to implement the patterns in real-world projects.

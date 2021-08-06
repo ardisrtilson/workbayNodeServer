@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=478375
+Course_System=linkedin.com
+Course_Title=Microsoft Exchange Server 2016: Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Businesses run on email—and 80% of on-premise email runs on Microsoft Exchange. Despite the popularity of cloud-based solutions, email server administration is still a critical skill for any system admin. Learn how to maintain, monitor, and troubleshoot an Exchange Server 2016 environment in this course with networking consultant Robert McMillen. Robert concentrates on core skills and day-to-day activities, such as configuring mailboxes, delegates, and distribution lists; setting permissions; managing and troubleshooting transport (aka mail flow); designing a service-level agreement for downtime, RPO/RTO, and delivery; and backing up and recovering mailbox databases and roles. Plus, learn how to use clustering and database availability groups (DAGs) to promote high availability and troubleshoot common Exchange issues. Need to set up Exchange Server for the first time? Check out Robert's previous course, Deploying Exchange Server 2016. Note: This course maps to the certification exam for Exchange Server 2016. Review the course and exam blueprint for the Exchange Server 13 exam here and here.

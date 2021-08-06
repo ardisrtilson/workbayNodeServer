@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Victor Mejia
+Course_ID=2810170
+Course_System=linkedin.com
+Course_Title=Angular: Cloud-Powered Apps with Firebase
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to learn how to quickly build apps, without managing infrastructure? Firebase allows you to do exactly that. Backed by Google Cloud Platform and used by some of the largest apps today, Firebase is a suite of tools for building and scaling web applications. In this course, join Victor Mejia as he steps through how to build powerful applications with Firebase. To begin, he takes a look at the Firebase console and shows how you can manage different Firebase projects. Next, he covers how to use FirebaseAuth to add authentication to your application; store and sync data with Firebase Cloud Firestore; and deploy your app using Firebase Hosting. Plus, learn how to create your own serverless functions using Firebase Cloud Functions.

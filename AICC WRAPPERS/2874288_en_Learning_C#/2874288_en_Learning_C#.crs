@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2874288
+Course_System=linkedin.com
+Course_Title=Learning C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The C# language got its start on Windows, but today you can find it almost everywhere. Whether it’s running on the cloud, to desktops with MacOS and Linux, to mobile operating systems like Android and iOS, C# has grown into a mature, powerful language for almost any programming purpose. In this course, Joe Marini dives into the fundamentals of C#, starting with a basic overview of language constructs like program flow and data types. He then gets into more advance topics such as functions, object-oriented programming techniques, and string processing. After this course, you’ll have a better understanding of C#, and how its combination of power, simplicity, and expressiveness make it an extremely versatile programming language that can be used for almost any scenario.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Modglin
+Course_ID=748571
+Course_System=linkedin.com
+Course_Title=AutoCAD: Building Add-ins with C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many companies work to customize Autodesk AutoCAD products to suit their business needs and enhance their overall productivity. In this course, learn how to extend AutoCAD functionality by building a library of functions using the .NET AutoCAD API and C#. Using Visual Studio Community 2017 and AutoCAD 2019, instructor Josh Modglin helps you create a project and build commands that incorporate a graphic user interface. Josh goes over basic C# functionality, discusses how to work with application and database properties, and more.

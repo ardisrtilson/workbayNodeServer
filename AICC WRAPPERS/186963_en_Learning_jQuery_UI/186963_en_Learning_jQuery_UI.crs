@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=186963
+Course_System=linkedin.com
+Course_Title=Learning jQuery UI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+An indispensable companion for jQuery, jQuery UI is a free, open-source library of widgets, effects, and behaviors that will make your web apps more polished and engaging. In this course, Joe Marini provides a comprehensive introduction to jQuery UI, showing how to use its feature set to enhance an existing site or mobile app. Learn how to use basic and advanced widgets like the Slider, Dialog, and Datepicker controls; add drag- and-drop functionality and animation; and even build your own custom visual themes with jQuery UI's ThemeRoller tool.

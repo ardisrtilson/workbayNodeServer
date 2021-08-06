@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=756321
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a first look at the new features and improvements introduced in Windows Server 2019. The 2019 version of the enterprise-level server operating system from Microsoft boasts new hybrid cloud features and security updates, as well as application platform and Hyper-Converged Infrastructure (HCI) improvements. In this course, instructor Ed Liberman helps you get up to speed with Windows Server 2019 by providing a high-level overview of its most notable new features. In addition to discussing what's new, Ed goes over the basic setup of Windows Server 2019 and explains where this version fits into the larger history of the operating system.

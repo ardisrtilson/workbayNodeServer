@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Marjieh
+Course_ID=2835002
+Course_System=linkedin.com
+Course_Title=Introduction to Composite Manufacturing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Composite manufacturing is ready to meet the demands of the modern world, including groundbreaking vehicle and aeronautical designs, which require ever lighter and stronger materials. Commonly associated with carbon fiber processes, composite manufacturing combines two materials to form a polymer with properties that would be hard to produce with a single material alone. The resulting composites are durable and light. This course teaches the fundamentals of composite manufacturing, including fiber and resin-based processes, and shows ways to detect and repair defects. Instructor Steven Marjieh reviews common composite materials, manufacturing methods, inspection methods, defect types, and repair options.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=604230
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Importing Geometry From Other Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Even if you use SOLIDWORKS on your team, you may collaborate with people (inside or outside your company) who work with other CAD tools. In this course, David Antanavige shows you how to import non-SOLIDWORKS models, integrate them in your projects, and understand the limits of what you can do with them. This includes 3D formats such as IGES, STEP, Parasolid, and STL and 2D formats such as DWG and DXF. Plus, learn how to export the same file formats out of SOLIDWORKS.

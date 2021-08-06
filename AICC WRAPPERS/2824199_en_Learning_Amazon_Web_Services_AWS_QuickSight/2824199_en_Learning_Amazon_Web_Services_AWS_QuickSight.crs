@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Helen Wall
+Course_ID=2824199
+Course_System=linkedin.com
+Course_Title=Learning Amazon Web Services (AWS) QuickSight
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) QuickSight is a powerful data analytics and visualization tool for monitoring data, analyzing trends, and making decisions. You can leverage ETL processes to get data, shape it into a viable form for calculations and analysis, then load the data into the visualization interface. From there, you can create visuals and charts to share the data trends and analysis to communicate it to a wider audience and key stakeholders. Join instructor Helen Wall in this course, as she shows how to use all the features of QuickSight. Learn how to connect to data sources, including Excel files, S3 buckets, and SQL Server; transform data and add calculations; load data into the QuickSight visualization interface; and create and format engaging visualizations and dashboards. Helen also explains how to share your work through dashboards that others can access on their computers or mobile devices, and share work outside the platform via email, exports, and embedded applications.

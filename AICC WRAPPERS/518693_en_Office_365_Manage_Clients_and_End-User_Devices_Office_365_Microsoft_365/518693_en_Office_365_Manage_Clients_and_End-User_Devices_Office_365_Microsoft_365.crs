@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=518693
+Course_System=linkedin.com
+Course_Title=Office 365: Manage Clients and End-User Devices (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Configuring Office 365 is only half the battle. Once your subscription is set up correctly, you need to deploy services to all the devices in your organization: PCs, tablets, and smartphones alike. This course helps you deploy and manage custom installations of Office 365 and Office 365 ProPlus, and study for Microsoft exam 70-347, Enabling Office 365 Services. Learn how to restrict self-provisioning of Office 365 ProPlus, Office for Mac, Windows Store apps, and other mobile apps; restrict and revoke activation; and manage deployments with the Office Deployment Tool. Discover how to troubleshoot Office 365 with the Telemetry Dashboard and the Microsoft Office Configuration Analyzer Tool (OffCAT) and implement modern authentication. Our staff author Sharon Bennett is a Microsoft Certified Trainer who will help you get the most out of your Office 365 subscription and prepare you for this critical aspect of < a href=https://www.microsoft.com/en-us/learning/exam-70-347.aspx target=_blank>MCSA: Office 365 certification.

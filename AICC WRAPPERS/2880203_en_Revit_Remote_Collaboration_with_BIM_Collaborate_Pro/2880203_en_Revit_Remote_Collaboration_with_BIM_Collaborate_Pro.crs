@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Onyema Udeze
+Course_ID=2880203
+Course_System=linkedin.com
+Course_Title=Revit: Remote Collaboration with BIM Collaborate Pro
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As teams have become more remote and global, the need for remote collaborative design in the built sector has increased. Revit is a multidisciplinary BIM software that allows multiple professionals and disciplines to collaborate in real-time. With the addition of BIM Collaborate Pro, collaboration can go remote and be expanded across the globe, going well beyond a corporate LAN or intranet. In this course, instructor Onyema Udeze explains the importance of a Common Data Environment (CDE) such as Autodesk Construction Cloud and how it can make your projects more efficient. Onyema shows you how to communicate with remote teams through a work-shared Revit model and goes over the important role that Autodesk Connector plays in managing remote collaboration through Revit. He covers how non-technical stakeholders on a project can make their inputs in the cloud through the Change/Information Management and Model Coordination features of BIM Collaborate Pro.

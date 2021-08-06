@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith Casey
+Course_ID=642497
+Course_System=linkedin.com
+Course_Title=Designing RESTful APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having a solid understanding of how to correctly build APIs is important for any developer planning on creating websites. In this course, learn how to plan and model your own APIs, and explore the six REST design constraints that help guide your architecture. Keith Casey starts with a simple overview, including advice on identifying the users or participants of your system, and the activities they might perform with it. He discusses how to validate your design before you build it, and explores the HTTP concepts and REST constraints needed to build your API. To wrap up, Keith goes over some of the most common API design patterns you may encounter.

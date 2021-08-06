@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=645051
+Course_System=linkedin.com
+Course_Title=SSCP Cert Prep: 1 Access Controls
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The (ISC)2 Systems Security Certified Practitioner (SSCP) certification is an excellent entry point to a career in IT security. To help you prepare for the SSCP exam, instructor Mike Chapple has designed a series of courses covering each domain. In this installment, Mike covers the objectives of Access Controls, the first domain, which comprises 16% of the questions on the exam. Topics include identification, authorization, and authentication, including multifactor and mobile device authentication. Learn about the identity management life cycle, and find out how to implement authentication mechanisms and access controls. To join one of Mike's free study groups for access to bonus tips and practice questions, visit certmike.com.

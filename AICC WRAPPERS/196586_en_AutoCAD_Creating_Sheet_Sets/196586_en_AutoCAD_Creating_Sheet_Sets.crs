@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=196586
+Course_System=linkedin.com
+Course_Title=AutoCAD: Creating Sheet Sets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build a sheet set from scratch and take advantage of all the automatic drawing-, sheet-, and callout-coordination functionality that AutoCAD has to offer. Scott Onstott teaches you not only how to use a sheet set, but also how to customize its templates and the dynamic attributed blocks and linked fields that automatically fill in relevant data from your sheets. By building intelligence into your drawings using AutoCAD sheet sets in this way, you'll never have drawing-coordination problems again—and that could mean fewer requests for information from your clients.

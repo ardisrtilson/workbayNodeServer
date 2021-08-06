@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=594445
+Course_System=linkedin.com
+Course_Title=Learning VoIP and Unified Communications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Today, when you make a call, you are most likely using Voice over IP or VoIP. VoIP is changing the way we communicate. VoIP uses the existing Internet and network to transfer and route voice traffic in IP packets. In many cases, it is a part of a Unified Communications (UC) system. UC integrates VoIP, video, email, and instant messaging into one seamless business application. Learn about UC and its many layers, including terminals, applications, codecs, gateways, real-time protocols, and network operations, so you can integrate UC and VoIP into your business network. Lisa Bock compares the traditional Public Switched Telephone Network (PSTN) to VoIP, and discusses the framework and components necessary for VoIP to be possible. She reviews codecs, including characteristics such as bitrate and voice quality; protocols for setup, communication control, and data transport; and media gateways, signaling protocols, and intermediary systems such as translators and mixers. Lisa then reviews business integration and the importance of conducting a needs analysis and network assessment prior to implementation. Learn about the many value-added services UC can provide, such as integrating VoIP with email, billing, management software, and other customer management systems. Lisa wraps up with a discussion on how ensuring quality of service (QoS) in a VoIP network minimizes latency and jitter and the importance of VoIP security to prevent malware, impersonation, hijacking, and denial of service attacks.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=2825265
+Course_System=linkedin.com
+Course_Title=Version Control for Everyone
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Think version control is just for programmers? Think again. While version control tools are typically targeted at developers, anyone who works on a computer can benefit from them. Version control is the ultimate safety net, and an ongoing journal of your work. This course aims to empower designers, writers, photographers, teachers, and, yes, developers with the knowledge to integrate version control into their workflows. Instructor Joe Chellman dispels myths about version control and provides a challenge and solution featuring not code, but a novel. He reviews examples of work that's well suited to version control—graphic design, lesson planning, and even WordPress theme development—and shows what's possible when you collaborate with version control tools like GitHub.

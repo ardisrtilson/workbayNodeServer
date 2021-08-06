@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Greg Sowell
+Course_ID=2822475
+Course_System=linkedin.com
+Course_Title=Cisco CCNA (200-301) Cert Prep: Security, Automation, and Programmability
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Cisco Certified Network Associate (CCNA) certification has been updated to reflect the latest technologies and job roles. The revised exam tests IT professionals' understanding of foundational networking topics in six domains, including the two covered in this course: security, and automation and programmability. Instructor Greg Sowell reviews access control list configuration, port security, and layered defenses in Cisco, such as combining DAI and DNCP snooping. He also covers built-in automation features such as Software-Defined Access and industry-standard, third-party platforms such as Puppet, Chef, and Ansible. The lessons are full of diagrams and demos on real routers and switches, so you can develop the skills you need to pass the exam and have a more successful career. Note: A complete overview of the exam and registration instructions can be found at https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/ccna-200-301.html.

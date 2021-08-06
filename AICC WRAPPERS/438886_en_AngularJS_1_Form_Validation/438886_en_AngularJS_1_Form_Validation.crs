@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=438886
+Course_System=linkedin.com
+Course_Title=AngularJS 1: Form Validation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Validation is key to successful online forms. Implementing dynamic form validation that reacts to input can be difficult to implement with languages like JavaScript and jQuery. However, AngularJS allows you to take advantage of two-way data-binding functionality without having to write any JavaScript code. This makes reacting to input from the user—as it happens—a breeze. In this short course, Ray Villalobos shows how to implement form validation on any HTML form using the built-in validation properties and methods in AngularJS. Together, you'll look at how AngularJS can help style forms dynamically as the user updates the content. Plus, explore how to implement validation with JavaScript, just in case you need more fine-tuned control of form interactions.

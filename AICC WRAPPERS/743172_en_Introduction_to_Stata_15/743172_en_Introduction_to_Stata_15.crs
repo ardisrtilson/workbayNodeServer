@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Franz Buscha
+Course_ID=743172
+Course_System=linkedin.com
+Course_Title=Introduction to Stata 15
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning and applying new statistical techniques can often be a daunting experience. Software like Stata, an integrated statistical software package, can help. Stata is agile and easy to use, automate, and extend, helping you perform data manipulation, visualization, and modeling for extremely large data sets. In this course, Franz Buscha provides a comprehensive introduction to Stata and its various uses in modern data analysis. Review the various options that Stata gives you in manipulating, exploring, visualizing, and modelling complex types of data. Explore the practical application—and interpretation—of commonly used statistical techniques such as distributional analysis and regression on real-life data. Each lesson demonstrate the strengths of the application and gives you a firm foundation for performing your own quantitative analysis. Note: This course was recorded using version 15 of Stata, but all coverage is accurate and up to date for versions 15 and 16.

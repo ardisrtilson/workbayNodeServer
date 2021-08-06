@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Reilly
+Course_ID=753900
+Course_System=linkedin.com
+Course_Title=Learning Algorithmic Design with Grasshopper
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Algorithmic design allows you to add intelligence to the design process, making the computer a co-pilot in your modeling. In this course, learn how to bring algorithmic design to your workflow using Grasshopper and Rhino. This course was designed for product designers, architects, mechanical engineers, and industrial designers alike. Instructor Chris Reilly introduces advanced design techniques and projects that can help you get a more in-depth view of how to apply algorithmic design to develop projects in creative fields such as architecture and design. Discover how to create and fine-tune Voronoi diagrams, draw spline profiles, extrude 3D forms, and more.

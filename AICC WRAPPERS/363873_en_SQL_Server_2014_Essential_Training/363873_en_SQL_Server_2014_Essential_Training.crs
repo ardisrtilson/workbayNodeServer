@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=363873
+Course_System=linkedin.com
+Course_Title=SQL Server 2014 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn everything you need to know to start building databases with SQL Server. Martin Guidry reviews the major features of SQL Server 2014 and shows developers how to architect efficient, high-performance solutions for organizations of any scale. Watch and learn how to install and configure SQL Server, create databases and tables, automate common tasks like backups, and use the SQL query language to retrieve and manipulate data.

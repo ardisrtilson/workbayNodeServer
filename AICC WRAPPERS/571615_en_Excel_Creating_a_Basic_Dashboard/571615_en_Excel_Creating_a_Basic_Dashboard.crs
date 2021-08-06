@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=571615
+Course_System=linkedin.com
+Course_Title=Excel: Creating a Basic Dashboard
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn easy-to-implement techniques that can help you quickly create a visual representation of your data to inform your decision making. In this brief course, Curt Frye walks through the basics of creating a dashboard in Excel. Curt begins with a primer on using PivotTables—one of the most powerful data analysis tools in Excel. He also shares how to define conditional formats and summarize your data with sparklines and charts. Plus, he shows how to set up your dashboard worksheet, link data to cells and shapes, maximize your screen space by hiding rows, and modify the Excel program window to meet your needs.

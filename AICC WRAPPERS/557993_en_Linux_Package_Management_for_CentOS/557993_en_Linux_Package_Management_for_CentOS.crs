@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=557993
+Course_System=linkedin.com
+Course_Title=Linux: Package Management for CentOS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to efficiently manage the thousands of installable pieces of software that come with CentOS Linux. In this course, learn about Linux software package choices—including Debian and RPM—and learn how to manage packages with RPM and Yum. Computer science instructor and Linux enthusiast Grant McWilliams explains how to use RPM tools to query the package database, monitor your file system using the package manager for any files that have changed, and greatly expand the available software by adding third-party repositories to CentOS. Plus, he covers troubleshooting your software installation tools to ensure that your system continues to run well.

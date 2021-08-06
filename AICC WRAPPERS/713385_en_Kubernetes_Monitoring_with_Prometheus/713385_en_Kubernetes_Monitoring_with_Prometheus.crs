@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=713385
+Course_System=linkedin.com
+Course_Title=Kubernetes: Monitoring with Prometheus
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In order to prevent outages, it's essential that you leverage a monitoring and alerting tool in your Kubernetes environment. Prometheus—an open-source systems monitoring and alerting toolkit—pairs particularly well with Kubernetes. In this course, learn how this toolkit integrates with Kubernetes and works to monitor distributed systems. Instructor Robert Starmer steps through how to enable Prometheus monitoring and shares how Prometheus monitors Kubernetes systems. He also discusses monitoring application-specific data, adding sidecar containers for app data, filtering and combining metrics, and displaying metrics in the web console. To wrap up, he discusses how to create a simple alert in Prometheus and generate application-driven alerts.

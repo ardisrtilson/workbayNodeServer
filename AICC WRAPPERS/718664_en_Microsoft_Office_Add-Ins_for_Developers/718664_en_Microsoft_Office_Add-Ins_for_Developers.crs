@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Ayers
+Course_ID=718664
+Course_System=linkedin.com
+Course_Title=Microsoft Office Add-Ins for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Office Add-ins allow developers to customize and place time-saving automation logic for tasks right where users need it—inside Microsoft Office applications. This is a unique opportunity to deliver tangible business benefit with minimal effort. This course shows you how to get started using Office Add-ins. The course covers how to build add-ins with Visual Studio; how to use other libraries with add-ins; how to use add-ins for Word, PowerPoint, OneNote, Excel, and Outlook; and how to distribute an add-in that you developed.

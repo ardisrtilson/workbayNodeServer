@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=360734
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Surfacing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up to speed with the surfacing tools within SOLIDWORKS. Gabriel Corbett will teach you the key tools to be proficient with the surfacing package. First, learn how to create basic extruded, revolved, ruled, and offset surfaces. Then dive deeper into modifying surfaces with the Extend Surface, Cut Surface, and Knit Surface tools. Along the way, Gabriel introduces real-world examples that show how surfacing can improve your designs and allow you to create shapes that would otherwise be impossible to build. The course wraps up with some tips for fixing common problems with fillets and solids and manipulating faces.

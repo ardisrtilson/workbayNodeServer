@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Leo Schuman
+Course_ID=5030984
+Course_System=linkedin.com
+Course_Title=Intro to Couchbase for Oracle Experts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As data volumes increase, data management has evolved. One RDBMS no longer fits all. Learn how to transition your Oracle experience to the clustered, document-focused enterprise NoSQL architecture of Couchbase. This course compares Couchbase and Oracle on many factors, including target workflows, data access methods, indexing, and querying. Instructor Leo Schuman also compares Oracle tables to Couchbase documents, and shows how to create, read, update, upsert, and delete documents and the fields within them. The aim is to help developers to leverage Couchbase to support the agile, aggregation-oriented demands of modern enterprise development. By the end of the course, you’ll understand the fundamental architecture and data access methods in Couchbase, particularly N1QL (SQL for JSON). This course was created by Couchbase Learning Services. We are honored to host this training in our library.

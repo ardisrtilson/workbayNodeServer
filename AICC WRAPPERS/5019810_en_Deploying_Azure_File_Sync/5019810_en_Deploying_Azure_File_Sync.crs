@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=5019810
+Course_System=linkedin.com
+Course_Title=Deploying Azure File Sync
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure File Sync replicates files from an on-premises Windows Server to an Azure file share, eliminating the need to choose between the benefits of the cloud and the benefits of an on-premises file server. This helpful service provides you with the ability to centralize file services in Azure while maintaining local access to data. In this course, instructor Sharon Bennett provides a hands-on look at the steps required to deploy Azure File Sync. Sharon demonstrates how to create an Azure file share and Azure File Sync service, prep and register a server, back up a file share, and remove Azure File Sync once it's no longer needed.

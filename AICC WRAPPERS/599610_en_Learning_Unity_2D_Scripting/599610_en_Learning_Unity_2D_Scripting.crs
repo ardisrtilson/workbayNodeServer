@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=599610
+Course_System=linkedin.com
+Course_Title=Learning Unity 2D Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity is a popular platform for creating 2D and 3D games for desktop, mobile, and consoles. In this introductory course, join Jesse Freeman as he walks through everything first-time game developers need to know about creating scripts for 2D games in Unity. He covers setting up new 2D projects, creating new scripts from scratch, exposing public fields to the inspector, extending the MonoBehaviour class, and creating custom C# classes. He also shares some best practices for writing and debugging C# scripts in Unity. If you're new to coding and are looking to learn more about Unity, this course provides you with the knowledge you need to start writing C# scripts in Unity.

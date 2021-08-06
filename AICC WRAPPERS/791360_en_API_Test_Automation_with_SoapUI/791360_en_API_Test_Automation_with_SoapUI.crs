@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Westerveld
+Course_ID=791360
+Course_System=linkedin.com
+Course_Title=API Test Automation with SoapUI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With industry trends like cloud computing and the Internet of Things, there is a growing need for testers that know and understand API testing tools. One powerful and mature tool used by companies around the world is SoapUI. This course is designed to help you get started with SoapUI and covers the basics of how to use it. Instructor Dave Westerveld explains how to set up your first project, create new tests, perform load and security testing, and make your tests more automated and efficient with scripting. Plus, learn how to integrate SoapUI with Docker-based build pipelines. The training is filled with examples featuring real-world, public APIs so you can see how SoapUI functions in real testing scenarios.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2255011
+Course_System=linkedin.com
+Course_Title=ESLint: Checking for Syntax and Logic Errors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Reduce bugs and boost efficiency by using ESLint to catch common coding errors. In this course—the third and final installment in the ESLint series—learn about some of the most essential error-catching rules in ESLint, as well as how to configure them. Instructor Sasha Vodnik details how to configure rules to identify errors in code for functions; configure ESLint to identify issues with loops and in conditional structures; enable error checking for logic errors in for and if-else statements; identify empty blocks and unneeded debugging statements; alert you to sparse arrays and strings that seem to use template literal syntax; and catch common logic errors. Plus, Sasha provides a challenge that allows you to put your new skills to the test.

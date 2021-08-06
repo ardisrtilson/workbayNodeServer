@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marco Faella
+Course_ID=656822
+Course_System=linkedin.com
+Course_Title=Functional Programming with Streams in Java 9
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Functional programming is an alternative to object-oriented programming that is centered around pure functions. Functional applications avoid the shared state, and tend to be more concise and predictable than those using object-oriented code. This course is designed for Java developers who want to transition to functional-style programming using the new language features in Java 9, including lambdas and the streams framework. Computer science professor Marco Faella shows how to use method references and lambda expressions to refer to existing methods and define new functions on the fly, and use streams to convert sequential processing tasks into parallel computations—maximizing your hardware's potential. Plus, see these concepts in action, in an example that shows how functional-style programming can be used improve the performance of collision detection algorithms in 2D games. Note: To get the best results from this course, you should be familiar with basic Java programming concepts, including lists, maps, and sets, and have a suitable IDE, such as Eclipse, NetBeans, or IntelliJ. This course was created and produced by Packt Publishing. We are honored to host this training in our library.

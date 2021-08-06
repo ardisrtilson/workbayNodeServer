@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Theedom
+Course_ID=648936
+Course_System=linkedin.com
+Course_Title=Java EE: Contexts and Dependency Injection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Contexts and Dependency Injection (CDI) is a set of services that can help to enhance the behavior of your applications. In this course, learn about CDI and how to use it in your Java EE application. Discover how to configure an environment for CDI. Learn about CDI beans, how to use them, and what it means to have a lifecycle. Then, learn about the different features of CDI, including qualifiers, producers, events, observers, and interceptors. Finally, the course covers CDI scopes and JavaServer Faces (JSF).

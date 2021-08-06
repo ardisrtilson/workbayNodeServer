@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Helen Wall
+Course_ID=2211318
+Course_System=linkedin.com
+Course_Title=Power BI Data Methods
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power BI is a powerful data analytics and visualization tool that helps users monitor data, analyze trends, and make smarter decisions. The breadth of the tool's capabilities is quite wide across the entire application, ranging from custom data connectors to custom dashboard visuals. This course focuses on the data end of Power BI, also known as Power Query (the same Power Query found in Excel), and how this part of the application can automate the data querying process and restructuring of data sets. Instructor Helen Wall goes over the array of Power BI data connection options, from static files to Python scripts; shares key techniques for transforming unusable data; explains how to use the M formula language to improve efficiency and create custom queries; and more.

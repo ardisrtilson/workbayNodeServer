@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ernest Mueller
+Course_ID=2841394
+Course_System=linkedin.com
+Course_Title=IT Service Management Foundations: Change Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In IT, changes are the lifeblood of progress, but uncontrolled, dangerous, or unknown changes can cause chaos. In this course, instructor Ernest Mueller steps through how to create a change management process for your organization that enables high levels of performance and fulfills compliance requirements. Ernest explains how change management is differentiated from, and interacts with, the many other IT service management processes. He covers what ITIL, COBIT, and ISO 27000 have to say about change management. Next, he walks you through the steps, roles, and preparations that you need for a change management process and goes over the importance of testing and validating your changes. He presents a framework to use to bootstrap configuration management in a preexisting environment, then discusses how to manage change while preserving your ability to innovate. Ernest concludes with ways to learn even more on your own and put change management into practice.

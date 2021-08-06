@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Theedom
+Course_ID=648937
+Course_System=linkedin.com
+Course_Title=Java EE: Bean Validation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use one of the most useful and important Java EE APIs: the Bean Validation API. This API cuts across the entire Java EE ecosystem and provides features to ensure the integrity of your application by protecting it from rogue and misshapen data. In this course, you can journey through the many constraints that are built into the 2.0 version of the Bean Validation API, as well as the additional constraints provided by the Hibernate Validator 6.0. Learn Bean Validation in a practical way while you build a functioning web application. Instructor Alex Theedom shows how to extend the API with custom constraints and how to internationalize validation failure messages. Plus, learn advanced techniques such as cross-field and cross-parameter validation, and how Bean Validation integrates with other Java EE technologies such as JAX-RS, Java Persistence API (JPA), and JavaServer Faces (JSF). By the end of this course, you will have gained practical experience of using Bean Validation in a real web application and be able to implement what you have learned in your own Java applications.

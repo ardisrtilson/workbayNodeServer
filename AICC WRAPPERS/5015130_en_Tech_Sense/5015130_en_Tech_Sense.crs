@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=5015130
+Course_System=linkedin.com
+Course_Title=Tech Sense
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What makes a technology go from innovative to indispensable? How do you know if you’re making a smart investment—or following a passing fad? Tech Sense evaluates the latest developments in hardware, software, security, and cloud computing and their impact on you. Instructor Morten Rand-Hendriksen explores the benefits and business value of technologies such as HTTPS, two-factor authentication, the Internet of Things, serverless architecture, blockchain, microservices, machine learning, and minification. He offers honest, impartial information on each technology, to help you understand what the latest trends have to offer you.

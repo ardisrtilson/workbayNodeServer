@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2817026
+Course_System=linkedin.com
+Course_Title=vSphere 6.7 Foundations: Configuration and Installation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. Nonvirtualized data centers are a thing of the past; in order to stay relevant—and scale infrastructure to meet business needs—you must understand vSphere. vSphere 6.7 Foundations is an eight-part series designed for anyone who wants to learn vSphere, including absolute beginners, and develop the knowledge to pass the VMware vSphere 6.7 Foundations exam (2V0-01.19). In this course, instructor Rick Crisci reviews the essentials of configuring and installing vSphere 6.7 and components such as vCSA and ESXi. Plus, learn how to use the Update Manager to keep vSphere up to date. This course was created by Rick Crisci. We are pleased to host this training in our library.

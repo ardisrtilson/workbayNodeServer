@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Rose
+Course_ID=2853009
+Course_System=linkedin.com
+Course_Title=Learning Airtable
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For tracking data and creating custom business apps, Airtable, a spreadsheet-database hybrid platform, can be a powerful tool. Airtable expert Scott Rose starts this beginner course with the basics, presenting how to create a table and how fields work—including text and number fields, date/time fields, value list fields, attachment fields, and formula fields. Scott demonstrates how to work with records, including how to import external records; how to create, edit, and delete records; how to filter records; and how to sort and group records. Airtable gives you several different ways to view your data, and Scott walks through all the view options: Calendar, Gallery, Kanban, and Form views. You’ll learn how to link tables and how to incorporate lookup fields. Finally, Scott offers recommendations for how to continue learning more about Airtable.

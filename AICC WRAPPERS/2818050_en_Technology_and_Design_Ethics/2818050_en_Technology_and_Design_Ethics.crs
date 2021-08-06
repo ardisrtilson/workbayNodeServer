@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2818050
+Course_System=linkedin.com
+Course_Title=Technology and Design Ethics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many of the technology courses in our library focus on how to make things. But sometimes, designers and developers need to pause, look around, and evaluate how the things they make affect the people who'll end up using them. What's best for our users? can be a difficult question when mixed with other organizational priorities. In this course, Morten Rand-Hendriksen provides concrete approaches for evaluating and acting on the ethical questions technologists encounter constantly. He provides a framework for ethics in tech, discusses matters related to privacy and security, explains how to discover and define virtues, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=728400
+Course_System=linkedin.com
+Course_Title=Cloud Architecture: Design Decisions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Strong architecture begins with smart design decisions. With the cloud, the options can seem almost limitless. By focusing on your business and application needs, and how they may change over time, you can make intelligent choices, leading to a more efficient, cost-effective infrastructure. This course is targeted at IT professionals who have a basic understanding of the cloud and are ready to move on to creating a cloud architecture. David Linthicum begins with the business case and requirement patterns, and then discusses mapping requirements to individual architecture concepts. There are multiple aspects to consider: storage, processing, governance, and more. David also covers advanced topics such as serverless architectures and containers. Watch and learn how to make sense of today's requirements, and plan your cloud-based architecture to scale with what your company needs to succeed tomorrow.

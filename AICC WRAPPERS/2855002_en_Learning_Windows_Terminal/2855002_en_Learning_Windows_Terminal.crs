@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2855002
+Course_System=linkedin.com
+Course_Title=Learning Windows Terminal
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Terminal offers a flexible environment for running your favorite shells. You can run PowerShell, Bash, and more in separate tabs, and customize your profiles to match your style. This short, beginner-level course provides an introduction to Windows Terminal, from installing and launching the program to modifying your profile and customizing the visual appearance of the interface. Instructor Scott Simpson also introduces keyboard shortcuts to make navigation faster—a critical skill for anyone trying to maximize the efficiencies of command-line arguments and shell scripting.

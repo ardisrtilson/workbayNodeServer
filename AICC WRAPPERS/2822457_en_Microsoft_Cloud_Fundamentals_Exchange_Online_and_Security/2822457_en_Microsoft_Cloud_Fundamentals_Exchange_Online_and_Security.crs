@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=2822457
+Course_System=linkedin.com
+Course_Title=Microsoft Cloud Fundamentals: Exchange Online and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Review key skills related to managing Microsoft Exchange Online, using antispam and antimalware resources, and configuring Intune Endpoint Protection. Learn how to configure mailbox permissions and sharing, set up contacts and groups, configure antimalware filters in Office 365, and use Exchange Active Sync for mobile device management. Plus, explore Intune Endpoint Protection, which allows control of the security features on Intune-enrolled devices and further protects them from malware and spam.

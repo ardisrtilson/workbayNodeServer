@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Monika Wahi
+Course_ID=578071
+Course_System=linkedin.com
+Course_Title=SAS Essential Training: 1 Descriptive Analysis for Healthcare Research
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+After literally decades on the scene, SAS is still an industry leader in the world of big data. If healthcare analytics piques your interest—and you want to get up and running with this venerable data analytics platform—then this course is for you. Join instructor Monika Wahi as she steps through how to conduct a descriptive analysis of a health survey dataset and present the results in plots and tables. Monika covers how to import a dataset from SAS *.xpt format using the XPORT command; edit datasets to add new categorical and continuous variables; conduct chi-square tests, t-tests, and analyses of variance (ANOVAs); generate a descriptive analysis with either a categorical and a continuous dependent variable; and more.

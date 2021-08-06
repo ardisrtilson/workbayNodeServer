@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=2849206
+Course_System=linkedin.com
+Course_Title=AWS Well-Architected Framework: Performance Efficiency Pillar
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The AWS Well-Architected Framework includes strategies to help enterprise architects compare workloads against AWS-identified best practices. It is designed to help architects build secure, high-performing, resilient, and efficient infrastructure for their applications and comprises five pillars: operational excellence, security, reliability, performance efficiency, and cost optimization. In this course, Mark Wilkins takes an in-depth look at the fifth pillar, performance efficiency. Mark covers the different computing resources—including compute, storage, database, and network—and shows how to optimize performance for each. He also illustrates the importance of fine-tuning performance to maintain efficiency over time. This course is designed to work in conjunction with the remaining courses in the path, and while Mark covers some topics that were detailed in the other pillars, in this course he looks at these topics specifically from the viewpoint of efficiency.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=513598
+Course_System=linkedin.com
+Course_Title=TouchDesigner & Unreal: Interactive Controllers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As brands, studios, and performers look to make a statement in a media-saturated world, a range of multi-faceted design firms are creating fascinating work beyond the constraints of traditional screens and linear timelines. In this course, learn how to fuse multiple disciplines using real-time graphics software to create engaging content for deployment beyond the traditional screen. This course focuses on using interactive hardware controllers to drive real-time 3D scenes in TouchDesigner and Unreal Engine. In TouchDesigner, look at a MIDI controller with sliders that you can use to drive the creation of effects in a real-time rendering system. Next, learn about using TouchOSC to build a custom UI that you can transfer to an iPad that sends OSC messages to TouchDesigner. Then, learn how to use those messages to move particles and objects around on screen. To wrap up, learn how to get data off of a Kinect sensor into TouchDesigner so you can control that same particle and object movement. The course also covers MIDI, OSC, and Kinect as they apply to Unreal Engine.

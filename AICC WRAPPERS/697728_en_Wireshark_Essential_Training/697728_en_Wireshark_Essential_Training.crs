@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=697728
+Course_System=linkedin.com
+Course_Title=Wireshark Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Wireshark Essential Training provides a solid overview of deep packet inspection by stepping through the basics of packet capture and analysis using Wireshark. In this course, Lisa Bock helps you understand the field values of the protocols and what's considered normal behavior using precaptured packets from online repositories. Lisa helps you navigate through the many features of Wireshark. She begins by stressing the benefits of traffic analysis and discussing how this powerful tool can be used to examine traffic either live from wired or wireless connections. She compares the legacy and next generation versions of Wireshark, demonstrates how to install this tool on a PC and on a Mac, and explores the Wireshark interface. She then moves into deep packet analysis of common protocols such as TCP, IP, DHCP, and DNS. To wrap up, she summarizes working with packet captures, discusses the Wireshark expert system, and goes over how Wireshark can help detect network latency issues. She also illustrates ways to subset traffic and then share captures using CloudShark. Lisa walks participants through the basics, so no previous experience with Wireshark is necessary.

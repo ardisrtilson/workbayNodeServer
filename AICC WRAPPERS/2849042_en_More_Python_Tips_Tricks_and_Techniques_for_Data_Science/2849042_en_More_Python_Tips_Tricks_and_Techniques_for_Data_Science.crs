@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harshit Tyagi
+Course_ID=2849042
+Course_System=linkedin.com
+Course_Title= More Python Tips, Tricks, and Techniques for Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The power and versatility of Python—coupled with its large ecosystem of third-party packages—make it indispensable to data scientists. In this course, instructor Harshit Tyagi shares practical tips and techniques that can help you enhance your own Python data science workflow. Harshit covers how to work with IPython notebooks, including how to debug errors. He shows how to use NumPy to manipulate arrays, as well as how to work with pandas, the data manipulation and analysis tool. He provides tips for visualizing your data with Matplotlib, explaining how to add text to plots and annotate elements on a chart. Plus, get best practices for working with scikit-learn, as well as other machine learning tips.

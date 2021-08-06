@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=135376
+Course_System=linkedin.com
+Course_Title=Design the Web: Sprite Sheets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many web animations and rollovers make use of sprite sheets to reduce the number of graphics a web experience requires, making the design process easier and your site load faster. Learn techniques in Adobe Photoshop to make sprite sheet creation fast and versatile. Chris Converse shows you how to combine Smart Objects and guides to help you measure and produce perfectly aligned sprite sheets for your web design projects.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=740365
+Course_System=linkedin.com
+Course_Title=Rhino 6 Essential Training (2018)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino is a 3D modeling powerhouse, used to design and engineer products ranging from toy robots to architecture, automobiles, and full-sized aircraft. Learn the essentials you need to build your own production-ready 3D models, characters, and prototypes with Rhino 6. This course follows up on instructor Dave Schultze's quick start guide. It starts with tips for navigating the interface and setting up a Rhino workflow that's efficient and fast. Dave then shows how to use Rhino's primary entities to draw 2D lines, shapes, and curves and model 3D objects. Plus, learn how to edit 2D and 3D geometry and make basic transformations such as scaling, lofting, and sweeping.

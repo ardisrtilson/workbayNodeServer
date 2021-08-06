@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim Rogers
+Course_ID=2823552
+Course_System=linkedin.com
+Course_Title=Construction Industry: Going Digital in the Field
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The digital revolution has transformed how the construction industry handles drawings. Gone are piles of paper printouts; now professionals are pairing mobile devices with digital drawings. In this course, you can learn about some of the many ways digital drawings are taking over the construction industry and the most popular tools for creating, editing, and managing these drawings in the field. Instructor Jim Rogers demos software such as BIM 360, Procore, PlanGrid, Bluebeam Revu, and Acrobat, and cover key digital workflows, from planning revisions to collaborating with clients and colleagues outside your team.

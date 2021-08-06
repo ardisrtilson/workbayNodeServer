@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=597012
+Course_System=linkedin.com
+Course_Title=Revit Area Calculations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Architects and designers are often tasked with calculating and reporting the sizes of the spaces within a project. Typically, a set of detailed area calculations following specific rules and guidelines—which are often set by building officials, leasing agents, and others—is required. If you need to make such calculations, you'll likely find that you need more precision than is possible with Revit rooms. In such cases, you need to use Revit area elements and area plans instead of rooms. Areas appear very similar to rooms, but they're separate elements with a unique purpose and workflow. In this course, Paul F. Aubin explores the creation of area plans and areas, and discusses the workflow that enables them. Using these tools, see how you can group and quantify the spaces within a project, and create detailed and accurate calculations of all important areas. The resulting information can be presented graphically onscreen, printed, scheduled, reported, and exported as necessary to satisfy a variety of project stakeholders—those using Revit and those who don't. If you have found it difficult to capture the intricacies of area calculations in your Revit projects—or have only tried to do so using the room elements—then you owe it to yourself to give area elements a try.

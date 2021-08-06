@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dermot O' Connor
+Course_ID=612160
+Course_System=linkedin.com
+Course_Title=Animate CC: Animating Scenes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+After you've created a storyboard for your animated project, you're ready to tackle the next phase of the pipeline—actually assembling your scenes and rigging your characters. In this course, learn how to use Adobe Animate CC to assemble and animate a scene, and set up a complex rig for both a human character and a robot. Dermot O'Connor shows how to properly line a character, place the pivots, and set up the scene symbol. Plus, he shows how to animate a dynamic action scene, import audio, and export your scene.

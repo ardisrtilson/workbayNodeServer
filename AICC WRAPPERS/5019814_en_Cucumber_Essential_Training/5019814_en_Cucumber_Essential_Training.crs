@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shashi Shekhar
+Course_ID=5019814
+Course_System=linkedin.com
+Course_Title=Cucumber Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cucumber is a tool for behavior-driven development (BDD), which allows you to write assertions in plain language that are then testable by code. By making written requirements actually testable, it provides a common language between business and engineering professionals. In this course, learn how to use Cucumber to implement agile practices like BDD, test-driven development (TDD), and acceptance test-driven development (ATDD). Instructor Shashi Shekhar goes over the basics of BDD, TDD, and ATDD, and then dives into the Cucumber workflow. He also shows how to map user stories to features, add hooks, generate reports, and apply techniques to make BDD maintainable.

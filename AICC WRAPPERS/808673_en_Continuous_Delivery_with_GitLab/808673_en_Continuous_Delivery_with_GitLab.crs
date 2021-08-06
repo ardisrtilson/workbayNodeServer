@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Samuelson
+Course_ID=808673
+Course_System=linkedin.com
+Course_Title=Continuous Delivery with GitLab
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GitLab is a popular open-source alternative to tools like GitHub and Bitbucket. In contrast to its competition, GitLab places an emphasis on self-hosting (although you can use their hosted version as well). In this course, learn how to install and use this web-based Git-repository manager for code management. Instructor Josh Samuelson kicks off the course by explaining how to create a project and navigate the GitLab interface. He then digs into how to work with GitLab for continuous integration and continuous delivery (CI/CD) and source control, explaining how to leverage its collaboration features, create and run a pipeline, and more.

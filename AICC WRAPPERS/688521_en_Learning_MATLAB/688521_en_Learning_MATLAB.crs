@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Moser
+Course_ID=688521
+Course_System=linkedin.com
+Course_Title=Learning MATLAB
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MATLAB is one of the most popular programming languages today for engineers and scientists, and with good reason-it allows analysts to work efficiently with large amounts of data. Instructor Steven Moser shows you how to harness the MATLAB tools and create programs to model your own data and hypotheses. First, learn how to create basic variables and cell arrays, and work with the core MATLAB syntax, which is significantly different than other programming languages. Then discover how to create scripts and functions, work with matrices, debug your program, and import data. To illustrate your findings, Steven shows how to create 2D and 3D plots, add annotations, and incorporate images. The final chapter covers Simulink, the MATLAB block diagram tool.

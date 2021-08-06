@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiago Costa
+Course_ID=5002837
+Course_System=linkedin.com
+Course_Title=Developing Long-Running Tasks with Microsoft Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the core development processes for developing long-running tasks with Microsoft Azure. In this course, instructor Tiago Costa digs into the subject of long-running tasks, looking at queues, WebJobs, Functions, and parallel compute solutions as they pertain to Azure. Learn how to use Azure Storage queues and Azure Service Bus queues, work with the Azure WebJobs SDK, and create Azure functions. Plus, see how to run Azure Batch workloads, view batch quotas, and more.

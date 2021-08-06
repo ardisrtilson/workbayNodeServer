@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2858036
+Course_System=linkedin.com
+Course_Title=.NET Essentials: LINQ for Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The first explanation you typically hear about Microsoft LINQ is that it provides an in-language query tool to manipulate the contents of arrays and lists. Explore LINQ further and you’ll find it works with other popular data sources like databases and XML files. That makes it a universal query tool that simplifies working with any data source. In this course, part of a three-course series, LinkedIn Learning staff author Walt Ritscher uses LINQPad, a lightweight, powerful code editor, to illustrate useful topics like queryable types, basic query syntax, finding data by date range, and how to use LINQ queries to reduce database network traffic. After completing this course, you’ll have a solid foundation on using LINQ to query database and Entity Framework data.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=540497
+Course_System=linkedin.com
+Course_Title=C# for Unity Game Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ready to start developing your first game, but need to get up to speed on C#? Learn the basics of programming in C# for Unity and find out how to script your first game development project. Jesse Freeman covers the structure, syntax, and language of C# as it works inside the Unity IDE. The lessons focus on the most important concepts for beginners to master, including variables, methods, data structures, flow control, classes, inheritance, interfaces, and composition. The goal of the course is to teach developers the basics of how to use C# in Unity as well as some higher-level scripting strategies.

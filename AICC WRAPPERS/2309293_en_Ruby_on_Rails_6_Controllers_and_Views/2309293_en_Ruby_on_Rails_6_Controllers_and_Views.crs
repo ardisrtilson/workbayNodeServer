@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2309293
+Course_System=linkedin.com
+Course_Title=Ruby on Rails 6: Controllers and Views
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build smarter controllers and better looking webpages with Ruby on Rails. This course teaches developers how to better implement controllers and views in Ruby on Rails 6. This is a foundational course to teach the fundamentals and best practices around these common programming concepts. Learn how to leverage the most useful features of controllers, including maintaining state with cookie and session data, displaying messages, organizing code, and using filters for routine tasks. Next, discover how to render different types of data, how to use view layouts, and how to incorporate assets such as images, style sheets, and JavaScript. Finally, find out how to work more efficiently with Ruby helper methods, which make common tasks like formatting text and numbers, date and time calculations, and outputting form fields easier.

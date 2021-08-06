@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mikey Rogers
+Course_ID=419167
+Course_System=linkedin.com
+Course_Title=Learning MARI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Foundry's MARI is an extremely powerful texture painting package used in every corner of the computer graphics industry. Much like Photoshop, MARI has a slew of tools that aid in photo manipulation. However, its primary function is in the 3D painting space, which is the focus of these texture painting tutorials. With an array of brushes and nondestructive tools, MARI not only mimics real-life model painting, but also surpasses it. With MARI, artists can change the final look of their asset at any point in time. This course will guide members through the ins and outs of this essential visual effects tool. Author Mikey Rogers, a CG artist who has worked on eye-catching spots for Nike, Google, and Sony, covers everything from initial model import and scene setup to channel and layer creation and export. He also touches on shader creation inside of MARI, which allows you to view your work in a physically accurate environment using HDR lights. The course closes with a series of projects that demonstrate real-world workflows for painting different wood and stone textures.

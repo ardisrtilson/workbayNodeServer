@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2812136
+Course_System=linkedin.com
+Course_Title=CCSP Cert Prep: 4 Cloud Application Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud-based applications are vulnerable to a wide range of attacks, from cross-site scripting (XSS) to session hijacking. Modern organizations need professionals who know how to build out application security programs that minimize such risks. Earning the Certified Cloud Security Professional (CCSP) certification validates that you have the knowledge necessary to secure applications wherever they are hosted. In this course, study for the fourth domain of the CCSP exam: Cloud Application Security. Learn about the development of software requirements and the use of different software development methodologies. Review some of the most notable application security vulnerabilities, as well as secure coding practices, strategies for identifying threats, and more.

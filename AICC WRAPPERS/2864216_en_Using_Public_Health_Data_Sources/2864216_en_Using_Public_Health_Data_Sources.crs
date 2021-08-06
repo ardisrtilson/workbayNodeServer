@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Jennifer Shin
+Course_ID=2864216
+Course_System=linkedin.com
+Course_Title=Using Public Health Data Sources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Certain events bring big data into the public eye. During the COVID-19 pandemic, an extensive amount of data has been collected and utilized by public institutions–including governments, hospitals, and schools—and used to make key decisions that impact the public. The potential widespread impact of the decisions made based on this data underscores the importance of being able to verify the accuracy of the data, as well as using it in a responsible manner. In this course with data scientist and professor Jennifer Shin, learn how to evaluate and access the public health data by exploring the sources driving the COVID-19 dashboards, including 1Point3Acres, BNO News, WorldoMeter, and the COVID Tracking Project. Learn how to identify reputable sources and appraise the quality of the information collected. This course was created by Madecraft. We are pleased to host this content in our library.

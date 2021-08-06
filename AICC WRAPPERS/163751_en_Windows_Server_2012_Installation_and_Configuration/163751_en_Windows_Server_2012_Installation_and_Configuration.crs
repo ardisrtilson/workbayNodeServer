@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Timothy Pintello
+Course_ID=163751
+Course_System=linkedin.com
+Course_Title=Windows Server 2012: Installation and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a practical introduction to setting up Windows Server 2012. Timothy Pintello breaks down this basic IT task into its core components: installation, roles and services configuration, and local storage setup. He shows you how to practice these steps with VirtualBox and gain real experience without the cost or risks associated with expensive hardware. Learn how to choose an edition that's right for your setup, install Windows Server 2012 and the VirtualBox drivers, and then configure the services and roles on your new server. Timothy also shows how to set up local storage and manage Windows Server in one of two ways: through the command line or with the simple admin interface that ships with Windows Server.

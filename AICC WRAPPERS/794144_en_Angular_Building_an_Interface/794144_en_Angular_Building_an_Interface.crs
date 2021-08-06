@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=794144
+Course_System=linkedin.com
+Course_Title=Angular: Building an Interface
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular was built specifically to connect users to services, and interfaces are where that connection happens. In this practical, hands-on course, get started with Angular by learning how to use it to build an interface. Ray Villalobos demonstrates how to start an Angular project right with the command line interface (CLI), before taking a closer look at components and events, as well as how to manage list data. By showing how to build something realistic—a form that lets users add appointments for a business—Ray helps you grasp how to solve real problems with this popular JavaScript framework.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=711824
+Course_System=linkedin.com
+Course_Title=Cleaning Bad Data in R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data integrity is the new focal point of the data science revolution. Now that everybody is onboard with the role of data in people's lives and business, it's not an unfair question to ask, Can you prove that your data is accurate? In this course, you can learn how to identify and address many of the data integrity issues facing modern data scientists, using R and the tidyverse. Discover how to handle missing values and duplicated data. Find out how to convert data between different units and tackle poorly formatted text. Plus, learn how to detect outliers, address structural issues, and identify red flags that indicate potential data quality issues. Where possible, instructor Mike Chapple shows how to correct the issues using R, but the same principles can be applied to any statistical programing language.

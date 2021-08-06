@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2809591
+Course_System=linkedin.com
+Course_Title=Securing Windows Server 2019
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security is a vital part of any enterprise environment. In this course, follow Ed Liberman as he explains how to keep Windows Server 2019 secure. Ed dives into a variety of essential topics, including server hardening, mitigating common network threats, and securing files services. Plus, he shows how to manage privileged identities—including how to delegate privileges and configure account lockout policies—and dives into advanced audit polices.

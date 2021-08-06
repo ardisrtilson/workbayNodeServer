@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thiago Santos Mundim
+Course_ID=480967
+Course_System=linkedin.com
+Course_Title=ArchiCAD: Management & Collaboration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Great architecture is a team effort. ArchiCAD is an award-winning tool for BIM professionals the world over, and it comes with a host of collaboration tools that make it easy to share work and collaborate on designs. ArchiCAD: Management & Collaboration covers everything that an advanced user should know when using ArchiCAD on large projects and in large teams. It's designed to replicate all the tasks of a BIM manager or a BIM coordinator, while optimizing the workflow and performance of your ArchiCAD setup. Join Thiago Mundim, as he shows how to implement BIM Server to network projects with simultaneous access, monitor file size, use Hotlinked Modules to reference external ArchiCAD files, create reusable templates, and import IFC files from other CAD systems.

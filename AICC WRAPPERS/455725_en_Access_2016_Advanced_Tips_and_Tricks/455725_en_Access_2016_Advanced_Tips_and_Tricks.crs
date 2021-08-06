@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=455725
+Course_System=linkedin.com
+Course_Title=Access 2016: Advanced Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+These tips and techniques will help Access developers create a better user experience and transform a boring database into a fast, efficient, and even fun environment. Access expert Adam Wilbert shows how to remove typical Access interface elements (like the Welcome screen) for a better startup experience, and borrow some tricks from web design to make your database more attractive and interactive. Plus, learn how to clean up a cluttered navigation pane, leverage hidden system objects, filter long lists with cascading combo boxes, and build in contextual help and keyboard shortcuts that your power users will thank you for.

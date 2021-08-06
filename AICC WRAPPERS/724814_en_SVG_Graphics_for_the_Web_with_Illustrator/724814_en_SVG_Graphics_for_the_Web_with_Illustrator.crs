@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Karlins
+Course_ID=724814
+Course_System=linkedin.com
+Course_Title=SVG Graphics for the Web with Illustrator
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Scalable Vector Graphics (SVG) format is everywhere these days. SVG is used for data-driven infographics, interactive maps, icons, searchable type, architectural renderings, and anywhere you need scalable, animated, or interactive artwork. Want to create your own? Adobe Illustrator is the designer-friendly environment for creating SVG files for the web. This course teaches you how to create, save, and modify SVG files in Illustrator, with the occasional assist from other Adobe Creative Cloud products. Instructor David Karlins covers the basics of SVG—what it is and how it's used—and shows how to configure Illustrator for optimal productivity with SVG. He explains how to incorporate scalable transparency and gradients, apply SVG filters, add interactivity, and generate styled, searchable graphical type. He also shows the best settings for saving and exporting your artwork as SVG, and reviews the process for embedding SVG files or code into webpages and applications.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=179589
+Course_System=linkedin.com
+Course_Title=Inventor: Sheet Metal Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CAD software like Autodesk Inventor makes sheet metal design quick and cost-effective. This course shows designers how to use Inventor to plan, create, modify, and document sheet metal parts and assemblies. Author Thom Tremblay demonstrates how to set up your working environment, create flanges and other features with Inventor's specialized sheet metal tools, and modify parts—cutting, seaming, punching, and ripping as you go. He also shows how to reuse existing design features through the use of the fold operation. Finally, when your part is finalized and ready for manufacturing, let Thom show you how to document your design and get the flat pattern to production.

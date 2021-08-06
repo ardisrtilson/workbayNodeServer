@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=659278
+Course_System=linkedin.com
+Course_Title=Apple watchOS App Development: Advanced APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What else can an Apple Watch app do? When it's paired with an iPhone, the Watch is capable of a whole lot more. If you've a developer who's mastered the basics, you may ready to take your watchOS apps to the next step. Luckily, there's a series of advanced APIs that allow you to easily add motion, connectivity, maps, animation, and gesture support to paired watchOS applications. This course shows how to expand your existing watchOS skills by transitioning an iPhone app to the Apple Watch. Learn how to control what happens when your app is dismissed to the background, use complications to show important information, scroll back and forward in a timeline, and add maps and 2D and 3D animation with MapKit, SpriteKit, and SceneKit. Plus, learn how to use gestures in your app to add interactivity and save valuable real estate on the Watch interface.

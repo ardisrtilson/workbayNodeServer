@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Barr
+Course_ID=482055
+Course_System=linkedin.com
+Course_Title=3D Content Creation for Virtual Reality
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtual reality is a booming industry. The technology for consumers and designers just keeps getting better. Learn how to take advantage of the newest advances in VR modeling, texturing, and rendering in this course with 3D artist and expert Craig Barr. Using Maya and Unity, you'll look at how to create assets that are efficient and effective, contributing to an overall more compelling virtual reality experience. If you're new to VR, watch the introductory chapter to get an overview of the terminology, technical considerations for designers (like refresh rate), and the most popular VR hardware, including the Oculus Rift. Craig then dives into modeling, texturing, and rendering, and offers some tips for making more sophisticated content with ambient lighting and effects. Plus, get insights on cutting-edge VR techniques, such as creating content in VR projects with Unreal Engine 4, Tilt Brush, SculptrVR, MakeVR, and more.

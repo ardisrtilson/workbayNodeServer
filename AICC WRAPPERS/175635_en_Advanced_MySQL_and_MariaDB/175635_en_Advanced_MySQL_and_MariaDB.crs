@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sheeri Cabral
+Course_ID=175635
+Course_System=linkedin.com
+Course_Title=Advanced MySQL and MariaDB
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MySQL and MariaDB are powerful database solutions that operate in slightly different ways. In this course Sheeri K. Cabral compares and contrasts MySQL and MariaDB, and shows you how to perform advanced tasks in each system. First, learn how to install and configure the Sphinx storage engine and HandlerSocket plugin. Then find out how to set up GTIDs (global transaction identifiers) and make replication even easier, especially for failover. Finally, discover how to install and use authentication and audit plugins, and learn how MySQL and MariaDB store geometric and geographical information. These tutorials will help you evaluate these database management systems and find useful new tools and techniques to add to your administrative arsenal. Want more information about MariaDB? Check out Understanding MariaDB for MySQL Users.

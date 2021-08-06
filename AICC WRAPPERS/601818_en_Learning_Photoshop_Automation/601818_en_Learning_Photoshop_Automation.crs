@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Harrington
+Course_ID=601818
+Course_System=linkedin.com
+Course_Title=Learning Photoshop Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever wished there was a faster way to perform routine tasks in Adobe Photoshop and Bridge? Recover time for more creative work by using actions and batch processing to automate and speed up your workflow. Author Rich Harrington covers everyday batch processing tasks, such as cropping and straightening a catalog of images to predefined dimensions, batch renaming files, and exporting creative assets like contact sheets and web galleries.

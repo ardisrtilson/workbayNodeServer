@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Wes McDermott
+Course_ID=2811014
+Course_System=linkedin.com
+Course_Title=Substance Painter 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Substance Painter is the industry standard for 3D texture creation, especially for physically-based rendering (PBR). In this course, Wes McDermott takes a beginner's look at Substance Painter 2019, walking you through a basic project—texturing a real-world game asset from start to finish. He starts with creating a new project, importing the model, and using the integrated baking system. Next, Wes shows how to work with materials and layers and provides a primer on procedurals, the brush toolset, and time savers like symmetry, stencils, and cloning. Plus, learn how to use layer effects to create realistic wear. Wes wraps up by showing you how to create portfolio renders using Iray, the integrated path-tracing renderer in Substance Painter, and export textures for use in other applications.

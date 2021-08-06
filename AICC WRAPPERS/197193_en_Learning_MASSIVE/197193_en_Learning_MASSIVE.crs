@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=J. Scott Giaquinta
+Course_ID=197193
+Course_System=linkedin.com
+Course_Title=Learning MASSIVE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this quick Up and Running course, author/producer J. Scott Giaquinta demonstrates the power of MASSIVE, Native Instrument's popular and flexible soft synth. He provides an overview of the main sound-making components, including MASSIVE's filters, modulation controls, effects, macro knobs, envelopes and LFOs, and Performer and Stepper functions.

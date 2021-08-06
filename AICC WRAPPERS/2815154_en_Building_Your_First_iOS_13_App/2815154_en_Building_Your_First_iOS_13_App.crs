@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=2815154
+Course_System=linkedin.com
+Course_Title=Building Your First iOS 13 App
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to turn your idea into a full-fledged iOS app? Learn how in this course. Todd Perkins shows folks new to iOS development how to create an iOS app in the span of an afternoon, sharing best practices along the way. Todd covers the code, tools, frameworks, and practices for building iOS applications, including how to create an Xcode project, run your first app, build a user interface, and code interactivity. Throughout the course, he includes the latest techniques and methods available with the release of iOS 13.

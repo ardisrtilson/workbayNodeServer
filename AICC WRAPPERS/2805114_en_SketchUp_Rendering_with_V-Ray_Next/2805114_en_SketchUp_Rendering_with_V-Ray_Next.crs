@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=2805114
+Course_System=linkedin.com
+Course_Title=SketchUp: Rendering with V-Ray Next
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore features of V-Ray Next, the rendering plugin which offers the power to render designs directly inside SketchUp. Instructor Brian Bradley walks through the interface of V-Ray Next for SketchUp, then demonstrates basic tools and features. Brian also shows how to add illumination to scenes using versatile lighting tools, and how to add and work with both artificial and natural-looking light. In addition, he covers the V-Ray camera, materials, map types, render elements, effects tools, and more.

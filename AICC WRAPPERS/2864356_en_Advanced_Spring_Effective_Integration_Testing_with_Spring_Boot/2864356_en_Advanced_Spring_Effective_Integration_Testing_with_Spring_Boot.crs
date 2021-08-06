@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Terezija Semenski
+Course_ID=2864356
+Course_System=linkedin.com
+Course_Title=Advanced Spring: Effective Integration Testing with Spring Boot
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Writing and running tests is an essential part of delivering reliable software, but we don’t always do so as efficiently as we could. Have you ever been in a situation where all the tests pass, yet the application still doesn’t work? In this course, instructor Terezija Semenski gets you up to speed on how to take advantage of advanced testing features in Spring Boot. Terezija explains the importance of testing and shows you how to get started with Spring Boot libraries. She covers how to leverage a Spring Boot test slice to test only a small part of your application. Terezija goes over how to verify that cache has been implemented properly. She describes what a web controller actually does and ways to create integration tests against a web controller. Terezija goes over features that help with error handling and explains how to write an integration test without making an external API call. Terezija concludes by showing you how to keep the client and web app message contract in sync.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2815082
+Course_System=linkedin.com
+Course_Title=Learning Windows Subsystem for Linux
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Subsystem for Linux (WSL) is an optional feature of Windows 10 that provides a Linux environment for developers inside of Windows. Rather than managing your own virtual machine or relying on a remote Linux machine for development, WSL provides a Linux kernel and enables users to install various distros within their Windows environment. In this course, get up to speed with the basics of WSL and explore common tasks and procedures for developing with Linux. Instructor Scott Simpson steps through how to work in the Linux environment, explaining how to use the shell, manage services within WSL, and define automated tasks that run at predefined times. Scott also covers ways to integrate WSL into your workflow, including how to install the Remote-WSL extension to use Visual Studio Code in WSL.

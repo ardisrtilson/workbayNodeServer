@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Rauland
+Course_ID=580664
+Course_System=linkedin.com
+Course_Title=Google Analytics: Spam Proofing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When spam clogs up your Google Analytics results, it can prevent you from getting real insights into your website's visitors. In this focused, practical course, learn how to clean up spam from your analytics and get clean, accurate metrics on your site by creating filters, blocking bots, and excluding crawlers. Patrick Rauland helps you understand spam in Google Analytics, showing how to identify spam and write filters to eliminate it. He also walks through how to exclude known bots and language spam, create a hostname filter, save an annotation, and create a segment to view your historical data without any spam.

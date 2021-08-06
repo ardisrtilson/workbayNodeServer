@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=513588
+Course_System=linkedin.com
+Course_Title=Unity 5: 2D Building an Adventure Game
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Create your own 2D action-adventure game for any target platform with Unity 5. If you're familiar with Unity or have taken Unity 5 2D Essential Training, this course will expand your knowledge into game development specifics, including working with controller input, tile maps, and sound, and managing multiple scenes. Follow along with Jesse Freeman as he shows how to import and optimize existing artwork as sprites and create game elements such as players, collectables, obstacles, and enemies driven by basic AI. He also shows how to build a simple splash screen and connect to your game. By the end of the course, you'll have the building blocks for your own game and a tile map editor you can use to generate new levels.

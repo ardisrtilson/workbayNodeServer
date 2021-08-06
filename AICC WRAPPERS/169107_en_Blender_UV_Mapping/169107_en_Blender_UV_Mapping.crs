@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=169107
+Course_System=linkedin.com
+Course_Title=Blender: UV Mapping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How can you apply two-dimensional images to your 3D models? With UV mapping! Darrin Lile begins this course by discussing what UV maps are and why they are important for adding textures to your models. Next, he goes over the various tools for projecting and editing UV maps in Blender—an open-source 3D graphics program with a professional-grade toolset. Want to work directly on your textures? Darrin shows how to export your UV maps for further refinement in programs like Photoshop. Finally, Darrin demonstrates how to apply these tools to a series of increasingly complex 3D models: hard-surface objects in an alley scene and the more organic shapes in a character. By the end of this course you should have a firm understanding of the essential concepts, tools, and processes of UV mapping in Blender, so you can begin adding image textures to your own 3D models.

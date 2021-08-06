@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=EJ Hassenfratz
+Course_ID=137890
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Dynamic Falling Objects in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Create your own pennies from heaven scene with CINEMA 4D. This project based learning experience shows how to use C4D's Dynamics module to animate falling coins that bounce and collide realistically. EJ Hassenfratz sets up a particle emitter to create a stream of coins from above, uses rigid body tag properties like mass and density to apply real-world physics, and the Dynamic module settings to control object interactions. He'll also show how to add polish to your project using blur and depth of field in After Effects.

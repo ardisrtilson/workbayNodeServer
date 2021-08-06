@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=508545
+Course_System=linkedin.com
+Course_Title=CINEMA 4D R18 Essential Training: VFX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cinema 4D R18 Essentials: VFX introduces artists to the Cinema 4D workflow for creating VFX and integrating them into a live action shot. Learn key concepts—such as how to track and solve a shot using the Motion Tracker—that are crucial to understanding exactly how this 3D application functions. Instructor Andy Needham includes practical techniques for removing lens distortion, importing models, and creating basic animation. Additionally, Andy discusses how to create shiny, refractive, and displaced materials. He also covers how to use the Camera Calibration tag and Projection Man to build a 3D representation of a photograph.

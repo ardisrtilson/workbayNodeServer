@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=504663
+Course_System=linkedin.com
+Course_Title=Excel 2016: Financial Functions in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Analyzing financial data can seem intimidating, but Excel has a wide range of functions to perform these calculations quickly and easily. This course shows users how and when to use each of the financial functions available in Excel 2016. Author Curt Frye covers evaluating loan payments; calculating depreciation; determining rates of return, bond coupon dates, and security durations; calculating prices and yields; and more.

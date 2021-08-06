@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=577361
+Course_System=linkedin.com
+Course_Title=AutoCAD: Preparing Drawings for Revit Linking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your AutoCAD skills to the next level by learning how to set up your drawings to be imported into or linked to Autodesk Revit. In this course, Shaun Bryant explains how to optimize and purge your AutoCAD drawings, so that they import and link seamlessly into Revit. Plus, he guides you through how to set up a simple Revit model based on a 2D linked CAD file, and start to develop the Revit model based on the information in the CAD file. After you wrap up this course, you'll have the skills and knowledge you need to get your drawings ready for Autodesk Revit.

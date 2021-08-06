@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=713375
+Course_System=linkedin.com
+Course_Title=Access 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to wrangle your data and gain deeper insights by leveraging the power of Microsoft Access 2019. In this course, Access expert Adam Wilbert shows how to use Access to build databases that help you store and retrieve your data more efficiently. Adam begins by going over the concepts behind relational databases. He then discusses how to build tables—the foundation of any database—as well as how to define the relationships between tables and use queries to find and filter data. He also steps through how to build an interface for the database from forms, complete with combo boxes; create reports for printing and sharing; and take steps to maintain your database.

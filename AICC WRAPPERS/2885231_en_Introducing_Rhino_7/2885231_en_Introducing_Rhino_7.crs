@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=2885231
+Course_System=linkedin.com
+Course_Title=Introducing Rhino 7
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you wanting to get started with Rhino, but aren’t sure where to begin? In this course, instructor Dave Schultze gives you a quick tour of the basic essentials to start using this powerful software. Dave shows you around the Rhino user interface, including how to configure and customize it. He explains terms and strategies that you will need to use, including curve types and surface types. Dave walks you through some viewport features and how to navigate the viewports by panning, zooming, and rotating. He covers viewing models with shading modes, then concludes with an explanation of the help system in Rhino.

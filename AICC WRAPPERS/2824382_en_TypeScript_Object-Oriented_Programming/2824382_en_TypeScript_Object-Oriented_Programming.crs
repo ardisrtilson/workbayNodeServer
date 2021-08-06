@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dylan Israel
+Course_ID=2824382
+Course_System=linkedin.com
+Course_Title=TypeScript: Object-Oriented Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TypeScript boasts features that go beyond (and sometimes challenge) JavaScript approaches. But this superset of JavaScript really shines in the area of object-oriented programming (OOP). If you're familiar with JavaScript and want to incorporate OOP principles into your workflow using TypeScript, then this course is for you. Join instructor Dylan Israel as he details how and why TypeScript uses object-oriented programming models. Dylan covers a range of topics, including inheritance, polymorphism, generics, and encapsulation. Along the way, he shares challenges that allow you to put your understanding of these new concepts to the test.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2892069
+Course_System=linkedin.com
+Course_Title=Hands-On SAP Business Rule Framework (BRF+)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re looking to get up and running with BRF+ quickly, hands-on experience—in programming or any other skill—is a great way to learn. This course shows you how to create a BRF+ deliverable, covering everything from the requisite jargon and project preparation, to creating formulas, decision tables, functions, and rulesets. Throughout the course, the integration between ABAP code and BRF+ is detailed, providing you with a clearer understanding of how this tool can be applied. Completing the project in this hands-on course will help you learn how to translate business rules into visual documentation, discover how to maintain documentation within BRF+, and increase your confidence in doing more complex BRF+ projects going forward. Note: This course was created by Michael Management. We are pleased to host this training in our library

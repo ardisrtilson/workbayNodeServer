@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2866026
+Course_System=linkedin.com
+Course_Title=Cert Prep: Unity Certified Associate Game Developer Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become Unity certified and show employers you have the Unity skills they are looking for. Improve your chances of landing that dream job doing what you love most—making games. This course helps you study for the Fundamentals portion of the Unity Certified Associate: Game Developer exam. Using these lessons, you can validate your knowledge of game design and programming against a benchmark of proficiency and earn a professional credential to help communicate your abilities to employers. Instructor Alan Thorn covers objectives such as creating a new project, adding and manipulating game objects, organizing and optimizing your work, and importing and using assets from other programs, such as meshes, textures, and audio. Each lesson should refresh your knowledge and prepare you for real questions you'll face on the exam. Find out more about the certification program at < https://certification.unity.com.

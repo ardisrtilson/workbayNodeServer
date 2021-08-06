@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=2812493
+Course_System=linkedin.com
+Course_Title=InfraWorks and ArcGIS: AEC Collaboration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ArcGIS Online is a complete cloud-based geographic information system (GIS) mapping software. Author Lynda Sharkey demonstrates how to work with ArcGIS Online in collaboration with InfraWorks, beginning with setting up ArcGIS Online and working with ArcGIS Online data within InfraWorks. She then covers creating content and collecting data in the field using a mobile device.

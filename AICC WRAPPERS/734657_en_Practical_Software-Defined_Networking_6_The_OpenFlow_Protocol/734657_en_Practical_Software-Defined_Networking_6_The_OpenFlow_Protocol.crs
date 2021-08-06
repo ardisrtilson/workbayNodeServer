@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=734657
+Course_System=linkedin.com
+Course_Title=Practical Software-Defined Networking: 6 The OpenFlow Protocol
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the fundamentals of the OpenFlow network communications protocol, which allows network controllers to determine the path of network packets. Explore the theory behind OpenFlow and dive into the details of OpenFlow messages. Get a practical demonstration of how to capture OpenFlow messages using the Wireshark network protocol analyzer. Plus, discover what happens when a software-defined networking (SDN) controller fails.

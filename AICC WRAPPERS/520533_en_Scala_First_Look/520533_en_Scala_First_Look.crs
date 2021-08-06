@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=520533
+Course_System=linkedin.com
+Course_Title=Scala First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The beauty of Scala is that it provides all the advantages of a new programming methodology while still allowing you to work in a more familiar language—Java. Combining object-oriented and functional concepts, this popular language is concise and eminently scalable. In this course, learn how to use Scala to elegantly handle tasks both large and small. Discover how to install Scala and familiarize yourself with basic concepts like creating variables, defining functions, using sets and arrays, and more.

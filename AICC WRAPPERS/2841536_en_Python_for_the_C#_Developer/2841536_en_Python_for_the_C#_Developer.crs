@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2841536
+Course_System=linkedin.com
+Course_Title=Python for the C# Developer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Expanding your C# knowledge to include Python gives you a competitive advantage in the job marketplace. In this course, Joe Marini helps you translate your knowledge into the Python language. Python and C# share many similarities but are different in important ways. Joe explains the difference between C# and Python comment syntax. Python’s conditional statements and loop control statements are somewhat limited compared to C#. Joe walks you through the differences. Functions are a basic part of most programming languages. Joe shows you how several important functions work in Python. Python supports class definitions, single and multiple inheritance, abstract classes, and custom functionality. Joe compares and contrasts these with C# functionality. Joe shows you how to build and work with Python arrays of various data types, how to declare and use dictionaries in Python, and how to use iterators in Python. In conclusion, Joe discusses common operations like strings and exceptions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eve Porcello
+Course_ID=2307633
+Course_System=linkedin.com
+Course_Title=Learning ECMAScript 6+ (ES6+)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ECMAScript—the standardized version of JavaScript—keeps getting more powerful. ES6 was a large leap forward, introducing features that changed how developers structure programs. But every year since there have been updates and additional improvements. This course helps you create modern JavaScript applications leveraging the most interesting and useful features in ES6+. Eve Porcello introduces the new keywords and operators that can help simplify code, as well as new ways of creating functions and objects. She also shows you how to write and search through template strings, create map objects to store key/value pairs, move values from one array to another—or one object to another—with the spread operator, build reusable classes, and use arrow functions and generators. Plus, learn how to handle asynchronous data and tasks with promises, fetch, and the async/await syntax. This course was created by Eve Porcello. We are pleased to offer this training in our library.

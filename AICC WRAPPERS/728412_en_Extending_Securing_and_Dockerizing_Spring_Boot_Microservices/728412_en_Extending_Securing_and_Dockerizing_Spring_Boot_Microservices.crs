@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mary Ellen Bowman
+Course_ID=728412
+Course_System=linkedin.com
+Course_Title=Extending, Securing, and Dockerizing Spring Boot Microservices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build on the foundational knowledge you have of the Spring framework. Learn how to extend, refine, harden, test, and dockerize your Spring Boot microservices, and turn them into production-ready applications. Instructor Mary Ellen Bowman teaches the intermediate skills you need to build professional-grade programs, emphasizing standards for quality, security, persistence, and deployment. She shows how to link to external databases, build secure APIs, use unit and integration testing to uncover application flaws during development, and configure scalable deployment options with Docker containers.

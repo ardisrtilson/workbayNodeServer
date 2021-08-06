@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon-Luke West
+Course_ID=5005063
+Course_System=linkedin.com
+Course_Title=Android Development: Retrofit with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web integration is one of the foundational pillars of a good mobile app. But it doesn’t mean you have to write a lot of code. Square offers a free, open-source library called Retrofit that makes integrating with a web API a breeze. This course explains how to use Retrofit to connect an Android app to the cloud. Instructor Jon-Luke West—an Android product engineer—reviews the basics of web communication with REST APIs and the methods for reading and writing data to the cloud. He shows how to define your data models and write API-related code for a sample project using popular packages like GSON. He also covers the configuration options that are available, such as customizing the data converter and serializing multipart HTTP requests.

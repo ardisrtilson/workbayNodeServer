@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Parth Anand
+Course_ID=2315935
+Course_System=linkedin.com
+Course_Title=AR Development Techniques 03: Recognition and Tracking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course, the third in a four-part series, teaches you about image tracking, face tracking, hand tracking, and object recognition in AR application development in Unity. Instructor Parth Anand explains how image tracking works and what kinds of images are suitable for tracking. Next, he discusses how to create a simple image tracking app with just one image. He demonstrates how to create a book recognition and tracking app. Parth covers how object detection works and what kind of objects are suitable for detection. Then he goes into how to create a simple object detection app where the user can scan and overlay virtual content on a real-world object. Next, Parth steps you through how to create an AR glasses try-on app where the user can try different glasses models, change frame colors, and go to the product webpage to buy the glasses. Parth explains how to set up and use the ManoMotion SDK for manipulating virtual 3D objects using grab, pinch, and click hand gestures. Note: The fourth installment in this series will be released in January 2021.

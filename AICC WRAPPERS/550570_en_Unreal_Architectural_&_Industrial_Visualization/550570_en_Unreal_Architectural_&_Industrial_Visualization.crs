@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Barr
+Course_ID=550570
+Course_System=linkedin.com
+Course_Title=Unreal: Architectural & Industrial Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unreal Engine 4 (UE4) offers a suite of tools made for real-time visualization that you can use to create unique experiences outside of the traditional games industry. In this course, learn how to use UE4 to build a first-person perspective project. The course begins by going into asset preparation for UE4, and how to organize assets within the project structure. Next, learn about building materials and lighting for effective and compelling real-time rendering. The course wraps up by looking at three ways you can present your visualization project: as images, as video, and as an interactive, playable game.

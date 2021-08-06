@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joli Ballew
+Course_ID=777400
+Course_System=linkedin.com
+Course_Title=Windows 10: Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn networking with Windows 10. This step-by-step course demonstrates how to connect a Windows 10 machine to an existing network and manage a variety of network settings. Instructor Joli Ballew shows you how to get connected to the internet, access network resources such as printers, and connect to Wi-Fi. Find out how to keep your system secure by configuring a basic firewall with Windows Defender. Joli reviews the security implications of different settings, so you can make informed decisions that help protect your computer when using public networks. Lastly, she explains the native firewall rules and shows how to create your own custom inbound and outbound rules. Finally, learn how to troubleshoot your network connection with command-line tools like ipconfig and PathPing. Note: This course aligns to the Configure Networking domain from the Microsoft exam 70-697: Configuring Windows 10 Devices.

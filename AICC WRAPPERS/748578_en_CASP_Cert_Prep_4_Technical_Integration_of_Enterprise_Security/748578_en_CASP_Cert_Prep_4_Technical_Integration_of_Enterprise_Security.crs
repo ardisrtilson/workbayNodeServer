@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Dion
+Course_ID=748578
+Course_System=linkedin.com
+Course_Title=CASP+ Cert Prep: 4 Technical Integration of Enterprise Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing and building a secure enterprise network ensures a business is ready to meet the security challenges of today's threats. In this course—the fourth installment of the CASP+ Cert Prep series—instructor Jason Dion shows IT security professionals how to secure diverse systems, detailing how to properly integrate various key technologies into a secure enterprise architecture. The fundamental concepts Jason covers throughout this course can prepare you to ace domain 4 of the CompTIA Advanced Security Practitioner (CASP+) exam: Technical Integration of Enterprise Security. He shares real-world examples as he covers how to securely integrate hosts, storage, networks, applications, the cloud, authorization systems, and more into the enterprise architecture. We are a CompTIA Content Publishing Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

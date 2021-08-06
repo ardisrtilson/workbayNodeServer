@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul Tice
+Course_ID=802850
+Course_System=linkedin.com
+Course_Title=Learning Pix4D Drone Mapping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Pix4D is a leader in small unmanned aerial system (sUAS or drone) photogrammetry, building software that enables users to analyze complex image data and create orthomosaics and 3D models, all from photographs. With a drone, a camera, and the powerful processing engine in Pix4D, the science of photogrammetry is accessible to just about anyone. In this course, you can learn the basics of using Pix4D. Instructor Paul Tice explains how Pix4D pairs with different drones and cameras, and then shows how to program simple 2D missions for your drone with Pix4Dcapture. He then shows how to prepare for flight and retrieve the data and imagery once your drone has landed. In the last few chapters, Paul dives into Pix4D Desktop, where he shows how to process your data and produce outputs such as point clouds, 3D maps, and models. Plus, learn how to deal with large projects and turn the power of Pix4D onto architecture, engineering, and construction (AEC) data, such as 3D building scans.

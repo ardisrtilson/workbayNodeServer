@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ami Levin
+Course_ID=2806964
+Course_System=linkedin.com
+Course_Title=First Look: MySQL 8 for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to make the jump to MySQL 8? In this course, get a first look at all that MySQL 8 has to offer. Instructor Ami Levin highlights the new capabilities introduced in MySQL 8, showing how to leverage these enhancements to build robust, elegant, performant, scalable, and secure applications in less time and with drastically reduced costs. Learn about common table expressions (CTE) and how to use them to make your queries more concise. Explore window functions and how they impact query processing. Plus, learn how to work with lateral derived tables to solve real-world SQL challenges, leverage InnoDB enhancements, and work with features that make it easier to tighten security and boost performance.

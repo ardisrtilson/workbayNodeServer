@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Amanda Stockwell
+Course_ID=2824226
+Course_System=linkedin.com
+Course_Title=UX Deep Dive: Foundational Research
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When it comes to UX research, there are two major categories: evaluating what’s already been done, or exploring and defining unknown spaces. Evaluative work is great, but if you’re starting from scratch or trying to figure out who your users are, you’re going to need to turn to foundational research, which involves the exploration of users, contexts, or possibilities. This approach can help you understand what you should be building and for whom. In this course, Amanda Stockwell guides you through the ways foundational research can help uncover new opportunities and areas for improvement, regardless of your current state. Amanda starts by describing what foundational research is and how it differs from evaluative research in UX. She then covers different forms of foundational research like ethnography, data mining, and market research. Much as you wouldn’t start building a house from the third floor, building a strong foundation to your UX research will bolster every step going forward.

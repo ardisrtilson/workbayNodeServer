@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=189066
+Course_System=linkedin.com
+Course_Title=Learning SSH
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Secure Shell (SSH) offers a safe way to communicate with a server and to connect to systems remotely. Consequently, SSH is a vital skill for anyone who works in IT. In this short course, Scott Simpson explains what SSH is and shows how to connect to an SSH server from different operating systems. He also demonstrates how to transfer files via SSH File Transfer Protocol (SFTP) and secure copy (SCP), and how to set up your own SSH server on Linux and Mac OS X.

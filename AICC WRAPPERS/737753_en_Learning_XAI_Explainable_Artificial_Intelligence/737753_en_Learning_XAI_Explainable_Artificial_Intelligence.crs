@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aki Ohashi
+Course_ID=737753
+Course_System=linkedin.com
+Course_Title=Learning XAI: Explainable Artificial Intelligence
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Now that AI and machine learning are widespread, people are starting to ask, Is the technology actually making the best decisions? Can AI be trusted? How and where do humans fit in? Explainable artificial intelligence (XAI) is a solution that increases transparency about how AI systems make decisions and take actions. This course provides a solid introduction of how XAI works and the value it provides to data science-related businesses and initiatives from legal and commercial perspectives. Instructor Aki Ohashi, director of business development for PARC, a Xerox company, bridges the gap between AI's potential and pitfalls, presenting executives, entrepreneurs, managers, and team leaders with exactly what they need to know to stay on top of how AI affects their fields. He uses real-world examples and cases studies to show what XAI is, how it works, how it's being used right now, and where it may have the most impact in the future.

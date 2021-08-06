@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Shostack
+Course_ID=2877081
+Course_System=linkedin.com
+Course_Title=Threat Modeling: Denial of Service and Elevation of Privilege
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this installment of Adam Shostack’s Threat Modeling series covering the STRIDE threat modeling framework, Adam goes over the D and E parts of the framework: denial of service and elevation of privilege. For both threats, Adam digs deep into two main questions: “What can go wrong?” and “What are we going to do about it?” He details the many targets of denial-of-service attacks like storage, memory, CPU bandwidth, and budget, and how elevation of privilege exists in basically any running code. He then goes over structured methods for ensuring that your systems are resistant to the various types of DoS attacks and elevation-of-privilege attacks. These attacks affect all manner of systems, and having an understanding of how they work and how to combat them are essential parts of a comprehensive approach to cybersecurity.

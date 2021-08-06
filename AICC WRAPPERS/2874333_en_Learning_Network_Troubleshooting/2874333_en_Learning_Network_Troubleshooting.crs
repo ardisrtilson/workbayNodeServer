@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2874333
+Course_System=linkedin.com
+Course_Title=Learning Network Troubleshooting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Troubleshooting network issues is a key skill for a wide range of IT professionals and network professionals. In this course, instructor Robert McMillen teaches you the skills and tools that you need to start network troubleshooting. Robert begins with an overview on how to triage network problems, including basic TCP/IP issues and causes, then steps you through some common home networking and wireless issues. He covers the most common issues with corporate wireless networks and how to troubleshoot Wi-Fi interference. Robert explains different types of VPN, common errors you may encounter, and how to fix them. After showing you some network tools that administrators need to know, he discusses how to fix problems you may run into with routing, switching, and firewalls.

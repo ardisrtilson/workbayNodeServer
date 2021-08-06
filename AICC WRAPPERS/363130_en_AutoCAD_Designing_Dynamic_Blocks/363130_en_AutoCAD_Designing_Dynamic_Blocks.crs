@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=363130
+Course_System=linkedin.com
+Course_Title=AutoCAD: Designing Dynamic Blocks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build intelligence into your AutoCAD drawings with dynamic blocks. Dynamic blocks allow you to quickly change the shape, size, position, orientation, and visibility of objects in blocks according to parameters and constraints that you define ahead of time. In this course, author Scott Onstott shows step-by-step how to build everything from static blocks to complex dynamic blocks that include parameters, actions, and geometric and dimensional constraints with preset attributes driven by fields. Once you have built and refined dynamic blocks, you will learn several methods to share your masterpieces with colleagues.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris O'Dell
+Course_ID=728396
+Course_System=linkedin.com
+Course_Title=Learning HashiCorp Packer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Packer, a popular DevOps tool for simplifying the creation of machine images, and implement a continuous development approach to changes in your software. Packet standardizes the creation of machine images for cloud and on-premises environments, making the process less time-consuming and error-prone. In this course, instructor Chris O'Dell shows how to build Ubuntu images for environments like Amazon EC2, provision and debug the images with a configuration management tool like Ansible, and build hardened images that can withstand the latest attack vectors. Plus, learn how to build a Jenkins pipeline for Packer images to run automated builds from source control. Chris also provides challenge and solution videos for each chapter, so you can test your knowledge as you proceed through the course.

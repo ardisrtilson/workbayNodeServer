@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Val Head
+Course_ID=133331
+Course_System=linkedin.com
+Course_Title=Responsive Typography Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create typography that's beautiful, functional, and easily scalable across tablets, phones, and computers of all types and sizes. Designer Val Head shows you how to choose quality web fonts, develop a typographic scale and rhythm throughout your design, and build bulletproof font stacks. Plus, learn how to use media queries and CSS rules to keep your type looking great at any size. This course is a collection of best practices and techniques that will soon be an indispensible part of any web typesetter's toolbox.

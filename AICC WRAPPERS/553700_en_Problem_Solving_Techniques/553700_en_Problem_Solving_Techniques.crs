@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Croft
+Course_ID=553700
+Course_System=linkedin.com
+Course_Title=Problem Solving Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You can't solve a problem unless you can get to the cause—and sometimes there's more than one. In this course, learn techniques for identifying the root cause of a problem, generating options, and selecting the best solution. Chris Croft takes you through several methods for identifying what's actually causing a problem, including looking at the whole system when a problem is actually a symptom of a larger issue. He also explains how to generate potential solutions using mind maps and decision trees, how to boost your creativity to help you come up with more insightful options, and how to use both logic and your intuition to select the right solution to your problem.

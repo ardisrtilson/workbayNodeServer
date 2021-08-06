@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=601781
+Course_System=linkedin.com
+Course_Title=Unreal Game Mechanics: Camera Walk Action
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A swaying or bobbing motion that accompanies players as they walk a level can help add immersion to any game. This course gives the up-and-coming game maker everything needed to implement this common game mechanic inside Unreal Engine 4. The technique relies on Blueprints, the node-based scripting system in Unreal. Joel Bradley starts off with an overview of the Blueprint node and the Timeline node, and shows how to plan an effective Blueprint network. Then he shows exactly how to create a camera shake blueprint, add the effect to the player camera, and—for added realism—speed up and slow down the effect as the character starts and stops walking. Finally, learn how to trigger the effect with player movement and adjust the intensity of shake.

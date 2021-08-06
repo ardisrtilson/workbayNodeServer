@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2823101
+Course_System=linkedin.com
+Course_Title=GitHub Actions First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Actions, a developer productivity and CI/CD suite of tools from GitHub, offers developers a new way to automate workflows for their web projects. Each action—which is a set of custom instructions—can be combined with other actions to create a workflow. You can have tasks that run on a specific timeframe, control what happens when someone interacts with the GitHub repository, and more. In this brief course, learn about the main features of GitHub Actions, as well as the possibilities that it offers you and your organization. Ray Villalobos helps to acquaint you with Actions, explaining how to trigger actions, work with jobs, work with different types of contexts, store secrets inside a repository so that multiple users or APIs can securely access them, and use external actions.

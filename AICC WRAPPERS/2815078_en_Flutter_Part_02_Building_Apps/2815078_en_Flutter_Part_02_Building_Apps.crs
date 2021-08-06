@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2815078
+Course_System=linkedin.com
+Course_Title=Flutter: Part 02 Building Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Flutter, the cross-platform mobile development framework, you can design beautiful apps with minimal effort. This explains how to create a basic app from scratch in Flutter. Learn how to set up your project, scaffold the app with widgets, and incorporate assets such as images and text. Instructor Angela Yu also explains how to deploy your app to Android and iOS devices for testing. Take the challenge at the end of the course to fully customize your app and practice your new Flutter skills. This course was created by London App Brewery. We are pleased to host this content in our library.

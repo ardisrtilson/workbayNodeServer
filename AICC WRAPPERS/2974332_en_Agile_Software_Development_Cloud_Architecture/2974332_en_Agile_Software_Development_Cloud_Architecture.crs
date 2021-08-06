@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shashi Shekhar
+Course_ID=2974332
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Cloud Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+At its essence, agility in enterprise is an approach focused on the ability to adapt and follow an empirical process to learn and improve over time in order to provide better business value to customers. Today, many organizations are using cloud computing to enhance agility, and in this course, Shashi Shekhar covers how to use the cloud to architect your applications and infrastructure to enhance agile software development practices. Shashi illustrates these key points through a case study of a fictional financial advisory company, highlighting the planning and implementation of cloud architecture to improve agility. He shows how to build a microservices-based architecture and deploy it in the cloud to achieve automatic scaling and minimize downtime. Whether you’re a developer, solutions architect, or project manager responsible for enterprise modernization, this course gives you tools toward replacing legacy systems with highly resilient and extensible systems.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=459494
+Course_System=linkedin.com
+Course_Title=AutoCAD: Tool Palettes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What could make AutoCAD even more flexible and powerful? The answer lies in a humble feature: tool palettes. AutoCAD tool palettes put the commands you need at your fingertips, and they are easy to customize and share. In this course, Shaun Bryant shows you how. Learn how to use AutoCAD DesignCenter to create new tool palettes and insert blocks, styles, hatches, and even DWG files on palettes. Find out how to build palette groups and import and export palettes for sharing. To close, Shaun walks through a three-part workflow for developing a tool palette from scratch, getting you to a point where you can customize tool palettes on your own, and work more quickly and productively on the world's most well-known CAD platform.

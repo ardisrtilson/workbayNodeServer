@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Modglin
+Course_ID=636111
+Course_System=linkedin.com
+Course_Title=AutoCAD Add-ins Using VB.NET
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you familiar with Autodesk products, but new to programming? If so, this course can help you get up to speed with the basics of .NET programming, and how these concepts can be applied to AutoCAD. Here, instructor Josh Modglin shows how to work with the AutoCAD .NET application program interface (API) and the Visual Basic .NET programming language to create a plugin—which is a module that loads into AutoCAD to extend its functionality. Josh also shares more detailed explanations of the underlying principles of Visual Basic .NET, and demonstrates how to further develop the functionality of your plugin.

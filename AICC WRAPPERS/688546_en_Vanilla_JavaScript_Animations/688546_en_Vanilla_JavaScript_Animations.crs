@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=688546
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Animations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore strategies and techniques for animating content using JavaScript and native web technologies. In this focused course, instructor Joseph Labrecque demonstrates how to use vanilla JavaScript to perform common animations within modern web browsers. Joseph begins by covering basic web development concepts, including how to create an HTML document and style it with CSS. He then goes into JavaScript animation fundamentals, looking at how to configure Document Object Model (DOM) elements—the foundational tag structure of HTML—and how to animate these elements across the viewport. He also looks at the HTML5 canvas element and how to perform complex animations within this single, powerful drawing surface. Finally, he looks at the future of JavaScript animation through the Web Animations API, which provides a common language for browsers and developers to describe animations and interact with playback.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2253158
+Course_System=linkedin.com
+Course_Title=Microsoft Dynamics 365 Administration: Customer Engagement Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Gini von Courter dives into administering a Microsoft Dynamics 365 enterprise account for customer engagement. Gini begins the course with an exploration of a newly installed Dynamics 365 environment and a walkthrough of the common configurations and settings. Gini goes on to discuss the tasks and functions required to administer and refine Dynamics 365 for Customer Engagement in an organization.

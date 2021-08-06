@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bonnie Biafore, John Riopel
+Course_ID=387676
+Course_System=linkedin.com
+Course_Title=Managing Time-Constrained Projects with Microsoft Project
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to manage projects with time constraints and fast-track schedules with Microsoft Project. This course, taught by expert project manager John Riopel, shows how to verify project schedules by checking task links, checking lag between tasks, removing unnecessary date constraints, and more. He then shows how to review the schedule and display the critical path, use multiple critical paths, and find incomplete paths. Then find out how to shorten the schedule by fast-tracking tasks, shortening lag time, using crashing, reducing scope, and assigning overtime. Finally, learn how to best execute the schedule, setting a baseline and entering actuals for the project. Note: This course was designed in collaboration with author Bonnie Biafore.

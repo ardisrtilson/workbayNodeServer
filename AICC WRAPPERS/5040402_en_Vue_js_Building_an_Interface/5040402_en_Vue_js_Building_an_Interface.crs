@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=5040402
+Course_System=linkedin.com
+Course_Title=Vue.js: Building an Interface
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The perfect way to learn Vue.js is to use Vue.js. Once you build an app interface and see its strengths and flexibility in action, you can decide how much of Vue.js you want to use in your own projects. This hands-on course teaches you how to build a simple component-based app: an appointment booking and management system with features for searching and sorting. Along the way, Ray Villalobos shows how to use Vue.js components and subcomponents; build forms; create, update, and delete data; and manage events. By the end of the course, you'll have a functional app prototype and more skills with this flexible framework. Take the related courses in Angular, React, and jQuery to see how to build the same project in multiple frameworks and choose the one that’s right for you.

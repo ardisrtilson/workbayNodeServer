@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=479403
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Enumeration (2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ethical hacking is one of the most desired stills for any IT security professional. White hat hackers can detect, prevent, and mitigate network intrusions and data theft: a critical liability for any company that does business online or in the cloud. This course introduces to the concept of enumeration—identifying the resources on a host or network, including user names, ports and services, policies, and more. It covers protocol, process, and service enumeration on Windows and Linux, and maps to the Enumeration competency from the Certified Ethical Hacker (CEH) body of knowledge. Malcolm discusses host profiling, enumerating protocols (such as SMB, RPC, and SNMP), and enumerating the Internet, and concludes with demos of third-party tools organizations can use to mitigate risk, including SuperScan, NetScan Pro, and JXplorer. An overview of the CEH exam, blueprint, and eligibility criteria can be found at https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/.

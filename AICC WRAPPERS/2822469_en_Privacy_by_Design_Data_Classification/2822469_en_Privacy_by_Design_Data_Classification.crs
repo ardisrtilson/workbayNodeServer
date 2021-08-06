@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nishant Bhajaria
+Course_ID=2822469
+Course_System=linkedin.com
+Course_Title=Privacy by Design: Data Classification
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Companies often collect customer data with third parties to enable better products and growing engagement, as well as for safety reasons. But users expect—and deserve—that their information is handled with great care. In this course, instructor Nishant Bhajaria steps through how to create an architecture to manage data collection and measure risk, as well as afford privacy protections relative to that risk. This architecture—which is a combination of technology, techniques, and processes—can enable companies to be more disciplined with data while collecting and processing it. Nishant goes over the current privacy landscape, explains how classifying data can save you money in the long run, and shares what the data classification process should look like. He also takes a deep dive into the data inventory process, explaining how to best approach it and discern whether it is succeeding. Finally, Nishant provides context on executive communication on privacy governance. Note: Want to continue learning how to strengthen your organization's privacy infrastructure? After wrapping up this course, check out the final installment in this series, Privacy by Design: Data Sharing.

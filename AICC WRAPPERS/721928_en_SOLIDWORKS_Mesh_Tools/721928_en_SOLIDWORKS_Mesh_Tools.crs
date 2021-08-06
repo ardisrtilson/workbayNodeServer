@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=721928
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Mesh Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the popularity and affordability of 3D scanning, engineers are increasingly relying on scan data to build their designs. SOLIDWORKS has many tools to handle point clouds and meshes and convert this data into elegant 3D models. In this course, instructor David Antanavige focuses on editing and manipulating mesh file types in SOLIDWORKS, and converting the data into usable surface and solid bodies. These techniques can be used to reverse engineer or replace legacy parts, assist with 3D printing and scanning, and create editable geometry. Learn how to open and import scan files, edit and repair meshes, replace faces, and combine and delete bodies with the Boolean geometry tools. Then discover how to use the ScanTo3D feature to manipulate mesh data on import, and use the new SOLIDWORKS 2019 tools for working with mesh BREP bodies. Finally, David shows how to export a mesh in preparation for 3D printing.

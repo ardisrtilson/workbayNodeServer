@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=624261
+Course_System=linkedin.com
+Course_Title=SharePoint: Site Customization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint site owners have a lot of control over the look and functionality of the sites they manage. In this course, Bill Kulterman shows how to customize your SharePoint site to suit your company's brand and your team's workflow. Get simple customization tips to add navigation, apply out-of-the-box themes, add and edit pages, change layouts, and insert elements such as backgrounds, images, and custom colors. Plus, learn how to use App Parts and Web Parts to provide more functionality and a better user experience.

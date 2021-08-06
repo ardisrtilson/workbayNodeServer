@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=434737
+Course_System=linkedin.com
+Course_Title=Agile Project Management: Comparing Agile Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Agile is an exciting way to quickly deliver higher-quality products to your customer. New agile tools are emerging every day. This course helps you compare the strengths and capabilities of several different agile software tools, including Microsoft Excel, Atlassian JIRA, VersionOne, Microsoft Team Foundation Server (TFS), CA Agile Central (formerly Rally), and Agility Health. You'll see the advantages of simple tools like spreadsheets versus more complex solutions like complete product management packages. This course helps project managers, software developers, and other professionals determine which tool is the best fit for their team. Agile expert Doug Rose provides a fast-paced tour and an unvarnished look at what some of the tools get right and what some get wrong. Doug concludes each section with suggested strategies for selecting the right tool for your team—always remembering that no tool should ever overshadow the core values outlined in the agile manifesto.

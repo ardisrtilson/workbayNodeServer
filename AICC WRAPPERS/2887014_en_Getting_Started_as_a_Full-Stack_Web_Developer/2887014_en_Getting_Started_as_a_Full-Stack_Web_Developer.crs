@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Geller
+Course_ID=2887014
+Course_System=linkedin.com
+Course_Title=Getting Started as a Full-Stack Web Developer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever said, “I want to get into web development, but I don't know where to start”? If you’re looking for practical ways to begin, then this introductory course is for you. Instructor Tom Geller gets you started on the multi-skill path to becoming a full-stack web developer. Tom introduces the tools you’ll use, then walks you through some simple tasks you can do right away. He shows you how to get online with a webhost, then tackles technologies that you can use to show information, such as HTML and CSS. Tom goes over types of programming languages, website security, tools that let you connect to databases and other sites, and more. He explains ways you can build on the work of others, then concludes with practical advice on developing your skills.

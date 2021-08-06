@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Fine
+Course_ID=2863045
+Course_System=linkedin.com
+Course_Title=Software Testing Foundations: Test Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+We may marvel at a musician or athlete for their high level of skill and execution, but equally as important as their mastery of skills is their incredible technique in applying those skills. Technique is something you develop to ensure that whatever you deliver is the best possible outcome of your work, and in this course, Mike Fine applies this idea to software testing. As Mike shows, the more refined and honed your skills are, the better the results of your testing. Whether you’re a software tester looking to add to your skills, or prepping for an ISTQB certification, mastering many different test techniques only increases the chances that you have the tools to accomplish any task. Mike covers key techniques like black-box testing, white-box testing, and experienced-based testing. As these techniques are often full of esoteric lingo and complicated terminology, Mike also gives some advice on how to communicate your testing process so your results aren’t lost in technical jargon.

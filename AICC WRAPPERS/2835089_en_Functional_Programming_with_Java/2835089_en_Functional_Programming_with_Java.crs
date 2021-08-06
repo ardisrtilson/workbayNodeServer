@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2835089
+Course_System=linkedin.com
+Course_Title=Functional Programming with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Functional programming is a way of organizing code that makes applications more scalable and maintainable. By utilizing the core concepts of immutability, data-function separation, and first-class functions, programmers can write better code. In this course, learn about the functional programming paradigm and see how to take advantage of it with Java and object-oriented programming. Apply the learnings to real-world code and examine some of the more advanced and misunderstood concepts—such as partial-application, recursion, and composition—to become skilled in developing flexible code.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Spike Xavier
+Course_ID=360032
+Course_System=linkedin.com
+Course_Title=SharePoint 2013: Installing and Configuring a Test Environment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For a successful SharePoint deployment, it's a best practice to create a test environment first. However, SharePoint is not a simple next, next, next installation. There are hosts to prepare, virtual machines to configure, connections to make. So let an expert walk you through it first. In this course Spike Xavier covers the entire process of preparing, installing, and configuring a three-machine, on-premises SharePoint 2013 farm that can be used for testing and development. He'll show how to prepare a Windows 8.1 client, configure the host machine to use Hyper-V, and configure the three virtual machines that will power the SharePoint farm. Plus, learn how to install and connect Workflow Manager to take advantage of the new SharePoint Designer 2013 workflows.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=148137
+Course_System=linkedin.com
+Course_Title=JavaScript: Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What are JavaScript functions? They're the subprograms that power your code. You truly master the use of JavaScript once you learn how to work with functions. In this course, author Ray Villalobos explains how functions work, how they're declared, and how they're invoked, and then issues a challenge exercise that allows you to test your knowledge. In the third and final chapter, he'll show you how to set up anonymous closures and create JavaScript modules that make your code easier to reuse.

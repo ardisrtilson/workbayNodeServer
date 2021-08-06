@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=802858
+Course_System=linkedin.com
+Course_Title=Python GUI Development with Tkinter
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Put an end to writing command-line interfaces for your programs. Use Tkinter, the Python package for creating themed interface elements with the Tk GUI toolkit. Join Barron Stone in this course as he walks through the most popular Tk widgets and shows you how to customize their appearance and behavior to fit your application. Learn how to manage the placement of those widgets on the GUI and make them react to user behavior with event-driven code. The final chapter takes you through the entire start-to-finish process of building the user interface for an application, so you can see how all of these techniques work in a real-world development scenario.

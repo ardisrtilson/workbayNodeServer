@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=431191
+Course_System=linkedin.com
+Course_Title=Excel for Mac 2016: Macros
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Macros—automated actions or sets of actions in Excel—can spare you some of the tedium associated with repetitious command sequences and data manipulation tasks. In this course, learn how to create and use macros to automate tasks in Excel 2016 for Mac. Discover when it's appropriate to use macros, how to create macros by recording keystroke and command sequences, and how to expand a macro for more than one task. Learn how to launch macros with keystroke shortcuts and buttons, record a formatting macro and alter VBA code, and expand macro functionality with If statements and interactive techniques. Plus, watch the step-by-step execution of macro code.

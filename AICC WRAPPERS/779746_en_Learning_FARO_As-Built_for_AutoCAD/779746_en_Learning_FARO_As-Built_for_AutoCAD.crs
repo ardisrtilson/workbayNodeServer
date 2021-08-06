@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Irene Radcliffe
+Course_ID=779746
+Course_System=linkedin.com
+Course_Title=Learning FARO As-Built for AutoCAD
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Today's clients demand a level of accuracy that's difficult to reach with traditional measuring tools. FARO As-Built allows you to leverage scan data to extract piping, structural steel, and building details in AutoCAD. In this course, you can learn how to work with FARO As-Built, from configuring your project and scan data to sectioning and slicing and digitizing your scan. You can also get familiar with the drawing tools available and learn how to use VirtuSurv, the FARO software for producing more realistic and intuitive views of scan data. Instructor Irene Radcliffe also shows how to apply your skills to model piping, steel structures, and floor plans. Once you complete the training, you should be able to model everything from utility rooms to complex plant facilities using FARO As-Built.

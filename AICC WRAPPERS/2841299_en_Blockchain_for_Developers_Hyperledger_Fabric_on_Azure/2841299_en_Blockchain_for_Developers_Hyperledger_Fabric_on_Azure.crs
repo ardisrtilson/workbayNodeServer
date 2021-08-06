@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gurinder Singh Mann
+Course_ID=2841299
+Course_System=linkedin.com
+Course_Title=Blockchain for Developers: Hyperledger Fabric on Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blockchain technology emerged in tandem with Bitcoin, but its potential far exceeds its function in the world of cryptocurrency. Blockchain offers enterprises a way to store all manner of data in a more secure, efficient, and validated manner—a boon for companies of all stripes. In this course, learn how to tap into the power of enterprise blockchain as a developer as you build a working application using Hyperledger Fabric in Microsoft Azure. Instructor Gurinder Singh Mann explores the fundamentals of enterprise blockchain and covers the basics of the Hyperledger Fabric network, an enterprise-grade permissioned distributed ledger technology (DLT) platform. After digging into setup and key concepts, Gurinder steps through how to build an app using Hyperledger Fabric. A capstone challenge and solution at the end of the course provide you with hands-on experience.

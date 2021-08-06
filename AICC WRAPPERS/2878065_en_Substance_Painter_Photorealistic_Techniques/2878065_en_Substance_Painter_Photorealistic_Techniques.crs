@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=2878065
+Course_System=linkedin.com
+Course_Title=Substance Painter: Photorealistic Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Substance Painter is a real-time 3D painting tool that allows visual artists to create incredibly detailed materials for use in product visualization, architectural visualization, VFX, and animation. In this course, instructor Joel Bradley shows you how to create a photorealistic material that will make a 3D object in Substance Painter look real. Joel explains how to organize folders and base layers, bake mesh maps, use color ID masks, and more. He covers how to use existing materials to save time, as well as how to augment smart materials and blend materials together. Joel goes into techniques you can use to create the details you need to achieve photorealism. He concludes by showing you how to add subtle details with hand painting and how to export your material so you can put it to use.

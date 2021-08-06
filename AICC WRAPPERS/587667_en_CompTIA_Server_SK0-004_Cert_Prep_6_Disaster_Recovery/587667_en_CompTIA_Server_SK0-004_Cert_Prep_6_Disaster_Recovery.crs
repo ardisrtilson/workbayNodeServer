@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=587667
+Course_System=linkedin.com
+Course_Title=CompTIA Server+ (SK0-004) Cert Prep: 6 Disaster Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CompTIA Server+ Cert Prep is a comprehensive 7-part series designed to help viewers prepare for, and pass, the CompTIA Server+ (SK0-004) certification exam. This course focuses on the Disaster Recovery portion of exam. Instructor Ed Liberman covers principles such as replication and continuity of operations, and the techniques and best practices for backing up CompTIA Server+. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

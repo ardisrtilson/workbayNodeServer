@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=5019827
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Configure Hyper-V
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft offers Windows Server 2019 users the ability to create virtualized computing environments with Hyper-V. This course explains how to install, configure, and work with the Hyper-V role in Windows Server 2019. Instructor Ed Liberman guides you through creating virtual switches, virtual machines, and virtual hard disks, and shares how to install a guest OS and manage checkpoints. He also covers how to efficiently implement storage migration and live migration.

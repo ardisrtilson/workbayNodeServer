@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2804045
+Course_System=linkedin.com
+Course_Title=Unity 3D 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity is a powerful 3D development tool for mobile and desktop games, real-time simulations and visualizations, and even short films. This course is designed to transform complete beginners into savvy users with enough skill to be dangerously effective in Unity 2019. Start with a tour of the Unity interface and discover how to set up a simple project. Then find out how to import assets—or create your own—and use materials to bring your objects to life. Instructor Emmanuel Henri then shows how to design levels with ProBuilder and create reusable objects called prefabs. Once you’ve mastered these basics, you’re ready to explore the chapters on animation, collisions, audio, lighting, scripting, and special effects. To wrap up, Manny shows how to package and present a complete Unity project.

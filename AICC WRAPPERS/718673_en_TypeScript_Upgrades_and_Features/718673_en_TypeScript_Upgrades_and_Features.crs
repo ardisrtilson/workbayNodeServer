@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=718673
+Course_System=linkedin.com
+Course_Title=TypeScript: Upgrades and Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Like all JavaScript-based technologies, TypeScript is changing rapidly as it grows. This course introduces the new kinds of types and the approaches to interacting with them, as well as other features of this rapidly evolving scripting language. Instructor Emmanuel Henri shows how to take advantage of the latest features in TypeScript, as well as critical updates from previous versions, such as type tagging, generators and iterators, and control flow analysis. By the end of the course, even well-versed TypeScript programmers will have found something new to add to their daily workflow.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Heather Severino
+Course_ID=2870043
+Course_System=linkedin.com
+Course_Title=Microsoft Teams: Automating with Bots, Connectors, and Flows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Did you know you can automate many tasks in Teams? Microsoft Office Apps and Services MVP and Microsoft Certified Trainer Heather Severino teaches how to do more in less time with bots, connectors, and flows. Heather starts by showing how to speed things up with bots, including how to quickly find colleagues and projects, automate meeting scheduling, create polls and surveys, and track team progress. Next, she shows how to pull in relevant content with connectors, including pulling pertinent news stories and RSS feeds. She demonstrates creating flows with Power Automate, which allow you to post messages to a Teams channel or conversation automatically whenever a new Planner task is created, a new Forms response is received, an Outlook email arrives, or a new tweet matches a particular hashtag. Finally, Heather shares where to go for more help in automating Microsoft Teams.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=677169
+Course_System=linkedin.com
+Course_Title=Revit: Parametric Curvature in the Family Editor
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever tried to control the shape of a curved form parametrically in the Revit Family Editor? When geometry is not rectilinear, flexing is much more challenging. In this course, you can explore several techniques to tame your unruly parametric curves. Review examples of circles, arcs, quarter round, half round, arches, and even splines. Discover how to use math and profile families to create more complex forms, associate parameters between nested families, and combine both fixed and variable proportions and scaling to achieve the correct curvature. Instructor Paul F. Aubin focuses the course on the traditional Family Editor but also takes a brief look at the massing Family Editor environment.

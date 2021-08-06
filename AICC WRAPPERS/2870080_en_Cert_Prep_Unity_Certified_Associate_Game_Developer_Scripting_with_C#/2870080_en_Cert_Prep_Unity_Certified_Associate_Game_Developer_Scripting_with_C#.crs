@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2870080
+Course_System=linkedin.com
+Course_Title=Cert Prep: Unity Certified Associate Game Developer Scripting with C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become Unity certified and show employers you have the Unity skills they are looking for. Improve your chances of landing that dream job doing what you love most—making games, architectural visualizations, or films. This course helps you study for the sections of the Unity Certified Associate: Game Developer exam that deal with scripting and publishing. Instructor Alan Thorn covers the basics of scripting, demonstrating how to create a C# script in Visual Studio, print to the console, and create useful scripts that make 3D objects move and react. He also discusses making timed behaviors, generating path-finding data for helping nonplayer characters (NPCs) navigate environments intelligently, and using finite-state machines to help NPCs make decisions. Plus, learn how to create convincing patrol, chase, and attack states for an enemy character.

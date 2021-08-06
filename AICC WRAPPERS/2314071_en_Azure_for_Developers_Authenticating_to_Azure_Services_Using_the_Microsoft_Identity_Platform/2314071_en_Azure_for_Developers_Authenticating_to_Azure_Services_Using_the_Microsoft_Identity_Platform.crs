@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sidney Andrews
+Course_ID=2314071
+Course_System=linkedin.com
+Course_Title=Azure for Developers: Authenticating to Azure Services Using the Microsoft Identity Platform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Sidney Andrews walks users through how to use tokens with Azure Services, how to register common Azure service APIs in Azure Active Directory, and how to connect securely to Azure Storage and Azure SQL Database. Learn how to search the catalog of APIs available in the Azure AD portal experience and how to configure API permissions for the Microsoft Graph. Find out how to configure the API permissions of various Azure services and how to read and understand examples of scopes for APIs. Explore the difference between application and delegated permissions for an API. Discover how to grant administrator consent. Follow the different steps to connect to an Azure SQL database or to Azure storage using Microsoft Authentication Library (MSAL) tokens. In conclusion, learn about connecting to Azure Cognitive Services using MSAL tokens.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2817021
+Course_System=linkedin.com
+Course_Title=vSphere 6.7 Professional Part 07:  Resource Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is an integral part of any modern networking environment. vSphere offers a virtualized data center that helps administrators scale infrastructure to meet business needs. This course is the seventh in a nine-part series designed to teach you all the essentials of configuring, managing, securing, and troubleshooting a vSphere 6.7 environment with the new HTML5 vSphere Client. In this course, instructor Rick Crisci reviews the foundations of managing resources in vSphere 6.7—including virtual machines, hosts, shares, resource pools, and reservations. Plus, learn how to use the Distributed Resource Scheduler to create clusters, perform resource distribution, migrate hosts and resource pools, and monitor resources. Note: This series is also designed to prepare candidates for the VMware Certified Professional - Data Center Virtualization 2019 (VCP-DCV 2019) exam. This course was created by Rick Crisci. We are pleased to host this training in our library.

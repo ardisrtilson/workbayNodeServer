@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Duffy
+Course_ID=2825683
+Course_System=linkedin.com
+Course_Title=Microsoft Azure: Controlling Cost
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to minimize the costs associated with a move to a Microsoft Azure environment. Software architect and trainer Scott Duffy reviews typical Azure subscription costs and explores cost management options for Azure services including storage, compute, and networking. Learn about the factors driving costs and ways to analyze your spending using the built-in tools in Azure. Then explore practical strategies for reducing costs, such as improving system efficiency and introducing a storage life cycle. Plus, discover long-term proactive solutions for monitoring spending, such as alerts and diagnostics.

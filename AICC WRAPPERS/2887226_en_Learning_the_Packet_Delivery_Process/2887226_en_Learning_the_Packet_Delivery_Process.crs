@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joli Ballew
+Course_ID=2887226
+Course_System=linkedin.com
+Course_Title=Learning the Packet Delivery Process
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+So much of how the world works now depends on data, and how data gets from source to destination quickly and reliably. When most people type a query into a web browser, or turn on an alarm system from their phone, they don’t care how it happens, just that it happens. But if you’re a networking engineer, it’s your job to ensure that the systems that work together to move the data around run smoothly. If you’re just getting started in network engineering, the number of technologies involved may seem overwhelming. In this course, Joli Ballew works through the fundamentals, one step at a time, starting with an examination of the terms necessary to understand basic networking and the packet delivery process, followed by sections on network models, and the most common ports and protocols used in the data delivery process. She also covers hardware considerations, and closes with a detailed look at how the packet delivery process works in both local and remote scenarios.

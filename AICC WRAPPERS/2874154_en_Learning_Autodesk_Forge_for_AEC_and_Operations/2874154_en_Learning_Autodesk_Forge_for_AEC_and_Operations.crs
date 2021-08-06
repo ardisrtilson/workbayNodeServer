@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Basak Keskin
+Course_ID=2874154
+Course_System=linkedin.com
+Course_Title=Learning Autodesk Forge for AEC and Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you are an architecture, engineering, and construction (AEC) professional with a fundamental knowledge of the authoring and analysis BIM tools in Autodesk, you can go much further by using Autodesk Forge to make your own BIM and lifecycle data management solutions. In this course, Basak Keskin teaches you emerging concepts related to Forge in the AEC sector and details what services and APIs Autodesk Forge offers you to deploy your own digital platform. Basak also leads you through a Forge implementation case where you can grasp how Forge APIs and services can scale a digital platform solution on the cloud and how you can navigate the platform. Finally, she covers common industry challenges professionals face while deploying Forge solutions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=2825272
+Course_System=linkedin.com
+Course_Title=Motion: Principles of Motion Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In Motion: Principles of Motion Graphics, instructor Ian Robinson covers the core concepts and techniques used to create real-world motion graphic elements in Apple Motion. Throughout the course, Ian breaks down motion graphics into smaller groups of applied techniques. For example, he covers traditional typography and then shows how to take those theories and apply them specifically to motion graphics. He also covers essential editing and animation tools and techniques such as keyframes, simulations, and transitions, as well as Apple-Motion-specific concepts such as particles and the Replicator.

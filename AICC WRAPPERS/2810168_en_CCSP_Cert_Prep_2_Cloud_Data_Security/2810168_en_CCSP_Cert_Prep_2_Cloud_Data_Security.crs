@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2810168
+Course_System=linkedin.com
+Course_Title=CCSP Cert Prep: 2 Cloud Data Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Almost every organization stores data online. This information—whether it’s credit card transactions or email addresses—needs to be stored securely throughout its lifecycle. It’s a complex challenge unique to the cloud. That’s why businesses look to professionals, like the Certified Cloud Security Professional (CCSP). Earning the CCSP certification validates your cloud security knowledge and makes you stand out to potential employers. This course covers the second domain of the CCSP exam: Cloud Data Security. Discover how the cloud data life cycle guides security efforts in the cloud. Then learn how to design and apply data security technologies, implement data discovery, and create a data classification program. Instructor Mike Chapple also covers the key principles of information rights management in the cloud. Note: This course is designed to cover the most recent version of the CCSP exam, released in August 2019.

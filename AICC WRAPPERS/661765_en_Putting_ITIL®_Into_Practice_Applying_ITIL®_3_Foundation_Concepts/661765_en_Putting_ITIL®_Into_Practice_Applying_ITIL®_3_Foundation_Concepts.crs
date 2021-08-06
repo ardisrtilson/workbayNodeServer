@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Pultorak
+Course_ID=661765
+Course_System=linkedin.com
+Course_Title=Putting ITIL® Into Practice: Applying ITIL® 3 Foundation Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Putting ITIL® Into Practice series is designed to help ITIL Foundation-certified professionals apply the concepts they have learned. It offers a fresh, agile, and directly applicable approach to help individuals, teams, and organizations apply ITIL. This course introduces the Seven Ways framework for applying the seven key ITIL Foundation concepts. Instructor David Pultorak covers services and service management; the service management lifecycle; service management terminology, principles, and models; service management processes; ITIL functions and roles; and the technology that can help you scale, automate, monitor, and optimize your services. In each chapter, he provides tips for moving concepts into practice. He helps you think through dos and don'ts, and provides valuable references and resources for learning more.

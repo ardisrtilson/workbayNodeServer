@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=174920
+Course_System=linkedin.com
+Course_Title=Joomla! 3 Essential Training: 2 Modules Components Extensions & Templates
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Joomla!, the open-source CMS, easily expands to make websites that do almost whatever you want. In this course, Jen Kramer introduces the modules, components, extensions, and templates that will help you take Joomla! further. Learn about the core modules (like custom HTML and search) and then find out how to build out contact forms and redirect web traffic with components, use extensions to create backups and upload media, and change the look of your site with templates. Make sure to test your new skills by taking the practice challenges issued along the way.

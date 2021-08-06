@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2816006
+Course_System=linkedin.com
+Course_Title=Learning Debian Linux
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Master the basics of working with Debian, the popular Linux distribution. Join instructor Scott Simpson as he shows system administrators what makes this distribution unique and where it sits in the Linux ecosystem. Scott shows how to view and control running processes on the system, manage software with the APT package manager, and control the firewall with nftables. Plus, he covers working with desktops, including how to navigate and use the popular GNOME desktop environment, customize your GNOME environment, and switch desktop environments.

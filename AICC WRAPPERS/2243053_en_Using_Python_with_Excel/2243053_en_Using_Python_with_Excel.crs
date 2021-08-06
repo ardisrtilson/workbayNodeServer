@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Anthony Sagely
+Course_ID=2243053
+Course_System=linkedin.com
+Course_Title=Using Python with Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python is the world's fastest growing programming language. It's a powerful tool that is helping to streamline development and data science. In this course from Madecraft, you can learn how to combine the power of the Python language with the data analysis and reporting tools in Microsoft Excel. Discover how to leverage the pandas and openpyxl libraries to inspect, filter, clean, and convert data and how to build solid reports that help businesses take action. Discover how to work with large amounts of data that would be unmanageable in Excel alone. By the end of this course, viewers will learn how this combination of tools can lead businesses to better insights than ever before. This course was created by Madecraft. We are pleased to host this content in our library.

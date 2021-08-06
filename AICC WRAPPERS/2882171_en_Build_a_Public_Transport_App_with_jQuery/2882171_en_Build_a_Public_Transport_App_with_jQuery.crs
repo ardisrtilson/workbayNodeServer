@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Framework Tech, Mark Lassoff
+Course_ID=2882171
+Course_System=linkedin.com
+Course_Title=Build a Public Transport App with jQuery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re familiar with JavaScript and want to learn more about the jQuery library, or if you’re currently learning JavaScript and jQuery and want to see how they work together in a functional application, join Mark Lassoff as he builds an app that tracks trains in the BART transit system in San Francisco. In this hands-on project course, Mark provides all the code and instruction you need to build the app yourself, going over the code line by line. After starting with a demo of the finished app, Mark details the skills and libraries you need to build the app, explains how each feature works, and offers some suggestions on how you can add functionality to the app on your own. This course was created by Framework Tech. We are pleased to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neelam Dwivedi
+Course_ID=2825344
+Course_System=linkedin.com
+Course_Title=Software Design: From Requirements to Release
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Follow along with the full life-cycle implementation of a software project. This course takes you from requirements development to modeling, design, coding, and testing. It features a small-scale web application project that realistically depicts the workflow and challenges of a typical software development project. Instructor Neelam Dwivedi brings together the most important concepts, tools, and techniques that developers need to know, including requirements elicitation and validation, proof of concept modeling, best practices for beta deployment, and refactoring. By the end of the course, you'll understand the reality of software engineering—beyond writing code—and know how to effectively structure and manage projects as a team.

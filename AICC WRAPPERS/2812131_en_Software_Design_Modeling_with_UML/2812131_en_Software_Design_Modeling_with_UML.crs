@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neelam Dwivedi
+Course_ID=2812131
+Course_System=linkedin.com
+Course_Title=Software Design: Modeling with UML
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modeling with the Unified Modeling Language (UML)—a visual design language for object-oriented programming—is a critical skill for all team members in a software development project. These models are a cost-effective way for collaborators to analyze, communicate, and document their product's characteristics. In this course, learn how to use UML diagrams to create important artifacts at each stage of the software development life cycle. Instructor Neelam Dwivedi shares best practices and tools as she goes over 13 different types of UML models, explaining what you need to know to develop static and dynamic models of software systems.

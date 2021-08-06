@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Crespi
+Course_ID=371326
+Course_System=linkedin.com
+Course_Title=Fusion: Creating Motion Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Producing great motion graphics requires a great toolset. Blackmagic Design Fusion provides a rich, full-featured compositing environment to bring together video footage, 3D animation, and graphics, text, and photos in a fully three-dimensional space. And best of all, the non-Studio version is completely free. In this course, Adam Crespi shows how to create an identity bumper in Studio 8 by compositing and animating a variety of assets. Starting with the raw elements, he assembles a composition and animates a camera in the scene. From there, he adds lights, particles, a painted logo, and post effects, and then renders the final bumper. Each step of the process is rich with object lessons that are applicable to the variations that a compositor will face in the real world.

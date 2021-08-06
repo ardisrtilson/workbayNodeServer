@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Simon Allardice
+Course_ID=71929
+Course_System=linkedin.com
+Course_Title=SQL Server 2008 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In SQL Server 2008 Essential Training, Simon Allardice explores all the major features of SQL Server 2008 R2, beginning with core concepts: installing, planning, and building a first database. Explore how Transact-SQL is used to retrieve, update, and insert information, and gain insight into how to effectively administer databases. The course also covers features outside SQL Server's database engine, including technologies that have grown up around it: SQL Server Reporting Services and Integration Services. Exercise files are included with the course.

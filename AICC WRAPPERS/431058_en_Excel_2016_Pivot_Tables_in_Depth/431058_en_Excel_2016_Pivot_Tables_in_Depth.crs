@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=431058
+Course_System=linkedin.com
+Course_Title=Excel 2016: Pivot Tables in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use PivotTables to summarize, sort, count, and chart your data in Microsoft Excel 2016. Author Curt Frye shows you how to navigate the complexity of PivotTables while taking advantage of their power. This course shows how to build PivotTables from single or multiple data sources, add calculated fields, filter your results, and format your layout to make it more readable. Plus, learn how to create PivotCharts to visualize your data, enhance PivotTables with macros, and use the Data Model feature to build PivotTables from related tables.

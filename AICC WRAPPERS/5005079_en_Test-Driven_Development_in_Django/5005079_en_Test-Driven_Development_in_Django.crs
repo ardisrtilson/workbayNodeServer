@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Walter
+Course_ID=5005079
+Course_System=linkedin.com
+Course_Title=Test-Driven Development in Django
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a high-level Python web framework, Django is very useful for developers to understand. Combining Django with a test-driven development process can lead to higher-quality code and a faster development cycle. In this course, follow along with Nick Walter as he explains test-driven development with Django. Nick explores functional tests and unit tests, discussing the differences. He also covers advanced testing methods, the Django testing framework, hash testing, POST requests, AJAX, and more.

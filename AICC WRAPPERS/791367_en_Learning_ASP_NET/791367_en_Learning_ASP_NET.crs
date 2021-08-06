@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Janan Siam
+Course_ID=791367
+Course_System=linkedin.com
+Course_Title=Learning ASP.NET
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ASP.NET boasts frameworks you can leverage to build robust web applications. In this course, Janan Siam helps you get up and running with this mature framework from Microsoft. Janan explores the framework and IDE, as well as the tools you need to manage data, build RESTful services, and establish real-time web connections. Learn how to build web applications with ASP.NET MVC, create dynamic web content with ASP.NET Web Pages and Razor syntax, work with ASP.NET SignalR, and more.

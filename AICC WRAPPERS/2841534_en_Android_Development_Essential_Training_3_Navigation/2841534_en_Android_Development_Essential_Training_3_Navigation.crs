@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Annyce Davis
+Course_ID=2841534
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: 3 Navigation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want to build an application for Android? The Android Development Essential Training series teaches the basics needed to develop, design, manage, and distribute your own native Android application using the Kotlin programming language and the Android SDK. In part 3, instructor Annyce Davis teaches you how to manage lifecycle events, views at runtime, navigation, and navigation menus. Annyce shows you how to inspect and handle lifecycle events on Android, offers a refresher on Kotlin lambdas, and introduces you to ViewModels and LiveData—as well as how you can use both to add and update data. She goes into how to use Intents to communicate with other app components and navigate between activities. Annyce also covers how to display a button on a toolbar and add a navigation bar. Bottom navigation bars make it easy for users to explore and switch between top-level views in a single tap; Annyce explains how to add this to your app, complete with menu items.

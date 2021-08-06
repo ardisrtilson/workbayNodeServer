@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chou
+Course_ID=2856037
+Course_System=linkedin.com
+Course_Title=Cisco DevNet Associate Cert Prep 6: Network Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're studying to pass the Cisco DevNet Associate certification exam—or you just want to learn more about network fundamentals—this course can help you get up to speed. In this course, instructor Eric Chou teaches you about various network technologies, such as virtual local area networks (VLANs), routing, IP services, and troubleshooting common values. Eric explains how media access control (MAC) addresses, VLANs, and IP addresses are used, then goes over routing and gateways. He discusses some components you need for a network: switches, routers, firewalls, and load balancers. Eric describes the roles of network control planes and network data planes. He shows you tools you can use to make a network diagram, then steps through how to represent different network components. Eric covers a variety of IP services, then concludes by explaining some ways you may need to troubleshoot your network.

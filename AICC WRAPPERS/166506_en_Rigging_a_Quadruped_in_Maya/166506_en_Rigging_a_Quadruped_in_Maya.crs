@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Baskin
+Course_ID=166506
+Course_System=linkedin.com
+Course_Title=Rigging a Quadruped in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to rig a four-legged creature (aka a quadruped) in Maya using a fun example: man's best friend. Jason Baskin shows how to rig an entire dog mesh from start to finish in this project-based course. First, you'll learn how to create a basic skeleton, positioning joints to deform the mesh at specific locations and adding controls for the head, neck, and ears. You'll then rig the hind legs, adding subfoot pivots that allow the dog's legs to connect to the ground when walking and running. Jason also covers more advanced techniques, such as creating a stretchy back and head for more energetic animation and controlling the dog's tags with dynamics. Finally, you'll learn how to bind the mesh to the skeleton, and test the rig by putting it through a simple animation.

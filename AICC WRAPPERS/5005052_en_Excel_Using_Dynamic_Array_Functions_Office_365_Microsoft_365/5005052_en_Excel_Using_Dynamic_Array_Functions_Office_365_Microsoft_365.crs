@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oz du Soleil
+Course_ID=5005052
+Course_System=linkedin.com
+Course_Title=Excel: Using Dynamic Array Functions (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In September 2018, Microsoft released a new family of functions in Excel called dynamic arrays. With dynamic arrays, a user can write one formula and get many different results. This allows users to build more robust spreadsheets, in less time, with fewer errors. Follow along with Excel MVP Oz du Soleil as he walks you through the new calculation engine and dynamic array functions. He walks through all seven functions—UNIQUE, SORT, SORTBY, SEQUENCE, FILTER, RANDARRAY, and SINGLE—showing practical, real-world uses for each one. Plus, learn how to use the spilled range operator (#) to reference a dynamic spill range. Oz concludes the course with a series of challenges so viewers can practice and master dynamic arrays.

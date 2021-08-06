@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=647667
+Course_System=linkedin.com
+Course_Title=First Look: Java 9
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get your first look at the changes in Java 9—the first new version of this popular object-oriented language in three and a half years. Java 9 offers approximately 90 new features. In this course, Peggy Fisher reviews the most important features, including Project Jigsaw, JShell, and the enhanced Process API. Learn how to create more modular, scalable code with Jigsaw; evaluate declarations, statements, and expressions with JShell; and access, control, and manage OS processes with the Process API. Plus, explore the three new classes for handling HTTP/2 requests, and get resources for learning more about Java 9.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=397959
+Course_System=linkedin.com
+Course_Title=Learning Skype for Business
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course helps you understand and use Skype for Business, the enterprise version of the popular conferencing and communication app from Microsoft. First see what plans are available, then see how to best Skype with contacts. Author Gini Courter also explores the instant messaging (IM), audio, and video features, including how to send files, start and join conversations, and add contacts to existing calls and IMs. Plus, learn to schedule meetings and poll participants, use the presenter toolkit, and connect with mobile devices.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2822375
+Course_System=linkedin.com
+Course_Title=AWS for Developers: S3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to get started with Amazon Simple Storage Service (S3), the globally distributed, binary object storage service that allows developers to securely store and retrieve data. Instructor Frank Moley demonstrates how to set up an account and walks through S3 basics, such as creating your first storage bucket. He also shows how to set up permissions and configuration options and use the command-line interface (CLI) to script S3 operations. Frank also walks through the AWS software development kits (SDK), which allow you to easily integrate S3 with your Python and Java applications.

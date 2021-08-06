@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=734646
+Course_System=linkedin.com
+Course_Title=Azure Machine Learning Development: 3 Deploying and Managing Models
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Machine Learning Studio brings the power of AI into the professional developer's hands. In this course, learn how to deploy and manage models in Azure Machine Learning Studio. Instructor Sahil Malik picks up from earlier Azure Machine Learning Development courses and dives directly into the more advanced topics of deploying, scaling, logging, and managing your trained models in production scenarios. Learn how to deploy an experiment as a web service, make your service available globally, enable and view logs, use machine learning with API management, and more.

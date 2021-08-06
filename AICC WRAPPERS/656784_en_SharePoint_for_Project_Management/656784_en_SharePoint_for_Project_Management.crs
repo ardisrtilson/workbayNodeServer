@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=656784
+Course_System=linkedin.com
+Course_Title=SharePoint for Project Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use the built-in features in SharePoint to manage projects. A SharePoint project site can help you track progress, meet deadlines, and manage multiple versions of project documents. In this course, Bill Kulterman helps you use SharePoint as a project management tool to help your team succeed. Learn how to create a task list, add tasks to a visual timeline, create overlay and task calendars, manage documents in a library, and more.

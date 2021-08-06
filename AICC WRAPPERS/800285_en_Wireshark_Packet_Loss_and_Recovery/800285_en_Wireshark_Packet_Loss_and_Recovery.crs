@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=800285
+Course_System=linkedin.com
+Course_Title=Wireshark: Packet Loss and Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Wireshark, the powerful protocol analysis tool, to deal with packet loss and recovery, so you can keep traffic moving. Instructor Lisa Bock begins by reviewing normal traffic, comparing TCP, a connection-oriented protocol, with UDP, a lightweight connectionless protocol. She then moves into discussing network latency, packet loss, and throughput; TCP and UDP packet loss recovery; misconfiguration issues that can cause an interruption of end user experience, along with malware; and more.

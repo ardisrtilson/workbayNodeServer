@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=578072
+Course_System=linkedin.com
+Course_Title=The Essential Elements of Predictive Analytics and Data Mining
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A proper predictive analytics and data-mining project can involve many people and many weeks. There are also many potential errors to avoid. A big picture perspective is necessary to keep the project on track. This course provides that perspective through the lens of a veteran practitioner who has completed dozens of real-world projects. Keith McCormick is an independent data miner and author who specializes in predictive models and segmentation analysis, including classification trees, cluster analysis, and association rules. Here he shares his knowledge with you. Walk through each step of a typical project, from defining the problem and gathering the data and resources, to putting the solution into practice. Keith also provides an overview of CRISP-DM (the de facto data-mining methodology) and the nine laws of data mining, which will keep you focused on strategy and business value.

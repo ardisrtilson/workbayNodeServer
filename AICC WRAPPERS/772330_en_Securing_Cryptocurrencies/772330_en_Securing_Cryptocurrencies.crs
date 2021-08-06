@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=772330
+Course_System=linkedin.com
+Course_Title=Securing Cryptocurrencies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cryptocurrencies have exploded in popularity for both individuals and organizations. With billions of dollars at stake, ensuring that cryptocurrencies aren't stolen, that fraud is reduced, that hacking doesn't become a persistent threat, and that a host of other security challenges are addressed has become vitally important. This short, introductory course explores some of the basic security requirements for cryptocurrencies and provides guidance on how to lower security risks. Upon completing this course, you'll have a deeper understanding of cryptocurrency security, as well as some tools to reduce your own exposure to risk.

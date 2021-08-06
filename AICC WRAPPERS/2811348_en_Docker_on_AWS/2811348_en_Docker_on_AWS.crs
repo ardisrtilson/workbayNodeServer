@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=2811348
+Course_System=linkedin.com
+Course_Title=Docker on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Docker is the next step beyond virtualization. When deployed with Amazon Elastic Container Service (AWS ECS), you have a solid foundation for monitoring and managing Docker containers, including starting containers and scheduling tasks. This frees up developers to concentrate on your container-based applications—instead of your hosting platform. In this course, Robert Starmer demonstrates how to use Docker and the powerful features in AWS to build and manage container-based applications. Learn how to create containerized applications, set up AWS ECS, mange container scale and network models, troubleshoot issues, and more.

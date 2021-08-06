@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Laura Louthan
+Course_ID=2813259
+Course_System=linkedin.com
+Course_Title=Learning Secure Payments and PCI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How are credit card payments processed behind the scenes? And when a credit card is stolen, what usually happens to the compromised data? In this course, Laura Louthan answers these questions and more, explaining how payments get from merchants to banks, as well as the risks associated with the theft or compromise of credit card data—both to customers and banks. Laura highlights the various entities involved in payment processing and how they protect against card data loss. She covers the difference between in-store and online payments and how chip cards have increased online fraud. Plus, learn about the different ways that organizations need to report compliance to the Payment Card Industry (PCI) Security Standards Council, and how your company can move towards full compliance.

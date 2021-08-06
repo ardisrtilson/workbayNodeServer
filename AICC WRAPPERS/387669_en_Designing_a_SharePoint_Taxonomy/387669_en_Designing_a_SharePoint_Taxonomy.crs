@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gary Yeoman
+Course_ID=387669
+Course_System=linkedin.com
+Course_Title=Designing a SharePoint Taxonomy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint can be a powerful tool to support documents and data in an organization, when sites are properly constructed. By implementing a taxonomy (aka a content categorization and storage schema), you can design a long-lasting SharePoint site structure that will serve users well for years to come. This course explains how to use different components—including metadata, folders, and customized libraries and lists—to build a maintainable SharePoint document and data management system. Author Gary Yeoman focuses on design techniques that improve the ease of use, management, and maintenance of your SharePoint sites, and enhance search and site performance.

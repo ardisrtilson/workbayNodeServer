@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Elfassy
+Course_ID=2824036
+Course_System=linkedin.com
+Course_Title=Microsoft Azure: Active Directory
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Knowing how to work with Azure Active Directory (Azure AD)—the service-based approach to Active Directory—is a crucial skill for any Azure administrator. Azure AD provides the rich functionalities of Active Directory, with the conveniences of cloud-based computing and the intuitive management tools of Azure. In this course, David Elfassy helps you get started implementing and managing this powerful identity services solution. Learn how to create and manage users and groups, join client computers, and implement single sign-on and multi-factor authentication. To wrap up the course, David reviews the more advanced features, such as implementing Azure AD Connect.

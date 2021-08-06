@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=2833071
+Course_System=linkedin.com
+Course_Title=AWS Well-Architected Framework: Operational Excellence Pillar
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The AWS Well-Architected Framework helps enterprise architects build more secure, high-performing, resilient, and efficient cloud-based infrastructure for their applications. The Framework comprises five pillars: operational excellence, security, reliability, performance efficiency, and cost optimization. This course takes a deeper look at the first pillar—operational excellence—which focuses on running and monitoring systems to deliver business value. Explore design principals for operation excellence in the cloud, the three key operational areas, and the key AWS services for defining your operational priorities. Learn how to design workloads, use AWS Lambda for operational readiness, and manage operational health. Instructor Mark Wilkins also demos the Well-Architected Tool, which helps you answer key questions about your organization's standing. Each lesson is designed with Amazon best practices in mind, helping you leverage the Well-Architected Framework tools as well as study topics featured in key AWS certifications.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Tobiassen
+Course_ID=651224
+Course_System=linkedin.com
+Course_Title=Cybersecurity Awareness: The Internet of Things (IoT)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet of Things (IoT) will change our personal and professional lives forever. By 2020, there are expected to be over 50 billion devices communicating through the internet, ranging from doorbells and thermostats, to cars and washing machines. These devices can make our lives easier and more efficient, but the technology may put our safety and privacy at risk. Knowing about the how the Internet of Things works and what we can do to be safe is important. In this course, Tom Tobiassen provides a basic understanding of IoT, including robots, wearable tech, smart cars, and drones. He discusses the security and privacy implications as well as protective countermeasures that even casual IoT users should know. Note: This course was recorded and produced by Mentor Source, Inc. We're pleased to host this training in our library.

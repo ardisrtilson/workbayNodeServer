@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=146234
+Course_System=linkedin.com
+Course_Title=PHP for Web Designers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are many great reasons to learn PHP. You can reduce manual updates to webpages, get user input, and connect to a database of products or other information. But some web designers are intimidated by the theory and jargon. PHP for Web Designers is different. Author David Powers provides a gentle introduction to PHP, through a series of simple exercises that help you develop fully functional dynamic webpages—all powered by PHP. Learn how to reduce website maintenance by moving common page elements to external server-side include files, change content automatically depending on the date or time, display alternate text, gather user input from a form, and link to a database to display product information. The final chapter is dedicated to understanding error messages and fixing their root causes. Note: This course was recorded with Adobe Dreamweaver, but you can use the code editor of your choice to follow along.

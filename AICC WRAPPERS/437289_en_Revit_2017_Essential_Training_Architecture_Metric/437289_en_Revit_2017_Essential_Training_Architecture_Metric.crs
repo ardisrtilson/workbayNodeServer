@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=437289
+Course_System=linkedin.com
+Course_Title=Revit 2017 Essential Training: Architecture (Metric)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the basics of using Revit 2017 for architectural design. This course is designed for students who have no prior Revit experience and want to work in metric units (meters, millimeters, etc.). It is a beginner's course that approaches Revit from the ground up. Fundamentals and good work habits are emphasized every step of the way. First, get comfortable with the Revit environment, and learn to set up a project and add the grids, levels, and dimensions that will anchor your design. Then author Paul F. Aubin helps you dive into modeling: adding walls, doors, and windows; creating and mirroring groups; linking to external assets and DWG files; and working with floors, roofs, and ceilings. Paul also shows advanced techniques for modeling stairs, complex walls, and partially obscured building elements, as well as adding rooms and solid geometry. Finally, discover how to annotate your drawings so all the components are clearly understood, and learn how to output sheets to DWF, PDF, or AutoCAD.

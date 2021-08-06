@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=791364
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Remote Access Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how Windows Server can be used to create a bridge and a secure gateway between the private networks of organizations of all sizes. System admins, whether experienced with or new to Windows Server 2019, can learn how to install and configure remote access services in this course. Instructor Scott Burrell covers planning and implementing Network Address Translation (NAT), implementing virtual private networks, using RADIUS to secure remote access, working with a network policy server (NPS), troubleshooting VPNs, and more. Upon wrapping up this course, you'll have the knowledge you need to set up remote access to an entire Windows network.

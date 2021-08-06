@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gerry O'Brien
+Course_ID=156769
+Course_System=linkedin.com
+Course_Title=Querying Microsoft SQL Server 2012
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to query data from SQL Server tables. Microsoft Certified Trainer Gerry O'Brien reviews the history of SQL and relational theory, so you'll understand exactly where this data manipulation language, and Microsoft's seminal database program, got their starts. Then he shows how to query one or many different tables using SELECT statements, and filter, group, and sort the results. Next, learn how to work with special data types like dates, times, and characters. Gerry also covers advanced topics like subqueries, programming with T-SQL (Microsoft's proprietary extension for SQL), and improving query performance.

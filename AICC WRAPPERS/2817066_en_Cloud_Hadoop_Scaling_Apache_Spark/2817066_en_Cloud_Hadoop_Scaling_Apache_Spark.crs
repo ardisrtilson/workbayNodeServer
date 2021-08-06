@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2817066
+Course_System=linkedin.com
+Course_Title=Cloud Hadoop: Scaling Apache Spark
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Hadoop and Spark make it possible to generate genuine business insights from big data. The Amazon cloud is natural home for this powerful toolset, providing a variety of services for running large-scale data-processing workflows. Learn to implement your own Apache Hadoop and Spark workflows on AWS in this course with big data architect Lynn Langit. Explore deployment options for production-scaled jobs using virtual machines with EC2, managed Spark clusters with EMR, or containers with EKS. Learn how to configure and manage Hadoop clusters and Spark jobs with Databricks, and use Python or the programming language of your choice to import data and execute jobs. Plus, learn how to use Spark libraries for machine learning, genomics, and streaming. Each lesson helps you understand which deployment option is best for your workload.

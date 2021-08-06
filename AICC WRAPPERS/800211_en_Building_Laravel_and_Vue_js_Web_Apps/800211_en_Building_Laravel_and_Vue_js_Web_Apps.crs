@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Sullivan
+Course_ID=800211
+Course_System=linkedin.com
+Course_Title=Building Laravel and Vue.js Web Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Vue.js ships with Laravel, the hugely popular PHP web framework. But using this front-end framework along with Laravel to build full-stack web applications comes with its own set of challenges. In this project-based course, instructor Michael Sullivan steps through how to work with Vue.js and Laravel to create elegant, real-world apps. As he shows how to build a content management tool for a restaurant menu, Michael demonstrates how to scaffold an authentication system, build an embedded SPA with Vue Router, manage state complexity using Vuex, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bernardo Pineda
+Course_ID=505770
+Course_System=linkedin.com
+Course_Title=Learning CodeIgniter 3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Speed up your development with CodeIgniter, a fast and powerful PHP web application framework. Starting with the what and the why, instructor Bernard Pineda introduces key CodeIgniter concepts, such as the Model-View-Controller pattern and working with a database. Then learn how to set up your development environment and save time with CodeIgniter's auto loader, helpers, and libraries. Explore advanced scenarios such as validating user input, uploading files, error logging, and more. Using the full-featured sample web app included with the exercise files, you'll get a real-world foundation for learning how to build your own applications with CodeIgniter.

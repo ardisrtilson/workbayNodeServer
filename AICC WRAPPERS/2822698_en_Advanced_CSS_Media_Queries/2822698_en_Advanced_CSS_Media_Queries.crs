@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2822698
+Course_System=linkedin.com
+Course_Title=Advanced CSS Media Queries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While most web developers have encountered media queries as part of their work on responsive layouts, media queries offer many more options than just the size of the viewport. In this course, instructor Jen Kramer explores some of the latest and greatest media query options available to Chrome, Firefox, Edge, and Safari. Learn how to test for different styles of interaction, determine how devices are held, figure out what resolution they have, and combine these options to build better sites and apps. Jen also covers complex media queries using and, not, and comma-separated conditions. Plus, she shows you how to keep these choices from breaking your projects in older devices.

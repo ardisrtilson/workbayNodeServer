@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bryan O'Neil Hughes
+Course_ID=185329
+Course_System=linkedin.com
+Course_Title=Lightroom Classic CC and Photoshop: Working with Raw-Format Photos
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many cameras save photos in a raw format; it's the best way to capture all the data the sensor is capable of recording. In this course, Photoshop principal product manager Bryan O'Neil Hughes shows how to get the most from that data, using the raw-format processing power of Photoshop CC and Lightroom Classic CC. First, take a look at converting raw-format photos to the DNG format in Lightroom Classic CC and using its Develop module to improve their contrast, color, and tone. Then find out how to adapt your raw workflow when you're on the move—on a mobile device or simply migrating from an application like iPhoto or Aperture. Next, Bryan switches over to Photoshop and its powerful Camera Raw plugin to optimize raw-format images and video. Along the way, he draws important comparisons between Photoshop and Lightroom, ending with tips for round-tripping back to Lightroom and creating camera profiles to make sure you're getting the most rich and accurate results from both programs.

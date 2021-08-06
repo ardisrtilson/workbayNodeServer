@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Diane Cronenwett
+Course_ID=2818052
+Course_System=linkedin.com
+Course_Title=Interaction Design: Software and Web Design Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns are the nexus of interaction design, visual design, and technology. Web applications are more complex than standard web interfaces, requiring robust patterns and paradigms to ensure usability. In this course, Diane Cronenwett explores a variety of common web and software application patterns, showing how they're used in practice, as well as how to apply them to more efficiently create great products. While practicing designers may already recognize some of the patterns covered in this course, Diane highlights new approaches and contexts that make revisiting each pattern a valuable exercise. Plus, she delves into key design principles, as well as core web and software application interactions such as navigation and tables.

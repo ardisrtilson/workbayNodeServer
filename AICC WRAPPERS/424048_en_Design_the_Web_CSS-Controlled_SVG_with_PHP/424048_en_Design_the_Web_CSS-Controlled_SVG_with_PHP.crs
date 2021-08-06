@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=424048
+Course_System=linkedin.com
+Course_Title=Design the Web: CSS-Controlled SVG with PHP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use PHP, HTML, and CSS to dynamically modify styles in your scalable vector graphics (SVGs) in this installment of Design the Web—project-based courses for web professionals. Chris Converse explores techniques to modify the colors, visibility, and even stroke values of your images, using the PHP header function and query variables to modify CSS rules in an SVG. This technique is a great way to build a library of reusable graphics for any PHP-based website or content management system, including WordPress, Drupal, and Joomla! The exercise files are free to all members. Download them to start practicing this technique today.

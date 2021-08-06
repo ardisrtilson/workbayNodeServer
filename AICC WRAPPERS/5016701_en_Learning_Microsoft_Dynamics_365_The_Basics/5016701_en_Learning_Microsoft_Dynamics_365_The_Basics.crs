@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=5016701
+Course_System=linkedin.com
+Course_Title=Learning Microsoft Dynamics 365: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with Dynamics 365, the cloud-based customer relationship management (CRM) tool from Microsoft. In this course, instructor Gini von Courter takes you through the basics, providing the essential information you need to start leveraging this popular cloud service to power your business. After acquainting you with its user interface, record types, and business processes, Gini explains how to create records, track activities, and work with leads and opportunities in Dynamics 365. Plus, she shares insights on how to make use of dashboards, reports, and charts.

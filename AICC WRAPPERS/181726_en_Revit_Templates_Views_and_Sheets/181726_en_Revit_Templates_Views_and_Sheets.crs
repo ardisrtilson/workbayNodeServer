@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=181726
+Course_System=linkedin.com
+Course_Title=Revit Templates: Views and Sheets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Start customizing your Revit templates to save time and create consistent starting points for every architect in your office. This installment of Creating Revit Templates covers views and sheets. Imagine beginning a project and having it include all of the typical floor plans, elevations, and schedules, plus a basic set of sheets! This course will show you how to customize your office's standard templates to include these valuable resources. Author Paul F. Aubin shows how to add door and room schedules, customize your browser organization to sort views in specific ways, and add and organize sheets in a Sheet List.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harrison Ferrone
+Course_ID=672254
+Course_System=linkedin.com
+Course_Title=iOS App Development: Test-Driven Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Test-driven development (TDD) makes us more pragmatic, efficient, and creative software developers. TDD is especially critical in the mobile world, where a quality codebase isn't an option; it's a requirement to launch. This course aims to better equip iOS developers with a model for developing strong, scalable, and tested code from the very first line. Start with some test-driven theory, progress to the fundamentals, and then build a small application that will put everything you learned to good use. Along the way, find out how to write your first unit test using Xcode and Swift, and conduct interface testing specifically for table views. Instructor Harrison Ferrone helps you understand TDD theory and practice, enabling you to write coherent tests that reveal the true weaknesses in your code long before it ever goes to production.

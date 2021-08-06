@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2869103
+Course_System=linkedin.com
+Course_Title=3ds Max: Digital Humans for Architectural Visualizations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By themselves, architectural visualization projects can seem stale. Adding people to the renderings adds personality and a sense of realism to the images. In this course, George Maestri shows viewers how to work with 2D and 3D assets to add humans to an architectural scene. George steps you through the process of creating and rigging a character in 3ds Max and points you to some online sources where you can choose models for your project. He shows you how to manipulate your model’s structure and texture to change looks. George goes into creating a CAT skeleton for your character and then skinning the character with a 3D mesh. Your character doesn’t have to remain stationary. George walks through how to animate characters using CATMotion or Biped, a tool within 3ds Max.

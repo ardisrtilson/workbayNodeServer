@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=740405
+Course_System=linkedin.com
+Course_Title=Revit: Fire-Alarm Systems Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design fire-alarm systems in Revit, and keep your architectural modeling skills up to date. Eric Wing shows you how to set up your views, link to your architectural model, and incorporate different fire-alarm devices, such as wall- and ceiling-mounted smoke detectors, control panels, cable trays, and conduit. Plus, find out how to add in wiring and circuits, customize panel schedules, and add detail to your Revit drawings, including views from other sources like AutoCAD.

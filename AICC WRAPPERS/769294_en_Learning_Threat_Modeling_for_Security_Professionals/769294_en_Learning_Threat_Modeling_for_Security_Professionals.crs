@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Shostack
+Course_ID=769294
+Course_System=linkedin.com
+Course_Title=Learning Threat Modeling for Security Professionals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the twenty-first century, no one doubts the importance of cybersecurity. Threat modeling is where it starts. Threat modeling is a framework for thinking about what can go wrong, and the foundation for everything a security professional does. This training course provides an overview of the traditional four-question framework for (1) defining what you're working on, (2) discovering what can go wrong, (3) deciding what to do about it, and (4) ensuring you've done the right things in the right ways for the systems you're delivering. Instructor Adam Shostack also reviews the STRIDE model for identifying six types of threats: spoofing, tampering, repudiation, information disclosure, denial of service, and elevation of privilege. Using a simple case study—a billing system for a media server that serves ads—Adam shows how to apply the principles and find security and privacy problems so the developer can include appropriate configurations and controls as part of the operational design and rollout.

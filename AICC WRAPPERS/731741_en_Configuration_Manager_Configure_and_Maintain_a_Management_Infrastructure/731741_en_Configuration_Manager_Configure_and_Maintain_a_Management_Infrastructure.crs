@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=731741
+Course_System=linkedin.com
+Course_Title=Configuration Manager: Configure and Maintain a Management Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+System Center Configuration Manager (SCCM) is the Microsoft tool used to manage and deploy Windows PCs, devices, and servers. Setting up the SCCM management infrastructure correctly will ensure you reap the most benefits from its features. This courses walks you through setup and deployment of Configuration Manager—topics covered in the first domain of Microsoft certification exam 70-703, designed to certify the skills of enterprise desktop administrators. Learn about managing clients and users, configuring boundaries and boundary groups, creating user and device collections, and setting up admin users. Find out how to configure maintenance windows and resource discovery. Explore the reporting features in SCCM, including queries and reports from SQL and Report Builder. Instructor Robert McMillen also shows how to deploy operating system to machines and perform routine maintenance tasks, such as remote administration, backups, and system logging. Note: Existing knowledge of Windows Servers and basic networking is recommended prior to watching this course.

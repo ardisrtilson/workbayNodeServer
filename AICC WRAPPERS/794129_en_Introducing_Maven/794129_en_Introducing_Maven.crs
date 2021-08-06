@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=794129
+Course_System=linkedin.com
+Course_Title=Introducing Maven
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Maven is a powerful build system used by thousands of Java developers on enterprise, freelance, and open-source projects. But it can do so much more. This course focuses on the basics of using Maven for dependency management, builds, and reporting. Instructor Frank Moley starts with the foundations: the project object model (POM) and POM elements, including properties and dependencies. He then reviews the build life cycle, showing how to leverage the Core and Tools plugins to automate tasks like cleanup and compile. He also shows how to manage dependencies, including creating uber JAR files to package executables with their dependencies. Finally, he covers reporting with Maven sites and popular plugins. By the end of the course, you should be familiar enough with Maven to use it to meet the needs of almost any Java project, from simple components to unique customized builds.

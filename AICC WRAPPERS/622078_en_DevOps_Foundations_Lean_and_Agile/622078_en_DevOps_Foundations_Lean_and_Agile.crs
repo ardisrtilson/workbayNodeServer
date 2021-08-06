@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ernest Mueller, Karthik Gaekwad
+Course_ID=622078
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Lean and Agile
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By applying lean and agile principles, engineering teams can deliver better systems and better business outcomes—both of which are crucial to the success of DevOps. In this course, instructors Ernest Mueller and Karthik Gaekwad discuss the theories, techniques, and benefits of agile and lean. Learn how they can be applied to operations teams to create a more effective flow from development into operations and accelerate your path of concept to cash. In addition to key concepts, you can hear in-the-trenches examples of implementing lean and agile in real-world software organizations.

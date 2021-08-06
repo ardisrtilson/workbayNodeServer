@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2834003
+Course_System=linkedin.com
+Course_Title=Microservices: Design Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns save developers from needing to puzzle out solutions to problems that others in their industry have already encountered and solved. In this course, get up to speed with over 15 different design patterns you can leverage when building and operating microservices, as well as the common problems they can help you remedy. Instructor Frank Moley goes over decomposition, integration, data, and operational patterns, tying each pattern to the problem it solves. Learn about the API gateway pattern that can prevent chaos by providing a buffer between underlying services and client needs, the sidecar pattern that allows you to offload processing of some kind to a separate module, and much more.

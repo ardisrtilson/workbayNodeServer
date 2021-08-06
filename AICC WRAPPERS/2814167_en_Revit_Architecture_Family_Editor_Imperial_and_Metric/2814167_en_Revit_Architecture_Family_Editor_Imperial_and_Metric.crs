@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=2814167
+Course_System=linkedin.com
+Course_Title=Revit Architecture: Family Editor (Imperial and Metric)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Family Editor offers Revit users a robust way to create standardized assets such as windows, doors, and other architectural components. These assets can contain smart data about their properties, which adds to the amount of information architects know about the buildings they design. In this course, Paul F. Aubin shows how to create standardized content using the Family Editor. Paul kicks off the course by covering basic concepts: the different kinds of Revit families, resources, reference planes, and constraints. He also takes a deeper look at the smart data beyond the geometry, such as material and visibility parameters, as well as how to build a complex parametric family, control rotation in work planes, and create adaptive components.

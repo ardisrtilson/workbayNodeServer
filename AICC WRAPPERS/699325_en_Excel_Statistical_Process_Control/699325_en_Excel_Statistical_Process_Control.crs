@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=699325
+Course_System=linkedin.com
+Course_Title=Excel: Statistical Process Control
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to analyze the accuracy and alignment of manufacturing processes using statistical tools. Veteran Excel trainer Curt Frye covers the three types of charts-P charts, C charts, and X-bar R charts-that are used to summarize the most common process metrics: proportion of defective output, number of defects, and variability of process outputs. He shows how to perform the analysis, plot the data, and interpret the results of each technique. He also how to examine processes from the customer's perspective using process capability analysis. Business analysts and support staff who help prepare documents, as well as executives and senior managers who might not have a statistical background, will use the skills in this course to analyze their organizations' processes and output.

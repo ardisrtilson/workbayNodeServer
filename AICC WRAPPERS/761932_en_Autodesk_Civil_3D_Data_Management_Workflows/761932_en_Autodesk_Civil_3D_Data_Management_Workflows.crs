@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Modglin
+Course_ID=761932
+Course_System=linkedin.com
+Course_Title=Autodesk Civil 3D: Data Management Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Working with Autodesk Civil 3D means working with more than CAD. You're working with large amounts of data, all stored in a drawing. What's the best way to share the data with other Civil 3D users? How do you share the data? What are some best practices for utilizing the large amounts of data within the software's dynamic object model? Instructor Josh Modglin explores all of these topics in this course. Learn how to set up your directory structure, create data shortcuts and references, and more.

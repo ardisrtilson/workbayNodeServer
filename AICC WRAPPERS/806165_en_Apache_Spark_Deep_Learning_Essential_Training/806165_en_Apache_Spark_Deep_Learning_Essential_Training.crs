@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=806165
+Course_System=linkedin.com
+Course_Title=Apache Spark Deep Learning Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Spark is widely considered to be the top platform for professionals needing to glean more comprehensive insights from their data. In this course, explore one of the most exciting aspects of this big data platform—its ability to do deep learning with images. Before he fully delves into deep learning on Spark using Python, instructor Jonathan Fernandes goes over the different ways to do deep learning in Spark, as well as key libraries currently available. He then shows how to set up your Spark deep learning environment, work with images in Spark using the Databricks deep learning library, use a pre-trained model and transfer learning, and deploy models as SQL functions.

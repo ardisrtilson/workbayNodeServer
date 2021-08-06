@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=772333
+Course_System=linkedin.com
+Course_Title=Data Science on Google Cloud Platform: Architecting Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data science is an application area that's exponentially growing, consuming huge amounts of data and making revolutionary predictions. At the same time, Google Cloud Platform (GCP) is fast tracking the cloud movement by providing cutting-edge tools and options. In this course, learn how to architect data science solutions on GCP and harness the power of these two technologies for your business. Instructor Kumaran Ponnambalam starts off by reviewing technology options available in GCP for executing various data science processes, as well as the benefits and shortcomings of this suite of cloud computing services. He then analyzes different technologies and steps through the architecture building process for various use cases, including customer analytics and real-time mobile couponing.

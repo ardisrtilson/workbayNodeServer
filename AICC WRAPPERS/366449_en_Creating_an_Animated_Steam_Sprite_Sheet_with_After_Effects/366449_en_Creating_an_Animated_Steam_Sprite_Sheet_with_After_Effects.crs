@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=366449
+Course_System=linkedin.com
+Course_Title=Creating an Animated Steam Sprite Sheet with After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create a realistic steam animation with After Effects. In this course you'll explore styling and looping a particle system animation to create an HTML5-based steam effect, and then build it into a sprite sheet that can be played back in any major browser. No prior knowledge of After Effects is required, and the sprite sheet player is included in the exercise files (free to all lynda.com members), so you can test out your results right away.

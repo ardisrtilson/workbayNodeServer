@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=802837
+Course_System=linkedin.com
+Course_Title=Excel: Introduction to Charts and Graphs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the basics of Excel charts and graphs in this concise course. Excel expert Dennis Taylor begins by explaining Excel chart concepts, including identifying the different elements of a chart and choosing the right chart type. Next, Dennis walks through creating a basic chart, using the Recommended Charts feature and keyboard shortcuts to get the job done quickly. Dennis then covers formatting charts with styles, colors, and more. Finally, he steps through the most popular chart options: column, bar, and line charts. Note that this course is recorded in Excel for Office 365 but anyone using a recent version—including 2019, 2016, and 2013—will be able to follow along.

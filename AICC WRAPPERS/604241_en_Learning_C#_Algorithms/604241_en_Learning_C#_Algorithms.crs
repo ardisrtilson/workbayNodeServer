@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=604241
+Course_System=linkedin.com
+Course_Title=Learning C# Algorithms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understanding algorithms is a key requirement for all programmers. Algorithms give programs a set of instructions to perform a task. Expand your knowledge of common C# algorithms for sorting, searching, sequencing, and more. Learn how to apply them to optimize your C# developer skills and answer crucial interview questions. Reynald Adolphe reviews linked lists, stacks, queues, and binary and linear search.

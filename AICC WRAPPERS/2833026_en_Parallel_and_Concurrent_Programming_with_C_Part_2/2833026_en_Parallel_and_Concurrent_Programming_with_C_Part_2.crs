@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Chiu Stone, Barron Stone
+Course_ID=2833026
+Course_System=linkedin.com
+Course_Title=Parallel and Concurrent Programming with C++ Part 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Write more efficient, performant code by mastering the fundamentals of parallel programming. In this course, instructors Barron and Olivia Stone pick up where they left off in the first installment of the Parallel and Concurrent Programming with C++ series, explaining what you need to know to write programs that execute multiple instructions simultaneously. Barron and Olivia dig into some more advanced concepts like condition variables and semaphores in a fun and informative way, relating them to everyday activities you perform in the kitchen. To cement these ideas, they demo them in action using C++. Each lesson is short and practical, driving home the theory with hands-on techniques.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aram Goganian
+Course_ID=2871255
+Course_System=linkedin.com
+Course_Title=Composite Design and Manufacturing 03: Validation and Production
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this three-part Composite Design and Manufacturing series, carbon fiber product designer and fabricator Aram Goganian presents an essential guide on composite design and manufacturing, detailing the building of an actual consumer product—in this case a balance bike—from composite design to the finished product. This third course in the series presents the final design workflow management and the integration of supplemental component additions that affect the end-product production plan. Aram shows how to use tools like CFD solvers to finalize the wind flow to make sure that the part is designed correctly, and how to use composite simulation tools to make sure that the parts are laid up correctly and structurally sound. He finishes the course by showing how to make the mold, produce and test the parts, and get the product out the door.

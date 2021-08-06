@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sweeky Satpathy, Microsoft .NET
+Course_ID=2876202
+Course_System=linkedin.com
+Course_Title=Introduction to IoT with .NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Does the Internet of Things (IoT) work with .NET? This course provides an introduction to writing apps in C# using .NET and then running those apps on an IoT device. Join instructor Sweeky Satpathy as she walks through understanding IoT devices and shows how to control them with .NET, in this case using a Raspberry Pi microcontroller and Docker to run .NET applications. After highlighting the software and hardware requirements, she guides you through writing a simple application to trigger a blinking LED on the hardware. Sweeky ends the course with an advanced tutorial, showing how to add hardware and write software to create a temperature change notification on the Raspberry Pi. This course was created by Microsoft.NET. We are pleased to host this training in our library.

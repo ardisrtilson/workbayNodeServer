@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Chiu Stone
+Course_ID=397357
+Course_System=linkedin.com
+Course_Title=LINQ with C# Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want an easy way to query and update data? To query different data stores with a single tool? LINQ is the answer. Language-Integrated Query (LINQ) extends Visual Studio with powerful query capabilities based on C# and Visual Basic. LINQ makes big data doable. In LINQ with C# Essential Training, engineer Olivia Chiu introduces techniques for querying, updating, and transforming data with LINQ. She covers standard queries—such as finding overlaps in two datasets and creating hierarchies—as well as complex chained queries. She also shows how to group and join LINQ queries with lambda expressions, and use LINQ to query SQL databases and XML documents. Last but not least, Olivia provides tips for optimizing the performance of your queries.

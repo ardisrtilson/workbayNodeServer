@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=459359
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 08 Extend and Customize the Visual Studio Environment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio is already a powerful IDE. But when you add extensions, third-party tools, and templates to the mix, you have a development environment that can be tailored to your exact needs. In this installment of Visual Studio 2015 Essentials, Walt Ritscher shows you how to find, install, and use the most helpful extensions for Visual Studio. Learn how extensions like Spell Checker, Comment Remover, CodeMaid, and Productivity Power Tools can automate and speed up the way you code. Then discover how to build your own extensions, and share them with other developers in the Visual Studio Gallery. Walt also shows how to use standalone external tools to augment the Visual Studio workflow, and create custom templates that include just the files and settings you need for your project types.

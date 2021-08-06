@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2819145
+Course_System=linkedin.com
+Course_Title=Apache Flink: Exploratory Data Analytics with SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Exploratory data analytics is a key phase in data science that deals with investigating data to extract insights. In a world of big data, exploring massive datasets is a challenge, since it requires technologies that are scalable, fast, and feature rich. Apache Flink—the popular stream-processing platform—is well suited for this effort. This course focuses on exploring datasets with SQL on Apache Flink. Instructor Kumaran Ponnambalam starts off by reviewing the relational APIs that Flink provides for big data analytics. Kumaran then takes a deeper look at the Table API and SQL functions. He explores various SQL capabilities available for exploring data, including filtering, aggregations and joins. To wrap up, he provides a use case project that allows you to practice your new skills.

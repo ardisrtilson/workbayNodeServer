@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2883179
+Course_System=linkedin.com
+Course_Title=Planning Basics in SAP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Planning and logistics are essential functions within every organization. This course from Michael Management gives you a high-level overview of the logistical planning functions in SAP. The course explains the basics of forecasts and demand planning, then goes into supply and demand. This course introduces you to the benefits of MRP (material requirements planning) and RPP (reorder point planning). The course concludes with SAP demos that walk you through practical applications of the concepts that were introduced. Note: This course was created by Michael Management. We are pleased to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=William Lyon
+Course_ID=601789
+Course_System=linkedin.com
+Course_Title=Database Clinic: Neo4J
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Database Clinic series helps you compare and contrast different database tools by pitting experts and their databases of choice against a series of the same challenges. This installment of the series focuses on Neo4j, a native graph database that can help you manage highly connected data. This course introduces Cypher, the graph query language, and tooling for querying Neo4j using both the Neo4j Browser and the Python driver for Neo4j. Instructor William Lyon begins by providing a quick overview of Neo4j, highlighting its unique strengths and weaknesses. He then shows how to use Neo4j to handle a series of tasks, including how to model data sets as a graph, import data sets into Neo4j, and search a database. He also covers create, read, update, and delete (CRUD) operations, as well as how to perform calculations in Neo4j.

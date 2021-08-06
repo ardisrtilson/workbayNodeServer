@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Duffy
+Course_ID=5030990
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Design a Storage Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+All architects working with the cloud need a strong understanding of storage: a foundational element of any application’s success. Microsoft has added performance, security, and other enhancements that make Azure a great choice. This course covers the options, pricing, and technical requirements for designing a storage strategy with Azure. Review the options and tiers available, discover how to choose the right one for your needs, and learn how to estimate and reduce your costs. Instructor Scott Duffy, a Microsoft Azure expert, also discusses Azure storage services, storage management, and the shared responsibility model of security in Azure. Note: This course can also be used for prepping for the storage portion of exam AZ-301, Microsoft Azure Architect Design.

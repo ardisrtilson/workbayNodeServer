@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=553697
+Course_System=linkedin.com
+Course_Title=Presto Essentials: Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Netflix and Airbnb both use Presto—an open-source SQL query engine developed by Facebook—for their ever-expanding big data querying needs. In this course, learn how to harness the power of your big data system using the Presto platform, which breaks the false dilemma of having to choose between an expensive commercial solution that offers fast analytics, and a slow, ostensibly free solution that requires excessive hardware. Data science expert Ben Sullins helps you get up to speed with Presto, and leverage it to accomplish a wide-range of data science and analytics tasks. He uses different interfaces with Presto—such as R and Tableau—and digs into the expressive SQL language that Presto offers for your analysis. At the end of this course, you'll know the key concepts of Presto and how to use them to take full advantage of your modern big data system.

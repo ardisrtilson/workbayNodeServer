@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sidney Andrews
+Course_ID=2822678
+Course_System=linkedin.com
+Course_Title=Azure for Developers: Microsoft Graph Development Using the Microsoft Identity Platform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Graph is a new API that provides a single pane to access to all of the data and intelligence stored in Microsoft 365, expanding what developers can do with their Azure environments. In this course, Sidney Andrews demonstrates how to query Microsoft Graph by showing how to use the SDK, the REST API, Graph Explorer, and Microsoft Authentication Library (MSAL). Sidney covers authentication, advanced queries, how to manipulate a graph using C# code, how to create resources for the graph, and more.

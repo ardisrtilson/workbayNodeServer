@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Benjamin Muschko
+Course_ID=2841618
+Course_System=linkedin.com
+Course_Title=Gradle for Java-Based Applications and Libraries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gradle makes building and testing Java programs easy with its compelling feature set. This course teaches the typical tasks needed to work with a Java project, including compiling code, adding dependencies, running tests, and building a JAR file. You will need a basic knowledge of the Java programming language to complete this course. Instructor Benjamin Muschko walks you through the project structure and source code of a simple Java project, then shows how to apply and explore the Java plugin for Gradle. The course explains how to generate Javadocs for a Java project. Benjamin covers the basics of dependency management. He steps through each task you need to complete, to test a Java project and fix a failed test suite. Plus, Benjamin provides some additional learning resources to deepen your Gradle knowledge.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Yahalom
+Course_ID=515917
+Course_System=linkedin.com
+Course_Title=Oracle 12c Database: Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Oracle Database 12c is the world's leading relational database management system. In this course, Oracle certified instructor and consultant David Yahalom provides an overview of this powerful database, focusing on those brand new to the software. David covers the Oracle database architecture in detail, including the shared pool, buffer cache, and physical and logical storage structures. He also discusses concepts such as tablespaces, data files, and redo logs. He then moves onto installation and configuration of the database itself, reviewing the Oracle CLI and GUI administration and development tools and typical administration tasks, including backup and recovery. After completing this course, you'll have fundamentals required for installation, configuration, and administration of an Oracle 12c database.

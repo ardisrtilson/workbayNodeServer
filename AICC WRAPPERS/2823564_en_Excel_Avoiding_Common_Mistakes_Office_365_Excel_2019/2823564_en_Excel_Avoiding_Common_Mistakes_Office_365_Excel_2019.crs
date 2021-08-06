@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=2823564
+Course_System=linkedin.com
+Course_Title=Excel: Avoiding Common Mistakes (Office 365/Excel 2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you work in Excel, you know that even a small error can have big consequences, throwing off important calculations or transmitting incorrect information to your team. In this concise course, Excel expert Dennis Taylor provides quick and easy tips to help you avoid common mistakes. Dennis begins with the basics—how to display data so that errors can be easily spotted, enter data correctly the first time, and apply shortcuts for frequent entries. Dennis provides easy ways to protect worksheets and validate your data—techniques that are particularly helpful when multiple team members are contributing to the same spreadsheet. He also shows how to correctly use row and column references and avoid mistakes in formulas.

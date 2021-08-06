@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=753905
+Course_System=linkedin.com
+Course_Title=Inside the Breach
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Hardly a day goes by without a major security incident making headlines. Each incident provides an opportunity to learn from another company's misfortune. In this series, you can explore high-profile cybersecurity breaches, discovering the inside story of what happened and lessons that you can draw from each breach. Instructor Mike Chapple breaks down incidents at major companies like Equifax and Target, and explains what you can do to protect your organization against similar attacks. He connects concepts you may have only studied to real-world incidents and shows how cybersecurity has evolved in response to these new kinds of threats.

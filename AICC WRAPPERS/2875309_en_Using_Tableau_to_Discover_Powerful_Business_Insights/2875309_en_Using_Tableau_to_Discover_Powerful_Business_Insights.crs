@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, John David Ariansen
+Course_ID=2875309
+Course_System=linkedin.com
+Course_Title=Using Tableau to Discover Powerful Business Insights
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tableau is a powerful data visualization tool, with many uses in business. In this course, data analytics expert John David Ariansen shows you how to use Tableau effectively for uncovering powerful data insights. John David defines what data visualization is and explains the main functions of Tableau. He shares how to connect to data in Tableau, by connecting live or extracting the data sources. John David goes into how to manipulate data in Tableau to build visualizations. He covers each type of visualization and how each type is built. John David describes how to export and share data insights. He explains several concepts in Tableau, such as dimensions and measures, differences between discrete and continuous, aggregations, and timeliness. The course ends with a great list of forums and resources where you can continue your learning journey. This course was created by Madecraft. We are pleased to host this training in our library.

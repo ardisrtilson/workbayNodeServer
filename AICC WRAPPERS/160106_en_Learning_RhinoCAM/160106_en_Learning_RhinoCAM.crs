@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Taylor Hokanson
+Course_ID=160106
+Course_System=linkedin.com
+Course_Title=Learning RhinoCAM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CNC milling, or computer numerical control milling, allows you to carve digital 3D models out of blocks of solid material like foam, wood, plastic, and metal. Using RhinoCAM, an add-on to Rhinoceros 3D, you can create your own models for desktop CNC milling machines, and build objects that are stronger than those created by additive means, including 3D printers. In this short course, author Taylor Hokanson explores RhinoCAM, focusing on converting a 3D model from another graphics program to a toolpath, or a set of instructions for a CNC mill to follow. From there, you can import the toolpath into the mill of your choice. Note, however, you should already be familiar with model generation in Rhino (a Windows-only program) before attempting this material. We recommend viewing Rhino 5 Essential Training to learn more. This course was created by Taylor Hokanson. We're honored to host this training in our library.

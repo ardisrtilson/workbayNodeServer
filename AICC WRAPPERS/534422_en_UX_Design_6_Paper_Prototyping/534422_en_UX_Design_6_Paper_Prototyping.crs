@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=534422
+Course_System=linkedin.com
+Course_Title=UX Design: 6 Paper Prototyping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this installment of UX Design Techniques, learn how to make paper prototypes so you can validate your ideas before you write any code. This method of prototyping is fast and inexpensive, allowing you to test design ideas early using simple materials: paper, Post-it notes, index cards, and Sharpies. Chris Nodder takes you through the process, including making separate sketches of each interface element, highlighting areas where there would be interaction between a system and a user, and then running through user testing so you can observe the user's experience, reposition elements, and make adjustments.

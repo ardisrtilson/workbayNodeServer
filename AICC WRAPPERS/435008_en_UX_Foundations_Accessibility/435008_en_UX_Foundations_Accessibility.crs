@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Derek Featherstone
+Course_ID=435008
+Course_System=linkedin.com
+Course_Title=UX Foundations: Accessibility
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet has removed many obstacles to communication and interaction. However, when websites, technologies, or tools are poorly designed, they can create barriers that exclude people with disabilities from using the web. In this course, you'll learn how accessibility lowers the barrier to entry, by providing equal access and opportunity to people with a diverse range of hearing, movement, sight, and cognitive abilities. Derek Featherstone introduces the core concepts of accessibility as they apply to UX design, including an overview of the assistive technology visitors may use to access your projects. He includes practical examples, from re-creating visual interactions to writing great alternative text; introduces different personas and their unique challenges navigating the web; and shows how to make accessibility a regular part of your design workflow. Once you learn the foundations, you'll find that the benefits of accessibility--enhanced search, improved usability, and increased audience reach--aid your designs almost as much as they aid your users.

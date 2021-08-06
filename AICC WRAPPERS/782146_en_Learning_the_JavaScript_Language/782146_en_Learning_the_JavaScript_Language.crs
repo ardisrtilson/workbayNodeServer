@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=782146
+Course_System=linkedin.com
+Course_Title=Learning the JavaScript Language
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. In this course, Joe Chellman explores the syntax behind the JavaScript language. He shows how to speak JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web.

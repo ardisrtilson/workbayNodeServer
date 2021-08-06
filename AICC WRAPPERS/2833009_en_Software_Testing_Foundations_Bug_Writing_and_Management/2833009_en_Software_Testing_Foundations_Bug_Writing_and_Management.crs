@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Fine
+Course_ID=2833009
+Course_System=linkedin.com
+Course_Title=Software Testing Foundations: Bug Writing and Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bug writing and management are critical to software development. Quality managers, developers, and everyone else associated with a product's launch are deeply invested in the process. Bad bugs—those with inaccurate or unclear information—lead to a lot of wasted time and effort. However, when bugs are well written and managed properly, the project runs smoother and faster. This course teaches best practices for identifying, writing, and tracking bugs discovered during software testing. Learn how to recognize, classify, and document issues, as well as monitor, maintain, and eventually close reported bugs in a tracking system like Jira. Instructor Mike Fine—a senior test manager with over 25 years of experience—provides a concise and practical guide to bug reporting, so that the information you submit is meaningful and useful to developers.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martynas Valkunas
+Course_ID=784300
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Security Center: Securing Cloud Resources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Azure Security Center was designed to help you monitor security across hybrid cloud workflows, as well as detect—and quickly react to—threats. In this course, instructor Martynas Valkunas helps you deepen your understanding of how Microsoft Azure Security Center can help you keep your cloud resources safe from attackers. Martynas details how to work with the Azure Security Center console and fully utilize its functionality, as well as how to set up resources and leverage advanced cloud defense capabilities. He also shares a variety of cloud security best practices, providing recommendations for Azure data security, SQL security, network security, and more.

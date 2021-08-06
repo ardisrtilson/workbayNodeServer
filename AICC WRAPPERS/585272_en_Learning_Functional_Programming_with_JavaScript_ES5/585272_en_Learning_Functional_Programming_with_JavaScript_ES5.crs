@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=585272
+Course_System=linkedin.com
+Course_Title=Learning Functional Programming with JavaScript (ES5)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Functional programming is a clean, robust alternative to the more typical procedural style of programming. In this course, learn about the functional concepts at the heart of many JavaScript frameworks and programs. Shaun Wassell begins by explaining what functional programming is, exactly, and how it compares to object-oriented programming. He then covers the basics of functional programming in JavaScript, discussing concepts such as higher-order functions and closure. He then moves on to mid-level topics, touching on JavaScript array methods and callbacks. Finally, he dives into advanced concepts, including partial application and recursion.

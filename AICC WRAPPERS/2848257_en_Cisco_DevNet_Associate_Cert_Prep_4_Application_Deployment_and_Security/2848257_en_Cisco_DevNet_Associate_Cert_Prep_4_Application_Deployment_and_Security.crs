@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chou
+Course_ID=2848257
+Course_System=linkedin.com
+Course_Title=Cisco DevNet Associate Cert Prep 4: Application Deployment and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you preparing for the Cisco DevNet Associate exam? In this course, instructor Eric Chou covers what you need to know about application deployment and security. The public cloud is the most common place for public-facing application deployment. The private cloud is when we build the cloud in our own data centers. The hybrid cloud offers a way to leverage both the public and private cloud. Eric explains edge cloud computing and the edge cloud approach. He goes over types of application deployment, including virtual machines and containers. He steps through how to manage files, directories, and environmental variables in a Linux shell, then shares common principles and practices for DevOps. Continuous integration and deployment are important components in software deployment, and Eric teaches you about the basics of Jenkins, a popular CI/CD framework. Plus, the course covers containers, working with Dockerfiles, and several components of application security.

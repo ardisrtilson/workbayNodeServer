@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Fritz
+Course_ID=647683
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Middleware
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In ASP.NET Core, the HTTP pipeline is built from middleware—components that see every request and response and decide how to act upon them, and whether to forward each one to the next component in the pipeline. Learn what middleware is and how to write middleware components of your own to enhance ASP.NET Core web applications. Instructor Jeff Fritz covers inline and external implementation, along with conditional mapping and techniques for adjusting the order in which middleware is called.

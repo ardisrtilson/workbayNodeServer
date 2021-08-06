@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2822697
+Course_System=linkedin.com
+Course_Title=CSS: Print Style Sheets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CSS makes it easy to create compelling online experiences, but style sheets also work for pages off the screen. The need for print persists and site developers should know how to create not just workable but appealing print results. Learn why print style sheets are important and how they can help improve the user experience for your website, in this course with veteran web designer and teacher Jen Kramer. Jen explains how to create and link CSS via an external print style sheet or a print-based media query. She then shows how to use standard best practices to optimize page layouts for print vs. screen, including hiding and showing content exclusive to each media type. Plus, learn how to take your print page formatting to the next level using the CSS paged media and fragmentations specifications, which allow you to set page breaks, adjust margins, and control the formatting and layout of text.

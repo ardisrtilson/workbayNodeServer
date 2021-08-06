@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=384874
+Course_System=linkedin.com
+Course_Title=Unity 5: 2D Pathfinding
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to move characters and objects from point A to B with this introduction to pathfinding in Unity 5. This training focuses on pathfinding in the 2D world: programming simple ways to connect different locations in 2D games. Jesse Freeman starts by explaining the data structures (graphs and nodes) and the A* pathfinding algorithm: the technology that makes traversal of 2D games possible. Then he shows you how to connect paths in a 2D map, and find the fastest path between two points. You'll also build a simple demo map to illustrate and test the pathfinding logic.

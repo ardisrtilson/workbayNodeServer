@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=456355
+Course_System=linkedin.com
+Course_Title=Learning Access 2016
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Spreadsheets can only go so far. Databases are the next best step for complex data sets. Access 2016, Microsoft's powerful database software, is the perfect introduction for those new to relational databases. This course provides an overview for first-time users. Adam Wilbert explains the best uses for Access, tours the interface, and guides viewers through various Access conventions and tasks, like understanding how objects interact, adding data to a table, and running a report. He also shows how to get going quickly with Access templates, create queries and reports to pull insights from data, and even use data from existing sources like Excel. If you need a deeper dive into the topics discussed, check out Adam's Access 2016 Essential Training course.

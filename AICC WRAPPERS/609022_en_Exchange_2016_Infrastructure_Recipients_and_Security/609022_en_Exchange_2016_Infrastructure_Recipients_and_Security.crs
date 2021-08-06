@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=609022
+Course_System=linkedin.com
+Course_Title=Exchange 2016: Infrastructure, Recipients, and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bolster your understanding of the infrastructure, recipients, and security features in Exchange Server 2016, to help ensure that your Exchange installation goes to plan. This course maps to the Designing and Deploying Microsoft Exchange Server 2016 (70-345) exam, specifically the following domain: Plan, deploy, and manage an Exchange infrastructure, recipients, and security. In this course, Scott Burrell helps you get a clear understanding of key features, to prepare you to create your own Exchange organization. Scott covers how to plan and configure Active Directory, create mailboxes, and configure security features that can help you keep your Exchange content safe.

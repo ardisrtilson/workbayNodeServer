@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=427974
+Course_System=linkedin.com
+Course_Title=Mac OS X El Capitan for IT Administrators
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sean Colins takes a look at Mac's latest operating system—El Capitan—focusing on the key topics IT administrators need to know to perform their job. Sean dives into assessing and planning the migration to El Capitan, and then provides the steps necessary to install and configure the OS. He show users how to back up and migrate data, as well as what's needed to manage applications effectively. The course also covers system monitoring, adding peripherals, networking, and Active Directory integration. Finally, Sean shows viewers how to troubleshoot common problems and collect system information and other documentation.

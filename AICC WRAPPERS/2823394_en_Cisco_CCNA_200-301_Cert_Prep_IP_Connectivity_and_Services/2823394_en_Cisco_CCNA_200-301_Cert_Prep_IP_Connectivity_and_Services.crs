@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Greg Sowell
+Course_ID=2823394
+Course_System=linkedin.com
+Course_Title=Cisco CCNA (200-301) Cert Prep: IP Connectivity and Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The retooled Cisco Certified Network Associate (CCNA) exam has been updated to reflect the latest technologies and job roles. The revised exam tests networking professionals' understanding of foundational and, at a basic level, emerging topics. This course was designed to help you prepare for the third and fourth domains of the CCNA (220-301) certification: IP Connectivity and IP Services. Using diagrams and demonstrations on real routers and switches, instructor Greg Sowell breaks down the key concepts you'll need to know to succeed on the test, as well as in your networking career in general. Greg covers how to view and read routing tables, configure IPv4 and IPv6 static routing, configure OSPF, NAT, and NTP, and much more.

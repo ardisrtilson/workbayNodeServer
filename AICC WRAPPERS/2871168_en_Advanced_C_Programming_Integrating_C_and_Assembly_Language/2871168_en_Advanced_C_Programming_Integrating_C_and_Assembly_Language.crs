@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=2871168
+Course_System=linkedin.com
+Course_Title=Advanced C Programming: Integrating C and Assembly Language
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Though a C compiler is efficient, it's possible to work with both C and assembly, enjoying the speed of assembly with the lower development time of C. In this course, instructor Dan Gookin teaches you how to link C and assembly object files, call C functions from assembly code, as well as write assembly inline in a C function. Dan starts by explaining how to acquire an assembler and run C and assembly programs. He discusses how integrating C and assembly language can improve your coding skills and program performance. He walks you through how to create a program in assembly by processing the proper steps: assemble, link, and run. Dan shows you how the compiler translates C instructions into assembly and how to optimize your C code by using assembly to target bottlenecks. He goes over how to join assembly code with C code, as well as how to use C language functions in assembly code. In conclusion, Dan explains how to use assembly functions for C.

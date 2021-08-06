@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=2849262
+Course_System=linkedin.com
+Course_Title=Introduction to Lights in V-Ray Next
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+V-Ray Next for 3ds Max offers smart lighting tools that intelligently analyze scenes and optimize ray calculations. In this course, instructor Brian Bradley shows how to use the V-Ray Next VRayLight—also called the plane or rectangle light—in its various operating modes: Plane, Dome, Sphere, Mesh, and Disc. The course starts with a refresher on light behavior in the real world and demonstrates how those principles translate to the rendering environment. Brian then shows how to adjust the different settings and controls of the VRayLight and put those techniques into practice by lighting a sample scene. Tackle the challenge on your own first and then review Brian's solutions for illuminating the scene with each of the VRayLight operating modes. This course provides a thorough introduction that can help you master the technical aspects of lighting in V-Ray Next, so you can focus on the art and craft.

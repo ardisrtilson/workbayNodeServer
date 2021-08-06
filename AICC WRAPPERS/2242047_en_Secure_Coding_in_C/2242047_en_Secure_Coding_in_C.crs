@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=2242047
+Course_System=linkedin.com
+Course_Title=Secure Coding in C
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C lacks some of the safety valves offered by newer programming languages. But while this midlevel language has its weaknesses, writing safe C code is still possible—it just requires extra vigilance on the part of the developer. In this course, instructor Dan Gookin explains how to identify and code around weaknesses in the C programming language to write more secure programs. Many exploits are known regarding C code; this course reviews each one, explaining the vulnerabilities and how to deal with them. Major areas covered include undefined behavior, avoiding awkward constructions, validating input, managing strings, and working with pointers.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Harrington
+Course_ID=5034178
+Course_System=linkedin.com
+Course_Title=Photoshop Selections: Tips, Tricks, and Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take charge of Photoshop and hard-to-select objects like hair, fuzzy edges, and color ranges. This course teaches you how to make better, more targeted image adjustments with the selection tools in Adobe Photoshop CC. Rich Harrington shows how to make precise selections for masking, changing color and tone, or even storing transparency. Dive into the Select menu commands and the Marquee, Lasso, and Magic Wand tools, and then learn how to refine your selections with Expand and Contract, Smooth and Feather, Quick Mask, and other controls. Photoshop power users can discover advanced techniques involving the Color Range command and alpha channel selections. Finally, see how to leverage the smart image-analysis tools such as Content-Aware Fill and Face-Aware Liquify to make complex selections and adjustments.

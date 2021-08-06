@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=688527
+Course_System=linkedin.com
+Course_Title=C# Best Practices for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get into the habit of developing reliable, readable, and sustainable application code by following coding standards with C#. In this course, join instructor Reynald Adolphe as he shows how to go beyond the language syntax and master best practices that can help you produce high-quality C# code. Throughout the course, Reynald shares some of his favorite best practices, illustrating precisely when and where to use each one. Learn about right way to use constructors, manage objects, implement often ignored advantages of getters and setters. Plus, explore best practice resources, including those for essential design patterns.

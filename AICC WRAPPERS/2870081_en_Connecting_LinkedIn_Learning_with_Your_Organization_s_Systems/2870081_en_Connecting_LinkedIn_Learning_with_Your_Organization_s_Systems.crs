@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oliver Schinkten
+Course_ID=2870081
+Course_System=linkedin.com
+Course_Title=Connecting LinkedIn Learning with Your Organization's Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is your organization looking to connect its systems to LinkedIn Learning? Join instructor Oliver Schinkten, who makes the process as straightforward as possible by explaining solutions for the most common problems you may run into during integration. Oliver begins by describing the four main types of integrations. He walks you through the supported authentication methods and how to configure and use a new SAML SSO. He shows you supported methods to automate user management. Oliver explains the third-party content integrations available in LinkedIn Learning. Then he covers how to sync the LinkedIn Learning library in an LMS, download and add an AICC package, and copy and share the SSO deep link. Oliver gives you an overview of reports in LinkedIn Learning, then goes into detail on how to enable AICC and LTI reporting, enable xAPI, and use the LinkedIn Learning Reporting APIs. Oliver concludes by showing how to access the LinkedIn Learning integrations help pages and find support.

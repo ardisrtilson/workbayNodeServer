@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=588032
+Course_System=linkedin.com
+Course_Title=Database Clinic: SQLite
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQLite is a powerful embedded database engine that's a core storage technology in Android and iOS applications. In this installment of the Database Clinic series—in which experts and their databases of choice are pitted against a series of the same challenges— Mark Niemann-Ross demonstrates how to leverage SQLite to solve common database problems. After providing a brief overview of the strengths and weaknesses of SQLite, Mark explains how to create a database and populate it using a public dataset. He also shows how to use a SQLite database with programming languages such as Python and R, handle subqueries and queries in SQLite, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft .NET, Pranav Rastogi
+Course_ID=2874220
+Course_System=linkedin.com
+Course_Title=Machine Learning with ML.NET
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Welcome to Machine Learning with ML.NET. In this course, instructor Pranav Rastogi guides you through the concepts of machine learning, what you can build with these concepts, and how to get started. First, Pranav explains what ML.NET is and what you can do with the framework. He covers how to build a ML model for sentiment analysis of customer reviews and explains how to classify incoming GitHub issues into one of the many tags (labels) using a multiclass classification algorithm. Pranav shows you how to recommend movies for users using collaborative filtering-based recommendation approach. He concludes by discussing how deep learning enables many more scenarios, using sound, images, text and other data types. This course was created by Microsoft.NET. We are pleased to host this training in our library.

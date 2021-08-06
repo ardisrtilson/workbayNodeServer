@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff I. Greenberg
+Course_ID=418835
+Course_System=linkedin.com
+Course_Title=Final Cut Pro X Guru: Sync Sound Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Recording dual audio, the practice of recording audio separately from the camera, started originally with film. It's become a common practice with the current crop of DSLR and cinema cameras. The challenge for editors is matching the video and audio in post. Luckily, Final Cut Pro X has amazing ability to sync your media—and it gets even better when you incorporate the powerful third-party plugin PluralEyes. This course will help you quickly master the nuances of this workflow, save time, and get the best results when syncing media in Final Cut Pro.

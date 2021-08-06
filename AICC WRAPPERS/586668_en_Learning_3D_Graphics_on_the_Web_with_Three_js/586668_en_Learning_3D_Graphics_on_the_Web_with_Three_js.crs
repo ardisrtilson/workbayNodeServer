@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Engin Arslan
+Course_ID=586668
+Course_System=linkedin.com
+Course_Title=Learning 3D Graphics on the Web with Three.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D graphics are a core part of data visualization, virtual reality, augmented reality, and gaming—all fields that are growing fast! Learn to use the three.js JavaScript library to create 3D graphics for the web. Discover how to create 3D objects and customize their properties, work with different types of lights, animate your scene, add materials and textures, and build particle systems. Author Engin Arslan also teaches students how to render the scene, adding in post-processing effects and shaders. This course will give you the technical and conceptual understanding for creating advanced visuals with three.js, and working with 3D graphics in general.

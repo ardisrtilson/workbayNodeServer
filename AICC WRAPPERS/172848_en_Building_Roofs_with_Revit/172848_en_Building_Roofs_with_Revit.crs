@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=172848
+Course_System=linkedin.com
+Course_Title=Building Roofs with Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What's a room without a roof? This course covers the topic of adding roofs, roof framing, and detailing with Revit: from flat roofs to fun, free-form roofs and everything in between (hip, gable, mansard, Dutch hip combination, and gambrel). Eric Wing dives into flat roofs first, showing how to pitch insulation to roof drains, add crickets, and warp roofs to fit sloped framing. From there, he shows how to create pitched roofs, add dormers, and punch holes for skylights. Of course no roof can exist without a structure, so he also focuses on adding framing and trusses to support any roof shape. Looking for something more ornate? The final chapter shows how to add truss, valley, and wall attachment details for colonial, oriental, and gothic roof styles.

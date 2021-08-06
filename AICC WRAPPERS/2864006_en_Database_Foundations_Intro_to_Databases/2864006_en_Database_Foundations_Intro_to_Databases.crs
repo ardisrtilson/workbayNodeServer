@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2864006
+Course_System=linkedin.com
+Course_Title=Database Foundations: Intro to Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What is a database? How can you build one? Do you want to learn more? In this course, database expert Adam Wilbert shows you how to set up container-based servers, connect a management GUI, and start building a database for your valuable data. You don’t need to come with any specific prior knowledge or have any specific software pre-installed. This course’s content is applicable to learners on any operating system. Learn about how to set up a database playground, how to include a user-friendly graphical interface, how to create table objects, how to add data to a table, and how to retrieve and manipulate data. The course includes exercise files so that learners can practice executing the same commands shown on screen. At the conclusion of the course, Adam shares some ideas for continuing your learning journey.

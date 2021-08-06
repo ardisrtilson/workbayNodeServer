@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=630614
+Course_System=linkedin.com
+Course_Title=The Data Science of Sports Management, with Barton Poulson
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A passion for sports can turn an ordinarily math-averse individual into an amateur statistician, ready to back up their pick for best clutch hitter with hard data. If your fascination with sports has piqued an interest in data and statistics, getting a general understanding of data science can help you gain striking insights into your favorite players and teams. In this brief course, data scientist and professor Barton Poulson explores the profound ways in which data science affects the world of sports and sports management, as well as the larger effect it has on audiences and associated industries. And while the topics he dives into can be complex, Barton takes a nontechnical approach in this course, ensuring that sports fans of many technical backgrounds can glean insights from his instruction. He covers how the principles of data science can help with the measurement of athletic performance, as well as ticket pricing, coaching players, and more.

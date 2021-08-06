@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=151161
+Course_System=linkedin.com
+Course_Title=Design the Web: Getting CSS from Photoshop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Photoshop Layers panel contains a feature to extract CSS markup from an existing design comp automatically. Copy CSS allows you to scrape styles, colors, positioning, border effects, CSS3 gradients, and even CSS3 animation positions from your designs. Chris Converse shows you how to extract the CSS necessary to render the same effects shown in your comp in a web browser, and incorporate the markup into an HTML file. Speed up your CSS workflow with this fast and easy feature. Note: If you don't have any HTML files of your own, Chris has provided free files to all members of the library, so you can get hands-on experience integrating the CSS. The Design the Web series was created and produced by Chris Converse. We are honored to host this content in our library.

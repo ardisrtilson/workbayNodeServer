@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christine Volden
+Course_ID=679617
+Course_System=linkedin.com
+Course_Title=Learning Salesforce CPQ
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Salesforce CPQ helps you manage the last stage of the sales process by making it easier to deliver pricing and quotes to your buyers. In this course, learn how to leverage this enterprise-level pricing solution for bundled pricing, discounting, quote management, and more—all inside Salesforce. Instructor Christine Pereira discusses the benefits of CPQ, how to identify who should be using this sales tool, and how to integrate CPQ into your own sales cycle. She also dives into the areas of quotes, products, and pricing as they relate to CPQ. Discover how to access and edit quotes in CPQ, add products and navigate the guided selling wizard to generate a quote, and generate pricing of products and product bundles.

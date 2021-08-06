@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chander Dhall
+Course_ID=612187
+Course_System=linkedin.com
+Course_Title=Cosmos DB: Import, Manipulate, Index and Query
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Cosmos DB is a multi-model database that's globally distributed, and scales remarkably well. In addition to boasting 99.99 % availability within a region, Cosmos DB offers several well-defined consistency models: strong, bounded-staleness, session, eventual, and consistent prefix. In this course, take a coding deep dive into development with Azure Cosmos DB. Instructor Chandler Dhall discusses data import scenarios and data manipulation with stored procedures, as well as querying and indexing.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=191611
+Course_System=linkedin.com
+Course_Title=Creating Access Web Apps in SharePoint 2013
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the no-code way to create powerful browser-based SharePoint apps that let users view and enter data from many sources: Access, Excel, and even SharePoint lists! Gini Courter walks through creating a simple Access web app with data imported from Excel, linked via SharePoint lists, or even from tables you create from scratch. She also shows how to define relationships between the tables in the database, create a user interface from views, use macros to automate events and calculations, and bundle your app in a package that can be installed on another SharePoint site.

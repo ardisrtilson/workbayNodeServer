@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=552871
+Course_System=linkedin.com
+Course_Title=Revit Stairs Workshop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use Revit—the powerful BIM software from Autodesk—to create simple to custom stairs and railings. Instructor Eric Wing covers features, tools, and techniques that can help you add elegant stairs and railings to your designs. Eric explains how to add straight stairs, spiral stairs, U-shaped stairs, and multistory stairs. He also goes over how to configure railings—including how to edit a rail path; shows how to create a bullnose; and covers how to work with stringer, tread, riser, and landing families.

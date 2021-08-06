@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2835100
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Serverless Computing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Serverless computing allows you to build and run applications and services without having to manage infrastructure. This course is targeted at IT professionals who need to gain a foundational knowledge of serverless computing—what it is and why it's important—and what's offered by serverless computing technologies like AWS Lambda and Azure Functions. Instructor David Linthicum begins with the basics: what serverless computing is and the problems it can solve. He then explores effective use cases for serverless computing and runs through demos of both AWS Lambda and Azure Functions.

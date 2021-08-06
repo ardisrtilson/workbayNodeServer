@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Simon Manning
+Course_ID=740361
+Course_System=linkedin.com
+Course_Title=Unreal Engine: ArchViz Design Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to work faster and smarter in Unreal Engine? In this course, pick up practical architectural visualization techniques that can help you build compelling experiences with Unreal Engine. Instructor Simon Manning shares tips for working with materials, including how to get realistic mirrors in your scene and give your glass materials reflectivity. He also explores how to regenerate improved lightmaps from within Unreal, as well as how to reduce draw calls and poly counts, measure project performance, and more.

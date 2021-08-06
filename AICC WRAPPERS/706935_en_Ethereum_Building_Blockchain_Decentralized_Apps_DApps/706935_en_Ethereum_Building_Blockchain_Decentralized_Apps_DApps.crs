@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Drew Falkman
+Course_ID=706935
+Course_System=linkedin.com
+Course_Title=Ethereum: Building Blockchain Decentralized Apps (DApps)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you interested in writing blockchain apps or integrating cryptocurrency into your existing apps? In this project-based course, Drew Falkman shows mobile and web developers who are broadly familiar with programming concepts how to work in the Ethereum blockchain environment. As he walks through the creation of a smart contract, a web user interface, and the JavaScript needed to link the two, Drew helps to familiarize you with key programming concepts and techniques surrounding Ethereum development. Discover what the Ethereum blockchain is and how it differs from bitcoin. Get an introduction to Solidity, the programming language used to write smart contracts on the Ethereum network. In addition, learn how to build decentralized applications (DApps) using some of the web programming languages you're already familiar with.

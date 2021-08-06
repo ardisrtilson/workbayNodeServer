@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2825274
+Course_System=linkedin.com
+Course_Title=UXPin for UX Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore UXPin, the collaborative product design tool that allows you to create and present wireframes, mockups, and prototypes. Instructor Tom Green starts with a review of how to set up UXPin, then shows how to import existing artwork and start to create wireframes. See how to add interactivity and motion to prototypes to simulate real-world app experience, and how to share prototypes and documentation with a team and workgroup.

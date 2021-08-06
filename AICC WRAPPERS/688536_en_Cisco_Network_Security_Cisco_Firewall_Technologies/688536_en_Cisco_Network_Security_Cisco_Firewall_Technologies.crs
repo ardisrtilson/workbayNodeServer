@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=688536
+Course_System=linkedin.com
+Course_Title=Cisco Network Security: Cisco Firewall Technologies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Improve your ability to configure and maintain Cisco devices to properly secure your organization's infrastructure. In this course, security ambassador Lisa Bock focuses on essential firewall technologies, diving into the concept of a firewall, firewall security contexts, and how to do a basic firewall configuration. She compares different types of firewalls, including stateless, stateful, and application firewalls. She also reviews implementing NAT on Cisco ASA along with zone-based firewalls. To wrap up, she takes a closer look at some firewall features on the Cisco ASA such as Access Management, Modular Policy Framework, and high availability.

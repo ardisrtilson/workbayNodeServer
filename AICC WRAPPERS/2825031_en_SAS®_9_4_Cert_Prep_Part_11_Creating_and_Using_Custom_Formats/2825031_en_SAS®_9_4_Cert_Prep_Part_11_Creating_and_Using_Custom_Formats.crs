@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=SAS Institute
+Course_ID=2825031
+Course_System=linkedin.com
+Course_Title=SAS® 9.4 Cert Prep: Part 11 Creating and Using Custom Formats
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get ahead in a crowded job market? Get certified with SAS. This course is part of a series by the SAS Institute, designed to prepare you for the SAS 9.4 certification exam. Here you can explore techniques for standardizing your SAS data with custom formats. Instructor Stacey Syphus explains how to format values, use ranges, and create and apply custom formats. Plus, learn how to create custom formats from tables and store custom formats for future use. This course was created by SAS Institute. We are pleased to offer this training in our library.

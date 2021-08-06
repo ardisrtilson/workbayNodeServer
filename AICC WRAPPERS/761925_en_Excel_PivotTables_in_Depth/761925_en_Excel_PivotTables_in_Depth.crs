@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=761925
+Course_System=linkedin.com
+Course_Title=Excel: PivotTables in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many Excel users have a fear of PivotTables. This course provides a thorough introduction to this powerful and overlooked feature and, for more advanced students, shows how to use macros and the data model to extend PivotTables even further. Instructor Curt Frye demystifies PivotTables, using real-world examples that empower students to make the most of their time with the program and to analyze their data effectively. Learn how to evaluate and summarize data, sort and filter results, format your PivotTables with styles and conditional formatting, and visualize your analysis with PivotCharts. Note: This course was recorded in Office 365. However, anyone using Excel 2019, Excel 2016, and even prior editions of Excel should be able to follow along with the course contents.

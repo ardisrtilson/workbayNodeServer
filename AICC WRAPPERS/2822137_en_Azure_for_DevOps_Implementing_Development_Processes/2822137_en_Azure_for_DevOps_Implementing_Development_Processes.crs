@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul Hacker
+Course_ID=2822137
+Course_System=linkedin.com
+Course_Title=Azure for DevOps: Implementing Development Processes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to implement DevOps processes such as source control, pipelines, and security with Microsoft Azure—and prepare for related objectives from the AZ-400 certification exam. Discover how to use source control systems such as Azure Repos and Git, scale Git for an enterprise, and implement and manage build infrastructure such as pipelines and agents. Find out how to configure security and compliance policies in Azure, and create a mobile DevOps strategy that accelerates the development and testing of mobile applications. The lessons are valuable for anyone studying continuous integration and development, as well as those preparing for the Microsoft Azure DevOps Solutions (AZ-400) certification exam—a highly sought-after credential for DevOps pros.

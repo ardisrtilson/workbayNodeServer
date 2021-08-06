@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Banks
+Course_ID=2833016
+Course_System=linkedin.com
+Course_Title=Learning React Native
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with React Native, the popular framework for building native applications that run on both iOS and Android using React. Instructor Alex Banks introduces you to the framework and steps through how to use it to build applications in JavaScript. Using practical examples, Alex helps you get started with components, views, and platform APIs. He takes you through setting up your first app, creating style sheets, working with flexbox, adding data points to a list, collecting data from users, implementing navigation, adding touch responses, and more.

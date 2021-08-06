@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=William Carney
+Course_ID=748573
+Course_System=linkedin.com
+Course_Title=Advanced Revit and Dynamo for Interior Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Automate the placement of repetitive geometry and save time to do more creative design work. By adding Dynamo to the Revit workflow, interior designers can create visual logic to approach modeling challenges in smarter, more efficient ways. This course shows how to use basic Revit features and advance them with automated assistance from Dynamo. Explore how to build families, set parameter information, and place the family components with Dynamo scripts. Designer Bill Carney shows how to use these features to speed up the placement of repetitive wall accessories such as wall protection, door signage, and corner guards—tedious but essential elements of building design.

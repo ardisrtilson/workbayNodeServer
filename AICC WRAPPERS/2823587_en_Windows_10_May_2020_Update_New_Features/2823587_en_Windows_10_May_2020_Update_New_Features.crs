@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Brazzi
+Course_ID=2823587
+Course_System=linkedin.com
+Course_Title=Windows 10 May 2020 Update New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The May 2020 update to Windows 10 introduces a variety of useful new features. In this course, instructor Nick Brazzi gets you up to speed with how these features work, so you can quickly start leveraging them to work smarter in Windows. Nick introduces the updated Cortana panel, which allows you to string together voice commands in a chat-like view. He goes over a useful change to the calculator, as well as how to rename virtual desktops to make them easier to navigate. Plus, he details the new features in Windows settings, including how to leverage a mouse cursor speed option, monitor which applications are using the most data, and automatically reopen certain applications after you restart your machine.

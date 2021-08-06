@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rodrigo Díaz Concha
+Course_ID=2855001
+Course_System=linkedin.com
+Course_Title=Azure Functions for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Azure Functions, you can build robust software solutions within an overall serverless architecture. Instructor Rodrigo Díaz Concha covers how developers can use Azure Functions in developing applications. First, he goes over the main benefits of Azure Functions. Find out about different hosting plans and app service plans. Then learn how to create and deploy function apps. Rodrigo explains what Azure Functions is and shows how to develop, test, debug, and run event-driven code on your local computer, as well as in Visual Studio using .NET. Learn about triggers, bindings, and how to implement both in Azure Functions. Next, Rodrigo explains Blob storage and CosmosDB. See how to use dependency injection for cleaner code. After that, Rodrigo explains how to deploy Azure Functions from the command line interface (CLI) and from Visual Studio. Explore how to build and use Azure Durable Functions in your projects, then learn how to manage and secure Azure Functions with KeyVault.

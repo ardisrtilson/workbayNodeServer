@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2828018
+Course_System=linkedin.com
+Course_Title=PostgreSQL Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PostgreSQL is one of the world’s most popular open-source database platforms. This highly flexible and scalable relational database management system (RDBMS) supports everything from general purpose databases to machine learning applications and geospatial map servers. In this course, instructor Adam Wilbert helps you get up and running with PostgreSQL. Adam covers the essential first steps of setting up a PostgreSQL server and working with the graphical interface, pgAdmin. He then shows how to work with pgAdmin to create new database objects, populate them with data, and retrieve records from the database. If you're new to the platform (or relational databases in general), this course serves as an entry point and provides a solid foundation for further exploration in database administration.

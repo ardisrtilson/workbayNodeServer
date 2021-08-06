@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anton Delsink
+Course_ID=580646
+Course_System=linkedin.com
+Course_Title=Learning Azure SQL Querying
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use Structured Query Language (SQL) to tackle the often highly complex task of working with databases. Join Anton Delsink as he shows how to leverage the vast capabilities of modern database management systems such as Microsoft Azure SQL Database, and work effectively with the rich syntax of T-SQL with Azure SQL databases. After explaining how to create a new Azure SQL database and connect with SQL Server Management Studio, Anton explains how to create tables and add data to those tables. He also explains how to combine data in queries from multiple tables. After you wrap up this course, you'll be prepared to create your own database, share access to your database with other users, and create and query tables.

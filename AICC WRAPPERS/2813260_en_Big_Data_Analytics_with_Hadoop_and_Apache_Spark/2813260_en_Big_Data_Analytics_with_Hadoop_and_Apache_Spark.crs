@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2813260
+Course_System=linkedin.com
+Course_Title=Big Data Analytics with Hadoop and Apache Spark
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Hadoop was a pioneer in the world of big data technologies, and it continues to be a leader in enterprise big data storage. Apache Spark is the top big data processing engine and provides an impressive array of features and capabilities. When used together, the Hadoop Distributed File System (HDFS) and Spark can provide a truly scalable big data analytics setup. In this course, learn how to leverage these two technologies to build scalable and optimized data analytics pipelines. Instructor Kumaran Ponnambalam explores ways to optimize data modeling and storage on HDFS; discusses scalable data ingestion and extraction using Spark; and provides tips for optimizing data processing in Spark. Plus, he provides a use case project that allows you to practice your new techniques.

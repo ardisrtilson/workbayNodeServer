@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Roodyn
+Course_ID=711814
+Course_System=linkedin.com
+Course_Title=Microsoft Mixed Reality Development Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to take your mixed reality project to the next level? Join industry leader Neil Roodyn and his team and explore possibilities for developing immersive mixed-reality games and apps for distribution in the Microsoft Store. Explore challenges like how to select the right headset, incorporate spatial sound and voice input, plan movement—physical movement, teleportation, and mouse movement—in a virtual environment, and create 3D models for mixed reality in programs like Maya. Plus, find out how to optimize your applications for high performance and make the user experience more comfortable and intuitive. You can follow along with Neil and the team using the free editions of Unity and Visual Studio.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=734662
+Course_System=linkedin.com
+Course_Title=JavaScript: Scope
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript scope determines how variables can be accessed throughout your code. There are two scopes: global and local. Global variables are accessible from anywhere; local variables are accessible only from within the function or block the variables are declared. Scope can be confusing, especially when factors such as hoisting and closures enter the mix. This course provides a thorough introduction to the scope options for JavaScript variables, alongside challenges that help you practice what you've learned. LinkedIn Learning instructor Emmanuel Henri helps you properly scope your variables, mitigate the effects of hoisting, and declare local variables inside non-function code such as if statements using block scope.

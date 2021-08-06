@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=761922
+Course_System=linkedin.com
+Course_Title=Substance Designer 2018 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Substance Designer is a powerful, procedurally based tool for creating textures for 3D art and games. Learn the essentials of Substance Designer 2018, in this introductory training course. Instructor Joel Bradley begins with an overview of a prebuilt Substance graph, demonstrating the strengths and nondestructive workflow of Substance Designer. He covers basics, such as navigating the substance Designer interface, adjusting important preferences, importing meshes and maps, and using the 2D, 3D, and Graph views. He then moves onto the large array of essential atomic nodes in Substance Designer, including the Blend, Curve, Slope Blur, Normal, Gradient, and Water Level nodes. These nodes comprise the heart of the Substance Designer workflow. Then learn how to create a custom environmental panorama from scratch, and explore more advanced topics such as MDL materials, functions, and FX-Maps. Finally, Joel closes out the course by putting a substance to use, showing how to import a substance package into a game engine such as Unreal Engine 4.

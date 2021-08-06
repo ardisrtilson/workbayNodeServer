@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=697726
+Course_System=linkedin.com
+Course_Title=AWS for Architects: High Availability and Continuous Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to get your apps in front of users as soon as possible—and ensure that those same apps are highly available—by leveraging continuous deployment (CD) and high availability (HA) strategies. This course shows IT pros how to use AWS CD and HA services, techniques, and tools. Instructor Lynn Langit covers key concepts around both CD and HA, including the impact of AWS regions and availability zones on HA design. She also goes over key services such as Step Functions, shows how to work with common application patterns, and discusses how to implement CD and HA. This course can also prepare you for the High Availability and Business Continuity domain in the AWS Certified Solutions Architect – Professional exam.

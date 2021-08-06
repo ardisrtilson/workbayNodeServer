@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2824431
+Course_System=linkedin.com
+Course_Title=Python Essential Libraries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In addition to the Python standard library, there are thousands of third-party modules available to download and use. These libraries expand the power and proficiency of your code. In this course, instructor Joe Marini introduces four essential libraries that every Python developer should consider that address common development challenges. Learn how to format, calculate, and compare dates and times with Pendulum and retrieve remote data with the Requests library, which also offers advanced features such as timeouts and sessions. Then find out how to perform batch file operations, including reading and writing data, and directory operations, such as searching, with PyFilesystem. Finally, discover how to manipulate and edit images with Pillow. Each chapter includes challenges to help you test your newfound Python prowess.

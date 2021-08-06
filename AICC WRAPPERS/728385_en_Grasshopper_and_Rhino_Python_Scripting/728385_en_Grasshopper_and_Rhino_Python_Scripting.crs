@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Graham
+Course_ID=728385
+Course_System=linkedin.com
+Course_Title=Grasshopper and Rhino: Python Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Grasshopper allows designers to perform graphical, component-based algorithmic modeling in Rhino. Python extends this functionality, allowing you to create custom scripts for Grasshopper and perform more complex workflows by working directly with the Rhino API. This course introduces the Python programming language to designers who want to do more with Grasshopper. Learn the basics of Python, including variables, data types, conditionals, and loops, and discover how to import additional libraries to extend Grasshopper. Instructor and computational design expert Jeremy Graham then introduces workflows for lofting, sorting, and baking geometry in Grasshopper—using powerful and fast Python scripts that push the boundaries of this visual programming tool.

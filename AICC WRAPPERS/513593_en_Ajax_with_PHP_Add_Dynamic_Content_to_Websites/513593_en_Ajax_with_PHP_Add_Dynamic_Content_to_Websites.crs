@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=513593
+Course_System=linkedin.com
+Course_Title=Ajax with PHP: Add Dynamic Content to Websites
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Add dynamic, asynchronously loading content to websites to make them more modern, professional, and user friendly with Ajax and PHP. Learn how to use Ajax to send and receive data in the background and how to use PHP to assemble and return text, HTML, or JSON responses. Kevin Skoglund walks viewers through sample projects for the most common Ajax use cases: buttons to allow users to mark or favorite items, forms that validate and submit data in the background, infinite scrolling of paginated content, and autosuggestions beneath a text field.

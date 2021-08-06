@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=597019
+Course_System=linkedin.com
+Course_Title=Windows Performance Toolkit: Virus Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What happens when your computer starts acting unpredictably, keeps shutting down, or stops responding all together? A virus is the likely culprit. The Windows Performance Toolkit provides tools to catch threats that anti-virus programs miss. In this course, Thomas Pantels shows how to inspect a self-replicating virus that injects its own malicious source code into other normal Windows programs and files. These newly infected files further spread the virus when they are executed. By analyzing CPU usage and file I/O activity with Windows Performance Analyzer, you can isolate the virus and remove it from your system permanently.

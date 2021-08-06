@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=517442
+Course_System=linkedin.com
+Course_Title=Linux: Desktops and Remote Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Find the most productive way to work in Linux. Linux: Desktops and Remote Access covers the most popular desktop environments, terminal emulators, and shells used to access and administer Linux systems, both locally and remotely. Instructor Grant McWilliams reviews GUI options such as KDE, GNOME, MATE, Cinnamon, and Xfce, as well as remote access tools like VNC, RDP, and X2Go. Then explore the advantages and disadvantages of command-line access and the productivity features in Bash, and learn how to create secure remote connections to the Linux CLI on Windows, macOS, iOS, and Android devices. All the tools and techniques are demonstrated using CentOS 7, but the lessons apply to any Linux distribution. Note: The topics below map to elements of the Essential Commands section of the Linux Foundation Certified System Administrator exam. Learn more about LFCS certification at https://training.linuxfoundation.org/certification/lfcs.

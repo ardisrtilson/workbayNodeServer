@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=689779
+Course_System=linkedin.com
+Course_Title=The Data Science of Healthcare, Medicine, and Public Health, with Barton Poulson
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data analytics plays an increasingly pivotal role in how we go about managing our healthcare systems and our own personal health. Designed for anyone with a stake in our healthcare system, this nontechnical course explores a variety of ways to apply data science to medicine and public health. Data scientist and professor Barton Poulson discusses the ways that dramatically increased quantities of data—from genetic testing, genealogy, blood testing, brain scans, and other sources—are changing the theory and practice of healthcare. As he looks over key data sources, he also explores the different methods for analyzing this wealth of data, including machine learning and predictive modeling. Discover how data science can help predict outbreaks, find cures, help with healthcare costs, and more.

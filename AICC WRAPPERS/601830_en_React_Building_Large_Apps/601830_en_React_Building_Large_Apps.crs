@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=601830
+Course_System=linkedin.com
+Course_Title=React: Building Large Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React was built for large and intricate applications. If you want to build bigger and bolder apps with React, you need make its flexibility work for you. That means managing your project, your components, and your application state.  Emmanuel Henri explores tools that make building and deploying at large scale easier, and let you see what is happening in your React application well above what you can determine with a typical debugger. Learn best practices for project organization, state management, testing, continuous integration, progressive web apps, and server-side rendering.

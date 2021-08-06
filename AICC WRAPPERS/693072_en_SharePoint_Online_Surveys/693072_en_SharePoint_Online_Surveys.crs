@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=693072
+Course_System=linkedin.com
+Course_Title=SharePoint Online: Surveys
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Surveys can be a meaningful source of information, as they reveal what people actually think about a particular topic. In this course, learn how to create and review surveys directly inside of SharePoint Online. Join Bill Kulterman as he explains how to create a survey using the survey app, and then add different types of questions—including radio button and drop-down menu choice questions—to your survey. Bill also covers how to set the permissions for a survey, create a branching logic survey, and review survey results.

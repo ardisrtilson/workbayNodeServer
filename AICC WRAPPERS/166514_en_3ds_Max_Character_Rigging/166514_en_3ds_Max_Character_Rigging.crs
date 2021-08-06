@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=166514
+Course_System=linkedin.com
+Course_Title=3ds Max: Character Rigging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3ds Max is a powerful 3D application with great rigging tools. This course covers the complete workflow for rigging characters for realistic motion and animation. Author George Maestri shows how to prep your model, draw a skeleton, and add controls: foot and leg controls, hip and spine controls, and controls that allow the animator to toggle between inverse and forward kinematics (IK/FK). Plus, learn to how to skin your character, and create hand and face rigs that allow for greater control over delicate hand movements and facial expressions.

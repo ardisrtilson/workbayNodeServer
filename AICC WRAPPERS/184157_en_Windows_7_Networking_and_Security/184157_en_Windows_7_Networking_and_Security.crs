@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Fullmer
+Course_ID=184157
+Course_System=linkedin.com
+Course_Title=Windows 7: Networking and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore Windows 7 networking and security. Join Steve Fullmer for an exploration of the Open Systems Interconnection (OSI) model, IPv4 and IPv6, Domain Name System (DNS) resolution, and the Dynamic Host Configuration Protocol (DHCP). Learn how to configure Automatic Private IP Addressing (APIPA) and firewalls, and encrypt file systems. Plus, get insights on the Windows 7 security model, User Account Control (UAC), AppLocker, BitLocker, and Windows Defender.

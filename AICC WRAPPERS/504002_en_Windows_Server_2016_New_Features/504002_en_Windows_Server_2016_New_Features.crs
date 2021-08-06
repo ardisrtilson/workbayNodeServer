@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=504002
+Course_System=linkedin.com
+Course_Title=Windows Server 2016 New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn what's new in Windows Server 2016. The latest version of Microsoft's enterprise-level server operating system offers major improvements in cloud and virtualization support. This course reviews what's available in the newest version, including Nano Server (a small-scale, remotely administered version of Windows Server), Hyper-V enhancements, Active Directory improvements for cloud and hybrid deployments, and new PowerShell and SDN features. Plus, get a look at improvements to security, storage, and networking. If you're considering upgrading to Windows Server 2016, this course is a must watch.

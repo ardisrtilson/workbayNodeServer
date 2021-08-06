@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Wheeler
+Course_ID=737780
+Course_System=linkedin.com
+Course_Title=Salesforce Administrator Cert Prep: 5 Analytics and Mobile Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earn your Salesforce Certified Administrator certification to jump-start your career and deepen your understanding of the platform. The Salesforce Administrator Cert Prep series helps you prepare for the exam and study all the core objectives. This course covers the fifth domain: Analytics and Mobile Administration. Instructor Mike Wheeler explains how to create and customize reports and dashboards, complete with bucket fields and cross-filters, using the report types and dashboard components available in Salesforce. He also explains the effect of roles and permissions on report visibility and shows how to manage the folders that house reports and dashboards. Plus, learn how to generate custom report types to report on many related objects, such as accounts with contacts and cases.

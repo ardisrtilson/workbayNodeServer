@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2848007
+Course_System=linkedin.com
+Course_Title=Rapid Application Development with Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developing graphical user interfaces (GUIs) in Python traditionally involves a lot of manual coding. wxGlade, a GUI designer written in Python for the wxPython GUI toolkit, was designed to help simplify this process. In this course, learn how to quickly develop Python GUI apps using the wxPython library—which brings the wxWidgets capability to Python—and the wxGlade tool. To lend each concept a real-world context, instructor Malcom Shore steps through how to build a cybersecurity compliance app based on the NIST Cybersecurity Framework. Malcom begins by detailing how to create a simple wxPython application. He then shows how to construct a user interface for your application using wxGlade and add functional application code to put the finishing touches on your project.

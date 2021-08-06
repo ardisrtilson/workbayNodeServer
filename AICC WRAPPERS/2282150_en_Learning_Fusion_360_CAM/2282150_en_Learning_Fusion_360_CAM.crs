@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Helfen
+Course_ID=2282150
+Course_System=linkedin.com
+Course_Title=Learning Fusion 360 CAM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fusion 360 includes a powerful CAM package, bringing enterprise-class machining capabilities to the desktop. Learn how to use Fusion 360 CAM to prepare your 2D and 3D models for machining on CNC routers and mills. In this course, you can find out how to create a CAM setup, configure tools and stock material, and define toolpaths for a variety of cut types. Instructor John Helfen shows how to configure multiple stock setups from the same file, perform cutting operations with 2D contours and pockets, complete 3D roughing and finishing, and export your design as GCode suitable for your specific CNC machine.

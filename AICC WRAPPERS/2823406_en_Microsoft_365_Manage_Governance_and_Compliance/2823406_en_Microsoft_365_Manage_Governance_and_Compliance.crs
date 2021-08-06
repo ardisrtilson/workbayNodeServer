@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Liam Cleary
+Course_ID=2823406
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Manage Governance and Compliance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft 365 offers a variety of tools designed to help you manage your content lifecycle and comply with legal or regulatory standards. In this course, learn about some of the most notable governance and compliance tools and features, as well as how to use them to protect information within Microsoft 365. Instructor Liam Cleary outlines the recommended configuration of tools such as data loss prevention (DLP), and Azure Information Protection. He also provides configuration and implementation details for overall auditing, data governance, and eDiscovery capabilities. This course maps to the Manage Microsoft 365 Governance and Compliance domain of the Microsoft 365 Mobility and Security (MS-101) exam.

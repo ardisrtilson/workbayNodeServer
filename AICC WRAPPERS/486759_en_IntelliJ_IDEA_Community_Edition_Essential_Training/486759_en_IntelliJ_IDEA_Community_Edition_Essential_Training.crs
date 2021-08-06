@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=486759
+Course_System=linkedin.com
+Course_Title=IntelliJ IDEA Community Edition Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with IntelliJ IDEA, one of the most popular IDEs for programming with Java and other Java virtual machine (JVM) languages. In this course, David Gassner explains how to install the Java Development Kit (JDK), configure IntelliJ IDEA, and create new projects. He also shows how to import existing projects from Eclipse and other IDEs, walks through the IntelliJ IDEA user interface, and demonstrates the powerful code generation and debugging tools. Plus, he explains how to work with Git and GitHub to manage your source code, and how to program with other popular JVM languages such as Groovy and Scala.

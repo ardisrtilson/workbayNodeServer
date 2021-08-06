@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft General Technical Skills
+Course_ID=2815110
+Course_System=linkedin.com
+Course_Title=Essential Math for Machine Learning: Python Edition
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Core mathematical concepts such as single-variable calculus, multivariable calculus, matrices, and linear algebra are the underpinnings of all machine learning algorithms. And for many professionals with an interest in machine learning and AI, revisiting these concepts can be a bit intimidating. This course demystifies the essential math that you need to grasp—and implement—in order to write machine learning algorithms in Python. Review fundamental algebraic concepts; derivatives and optimization; statistics; and the basics of probability.

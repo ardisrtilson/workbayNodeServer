@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Corey Koberg
+Course_ID=517323
+Course_System=linkedin.com
+Course_Title=Introduction to Attribution and Mix Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When all your marketing culminates in a conversion, who gets the credit? Take your analytics to the next level by applying attribution models. An attribution model is the set of rules that determines how credit for sales and conversions is assigned to touchpoints in conversion paths. In this course, marketing expert Corey Koberg dives into the basics of attribution and mix modeling. Corey explains what the models are and goes over a few of the most common ones. He shows how to approach offline data, goes into how attribution modeling and marketing mix modeling (MMM) work together, and shares best practices for using different attribution models. Plus, he walks through the challenges you may face when you start analyzing marketing data with models, and goes over an action plan that can help to ensure that your deployment goes as smoothly as possible.

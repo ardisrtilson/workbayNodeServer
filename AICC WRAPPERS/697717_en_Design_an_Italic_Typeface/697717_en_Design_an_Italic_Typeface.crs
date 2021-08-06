@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charles Nix
+Course_ID=697717
+Course_System=linkedin.com
+Course_Title=Design an Italic Typeface
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The key to a cohesive font family is the right balance of similarity and difference among fonts. When designing italics, it is most efficient to start with the existing roman font and introduce differences: a 10- to 20-degree slant, slightly more condensed spacing, more fluid serifs, and so on. In this course, instructor Charles Nix takes you through the entire process of designing an italic typeface, building from an upright roman script to the italic form. He shows how to create capital and lowercase characters, as well as punctuation, while examining aspects such as slant, stem width, serif shape, and other fundamental differences between the roman and italic forms. Once the font is complete, he refines it with spacing and kerning, and introduces strategies for generating and testing the final font files. He also offers valuable resources for further exploration of italic typeface and typography in general.

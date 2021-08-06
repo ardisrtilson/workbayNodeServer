@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peco Karayanev
+Course_ID=808677
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Distributed Tracing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Distributed tracing is a cutting edge new practice for application performance analysis. Increasingly, organizations are adopting microservice architectures, which make things much easier for developers, but can result in a very complex set of services. For developers who have to optimize the performance in these environments, tools and techniques are needed to trace how requests are handled between services. In this course, learn about the key technology-related challenges driving the need for distributed tracing, how to use and configure popular tools like Jaeger and Zipkin, how to integrate with the broader monitoring ecosystem, and more.

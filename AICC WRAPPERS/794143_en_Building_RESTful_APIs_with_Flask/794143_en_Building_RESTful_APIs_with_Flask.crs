@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bruce Van Horn
+Course_ID=794143
+Course_System=linkedin.com
+Course_Title=Building RESTful APIs with Flask
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Regardless of platform, you will need to build APIs to serve data between different client applications and endpoints. Good APIs are a necessity for web and mobile projects, especially with the modern, mobile-first approach to development. This course delivers the fundamental knowledge required to enable highly connected interactions between applications via RESTful APIs. Follow along with Bruce Van Horn and learn how to quickly build, secure, and test an effective RESTful API using Python and Flask, the Python microframework. Find out how to use Flask with Python to approach database access, authentication, and other common tasks. Plus, learn about a few key plugins that make using Flask even easier.

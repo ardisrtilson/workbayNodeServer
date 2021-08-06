@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nathan Eliason
+Course_ID=693090
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor: Configurable Designs and Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Inventor has a set of intelligent tools intended to make it easier to iterate and automate product design. These features allow users to quickly develop new variations of a design, without reinventing it every time. Learn how to use the power of Inventor to build logic and iterations into your 3D designs. Discover how to add simple parameters to your models, reuse data with iFeatures, streamline assembly creation with iMates, create variations on parts with differing sizes and materials with iParts, and build dynamic assembly configurations with iAssemblies. Plus, learn how to configure rule-driven product design with iLogic. Instructor Nathan Eliason discusses best practices for each method, so you get the best performance from each toolset.

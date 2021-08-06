@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Smith
+Course_ID=2834008
+Course_System=linkedin.com
+Course_Title=Advanced JMeter
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make the most of Apache JMeter, the open-source, industry-standard tool for performance testing. This course covers advanced JMeter tips and techniques, designed to help software testers and engineers get even more value from JMeter. Michael Smith, a technology researcher with over 10 years of experience in software testing, shows how to record test scripts to capture actions and replay them through a browser. He also shows how to log in to web applications for testing, generate new login requests from a data source such as a CSV files, and load test APIs . Plus, learn how to perform distributed load testing using a master-server configuration in JMeter. With these tips, you can take your JMeter skills to the next level.

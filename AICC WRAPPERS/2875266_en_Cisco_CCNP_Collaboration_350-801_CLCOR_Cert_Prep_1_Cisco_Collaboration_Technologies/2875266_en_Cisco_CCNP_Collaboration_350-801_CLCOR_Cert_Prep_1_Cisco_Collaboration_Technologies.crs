@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2875266
+Course_System=linkedin.com
+Course_Title=Cisco CCNP Collaboration 350-801 (CLCOR) Cert Prep: 1 Cisco Collaboration Technologies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you getting ready for the Cisco CCNP Collaboration or the Cisco CCIE Collaboration certification? In this course, instructor Kevin Wallace covers everything you need to know to design a unified communications network and to pass your CCNP Collaboration certification. Kevin introduces the software used in this course and how to install it. He explains the fundamentals of Cisco collaboration technologies, including Cisco Instant Messaging and Presence, Cisco Jabber, Cisco Expressway, and much, much more. Kevin goes into sizing, redundancy, disaster recovery and security options, then concludes by recommending some next steps to continue your exam preparations. Note: This course was created by Kevin Wallace. We are pleased to host this training in our library.

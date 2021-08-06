@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carl Frischmuth
+Course_ID=513585
+Course_System=linkedin.com
+Course_Title=Fusion 360 Product Design: Lighting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sculpting visually pleasing forms in 3D can be a bit of a challenge. In instances where the forms are organic shapes without flat areas, it can be tough to figure out how to get started. In this project-based course, dive into 3D modeling techniques by learning how to build a familiar object—a table lamp—with the Fusion 360 tool from Autodesk. Instructor Carl Frischmuth shows how to create a 3D sculpted form for the outer shape and inner shape, an inner frame structure to support an LED light, and supports to connect the inner frame to the outer shape. He also shows how prepare your inner frame and outer shell for 3D printing. Once you've mastered the various approaches covered in this course, you'll be prepared to approach other complex 3D design problems where the old solutions don't cut it, and you need to create new, complex forms to get the job done.

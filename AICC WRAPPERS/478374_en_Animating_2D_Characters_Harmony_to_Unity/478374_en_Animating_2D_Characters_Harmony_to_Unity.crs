@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Ross
+Course_ID=478374
+Course_System=linkedin.com
+Course_Title=Animating 2D Characters: Harmony to Unity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Toon Boom Harmony is an award-winning industry-standard program for animating 2D cartoons. But Harmony also has the tools to create animations for games. By partnering with Unity, Toon Boom has created a pipeline in which you can now rig and animate characters in Harmony, and then export those animations to be used in Unity's game engine. Learn how in this course with motion comics artist, animator, and teacher Tony Ross. Tony shows you the basics of rigging characters, animating with bone defomers and pegs, and prepping files for use in Unity. Finally, learn how to import and test out your character moves and animations in a simple Unity game environment.

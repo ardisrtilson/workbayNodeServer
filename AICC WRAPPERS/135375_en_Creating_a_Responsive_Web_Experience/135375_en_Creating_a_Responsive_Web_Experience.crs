@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=135375
+Course_System=linkedin.com
+Course_Title=Creating a Responsive Web Experience
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many times, simply resizing your web design is not enough to create a satisfying user experience. This course helps you make your webpages more responsive to different screen sizes with HTML, CSS, and JavaScript. Chris Converse shows how to modify your existing HTML, dynamically load content, animate elements on the page, and collapse the navigation on smaller screens—while allowing users to expand menus with a tap of their finger. Note: This course uses the jQuery JavaScript library to add interactivity and other features to the example site. But if you've never written JavaScript before, don't worry. This course provides a step-by-step approach to writing just the code you need to replicate the experience Chris shows on screen.

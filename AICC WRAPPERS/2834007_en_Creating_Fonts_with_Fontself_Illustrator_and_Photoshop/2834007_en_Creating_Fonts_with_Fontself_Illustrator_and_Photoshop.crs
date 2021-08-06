@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Harmer
+Course_ID=2834007
+Course_System=linkedin.com
+Course_Title=Creating Fonts with Fontself, Illustrator, and Photoshop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fontself Maker is an extension for Illustrator and Photoshop that allows you to turn any lettering into unique OpenType fonts. In this course, instructor Tony Harmer shows you how to get the most out of this powerful extension. After stepping through how to install Fontself Maker, Tony goes over some basic typography terms to help you grasp the mechanics of designing type. He then demonstrates how to create fonts in Illustrator, explaining how to set font metrics with guides and use Live Paint to create color font glyphs that can be used to create an OpenType-SVG color font. Next, he delves into font creation in Photoshop, including how to create both bitmap and vector fonts. Plus, get tips for refining your font by adjusting glyph sizes, spacing, and kerning attributes.

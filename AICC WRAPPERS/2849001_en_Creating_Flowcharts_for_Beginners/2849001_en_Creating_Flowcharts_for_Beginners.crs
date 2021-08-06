@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Helmers
+Course_ID=2849001
+Course_System=linkedin.com
+Course_Title=Creating Flowcharts for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating an effective flowchart or swimlane diagram is not as complicated as it might seem—in fact, it's quite simple once you know how to perform a few basic tasks in your flowcharting software of choice. Many of the ideas in this short course apply no matter what software you use, but the demonstrations here leverage Microsoft Visio to create flowcharts quickly, accurately, and effectively. Visio MVP Scott Helmers provides an overview of flowchart styles, covers flowcharting best practices, and then demonstrates how to add value and move your flowchart past being just a collection of boxes with text on them. Scott shows how to link to external resources, add contextual information to enhance a chart, and personalize it with logos or other formatting. Plus, learn how to share flowcharts with others—even when they don’t have access to Visio.

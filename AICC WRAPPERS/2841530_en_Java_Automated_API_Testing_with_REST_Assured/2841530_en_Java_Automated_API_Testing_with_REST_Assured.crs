@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Angie Jones
+Course_ID=2841530
+Course_System=linkedin.com
+Course_Title=Java: Automated API Testing with REST Assured
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There is demand for engineers who know how to automate API testing. In this course, instructor Angie Jones covers how to use REST Assured to make various types of API requests in Java, with and without additional data, and how to verify the response received from the API. Angie explains why API testing is necessary and why automating API testing is an efficient and effective approach to keeping your APIs healthy. She introduces you to the REST Assured testing library. Angie discusses the anatomy of an API request, then shows you how to make GET, POST, PUT, and DELETE requests. She describes how you can serialize data to send as part of the request. Angie explains how you can validate API responses and deserialize data received from the response.

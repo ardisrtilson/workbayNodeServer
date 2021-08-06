@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2813308
+Course_System=linkedin.com
+Course_Title=JavaScript: Best Practices for Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You know you want to write JavaScript code for maximal consistency, maintainability, and comprehensibility. Logic is one thing—data is another. This course explores the tools and approaches for keeping your data and data structures clean, uncluttered, and efficient. Instructor Sasha Vodnik introduces best practices from industry-standard style guides and introduces tools that will help you flag deviations as well as format code as you write it. He discusses moderns strategies for creating and using variables, assigning values, typecasting values, and making comparisons. These are the techniques that experienced JavaScript programmers use to optimize the way their applications handle data and keep their code up to date with the latest standards.

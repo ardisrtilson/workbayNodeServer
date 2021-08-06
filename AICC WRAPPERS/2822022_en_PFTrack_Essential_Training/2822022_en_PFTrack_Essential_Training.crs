@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Morse
+Course_ID=2822022
+Course_System=linkedin.com
+Course_Title=PFTrack Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D tracking is the foundation for advanced VFX. In this course, learn how to get up and running with PFTrack, the popular matchmoving and layout software used by professionals throughout the VFX industry. Instructor Brian Morse goes over the program's most important capabilities for 3D camera solving and object tracking. Learn about the features you can use to prepare your shots for tracking, including features for masking and lens distortion removal. Explore options for both automatically and manually tracking shots. Plus, learn about the different options for solving shots, how to set up and solve tripod camera shots, how to export your scenes, and more.

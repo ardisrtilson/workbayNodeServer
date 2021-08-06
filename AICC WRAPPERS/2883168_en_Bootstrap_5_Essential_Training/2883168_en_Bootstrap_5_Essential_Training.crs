@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2883168
+Course_System=linkedin.com
+Course_Title=Bootstrap 5 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bootstrap—a front-end framework using HTML, CSS, and JavaScript—is designed to help developers quickly and easily build responsive, mobile-ready websites that are cross-browser compatible. An open-source framework, Bootstrap features a 12-column grid and components that are ready to use. In this course, Ray Villalobos helps you get started with Bootstrap 5, providing an overview of all of the features in this popular framework. Ray covers installation options, and walks through the basic styles that normalize how your content is displayed on different platforms and browsers, before moving into detailed coverage of more advanced features, including typography and flexbox layouts. Learn how to use the layout components to create a full-featured website and make it interactive with components such as carousels, accordions, alerts, and tooltips. Plus, learn how to build beautifully designed and usable forms that validate user input.

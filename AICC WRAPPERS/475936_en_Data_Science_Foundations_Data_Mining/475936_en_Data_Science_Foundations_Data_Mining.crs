@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=475936
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Data Mining
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+All data science begins with good data. Data mining is a framework for collecting, searching, and filtering raw data in a systematic matter, ensuring you have clean data from the start. It also helps you parse large data sets, and get at the most meaningful, useful information. This course, Data Science Foundations: Data Mining, is designed to provide a solid point of entry to all the tools, techniques, and tactical thinking behind data mining. Barton Poulson covers data sources and types, the languages and software used in data mining (including R and Python), and specific task-based lessons that help you practice the most common data-mining techniques: text mining, data clustering, association analysis, and more. This course is an absolute necessity for those interested in joining the data science workforce, and for those who need to obtain more experience in data mining.

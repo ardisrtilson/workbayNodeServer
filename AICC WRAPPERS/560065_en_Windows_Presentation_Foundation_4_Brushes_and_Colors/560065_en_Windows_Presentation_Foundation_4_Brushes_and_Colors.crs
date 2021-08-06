@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=560065
+Course_System=linkedin.com
+Course_Title=Windows Presentation Foundation 4: Brushes and Colors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Presentation Foundation (WPF) in Visual Studio 2015 provides developers with a unified programming model for building modern user interfaces for Windows desktop applications. One of the most important aspects of any UI is color; learn how WPF tools like brushes and the visual Color Editor can help you create more appealing and engaging user experiences. Walt Ritscher introduces the solid, gradient, and tiled brushes; explains what properties are brushable; and shows how to specify color using RGB values, hexadecimal notation, and the sRGB color space. Plus, learn how to use opacity masks to adjust the transparency of different elements, and how to store brushes and colors in XAML resources so they are easily reusable and accessible from anywhere within Visual Studio.

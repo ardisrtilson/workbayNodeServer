@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emma Saunders
+Course_ID=540535
+Course_System=linkedin.com
+Course_Title=DC.js for Data Science Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dimensional charting (DC) allows data visualization to display in dashboard widgets as bar charts, scatterplots, heat maps, and more. DC.js is an open source JavaScript library based on Crossfilter and D3.js. In this course, learn how to build interactive, web-based dashboards. Instructor Emma Saunders covers all 20 built-in classes, the suite of included chart types, and the built-in formatting options available in DC.js. Learn how to use jQuery and bootstrap, apply filters, restyle existing dashboards, create custom charts, pair data using DC and D3, link charts, and more.

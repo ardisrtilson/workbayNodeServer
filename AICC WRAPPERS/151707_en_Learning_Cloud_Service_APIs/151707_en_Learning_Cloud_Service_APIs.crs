@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Lowery
+Course_ID=151707
+Course_System=linkedin.com
+Course_Title=Learning Cloud Service APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The number of cloud service APIs grows every day. It's hard to believe so many companies are giving away their data for free. But not all APIs are created equal. In this course, Joe Lowery helps you sort through the clutter and identify the most useful APIs available for your web applications. First, there are the popular Google cloud services and device-specific APIs for iOS, Android, and Windows Phone. Then there are APIs to connect to followers on platforms like Facebook and Twitter and even pull images from Flickr. For some really interesting data, Joe shows how to access corporate APIs from companies like Citrix and General Motors. (Imagine getting vehicle data straight from GM.) Last, he shows how to leverage public sector APIs and mine data from the national census, weather bureaus, and even federal job boards. Learn how to make your web projects stand out with cloud services.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=415313
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 03 Exploring Projects and Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Projects and solutions are essential to Visual Studio. In fact, you can't start coding without a solution file, which contains its own subset of projects with source code, images, and data. Find out how to create and manage your own projects and solutions in this installment of Visual Studio 2015 Essentials, with expert Walt Ritscher. Walt explores the relationship between solutions, projects, and compilers and shows how to link files, navigate the Solution Explorer, and change which project builds and debugs first by changing the startup project. He also shows how to debug multiple projects simultaneously and view classes and class members in the Solution Explorer.

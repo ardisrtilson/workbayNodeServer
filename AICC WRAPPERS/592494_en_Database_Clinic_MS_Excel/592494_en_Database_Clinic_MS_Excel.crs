@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=592494
+Course_System=linkedin.com
+Course_Title=Database Clinic: MS Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Database Clinic series shows how to plan, build, and optimize databases using different software. This course focuses on Microsoft Excel. While Excel doesn't offer traditional relational database management features, its table-based sheets, functions links, and powerful search and reporting features make it a great tool for learning the basics of database design. Join Curt Frye as he shows how to create a simple database, join data sets, search for records, and perform CRUD (create, read, update, and delete) operations. Plus, learn how to use Excel's calculations, PivotTables, functions, and formulas to gain deeper insights into your data.

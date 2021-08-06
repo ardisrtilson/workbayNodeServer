@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Dankwardt
+Course_ID=2824277
+Course_System=linkedin.com
+Course_Title=Advanced Linux: The Linux Kernel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What lies at the heart of the Linux operating system? The Linux kernel. Every Linux professional—including those in system administration, operations, and software development—needs to be familiar with the functionality of the Linux kernel as well as the mechanics of configuring and troubleshooting it. Master the fundamentals in this course with Kevin Dankwardt. Kevin surveys the Linux kernel specification, boot process, and loadable kernel modules. He provides opportunities for you to practice techniques such as searching Linux kernel source code and configuring a Linux kernel from scratch. Challenge and solution videos at the end of almost every chapter allow you to test your new Linux skills along the way.

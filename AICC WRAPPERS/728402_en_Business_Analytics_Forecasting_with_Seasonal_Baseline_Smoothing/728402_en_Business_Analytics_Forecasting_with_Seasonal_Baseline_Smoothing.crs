@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=728402
+Course_System=linkedin.com
+Course_Title=Business Analytics: Forecasting with Seasonal Baseline Smoothing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Seasonal exponential smoothing is an extension of simple exponential smoothing (SES). Seasonal smoothing is often used when a baseline shows regular seasonal peaks and valleys. Residential water usage is a familiar example: consumption rises during the summer and fall and drops during winter and spring—but the overall annual consumption tends to remain stationary over several years. In this course, veteran business analytics consultant and instructional expert Conrad Carlberg shows how to incorporate seasonal variation for more accurate and insightful forecasts. Learn how to identify seasonality, perform seasonal smoothing of horizontal baselines, and optimize your forecasts with R and Microsoft Excel.

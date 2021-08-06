@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2814097
+Course_System=linkedin.com
+Course_Title=Shared Economy for iOS Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The sharing economy is now largely embedded in modern life. Services like Uber, Lyft, and Airbnb have made it easy for everyday people to exchange goods and services with other everyday people. In this course, learn how to use iOS resources to build a shared ecommerce app of your own. After going over the different building blocks of an ecommerce app, instructor Bear Cahill steps through how to build an app that allows users to make accounts, create orders, get updates, and track orders via real-time location changes. Along the way, he shows how to use AWS for the back end, Amazon Cognito for user accounts, DynamoDB for your database, and more.

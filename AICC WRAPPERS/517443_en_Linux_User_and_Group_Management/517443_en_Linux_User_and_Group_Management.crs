@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=517443
+Course_System=linkedin.com
+Course_Title=Linux: User and Group Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux servers often contain thousands of users and user files. It's easier to maintain users if they are contained in groups, but only if the limitations of groups are understood and managed properly. This course shows how to manage Linux users and groups using command line tools. Managing users includes creating, modifying, and deleting user accounts as well as locking accounts and managing password strength through editing password policies. This course also covers password hash strength, group passwords, and switching between users. The managing groups section includes creating, modifying, and deleting groups as well as adding users to groups. Join Grant McWilliams as he shows you how to manage users and groups in Linux.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=679626
+Course_System=linkedin.com
+Course_Title=Learning NetBeans
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with NetBeans, the popular and open-source integrated development environment (IDE). This course provides a solid introduction to the capabilities of the NetBeans IDE, to help developers grasp how to use it for development. Throughout the course, instructor Reynald Adolphe helps you get acquainted with NetBeans by sharing helpful examples using Java. Learn about the NetBeans interface, creating templates and projects, and debugging code. Plus, Reynald discusses how to manage services, approach desktop and web development, and work with clean code.

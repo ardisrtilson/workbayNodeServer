@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=184454
+Course_System=linkedin.com
+Course_Title=Maya: Dynamic Simulations with Bullet Physics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual effects designers and video game artists often need to animate complex scenes containing physical simulations. The Bullet dynamics solver, an open-source physics engine, is a great solution, and it replaces Maya's legacy rigid-body and soft-body toolsets. Fast and efficient, Bullet is highly optimized and integrated into the existing Maya toolset. In this course, Aaron F. Ross shows how to set up and direct Bullet simulations for collisions, breakage, and simple cloth effects. Learn how to create simulations with polygon objects; work with dynamic and passive rigid bodies; integrate dynamics with keyframes, constraints, and soft bodies; and use rigid sets to create breakage simulations. Aaron will also show how to leverage Alembic data for faster baking, caching, and importing and exporting.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=758643
+Course_System=linkedin.com
+Course_Title=Adobe XD: Using UI Kits
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Shortcut the UX design process. Learn how to quickly design experiences for mobile and desktop platforms using Adobe XD UI kits—free libraries of prebuilt elements and interactions. This course shows how to develop an engaging, interactive UX design using UI kits from Adobe as well as other third-party vendors. Instructor Brian Wood also shows how to find, install, and use UI kits, and resolve any issues with missing fonts. He then demos three different examples: the iOS kit for app design, the wireframes kit for responsive web design, and the new Auto-animate kit.

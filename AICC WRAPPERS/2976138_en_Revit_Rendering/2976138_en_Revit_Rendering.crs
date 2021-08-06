@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=2976138
+Course_System=linkedin.com
+Course_Title=Revit: Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to create photorealistic renders of your Revit projects? You don't have to go anywhere else. In this course, learn how to create high-quality output directly from Revit. Instructor Paul F. Aubin starts the rendering process by showing how to create a detailed 3D view of an existing architectural model. Then he demonstrates how to add sweeps, fascia, and other details, and explains how to work with the Material Browser to customize finishes and surfaces. Paul also reviews the natural and artificial lighting features of Revit, including sunlight and artificial lights, and the rendering settings that ensure you get the best quality output—from your computer or the cloud. Plus, learn how to create dynamic animated walkthroughs and experiment with additional render types, such as realistic shading.

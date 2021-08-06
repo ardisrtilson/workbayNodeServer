@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=EJ Hassenfratz
+Course_ID=137889
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Mixing 2D and 3D with After Effects and Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mixing 2D and 3D elements from CINEMA 4D and After Effects is a snap with CINEWARE. In this installment of Mograph Techniques, EJ Hassenfratz shows you a workflow for creating 3D objects in C4D and seamlessly compositing them inside a 2D project in After Effects, while using the CINEWARE plugin. He starts off in C4D, preparing the 3D objects and materials and giving them a basic 2D look, before showing off more creative techniques for emulating a 2D style with bend deformers and Spline Wraps. Then he explores how to use the Dynamics and MoGraph modules to add real-world physics and animation to your objects. Finally, EJ shows you how to composite everything, 3D and 2D elements alike, in After Effects using CINEWARE.

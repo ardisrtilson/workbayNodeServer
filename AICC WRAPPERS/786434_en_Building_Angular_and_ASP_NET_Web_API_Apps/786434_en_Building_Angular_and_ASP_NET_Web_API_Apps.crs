@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=786434
+Course_System=linkedin.com
+Course_Title=Building Angular and ASP.NET Web API Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Single-page applications (SPAs) can provide a more positive and fluid user experience, but designing and building a SPA is not without its challenges. In this course, learn how to leverage ASP.NET Web API and the Angular framework to make the work of designing and building SPAs a bit easier. Instructor Ervis Trupja first shows how to set up the app infrastructure, demonstrating how to create a Web API and Angular app, and then set up the essentials for each one. He steps through how to create the service layer with ASP.NET Web API and use Angular and Material Design to build the UI. Discover how to send requests to a Web API app, handle errors in Angular, create an authentication system using tokens, and more.

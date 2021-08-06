@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2814129
+Course_System=linkedin.com
+Course_Title=Unreal: AR Visualization 03 Complex Interactivity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the Unreal Engine by Epic Games, and get an overview of augmented reality (AR) basics by walking through a real-world project. In this course, the final installment of a three-part series, instructor Emmanuel Henri takes the functionality you have already built and shows how to add more complex interactivity and animations. Review crucial hit testing concepts and understand what happens when users touch in-game or real-world objects. Then discover how to animate objects with third-party packages and tools like Mixamo, and use interaction blueprints in Unreal. Plus, learn how to deploy your AR scene to Android and iOS to share it with the world.

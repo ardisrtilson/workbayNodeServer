@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Duffy
+Course_ID=2856036
+Course_System=linkedin.com
+Course_Title=Choosing a Cross-Platform Development Tool
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking for the right cross-platform mobile development tool for your project? With so many options to choose from—each with its own set of pros and cons—picking a tool can sometimes feel more challenging than learning the platform itself. This course was designed to help you make the right call—whether you're a CTO or a developer. Join instructor Tom Duffy as he reviews five of the most popular cross-platform development frameworks: Cordova, React Native, Xamarin, Flutter, and Progressive Web Apps. Tom delves into the tools and technologies used in each of the five solutions, highlighting where each framework shines.

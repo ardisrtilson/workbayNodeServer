@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=599606
+Course_System=linkedin.com
+Course_Title=AutoCAD: Developing CAD Standards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD is the leader in CAD drafting. In this course, author Shaun Bryant takes you through the various CAD standards available that are used by professionals worldwide. Learn how to work with the AutoCAD standard DWS file format, leverage industry standards (including US NCS and BIMuk), and use AutoCAD standards to audit and check against your work. Shaun also shows you how to develop standard AutoCAD templates—complete with title blocks and viewports—to apply your internal CAD standards.

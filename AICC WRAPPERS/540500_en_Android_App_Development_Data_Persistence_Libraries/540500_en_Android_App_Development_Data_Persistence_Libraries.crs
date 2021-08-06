@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Annyce Davis
+Course_ID=540500
+Course_System=linkedin.com
+Course_Title=Android App Development: Data Persistence Libraries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By persisting your data, you can provide users with a more seamless experience with your app—even when they go offline. If you're an Android app developer, you have many data persistence options to choose from. In this course, learn about various options for storing your app's data in a database. To begin, Annyce Davis reviews using the de facto data persistence solution available on Android: SQLite. She takes you through basic SQLite concepts—such as how to create a database wrapper and insert data into a table—as well as a few more advanced topics. Next, she covers working with Cupboard, an open-source project dedicated to simplifying your SQLite interactions. To wrap up, she dives into working with Realm, an object database solution designed with mobile devices in mind. Throughout the course, Annyce discusses establishing relationships between database tables, creating and running queries, as well as performing data migrations.

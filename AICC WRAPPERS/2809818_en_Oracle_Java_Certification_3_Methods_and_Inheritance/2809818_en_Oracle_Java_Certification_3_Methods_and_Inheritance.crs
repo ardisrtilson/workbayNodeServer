@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Baochuan Lu
+Course_ID=2809818
+Course_System=linkedin.com
+Course_Title=Oracle Java Certification: 3. Methods and Inheritance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Boost your professional credibility by earning the Java SE 8 Oracle Certified Associate (OCA) certification. The Oracle Java Certification series was designed to help you prepare to take and pass the qualifying exam for this certification, Java SE 8 Programmer I (1Z0-808). In this course—the third installment in the series—instructor Baochuan Lu focuses on two key concepts in object-oriented design in Java: methods and inheritance. As he delves into these topics, he highlights how to choose the right return types, covers the benefits of inheritance and polymorphism with overridden methods, goes over the levels of abstractness in class definitions, among other key concepts covered on exam 1Z0-808.

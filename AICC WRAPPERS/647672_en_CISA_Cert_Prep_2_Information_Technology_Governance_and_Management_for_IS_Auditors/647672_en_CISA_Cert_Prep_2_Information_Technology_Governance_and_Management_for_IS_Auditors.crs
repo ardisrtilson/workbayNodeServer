@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Lester, Human Element LLC
+Course_ID=647672
+Course_System=linkedin.com
+Course_Title=CISA Cert Prep: 2 Information Technology Governance and Management for IS Auditors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning a CISA certification validates your ability to audit, control, and monitor information systems. The CISA Cert Prep series prepares you to tackle this exam and acquire the skills you need to confidently manage IT security audits. This course—the second in the series—teaches the concepts of IT governance and management that the CISA candidate needs to know. Instructor Michael Lester starts out with a description of IT governance and the role of IT policies, processes, and standards, providing examples of many of the most common types. He reviews three key areas for auditing: risk management, business continuity, and disaster recovery planning. He also explains how an IT department and its auditing team should be organized. At each stage, he explains how the auditor would address these topics in a typical audit environment.

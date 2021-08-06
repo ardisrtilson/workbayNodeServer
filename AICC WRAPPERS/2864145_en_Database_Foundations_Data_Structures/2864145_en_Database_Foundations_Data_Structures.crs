@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2864145
+Course_System=linkedin.com
+Course_Title=Database Foundations: Data Structures
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course focuses on seven core concepts: data types, designing a normalized database, identifying rows with primary keys, linking data with foreign keys, formalizing data relationships, indexes, and constraints. Database expert Adam Wilbert describes techniques that database developers use to protect their data. He explains why data types are important in creating a consistent data storage environment, then walks you through several common data types. Adam shows you the three normal forms of good database design. In order to work with the data stored in each row in a table, the table must contain a primary key column, or set of columns. Foreign keys provide the glue that the entire system is built on. Adam steps you through how to incorporate primary keys and foreign keys into the design of your database tables. He walks through data relationships, indexes, and constraints, then concludes with other courses you may find useful.

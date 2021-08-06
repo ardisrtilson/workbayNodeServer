@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=2825130
+Course_System=linkedin.com
+Course_Title=Rhino: Analysis and Modeling Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino is an advanced 3D modeling tool used in architecture and industrial design. In this course, you can learn some intermediate to advanced modeling tips, and also find out how to make your models better by using the built-in analysis tools in Rhino. Instructor Dave Schultze explains how to analyze curves to ensure successful construction of surfaces and solids, analyze surfaces for consistency and integrity, and find defects with the Show Edges tool. Plus, learn tricks for faking edge thickness, making symmetrical models, and create fillets quickly and easily.

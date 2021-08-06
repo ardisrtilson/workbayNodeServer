@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=753912
+Course_System=linkedin.com
+Course_Title=PowerShell: Functions for Advanced Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your PowerShell skills to the next level. Learn how to automate complex Windows administration tasks and free up more time for troubleshooting and innovation. This course, part of the PowerShell learning path, covers functions for advanced automation. Instructor Scott Burrell shows how to expand the scope and usefulness of your commands with parameters and process input from the PowerShell pipeline. He also explains how to invoke .NET classes and REST APIs and use controller scripts to build user-friendly interfaces and HTML reports. Plus, learn how to read and format data such as XML and JSON using PowerShell scripts.

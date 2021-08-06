@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anton Delsink
+Course_ID=653231
+Course_System=linkedin.com
+Course_Title=NoSQL Development with Azure Redis and C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Azure Redis is based on the popular open-source Redis cache. It gives you access to a secure, dedicated Redis cache, managed by Microsoft and accessible from any application within Azure and beyond. In this course, follow along as instructor Anton Delsink helps you get started with Microsoft Azure Redis, familiarizes you with the various data structures in Redis, and explains how to use those data structures from C#. Anton demonstrates how to deploy Redis; connect with Redis CLI and C# clients; work with data types, lists, sets, and hashes; use Redis with ASP.NET web apps; and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=5005067
+Course_System=linkedin.com
+Course_Title=Learning SSL/TLS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Secure Sockets Layer (SSL) and the succeeding Transport Layer Security (TLS) provide the backbone of securing intranet and internet network communications through encryption and authentication. SSL and TLS standards are widely used to secure network communications for services such as websites, VoIP, VPNs, and email messages. In this course, learn the skills you need to plan, implement, and maintain a public key infrastructure (PKI) ecosystem that supports SSL/TLS security certificates. Instructor Daniel Lachance dives into how to install and configure PKI solutions in both Windows and Linux. Learn about how certificates are issued and managed throughout their lifetime; how hashing provides integrity and digital signatures provide authentication; and more.

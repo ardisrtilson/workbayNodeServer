@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=437172
+Course_System=linkedin.com
+Course_Title=Animating a Landscape with VUE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rendering a photorealistic animated landscape is possible with VUE, a powerful application for creating computer-generated natural environments needed for visual effects, animation, architectural visualization, and illustration. In this course, Aaron F. Ross demonstrates the VUE workflow for digital nature, including interoperability with other 3D programs, terrain sculpting, populating the scene with plants, daylighting and atmospheres, complex material functions, keyframe animation, and production rendering. Realistic skies and lighting are achieved with the VUE photometric spectral atmosphere model. This course covers adding animation to plants, water, and clouds with procedural wind effects. Aaron also shows how to create camera movement by employing the Timeline's intuitive tools, including animation and curve editing. Rendering many animation frames poses challenges not experienced with still image rendering, and so the course concludes with key strategies for optimizing the balance between image quality and rendering time.

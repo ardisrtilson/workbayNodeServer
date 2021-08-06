@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=516403
+Course_System=linkedin.com
+Course_Title=Crystal Reports 2016 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Maximize the power of SAP Crystal Reports 2016. Crystal Reports helps you to import and analyze data from a variety of places, including Excel, Access, groupware applications like Lotus Notes, HTML and XML files, SAP, and more. Join author Curt Frye as he shows the essentials you need to get started, and provides tips to get more reporting power from the program. Learn how to create reports using the Design Wizard, link to multiple data sources, work with sections, sort and group data, use report templates, format reports and individual fields, summarize data, visualize data using charts, focus analysis by selecting which data a report summarizes, display data in subreports and cross-tab reports, and export data.

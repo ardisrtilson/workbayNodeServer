@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=191087
+Course_System=linkedin.com
+Course_Title=Design the Web: Using Symbols in SVG
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design the Web shows designers how to build efficient and beautiful graphics and layouts from the ground up. In this installment, Chris Converse explains how to create new SVG graphics and then convert them into reusable symbols with Adobe Illustrator. Then he shows how to customize the symbols to fit your layouts by editing the position, transformation, and color properties of each instance you place. This technique allows you to build complex graphics much more quickly than you could design them from scratch. Exercise files are available to all members, so download them and get started creating your own rich web graphics today. Watch more installments of Design the Web on Chris's author page.

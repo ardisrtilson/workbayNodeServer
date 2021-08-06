@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Milner
+Course_ID=782135
+Course_System=linkedin.com
+Course_Title=Azure for Developers: Resource Planning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The cloud is full of options. Efficiently building an application requires Azure developers to understand what choices are available and select the right resources and scale for their project. In this course, instructor Matt Milner takes things back to basics by looking at the core tenants of what's available on the Microsoft Azure developer buffet. Matt starts by asking (and answering) why there are so many options. He then dives into what's available in each core pillar of Azure development: Storage, compute, networking, and integration. Upon wrapping up this course, you'll be equipped with the knowledge you need to select the best options for your team and determine the cost of the solutions you're considering.

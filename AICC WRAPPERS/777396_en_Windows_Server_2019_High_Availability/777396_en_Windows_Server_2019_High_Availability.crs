@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=777396
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: High Availability
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+We want our systems to be 100% operational, 24/7. So, in today's complex and high-traffic environments, it's important to reduce points of failure, add smart redundancy, and use high-availability tools—like virtualization and failover clustering offered in Windows Server 2019—to keep systems performing at a high level. In this course, instructor Robert McMillen teaches high-availability techniques in Windows Server 2019. He covers failover clustering, clustering for virtual machines, and management of Windows cluster roles. By the end of the course, you'll be able to create a more reliable, scalable network for your end users, with a minimal amount of downtime.

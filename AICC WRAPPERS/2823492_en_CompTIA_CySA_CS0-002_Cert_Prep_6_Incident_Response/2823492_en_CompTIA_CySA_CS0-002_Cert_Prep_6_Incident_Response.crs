@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2823492
+Course_System=linkedin.com
+Course_Title=CompTIA CySA+ (CS0-002) Cert Prep: 6 Incident Response
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Review essential incident response concepts and best practices as you study for the CompTIA Cybersecurity Analyst (CySA+) (CS0-002) exam. In this installment of the CySA+ (CS0-002) Cert Prep series, instructor Mike Chapple discusses how to classify threats and assess the impact of cybersecurity incidents as he prepares you for the exam. Mike covers the importance of communication during a cybersecurity incident response effort, the symptoms of an incident in progress, the use of forensic tools, and the incident recovery process. After completing this course, you'll be prepared to tackle the Incident Response domain of the CySA+ (CS0-002) exam. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

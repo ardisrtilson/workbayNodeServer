@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Samuelson
+Course_ID=624310
+Course_System=linkedin.com
+Course_Title=Learning Puppet
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Puppet is a powerful set of tools for automatically managing your infrastructure so that it is always in the desired state. With this tool, the job of server administration becomes easier and faster—and your systems become more reliable. In this course, instructor Josh Samuelson begins by teaching the latest best practices for using Puppet in a real-world environment, and gets you started quickly by using existing Puppet modules written and supported by the community. As you progress through the course, you can learn the details of how Puppet works and find out how to write your own Puppet code, including a simple module that can be shared with other IT pros on the Puppet Forge.

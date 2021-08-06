@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=495645
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Deploy Manage and Maintain Servers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deploying, managing, and maintaining a Windows Server 2012 R2 environment can be an overwhelming task for administrators. The primary goal of this course is to give IT professionals hands-on experience using Windows Server on a day-to-day basis. By using these step-by-step how-to videos, the viewer will become comfortable configuring and administering a Windows Server environment. Learn industry specific best practices for simplifying deployment with server images, distributing updates, and monitoring server performance, as well as everyday tips and tricks to make your life as a server administrator a little smoother and less overwhelming.

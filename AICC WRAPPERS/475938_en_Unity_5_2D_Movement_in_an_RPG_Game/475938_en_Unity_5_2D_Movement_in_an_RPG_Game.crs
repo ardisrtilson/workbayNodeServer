@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=475938
+Course_System=linkedin.com
+Course_Title=Unity 5: 2D Movement in an RPG Game
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to move a player on a tile-based 2D map and use that movement to trigger events—creating a gaming experience similar to classic RPGs. In this course, Jesse Freeman builds upon the lessons learned in the Unity 5 2D: Random Map Generation: adding a player, moving the player from tile to tile, and making the camera follow the movement, as well as triggering events on the map. Jesse also shows how to add a fog of war effect that reveals parts of the map as the player moves around and explores, and how to detect and update the artwork for visited tiles.

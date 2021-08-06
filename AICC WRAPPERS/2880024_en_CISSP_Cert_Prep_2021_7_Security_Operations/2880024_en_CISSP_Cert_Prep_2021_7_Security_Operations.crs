@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2880024
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 7 Security Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you preparing to take the Certified Information Systems Security Professional (CISSP) exam, or maybe an information security professional who wants to learn more about security operations? In this course, instructor Mike Chapple provides you with the detailed information you need to get ready for the Security Operations domain of the 2021 CISSP exam. Mike covers investigations and forensics, logging and monitoring, and resource security. He discusses information security principles and incident management, then offers advice on personnel safety and physical security. Mike concludes with suggestions on how you can continue your preparation for the test.

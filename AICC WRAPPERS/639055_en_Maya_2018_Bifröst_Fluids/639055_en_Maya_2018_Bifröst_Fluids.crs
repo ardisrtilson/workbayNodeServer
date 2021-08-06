@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=639055
+Course_System=linkedin.com
+Course_Title=Maya 2018: Bifröst Fluids
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bifröst for Maya 2018 includes many welcome updates to the liquid simulation plugin, Bifröst Fluids. With Maya 2018.1, Arnold supports exciting new ways to render fluids in better fidelity without heavy mesh caches. This course takes an overview of simulating liquids in Bifröst and rendering in Arnold. For convincing materials, instructor Aaron F. Ross shows how to extract fluid dynamics data such as vorticity and apply it in an Arnold shading network. To finish the exploration of fluids, he takes a look at Bifröst foam, which generates secondary particles from the main fluid.

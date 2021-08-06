@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan "J." Tower
+Course_ID=756336
+Course_System=linkedin.com
+Course_Title=Building Web APIs with ASP.NET Web API 2.2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to connect web and mobile applications to back-end servers and databases in your applications using ASP.NET Web API 2.2, a popular framework for building web APIs on top of the .NET Framework. In this course, join Jonathan J. Tower as he steps through how to use this framework to efficiently create RESTful services. Learn how routing works with Web API to ensure APIs work as planned and are easily consumed by remote applications. Discover how data is modeled in Web API, along with how to build business logic for your API. Plus, learn about handling errors, securing your services, and documenting and testing your APIs.

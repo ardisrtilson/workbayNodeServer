@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2884193
+Course_System=linkedin.com
+Course_Title=S/4 Finance: Fiori Accounts Receivable Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you an Accounts receivable manager or supervisor? If so, then you know how important it is to understand how your accounts receivable process is performing. This course from Michael Management shows you new Fiori Accounts Receivable analytics capabilities and explains how to monitor the Accounts Receivable process with multiple metrics in S/4HANA. The course offers a demo of how to use the overview page. Then, through videos and demos, the course walks you through how to monitor total receivables, overdue receivables, future receivables, days beyond terms (DBT), and days sales outstanding (DSO). Note: This course was created by Michael Management. We are pleased to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=424044
+Course_System=linkedin.com
+Course_Title=Design the Web: Creating CSS-Only Navigation Menus
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Did you know you can add dropdown menus to your webpage with nothing more than HTML and CSS? Typically interactive menus are accomplished with jQuery or another JavaScript framework. But the truth is, with CSS you can create the same rich experience, including full support for iOS and touch-screen Windows devices. In this installment of Design the Web, Chris Converse teaches us how to nest lists, style and position menus, add in ARIA markup for cross-compatibility, and make the menus fully responsive. The exercise files are free to all members! Download them today to start creating your own multilevel dropdown menus.

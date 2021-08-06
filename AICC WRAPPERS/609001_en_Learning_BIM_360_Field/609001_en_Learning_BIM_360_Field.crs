@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=609001
+Course_System=linkedin.com
+Course_Title=Learning BIM 360 Field
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to take BIM to the construction site using BIM 360 Field. This web-based program—which is part of the Autodesk 360 suite—was designed to track day-to-day construction activities using both BIM and traditional drawings. In this course, learn how to manage a project by utilizing the cloud. This process enables you to stay on top of your construction management tasks by allowing you to view project models and manage your workflow efficiently when you're on the go. Discover how to set up a project, including how to merge Revit models in BIM 360 Glue and share models from Glue to BIM 360 Field. Plus, learn how to create a library, add daily updates, create reports, and more.

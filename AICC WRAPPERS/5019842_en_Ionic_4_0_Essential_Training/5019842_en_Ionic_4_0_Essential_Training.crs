@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sani Yusuf
+Course_ID=5019842
+Course_System=linkedin.com
+Course_Title=Ionic 4.0 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Ionic to develop a highly performant mobile app that is compatible across the popular mobile and desktop operating systems. In this project-based course, Sani Yusuf walks through the ins and outs of the 4.0 framework. He shows how you can create a single code base that effectively works across iOS, Android, and Windows. First, Sani provides an overview of Ionic and introduces key features in the latest version of the mobile SDK. Then he takes you through the step-by-step process of building an app, including the setup process, working with templates, previewing apps on a device, developing UI and navigation components, working with Ionic Natives, connecting to the back end, and more.

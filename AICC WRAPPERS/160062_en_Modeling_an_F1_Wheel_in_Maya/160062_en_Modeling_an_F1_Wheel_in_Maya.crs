@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Veejay Gahir
+Course_ID=160062
+Course_System=linkedin.com
+Course_Title=Modeling an F1 Wheel in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you've drawn your initial product design, it's time to take it to a 3D program for modeling. Veejay Gahir takes the initial sketch of a Formula 1 steering wheel from the first part of this series and shows you how to model and render a fully realized version in Maya. He shows how to import the sketch, use box and freeform modeling techniques to create the basic shape, and add details like buttons, dials, and decals. Finally, Veejay shows how to add texture and lights and render out the final view of your model. This course uses an F1 wheel as an example project, but the techniques can be applied to any other automotive or consumer product. For more information, watch the first part of this series, Sketching an F1 Wheel in SketchBook.

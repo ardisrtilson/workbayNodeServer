@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=758635
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: System Design and Deployment (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a solid grasp on the tools and concepts that can help system administrators efficiently design and roll out Linux systems at scale. In this course, instructor Scott Simpson shares techniques for designing, deploying, and configuring Linux systems large and small. Scott steps through how to define a capacity planning strategy, as well as how to create and maintain containers. He also surveys high availability, clustering, and configuration verification. Plus, discover how to create and maintain custom software packages for distribution on client machines. This course can prepare you to tackle questions in the System Design and Deployment domain of the Linux Foundation Certified Engineer (LFCE) exam.

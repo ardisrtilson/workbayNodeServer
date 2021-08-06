@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=559183
+Course_System=linkedin.com
+Course_Title=Advanced SQL for Data Scientists (2017)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There is an increasing need for data scientists and analysts to understand relational data stores. Organizations have long used SQL databases to store transactional data as well as business intelligence related data. If you need to work with SQL databases, this course is designed to help you learn how to perform common data science tasks, including finding, exploration, and extraction within relational databases. The course begins with a brief overview of SQL. Then the five major topics a data scientist should understand when working with relational databases: basic statistics in SQL, data preparation in SQL, advanced filtering and data aggregation, window functions, and preparing data for use with analytics tools.

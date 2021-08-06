@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Culp
+Course_ID=545919
+Course_System=linkedin.com
+Course_Title=Office 365: Manage Cloud Identities (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to manage users, groups, and passwords in Office 365. This course fits into our extensive coverage of Office 365 administration and covers the objectives from the corresponding domain of the Office 365 exam 70-346, Managing Office 365 Identities and Requirements. Brian Culp shows how to configure password management, manage users and security groups, and use PowerShell to manage identities from the command line. This course is ideal for any network administrator working with Office 365 and will serve as a valuable prep course for administrators wishing to learn the skills necessary to prepare for the exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=806170
+Course_System=linkedin.com
+Course_Title=Cert Prep: Red Hat Certified System Engineer (EX300)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Red Hat Enterprise Linux is one of the top enterprise Linux distributions—and Red Hat Certified System Engineer is one of the top Linux certifications. The RHCE certification is required for many high-level jobs and a prerequisite for all Red Hat higher-level exams. Use these study tips to earn your certification and become more proficient in Linux engineering. Professor Grant McWilliams, a Linux expert, starts with simple virtualization, system reporting, and task automation. He shows how to link data storage with iSCSI and synchronize the system time with NTP. He also configures advanced system authentication using LDAP and secures it with Kerberos. Then he sets up network services like IPv6 addressing and teaming, and shows how to manage MariaDB databases, including backups and restores. To provide name service resolution, he creates a DNS server using bind and troubleshoots client issues. Using Apache, he creates secure virtual hosts using TLS security and access control. He also covers mail services, network file sharing using both NFS and Samba, and SSH security. In addition to the tutorials, this course offers access to PDF cheat sheets and practice questions so you can test your knowledge for the real RHCE exam.

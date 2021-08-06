@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=685024
+Course_System=linkedin.com
+Course_Title=Unreal: Blueprint
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Blueprints, the visual scripting language for Unreal visualization projects. This course provides a solid foundation for understanding how to build in Unreal with Blueprints. Instructor Scott Pagano explores the fundamental concepts of Blueprints and builds up to creating functional Blueprint-based assets. He also covers the programming fundamentals of variables and events, shows how to flow data between different Blueprints for modular scalable system building, discusses animation Blueprints, and more.

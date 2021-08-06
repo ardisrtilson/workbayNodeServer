@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kacie Hultgren
+Course_ID=185328
+Course_System=linkedin.com
+Course_Title=Modeling a Staircase with AutoCAD
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This project-based AutoCAD course is perfect for flexing your 3D modeling skills. Learn to master a wide variety of AutoCAD's 3D tools while modeling a complex spiral staircase. Author Kacie Hultgren shows how to extrude 3D steps from a 2D layout, draw on faces, create chamfered edges, and build out the complete staircase from 3D blocks, primitives, and sweeps. The course covers multiple approaches to the same tasks, so you can tailor the techniques to your own workflow.

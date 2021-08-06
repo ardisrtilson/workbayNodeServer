@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2841312
+Course_System=linkedin.com
+Course_Title=JavaScript: Web Form Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether your users are ordering food or filling out a job application, web forms will play a role in collecting their information. And as a developer, you want to ensure that your users have a positive experience with your web app—and that the data you collect from them via web forms is clean. In this course, join instructor Joe Marini as he shares techniques for building modern web forms that return clean data and are easy for users to understand, navigate, and complete. Learn how to enhance your forms by properly using labels and implementing keyboard shortcuts. Plus, explore how to dynamically control form field behavior, leverage different validation approaches, and support autofill and autocomplete.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2849208
+Course_System=linkedin.com
+Course_Title=Cloud Computing Careers and Certifications: First Steps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want to start a career in cloud computing, but don't know where to begin? Whether you’re an IT professional or a computer science student, this course can help by providing an ideal foundational mapping of the career paths and certifications that you should consider if you're interested in transitioning to cloud computing. Instructor and cloud architect Lynn Langit covers a variety of career paths, including IT pro, developer, analyst, and architect roles. Throughout the course, she focuses on the major cloud platforms—AWS, Microsoft Azure, Google, and Alibaba—discusses certifications available for each, and explores the future of cloud computing careers. Lynn discusses machine learning, virtualization, networking, scripting, and more.

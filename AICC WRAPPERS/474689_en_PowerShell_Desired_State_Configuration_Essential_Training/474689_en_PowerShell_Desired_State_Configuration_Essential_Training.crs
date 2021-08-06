@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Hester
+Course_ID=474689
+Course_System=linkedin.com
+Course_Title=PowerShell Desired State Configuration Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the essentials of PowerShell Desired State Configuration. DSC is a new IT management platform built on Windows PowerShell that enables administrators to define the desired state of their systems through declarative configuration documents, and manage configuration data on an ongoing basis. Current IT pros will need to understand DSC as they move into managing Microsoft's next wave of server and cloud products that will leverage this important technology. In this course, Matt Hester shows how to write configuration documents, work with DSC resources, and apply configurations to systems via both push and pull modes. Plus, he shows how to troubleshoot DSC and use DSC in non-Windows environments like Linux.

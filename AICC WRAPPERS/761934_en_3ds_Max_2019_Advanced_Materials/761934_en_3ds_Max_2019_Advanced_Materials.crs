@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=761934
+Course_System=linkedin.com
+Course_Title=3ds Max 2019: Advanced Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Physically-based rendering (PBR) simulates the way light works in the real world. It achieves greater realism with less effort than traditional 3D rendering. This course is updated for 3ds Max 2019, and focuses on PBR shading techniques. The Physical Material simulates surfaces such as stone, glass, and metal. Instructor Aaron F. Ross also looks at building shading networks, and combining and adjusting maps in interesting ways. Procedural maps such as Substance deserve special attention, and you'll also see how to bake them out to bitmap files for cross-application and renderer compatibility. By the end of the course, you'll have a firm foundation in advanced shading workflows in 3ds Max.

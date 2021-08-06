@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharif Nijim
+Course_ID=2882230
+Course_System=linkedin.com
+Course_Title=AWS: Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Adopting a cloud infrastructure strategy includes configuring a network that meets the needs of your organization. Amazon Web Services (AWS) is a cost-reducing solution that provides tools so you can build a data center with secure cloud networking technology. This course offers advice for technical managers and step-by-step instructions for system administrators and full-stack engineers. Learn how to establish private connections, set up a virtual private cloud, implement and configure Transit Gateway, create security groups, work with access control lists, and more. Plus, get troubleshooting tips and learn how to leverage AWS services such as CloudFront to securely deliver content to customers globally with low latency. Join IT architect Sharif Nijim as he takes you through foundational networking concepts and beyond so you can gain a broader and deeper sense of effective strategies and tools you can use.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2884182
+Course_System=linkedin.com
+Course_Title=React: Authentication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+User authentication is a critical part of virtually every website, yet few web developers know all the details behind how it works and how to use it to provide a good user experience. In this course, instructor Shaun Wassell dives into the details behind user authentication in the context of React and how to incorporate user authentication into React applications. Shaun begins with some definitions, steps, and basic authentication projects. Then he discusses in-depth email verification and how to set it up. Shaun explains how to give users the ability to reset their passwords, then describes the steps in setting up OAuth. He goes over several prebuilt authentication options, then concludes with some best practice recommendations.

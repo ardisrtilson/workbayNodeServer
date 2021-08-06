@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=191957
+Course_System=linkedin.com
+Course_Title=Animating Cartoon Characters in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Now that you've rigged your characters, it's time to make them move. Starting from where Modeling a Cartoon Character in Maya left off, George Maestri teaches five simple steps to creating exaggerated cartoon animation in Maya. Using the rig developed in the previous course, he shows how to animate a walk, create a jump, animate changes in facial expression and posture, animate a zip out or quick exit, and then show how to finalize and render the complete project. Throughout the course, George touches on animation principles such as squash and stretch, exaggeration, follow-through, and overlapping action.

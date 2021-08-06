@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=573131
+Course_System=linkedin.com
+Course_Title=The Data Science of Media and Entertainment with Barton Poulson
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Music, theater, dance, and film may not seem like data-driven businesses, but they can benefit from data science just as much as ecommerce or finance. Join data science professor, researcher, and consultant Barton Poulson as he explores the fascinating ways in which the media and entertainment industries around us are affected—and have been substantially changed—by ubiquitous data and the science of data and analytics. This course is a nontechnical overview that helps creative organizations use the principles of data science in practical ways. It's required viewing for those working in media, but is also appealing to anyone interested in how technology affects the world around us. Learn how to use data science to assess your target audience, optimize pricing and scheduling for events and digital products, identify piracy, protect your intellectual property, reward employees, and maximize your ROI. Incorporating some simple analytics can lead to broader audiences and richer experiences for your next creative endeavor.

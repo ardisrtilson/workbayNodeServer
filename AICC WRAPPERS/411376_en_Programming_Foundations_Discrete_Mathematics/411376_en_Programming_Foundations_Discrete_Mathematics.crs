@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=411376
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Discrete Mathematics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What is discrete math, and how does it apply to programming? Math is an important part of all programming. Discrete mathematics is the study of mathematical structures that are unique (aka discrete). Think integers, graphs, and logical statements—things we use a lot in programming. Discrete math can be used for software design specifications, analysis of algorithms, and other practical applications, but it's really a great tool to develop as a programmer. Put simply, it's a building block for logical thinking. This course relies on an open-source SML (standard machine language) library to demo the concepts behind discrete math. Peggy Fisher shows you how to manipulate sets of data, write proofs and truth tables, analyze data sequences, and visualize data using graph theory. Challenges at the end of every chapter allow you to test your knowledge. By the end of the course, you should be able to make the leap from theory to using discrete math in practice: saving time and resulting in code that's cleaner and easier to maintain in the long run.

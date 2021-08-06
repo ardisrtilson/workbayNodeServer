@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=628699
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 00 Setup and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to download, install, and configure Visual Studio settings for your development needs. Explore the versions and editions of Visual Studio so you can select the one that works best for your purposes. Then, see the steps involved in downloading and installing Visual Studio, including workload options. Next, find out how to reset initial settings and configure settings according to your preferences. Since this is the first course in the Visual Studio Essential Training series, it also shows how to access and use the exercise files.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Russell Long
+Course_ID=566144
+Course_System=linkedin.com
+Course_Title=VMware vSphere: Administer and Manage Virtual Machines
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning how to configure vSphere settings is essential to being able to effectively administer and manage a virtual machine (VM). This course covers administration and management of VMware vSphere VMs. Instructor Russell Long demonstrates how to configure advanced settings, create and manage a multisite content library, set up and maintain vCloud Air, and deploy vApps. Russell shows how to publish and subscribe to a content catalog, determine which permissions are required to manage content catalogs, and configure a content library to work across sites. He compares automatic sync with on-demand sync. He also takes you through the steps of authentication configuration, VM migration to vCloud Air, and VPN connection verification. This course is also an exam preparation resource, as it covers the topics in the Administer and Manage vSphere Virtual Machine domain of the VCP-DCV 6 exam.

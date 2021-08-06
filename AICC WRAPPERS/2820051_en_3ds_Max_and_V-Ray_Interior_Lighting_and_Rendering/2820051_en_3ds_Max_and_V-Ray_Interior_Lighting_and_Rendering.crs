@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2820051
+Course_System=linkedin.com
+Course_Title=3ds Max and V-Ray: Interior Lighting and Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the lighting and rendering features of V-Ray for 3ds Max with this hands-on, project-based course. Instructor George Maestri explains how to generate high-quality renderings of interior scenes and environments—a necessary skill for residential and commercial building design, animation, and gaming. Find out how to create realistic daytime and nighttime lighting, while examining the benefits and limitations of different tools, such as photometric lighting, auxiliary and fill lights, and environmental lights. Then see how to render a scene and then take your render layers into Photoshop to add shadows, reflections, and other finishing touches. You’ll learn everything you need to light rooms in any scenario—from sunrise to sunset and around the clock again.

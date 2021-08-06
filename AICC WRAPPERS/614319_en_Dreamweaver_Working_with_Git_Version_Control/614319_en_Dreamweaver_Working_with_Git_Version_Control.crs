@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=614319
+Course_System=linkedin.com
+Course_Title=Dreamweaver: Working with Git Version Control
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you work solo or with a team, using Adobe Dreamweaver CC with Git version control can help enhance your Dreamweaver workflow. In this course, learn how to use Dreamweaver with Git to back up and manage the development of your projects. David Powers explains how to install Git on both Windows and macOS, configure Dreamweaver to use a local Git repository, and use branches to keep different files separate from your live site. Plus, he shows how to resolve merge conflicts, create tags, work with remote repositories, and more.

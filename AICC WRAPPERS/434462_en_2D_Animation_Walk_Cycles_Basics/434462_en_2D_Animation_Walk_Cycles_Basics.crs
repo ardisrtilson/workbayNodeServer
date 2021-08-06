@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dermot O' Connor
+Course_ID=434462
+Course_System=linkedin.com
+Course_Title=2D Animation: Walk Cycles Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are four primary poses of a walk cycle, and the sequence in which they are animated is very important. In this 2D animation tutorial, Dermot O' Connor provides an introduction to the basics of all walk cycles. The principles apply to any animation student, regardless of software. First, he reviews the poses—contact, down, passing, and high point—and the creative decisions you have to make about timing, frame rates, and placement. (Traditionally, walk cycles can be animated in place or across the screen.) In the following chapters, Dermot animates a character walking in profile and also from a front view. These two projects give you opportunities to see animation techniques, such as creating poses and in-betweens and troubleshooting arcing and timing issues, in action.

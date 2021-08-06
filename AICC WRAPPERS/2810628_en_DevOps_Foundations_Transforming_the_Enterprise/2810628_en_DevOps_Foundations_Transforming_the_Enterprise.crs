@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mirco Hering
+Course_ID=2810628
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Transforming the Enterprise
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As your organization evolves, your IT practices can't remain stagnant. Growing organizations are faced with a variety of new and unique concerns: legacy programs, multiple vendors, and more. In this course, learn how to adopt and scale DevOps—a set of practices you may already be familiar with—in an enterprise environment. Instructor Mirco Hering explains what makes enterprise-level DevOps unique and steps through how to jump-start your own transformation. Learn how to analyze your application portfolio and identify a minimum viable cluster for your DevOps adoption. Explore value stream mapping and the different types of enterprise-level DevOps tools. Plus, learn how to include vendors in your DevOps journey, steer your transformation, and make a central DevOps team work for your business.

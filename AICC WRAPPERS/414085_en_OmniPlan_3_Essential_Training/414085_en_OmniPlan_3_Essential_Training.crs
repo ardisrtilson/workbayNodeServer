@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Osder
+Course_ID=414085
+Course_System=linkedin.com
+Course_Title=OmniPlan 3 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Expertly manage your projects with OmniPlan 3, the popular Mac-based project management software. This detailed training course first explores the OmniPlan interface, explaining how to use the powerful Gantt chart visualizations to grasp the whole project. It also explains how to work with project and project elements, including tasks, milestones, and dependencies. Author Jason Osder then takes a deep dive into working with tasks: setting durations, grouping, splitting, connecting tasks with dependencies, and more. The course explains how to most efficiently create and assign resources, including grouping resources, assigning duration and effort, and modifying individual schedule expectations. Learn how to use views; track project progress with critical paths, Gantt charts, and baselines; and configure different project settings. Chapter 9 shows how to work with OmniPlan Pro's expanded feature set, including Monte Carlo simulations and the multiproject dashboard.

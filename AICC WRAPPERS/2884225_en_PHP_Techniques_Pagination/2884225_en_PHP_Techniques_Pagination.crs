@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2884225
+Course_System=linkedin.com
+Course_Title=PHP Techniques: Pagination
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to paginate a list of items or database records using PHP. In this course, Kevin Skoglund reviews the fundamentals of pagination, a helpful design pattern for breaking down large data sets into smaller, more manageable sections. He provides use cases and shows how to write the actual PHP code to find records and display a certain number per page. He then shows how to paginate records from a SQL database, add links to pages, and use object-oriented programming to define pagination functions inside a single class and create links between pages. Each chapter contains practical, hands-on programming lessons that will help you build your PHP skills.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mithun Prasad
+Course_ID=661772
+Course_System=linkedin.com
+Course_Title=Intermediate Bot Framework for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Chatbots are the first wave of practical and commercially viable artificial intelligence, prevalent in ecommerce and service-oriented applications. For chatbot development, Microsoft Bot Framework is one of the most popular tools. In this course, Mithun Prasad, PhD (applied data scientist at Microsoft) reveals advanced features and best practices for developing intelligent bots with the Bot Framework. Learn how to implement conversation logging for advanced analytics, perform rapid development and testing with ngrok, conduct unit testing, and set up Direct Line communication from clients such as mobile apps and web services.

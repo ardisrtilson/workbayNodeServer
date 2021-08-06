@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Mitchell
+Course_ID=2834010
+Course_System=linkedin.com
+Course_Title=Python Data Structures:  Trees
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What are trees, in Python, and how do they fit in with other data structures such as linked lists and graphs? In this course, instructor Ryan Mitchell discusses binary search trees (BSTs) and what you can do with them in a real-world context. Ryan shows you how to build a basic tree with just a few lines of Python. She steps through how to search and traverse a tree, as well as how to print a tree to a terminal. Ryan explains how to add nodes to your tree, delete them, and detect unbalanced trees. When you find an unbalanced tree, it’s important to rebalance it. Ryan walks you through rebalancing four types of unbalanced trees. She concludes with a challenge that features smarter automated rebalancing.

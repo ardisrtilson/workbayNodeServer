@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=2880136
+Course_System=linkedin.com
+Course_Title=Create an Animated Character in Blender 2.9
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’ve ever wanted to create your own 3D animated character, this course is for you. Using open-source software—Blender and the paint program Krita—instructor Darrin Lile goes through every step of the process. He starts with creating the look of the character, showing how to bring in reference images, create textures for clothes, rig the bones of the character, and create, cut, and style your character’s hair. Darrin then gets into the animation process, demonstrating how to set up a reference video in the Blender interface, animate character movements, and create lip sync animation for a dialogue track. He finishes the course by adding music and sound effects, then rendering the final animation to a video file, so you can share your new creation.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft .NET, Christopher Gill
+Course_ID=2877237
+Course_System=linkedin.com
+Course_Title=Learning NuGet
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course is an introduction to NuGet, the official package manager for .NET. Packages are essentially compiled libraries packed together with descriptive metadata into an easily shareable unit, meaning NuGet lets developers leverage a massive ecosystem and utilize existing solutions as a foundation instead of building everything from scratch. Instructor Christopher Gill covers NuGet essentials like package management, the tools and resources NuGet provides, and how to use those tools to leverage and contribute to the extensive .NET ecosystem. He also covers the ins and outs of NuGet.org, the central repository for .NET developers to find and publish .NET packages.

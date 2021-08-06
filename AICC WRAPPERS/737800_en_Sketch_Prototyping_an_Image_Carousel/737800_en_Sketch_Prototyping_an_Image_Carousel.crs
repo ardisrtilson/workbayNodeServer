@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=737800
+Course_System=linkedin.com
+Course_Title=Sketch: Prototyping an Image Carousel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn handy tips and tricks for prototyping an image carousel in Sketch. Sketch can be used to prototype any project where you want to show interactivity in action: mobile apps, digital publications, websites, and more. In this course, instructor Chris Converse shows how to use Sketch navigation and link tools and nested symbols to build a dynamic and easy-to-update prototype, and upload your work to Sketch Cloud for sharing with clients and colleagues.

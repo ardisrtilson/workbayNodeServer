@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=2849002
+Course_System=linkedin.com
+Course_Title=InfraWorks 2021: Parametric Civil Structure Models
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+InfraWorks 2021 has implemented enhanced capabilities that you can use to build parametric tunnel components, bridge components, and street signs. Often, a project calls for specific parts that don’t ship with the standard components available in InfraWorks. However, you can create your own, using InfraWorks and Inventor. In this course, instructor Lynda Sharkey shows you how. Lynda begins by explaining parametric content, then steps through how to use InfraWorks and Inventor to export, modify, and use a parametric tunnel component. She discusses creating, modifying, and using a parametric bridge component, again with InfraWorks and Inventor. Lynda covers some gotchas that may occur when you are creating parametric content, so that you can avoid problems and frustrations. In conclusion, she walks you through how to set up, model, modify, and use parametric street sign components.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=2832009
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Security Technologies (AZ-500) Cert Prep: 5 Data at Rest, App Security, and Key Vault
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Confident in your understanding of the Microsoft cybersecurity stack? Taking and passing the Microsoft Azure Security Technologies (AZ-500) exam can help you validate your skills—and, in turn, give your IT career a boost. In this course, instructor Pete Zerger lays out what you need to know to tackle the fourth domain of the AZ-500 exam: Secure Data and Applications. Pete takes a deep dive into the concepts covered in the second half of domain four, including how to configure encryption for data at rest, configure security features to protect web apps, and manage access to Key Vault. When coupled with Microsoft Azure Security Technologies (AZ-500) Cert Prep: 4 Policy and Data Infrastructure—which covers the first half of the Secure Data and Applications domain—this course can help ensure that you walk into the test center feeling prepared to tackle this key portion of the exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=753908
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Web Servers and DNS Using Apache, NGINX, and BIND
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn web server and DNS configuration and management for Red Hat Enterprise Linux (RHEL)—one of the most popular Linux distributions. Instructor Grant McWilliams shows how to configure a caching-only web server using BIND, the open-source DNS software, and set up and secure an Apache web server. Then he shows how to use basic authentication to create a password-protected website and a private site for group collaboration. Next, learn how to create standard virtual hosts as well as those using nonstandard ports, and secure hosts with SSL and TLS. Finally, get an introduction to NGINX, the open-source web server that's taken world by storm, and find out how to create virtual hosts with this popular Apache alternative. Note: This course also helps you study to pass the Red Hat Certified Engineer (RHCE) exam—the benchmark certification for Red Hat Enterprise Linux.

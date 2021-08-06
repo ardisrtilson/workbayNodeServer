@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Bowersox
+Course_ID=5019839
+Course_System=linkedin.com
+Course_Title=Building APIs with Swagger and the OpenAPI Specification
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Swagger platform offers a rich ecosystem of tools that developers can use to create well-crafted APIs that boast higher adoption rates. Curious about how to leverage Swagger in your workflow? In this course, learn how to build and document high-quality APIs with Swagger and the OpenAPI Specification. After going over the basics of the Swagger ecosystem, instructor Kevin Bowersox shows how to build API definitions that speed up the delivery of APIs using the OpenAPI Specification. He also shows how to create and publish APIs with SwaggerHub, an integrated API development platform. To wrap up, Kevin steps through a hands-on project that shows you how to plan API development for applications.

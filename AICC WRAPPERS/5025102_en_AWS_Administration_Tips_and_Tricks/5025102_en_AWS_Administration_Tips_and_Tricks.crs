@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=TechSnips, LLC
+Course_ID=5025102
+Course_System=linkedin.com
+Course_Title=AWS Administration: Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get quick tips to take advantage of the powerful built-in tools for administering Amazon Web Services (AWS), including EC2, Elastic Beanstalk, and AWS RDS. This course is a collection of standalone videos created by the subject matter experts at TechSnips—an IT career development platform. Each video covers an important task for AWS admins, such as managing databases, IaaS resources, storage, web apps, and systems. Learn how to monitor EC2 instances, perform updates, secure your AWS account, manage web apps deployed on AWS, and work with AWS storage solutions, including MySQL and RDS databases. Each tip will help take your working knowledge of AWS a step closer to mastery.

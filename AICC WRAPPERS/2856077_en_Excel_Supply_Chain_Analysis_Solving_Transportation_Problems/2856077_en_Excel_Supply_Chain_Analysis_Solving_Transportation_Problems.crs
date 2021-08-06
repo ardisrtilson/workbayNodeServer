@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2856077
+Course_System=linkedin.com
+Course_Title=Excel Supply Chain Analysis: Solving Transportation Problems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Excel can be a secret advantage when it comes to solving complex supply chain challenges. Follow along with instructor Curt Frye as he shows how to use the Excel Solver add-in to minimize transportation and transshipment costs within a supply chain. Curt covers a range of topics, including how to analyze fixed costs and facility opening decisions, enforce level of service constraints, and perform scenario analysis. He also provides problem scenarios for you to solve, then goes through the solutions for each. After watching this course and working through the examples, you'll be able to describe the techniques specialized supply chain programs use to arrive at their results.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2884064
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 4 The WebDriver Automation Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Used correctly, Appium and Selenium can be a powerful force for testing web and mobile apps. This course is part of a series from HeadSpin University that walks you through fundamental concepts of software testing, programming, and ultimately UI automation with Appium and Selenium. This course specifically covers the WebDriver protocol and how you can use it with Appium and Selenium. Learn about the client/server architecture of WebDriver, REST APIs, protocol extensions and clients in Appium, as well as drivers in both Appium and Selenium. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

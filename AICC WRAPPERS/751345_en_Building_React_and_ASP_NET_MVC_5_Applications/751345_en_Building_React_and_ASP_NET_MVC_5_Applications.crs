@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kazi Nasrat Ali
+Course_ID=751345
+Course_System=linkedin.com
+Course_Title=Building React and ASP.NET MVC 5 Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React.js is a popular framework that's especially suited to building web apps with ASP.NET MVC 5, but integrating the two frameworks can be challenging. In this course, instructor Kazi Nasrat Ali steps through how to wire these two frameworks together to develop full-stack React and ASP.NET MVC 5 web apps. Learn how to build a front end with React.js and a backend with ASP.NET MVC 5 and Entity Framework by creating a full-stack web app for a restaurant. Create user logins, add shopping cart functionality to your app, secure the API, and optimize for mobile. Upon wrapping up this course, you'll have the skills you need to combine the powers of React.js and ASP.NET MVC 5 to create high-quality, impactful webpages.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Taylor
+Course_ID=2875045
+Course_System=linkedin.com
+Course_Title=Advanced Google Tag Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Tag Manager has upgraded to add a suite of powerful features that fine-tune your control and insights in Google Analytics. Instructor Michael Taylor teaches you about creating custom variables, advanced tagging techniques, advanced tag management techniques, modifying page contents, and server-side tagging. Michael shows you how to capture data you need for custom variables. He walks you through advanced tagging techniques like measuring how many users are reading each post and using the full Enhanced ECommerce implementation for Google Analytics. Michael shows you ways to modify your page contents with Google Tag Manager. He explores some naming conventions and templates that help track and standardize your projects, then explains how to make sure you are compliant with GDPR and CCPA cookie consent. Michael also covers the three major benefits of server-side tagging and shows you how to receive those benefits.

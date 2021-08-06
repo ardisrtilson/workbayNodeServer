@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Flett
+Course_ID=765317
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Design for Mechatronics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS is the leading software for mechanical design and engineering. However, it also offers a powerful toolset for generating mechatronic designs, or designs that combine mechanical and electrical components. In this course, Justin Flett teaches the basics of mechatronic design in SOLIDWORKS, walking through a complete, simplified project for a robotic arm. As the project progresses, he examines advanced tools for plastics and casing design, including drafts, shells, ribs, and mounting bosses, which are common elements in mechatronic enclosures and housing. Then Justin shows how to complete assemblies, including integrating imported motors and printed circuit board (PCB) components. Plus, learn how to route cables and wires in your project and generate final output, such as drawing, STEP, and PDF files.

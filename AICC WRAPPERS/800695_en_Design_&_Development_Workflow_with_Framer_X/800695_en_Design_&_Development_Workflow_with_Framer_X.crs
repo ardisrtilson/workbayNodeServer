@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=800695
+Course_System=linkedin.com
+Course_Title=Design & Development Workflow with Framer X
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When the needs of UX designers or developers are lost in translation, the appearance of the final application often doesn't match the original vision. Framer X boasts functionality that prevents these kinds of communication breakdowns by enhancing the workflow of designers and developers alike. This powerful design prototyping tool allows users to craft intricate designs, design responsive layouts, create interactions, and take advantage of interactive—and reusable—React-based components. In this course, learn how UX designers and the developers they work with can share a common workflow—and better understand each other's language and needs—using Framer X. Emmanuel Henri dives into the designer to developer workflow, going over how React relates to Framer X and prototyping, as well as the proper guidelines to follow when creating designs for the web and mobile devices. He also covers the developer to designer workflow, showing developers how to work with a design system and use React components in Framer X.

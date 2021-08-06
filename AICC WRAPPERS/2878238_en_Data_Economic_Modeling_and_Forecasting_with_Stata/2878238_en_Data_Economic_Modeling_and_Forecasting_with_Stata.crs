@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Schenker
+Course_ID=2878238
+Course_System=linkedin.com
+Course_Title=Data, Economic Modeling, and Forecasting with Stata
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Working with data is an important part of many jobs, and in the future, it will be important for even more. In this course, financial forecaster Jason Schenker teaches important fundamentals about data, economic modeling basics, and how to forecast with Stata. He guides you through building univariate and multivariate linear regression models in Stata, as well as interpreting statistical outputs, and the importance of data modeling iteration. Jason also discusses critical statistics used in forecasting, like the mean, standard error, standard deviation, coefficients, independent variables, and confidence intervals, and highlights critical data risks and best practices like how correlation does not equal causation. Jason also shares the importance of good data, big data, and managing risks when building forecasting models, and finishes with an introduction to some advanced topics in statistics and econometrics.

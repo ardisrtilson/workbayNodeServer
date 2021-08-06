@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2823102
+Course_System=linkedin.com
+Course_Title=Functional Programming with PHP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to write more readable, maintainable PHP code by taking up functional programming. In this course, Shaun Wassell helps you get up and running with this popular programming paradigm. Shaun begins by covering fundamental concepts, including why functions and data are kept separate in functional programming and how to work with first-class functions in PHP. He then delves into the functional aspects of PHP, highlighting the built-in functions and features that allow you to work with arrays functionally, as well as filter, reduce, and sort lists of items. He also covers some more advanced concepts, such as recursion and partial application. To wrap up, Shaun shares code conversion challenges that allow you to put your new skills to the test.

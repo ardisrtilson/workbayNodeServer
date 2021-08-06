@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ash Coleman
+Course_ID=772329
+Course_System=linkedin.com
+Course_Title=Agile Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create higher-quality software at a faster clip by implementing agile testing in your organization. Throughout this course, instructor Ash Coleman helps you boost your understanding of the role and methods of software testers, as well as how testing can enhance your agile workflow. To kick things off, Ash goes over the role of the tester in agile teams, detailing how testers govern, monitor, and encourage quality practices. Next, she steps through the agile testing approach and pinpoints where testers can add value. She also helps to acquaint you with key testing processes and responsibilities, including bug tracking; explores both manual testing and test automation; and discusses how continuous integration can be incorporated into the mix.

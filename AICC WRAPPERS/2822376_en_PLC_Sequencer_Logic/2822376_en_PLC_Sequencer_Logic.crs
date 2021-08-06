@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=2822376
+Course_System=linkedin.com
+Course_Title=PLC Sequencer Logic
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sequence processes are common in manufacturing and used often in ladder logic, the popular language for programming major PLC devices. In this practical course, instructor Zahraa Khalil demonstrates how to use sequencer instructions in PLC ladder logic programming. To help lend each concept a real-world context, Zahraa shares practical examples involving everything from traffic lights to dishwashers. She shines a spotlight on three key sequencer instructions: sequencer output instruction (SQO), sequencer compare instruction (SQC), and sequencer load instruction (SQL). Along the way, she includes challenges that help you solidify your understanding of each concept.

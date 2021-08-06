@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=647677
+Course_System=linkedin.com
+Course_Title=Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Business analytics encompasses a set of tools, technologies, processes, and best practices that are required to derive knowledge from data. It's an iterative and methodical exploration of data to derive insights from it—and, in turn, make smarter, more strategic decisions that are grounded in facts. In this course, learn about the stages in business analytics that are used to predict and build the future—predictive analytics, prescriptive analytics, and experimental analytics. This course dives into each stage, discussing the tools and techniques used for each, as well as best practices leveraged in the field. In addition, the course lends a real-world context to these concepts by using a use case to demonstrate how to execute analytics in each stage.

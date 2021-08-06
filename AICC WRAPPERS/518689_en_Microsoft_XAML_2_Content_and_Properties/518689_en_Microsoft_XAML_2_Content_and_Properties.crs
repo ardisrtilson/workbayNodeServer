@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=518689
+Course_System=linkedin.com
+Course_Title=Microsoft XAML: 2 Content and Properties
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you want to use XAML, the XML-based markup language developed by Microsoft to create better user interfaces for Windows applications, you need to understand how it treats content and properties. Walt Ritscher continues his exploration of XAML in part 2 of Microsoft XAML Fundamentals, focusing on the unique way XAML treats content within XML markup and the fascinating dependency properties framework, which facilitates modern UI features such as animation and data binding. Learn how content is tied to .NET and its code-behind file, and how the syntax for dependency properties and specialized attached properties is structured. This foundational knowledge will help you incorporate data, documents, and sophisticated UI controls, as well as dependency system services like data binding, validation, templates, and animation, into your next Windows 10 application.

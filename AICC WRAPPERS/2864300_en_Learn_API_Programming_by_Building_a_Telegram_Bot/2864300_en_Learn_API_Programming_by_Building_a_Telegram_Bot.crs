@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Geller
+Course_ID=2864300
+Course_System=linkedin.com
+Course_Title=Learn API Programming by Building a Telegram Bot
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Telegram is an emerging technology that is used primarily for messaging. This course gives enterprise developers a point of entry into leveraging Telegram bots to create internal or client-facing tools. Instructor Tom Geller shows you how to check the requirements to host a Telegram bot. He explains what Telegram is, how it's used, and its place in the world of instant messengers. He covers the basic architecture of how a Telegram bot works and how you can browse bots that others have created for ideas. Tom steps through how to notify the Telegram.org servers of your bot. He discusses how to send requests and receive updates. He shows how to direct your bot to perform a greater variety of actions and how to handle multimedia content as easily as text-based content. Tom goes over how to take advantage of certain security features built into the Telegram messaging platform. In conclusion, he shows you how to get further help from others who have built Telegram bots.

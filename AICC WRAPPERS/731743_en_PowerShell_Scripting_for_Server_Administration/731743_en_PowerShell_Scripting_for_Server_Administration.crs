@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=731743
+Course_System=linkedin.com
+Course_Title=PowerShell: Scripting for Server Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Speed up Windows Server administration with PowerShell. This course covers the basics of PowerShell scripting, an important skill for any IT professional working with Windows Server. Instructor Scott Burrell shows how to create new scripts in the editor of your choice, demonstrating options such as Visual Studio Code. He shows how to read and write data from a variety of file types, load prebuilt script modules, program functions, and perform basic administrative tasks using PowerShell and Windows Management Instrumentation (WMI), such as extracting information about remote machines. Using the skills you learn in this training course, you will be able to harness PowerShell to script routine server administration tasks, such as software updates and user management.

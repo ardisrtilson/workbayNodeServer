@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Casabona
+Course_ID=2822019
+Course_System=linkedin.com
+Course_Title=WordPress: Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If your WordPress workflow is streamlined from the start, development is simpler, more organized, and more efficient—all the way through to publication. This course takes your WordPress knowledge to the next level by covering three common WordPress workflows. First, learn a time-tested workflow for building a WordPress site: from choosing a host to launching a site. Next, discover how to build a child theme. Finally, review the tools and techniques professionals use to develop sites for clients, including setting up a staging environment and version control. Developer and WordPress educator Joe Casabona concludes with a look at some advanced tools you might want to put into your workflows, including automated testing and static site tools.

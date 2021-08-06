@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Bloy
+Course_ID=713392
+Course_System=linkedin.com
+Course_Title=Learning Amazon Connect: Create and Manage a Contact Center
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Connect is a self-service, cloud-based contact center service. The self-service graphical interface in Connect makes it easy for non-technical users to build personalized and natural customer journeys, create routing logic, and track performance metrics. This course is designed to cover the essentials of Connect—the benefit it offers, the steps to create a Connect instance, and the process of routing calls. It is designed for operational managers, architects, and IT professionals who want to established cloud-based contact center. Instructor Daniel Bloy covers building team structures, assigning roles such as supervisors and agents, using the built-in reporting tools, and integrating with Lambda and DynamoDB for data collection. Plus, learn how to build, publish, and integrate a LEX chatbot for a conversational customer experience.

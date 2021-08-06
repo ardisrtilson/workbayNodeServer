@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tayo Koleoso
+Course_ID=2807867
+Course_System=linkedin.com
+Course_Title=Java EE 8: Web Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to develop modern and lightweight web services using Java Enterprise Edition (EE) 8. Instructor Tayo Koleosho begins by providing some context, explaining why we develop web services, how SOAP and REST differ, and what's new in Java EE 8. He then shows Java developers how to implement SOAP web services and RESTful APIs, such as how to design and develop a RESTful service using the Java API for RESTful Web Services (JAX-RS). Learn about testing with Postman, validation and error handling in JAX-RS, logging and monitoring in JAX-RS and JAX-WS, API security using JSON Web Token (JWT), and more.

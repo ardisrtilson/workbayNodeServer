@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2825493
+Course_System=linkedin.com
+Course_Title=Machine Learning for iOS: Core ML and Create ML
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to incorporate machine learning into your iOS app? With the Core ML SDK and the Create ML app from Apple, you can quickly start integrating machine learning features into your projects. In this course, Emmanuel Henri covers the basics of machine learning, as well as how to work with Core ML and Create ML to add machine learning models to your apps. Emmanuel covers the different parts of the Core ML SDK, how to set up a new project using Create ML, and how to get input values into and test a model. He also steps through how to integrate your machine learning model into an iOS application and convert models from non-iOS sources.

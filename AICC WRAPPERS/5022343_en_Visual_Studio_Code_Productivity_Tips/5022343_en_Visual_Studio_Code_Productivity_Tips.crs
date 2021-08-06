@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=5022343
+Course_System=linkedin.com
+Course_Title=Visual Studio Code Productivity Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make your coding and debugging workflow more productive with Visual Studio (VS) Code, the optimized code editor for Windows, Max, and Linux. In this course, instructor Walt Ritscher introduces tips and techniques for using the smart, context-sensitive features in VS Code to speed up your development work. Learn how to find code references faster, generate boilerplate HTML, improve quality with code refactoring, create custom keybindings for the commands you use most, and copy and move code blocks with ease. Walt also introduces five of his favorite extensions, including GitLens, which enables powerful insights into your Git repository without ever leaving VS Code.

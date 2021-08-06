@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=604229
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Integrated CAM with HSMXpress
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk HSMXpress software brings integrated CAM to SOLIDWORKS. In this course, discover how to get started with this 2.5 axis CAM plugin. Gabriel Corbett walks through how to load models; set up a machine and fixtures; configure tools; and drill, tap, bore, pocket, and mill your material. He also shows how to generate toolpaths, simulate a job, use the utilities in HSM, and more.

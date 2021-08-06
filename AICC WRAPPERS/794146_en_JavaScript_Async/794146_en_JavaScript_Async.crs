@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=794146
+Course_System=linkedin.com
+Course_Title=JavaScript: Async
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Asynchronous code is the foundation of most modern web experiences. It allows programs to switch between tasks and juggle multiple requests. However, without a thorough understanding of asynchronous programming, developers can write bloated code that works against the architecture of the web. Join Sasha Vodnik in this course, which explores asynchronous approaches to JavaScript programming using callbacks, promises, and the async/await operators in ES6. Learn what's going on line by line in your code, revisit basic structures like XMLHttpRequest (XHR) objects and setTimeout(), and discover how to use the new syntax options in JavaScript to tackle any coding challenge.

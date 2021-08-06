@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=718675
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Client-Side Data Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers now have access to simple tools for storing small amounts of data locally, as well as the more sophisticated IndexedDB approach for larger or more structured kinds of data. In this course, Emmanuel Henri provides coverage of key client-side storage solutions for JavaScript developers. He goes over the basics of local and session storage and provides use cases that can help you determine when to opt for one type of web storage over the other. He also discusses how to set up and work with IndexedDB, including how to add, retrieve, and delete items with this powerful API. Plus, learn about localForage and other options for handling the local storage of large files.

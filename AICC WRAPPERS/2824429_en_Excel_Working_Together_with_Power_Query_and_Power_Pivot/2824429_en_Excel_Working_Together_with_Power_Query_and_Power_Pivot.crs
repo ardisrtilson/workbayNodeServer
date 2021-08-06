@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joshua Rischin
+Course_ID=2824429
+Course_System=linkedin.com
+Course_Title=Excel: Working Together with Power Query and Power Pivot
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Power Query and Power Pivot features in Microsoft Excel can make a powerful combination. Power Query enables you to discover, connect to, and import data, and Power Pivot lets you quickly model that data. In this concise course, Excel power user Joshua Rischin shows how to work seamlessly with Power Query and Power Pivot. Joshua walks step-by-step through using Power Query to select data, prepare a query, cleanse data, and prepare data for Power Pivot. Next, he walks through the Power Pivot workflow, showing how to create a data model, import additional data if needed, build relationships between data, and create calculations and measures. The final chapter provides three real-world scenarios for working together with Power Query and Power Pivot.

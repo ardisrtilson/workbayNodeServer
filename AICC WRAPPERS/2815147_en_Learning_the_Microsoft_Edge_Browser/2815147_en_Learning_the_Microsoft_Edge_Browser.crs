@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Garrick Chow
+Course_ID=2815147
+Course_System=linkedin.com
+Course_Title=Learning the Microsoft Edge Browser
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use the key features of Microsoft Edge, the web browser built into Windows 10. Follow along with staff instructor Garrick Chow as he covers the basics of navigating with Edge, including how to adjust settings, use tabs, and disable pop-ups. Next, Garrick shows how to create and organize Favorites, as well as how to import and export Favorites. He goes over how to install extensions, and demonstrates how to maintain privacy and security while browsing with Edge, including understanding cookies and cache, saving passwords safely, and managing your search history.

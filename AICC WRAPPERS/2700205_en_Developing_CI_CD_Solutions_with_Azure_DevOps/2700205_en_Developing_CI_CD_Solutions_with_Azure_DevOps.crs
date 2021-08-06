@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adrienne Braganza Tacke
+Course_ID=2700205
+Course_System=linkedin.com
+Course_Title=Developing CI/CD Solutions with Azure DevOps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a developer, you need to field a constant flow of requests for new features, updates, and bug fixes. By implementing an automated development workflow, you can more effectively keep up with these demands. Curious about how to automate a new or existing project for your team? In this course, learn how to set up proper source control for your web app and configure a fully automated continuous integration and continuous delivery (CI/CD) pipeline in Azure. Instructor Adrienne Braganza Tacke demonstrates how to create a web app in both Visual Studio and the Azure portal; set up source control for your app using Azure DevOps and GitHub; and create build and release pipelines in Azure DevOps.

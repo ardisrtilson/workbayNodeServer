@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Fullmer
+Course_ID=184152
+Course_System=linkedin.com
+Course_Title=Windows 8: Networking and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about Windows 8 networking and security. Author Steve Fullmer explores the Open Systems Interconnection (OSI) model, IPv4 and IPv6 networking, Domain Name System (DNS) resolution, and wireless networking. Additional topics include public key infrastructure, Windows 8 Defender, the defense-in-depth approach, and User Account Control (UAC).

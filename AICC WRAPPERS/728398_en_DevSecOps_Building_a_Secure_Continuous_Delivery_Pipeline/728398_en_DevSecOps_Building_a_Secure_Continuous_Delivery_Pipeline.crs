@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett
+Course_ID=728398
+Course_System=linkedin.com
+Course_Title=DevSecOps: Building a Secure Continuous Delivery Pipeline
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Over the past several years, information security has struggled to keep up with the fast-paced DevOps movement. DevSecOps—an extension of DevOps—aims to remedy this by embracing security as an essential part of DevOps culture. This course examines this fresh take on DevOps, providing an overview of the practices and tools that can help you implement security across the entirety of the continuous integration and continuous delivery (CI/CD) pipeline. As instructor James Wickett looks at CI/CD through the lens of security, he breaks up the pipeline into five distinct stages: develop, inherit, build, deploy, and operate. As he moves through each of these stages, he provides an overview of best practices and tools that can fit nicely into your DevSecOps toolchain approach.

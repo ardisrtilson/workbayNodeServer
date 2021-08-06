@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Derek Peruo
+Course_ID=2875342
+Course_System=linkedin.com
+Course_Title=Angular: Testing and Debugging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Errors caused by missing dependencies, undefined variables, or poorly formatted data can cause your web application to stop working. In this course, learn how to track down and eliminate these types of errors in your Angular applications through the process of testing and debugging. Instructor Derek Peruo breaks down common error messages and goes over a variety of testing and debugging options. He also covers code linting, shares some tips and tricks for avoiding pitfalls during development, and goes into writing custom error handlers to make it easier to work with errors as your application grows.

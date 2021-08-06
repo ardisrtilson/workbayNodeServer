@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2282139
+Course_System=linkedin.com
+Course_Title=Microsoft Power Platform Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft has grouped several business end-user products together in the Power Platform. These low-code and no-code tools help power users manage business workflows, create mobile apps, gather and interpret data, and organize data across the organization. The main applications are Power Apps, Power Automate, Power Virtual Agents, and Power BI. In this course, Gini von Courter shows how these applications are used to create business solutions. Learn how to build custom mobile or browser apps, automate workflows, design engaging visualizations and dashboards, and even create chat bots to deploy to customers and employees. By the end of this course, you'll understand which of the Power Platform tools you should leverage for your own unique business scenarios.

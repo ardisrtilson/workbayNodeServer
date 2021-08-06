@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Ludwig
+Course_ID=2822202
+Course_System=linkedin.com
+Course_Title=Excel: Power Query for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If even a small part of your job entails using Microsoft Excel, there’s a good chance that at some point you’ve received a spreadsheet where the data is unorganized, disconnected, or generally not in great shape. And despite common practice, a long, heavy sigh is not officially part of any recommended Excel workflow. Rather than pull your hair out at the mess of data you see before you, you can use Power Query in Excel to help you import and clean data into something easier to work with. In this course, Excel expert Dave Ludwig takes you through the robust features set of Power Query. Dave shows you how to use Power Query to connect to your data source, filter data, and create conditional columns of data. He also shows off the significant cleansing capabilities of Power Query. Once your data is cleaned up, you can more easily create formulas, PivotTables, charts, and generally get on with your business.

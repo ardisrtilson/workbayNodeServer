@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Riviello
+Course_ID=434463
+Course_System=linkedin.com
+Course_Title=CSS to Sass: Converting an Existing Site
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sass is next-gen CSS. Many developers are already using this timesaving technology to style their new web projects. But what about existing sites? By converting the way the CSS is authored—using Sass instead of plain CSS—you can realize the benefits of Sass on older websites. Converting an existing site is also a great way to learn Sass and understand how Sass is compiled into CSS. In these Sass tutorials, students will learn the benefits of libSass over the original Ruby Sass, and set up a Sass-friendly development environment with Node.js and Grunt. A unique aspect of this course is learning how to handle challenges specific to integrating Sass with an existing website, such as new debugging workflows and the variables and mixins worth the effort to define. Author John Riviello also introduces a few Sass tools that speed up media query handling, automatic browser prefixing, and sprite generation. At the end of the course, he shows how your setup work pays off, styling a whole new section of the practice site in just 15 minutes.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Casabona
+Course_ID=2824359
+Course_System=linkedin.com
+Course_Title=First Look: PHP 7.4
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As the needs of today's web developers continue to evolve, so must PHP. This course captures the improvements and new features introduced in version 7.4 of the popular scripting language. Joe Casabona—a PHP user for 15+ years—distills all of the most notable enhancements, from typed properties to preloading. Tune in to quickly get up to speed with all that this release has to offer.

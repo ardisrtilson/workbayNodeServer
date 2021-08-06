@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2874331
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 6 Security Assessment and Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you getting ready for the Certified Information Systems Security Professional (CISSP) exam, or are you perhaps an experienced information security professional who wants to learn more about security assessment and testing? In this course, instructor Mike Chapple provides you with the detailed information you need to prepare for the Security Assessment and Testing domain of the 2021 CISSP exam. Mike explains information security and risk management practices, especially the practices you need to complete the CISSP exam. He covers security governance, compliance, and policy issues. Mike discusses business continuity, personnel security, threat modeling, vendor management, and security training and awareness topics.

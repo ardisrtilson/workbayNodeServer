@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Maiorano
+Course_ID=639067
+Course_System=linkedin.com
+Course_Title=Learning Java 9 Modularity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Project Jigsaw is the star attraction of Java 9. It introduces the Java Platform Module System (JPMS) and makes it possible to create modular applications natively in Java. Modularity is key in managing complexity in modern applications but is also a complex subject in it of itself that impacts the entirety of an application. In this course, instructor Nick Maiorano breaks down this complexity by explaining what modularity is all about, how Java has adopted modularity and how to start using to build better quality applications.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2428452
+Course_System=linkedin.com
+Course_Title=Search Techniques for Web Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Effective search skills are often a key part of programming talent. In this course, instructor Morten Rand-Hendriksen highlights several search techniques that you, as a web developer, need to know. Morten begins by explaining where to find reliable information. He goes over several possibilities, including the original source, platform resources, status reference sites, and community resources. Next, Morten shows you how to master searches with search techniques for Google, other search engines, internal site searches, and GitHub. He concludes with a discussion of the developers behind every line of code and how you can enrich your searches for information through participating in and contributing to online communities.

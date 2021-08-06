@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joli Ballew
+Course_ID=685031
+Course_System=linkedin.com
+Course_Title=Windows as a Service: Planning Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Starting with Windows 10, Microsoft provides quality and feature updates for Windows on an ongoing basis. The new release strategy-called Windows as a service-means IT admins need to adjust the way they have typically planned for OS deployments. In this course, Microsoft MVP Joli Ballew walks admins through a summary of Windows as a service, and presents the major considerations for successful deployments. She explains the difference between the semi-annual and long-term servicing channels, the advantages of becoming a Windows Insider, and strategies for minimizing risk with deployment rings and build testing. She also covers servicing tools such as Windows Update, Windows Update for Business, Windows Server Update Services, and System Center Configuration Manager, which offer different degrees of control, including deferment and targeting options.

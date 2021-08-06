@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Wright
+Course_ID=2980054
+Course_System=linkedin.com
+Course_Title=Add Photorealism with Lens FX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whenever a camera shoots a scene, the lens adds a variety of effects to the captured image. These effects have to be duplicated and matched by the compositor when merging layers from different camera or CGI sources. Learn step-by-step procedures for replicating and simulating common lens effects—with any VFX software. This course documents nearly a dozen different techniques, including lens distortion, depth of field, soft focus, vignetting, spherical aberration, astigmatism, chromatic aberration, and glows and flares. For each lens effect, its optical cause, appearance, and the math to composite it into your shots are documented in a software-agnostic way. Many are illustrated with CGI animations. Instructor Steve Wright also provides an in-depth explanation of layering order, showing how to combine lens effects in the right order for maximum effectiveness. This course was created by Steve Wright. We are pleased to offer this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=TechSnips, LLC
+Course_ID=2213243
+Course_System=linkedin.com
+Course_Title=PowerShell for Exchange Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Exchange is the premier email platform. It’s extremely common in enterprise environments that use Active Directory and Windows Server. However, managing Exchange can be time-consuming and tedious. Using PowerShell creates opportunities to improve workflow through automation and streamlining. This course is a collection of standalone videos created by the subject matter experts at TechSnips—an IT career development platform. Each video covers an important task for Exchange admins who want to leverage PowerShell to simplify and speed up their workflow. Review common management tasks that benefit from scripting, such as managing permissions, moving and restoring mailboxes, and configuring transport rules. Plus, find out how to create reports from Exchange and manage contacts and distribution groups more quickly and easily with PowerShell.

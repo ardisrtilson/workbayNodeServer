@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2804050
+Course_System=linkedin.com
+Course_Title=SAP Accounts Receivable Boot Camp
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the ins and outs of the accounts receivable (AR) functionality in the SAP suite of enterprise software. In this concise course, learn how to enter and review various kinds of AR invoices in SAP, taking a deep dive into both non-sales order and sales older invoices. Then, explore basic AR reporting in SAP, including how to display customer balances and line items and access an AR open item age analysis report. Plus, learn how to enter manual cash receipts in SAP and approach lockbox electronic file processing. This course was created by Michael Management. We are pleased to offer this training in our library.

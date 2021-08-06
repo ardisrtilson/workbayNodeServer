@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiberiu Covaci
+Course_ID=5035807
+Course_System=linkedin.com
+Course_Title=Azure: Implementing VMs and Batch Jobs (AZ-204)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to deploy virtual machines on Azure and implement batch jobs using Azure Batch services. In this course, instructor Tiberiu Covaci covers the core elements of VMs necessary for exam AZ-203: Developing Solutions for Microsoft Azure, a required exam for the Microsoft Certified: Azure Developer Associate certification. After digging into what exam AZ-203 tests developers on—and which exam domains this course maps to—Tiberiu demonstrates multiple ways to create virtual machines (VMs). Learn how to do so using PowerShell, Azure CLI, and Azure Resource Manager templates. Tiberiu then helps you leverage the high-performance computing capabilities in the Azure Batch service, showing how to run a batch job from the portal, PowerShell, and CLI.

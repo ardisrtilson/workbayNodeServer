@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=421793
+Course_System=linkedin.com
+Course_Title=Building a Dynamic Heat Map in Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You don't need special software to create data visualizations. With some advanced functions, formatting, and filters, you can create these heat maps right in Microsoft Excel. The techniques shown in this course transform Excel from a basic spreadsheet program into a dynamic and powerful analytics tool for heat mapping. Chris Dutton provides hands-on examples designed to showcase why certain functions—DATEVALUE, VLOOKUP, COUNTIF, and more—are so valuable to mapping data. He also shows how to use conditional color-scale formatting to map your data matrix, and find different ways to examine the same data with different criteria, using dynamic filters. The course wraps up with a few finishing touches to make your heat map even more useful and engaging, including a preview of what's possible with the Power Map addin.

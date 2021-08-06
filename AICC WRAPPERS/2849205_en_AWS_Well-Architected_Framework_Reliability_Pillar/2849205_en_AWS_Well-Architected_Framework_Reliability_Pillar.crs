@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=2849205
+Course_System=linkedin.com
+Course_Title=AWS Well-Architected Framework: Reliability Pillar
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The AWS Well-Architected Framework was designed to help architects build secure, high-performing, resilient, and efficient infrastructure for their applications. The framework is comprised of five pillars: operational excellence, security, reliability, performance efficiency, and cost optimization. In this course, designed as part of a six-part series covering the AWS Well-Architected Framework, take a deeper look at the third pillar: reliability. Discover the purpose and place of the reliability pillar, plus key AWS reliability services such as CloudWatch. Learn about designing reliable infrastructure with Availability Zones, load balancing (ELB), and DNS (Route 53). Along the way, review demonstrations of real-world challenges and see how to implement key services to prevent—and recover from—failures.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=716061
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: iSCSI Storage Area Networks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become a Red Hat Certified Engineer (RHCE). The RHCE certification demonstrates expert-level competence with Red Hat Enterprise Linux and is considered the benchmark for Linux administrators. This course covers objectives related to iSCSI—the standard protocol for linking a storage area network (SAN) on Linux. Instructor Grant McWilliams provides an overview of iSCSI and related terminology, including targets, initiators, LUNs, backstores, and iSCSI addressing. He shows how to configure iSCSI target and initiator packages, create a backstore, enable access with an access control list (ACL), discover and log into targets, partition and format target drives, and prepare them for automatic mounting. Finally, he demonstrates how to remove targets and backstores and configure iSCSI LUN (logical unit number) storage.

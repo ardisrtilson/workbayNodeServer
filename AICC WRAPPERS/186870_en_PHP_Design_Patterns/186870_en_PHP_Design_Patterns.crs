@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith Casey
+Course_ID=186870
+Course_System=linkedin.com
+Course_Title=PHP: Design Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Write better PHP code by following these popular (and time-tested) design patterns. Developer Keith Casey introduces 11 design patterns that will help you solve common coding challenges and make your intentions clear to future architects of your application. Keith explores use cases for: Accessing data with the active record and table data gateway patterns Creating objects with the factory, singleton, and mock objects patterns Extending code with decorator and adapter patterns Structuring applications with MVC and Action-Domain-Responder patterns Each chapter features a design pattern in a real-world coding scenario, and closes with a practice challenge to test your new skills.

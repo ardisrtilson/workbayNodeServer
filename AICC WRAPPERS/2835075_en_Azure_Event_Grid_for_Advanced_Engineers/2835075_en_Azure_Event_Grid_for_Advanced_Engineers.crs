@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=2835075
+Course_System=linkedin.com
+Course_Title=Azure Event Grid for Advanced Engineers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Event Grid is the glue that connects services in Azure. Nearly every Azure service has the ability to publish events for subscription—which makes it ideal for decoupled and highly scalable architecture. This course is broken into two basic sections: publishing events from various sources and consuming those events from within Azure. Instructor Robby Millsap shows how to emit events, including custom events; debug and run Event Grid locally; and consume events within Azure Functions, Logic Apps, and Doc Factory. Plus, learn how to leverage advanced features, such as persistent messaging.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=2822377
+Course_System=linkedin.com
+Course_Title=Learning Swift Playgrounds Application Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you need to master a new Swift concept or pitch a prototype to a client, Swift Playgrounds—a development environment from Apple—can help you quickly get the results you need on your iPad or MacBook. In this course, Steven Lipton shows how to leverage the full power of Swift Playgrounds in Xcode and on the iPad to quickly prototype and present your ideas, as well as create your own playground book. Steven demonstrates how to quickly write code in iPad playgrounds without a keyboard, debug and test code instantly with quick looks, build interactive presentations with live view in UIKit and SwiftUI, and use rich formatting and markup to make your playground look sleek and professional. To wrap up the course, he steps through how to put together a playground book for demonstrations.

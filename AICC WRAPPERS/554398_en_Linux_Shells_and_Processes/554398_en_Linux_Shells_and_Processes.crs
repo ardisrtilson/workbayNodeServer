@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=554398
+Course_System=linkedin.com
+Course_Title=Linux: Shells and Processes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, gain a more thorough understanding of the shell and system processes to help you work faster and more efficiently in Linux. Follow computer science instructor and Linux enthusiast Grant McWilliams as he dives into Linux shells and their environments, and explains how to customize your shell. He discusses using the Bash shell, and covers topics like command and variable substitution. Grant also explains how to stack simpler commands together using named and unnamed pipes and redirects; discusses how to start, pause, and end processes; shows how to schedule one-time jobs and recurring jobs; and covers complex system services.

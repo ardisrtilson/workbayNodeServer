@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=5025101
+Course_System=linkedin.com
+Course_Title=Web Security: User Authentication and Access Control
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+User authentication plays a central role in almost everything we do online. From apps to hardware and websites, user accounts and logins are everywhere. Authentication is critical for verifying a user's identity online and for confirming permissions so individuals can perform privileged actions. In this course, instructor Kevin Skoglund teaches you how authentication works, how to implement it correctly when building web applications, walks you through some of the most common attacks, and shows you how to protect your site. He also demonstrates how to secure your own passwords and digital identity so you can work securely. This course is ideal for all developers, particularly those who are interested in authentication and security.

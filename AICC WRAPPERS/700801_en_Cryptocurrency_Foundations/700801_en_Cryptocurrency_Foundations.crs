@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=700801
+Course_System=linkedin.com
+Course_Title=Cryptocurrency Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The digital revolution has impacted almost every aspect of our lives, including the way money is made, stored, and used. Cryptocurrency is the latest trend. It is a completely decentralized form of digital money, that is created and exchanged without the intervention of traditional financial institutions. Bitcoin, the most popular form, is on its way to becoming a legitimate global currency. This short course is for anyone who wants to understand the basics of how cryptocurrencies are created, traded, and mined. Dr. Jonathan Reichental reviews the underlying technology—blockchain databases, hashing, and cryptography—and explains how anyone can create a form of cryptocurrency and offer it for use. He also discusses the process of mining and the hardware and software needed to become a cryptocurrency miner.

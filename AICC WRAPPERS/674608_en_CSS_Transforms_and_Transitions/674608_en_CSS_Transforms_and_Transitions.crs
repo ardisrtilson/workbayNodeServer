@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Carey
+Course_ID=674608
+Course_System=linkedin.com
+Course_Title=CSS: Transforms and Transitions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Create more visually interesting and dynamic websites. Learn how to build animated effects and 3D objects using CSS transforms and transitions. Follow along with author Patrick Carey as he shows how to transition between properties such as color, background, opacity, and positioning, and adjust the timing and duration of transitions. Patrick explains how to perform 2D transformations, such as scaling, skewing, and rotating, as well as transformations in 3D. He shows how to transform objects along the X-, Y-, and Z-axis; use perspective; and create 3D objects such as animated cubes. Interactive demo pages are included with the exercise files, so you can practice what you've learned after each video.

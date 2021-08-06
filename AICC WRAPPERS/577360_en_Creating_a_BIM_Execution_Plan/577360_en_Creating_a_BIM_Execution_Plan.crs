@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Myers
+Course_ID=577360
+Course_System=linkedin.com
+Course_Title=Creating a BIM Execution Plan
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+BIM Execution Plans (BEP) can help to ensure that the information regarding a BIM project is effectively communicated to project participants. In this course, join Brian Myers as he takes you through the essential content you'll need in a BEP, and provides a structured procedure for creating and implementing your own BEP. Brian takes you through each section of a typical BEP, explaining what kind of information you need to provide. He also helps you design the BIM execution process, covering how to define the Level of Development (LOD) and determine the information that needs to be in the model. He also covers collaboration procedures, including defining the software to be used, specifying the file naming structure, and defining the coordination process.

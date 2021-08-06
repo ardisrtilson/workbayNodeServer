@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=SAS Institute
+Course_ID=2823035
+Course_System=linkedin.com
+Course_Title=SAS® 9.4 Cert Prep: Part 08 Controlling Data Step Processing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get ahead in a crowded job market? Get certified with SAS. This course is part of a series by the SAS Institute, designed to prepare you for the SAS 9.4 certification exam. Here you can explore data processing techniques using the SAS DATA step. Instructor Stacey Syphus provides demos of DATA step processing in action, showing what goes on behind the scenes in SAS. She also shows how to control where and when output is directed to SAS tables. This course was created by SAS Institute. We are pleased to offer this training in our library.

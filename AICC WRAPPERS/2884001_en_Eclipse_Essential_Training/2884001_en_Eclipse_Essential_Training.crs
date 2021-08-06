@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=2884001
+Course_System=linkedin.com
+Course_Title=Eclipse Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Eclipse is an industry-standard IDE and a critical tool for developers who want to build projects in multiple languages. In this course, Todd Perkins shows how to effectively use the IDE's built-in tools and extensions to create, code, test, and debug projects in Java and Python. He shows how to adapt the Eclipse workflow to the nuances of each language, and integrate with Git for version control. By the end of the course, developers will be able to wield all of the most essential features in Eclipse with confidence.

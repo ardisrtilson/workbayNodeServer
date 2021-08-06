@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Goforth
+Course_ID=761959
+Course_System=linkedin.com
+Course_Title=Using Entity Framework Core with Legacy Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Not every development project starts from scratch. Often, you're rewriting applications to take advantage of different data sources, or to make connections to legacy data in more efficient ways. Entity Framework (EF) Core plays extremely well with existing databases, and it can generate some of the data-access code for you automatically. Using the practical techniques shown in this course, you can use EF Core with existing relational databases, and modify the generated code as necessary. Richard Goforth shows how to connect to a database, scaffold a model from it, and begin improving on that model. He uses shadow properties, concurrency tokens, and other techniques to best map a database to an application. No matter how untidy your tables and fields, EF Core will help you write clean, cross-platform code that is easy to maintain in the long run.

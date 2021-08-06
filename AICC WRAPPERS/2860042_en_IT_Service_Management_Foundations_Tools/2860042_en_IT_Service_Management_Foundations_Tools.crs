@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim Kerrigan
+Course_ID=2860042
+Course_System=linkedin.com
+Course_Title=IT Service Management Foundations: Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You understand ITSM and ITIL, but how do you make it standard operating procedure at your company? Instructor Jim Kerrigan teaches you about the top ITSM tools available and what to keep in mind when choosing and implementing them. First, Jim goes over which tools and considerations are covered in this course. He discusses which of the selected tools have notable features of accessibility. Knowing who changed what when is the basis of auditability, and Jim talks about which tools excel here. He explains which tools are most efficient. He shows you which tools have the best out-of-the-box functionality, then does the same for measurability. Jim describes which tools handle permission schemes well. He goes into which tools do best with out-of-the-box and custom reports. He discusses which tools preserve your configuration/customization work during upgrades. In conclusion, Jim covers where you can get more information on the tools surveyed in this course.

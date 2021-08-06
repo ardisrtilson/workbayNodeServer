@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Shander
+Course_ID=5005071
+Course_System=linkedin.com
+Course_Title=Learning Data Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Got a big idea? You need to get it across quickly and efficiently, or modern audiences will move on to the next story clamoring for their attention. Data visualization allows you to make the complex simple, the abstract tangible, and the invisible (data) visible with great illustrations. In this course, Bill Shander shows how to understand your data and your audience, craft the story you need to tell, and determine the best visual model and details to use for that story.

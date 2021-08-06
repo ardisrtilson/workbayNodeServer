@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=731746
+Course_System=linkedin.com
+Course_Title=Practical Linux for Network Engineers: Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux is a critical skill for network engineers. Many network operating systems use Linux, as do software-defined networking and DevOps tools such as OpenDaylight and Git. Don't get left behind. This course teaches Linux from the networking perspective, providing practical, hands-on lessons that are grounded in the fundamentals that network engineers need most. Learn Linux commands for interacting with the CLI. Find out how to configure Linux networking, create users, and assign permissions. Then discover how to build different types of virtual machines, including Ubuntu desktop and server VMs. Instructor David Bombal also helps you choose a Linux distribution and text editor, and then dives deeper into fundamental topics: file systems and the directory hierarchy; editing files and file-level permissions; and managing permissions and processes. Continue to Part 2 of the training series to learn more about setting up Linux services and software-defined networking. Note: This course uses GNS3 for all demonstrations.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2834038
+Course_System=linkedin.com
+Course_Title=Unity: Architectural Visualization Interactivity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want viewers of your architectural visualizations to be more than passive observers? In this course, discover how to enhance your visualizations by adding interactive elements in Unity. Instructor Alan Thorn provides a step-by-step workflow for configuring your architectural visualization scene and then adding a variety of interactive elements. Discover how to add doors users can open, teleportation points to expedite user travel, animated messages and notifications, camera controls, and more. Upon wrapping up this course, you'll be able to offer your viewers a glimpse of different scenarios and settings within the world you've created.

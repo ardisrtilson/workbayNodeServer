@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Khan
+Course_ID=2255009
+Course_System=linkedin.com
+Course_Title=Building a Website with Node.js and Express.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Node.js is a major platform for the web, used by companies like Uber, Netflix, and Intuit. Express.js is a fast, minimalist framework that sits on top of Node.js and allows you to build powerful single- and multi-page web applications and websites. In this course, instructor Daniel Khan shows how to build a realistic and robust website with these technologies. Learn how to build a basic application in minutes, transform HTML into dynamic pages, leverage template engines to modularize code, add routing and business logic, handle errors, store form data, and create API endpoints for single-page applications. Along the way, Daniel helps you pick up bits and pieces about Express.js and improve your overall knowledge of how to work effectively with Node.js.

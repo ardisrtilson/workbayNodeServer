@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Framework Tech, Mark Lassoff
+Course_ID=2882170
+Course_System=linkedin.com
+Course_Title=Build a Flashcard App with Vanilla JavaScript and Bootstrap
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re comfortable with the fundamentals of JavaScript and are looking to learn how different pieces of JavaScript fit together when building an actual working application, this hands-on project course is for you. Join instructor Mark Lassoff as he shows how to use Vanilla JavaScript, along with the Bootstrap library, to build a flashcard app. Mark starts by demoing the flashcard app, explaining all the functionality, then shows how to add each feature. By the end of the course, you’ll not only have a better understanding of JavaScript, but an app you can add to your portfolio. This course was created by Framework Tech. We are pleased to host this training in our library.

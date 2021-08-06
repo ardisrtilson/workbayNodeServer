@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brett Moffett
+Course_ID=777392
+Course_System=linkedin.com
+Course_Title=IT Service Desk: Monitoring and Metrics Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+IT service management (ITSM) metrics provide organizations with a detailed view of how their service desk is faring. Are they meeting their business goals and keeping their customers happy? It's all in the data. But determining which metrics to measure—and how those metrics will impact reporting—can be tricky. In this course, instructor Brett Moffett shares industry best practices on collecting ITSM metrics for the purpose of monitoring performance and customer satisfaction in a service-focused environment. Instead of focusing on specific ITSM software solutions or tools, Brett takes a platform-agnostic look at these tactics. He shows how to collect high-quality data points; ensure specific outcomes can be derived from your reporting; select which metrics to measure; and more.

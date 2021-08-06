@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=606082
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: User and Group Management (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+It's important for aspiring system administrators to have a handle on how to work with users accounts and groups to manage access to information. In this course, learn essential user and group management techniques and concepts involved in Linux administration, using Ubuntu. Instructor Scott Simpson explains how to create and modify user accounts and groups, configure and deploy pluggable authentication modules (PAM), and use LDAP for user authentication. He also covers authenticating clients with Kerberos. After reviewing these concepts, you'll be prepared to tackle the User and Group Management section of the LFCS exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=740353
+Course_System=linkedin.com
+Course_Title=Access 2019: Forms and Reports
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to best use forms and reports to control and organize the display of your data, as well as gather parameters for queries. Access expert Adam Wilbert starts with the basics of form design and discusses how to leverage controls such as buttons and links. He combines these ideas in a chapter that shows how to build an application-like framework for getting around a database. He then dives into reports, showing how to create efficient and readable layouts, build a report from a query, and use conditional formatting rules to highlight key takeaways from the data. Finally, Adam demonstrates how to link forms and reports as he steps through how to create a profit summary report.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Harmer
+Course_ID=383424
+Course_System=linkedin.com
+Course_Title=EPUB: CSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With HTML as the underpinning of every EPUB, CSS is the best and most flexible way to visually present your ebook exactly as you want. This course is an overview of CSS styling for EPUBs. Tony Harmer begins with the basics: what CSS is, how to write rules, and which selectors to use to target the individual elements of an EPUB. He then moves onto styling text and incorporating graphics. It all wraps up with a set of challenge and solution videos to test your learning, and some advanced skills to bring your EPUB to the next level. NOTE: The techniques shown are designed to help members create reflowable EPUBs with CSS 2.1. There is some CSS3 for creating fixed-layout EPUBs covered, but the majority of the tutorials concentrate on CSS 2.1.

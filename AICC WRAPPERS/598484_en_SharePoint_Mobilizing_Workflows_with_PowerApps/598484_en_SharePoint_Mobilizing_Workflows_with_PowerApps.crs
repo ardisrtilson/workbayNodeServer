@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=598484
+Course_System=linkedin.com
+Course_Title=SharePoint: Mobilizing Workflows with PowerApps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Access your existing SharePoint applications wherever you go by creating a PowerApp. In this course, Gini von Courter explains how to access the lists and workflows you've built in SharePoint on a mobile device or in a browser by creating a PowerApp. Gini covers topics such as how to create an app from SharePoint, how to package the app, and deployment to mobile devices. These techniques will work only for SharePoint and SharePoint Designer workflows, and not workflows created in Microsoft Flow.

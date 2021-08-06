@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=642462
+Course_System=linkedin.com
+Course_Title=SharePoint for Enterprise: Create a Wiki Reference Library
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create a company-wide information wiki, where you can control the various levels of access for creating and updating entries. In this course, Gini von Courter shows how large businesses can leverage SharePoint to create information-rich resources for the entire company. Topics include using the built-in Wiki Page Library app, adding content, styling pages, and configuring SharePoint permissions for creating and editing pages. Plus, learn how to deploy a full-scale enterprise wiki as a site collection.

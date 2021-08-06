@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=512735
+Course_System=linkedin.com
+Course_Title=Julia for Data Scientists First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a first look at Julia, the powerful and fast programming language for data science and analytics. Julia is growing quickly in popularity and many data science practitioners are interested in learning more. This fast-paced course provides a general introduction to the language's functionality, power, and limitations. Discover how Julia compares to C, R, and Python and how to call those languages in, how to format data with the different data types, how to perform math and vectorized operations, how to create expressions and run macros, and more. You can decide whether to incorporate Julia into your data science workflow or follow the next steps to learn more.

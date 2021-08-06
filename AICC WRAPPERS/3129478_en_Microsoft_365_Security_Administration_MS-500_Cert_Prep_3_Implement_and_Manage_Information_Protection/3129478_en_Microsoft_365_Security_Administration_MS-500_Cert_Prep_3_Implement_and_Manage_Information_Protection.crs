@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=3129478
+Course_System=linkedin.com
+Course_Title=Microsoft 365 Security Administration (MS-500) Cert Prep: 3 Implement and Manage Information Protection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cybersecurity skills are in high demand, and the Microsoft 365 Security Administration exam (MS-500) is the perfect opportunity for IT professionals to demonstrate their skills to current and future employers. This course, the third in a series that maps to the Microsoft 365 Security Administration exam, prepares students to excel in the Implement and Manage Information Protection domain on the MS-500 exam. Instructor Pete Zerger shows you how to implement and manage the Office 365 Customer Lockbox, configure data protection in Office 365 collaboration scenarios, and configure secure sharing with users outside of your organization. Pete explains how to plan, configure, and use sensitivity labels, including Azure Information Protection (AIP) deployment. He discusses how to plan a data loss prevention solution and manage DLP policies, sensitive information types, and DLP reports and notifications. Pete also steps through how to implement and manage Microsoft Cloud App Security (MCAS).

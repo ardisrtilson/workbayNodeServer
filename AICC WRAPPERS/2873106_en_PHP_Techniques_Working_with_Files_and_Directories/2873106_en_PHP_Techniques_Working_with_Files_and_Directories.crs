@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2873106
+Course_System=linkedin.com
+Course_Title=PHP Techniques: Working with Files and Directories
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having the knowledge for effectively working with files and directories is important for any programmer looking to go beyond the basics of PHP. With this course, Kevin Skoglund covers the important file skills for any PHP developer to have. He shows how to read from files, write to files, search directories, change permissions, and create forms so that remote users can upload files. He also shares some of his best practices and illustrates his lessons through code challenges you can follow along with, or just sit back and watch. After viewing Kevin’s course, you’ll be able to apply your new skills to your own projects.

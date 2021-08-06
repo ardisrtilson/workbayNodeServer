@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Troy Miles
+Course_ID=661770
+Course_System=linkedin.com
+Course_Title=C++ IDE Overview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a C++ developer, you spend 90% of your time in your IDE-the integrated development environment where you write, test, and debug code. Finding the right IDE is critical to being a productive programmer. This course helps you explore the options and find the right fit for your projects and coding style. Instructor Troy Miles reviews six popular choices: NetBeans, CodeLite, CLion, Eclipse, Xcode, and Visual Studio Community. Learn how to install each program, use the code editors, debug an app, and explore the project layout. Along the way, instructor Troy Miles explains each IDE's strengths and capabilities, including version control integration, GUI builders, syntax highlighting and code completion, refactoring, and more.

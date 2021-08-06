@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=383037
+Course_System=linkedin.com
+Course_Title=Adobe Animate CC: HTML5 Canvas and WebGL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+No longer restricted to only ActionScript and Flash Player, Flash Professional CC offers more publishing possibilities than ever before. Developers can now use Flash to build assets and animation that target platforms such as HTML5 Canvas and WebGL. And adding JavaScript allows for playback on just about any modern desktop or mobile device. This course focuses on using Flash Professional CC to create a shared pool of content for a set of related projects: an HTML5 video, an interactive ad, and a simple web-based game. Author Joseph Labrecque shows how to use Flash's familiar toolset to build and manage assets that fit into a modern web publishing workflow.

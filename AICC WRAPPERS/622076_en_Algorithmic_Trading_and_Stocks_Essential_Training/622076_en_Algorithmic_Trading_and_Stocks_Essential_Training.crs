@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael McDonald
+Course_ID=622076
+Course_System=linkedin.com
+Course_Title=Algorithmic Trading and Stocks Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many stock market trades are now conducted with algorithms: computer programs that buy or sell stocks according to mathematical formulas. These trades are conducted at a speed and frequency that is hard for humans to replicate. Therefore, it's important for finance professionals, and indeed everyone who invests in the stock market, to know how these algorithms work. This course shows how to develop a back-tested, rules-based trading strategy and program a simple trading algorithm of your own. Professor Michael McDonald provides a brief primer on securities markets. He explains how data helps investors forecast performance and automate trading. Then he moves into the practical steps: coming up with algorithmic trading rules and developing and testing an algorithm. Finally, he shows how the algorithm can be applied and eventually expanded to other securities. Anyone working in financial services, or interested in investing in the stock market, will be able to use these tutorials to understand and develop simple trading algorithms of their own.

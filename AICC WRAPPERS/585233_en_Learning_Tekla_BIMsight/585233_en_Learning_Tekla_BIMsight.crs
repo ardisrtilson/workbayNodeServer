@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thiago Santos Mundim
+Course_ID=585233
+Course_System=linkedin.com
+Course_Title=Learning Tekla BIMsight
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tekla BIMsight—a construction collaboration software from Trimble—can offer huge benefits for BIM projects by making it easier to combine models, check for clashes, and share information. In this course, Thiago Mundim offers a practical guide to using Tekla BIMsight. He covers the basics of creating and sharing projects, as well as how to add and manage documents. He also explains how to create redlines, measures, and notes; manage conflicts; and share your notes with other stakeholders.

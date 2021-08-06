@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Rivers
+Course_ID=2825727
+Course_System=linkedin.com
+Course_Title=Introduction to Cloud Computing for IT Pros
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud-computing services—like the ones offered by Microsoft, Google, and Amazon—take care of storage, backups, file synchronization, security, and all the other tasks that can take time and resources away from your core business. But how do you know if the cloud is the right choice for your organization? In this course, David Rivers explains the essentials of cloud computing—just for IT pros. He explores the benefits and drawbacks of cloud computing, including a candid look at balancing the sharing and privacy issues with the productivity gains of the cloud. He also reviews popular services, such as G Suite, Office 365, OneDrive, iCloud, Box.com, Asana, and Microsoft Teams. Plus, get tips to make a seamless move to the cloud and evaluate and fine-tune the performance of your services.

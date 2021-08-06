@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2825373
+Course_System=linkedin.com
+Course_Title=Cybersecurity Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Set a rock-solid foundation for your network, users, and data by learning about the basics of cybersecurity. Security expert Malcolm Shore describes how to assess and mitigate risks using various cybersecurity frameworks and control standards, such as NIST, COBIT 5, and the Payment Card Industry Data Security Standard (PCI DSS). Malcolm details pertinent cyber threats and how they operate, including how cyber criminals hide their attacks, how advanced persistent threats (APTs) work, and even how to determine what's real and what's merely cyber fear, uncertainty, and doubt (FUD). Throughout the course, he also covers managing cyber risk; selecting and applying controls; and the overall cybersecurity lifecycle, from managing defense to responding to cybersecurity incidents when they occur.

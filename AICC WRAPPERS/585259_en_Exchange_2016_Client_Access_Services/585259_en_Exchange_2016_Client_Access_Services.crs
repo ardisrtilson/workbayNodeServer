@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=585259
+Course_System=linkedin.com
+Course_Title=Exchange 2016: Client Access Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Find out how to configure client access, set up namespaces, manage mobility solutions, improve load balancing, troubleshoot connectivity, and make sites resilient. Scott Burrell shows how to set up and administer primary client access services in this course. He explains and demonstrates the step involved in planning namespaces, redirecting access, authenticating users, working with offline address books, managing certificates, and more. This course is also an exam preparation resource, as it covers the topics in the 70-345 exam—Exchange 2016: Client Access Services.

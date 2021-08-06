@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=791330
+Course_System=linkedin.com
+Course_Title=3ds Max and V-Ray: Residential Interior Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create beautiful residential interiors with custom materials built in 3ds Max, Substance Designer, and V-Ray. This training course is part three of instructor George Maestri's residential modeling series, which started in SketchUp with a concept drawing for a single-family home. Here, George explains how to furnish the interior of the home and create the materials needed to render the design. He shows how to create custom metal, wood, and fabric textures; tile patterns; add color and relief; and convert bitmaps into materials. Each material is brought back into the 3ds Max environment so you can see how the results look when applied directly to the model.

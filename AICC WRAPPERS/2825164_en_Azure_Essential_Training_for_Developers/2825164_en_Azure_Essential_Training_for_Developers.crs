@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adrienne Braganza Tacke
+Course_ID=2825164
+Course_System=linkedin.com
+Course_Title=Azure Essential Training for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The seemingly infinite number of paths you can take to learn Azure can be overwhelming. In this course, instructor Adrienne Braganza Tacke focuses on the fundamentals, covering what you—the developer—need to know to start building, deploying, and managing applications using the popular cloud platform. Adrienne provides a thorough look at the capabilities and offerings of the Azure ecosystem, from storage options to Kubernetes Service scaling strategies. Along the way, she provides the information you need to go for a deeper dive on the topics that most interest you. Whether you need to learn Azure for your job or you're just curious about how it stacks up against other ecosystems, this course can help you get started.

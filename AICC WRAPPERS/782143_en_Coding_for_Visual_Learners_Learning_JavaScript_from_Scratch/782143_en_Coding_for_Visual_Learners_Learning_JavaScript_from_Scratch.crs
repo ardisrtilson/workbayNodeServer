@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Engin Arslan
+Course_ID=782143
+Course_System=linkedin.com
+Course_Title=Coding for Visual Learners: Learning JavaScript from Scratch
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Completely new to coding? This engaging course can help you pick up the popular JavaScript programming language, as well as a programming library called p5.js. As instructor Engin Arslan steps through the basics of JavaScript—discussing everything from operators to arrays—he focuses primarily on programming using JavaScript and p5.js and secondarily on creating visuals. And in contrast to many traditional coding courses, all of the content covered here is presented in a fun, compelling manner that helps visual learners grasp the material. To wrap up the course, Engin shows how to use your new coding skills to build an interactive game that can be deployed online.

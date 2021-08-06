@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan McCauley
+Course_ID=2812529
+Course_System=linkedin.com
+Course_Title=Redshift Render Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use the rendering power of Redshift to improve your motion graphics workflow. In this course, mograph artist Ryan McCauley introduces C4D artists to this powerful rendering engine that plugs right into any production pipeline. Learn the basics of biased GPU rendering and the node-based workflow in Redshift. Discover how to use the tools and options in the real-time Renderview, control geometry, work with particle systems, and create your own materials and textures. Find out how to place and manipulate lights and cameras in a scene and output a final render. Plus, get useful troubleshooting and workflow tips to help your Redshift rendering—and integration with Cinema 4D—run smoother.

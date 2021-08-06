@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Winnie
+Course_ID=508646
+Course_System=linkedin.com
+Course_Title=Computer Science Principles Lab: C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C# is a versatile programming language used in many different ways. It powers many Windows and .NET apps for desktop, tablet, mobile, and web applications. Coders and programmers also use C# in cross-platform development, using Unity for games and using Xamarin for mobile apps. This course is designed to show how universal programming concepts specifically apply and work in the C# language. Programming expert Doug Winnie starts by sharing the history of C# to give you context into its purpose and beneficial uses. Then he walks through a sample of code showing how to run a program using the Visual Studio IDE. After warming up with a sample, he dives into working with values, variables, methods, and custom functions. Next, he shows how to capture values input by site users, managing different variable types, building compound conditional tests, and using loops with arrays. In the final five videos, he covers the basics of object-oriented programming including classes, objects, and permissions.

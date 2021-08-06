@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Russell Long
+Course_ID=585007
+Course_System=linkedin.com
+Course_Title=Cisco ICND2 Cert Prep: Infrastructure Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the Cisco CCNA Routing and Switching certification is a testament to your understanding of networking technologies. In this course, explore the infrastructure services offered by Cisco, and prepare for the infrastructure services portion of the Interconnecting Cisco Networking Devices Part 2 (ICND2) exam—one of two qualifying exams for the CCNA Routing and Switching certification. Instructor Russell Long covers the objectives for this portion of the exam, discussing some of the infrastructure services offered by Cisco, and demonstrating how to configure and troubleshoot many of these services. He covers the Hot Standby Routing Protocol (HSRP), cloud resources, access control lists (ACLs), and more.

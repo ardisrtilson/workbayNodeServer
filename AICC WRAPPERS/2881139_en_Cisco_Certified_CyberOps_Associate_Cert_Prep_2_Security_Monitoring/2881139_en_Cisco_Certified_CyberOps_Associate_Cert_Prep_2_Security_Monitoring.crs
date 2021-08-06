@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=2881139
+Course_System=linkedin.com
+Course_Title=Cisco Certified CyberOps Associate Cert Prep: 2 Security Monitoring
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Lisa Bock describes the various attacks that can occur on the network, along with ways malicious actors use methods such as tunneling and encryption to conceal their behavior. Learn how to recognize the importance of having application visibility and control to effectively monitor the network. Lisa shows you how to examine system data from tcpdump and NetFlow to help with analysis. Discover ways to limit data visibility from threat actors on the network, by using access control lists and network address translation. She then outlines how to assure trust on the network by using the Public Key Infrastructure (PKI). Finally, see how a trusted third party uses certificates to securely exchange session keys to all parties in a transaction. Along the way, Lisa provides practical challenges that let you put your new knowledge to the test.

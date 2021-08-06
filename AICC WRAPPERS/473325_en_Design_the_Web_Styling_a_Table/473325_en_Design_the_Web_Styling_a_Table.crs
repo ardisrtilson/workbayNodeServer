@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=473325
+Course_System=linkedin.com
+Course_Title=Design the Web: Styling a Table
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tables may be old school, but they're still a staple of web design. Learn how to make them look top-notch with a little CSS wizardry. Design the Web creator Chris Converse explains which table properties can be modified with CSS, and how to quickly change their visual style. He also shows how to add a background image, change the text color, and highlight rows. Plus, learn how to add animated hover states to the row elements, which allow users to quickly see related information in the table. The practice files are free to all members. Download them and get started designing the web today.

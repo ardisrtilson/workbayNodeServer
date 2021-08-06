@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rudolf Olah
+Course_ID=2822478
+Course_System=linkedin.com
+Course_Title=Securing Django Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The protection of user privacy and data is a clear mandate for business success. In this course, learn how to protect your Django web app using essential security and authentication measures. Using a sample project—a pre-built Django web app and a REST API for that web app—instructor Rudolf Olah shows how to add code that keeps your app safe from cyberattacks. Discover how to add SMS two-factor authentication, set up per-object permissions, and leverage per-group permissions to allow groups of users to access, modify, and delete data. Plus, learn how to create audit logs for compliance, implement zero-knowledge encryption, write a unit test to ensure that server data is fully encrypted for a user, and more.

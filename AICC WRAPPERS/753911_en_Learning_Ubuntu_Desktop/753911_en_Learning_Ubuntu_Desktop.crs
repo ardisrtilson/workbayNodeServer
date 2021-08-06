@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=753911
+Course_System=linkedin.com
+Course_Title=Learning Ubuntu Desktop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux is a popular and completely free operating system for desktop computers. It's an alternative to Mac or Windows, which can run right alongside them in a virtual machine. In this course, LinkedIn instructor Scott Simpson shows you how to install and make your way around the desktop edition of Ubuntu 18.04 (Bionic Beaver), one of the most user-friendly Linux distributions. Learn how to install Ubuntu on a virtual machine or directly on your computer and start performing common tasks: working with files, listening to music, editing photos, backing up your data, and sharing files with other users. For users that are interested in going a little further with Linux, Scott also introduces how to use the command line. Whether you're considering switching from Mac or Windows, or see your company migrating that way, this course will help you get up and running with Linux fast.

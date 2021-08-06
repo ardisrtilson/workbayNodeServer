@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Khaulat Abdulhakeem
+Course_ID=2864005
+Course_System=linkedin.com
+Course_Title=Reinforcement Learning Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Innovations in finance, health, robotics, and a variety of other sectors have been made possible with reinforcement learning (RL), which involves the training of machines to learn from their environment. Many top tech companies are investing heavily in this field. In this course, instructor Khaulat Abdulhakeem helps you learn the basics of this relatively new, but valuable skill. Get to know the key terminology used in RL, how RL plays a major role in the advancement of AI, and the kinds of problems you can use RL to solve. Khaulat shows you how to define and represent reinforcement learning problems. She also delves into RL algorithms, including the Monte Carlo and temporal difference methods. Plus, she explores deep and multi-agent RL, as well as how inverse learning works and how it can help agents learn by imitation.

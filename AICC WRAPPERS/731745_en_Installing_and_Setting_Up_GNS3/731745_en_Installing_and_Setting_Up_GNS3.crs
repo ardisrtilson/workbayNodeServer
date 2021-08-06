@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=731745
+Course_System=linkedin.com
+Course_Title=Installing and Setting Up GNS3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GNS3—a popular network emulator—can seem intimidating at first. This concise course helps you get acquainted with GNS3 by stepping through how to install and set up GNS3 version 2.1 on a Windows 10 PC. Explore the two main components GNS3 users should be aware of—the GNS3 graphical user interface (GUI) and the GNS3 virtual machine (VM). Learn how to get a basic network up and running; discover how to approach advanced switching with GNS3 and use Cisco VIRL images; familiarize yourself with GNS3 VM and VMware 14.0 issues; and more. Note: This course uses GNS3 for all demonstrations.

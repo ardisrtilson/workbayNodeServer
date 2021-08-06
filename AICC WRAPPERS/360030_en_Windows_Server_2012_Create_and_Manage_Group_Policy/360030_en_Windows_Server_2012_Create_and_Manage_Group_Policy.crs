@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Timothy Pintello
+Course_ID=360030
+Course_System=linkedin.com
+Course_Title=Windows Server 2012: Create and Manage Group Policy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Join Timothy Pintello for an introduction to creating and managing group policies on a Windows network. Timothy defines what the Group Policy feature and Group Policy objects (GPO) are: mechanisms for restricting access to computers, files, and software on your network. He'll introduce the tools you'll need to edit and create policies, and show how to set up a basic audit policy and place restrictions on software. Finally, Timothy will show how to create, activate, and modify rules for Windows Firewall.

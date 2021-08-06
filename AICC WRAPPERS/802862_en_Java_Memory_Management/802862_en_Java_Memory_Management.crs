@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Greencroft
+Course_ID=802862
+Course_System=linkedin.com
+Course_Title=Java Memory Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By taking the time to learn how memory works in Java, you can avoid introducing problems in your code, as well as more effectively find and fix any memory errors that still occur. In this hands-on course, join instructor Matt Greencroft as he details how memory works in Java. Matt goes over essential concepts such as the roles of the stack and the heap, escaping references, garbage collection, detecting soft leaks, and more. Plus, he lends a real-world context to these concepts by demonstrating how to hunt for—and fix—a memory leak in a sample Java web application. While Matt works with Eclipse and Java 8 throughout the course, the material he covers is valid for any IDE and Java 6 and above.

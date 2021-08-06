@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2822410
+Course_System=linkedin.com
+Course_Title=Spring: Framework in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Spring is an application framework and inversion-of-control (IOC) container for the Java platform. The framework's core features can be used by any Java application and are ideal for enterprise and internet-based app development. Get a comprehensive overview of Spring in this intermediate-level course with software architect Frank Moley. Frank develops applications and web services with Spring, and shares what he knows about configuring the ApplicationContext (the interface for accessing components, loading files, publishing events, and more), as well as the beans (objects within the Spring IOC container). He demonstrates a modern Java configuration workflow and explores the Spring lifecycle in depth, so you can extend the framework and better troubleshoot any issues you have with your applications. Plus, learn how to use aspect-oriented programming to add behaviors to your apps in a reusable way.

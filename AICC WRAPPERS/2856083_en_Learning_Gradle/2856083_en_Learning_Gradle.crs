@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Benjamin Muschko
+Course_ID=2856083
+Course_System=linkedin.com
+Course_Title=Learning Gradle
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Busy developers need ways to automate! This course teaches core concepts and building blocks of using Gradle, an open-source build automation tool. Learn how to install Gradle on your machine and explore how to use its functionality. Instructor Benjamin Muschko walks you through how to define build logic in Gradle, how to equip a project with the Gradle Wrapper, how to use Gradle support in IntelliJ IDEA, and how to define and configure a task. See how Gradle runs tasks based on your command. Learn the three phases of build execution in Gradle. Go over how to locate and apply plugins. Discover how to tie back a build script element to the underlying documentation and how to create a new task that creates a compressed TAR file. Round out the course with a brief overview on helpful tooling and gain insights from taking a deeper look a Gradle build. After working through this course, you'll be able to implement and execute build logic with Gradle.

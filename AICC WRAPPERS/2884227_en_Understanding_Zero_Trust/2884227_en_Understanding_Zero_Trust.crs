@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2884227
+Course_System=linkedin.com
+Course_Title=Understanding Zero Trust
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The traditional model of a firewalled enterprise separating trusted insiders from untrusted outsiders worked effectively for years, but it’s no longer a viable option in today’s world. Workers working remotely, insider threats, and attackers taking advantage of trust between internal systems—these demand a new approach to extending protection to all users and their devices, regardless of their location. In this course, Malcolm Shore shows how to better protect your networks and systems by adopting what’s known as a zero trust approach to access control—removing trust relationships in networks and requiring that trust decisions are made at the time that access is requested. Malcom starts with a brief history of the concept of software trust, before moving onto key facets of the zero trust approach, the reasons for wanting to minimize trust relationships in network architectures, and the tenets and models that have been proposed for zero trust.

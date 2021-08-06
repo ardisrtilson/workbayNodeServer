@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=769282
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Utilities Suite
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to take advantage of SOLIDWORKS Utilities, a set of tools that allow you to examine in detail the geometry of a solid model and make comparisons to other models. In this course, instructor David Antanavige walks through how to work with the different features in this suite. Learn how to use Geometry Analysis, Report Manager, Thickness Analysis, the Compare utility, and more. Upon wrapping up this course, you’ll be ready to start leveraging these tools to enhance your designs in SOLIDWORKS.

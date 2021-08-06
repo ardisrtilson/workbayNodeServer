@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Taylor Hokanson
+Course_ID=2811716
+Course_System=linkedin.com
+Course_Title=Learning PCB Design with EAGLE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As products get smarter—and as the Internet of Things (IoT) becomes more a part of everyday life—electronic components are more commonplace in product design and prototyping. In this course, learn how to prepare electronic schematics for fabrication as printed circuit boards (PCBs) using the EAGLE PCB layout software from Autodesk. Instructor Taylor Hokanson shows how to design a circuit in schematic view and translate it to a physical PCB design. He also shows how to prepare the board for manufacturing by examining your design for errors and warnings.

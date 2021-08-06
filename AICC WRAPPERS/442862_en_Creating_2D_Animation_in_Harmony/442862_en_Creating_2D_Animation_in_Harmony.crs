@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dermot O' Connor
+Course_ID=442862
+Course_System=linkedin.com
+Course_Title=Creating 2D Animation in Harmony
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Nowadays, the best of classic animation techniques and modern tools have come together. You can draw, color, and animate using traditional methods while taking advantage of the digital conveniences found in Harmony. In this course, Dermot O'Connor shows how to use Harmony features to animate a basic walk sequence. He demonstrates how to make organic lines and how to draw the extremes and in-betweens, while testing poses. He also takes you through rolling, flipping, and frame rates, so you can observe how timing and spacing impacts the pace of the animation and the personality of the character.

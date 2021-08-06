@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Irene Radcliffe
+Course_ID=545695
+Course_System=linkedin.com
+Course_Title=AutoCAD P&ID Essential Training: Administrator
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The P&ID software from AutoCAD gives you the ability to create, edit, and validate piping and instrumentation design information with AutoCAD-based editing tools. In this course, learn how to set up, customize, and maintain a piping and instrumentation project with this powerful program. Join Irene Radcliffe as she explains how to create and customize a new project, navigate a standard project structure, and add classes and custom properties to build a project symbol library. Irene also shares how to create custom component tags and annotations, modify existing symbols, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2895085
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Manage Access and Authentication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In today’s complex computing environment, you need more than simple on-premises solutions. Microsoft 365 helps move networking solutions out to the cloud. A successful Microsoft 365 Enterprise Administrator needs to know how to plan, implement, and manage access and authentication. In this course, instructor Ed Liberman details how to manage authentication, plan and implement secure access, and configure application access in Microsoft 365. This course also maps to the corresponding domain of the exam MS-100: Microsoft 365 Identity and Services.

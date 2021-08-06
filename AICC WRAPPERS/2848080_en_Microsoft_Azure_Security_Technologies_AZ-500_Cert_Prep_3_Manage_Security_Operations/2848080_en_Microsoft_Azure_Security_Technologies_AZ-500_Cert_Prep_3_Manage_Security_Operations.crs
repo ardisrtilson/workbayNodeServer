@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=2848080
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Security Technologies (AZ-500) Cert Prep: 3 Manage Security Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cybersecurity skills are in high demand, and the Microsoft Azure Security Technologies (AZ-500) exam is a great opportunity for IT professionals to showcase their skills to current and future employers. In this course, Pete Zerger helps prepare test takers to excel in the Managing Security Operations domain of the AZ-500 exam. Pete provides end-to-end coverage of each of the exam objectives for this domain, providing hands-on demonstrations along the way. Learn how to configure diagnostic logging and log retention, configure centralized policy management using Azure Security Center, configure a playbook for a security event using Azure Sentinel, create and customize alerts to deliver timely notification of important changes and events in your Azure subscription, and more.

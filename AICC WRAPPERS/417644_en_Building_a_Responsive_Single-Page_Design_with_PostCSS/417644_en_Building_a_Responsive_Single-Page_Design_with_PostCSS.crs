@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=417644
+Course_System=linkedin.com
+Course_Title=Building a Responsive Single-Page Design with PostCSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create responsive single-page websites with PostCSS, the CSS post-processor engine that extends the power of CSS through JavaScript. These step-by-step instructions take existing HTML markup and add style, animation, and responsive navigation. This combination allows for dynamic one-page sites—a popular design that's now even faster and easier to create with PostCSS. Along the way, Ray Villalobos introduces some handy plugins, tips for integrating PostCSS into a Gulp-based workflow, and techniques for making layouts more responsive with Flexbox.

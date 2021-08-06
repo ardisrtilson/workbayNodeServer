@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=2822379
+Course_System=linkedin.com
+Course_Title=Certified Kubernetes Administrator (CKA) Cert Prep: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kubernetes adoption is exploding; certification is the best way to establish your credibility and value in today's competitive job market. Certified Kubernetes Administrator (CKA) is the most popular options available. This credential—offered by the Linux Foundation—is among the most esteemed certifications for DevOps engineers and IT professionals who are developing and supporting cloud-native applications for Kubernetes. In this course, you can explore the benefits of CKA certification and the topics covered in each of the exam's ten domains. Instructor David Davis also provides study tips to help you be more effective at this proctored, performance-based exam. Learn more about the CKA certification at https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/.

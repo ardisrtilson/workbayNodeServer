@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=743148
+Course_System=linkedin.com
+Course_Title=SharePoint for Enterprise: Site Owners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Site owners can oversee one or more sites on an enterprise solution in SharePoint. Their responsibilities include setting permissions for site access, managing site libraries, and optimizing site functions, features, and information across multiple sites. Watch this course to learn how to successfully perform the role of a site owner, even if you have no previous SharePoint experience. Bill Kulterman takes you through the finer points of permissions, creating lists and libraries, enabling versioning and checkout, and even creating subsites.

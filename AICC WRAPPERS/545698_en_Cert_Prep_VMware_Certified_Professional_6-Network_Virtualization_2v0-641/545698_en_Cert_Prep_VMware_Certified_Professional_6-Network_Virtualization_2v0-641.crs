@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Ferguson
+Course_ID=545698
+Course_System=linkedin.com
+Course_Title=Cert Prep: VMware Certified Professional 6-Network Virtualization (2v0-641)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As organizations shift from traditional network architecture to software-defined networks, system administrators must stay familiar with various platforms. This course explains what VMware NSX is and how it can be used to establish a software-based datacenter. Learn how creating a logical network makes microsegmentation of security possible, to control data and networked application security separately. Because this type of control and security is transforming networking as we know it and is the future of networking, this course demonstrates how to configure, administer, and troubleshoot networks, network services, and virtual environments.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=J. David Eisenberg
+Course_ID=2823028
+Course_System=linkedin.com
+Course_Title=ReasonML: First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Adding type annotations to JavaScript using TypeScript or similar tools can help with basic debugging, but types have much more to offer. ReasonML—a new syntax for OCaml that compiles to JavaScript—offers advanced developers new possibilities for greater readability, performance, and maintainability of code. ReasonML brings the strong typing and functional style of OCaml to the web in a syntax that’s familiar to JavaScript developers. In this course, join instructor J. David Eisenberg as he details the most salient features of ReasonML. Explore fundamental concepts, including the built-in ReasonML data types and pattern matching. Learn about the ReasonML type system, defining your own data types, and the power of type inference—which lets you write code without having to manually specify types. Plus, take a look at how JavaScript and ReasonML interoperate as you create a ReasonReact project.

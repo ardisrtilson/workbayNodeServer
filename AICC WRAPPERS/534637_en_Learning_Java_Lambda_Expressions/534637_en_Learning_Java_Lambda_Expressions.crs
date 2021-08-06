@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=534637
+Course_System=linkedin.com
+Course_Title=Learning Java Lambda Expressions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A lambda expression is a clear and concise way to represent a one method interface. Lambda expressions can be used as method arguments or to iterate, filter, and extract data from a collection. This course explores Oracle's Java 8 specification for lambda expressions, and the syntax and use cases for using lambdas with collections, streams, and maps. Staff instructor and Java expert Peggy Fisher also introduces techniques for programming functional interfaces in Java.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Corey Koberg
+Course_ID=2243055
+Course_System=linkedin.com
+Course_Title=Learning Google Tag Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Tag Manager is a hugely popular technology that allows marketers to easily manage all their website and app tags from one central tool. This, in turn, frees marketers from their dependency on IT or web development departments—when they want to add or alter a snippet of analytics or tracking code, they can do it themselves by adding it to the existing tag container. This course shows marketers how to effectively leverage Google Tag Manager. Discover how to best work with accounts and containers, leverage the Google Analytics built-in tags, work with control versions and user access, create custom variables and JavaScript, fire Google Analytics events using triggers, and more. Plus, discover crucial time-saving best practices that will help you avoid many common mistakes.

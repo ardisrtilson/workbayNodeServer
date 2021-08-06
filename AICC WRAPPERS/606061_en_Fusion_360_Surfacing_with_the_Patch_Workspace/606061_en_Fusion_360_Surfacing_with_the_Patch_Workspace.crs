@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jomarc Baquiran
+Course_ID=606061
+Course_System=linkedin.com
+Course_Title=Fusion 360: Surfacing with the Patch Workspace
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Patch workspace in Autodesk Fusion 360 is designed specifically for working with surfaces. This environment is ideal for building complex, organic shapes and water-tight solid bodies. In this course, Jomarc Baquiran teaches you how to use the Fusion 360 surfacing toolset to design real-world products. Learn by example as he creates two plastic bottles that showcase the practical application of surfaces. Discover the strengths and limitations of the surface geometry, and learn how to manipulate bodies with the Patch workspace's Extrude, Trim, Extend, Stitch, and Merge commands. Plus, learn how to add realistic detail and create a presentation-worthy render of your surface-based product design.

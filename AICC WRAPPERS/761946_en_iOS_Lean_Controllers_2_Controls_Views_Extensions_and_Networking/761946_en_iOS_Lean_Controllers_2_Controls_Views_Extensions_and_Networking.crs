@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mohammad Azam
+Course_ID=761946
+Course_System=linkedin.com
+Course_Title=iOS Lean Controllers: 2 Controls, Views, Extensions, and Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create custom controls when developing iOS applications. This course covers how to handle data providers and data sources, how to improve UI segues, and how to effectively leverage extensions. First, learn about challenges that are encountered when working with common controls. Next, find out how to overcome these challenges by creating custom controls that can successfully pass data using delegates and closures. Then, see how to populate data into the views. Discover how to build better transitions between views using extensions, and explore several protocol extensions. Finally, learn how to build extensions for UI buttons and layouts.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=2820167
+Course_System=linkedin.com
+Course_Title=AWS Infrastructure as Code for Software Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Traditionally, working with infrastructure in the cloud requires knowledge of domain-specific languages such as Terraform, network infrastructure, operating systems, and more. AWS Cloud Development Kit (CDK) simplifies this process for developers, allowing them to leverage their existing programming skills to deploy infrastructure. In this course, join Carlos Rivas as he explores a real-world architecture and shows how to write the code to deploy it using AWS CDK and Python. Carlos helps to familiarize you with the basics of working with CDK, as well as how to set it up and create your first CDK project. He then covers how to implement networking, validate your deployed subnets, use the CDK packages for load balancing, verify that everything is up and running in your deployment, and more.

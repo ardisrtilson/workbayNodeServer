@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=604250
+Course_System=linkedin.com
+Course_Title=Exchange 2016: Transport Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Business professionals send billions of emails every day. In this course, explore transport services in Microsoft Exchange Server 2016, and learn skills and techniques that can help you ensure that your organization's emails are delivered properly. This course maps to the third domain of Exam 70-345, Designing and Deploying Microsoft Exchange Server 2016—Plan, deploy, manage, and troubleshoot transport services. Scott Burrell walks through how to plan and configure transport and routing, goes into the role of an Edge Transport server in an Exchange organization, and discusses high availability and site resiliency. Plus, he covers message security, discussing antispam solutions, filtering, and more.

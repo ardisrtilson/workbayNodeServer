@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anthony Sequeira
+Course_ID=2281184
+Course_System=linkedin.com
+Course_Title=Learning Ansible
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ansible is a popular open-source tool that provides automation, configuration management, and orchestration all in one. In this course, Anthony Sequeira introduces Ansible and explains the many reasons system administrators and DevOps engineers choose Ansible as part of their IT toolkit. Learn how to install Ansible in different environments and work with hosts, variables, code, and playbooks. Practice your new deployment and playbook writing skills with the chapter challenges. Anthony then reviews six different use cases for Ansible, from remote management to orchestration and fleet automation. These practical examples help you see how Ansible can solve a variety of real-world challenges—while saving a ton of valuable time.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=120906
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Creating Explosions with 3D Layers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual effects (VFX) can add destruction to a scene without causing real-world damage. Learn to destroy a building with a fireball, using an After Effects 3D environment, Maya dynamic simulations, and matte painted elements. Author Lee Lanier shows you how to convert video footage into 3D layers, adapt stock footage effects, add and improve Maya particle and rigid body renders, and integrate static artwork to inflict realistic damage to an old-world castle.

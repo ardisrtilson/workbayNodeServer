@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kendra Havens, Scott Hanselman, Microsoft .NET
+Course_ID=2874219
+Course_System=linkedin.com
+Course_Title=Introducing .NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+.NET is an open-source development platform, a collection of languages and libraries that can work together to build all kinds of applications. In this course, Scott Hanselman and Kendra Havens introduce you to .NET Core and walk you through how to build your first app. First, Scott and Kendra show you how to install the .NET software development kit (SDK) and how to install Visual Studio. Next, they teach you how to say Hello World with C#. They step you through some basics of Visual Studio and debugging. Next, they cover how to add a class library to your executable program. Kendra and Scott explore NuGet, a .NET package manager that lets you pull in code from other community members and use it in your programs. They go over how to write some unit tests in C# and run them with the Visual Studio Test Explorer. In conclusion, they demonstrate how to publish your app to Windows and to Linux. This course was created by Microsoft.NET. We are pleased to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chad Chelius
+Course_ID=435134
+Course_System=linkedin.com
+Course_Title=Creating an InDesign Booklet Using XML
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Long documents can be difficult to design, but long, data-heavy documents are particularly daunting. Companies that produce directories, glossaries, and catalogs often choose to design them manually, copying and pasting content into an InDesign layout. But there's a better way. With InDesign and XML, your data-heavy designs can be almost effortless. By setting up an InDesign document with the correct tags, you can import XML data so that it flows into the document already formatted. In these tutorials, Chad Chelius explains what XML is and then walks through the entire process in InDesign, from setting up the document and tagging the content, to cleaning the data and fine-tuning the layout. He also offers tips for saving your work in an InDesign template, to regenerate directories when new entries are added, update catalogs seasonally, etc. By the end of the course, you should be able to use this workflow to speed up data-heavy design jobs, big and small.

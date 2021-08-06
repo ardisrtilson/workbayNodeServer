@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Harrington
+Course_ID=490800
+Course_System=linkedin.com
+Course_Title=Premiere Pro Guru: LUTs and Look Files
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Lookup tables (LUTs) and look files provide precise formulas for color correction. You can recover details, shadows, and highlights and match specific color spaces, and easily share settings with colleagues. So how do LUTs and looks complement your workflow? In this course, author Richard Harrington walks you through what LUTs and looks are, how they save time, how they make collaboration with others easier, and how to use them in Adobe Premiere Pro. Learn how to apply corrective and creative color corrections, build your own custom LUTs, and share LUTs between other Creative Cloud applications and third-party software. Rich also shows how to manage LUTs in Premiere Pro and exchange LUTs with After Effects.

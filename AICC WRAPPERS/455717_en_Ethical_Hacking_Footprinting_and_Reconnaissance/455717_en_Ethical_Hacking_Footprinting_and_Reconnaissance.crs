@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=455717
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Footprinting and Reconnaissance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you watched our Introduction to Ethical Hacking course, you know the basics of ethical hacking. Ethical hackers use their knowledge for good: to test if an organization's network is vulnerable to outside attacks. But where do they start? With footprinting (aka reconnaissance), the process of gathering information about computers and the people to which they belong. In this course, Lisa Bock introduces the concepts, tools, and techniques behind footprinting: finding related websites, determining OS and location information, identifying users through social media and financial services, tracking email, and more. Footprinting relies on tools as simple as a web search and dumpster diving, and as complex as DNS interrogation and traceroute analysis. Lisa shows how to put these nefarious sounding tools to work for good, and mitigate any risks an organization has to these types of attacks. Note: Our Ethical Hacking series maps to the EC-Council's certification exam. This course maps to the 02 Footprinting and Reconnaissance domain.

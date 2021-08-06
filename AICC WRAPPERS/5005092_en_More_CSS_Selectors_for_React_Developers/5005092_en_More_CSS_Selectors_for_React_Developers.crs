@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Greene
+Course_ID=5005092
+Course_System=linkedin.com
+Course_Title=More CSS Selectors for React Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Continue to bolster your CSS skill set. In this course–the second in a series of two courses on CSS selectors—instructor Eric Greene teaches React developers about more advanced CSS selector possibilities, including selector combinators, pseudo-element selectors, and more. Eric digs into how to use custom selectors and explores cascading and selector specificity. Plus, he goes over some best practices for working with selectors. Note: This course was created by Wintellect. We are pleased to host this training in our library.

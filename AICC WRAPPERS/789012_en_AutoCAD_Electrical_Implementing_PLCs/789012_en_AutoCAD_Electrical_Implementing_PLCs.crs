@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=789012
+Course_System=linkedin.com
+Course_Title=AutoCAD Electrical: Implementing PLCs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programmable Logic Controllers (PLCs) are one of the building blocks of industrial automation. These industrial devices can be used to automate actions within an electrical circuit. In this course, Shaun Bryant shows how to work with PLCs in AutoCAD Electrical, stepping through how to generate drawings that contain PLCs. After providing a brief introduction to industrial automation—and how PLCs fit into the mix—Shaun steps through how to insert a proprietary PLC module into a wiring ladder in an electrical drawing. He then dives into the different types of PLC modules in AutoCAD Electrical, going over both parametric and full unit PLC modules. Discover where PLCs integrate into an electrical system, as well as how to use spreadsheets to exchange information with other systems.

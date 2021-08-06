@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Johno Ellison
+Course_ID=2281182
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: 3D Printed Product Enclosure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Product enclosures define the shape and feel of an electronic product. In this course, learn how to design a 3D-printable enclosure for electronic components using SOLIDWORKS, the premier product-design software. Instructor Johno Ellison kicks off the course by reviewing the basics of 3D modeling. Johno steps through how to use key SOLIDWORKS functions such as Extrude, Offset, and Shell to create the enclosure using a printed circuit board (PCB) design as a reference. He then demonstrates how to add a few final details, such as how to use fillets to make your enclosure more visually appealing and customize your model with the Text tool. To wrap up, he details how to export your model for 3D printing and use SOLIDWORKS to create a high-quality rendering of your model.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gordon Luckett
+Course_ID=2880019
+Course_System=linkedin.com
+Course_Title=Learning MapGuide Open Source
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MapGuide Open Source is a free, web-based platform for creating and publishing web-mapping applications and geospatial web services. In this course, Gordon Luckett shows how to get up and running with MapGuide and create your own maps. Gordon explains how to install and configure MapGuide, load data in a range of formats and sources, and create stylish layers and combine them into maps. He also details the process for publishing your map to the web, including tips for navigating firewalls, and how to create short URLs for easier user access.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=731747
+Course_System=linkedin.com
+Course_Title=Practical Linux for Network Engineers: Part 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux is a critical skill for network engineers. Many network operating systems use Linux, as do software-defined networking and DevOps tools such as OpenDaylight and Git. Don't get left behind. Practical Linux series teaches Linux from the network engineer's perspective, providing practical, hands-on lessons on Linux fundamentals. This course, part two, shows how to set up vital Linux services for file transfer and networking, and how to configure a software-defined network (SDN) to centralize and automate network provisioning and maintenance. Learn how to configure and run TFTP, DNS, and DHCP servers; use Linux switches; and set up an SDN with Docker containers, OpenFlow vSwitch virtual switches, OpenDaylight, and the OpenFlow network communication protocol. Note: This course uses GNS3 for all demonstrations.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2864295
+Course_System=linkedin.com
+Course_Title=Cert Prep: Unity Certified Associate Game Developer UI and 2D Games
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Got a great idea for a 2D game? In this course, explore the fundamentals of user interfaces, animation, and level design in Unity as you learn how to create a 2D game of your own. The concepts covered in this course can also help you prepare to tackle the sections of the Unity Certified Associate: Game Developer exam that focus on user interfaces and 2D gaming. Instructor Alan Thorn covers the basics of creating a user interface, explaining how to make labels and buttons that allow users to interact with your scenes. He also goes into the fundamentals of creating sprite animations, configuring your 2D world, and working with 2D tiles.

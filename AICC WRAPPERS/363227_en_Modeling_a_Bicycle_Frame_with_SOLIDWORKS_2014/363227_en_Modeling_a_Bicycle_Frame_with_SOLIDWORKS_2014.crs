@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Leon van den Heever
+Course_ID=363227
+Course_System=linkedin.com
+Course_Title=Modeling a Bicycle Frame with SOLIDWORKS 2014
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With this fast-paced and advanced SOLIDWORKS 2014 course, Leon van den Heever shows how to model the front triangle section of a bicycle frame, using the Loft, Fill, Sweep, Trim, and Knit commands. Learn how to sketch the path profiles, extrude them to get your basic tube shapes, trim the tubes into sections, use Loft and Fill to create transitions between the parts, and, finally, merge and solidify the faces of the model.

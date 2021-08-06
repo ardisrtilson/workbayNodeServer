@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Marjieh
+Course_ID=639061
+Course_System=linkedin.com
+Course_Title=CATIA V5: Surfacing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CATIA is a world-class 3D software that incorporates computer-aided design (CAD), computer-aided manufacturing (CAM), and computer-aided engineering (CAE) capabilities. In this course, get up to speed with CATIA V5 by learning how to work with surfaces using this powerful tool. Learn about the basic surface creation tools like extruded and revolved surfaces, as well as offset, sweep, and fill operations. Plus, discover how to join, split, and trim surfaces, and how to verify that your surfaces are built cleanly using the Connect Checker.

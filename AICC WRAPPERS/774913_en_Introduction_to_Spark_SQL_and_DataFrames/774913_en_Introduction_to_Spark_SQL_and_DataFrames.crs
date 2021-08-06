@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=774913
+Course_System=linkedin.com
+Course_Title=Introduction to Spark SQL and DataFrames
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore DataFrames, a widely used data structure in Apache Spark. DataFrames allow Spark developers to perform common data operations, such as filtering and aggregation, as well as advanced data analysis on large collections of distributed data. With the addition of Spark SQL, developers have access to an even more popular and powerful query language than the built-in DataFrames API. In this course, instructor Dan Sullivan shows how to perform basic operations—loading, filtering, and aggregating data in DataFrames—with the API and SQL, as well as more advanced techniques that are easily performed in SQL. In this section of the course, Dan explains how to join data, eliminate duplicates, and deal with null or NA values. The lessons conclude with three in-depth examples of using DataFrames for data science: exploratory data analysis, time series analysis, and machine learning.

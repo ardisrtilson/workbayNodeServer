@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Victor Mejia
+Course_ID=2871173
+Course_System=linkedin.com
+Course_Title=Learning the Angular CLI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Angular command-line interface (CLI) is the recommended utility for building and maintaining Angular applications. Understanding what it provides—and how to make the most of its features—can set you up for maximum development productivity with Angular. In this course, learn how the Angular CLI is designed to not only help with creating new Angular projects, but also how it takes care of the application-build workflow and testing. Instructor Victor Mejia covers creating new projects, customizing the development server, generating Angular application code, running tests, and more. Plus, he shares real-world scenarios that can help you develop a more practical understanding of how to use the CLI. By the end of this course, you'll have the knowledge you need to use the Angular CLI as a core tool in your Angular application development workflow.

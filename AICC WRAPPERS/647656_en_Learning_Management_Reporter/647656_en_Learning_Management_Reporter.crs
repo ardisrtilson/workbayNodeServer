@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Renato Bellu
+Course_ID=647656
+Course_System=linkedin.com
+Course_Title=Learning Management Reporter
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to use Microsoft Management Reporter, the interactive reporting application for creating, maintaining, and deploying financial statements, to automate and simplify your reporting from Dynamics GP. Instructor Renato Bellu begins by showing how to start a new report using building blocks and row, column, and tree definitions. Next, he digs deeper into row and column definitions, demonstrating how to customize reports based on a number of variables. Finally, he shows how to adjust report output with page setup and rounding options, implement security with users and groups, and publish reports in a variety of ways, depending on your organization's needs.

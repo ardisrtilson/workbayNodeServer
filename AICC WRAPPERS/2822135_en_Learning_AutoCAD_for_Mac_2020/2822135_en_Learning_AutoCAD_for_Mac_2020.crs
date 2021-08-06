@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim LaPier
+Course_ID=2822135
+Course_System=linkedin.com
+Course_Title=Learning AutoCAD for Mac 2020
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore AutoCAD for Mac, the professional computer-aided design (CAD) application that can run natively on Apple computers. In this course, author Jim LaPier demonstrates the basics of AutoCAD for Mac including the interface, file management, and toolsets. Jim shows you how to create and modify 2D geometry, work with layers, add dimensions, add annotations, and plot drawings. He also explores how to work with layouts and advanced objects such as blocks and underlays, and demonstrates the basics of 3D.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2803031
+Course_System=linkedin.com
+Course_Title=Learning Max for Ableton Live
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want to experiment with sound and synthesis? In this course, instructor Emmanuel Henri shows you how to extend your compositions in Ableton Live by using the Max programming environment. Emmanuel gives an overview of what Max is and how it extends the Ableton Live application. He explores instrument options in the Max library, as well as MIDI effects and audio effects in the Max API. Emmanuel walks you through the Max programming interface, how to construct Max scripts, and how to add and test Max patches. In case you run into snags, he covers online documentation for Max and community-created patches for Max, then concludes with an introduction to NodeJS for Max. Note: This course was created by Emmanuel Henri. We are pleased to host this training in our library.

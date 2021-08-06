@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=599605
+Course_System=linkedin.com
+Course_Title=SketchUp: Rendering with V-Ray 3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+V-Ray 3 for SketchUp features interactive rendering technology that allows users to see results immediately upon changes to the model. In this course, Brian Bradley both introduces and helps to solidly ground you in your ability to use the tools and features found in the powerful V-Ray for SketchUp rendering solution. After he familiarizes you with the V-Ray interface, Brian demonstrates how to add illumination to your scenes using the program's versatile lighting tools. He shows how to work with different light types for adding both artificial light and natural-looking daylight. In addition, he covers the V-Ray camera, materials, map types, render elements, FX tools, and more.

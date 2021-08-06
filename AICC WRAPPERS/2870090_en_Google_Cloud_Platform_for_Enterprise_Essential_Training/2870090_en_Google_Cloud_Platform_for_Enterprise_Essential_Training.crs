@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2870090
+Course_System=linkedin.com
+Course_Title=Google Cloud Platform for Enterprise Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is Google Cloud Platform (GCP) the right choice for your enterprise application? GCP now has the enterprise-level features large organizations demand: IAM security, custom encryption, NoSQL database support, and cloud-native continuous integration and deployment. This course helps enterprise architects, network admins, and technology stakeholders evaluate and implement GCP services for their organizations. Learn how GCP addresses enterprise concerns—from reliability to partner integration—and discover the scenarios where it shines, including data warehousing and disaster recovery. See how GCP solutions—serverless computing, data storage, and data pipelines—map to these different scenarios, and explore the developer and DevOps tools that Google provides for building your own custom solutions. Along the way, instructor Lynn Langit shows how to use GCP to manage virtual machines, Docker containers, Kubernetes clusters, relational data stores, NoSQL data, data lakes, and more. She also shares practical tips for saving money, planning deployments, and integrating compatible services.

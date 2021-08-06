@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dimitris Loukas
+Course_ID=5043079
+Course_System=linkedin.com
+Course_Title=Modernize Node.js Apps with Azure App Service
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take full advantage of the elasticity of the cloud. In this project-based course, join instructor Dimitris Loukas as he demonstrates how to efficiently refactor, configure, and deploy your Node.js apps on Azure using Azure App Service. Dimitris explains the benefits and demonstrates how to set up a new service for a Node.js app, including how to set up environmental variables, approach your first deployment, benefit from automatic deployments, and work with WebJobs—which allows you to run a program or script in the same context as a web, API, or mobile app. Plus, he covers monitoring your app for errors and adding Application Insights to detect performance anomalies.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=711809
+Course_System=linkedin.com
+Course_Title=Learning PLC Ladder Logic
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Industrial automation technologies have made manufacturing processes increasingly more efficient. Programmable logic controllers (PLCs) are commonly used in industrial automation, and many of these industrial computer control systems use ladder logic as their main programming language. In this course, engineer and educator Zahraa Khalil covers the basics of PLC ladder logic programming. Explore fundamental concepts such as rung operation, timer and counter instruction, and the main types of input and output instructions used in ladder logic programming. Along the way, Zahraa shares case studies that can help you grasp the real-world application of these concepts.

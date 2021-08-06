@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nertil Poci
+Course_ID=2841527
+Course_System=linkedin.com
+Course_Title=Scaling Out Using Azure SignalR Service
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Every modern application has some sort of real-time-communication need. With the rise of microservices and serverless, many developers find themselves working with applications that run on multiple servers. Azure SignalR Service can help you scale these applications by allowing users to connect to a central location and enabling other services to send messages to users quickly without worrying about hosting, scalability, and load balancing. Curious about how to use Azure SignalR Service to build real-time applications in the cloud? This course covers what you need to know to get up and running. Instructor Nertil Poci goes over what SignalR Service is, the need for it, and the features it offers. He explains how to provision SignalR Service instances, implement failover options, and broadcast messages to your users. Plus, Nertil details how to go serverless with SignalR services and integrate your SignalR Service with Azure Event Grid to respond to different events.

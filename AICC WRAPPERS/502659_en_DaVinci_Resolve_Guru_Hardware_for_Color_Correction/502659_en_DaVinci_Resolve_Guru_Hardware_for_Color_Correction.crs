@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Inhofer, Robbie Carman
+Course_ID=502659
+Course_System=linkedin.com
+Course_Title=DaVinci Resolve Guru: Hardware for Color Correction
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In video, hardware choices often impact software performance. DaVinci Resolve color correction workstations are custom built with this dependency in mind. The hardware you choose impacts the file formats you can work in, your real-time playback capacity, and your speed. Spend some time learning about your choices and maximize the performance of your system—before you build it—in this installment of DaVinci Resolve Guru. Join colorists Robbie Carman and Patrick Inhofer as they look at hardware considerations and components for Resolve systems, including GPUs and CPUs, video monitors, control surfaces, and other accessories. Learn about UHD 4K displays and emerging HDR technologies, as well as all the extras that make a dedicated colorist's life that much easier, like bias lights, GPU expanders, and input devices. Robbie and Patrick share practical knowledge about building a Resolve system that will allow you to work quickly and efficiently for years to come.

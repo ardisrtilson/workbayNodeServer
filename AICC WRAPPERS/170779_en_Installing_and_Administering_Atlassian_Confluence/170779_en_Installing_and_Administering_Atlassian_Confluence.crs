@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sandra Toner
+Course_ID=170779
+Course_System=linkedin.com
+Course_Title=Installing and Administering Atlassian Confluence
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Confluence is an enterprise wiki used by more than 13,000 companies around the globe for helping development teams to collaborate and centralize their knowledge base. In this course, Sandy Toner introduces administrators to the key tasks involved in installing and administering Confluence, including configuring settings and preferences through the Setup Wizard, creating client- or project-centered spaces, and working with content using Confluence's built-in editor. Learn to use community and social features like page sharing and comments, cut your time in half with power-user shortcuts, and back up and restore your Confluence site in case of an emergency.

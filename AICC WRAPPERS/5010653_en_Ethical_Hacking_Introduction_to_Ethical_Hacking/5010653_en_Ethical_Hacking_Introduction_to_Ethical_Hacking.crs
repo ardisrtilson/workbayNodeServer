@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=5010653
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Introduction to Ethical Hacking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What is ethical hacking? When it comes to cybersecurity, hacking comes in many colors: white, grey, black, and shades in between. White hat hackers use their skills for good. They practice ethical hacking: involved testing to see if an organization's network is vulnerable to outside attacks. Ethical hacking is key to strengthening network security, and it's one of the most desired skills for any IT security professional. If you're interested in becoming an ethical hacker, or getting started securing your own network, this introduction is for you. Security expert Lisa Bock explores today's threat landscape, dissecting the top attack vectors and motives for attacks. Lisa identifies a variety of ways to secure an organization, explores policies that help enforce security objectives, and more. Note: The Ethical Hacking series maps to the 20 parts of the EC-Council Certified Ethical Hacker (CEH) exam (312_50) version 10.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2877240
+Course_System=linkedin.com
+Course_Title=Cisco CCNP Collaboration 350-801 (CLCOR) Cert Prep: 2 Cisco Unified Communications Manager and Gateways
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you getting ready for the Cisco CCNP Collaboration or the Cisco CCIE Collaboration certification? In this course, instructor Kevin Wallace covers everything you need to know to set up Voice over IP (VoIP) gateways and to pass your CCNP Collaboration certification. Kevin explains how to perform a base installation of the Cisco Unified Communications Manager (CUCM), set up basic protocols, and install IP phones. He discusses two types of gateways: H.323 and MGCP. Kevin goes into how to configure both types of gateways, then explores how you can use media resources to make sure the right resources are made available to the right users. Note: This course was created by Kevin Wallace. We are pleased to host this training in our library.

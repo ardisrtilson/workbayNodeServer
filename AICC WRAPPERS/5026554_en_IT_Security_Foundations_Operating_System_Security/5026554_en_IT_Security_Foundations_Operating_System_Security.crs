@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=5026554
+Course_System=linkedin.com
+Course_Title=IT Security Foundations: Operating System Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The operating system is where many attacks are targeted, which makes OS-level security just as important to your organization as network security. OS security is also a key component of the Microsoft Technology Associate (MTA) Security Fundamentals exam (98-367). In this course, instructor Lisa Bock details what’s actually involved in securing an operating system. Lisa reviews user authentication, the structure of Active Directory, and how to assign permissions and create audit policies. In addition, she covers various cryptographic techniques, as well as how to protect servers and email.

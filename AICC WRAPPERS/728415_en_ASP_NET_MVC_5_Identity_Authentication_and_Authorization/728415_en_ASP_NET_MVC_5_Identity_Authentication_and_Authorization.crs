@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=728415
+Course_System=linkedin.com
+Course_Title=ASP.NET MVC 5 Identity: Authentication and Authorization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Authentication and authorization are core features of many modern apps. So why reinvent the wheel, forcing your users to create yet another login? Leveraging credentials from trusted platforms like Facebook and Google, you can save yourself precious development time and improve the user experience. This course shows how to authenticate and authorize users of your ASP.NET MVC 5 applications using .NET methods as well as third-party frameworks. Instructor Ervis Trupja discusses the options for identity management in ASP.NET MVC 5, showing how to implement third-party authentication in your app with Facebook, Twitter, Google, Microsoft, and GitHub. He shows how to set up email confirmation and two-step authentication and control levels of authorization for users. Finally, he discusses how to secure ASP.NET apps against the seven most common vulnerabilities.

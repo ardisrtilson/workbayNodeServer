@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2875095
+Course_System=linkedin.com
+Course_Title=Building a GraphQL Project with React.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you a web developer creating apps? GraphQL gives you a clean way to query complex server data efficiently, and React makes it easy to present that information as a web application in the browser. In this course, instructor Ray Villalobos teaches you how to assemble these parts, using the familiar structure of GitHub as a source for information. Ray first walks you through installing React, including how to use the command-line interface (CLI), as well as how to customize and add the node modules you will need for this project. He explores what you can do with the GitHub API using GraphiQL, then shows you how to retrieve data, generate a query component, and more. Ray goes over each step in building the React app, concluding with how to create the pagination interface.

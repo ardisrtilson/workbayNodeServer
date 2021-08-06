@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Richardson
+Course_ID=2811025
+Course_System=linkedin.com
+Course_Title=Advanced Selenium: Support Classes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make your automated execution code more robust using support classes within Selenium WebDriver. In this course, instructor Alan Richardson takes a deep dive into Selenium WebDriver, explaining how support classes can make updating and maintaining your test code much easier. Alan explains how to create element abstractions, which can represent common HTML elements to make them easier to work with. He digs into state and element synchronization, explaining how concepts such as WebDriverWait can help you ensure that your tests are more robust when they execute. Plus, learn about locators, page objects, EventFiringWebDriver, and more.

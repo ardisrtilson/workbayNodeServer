@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=2876265
+Course_System=linkedin.com
+Course_Title=Typography for Motion Designers in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Typography is an important aspect of design. The MoText tool in Cinema 4D allows you to set good-looking type with an intuitive GUI and animate it using all the tools available in the MoGraph system. In this course, instructor Andy Needham covers kerning, tracking, use of fonts, and how to animate multi-line text. Andy begins by showing you the tools you can use to create type in Cinema 4D. He highlights MoText, because it works with the MoGraph system to enable you to animate your type easily. Andy steps through the process of setting type and adding details like bevels and materials. He concludes with all the steps and tools you need to animate your text. Note: If you are using Cinema 4D S24 or later, please refer to the video regarding the MoText tool, as it has been renamed and moved in S24.

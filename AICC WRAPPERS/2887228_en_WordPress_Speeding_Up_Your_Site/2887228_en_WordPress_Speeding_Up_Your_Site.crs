@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Rauland
+Course_ID=2887228
+Course_System=linkedin.com
+Course_Title=WordPress: Speeding Up Your Site
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Slow loading speeds equal lost customers. In this course, instructor Patrick Rauland walks through steps you can take to make a typical WordPress site lightning fast. Patrick explains why speed is so important, then shows you how to check and monitor your speed. He describes how websites slow down and how to identify static and dynamic WordPress sites. Patrick goes into hosting and all the ways a good website host can speed up your site. He covers ways you can make sure media isn’t slowing down your site, such as optimizing images, using a content delivery network (CDN), and offloading audio and video files. Patrick shows you how to balance fast versus functional, in making sure plugins don’t slow down your site. After going over how to make your database more efficient, Patrick concludes with a discussion of caching and how “busting” your cache can speed up your site.

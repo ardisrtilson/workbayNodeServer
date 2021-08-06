@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grace Njoroge
+Course_ID=2822583
+Course_System=linkedin.com
+Course_Title=iOS Development: Threading and Grand Central Dispatch
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Users expect their iOS apps to be fast and responsive. Grand Central Dispatch (GCD)—a Swift framework that allows you to execute code concurrently on multicore hardware—can help you ensure that your app meets these expectations. In this course, instructor Grace Njoroge helps you get up and running with GCD, explaining how to put code or tasks on threads to speed up your iOS app and make it more responsive to users. She covers asynchronous and synchronous execution, deadlocks, how multithreading keeps apps from stalling while handling heavy operations, how to work with queues, and how GCD factors into all of these topics. Along the way, she shares scenarios that lend a real-world context to these concepts.

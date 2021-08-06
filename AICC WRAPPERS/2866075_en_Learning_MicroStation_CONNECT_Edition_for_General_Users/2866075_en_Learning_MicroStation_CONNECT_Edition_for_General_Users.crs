@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shawn McGaffick, Frank Conforti, Bentley Systems
+Course_ID=2866075
+Course_System=linkedin.com
+Course_Title=Learning MicroStation CONNECT Edition for General Users
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course teaches the basics of MicroStation CONNECT. Instructor Frank Conforti walks you through how to work with the user interface, tools, and features of MicroStation CONNECT Edition. Frank shows you how to use models and drawing tools; create and use element attributes; and work with zoom controls, multiple view windows, and more to control the display of your designs. He covers how to use AccuSnap and AccuDraw in precision drawing and goes into SmartLine and other basic drawing elements. He also discusses how to select, manipulate, and modify elements, as well as how to place, create, edit, and remove cells. He demonstrates how you can annotate designs with text, dimension, and patterns and goes over how to attach references, raster images, and PDFs. In closing, Frank walks you through two ways to print and publish.

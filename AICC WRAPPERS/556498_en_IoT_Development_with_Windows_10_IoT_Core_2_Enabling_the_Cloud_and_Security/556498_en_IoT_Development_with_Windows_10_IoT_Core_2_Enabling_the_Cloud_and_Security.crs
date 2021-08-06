@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Lehman
+Course_ID=556498
+Course_System=linkedin.com
+Course_Title=IoT Development with Windows 10 IoT Core 2: Enabling the Cloud and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Windows 10 IoT Core, you can incorporate the power of Windows into your Internet of Things (IoT) devices. This course is the second in a series of two courses by Michael Lehman; both courses are designed to help you get up and running with Windows 10 IoT. Here, Michael shows how to build a full IoT device based on a Raspberry Pi 3, including effectors, sensors, and cloud connectivity to Windows Azure.

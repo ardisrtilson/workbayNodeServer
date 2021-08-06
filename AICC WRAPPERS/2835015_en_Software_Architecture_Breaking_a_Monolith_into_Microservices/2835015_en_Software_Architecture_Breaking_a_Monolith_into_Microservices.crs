@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Khan
+Course_ID=2835015
+Course_System=linkedin.com
+Course_Title=Software Architecture: Breaking a Monolith into Microservices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microservices are the increasingly popular software architecture choices when creating a new application, but what about existing applications? Does it make sense to split them up into microservices? And how would you go about breaking up monolithic applications? In this course, Daniel Khan covers effective approaches for adopting microservices, taking a high-level look at the fundamentals without getting into programming languages, container runtimes, Kubernetes, or other technical minutiae. Instead, he takes a holistic approach to give you a general understanding of the technical and organizational challenges you need to address in order to successfully re-architect your existing platforms to microservices.

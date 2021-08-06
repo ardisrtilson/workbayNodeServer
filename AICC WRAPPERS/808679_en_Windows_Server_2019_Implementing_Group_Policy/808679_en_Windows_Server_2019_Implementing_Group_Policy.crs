@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=808679
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Implementing Group Policy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Group Policy is a major part of Active Directory and the key to consistent and secure Windows account configuration. In this course, Ed Liberman shows how to configure and manage Group Policy in Windows Server 2019. Ed covers processing for a Group Policy object, which determines the order in which policies are read and applied, including the default order and exceptions like block inheritance. He reviews critical settings that IT admins need to be able to configure, including Administrative Template files, folder redirection, and scripts. Plus, learn how to quickly troubleshoot Group Policy issues and configure passwords and account lockout policies.

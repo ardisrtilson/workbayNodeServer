@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Wright
+Course_ID=5005078
+Course_System=linkedin.com
+Course_Title=Nuke New Features Consolidated
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to work faster and smarter with Nuke, the Foundry's flagship compositing app. In this course, VFX guru Steve Wright helps you get up to speed with the most helpful new features and enhancements introduced in Nuke 6, 6.3, 7, 8, 9, and 10. Steve goes over the most relevant additions in each release, from how to leverage the RayRender node—which adds ray tracing to Nuke—to how to work with the ParticleCache node. Plus, learn how to leverage the SplineWarp node, the Pixel Analyzer, and much more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Demafiles
+Course_ID=426771
+Course_System=linkedin.com
+Course_Title=Cinema 4D: Cloth Simulations for Motion Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A flexible and dynamic 3D cloth simulation is a commonly requested feature in modern motion graphics. Realistic cloth simulations that respond to forces such as wind and gravity can take the visual language to another level. Luckily, CINEMA 4D's cloth system offers a relatively simple toolset to incorporate flags, banners, and other convincing cloth simulations into motion graphics and animations. Cloth Simulations for Motion Graphics in CINEMA 4D is a project-based learning experience that follows three projects from start to finish: an animated flag blowing in the wind, opening and closing theater curtains, and a cloth-on-object logo reveal. Each project is rich with lessons that artists can adapt and apply to any cloth animation. Author Alan Demafiles will help viewers use the C4D Cloth tag and colliders, attach cloth to other geometry in a scene, loop simulations, correct imperfections with the morph deformer, and apply logos and other patterns to fabric. Start watching to incorporate cloth simulations into your mograph skillset.

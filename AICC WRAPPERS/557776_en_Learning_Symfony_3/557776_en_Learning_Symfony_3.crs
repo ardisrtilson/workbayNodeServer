@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bernardo Pineda
+Course_ID=557776
+Course_System=linkedin.com
+Course_Title=Learning Symfony 3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build PHP applications the modern way with Symfony 3, a popular PHP Model-View-Controller framework. In this course, Bernard Pineda shows how to build a PHP-based web app in Symfony. He explains how to install and configure Symfony, and start saving time with typical development tasks, such as creating persistent models and rendering content with templates. Bernard also goes into how to define and validate forms and debug your applications. After wrapping up this course, you'll have the tools you need to leverage Symfony to get a head start on your PHP projects.

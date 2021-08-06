@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Ferguson
+Course_ID=410337
+Course_System=linkedin.com
+Course_Title=Learning VMware NSX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software-defined networking is the next big thing in IT virtualization, and being able to administer an SDN will be a key skill for any IT professional. NSX is VMware's SDN platform, and this course will show how to get it up and running. VMware Certified Instructor Bill Ferguson covers the basics of NSX (including NSX components) and techniques for creating a software-defined data center. He shows how to configure a controller cluster, prepare hosts for VXLAN networking, and configure logical switches and distributed routers. Later in the course, Bill configures static and OSPF routing, load balancing, and a simple VPN, as well as high availability with NSX Edge. By the end of the training, viewers should be able to use NSX on top of their existing network resources to improve performance, deploy services, and increase security—without any additional hardware.

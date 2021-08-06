@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=670300
+Course_System=linkedin.com
+Course_Title=Particular 4 for After Effects Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Red Giant Trapcode Particular—an industry-standard particle generator—is one of the most important plugins for Adobe After Effects. In this course, join Ian Robinson as he helps you get up to speed with using Particular 4 for After Effects. To begin, Ian shows how to create a basic emitter and particle system. He then examines different kinds of emitters and particle attributes; shares how to create custom particles; looks at how lights and cameras are integrated with particle systems; and explains how to build complex particles using multiple systems. After building a solid foundation for working in Particular 4, he dives into some short projects, showing how to stop time with Time Factor, create secondary particle systems from other particles, create light streaks, and more.

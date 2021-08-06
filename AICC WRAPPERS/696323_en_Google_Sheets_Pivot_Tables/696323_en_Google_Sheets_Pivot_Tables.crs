@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=696323
+Course_System=linkedin.com
+Course_Title=Google Sheets: Pivot Tables
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Sheets users can leverage pivot tables to create useful summaries to gain insights into their business data. Follow along with Curt Frye as he shows how to summarize and rearrange data dynamically with pivot tables. Learn how to lay out your data, create the pivot table, edit the data source, add custom calculated fields, and sort and filter data to display exactly the information you need.

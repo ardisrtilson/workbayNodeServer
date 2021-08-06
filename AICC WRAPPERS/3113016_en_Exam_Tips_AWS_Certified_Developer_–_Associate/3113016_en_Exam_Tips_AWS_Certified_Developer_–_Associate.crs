@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=3113016
+Course_System=linkedin.com
+Course_Title=Exam Tips: AWS Certified Developer – Associate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get prepared for the AWS Certified Developer – Associate Exam. This course covers exam objectives, the goals of the exam itself, and the AWS whitepapers that are recommended reading for the exam. Instructor Carlos Rivas focuses first on deployment, including exam objectives, key points in AWS deployment options, and deployment-related recommended reading. Next, Carlos covers security concepts, with a focus on authenticated calls, encryption, and security whitepapers. Carlos goes into development with AWS services, with a useful demonstration of question-answering strategies. He covers refactoring, then discusses monitoring and troubleshooting. Plus, he walks you through a practice exam, what to expect on exam day, and what to do after you pass your exam.

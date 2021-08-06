@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2883156
+Course_System=linkedin.com
+Course_Title=AWS: Monitoring, Logging, and Remediation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As organizations increasingly move their workloads to the AWS cloud to take advantage of its speed, elasticity, and flexible pricing, it is more important than ever to continuously monitor your applications and workloads, and react to changes, to maintain a fault-tolerant and highly available ecosystem. In this course, Shyam Raj provides system administrators with a look at how to successfully monitor resources and applications and how to remediate problems that may arise. Shyam includes heavy coverage of AWS monitoring services, including CloudWatch, CloudTrail, and AWS Config. He explains how to navigate the dashboards of these services to view metrics, monitor performance, and configure resource limits. This course can also be used to prep for the corresponding domain of the AWS Certified SysOps Admin exam.

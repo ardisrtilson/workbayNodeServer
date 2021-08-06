@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=2828009
+Course_System=linkedin.com
+Course_Title=BIM 360 Design Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For teams using Revit, worksharing enables multiple users to access, and make changes to, a single Revit file simultaneously. Using BIM 360 Design, you can extend worksharing to the cloud. In this course, Paul F. Aubin explores how using BIM 360 Design allows you and a team of coworkers to store your central model in a secure, cloud-based hub and work on it as if it were stored on your local server. This makes it easy for firms with distributed teams across multiple physical locations to work together seamlessly. Plus, the functionality of BIM 360 Design leverages the cloud-based document management solutions from Autodesk, which means that your Revit models and other associated project files can be made accessible to all stakeholders—including internal users, clients, and external consultants—in a highly secure environment complete with granular permissions.

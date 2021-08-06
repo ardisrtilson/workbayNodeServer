@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett
+Course_ID=2822028
+Course_System=linkedin.com
+Course_Title=DevSecOps: Tips for Success
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DevSecOps is transforming security across the tech industry—but successfully bringing security into the DevOps fold is not without its challenges. In this concise course, James Wickett provides a collection of insider tips on how to make DevSecOps work in your organization. To begin, James makes a case for why security work has often been unfairly dealt with in organizations, as well as why adopting the DevSecOps approach can make security seem less like an impediment to speedy software delivery and more like an essential part of the workflow. He then shares a variety of practical strategies, including how to keep key teammates connected, apply security automation, add in chaos for better security results, bring auditors into the DevSecOps story, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Angela Wick
+Course_ID=580638
+Course_System=linkedin.com
+Course_Title=Agile Requirements Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Customer needs change every day. We need our products to keep up. Take an agile approach to requirements analysis: Learn the mindset and techniques necessary to discover requirements for an agile project and succeed in the business analyst (BA) role. Angela Wick reviews the 12 agile principles from a BA's perspective, introduces backlog management techniques, and discusses techniques such as product decomposition, user stories and story maps, which help BAs deliver products that truly delight customers. Plus, find out what concepts such as minimum viable product and value stream mean to people in the BA role.

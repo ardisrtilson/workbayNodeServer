@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5016734
+Course_System=linkedin.com
+Course_Title=UXPin: Design Sprints and Reviews
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use UXPin to manage design sprints and stakeholder design reviews. In this course, Emmanuel Henri shows how to prototype interactive user experiences in UXPin, and incorporate feedback from stakeholders as you iterate through design changes. Learn how to start a new project and import assets from other design tools; build and finalize screens; create design systems that other designers and developers can leverage; and share your work. Then find out how to incorporate changes from the review process and save different versions—iterations—of your design. Plus, get tips for conducting more effective review sessions with your stakeholders.

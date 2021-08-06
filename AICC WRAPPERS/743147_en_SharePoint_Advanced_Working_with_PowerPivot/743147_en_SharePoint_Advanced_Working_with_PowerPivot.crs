@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=743147
+Course_System=linkedin.com
+Course_Title=SharePoint Advanced: Working with PowerPivot
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PowerPivot can be connected to Excel to add advanced data functionality inside of SharePoint. In this course, learn how to use PowerPivot and SharePoint to move data between SharePoint and Office 365 apps, as well as visualize and manipulate data inside SharePoint. To begin, instructor Phil Gold describes the similarities and differences between regular PivotTables and PowerPivot and the benefits of using SharePoint as a BI Center for your team. He shares how to set up PowerPivot and PowerView in Excel, how to connect them to your data, and how to upload a workbook to a SharePoint BI Center. Plus, learn how to share your BI Center with your team.

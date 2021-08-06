@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2802040
+Course_System=linkedin.com
+Course_Title=CCSP Cert Prep: 1 Cloud Concepts, Architecture, and Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Almost every organization relies on cloud technology. Email, applications, or complex virtual infrastructure—it all runs in the cloud. This has created a high demand for the Certified Cloud Security Professional (CCSP), who can help businesses secure information and systems that used to live on site. This course covers the first domain of the CCSP certification exam: Cloud Concepts, Architecture, and Design. Discover how the cloud reference architecture defines a model for cloud computing. Explore security concepts relevant to cloud computing and understand the design principles for secure operation in the cloud. Security expert Mike Chapple also reviews emerging cloud-based technologies, such as machine learning, blockchain, and quantum computing. Plus, find out how to evaluate cloud service providers using security standards including ISO 27017, PCI DSS, the Common Criteria, and FIPS 140-2. By the end of the course, you’ll be grounded in the foundations of cloud security and feel more prepared for the first domain of the CCSP exam. Note: This course is designed to cover the most recent version of the CCSP exam, released in August 2019.

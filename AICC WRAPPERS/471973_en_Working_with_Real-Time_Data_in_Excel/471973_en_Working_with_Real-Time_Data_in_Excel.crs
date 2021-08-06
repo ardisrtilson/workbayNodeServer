@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=471973
+Course_System=linkedin.com
+Course_Title=Working with Real-Time Data in Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Our Excel Workshop series shows how to develop key data science and analytics skills through applied learning in Excel. In this course, Chris Dutton focuses on using real-time data from a web API and supplemental data from the National Climatic Data Center (NCDC) to understand and quantify the impact of weather patterns on accident rates. Using conditional statements and text functions like LEFT, MID, RIGHT, and CONCATENATE, you'll learn to standardize data sets from the NCDC and create new dimensions. Then find out how to use VLOOKUP to join the data, and use COUNTIF statements to analyze trends. Once the historical data is in place, Chris shows how to use Excel's powerful WEBSERVICE and FILTERXML functions to tap directly into Weather Underground's API, which provides real-time weather information for any location and allows you to estimate accident rates based on current conditions. Last but not least, you'll learn how to build custom charts to show the expected accident risk based on real-time inputs, and walk through some additional opportunities for deeper analysis.

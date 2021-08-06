@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Inhofer
+Course_ID=499489
+Course_System=linkedin.com
+Course_Title=DaVinci Resolve Guru: Color Correcting Log Raw and Flat Footage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this installment of DaVinci Resolve Guru, explore the concepts of log and raw footage. Colorist Patrick Inhofer underscores the disparity between the two recording methods and shows you how to tell the difference when using DaVinci Resolve. This course also shows you how to set your raw settings for a project and individually, shot by shot. Explore the concept of color correcting flat footage shot on a DSLR and how that differs from shooting log and raw. Once you're familiar with the differences between log, raw, and flat recordings, explore two different methods for color correcting that footage. First, Patrick shows you how to color correct manually, using the traditional tools in DaVinci Resolve. Then, he explains how to use lookup tables (LUT), and discusses LUT strengths and limitations.

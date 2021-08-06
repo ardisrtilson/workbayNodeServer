@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=GitHub, Aaron Stewart
+Course_ID=769293
+Course_System=linkedin.com
+Course_Title=GitHub Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get the most from GitHub, the industry-standard tool for collaborating on and sharing code. Learn how to use features that support and enhance the modern software pipeline. This course shows developers how to extend their use of GitHub and how to leverage the GitHub ecosystem to customize and enhance existing workflows. Instructor Aaron Stewart, training content specialist at GitHub, explains important concepts such as managing organizations and teams, enabling continuous integration and delivery, conducting code reviews, and using branch protections. Plus, discover how to get out of sticky situations with Git by reverting past commits, resetting commits from history, locating changes, and reinforcing commits. Finally, explore inner-source culture, which can transform the way you collaborate within an organization—even when the software you’re developing is proprietary.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=697730
+Course_System=linkedin.com
+Course_Title=AWS for Architects: Advanced Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Regulations like GDPR have made security a top priority for every organization. Luckily, Amazon Web Services offers a plethora of tools for securing cloud-based architecture. This course teaches IT pros how to use AWS advanced security services, techniques, and tools to protect their users, data, apps, and infrastructure. Instructor Lynn Langit begins with the core tasks and services: setting up the AWS root account, billing, and tagging. She then shows how to set up strong authentication with AWS Identity and Access Management (IAM), Config, Simple AD, and full-fledged Active Directory. She covers infrastructure protection with VPC objects such as subnets, and data protection with KMS and Macie. Finally, she reviews security requirements for different application architectures and the associated AWS security solutions. Note: This course can also be used to prepare for the corresponding domain of the AWS Certified Solutions Architect (Professional) exam.

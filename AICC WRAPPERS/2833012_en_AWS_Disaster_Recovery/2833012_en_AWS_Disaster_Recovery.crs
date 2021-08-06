@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=2833012
+Course_System=linkedin.com
+Course_Title=AWS: Disaster Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Disaster recovery (DR) is a critical component of each organization’s business continuity plan. The failure to appropriately plan for outages can lead to enormous data and productivity loss. From IT executives to system administrators, all employees should have an in-depth understanding of their organization’s DR plan. This course reviews the benefits of the public cloud, specifically Amazon Web Services (AWS), in implementing a DR plan. It also reviews AWS-specific DR concepts and shows how to use AWS to build a reliable DR environment for a fraction of the time and cost of DR in a private data center. Instructor Brien Posey shows how to define your organization's specific recovery requirements and configure services such as Storage Gateway, EC2 snapshots, Amazon Machine Images (AMI), Relational Database Service (RDS), and Route 53. He also reviews the four main architectures used for disaster recovery and shows how to perform cold failover, pilot light, and warm standby recoveries.

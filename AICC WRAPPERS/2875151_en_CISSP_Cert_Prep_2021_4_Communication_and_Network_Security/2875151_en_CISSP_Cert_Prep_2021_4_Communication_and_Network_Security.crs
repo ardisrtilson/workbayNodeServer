@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2875151
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 4 Communication and Network Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified Information System Security Professional (CISSP) certification is an important component of any security professional's resume, and is a requirement for many top jobs. In this course, prepare for the fourth domain of the exam: Communication and Network Security. Instructor and cybersecurity expert Mike Chapple goes over TCP/IP networking, network security devices, and secure network design. Mike also includes coverage of specialized networking, wireless networking, and more. The CISSP exam domains can be found here.

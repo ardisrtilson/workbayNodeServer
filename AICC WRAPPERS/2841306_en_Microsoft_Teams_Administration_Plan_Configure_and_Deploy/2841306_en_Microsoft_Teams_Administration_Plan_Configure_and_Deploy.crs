@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2841306
+Course_System=linkedin.com
+Course_Title=Microsoft Teams Administration: Plan, Configure, and Deploy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Teams is prized by organizations around the world for its secure conferencing, chat, and collaboration features. Employers are actively looking for certified administrators to deploy, manage, and monitor the platform. Luckily, to achieve the Microsoft Teams Administrator Associate certification, you only need to pass one exam: MS-700 Managing Microsoft Teams. This course is the first of a two-part series that helps you study for the MS-700 exam and learn the official best practices for planning and configuring Teams in an enterprise environment. Instructor Robert McMillen helps you prepare an upgrade path from Skype for Business and assess network capacity. He then shows how to configure important settings, set up access for guests and external users, and create the roles, policies, and alerts necessary to secure your deployment. Finally, Robert teaches you how to manage Teams endpoints and monitor service usage and call quality to ensure your users have the best Teams experience possible.

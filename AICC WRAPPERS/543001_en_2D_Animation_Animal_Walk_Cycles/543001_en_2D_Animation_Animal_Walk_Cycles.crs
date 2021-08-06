@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dermot O' Connor
+Course_ID=543001
+Course_System=linkedin.com
+Course_Title=2D Animation: Animal Walk Cycles
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Capturing the movements of a horse, dog, or other such creature in 2D animation requires an understanding of certain principles and techniques. In this course, Dermot O'Connor explains how to animate four-legged animals as they walk, trot, and run. Dermot compares the anatomy of animals and humans, showing the analogous parts. He also demonstrates the basics of a quadruped walk, explaining how to create the leg positions for the front and the back, as well as how to offset them to create a realistic walk. Plus, learn how to add individual quirks to a run and create cartoony run cycles.

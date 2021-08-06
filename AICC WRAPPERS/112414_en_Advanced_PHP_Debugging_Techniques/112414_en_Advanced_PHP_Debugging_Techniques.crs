@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Peck
+Course_ID=112414
+Course_System=linkedin.com
+Course_Title=Advanced PHP: Debugging Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Debug your PHP code efficiently with a variety of client and server-side tools. In this concise course for experienced PHP developers, author Jon Peck demonstrates how to leverage PHP's built-in tools, as well as the Xdebug and Firebug extensions, and FirePHP libraries to improve the quality of your code and reduce troubleshooting overhead. This course covers installation of Xdebug on Apache as well as working with the NetBeans IDE (integrated development environment). Jon then introduces native web browser developer tools for Firefox and Chrome, and demonstrates browser independent web debugging tools. Best practices for debugging and profiling web application failures and performance issues are also covered.

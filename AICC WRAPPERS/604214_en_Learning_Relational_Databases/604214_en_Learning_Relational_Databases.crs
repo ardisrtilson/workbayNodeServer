@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=604214
+Course_System=linkedin.com
+Course_Title=Learning Relational Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever opened up a database that someone else built and felt a little lost? Or ever thought of designing your own simple database and been unsure of where to start? Or perhaps you need to work with a team of database professionals and don't know how to speak their language? This course can help you overcome these hurdles. Adam Wilbert covers the basics of relational database design, regardless of whether you use Access, FileMaker, Open Office, or SQL Server. Learn how to prevent data anomalies, gather requirements to plan your design, and develop a conceptual data model—translating your ideas into components like tables, relationships, queries, and views. Plus, learn about logical design considerations that can help you construct a database that is easy to maintain.

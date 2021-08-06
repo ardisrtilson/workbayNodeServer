@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jamie Pittman
+Course_ID=2886287
+Course_System=linkedin.com
+Course_Title=JavaScript: Maps and Sets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programming languages are always evolving and changing, and JavaScript is no exception. Over time, JavaScript has grown, and many new aspects have been added, including maps and sets. JavaScript maps and sets may sound simple, but they aren't quite the same as their counterparts in other programming languages. In this course, software engineer Jamie Pittman covers the ins and outs of JavaScript maps and sets, their syntax, how they work, and how to integrate them into your daily coding practice. Topics covered include a general overview of these features, when and where to use them, their WeakMap and WeakSet versions, and the various methods and properties associated with them.

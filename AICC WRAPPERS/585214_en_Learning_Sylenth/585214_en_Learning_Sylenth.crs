@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nate Mars
+Course_ID=585214
+Course_System=linkedin.com
+Course_Title=Learning Sylenth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sylenth is a powerful virtual synthesizer plugin that music producers around the world use to create amazing soundscapes. In this course, Nate Mars shows some basic—as well as advanced—features of Sylenth, and dives into some synthesis concepts along the way. He covers working with the Sylenth interface, creating sounds with the plugin's four oscillators, working with the Misc Mod panel and Mod wheel, and customizing sounds by adding powerful effects. To wrap up, Nate shows how to make specific sounds—namely, kick drum, organ, and synth lead— from scratch.

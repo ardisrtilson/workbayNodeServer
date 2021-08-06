@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Beane
+Course_ID=622048
+Course_System=linkedin.com
+Course_Title=Maya: Advanced Texturing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Still don't have the professional results you've been looking for in your renders? Go beyond basic textures. Learn how to create realistic wood grain, leather, brick, and fabric textures using an advanced Maya workflow that incorporates tools like Photoshop, Mudbox, and Substance Painter. Instructor Andy Beane takes existing models such as a leather chair and a floor lamp and shows how to build a visual story that enhances the realism of their appearance. He uses image manipulation features in Photoshop to build 3D textures and shows how to paint them directly on your models in Mudbox—getting a final-render-like preview in real time. Then he switches to Substance Painter, creating procedural textures that are applied back in Maya. The course provides hands-on practice and a solid workflow that will help you texture almost any object you encounter in the future.

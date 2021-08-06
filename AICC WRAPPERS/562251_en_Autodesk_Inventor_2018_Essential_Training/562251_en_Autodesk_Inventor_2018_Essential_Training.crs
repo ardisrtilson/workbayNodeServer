@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Helfen
+Course_ID=562251
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor 2018 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with Inventor 2018, the mechanical design and 3D CAD software from Autodesk. In this course, instructor John Helfen takes an in-depth look at the interface and key processes of this parametric design system, explaining how the different processes work in conjunction with each other to allow you to create parts and assemblies, and document them in a way that helps others understand how your designs can be manufactured. He goes over Autodesk AnyCAD, part modeling, building parts with placed features, and more.

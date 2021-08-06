@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=2835017
+Course_System=linkedin.com
+Course_Title=Design a Cloud Migration Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Migrating to the cloud can be an exciting and overwhelming prospect for any organization. The success of your migration is enormously dependent upon how well thought out the strategy is. In this course, instructor Brien Posey takes a vendor-neutral look at the key design considerations that need to go into any migration strategy—whether you're migrating to Amazon Web Services, Microsoft Azure, Alibaba Cloud, or Google Cloud Platform. Learn how to identify your migration goals, estimate costs, and avoid common mistakes. Explore popular options such as rehosting, replatforming, and SaaS adoption. Plus, find out when it's appropriate to refactor or retire workloads and get tips for implementing your migration plan, complete with considerations for IT pros.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=418852
+Course_System=linkedin.com
+Course_Title=Easy PHP Projects: Measurement Conversion
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Easy PHP Projects introduces small-scale PHP projects that can be programmed in a day. This installment shows how to use PHP to convert measurements such as length, area, volume, mass, speed, and temperature into different units. The exercises are ideal for new PHP developers who want to gain experience building PHP projects, as well as for experienced developers who want to practice their skills. Along the way, series designer Kevin Skoglund introduces coding strategies, refactoring techniques, and useful skills including dynamically generating form select-option values and formatting decimal numbers and scientific notation.

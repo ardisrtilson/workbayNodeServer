@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harrison Ferrone
+Course_ID=779754
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Kanban for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kanban is a process improvement method originally developed for lean manufacturing, emphasizing efficiency, collaboration, and transparency. This course helps software developers and their teams use kanban principles and practices to improve their workflow and performance, while bringing out their best work. Developer and Certified ScrumMaster (CSM) Harrison Ferrone explains the basic concepts and techniques of kanban and shows how to implement them using a tool like Trello, a popular and free visual tool. He also shows how to iterate and evolve your agile processes while avoiding common pitfalls and bad kanban.

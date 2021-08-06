@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gerry O'Brien
+Course_ID=510082
+Course_System=linkedin.com
+Course_Title=Microsoft SQL Server 2016: Installation and Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server is the database used with Azure and many on-premises environments and is quickly becoming a very popular RDBMS. Get an overview of installing, administering, and managing SQL Server 2016 in this course with SQL Server expert Gerry O'Brien. Learn how to install the database and tools, configure different instances, optimize performance, and secure your database with user roles and logins. Gerry also covers administrative duties such as backup and restoration, database migration, and high-availability options, including database replication, log shipping, and always-on availability. This course is also ideal for anybody preparing for the Administering a SQL Database Infrastructure (70-764) exam, one of two exams necessary to earn an MCSA: SQL 2016 Database Administration certification.

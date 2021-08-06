@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Greg Sowell
+Course_ID=713395
+Course_System=linkedin.com
+Course_Title=Cisco ICND2 Cert Prep: WAN Technologies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Demonstrate your networking knowledge and expertise by earning a Cisco CCNA Routing and Switching certification. In this course, Greg Sowell prepares you for the wide area network (WAN) technologies portion of the Interconnecting Cisco Networking Devices Part 2 (ICND2) exam. Greg explores the Point-to-Point Protocol (PPP), the Multilink Point-to-Point Protocol (MLPPP), the Point-to-Point Protocol over Ethernet (PPPoE), and the Generic Routing Encapsulation (GRE) tunneling protocol, explaining how to configure each one. He also dives into WAN topology options—including point-to-point, hub and spoke, and full mesh—and covers the basics of eBGP.

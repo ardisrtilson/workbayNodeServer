@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=534639
+Course_System=linkedin.com
+Course_Title=Learning Java Threads
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Threads are independent paths of code execution that run concurrently in a Java program. Your app can use threads to multitask: perform time-intensive tasks and run them in the background. This allows the application to remain responsive to users. While multithreaded programming in Java has a reputation for difficulty, most developers can untangle it with smart, designed-for-concurrency constructs that are standard with the Java platform. Join staff instructor Peggy Fisher in this course as she helps you untangle Java threads. Watch and learn how to create, manage, sync, and lock threads, and review concurrency utilities that will make multithreaded programming a lot easier.

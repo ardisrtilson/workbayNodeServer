@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=85869
+Course_System=linkedin.com
+Course_Title=HTML5: Document Editing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course describes how to create editable content on the web using the document-editing application programming interface (API) in HTML5. Author Bill Weinman explains the document-editing process, detecting support for the document-editing API, using the contentEditable and designMode attributes, and editing a full document. The course also explores some of the limitations of the feature and shows how to make document-editing pages work across different browsers.

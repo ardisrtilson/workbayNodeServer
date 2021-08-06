@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Lavanya Vijayan
+Course_ID=2244045
+Course_System=linkedin.com
+Course_Title=Introduction to Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The world of data science is reshaping every business. There is no better time to learn it than now. In this Madecraft course, Python trainer and data scientist Lavanya Vijayan shares what data science is and how it differs from other information-focused disciplines. She then dives into the workflow—the life cycle of data science—and introduces the data scientist’s toolset, from programming languages and specialized libraries to productivity tools like Jupyter Notebooks. In the following chapters, Lavanya focuses on practical techniques such as exploratory data analysis, data cleaning, and data visualization. Finally, learn about sampling, testing, and classification. By the end of the course, you will have the knowledge you need to perform basic data analysis and reporting, and unlock opportunities to accelerate your career in this exciting field. This course was created by Madecraft. We are pleased to host this content in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=653221
+Course_System=linkedin.com
+Course_Title=SharePoint 365: Integrating with PowerBI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to combine the visualization tools in Power BI with the collaborative power of SharePoint 365 to uncover more valuable insights from your data. In this course, Bill Kulterman explores how Power BI can be integrated into SharePoint to create interactive and data-rich reports. Learn how to connect to data in lists and libraries, and combine data from multiple locations throughout SharePoint. Bill then shows how to transform the data into stunning charts and visualizations, and publish your reports via Power BI services. Finally, he shows how to add a new page to your SharePoint site and embed the reports, so they are easy to access by everyone at your organization.

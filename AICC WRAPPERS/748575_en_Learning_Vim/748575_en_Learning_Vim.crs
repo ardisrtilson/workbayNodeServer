@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=748575
+Course_System=linkedin.com
+Course_Title=Learning Vim
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Vim is the most versatile, configurable, cross-platform text editor around, available for Mac, Windows, Linux, and even legacy operating systems like Amiga. It's built for developers, with powerful commands and productivity-boosting features like dual editing mode and syntax highlighting. This course is designed to help anyone new to Vim become more efficient when editing text files, code and configuration files. Learn how to create new files; search for words and characters; move around files; edit and delete text; store text in registers; jump around files with marks ( bookmarks); and use commands to speed up common tasks. Instructor Miki Tebeka fills the course with examples and demos that show how Vim is used in the real-world, day-to-day workflow of a developer or sysadmin.

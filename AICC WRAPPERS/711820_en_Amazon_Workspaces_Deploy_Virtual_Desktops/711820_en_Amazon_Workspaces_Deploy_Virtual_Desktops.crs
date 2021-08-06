@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=711820
+Course_System=linkedin.com
+Course_Title=Amazon Workspaces: Deploy Virtual Desktops
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about the capabilities of Amazon WorkSpaces as a remote desktop solution. In this course, instructor Lynn Langit helps to acquaint you with this fully managed desktop as a service (DaaS) solution, as well as other Amazon services that support virtualization. Lynn shows how to use default images and shares best practices for creating custom images. She also discusses WorkSpaces authentication and deployment, shares monitoring tips and techniques, explains how to use WorkDocs with WorkSpaces, and more.

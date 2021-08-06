@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Modglin
+Course_ID=488839
+Course_System=linkedin.com
+Course_Title=AutoCAD Customization for CAD Managers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Every company customizes Autodesk software at some level—especially AutoCAD. By standardizing the customizations, you can ensure that all your designers are using the same workspace and working in the most efficient way possible. Here Josh Modglin shows CAD managers how to customize the AutoCAD interface, preferences, templates, tool palettes, and symbol libraries to maximize your team's productivity. He also covers scripting and working with external files, such as line type definitions and hatch patterns. Make sure to check out the LISP for CAD Managers chapter where Josh introduces simple LISP programming routines to automate some of the most common AutoCAD tasks.

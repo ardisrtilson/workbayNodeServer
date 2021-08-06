@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Perlin
+Course_ID=461031
+Course_System=linkedin.com
+Course_Title=RoboHelp 2015 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+RoboHelp is Adobe's powerful documentation authoring tool, commonly used for creating online documentation and online help systems for desktop and web-based applications. RoboHelp makes it easy to localize documentation for different markets and generate output for different destinations: web, email, mobile devices, print, etc. Join RoboHelp certified trainer Neil Perlin, as he shows how to use RoboHelp 2015 to create your own layouts and publish output in multiple formats, including HTML5, Word, and PDF. Explore the software's conventions and interface, and learn how to create topics—the basic unit of content in RoboHelp. Then discover how to add navigation with tables and links, format content with CSS and master pages, and understand how to use single sourcing to output in various formats from a single layout.

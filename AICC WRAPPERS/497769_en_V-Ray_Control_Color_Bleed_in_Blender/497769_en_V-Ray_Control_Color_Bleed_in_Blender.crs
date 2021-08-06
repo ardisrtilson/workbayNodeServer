@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=497769
+Course_System=linkedin.com
+Course_Title=V-Ray: Control Color Bleed in Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Overcome the color bleed phenomenon that can occur in global illumination renders. Brian Bradley shows you how in this course. First, Brian discusses what color bleed is and why it occurs. Then, he dives into measures you can take to control color bleed and produce physically accurate color. He explains how white balance, saturation, light, and geometry impact color bleed. He also demonstrates how you can work with object properties, channels, and other tools to prevent, contain, or limit color bleed.

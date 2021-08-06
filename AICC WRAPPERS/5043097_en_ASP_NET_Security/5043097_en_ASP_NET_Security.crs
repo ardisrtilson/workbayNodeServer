@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Wenz
+Course_ID=5043097
+Course_System=linkedin.com
+Course_Title=ASP.NET: Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As many as nine out of ten web applications have security vulnerabilities. Luckily, ASP.NET developers have a multitude of security tools at their disposal, built right into the framework. Once activated, these features can prevent and mitigate the most common and dangerous types of attacks. Learn how to build on the basic security principles you may already know and incorporate practical solutions for defending your ASP.NET web applications. Instructor Christian Wenz explores the risks ASP.NET apps face, including the OWASP Top Ten vulnerabilities, cross-site scripting, and SQL injection, and countermeasures to combat them. Find out how to authenticate users with IdentityServer, store data securely, and harden your site's configuration with this practical, hands-on course that will transform your ASP.NET apps into impenetrable architectures.

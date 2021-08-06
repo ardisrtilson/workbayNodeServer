@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Cris Ippolite
+Course_ID=569334
+Course_System=linkedin.com
+Course_Title=Learning FileMaker 16
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design and build custom apps with FileMaker 16—the custom app development platform used everywhere from home offices to Fortune 500 companies. In this course, Cris Ippolite walks through the essential FileMaker Pro skills. He covers a variety of topics, from creating tables and fields to designing layouts that display your data in a smart way. He also shows how to find and sort data, create reports, import and export data, write scripts, diagram relationships, and more so you can start learning how to build your first custom app from scratch.

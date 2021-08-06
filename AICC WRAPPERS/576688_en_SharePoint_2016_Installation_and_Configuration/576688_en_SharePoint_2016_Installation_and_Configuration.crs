@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=CA Callahan
+Course_ID=576688
+Course_System=linkedin.com
+Course_Title=SharePoint 2016: Installation and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint 2016 is a powerful collaborative solution that you can leverage to share and manage content and applications—but installing it can sometimes seem a bit daunting. In this course, learn what you need to know to confidently tackle the process of installing and configuring SharePoint 2016. CA Callahan takes you through each stage of the process, covering everything from software installation prerequisites, to common topologies and MinRoles, to how to slipstream updates into an installation. Callahan introduces best practices, as well as steps involved in configuring outgoing email, web applications, site collections, managed accounts, and farm accounts. Plus, discover how to use some common tools that experienced administrators use on a day-to-day basis to make the most of their installation efforts.

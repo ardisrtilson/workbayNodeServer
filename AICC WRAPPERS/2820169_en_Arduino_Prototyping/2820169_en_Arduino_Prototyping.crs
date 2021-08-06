@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Gallup
+Course_ID=2820169
+Course_System=linkedin.com
+Course_Title=Arduino: Prototyping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For designers and product managers, the Arduino family of microcontrollers and easy-to-assemble components is a valuable tool for exploring and evaluating hardware product designs. Rapid, incremental prototypes can help improve outcomes and reduce cost and time in the design process. In this course, instructor Robert Gallup helps you go beyond the basics and learn what it takes to develop Arduino-based prototypes. Robert begins by providing an overview of the prototype development process, highlighting both best practices and potential pitfalls. He then steps through how to develop and refine a proof-of-concept prototype, introducing relevant concepts and techniques along the way. After this course, you'll be ready to tackle your own hardware prototyping using Arduino. Robert also includes several hands-on challenges with solutions to help you better understand the LCD, animation dynamics, and the final process of completing your prototype and modifying it in response to feedback.

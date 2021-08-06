@@ -2,9 +2,11 @@ const { query } = require('express');
 var express = require('express');
 var app = express();
 var fs = require("fs");
+var studentData = [];
 const { type } = require('os');
 const { Recoverable } = require('repl');
 
+const bodyParser = require('body-parser'); app.use(bodyParser.json()); 
 app.get('/', function (req, res) {
    fs.readFile(__dirname + "/" + "hello.txt", 'utf8', function (err, data) {
       res.end(data);
@@ -16,6 +18,18 @@ app.get('/courses', function (req, res) {
       res.end(data);
    })
 })
+
+app.post('/studentData', function(req, res) {
+   var student = req.body;
+   studentData.push(student.toString());
+   let dataToText = studentData.join()
+   res.send(student.toString());
+   fs.writeFile('Output.txt', dataToText, (err) => { 
+      
+      // In case of a error throw err. 
+      if (err) throw err; 
+  })
+});
 
 app.use('/endpointB', function (req, res, next) {
    try {
@@ -111,7 +125,7 @@ app.use('/users', function (req, res, next) {
 })
 
 // Set port to local port for debugging. Set to process.env.PORT when ready to deploy. 
-const port = process.env.PORT;
+const port = 8088;
 app.listen(port, () => {
   console.log('Express server listening on port', port)
 });

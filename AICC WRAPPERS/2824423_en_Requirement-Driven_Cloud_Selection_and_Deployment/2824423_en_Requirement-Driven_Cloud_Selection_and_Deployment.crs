@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2824423
+Course_System=linkedin.com
+Course_Title=Requirement-Driven Cloud Selection and Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Selecting a public cloud provider, or providers, is a complex undertaking. This course simplifies the process, offering tricks, tips, and best practices for first understanding your requirements and only then picking the platform that best meets those requirements—both now and in the future. Instructor Dave Linthicum explains how to identify what’s needed by the business and the IT team—establishing a well-defined requirements gathering process that won't lead you down the wrong path. He also explains what to look for within cloud solutions: how to get through the marketing hype and misinformation to get to the details you really need to pick the right cloud or clouds. Plus, learn how to identify the right time to deploy your cloud architecture, integration, and migration plan.

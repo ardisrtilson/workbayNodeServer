@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=718663
+Course_System=linkedin.com
+Course_Title=Learning Google Flutter for Mobile Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Flutter allows mobile developers to create high-quality application experiences that work natively for multiple platforms. Flutter is known for being fast, reactive, and modern. It works with existing Java, Swift, and ObjC code. Flutter can also create applications using Google Fuchsia, a newly introduced OS. In this course, Emmanuel Henri demonstrates how to use Flutter, including how to set up the SDK and simulators; add widgets, components, and navigation; leverage APIs; build, review, and deploy code; and more.

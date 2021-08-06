@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2828019
+Course_System=linkedin.com
+Course_Title=Cisco CCNP ENCOR (350-401) Cert Prep: 2 Network Management, Security, and Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Implementing Cisco Enterprise Network Core Technologies v1.0 (ENCOR 350-401) is a 120-minute professional-level exam associated with the CCNP and CCIE Enterprise Infrastructure certifications. The exam tests a candidate's knowledge of implementing core enterprise network technologies. This course helps candidates to prepare for the last three domains of this exam—Network Management, Security, and Automation—as well as general exam preparation. Instructors Kevin Wallace and Charles Judd show how to configure connectivity, monitoring, messaging, and authentication tools such as SNMP, syslog, NetFlow, and more. They also show how to secure a network from internal, unauthorized access as well as external threats, and automate networking. The course includes study strategies and exam prep tips to ensure you're ready for the real test. This course was created by Kevin Wallace Training. We are pleased to offer this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=699346
+Course_System=linkedin.com
+Course_Title=Data Science on Google Cloud Platform: Exploratory Data Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud computing brings unlimited scalability and elasticity to data science applications. Expertise in the major platforms, such as Google Cloud Platform (GCP), is essential to the IT professional. This course—one of a series by cloud engineering specialist and data scientist Kumaran Ponnambalam—shows how to conduct exploratory data analytics with GCP. First, review the concepts of segmentation and profiling. Then get hands on, as you learn to perform both text and visual analysis of data using tools provided by GCP: Cloud Datalab, BigQuery, Cloud Dataflow, and Data Studio. Finally, look at an end-to-end use case that applies what you've learned in the course.

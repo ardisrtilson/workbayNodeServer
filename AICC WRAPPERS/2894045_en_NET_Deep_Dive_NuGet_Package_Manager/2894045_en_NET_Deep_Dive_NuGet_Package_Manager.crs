@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2894045
+Course_System=linkedin.com
+Course_Title=.NET Deep Dive: NuGet Package Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most programming languages have an associated package management system that helps find and install code libraries and their dependencies. For the .NET developer, NuGet is the official package manager. In this course, longtime .NET programmer Walt Ritscher looks at the NuGet integration within Visual Studio and the Visual Studio command line. Walt shows you how to install, update, and remove packages from .NET projects, as well as how to search the public NuGet Gallery and create private repositories for your team. He also details the process of creating and publishing custom packages. If you’re a .NET programmer, understanding the Visual Studio package management system is vital knowledge, so join Walt as he takes a deep dive into the NuGet package manager.

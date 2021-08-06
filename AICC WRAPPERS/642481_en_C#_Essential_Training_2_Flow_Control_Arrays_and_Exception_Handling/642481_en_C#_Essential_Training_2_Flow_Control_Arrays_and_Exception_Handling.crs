@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bruce Van Horn
+Course_ID=642481
+Course_System=linkedin.com
+Course_Title=C# Essential Training:  2 Flow Control, Arrays, and Exception Handling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started in Microsoft application development by learning C#. Fast, capable, and productive, C# combines the best features of C++ and Java—with none of the reference counting or performance concerns. This course is the second half of C# Essential Training, which covers slightly more advanced techniques such as testing code, storing data in arrays and collections, processing lists with LINQ, controlling program flow, and handling exceptions. Get an introduction to unit testing, as well as flow-control mechanisms such as if-else and switch statements, logical operators, and loops. Find out how to run your projects, debug exceptions to understand why code is interrupted at runtime, and handle those exceptions with catch statements. Plus, learn how to create and manage packages of compiled code with NuGet, manage application logs with NLog, and produce a final build.

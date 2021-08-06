@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=2824079
+Course_System=linkedin.com
+Course_Title=AWS Administration: Security Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is your company making a move to the cloud with AWS? And if so, are you curious about how this change will impact your organization's ability to secure applications and end users? If so, then this course is for you. Join instructor Mark Wilkins as he details a variety of powerful AWS security features, explaining what the cloud platform has to offer in the areas of infrastructure security, data protection, and detective controls. Mark goes over services like Amazon Inspector, which allows you to automate the inspection and compliance checking of applications hosted on EC2 instances. He also shares what AWS offers to help you keep your data safe, including data encryption options for storage services, CloudHSM, and Amazon Macie, which allows you to use machine learning to analyze security breaches. Plus, discover how to monitor security with CloudTrail, monitor activity with GuardDuty, manage security with Control Tower, and much more.

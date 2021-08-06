@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=189068
+Course_System=linkedin.com
+Course_Title=Learning FTP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+FTP, or File Transfer Protocol, is the primary method of uploading and downloading files on the web. In this short course, Scott Simpson helps you understand how essential FTP is to users and the administrators who support them, and shows how to connect to FTP servers from the command line, a client, or a browser. Scott also explains how to transfer data more securely using SFTP.

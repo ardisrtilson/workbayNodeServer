@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=630611
+Course_System=linkedin.com
+Course_Title=Microsoft Enterprise Mobility Suite: Management and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Enterprise Mobility + Security (EMS) provides a comprehensive solution for managing and protecting users, data, devices, and apps. In this intermediate-level course, instructor takes a deep dive into EMS, showing you how to work with the management and security tools in this service. Sharon covers Azure Active Directory services-including the Premium services in EMS- and goes into using Azure Information Protection to secure information and protect data. She also covers using Intune to manage mobile devices and apps.

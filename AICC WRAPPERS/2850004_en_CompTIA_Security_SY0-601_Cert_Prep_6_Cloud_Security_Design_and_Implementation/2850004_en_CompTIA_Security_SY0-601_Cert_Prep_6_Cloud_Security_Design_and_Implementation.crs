@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2850004
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 6 Cloud Security Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In some respects, securing the cloud involves the same goals you'd see in any information security initiative. But since dealing with cloud providers alters the way that you work with security controls, security professionals must have a solid grasp of cloud security in order to effectively protect the confidentiality and integrity of their organization's information. In this course, the sixth installment in the CompTIA Security+ (SY0-601) Cert Prep series, explore the world of cloud security as you prepare for the Security+ exam. Instructor Mike Chapple covers virtualization; the building blocks of the cloud, including cloud storage, networking, and orchestration; cloud activities and the cloud reference architecture; and much more. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

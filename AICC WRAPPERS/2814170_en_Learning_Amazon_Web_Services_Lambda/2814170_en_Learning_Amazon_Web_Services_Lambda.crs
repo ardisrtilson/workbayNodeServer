@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marcia Villalba
+Course_ID=2814170
+Course_System=linkedin.com
+Course_Title=Learning Amazon Web Services Lambda
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ready to go serverless? Learn the essentials of working with AWS Lambda, a compute service that handles administration for you, so you're only responsible for your code. In this course, Marcia Villalba helps beginners get up and running with Lambda. To begin, she explains the basics of securing an AWS account and creating IAM users. From there, she moves on to the main concepts of the Lambda programming model and shows how to create Lambda functions and add API Gateway as a trigger. She steps through how to do everything from the AWS console to solidify your baseline knowledge before showing how to create lambda functions with the AWS Serverless Application Framework (SAM), which uses the paradigm of infrastructure as code—the recommended way to develop serverless applications.

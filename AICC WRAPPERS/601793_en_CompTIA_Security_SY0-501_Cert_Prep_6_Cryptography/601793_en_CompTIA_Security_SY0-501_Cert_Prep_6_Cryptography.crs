@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=601793
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-501) Cert Prep: 6 Cryptography
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare to take and pass the CompTIA Security+ exam. This installment of the CompTIA Security+ (SY0-501) Cert Prep series prepares candidates to confidently approach the Cryptography domain of the exam. Topics include encryption, symmetric and asymmetric cryptography, and key management. Plus, instructor Mike Chapple—an experienced IT leader—dives into hash functions, digital signatures, cryptanalytic attacks, and cryptographic applications. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

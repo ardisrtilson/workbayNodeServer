@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=711810
+Course_System=linkedin.com
+Course_Title=Code Clinic: Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Successful programmers know more than just how to code. They also know how to think about solving problems. Code Clinic is a series of courses where our instructors solve the same problems using different programming languages. Here, Barron Stone works with Python. Barron introduces challenges and provides an overview of his solutions in Python. Challenges include topics such as statistical analysis and accessing peripheral devices. Visit other courses in the series to see how to solve the same challenges in languages like C++, C#, JavaScript, PHP, Python, Ruby, Go, and Swift.

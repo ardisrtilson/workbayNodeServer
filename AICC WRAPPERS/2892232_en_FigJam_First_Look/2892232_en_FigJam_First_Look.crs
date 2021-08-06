@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Brazzi
+Course_ID=2892232
+Course_System=linkedin.com
+Course_Title=FigJam First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Brainstorm better with FigJam. Learn about the new whiteboard collaboration tool for user experience and design thinking projects. This short introductory course explores the FigJam collaborative workflow and deep integration with Figma, which allows Figma designers and non-designer stakeholders to easily share ideas. Discover how to set up accounts, manage teams, create and edit files, collaborate with teammates, and integrate Figma content in a FigJam file.

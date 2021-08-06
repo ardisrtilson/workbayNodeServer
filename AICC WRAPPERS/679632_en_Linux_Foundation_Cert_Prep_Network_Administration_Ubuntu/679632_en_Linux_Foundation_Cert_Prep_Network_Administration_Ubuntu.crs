@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=679632
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Network Administration (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By earning the Linux Foundation Certified Engineer (LFCE) certification, you demonstrate to potential employers that you have an advanced understanding of Linux system administration concepts. In this course, review key topics that can help you prepare for the exam, and enhance your ability to use a Linux server to offer essential services to a network. Discover how to configure a DHCP and PXE boot server, as well as how to save bandwidth by configuring an HTTP proxy server. Plus, learn how to configure mail and an authoritative name server.

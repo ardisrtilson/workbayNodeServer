@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Lehman
+Course_ID=556513
+Course_System=linkedin.com
+Course_Title=IoT Development with Windows 10 IoT Core 1: Installation and Basic Connection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Windows 10 IoT Core, Microsoft brings together Windows and the Internet of Things (IoT). This version of Windows 10 is optimized for smaller devices, runs on the Raspberry Pi 2 and 3, and allows you to incorporate the power of Windows into nearly any kind of device you can dream up—from smart watches to car data connectors. This course is the first in a series of two courses by Michael Lehman; both courses are designed to help you get up and running with Windows 10 IoT. Here, Michael explains how to build a simple, hardware breadboard setup to validate your development environment.

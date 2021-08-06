@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nertil Poci
+Course_ID=2845000
+Course_System=linkedin.com
+Course_Title=Monitoring AWS with CloudWatch
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Companies that move to the cloud can end up using hundreds or thousands of different services. CloudWatch allows organizations to manage all these services' performance and issues using logs, metrics, and alerts—all in one place. In this course, learn what CloudWatch has to offer, and how to use it to monitor your entire cloud ecosystem from one central location. Instructor Nertil Poci goes over how to set up alarms and notifications, gather and query logs, and create metrics for logs to better understand how your services are performing. Learn how to implement CloudWatch agent to collect VM logs, use Synthetics to monitor application load times, and use canaries to monitor specific pages and APIs. Finally, learn about ServiceLens, which helps you visualize numerous application components and their interactions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=647675
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Choosing the Right Database
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Over the past few years, the database world has seen a plethora of new database types appear: document, key-value, graph, and columnar. In addition, data science professionals also have the old giant—relational database management systems (RDBMS)—as an option. Typical data science and analytics use cases have now expanded to text, social media, IoT, and the cloud. With so much to consider, how do you choose the right database for your specific data science project? This course can help by sharing what you need to know to make an informed decision. Kumaran Ponnambalam begins by discussing the roles of databases in data science, as well as the key feature and performance requirements for databases in this field. Next, Kumaran goes over different database types, sharing the strengths and weaknesses of each one. To wrap up, he walks through specific use cases and shows how to select the best database technology for each situation.

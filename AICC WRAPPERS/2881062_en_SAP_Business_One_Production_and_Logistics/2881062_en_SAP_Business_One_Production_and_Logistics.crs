@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=2881062
+Course_System=linkedin.com
+Course_Title=SAP Business One: Production and Logistics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re running any sort of manufacturing, distribution, or retail operation, keeping track of what goes in and out the door is vital to your business. In this course, instructor Steven Lipton dives into the production and logistics module of SAP Business One and shows how it functions as an accounting module for tracking goods and materials, as well as an inventory module to help with procurement and inventory management systems. Steve covers how to track inventory in one or more warehouses, how to remove items from inventory after a sale, and how to purchase goods and enter them into inventory. He also goes over production workflows by taking raw materials and turning them into finished goods, tracking them through purchasing, storage, manufacturing, and shipping. He also details how to purchase future inventory and supplies using MRP in Business One.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Simon Allardice
+Course_ID=143328
+Course_System=linkedin.com
+Course_Title=Objective-C Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are a lot of programming languages out there, but Objective-C is the best choice for developers who want to develop iOS and OS X apps. This course is your primer. Get the tools you need, learn the structure of Objective-C, and get your first code up and running. Author Simon Allardice also walks you through the Foundation framework, a collection of prewritten code that makes the coding process easier; shows you how to design and build your own classes; and provides memory management techniques—the key to efficient programming. Plus, learn how to make your way around Xcode 5, the app to write, test, and debug Objective-C, and into advanced features like categories, protocols, and dynamic typing.

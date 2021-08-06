@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kristin Jackvony
+Course_ID=2822401
+Course_System=linkedin.com
+Course_Title=Postman Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Automated API testing is one of the most efficient ways to ensure that an API is behaving as expected—faster and far superior to automated UI testing. For testers and developers responsible for API testing, Postman is a popular and free solution. It offers a rich interface for writing test cases and features for automation, such as the ability to reuse tests and integrate collections into a CI build system like Jenkins. This course introduces the process of writing, running, and automating API tests with Postman. Instructor Kristin Jackvony shows how to create a complete test collection; create easy and advanced assertions, including nested JSON assertions; run collections with the built-in collection runner and the command-line runner, Newman; and configure automatic runs in Jenkins projects.

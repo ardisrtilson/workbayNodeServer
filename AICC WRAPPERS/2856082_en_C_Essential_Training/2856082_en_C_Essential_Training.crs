@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=2856082
+Course_System=linkedin.com
+Course_Title=C++ Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn C++ programming, starting with the basics. Widely used for both systems and applications development, C++ is available for virtually every operating system and has influenced and informed many derivative languages, including C# and Java. In this course, Bill Weinman guides you through the nuts and bolts of this essential language. He helps you set up your environment for coding and dissects the anatomy of a basic C++ program. He reviews the essentials—statements and expressions, variables, conditionals, operators, loops, and functions—and moves on to more complex topics, such as data structures, classes and objects, and templates. Along the way, Bill explains concepts such as recursion, type casting, and operator overloads, and dives into the powerful container classes and algorithms in Standard Template Library (STL). These exhaustive tutorials provide a solid C++ reference for both experienced programmers and those who are brand new to the language.

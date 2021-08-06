@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=648938
+Course_System=linkedin.com
+Course_Title=Angular: Building Large Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web apps keep growing, adding more features and more complexity every day. While frameworks like Angular spare developers constant reinvention, the sheer volume of code required to build enterprise-scale apps is staggering. This course teaches best practices for structuring and managing Angular applications, keeping components from tangling and helping developers bring complex projects to successful conclusions. Instructor Emmanuel Henri shows how to prepare apps for growth: plan ahead for scalability and maintainability. Learn how to initialize a project with the Angular CLI, organize your code, and deploy projects with npm packages and containers. Emmanuel also covers security, testing, and continuous integration, and introduces two advanced architecture models: progressive web apps (PWA) and server-side rendering (SSR).

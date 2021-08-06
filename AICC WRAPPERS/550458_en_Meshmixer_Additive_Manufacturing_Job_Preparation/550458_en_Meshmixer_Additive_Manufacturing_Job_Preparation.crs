@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=550458
+Course_System=linkedin.com
+Course_Title=Meshmixer: Additive Manufacturing Job Preparation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Meshmixer is a state-of-the-art program for creating and editing 3D models. In this course, Ryan Kittleson showcases the software's powerful features for additive manufacturing preparation. Ryan takes you through the steps you need to know to prepare your models to be fabricated on a 3D printer using Meshmixer. He covers a variety of topics, including how to ensure that your model has the right scale, split a model into smaller pieces, increase thickness for printability, create support structures, and export a printable file. This course was created by Ryan Kittleson. We're honored to host this training in our library.

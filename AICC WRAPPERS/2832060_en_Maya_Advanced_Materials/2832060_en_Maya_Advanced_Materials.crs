@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=2832060
+Course_System=linkedin.com
+Course_Title=Maya: Advanced Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Maya is an industry leader in 3D materials and shaders. The software's nearly limitless tools for materials and shading enable artists to visualize almost anything. In this course, instructor Aaron F. Ross helps you take material look development to the next level. Accelerate your workflow with tips and tricks on the Hypershade graph and browser in Maya. Learn how to design a wide range of convincing materials with the new Standard Surface shader. Plus, discover how to apply textures to key shading attributes, render transparency and translucency, and add surface detail with bump, normal, and displacement maps.

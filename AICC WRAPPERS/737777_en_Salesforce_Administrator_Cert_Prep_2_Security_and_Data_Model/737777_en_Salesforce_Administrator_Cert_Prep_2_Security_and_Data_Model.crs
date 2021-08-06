@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Wheeler
+Course_ID=737777
+Course_System=linkedin.com
+Course_Title=Salesforce Administrator Cert Prep: 2 Security and Data Model
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security and customization are key responsibilities of the Salesforce administrator—so it makes sense that they play big roles in the Salesforce Certified Administrator exam. To help you prepare to take and pass the exam, instructor Mike Wheeler has designed the Salesforce Administrator Cert Prep series. In this course—the second installment in the series—Mike covers these two important sections of the exam. He first explains how to identify and apply various security controls, from passwords to IP restrictions, and create roles and profiles with custom security settings and permissions. Then he covers the Salesforce object architecture: working with the objects and fields that come standard with Salesforce as well as creating your own custom objects and fields.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bethan Palmer
+Course_ID=718637
+Course_System=linkedin.com
+Course_Title=Java Design Patterns: Creational
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns provide a kind of template for writing quality code. Knowing which design pattern to use in which scenario can be challenging, but will make you a better Java programmer. This course takes a deep dive into creational patterns, which can help you create more flexible, reusable objects. Instructor Bethan Palmer covers the five most popular creational patterns—Builder, Singleton, Prototype, Factory Method, and Abstract Factory—as well as concepts such as multithreading, mutability, and hierarchies. She provides example use cases, complete with implementation instructions and tips for avoiding the unique challenges posed by each pattern. By the end of the course, you'll be armed with the knowledge and skills necessary to implement each design pattern in your own Java projects.

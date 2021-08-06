@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Roger Miller
+Course_ID=2880086
+Course_System=linkedin.com
+Course_Title=Unity: AR Visualization 01 Basic Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mobile augmented reality (AR) is currently the most popular and pervasive form of AR in the market. The applications of AR for the architecture, engineering, and construction (AEC) industries have already started to prove themselves indispensable. In this course, learn how to use the Unity game engine to create an AR mobile application for iOS or Android to view and interact with a 3D model in the real world. As a bonus, instructor Roger Miller also looks at working with the Unity Reflect plugin to help get CAD and BIM data into Unity. If you are an AEC professional, or a Unity engineer looking to break into the augmented reality space, this course is for you.

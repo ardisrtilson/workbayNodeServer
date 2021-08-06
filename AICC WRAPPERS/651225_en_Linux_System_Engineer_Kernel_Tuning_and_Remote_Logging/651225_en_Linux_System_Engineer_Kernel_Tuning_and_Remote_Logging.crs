@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=651225
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Kernel Tuning and Remote Logging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The RHCE certification demonstrates expert-level competence with Red Hat Enterprise Linux 7. This course covers two of the key objectives of the certification exam: Linux kernel tuning for performance optimization and remote logging. Computer science instructor and Linux enthusiast Grant McWilliams shows how to change kernel parameters by hand and using tuned profiles. Additionally, he demonstrates how to turn PowerTOP suggestions into tuned profiles. He shows how to tune processor affinity and schedulers with Tuna, and test your optimizations with performance monitoring tools like Performance Co-Pilot (PCP), Turbostat, ps, and GNOME System Monitor. He also shows how to load and customize kernel modules. Last but not least, Grant covers remote logging using rsyslog.

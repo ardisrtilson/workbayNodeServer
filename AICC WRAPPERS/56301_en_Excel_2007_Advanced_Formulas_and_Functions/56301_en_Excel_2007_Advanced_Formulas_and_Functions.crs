@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=56301
+Course_System=linkedin.com
+Course_Title=Excel 2007: Advanced Formulas and Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In Excel 2007: Advanced Formulas and Functions, author and trainer Dennis Taylor demystifies some of the most challenging of the 300+ formulas and functions in Excel and shows how to put them to their best use. Dennis starts with a review of the more basic, building-block functions, and a few critical keyboard shortcuts that will speed up working with Excel data, even on multiple sheets. He then covers how to perform advanced searching and data retrieval with Lookup functions, tabulate and sort data with counting and statistical functions, format data with text and math functions, and even work with financial data using advanced formulas. Dennis focuses on practical examples that will help users easily transition to using these formulas and functions in real-world scenarios. Exercise files accompany this course.

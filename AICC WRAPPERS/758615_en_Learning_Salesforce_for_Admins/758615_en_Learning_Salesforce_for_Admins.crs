@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Matthew Spencer
+Course_ID=758615
+Course_System=linkedin.com
+Course_Title=Learning Salesforce for Admins
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become a Salesforce admin. Learn how to streamline the user experience and administration of Salesforce. In this course, Christopher Matthew Spencer explores how to configure and administer Salesforce so that the functions of this CRM (customer relationship management) tool align to the needs and goals of your business. Learn how to customize sales paths and opportunity stages, set up custom fields, and create custom reports for your teams. Christopher also shows how to secure your data, and configure user accounts with different levels of access. Use these tips to work smarter, and provide more value for your Salesforce users.

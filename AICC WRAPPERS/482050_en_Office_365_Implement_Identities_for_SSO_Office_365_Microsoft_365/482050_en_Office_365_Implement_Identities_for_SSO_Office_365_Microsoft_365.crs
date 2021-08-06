@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=482050
+Course_System=linkedin.com
+Course_Title=Office 365: Implement Identities for SSO (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Office 365 is a cloud-based set of services that allow corporate users to securely communicate and collaborate more easily in today's mobile world. Single sign-on ensures that they can easily transition from one service or app to another, creating a more seamless and productive user experience. Here, system admins will learn how to implement and manage federated identities for single sign-on in Office 365. Microsoft Certified Trainer Sharon Bennett shows how to plan for an Active Directory Federation Services (AD FS), install the AD FS role on Windows Server 2012 R2, and install and manage AD FS proxy servers. Note: This training course maps to the Implement and Manage Federated Identities for SSO domain for Microsoft Certification exam 70-346.

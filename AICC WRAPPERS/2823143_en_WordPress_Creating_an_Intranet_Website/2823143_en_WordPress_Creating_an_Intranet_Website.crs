@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2823143
+Course_System=linkedin.com
+Course_Title=WordPress: Creating an Intranet Website
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ease of use and high extensibility are just a couple of reasons why WordPress can work as an ideal tool for your company's internal file sharing needs. In this course, learn how to provide shared access to files and resources within your organization by setting up an intranet website using WordPress. Instructor Morten Rand-Hendriksen provides a detailed breakdown of how to build an intranet site. Along the way, he provides tips for addressing common challenges and generally making the most of the WordPress platform. Learn how to restrict access to your site, create a front-end user experience, and add typical site features such as a calendar and knowledge base. Plus, see how to best maintain your site, including how to manually install and update plugins and themes.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=176494
+Course_System=linkedin.com
+Course_Title=Design the Web: SVG Rollovers with CSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to change the color and visibility of SVG graphics with CSS. In this installment of Design the Web, author Chris Converse shows how to control the properties of SVG elements with external CSS, and make your graphics update on rollover. Plus, learn how to group multiple SVG graphics and control them with a single rollover state. The exercise files for this course are free to all members, so dive in and start following along now.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2871169
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 1 Security and Risk Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about information security and risk management practices needed to complete the first domain of the 2021 Certified Information Systems Security Professional (CISSP) exam. CISSP is the industry's gold standard certification, necessary for many mid- and senior-level positions. This course includes coverage of key exam topics from the Security and Risk Management domain: security governance, compliance and policy issues, personnel security, threat modeling, and vendor management. Author Mike Chapple also covers the trifecta of information confidentiality, integrity, and availability. He reviews business continuity and risk management strategies, and highlights the importance of ongoing security awareness and education in any organization. Find the companion study books at the Sybex test prep site and review the complete CISSP Body of Knowledge at https://www.isc2.org/cissp-domains/default.aspx.

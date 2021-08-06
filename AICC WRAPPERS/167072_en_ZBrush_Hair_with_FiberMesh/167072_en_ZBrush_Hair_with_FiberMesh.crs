@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=167072
+Course_System=linkedin.com
+Course_Title=ZBrush: Hair with FiberMesh
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ZBrush offers a new way to make hair and fur with its FiberMesh tool. In this course, ZBrush artist Ryan Kittleson introduces the features of this mesh generation tool, and gives step-by-step examples of how they can be used in practice. Ryan goes over how to properly prepare your model before you start making hair, initialize the basic hair parameters for setting length and thickness, and use the Groom brushes to tame and style hair. To wrap up, he explains how to make other kinds of hair including eyebrows, eyelashes, and stubble.

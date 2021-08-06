@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2876026
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 8 Supply Chain and Software Acquisition
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified Secure Software Lifecycle Professional (CSSLP) is a globally recognized certification from (ISC)2, the organization that has certified well over 100,000 information security professionals. As a CSSLP holder, you can demonstrate to current and/or future employers that you possess proven knowledge of how security can be embedded in the software development lifecycle (SDLC). In this course, instructor Jerod Brennen walks you through what you need to know about the eighth exam domain: Secure Software Supply Chain. Jerod explains the importance of having a process in place for assessing supply chain risk and shows you how to update that process over time. He discusses what you can do to make sure you can trust code you receive from third-party software solutions. Jerod concludes by explaining key documents that you should request from your supplier, as well as contractual requirements like IP ownership, code escrow, EULAs, and SLAs.

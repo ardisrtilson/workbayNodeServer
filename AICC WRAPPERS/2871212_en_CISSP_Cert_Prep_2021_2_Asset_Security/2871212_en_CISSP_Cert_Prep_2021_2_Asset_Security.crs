@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2871212
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 2 Asset Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CISSP is the industry's gold standard certification, necessary for many mid- and senior-level information security positions. Learn about best practices needed to complete the second domain of the 2021 Certified Information Systems Security Professional (CISSP) exam: Asset Security. Instructor Mike Chapple explains the importance of data governance policies and roles, and how you can develop security baselines that leverage industry standards. Learn how to avoid liability by limiting data collection, and control your exposure with file encryption, and cloud storage security options. Plus, find out how to properly retain and dispose of sensitive information. Find the companion study books at the Sybex test prep site and review the complete CISSP Body of Knowledge at https://www.isc2.org/cissp-domains/default.aspx.

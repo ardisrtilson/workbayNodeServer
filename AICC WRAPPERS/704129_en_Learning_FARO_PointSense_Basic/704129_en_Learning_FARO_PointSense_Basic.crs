@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Irene Radcliffe
+Course_ID=704129
+Course_System=linkedin.com
+Course_Title=Learning FARO PointSense Basic
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+FARO PointSense Basic allows you to take scan data from a variety of sources— including laser scans and photogrammetry—for use within AutoCAD or Civil 3D. In this course, learn how to work with FARO PointSense Basic. Instructor Irene Radcliffe steps through how to configure your project, work with the powerful sectioning tools, create slices, and digitize your scans. Plus, she helps to familiarize you with the available drawing tools and shows how to use your scan data with VirtuSurv, FARO software for producing realistic and intuitive views of scan data.

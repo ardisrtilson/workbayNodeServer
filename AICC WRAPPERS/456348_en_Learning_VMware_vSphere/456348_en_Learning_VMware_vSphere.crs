@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Mangru
+Course_ID=456348
+Course_System=linkedin.com
+Course_Title=Learning VMware vSphere
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the key components of vSphere 6, VMware's cloud computing virtualization platform. VMware vSphere Fundamentals concentrates on the architecture, hardware, and software in the Standard and Enterprise Plus editions of vSphere 6, which offers better scale, resilience, and fault tolerance than ever before. Author Daniel Mangru shows how to gather necessary reference materials to support your day-to-day admin activities, and reviews components such as the ESXi hypervisor, vCenter Server, the Platform Services Controller, the vSphere web client, vMotion, and more. He also looks at licensing and support agreements, and the 11 Enterprise Plus features that might encourage your organization to upgrade. This close read of the vSphere components and features will help IT admins better manage and troubleshoot VMware's bestselling datacenter virtualization platform.

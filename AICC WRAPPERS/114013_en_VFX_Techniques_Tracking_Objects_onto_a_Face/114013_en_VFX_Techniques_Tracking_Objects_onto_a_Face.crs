@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=114013
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Tracking Objects onto a Face
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VFX Techniques introduces common yet critical visual effects techniques that are used in film and television shows on a regular basis. This installment shows how to build complex composites with Adobe After Effects and mocha, where motion graphics are mapped to live-action footage of an actor. Author Lee Lanier starts by combining rotoscoping and effects to digitally apply makeup to an actor to disguise motion tracking marks. Then discover how to transfer footage into mocha and generate planar tracking data that you can use to motion track graphics to the moving face of the actor. Plus, learn how to build and adjust motion graphics to create the look of a virtual tattoo and a pair of holographic heads-up glasses.

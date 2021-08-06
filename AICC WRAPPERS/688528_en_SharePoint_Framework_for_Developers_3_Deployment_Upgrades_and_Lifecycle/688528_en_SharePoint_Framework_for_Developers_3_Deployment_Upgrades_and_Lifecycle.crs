@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=688528
+Course_System=linkedin.com
+Course_Title=SharePoint  Framework for Developers: 3 Deployment, Upgrades, and Lifecycle
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The SharePoint Framework (SPFx) is the development methodology for Office 365 and SharePoint on premises. In this practical course—the third installment in a series—instructor Sahil Malik shares real-world techniques for managing your SharePoint solutions. Sahil explains how to deploy SPFx solutions and manage their upgrades, as well as how to use the site collection app catalog. He also provides an introduction to the application lifecycle management APIs, including coverage of Office 365 CDN, Site Collection App Catalog, ALM APIs, and lifecycle management of SPFx solutions using both SharePoint PnP PowerShell and the Office 365 CLI.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=758644
+Course_System=linkedin.com
+Course_Title=Adobe XD: Prototyping Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to build a prototype—without a lot of time? Adobe XD is the user experience toolkit you need to build engaging, interactive prototypes. This course offers eight quick tips and tricks gets you up and running fast. Learn how to create fixed-position and sliding menus, preserve scroll position for slideshows, add automatic animation and draggable interactions, set up timed transitions, and incorporate voice prototyping: voice triggers and speech playback. Along the way, instructor Brian Wood offers time-saving pointers to optimize your XD workspace and environment for speedy, frictionless prototyping.

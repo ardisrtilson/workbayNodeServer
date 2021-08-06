@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Monika Wahi
+Course_ID=548702
+Course_System=linkedin.com
+Course_Title=Healthcare Analytics: Regression in R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linear and logistic regression models can be created using R, the open-source statistical computing software. In this course, biotech expert and epidemiologist Monika Wahi uses the publicly available Behavioral Risk Factor Surveillance Survey (BRFSS) dataset to show you how to perform a forward stepwise modeling process. Monika shows you how to design your research by considering scientific plausibility selecting a hypothesis. Then, she takes you through the steps of preparing, developing, and finalizing both a linear regression model and a logistic regression model. She also shares techniques for how to interpret diagnostic plots, improve model fit, compare models, and more.

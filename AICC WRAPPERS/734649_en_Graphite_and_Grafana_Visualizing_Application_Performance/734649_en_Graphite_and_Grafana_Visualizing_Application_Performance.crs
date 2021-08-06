@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Laura Stone
+Course_ID=734649
+Course_System=linkedin.com
+Course_Title=Graphite and Grafana: Visualizing Application Performance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get better insights into your back-end performance—whether your applications run on site or in the cloud. StatsD, Graphite, and Grafana are three popular open-source tools used to aggregate and visualize metrics about systems and applications. This course shows how to use them in combination to stay on top of outages, diagnose issues related to database and server performance, and optimize your user experience. Instructor Laura Stone—a senior-level site reliability engineer—explains how to gather app-specific metrics with StatsD, store those metrics efficiently with Graphite, and monitor and beautifully visualize this information with Grafana. Follow along to learn how to install, configure, and use these tools to create informative, useful dashboards that provide insights into multiple applications and systems—deepening your understanding of the performance and business value of your organization's architecture.

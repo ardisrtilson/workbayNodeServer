@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=5030980
+Course_System=linkedin.com
+Course_Title=Git: Branches, Merges, and Remotes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Git—the popular and free version control software—unlocks powerful code management tools, including branching, merging, and remote repositories. The course explains how to use these features and commands for change tracking and collaboration. Learn to navigate the commit tree and review the log to find specific commits. Find out how to create branches to test new ideas without impacting the main project and merge those changes into the project if they work out. You can also reset branches to undo changes and stash changes that are not ready to be committed in temporary storage. Instructor Kevin Skoglund also shows how to set up a remote repository to work with another developer and implement a collaboration workflow to ensure you are working together effectively.

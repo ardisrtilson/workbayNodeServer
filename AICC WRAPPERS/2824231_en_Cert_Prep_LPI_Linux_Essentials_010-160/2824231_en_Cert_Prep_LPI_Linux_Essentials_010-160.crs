@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Dion
+Course_ID=2824231
+Course_System=linkedin.com
+Course_Title=Cert Prep: LPI Linux Essentials (010-160)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare for the LPI Linux Essentials (010-160) certification exam. This course covers the five domains of this popular Linux exam, so that you can earn your certification and expand your career options as a Linux professional. Learn the fundamentals of the operating system, get introduced to numerous Linux distributions, and gain experience in the configuration, management, and usage of common open-source software applications. Instructor Jason Dion also reviews commands and scripting, process management, networking, user management, and permissions. In addition to theory, you get step-by-step demonstrations in practical labs and really learn how to use and configure key features and functionality. By the end of the course, you should start to feel like a true Linux professional. This course was created by Jason Dion. We are pleased to offer this training in our library.

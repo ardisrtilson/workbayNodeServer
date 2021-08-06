@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nate Barbettini
+Course_ID=753925
+Course_System=linkedin.com
+Course_Title=Deploying ASP.NET Core Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to deploy cross-platform ASP.NET Core applications. With the changes to ASP.NET Core that allow apps to run across Mac, Windows, and Linux, developers need to be able to choose the right deployment strategy: one that maximizes app performance and user experience. This course helps you deploy ASP.NET apps to IIS and cloud services like Azure, as well as to Linux servers and Docker containers. Follow along with Nate Barbettini as he sets up a simple project and works through these different deployment scenarios. Get practical tips and insights into the pros and cons of each deployment option. Plus, find out how Docker Hub can make it even easier to distribute your images across machines.

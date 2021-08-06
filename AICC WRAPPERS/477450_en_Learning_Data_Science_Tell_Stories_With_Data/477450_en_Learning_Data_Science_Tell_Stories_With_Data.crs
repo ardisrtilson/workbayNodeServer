@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=477450
+Course_System=linkedin.com
+Course_Title=Learning Data Science: Tell Stories With Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many anthropologists believe our early ancestors built societies around campfire stories about justice, leadership, and government. Your data science teams will also have complex ideas about their data and results. That's why it takes a well-structured story to communicate these insights to the rest of your organization. It's not simply a matter of creating the perfect Excel sheet or a beautiful graph. You need to tell a story that captures your audience's imagination and encourages them to take some action. In this course, instructor Doug Rose explains how to weave together a great data science story and draw your audience into the story to communicate complex ideas and motivate everyone to make real changes.

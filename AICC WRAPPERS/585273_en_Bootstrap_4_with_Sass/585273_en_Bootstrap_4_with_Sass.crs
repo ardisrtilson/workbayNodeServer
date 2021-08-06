@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=585273
+Course_System=linkedin.com
+Course_Title=Bootstrap 4 with Sass
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bootstrap is the most popular framework for building responsive, mobile-first websites. When you combine it with Sass, you get CSS superpowers and a level of customization that makes Bootstrap even more powerful. This course explores the differences between regular Bootstrap and the new Sass-driven version, Bootstrap 4, and shows how to use the Sass-enabled features to build more customized sites. Instructor Ray Villalobos shows how to install libraries to add custom fonts, icons, and animations; use Sass variables, maps, and mixins to create custom layouts; modify global settings; and customize existing components with CSS and Sass.

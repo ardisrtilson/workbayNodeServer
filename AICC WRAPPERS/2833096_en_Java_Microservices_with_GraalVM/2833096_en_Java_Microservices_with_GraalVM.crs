@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2833096
+Course_System=linkedin.com
+Course_Title=Java Microservices with GraalVM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Traditional JVMs often fail to deliver the speed and efficiency necessary to run today's cloud-based Java applications. GraalVM is a virtual machine that aims to improve performance using strategies such as precompilation and native image creation. Learn how GraalVM can improve your modern Java microservice implementations with examples shown using the Micronaut, Helidon, Quarkus, and Spring frameworks. Instructor Frank Moley first demonstrates how to use GraalVM with existing code artifacts, so you can see the performance benefits on raw code. He then shows how to build a basic microservice in each of the four frameworks—as well as a native image of each service—and reviews the performance and image size metrics of the final microservices. Using these practical examples, you can evaluate which combination will benefit your Java projects the most.

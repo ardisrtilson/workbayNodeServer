@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=786409
+Course_System=linkedin.com
+Course_Title=Azure Service Bus
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Service Bus provides reliable cloud messaging between application and databases, offering messaging as a service (MaaS). Learn how Service Bus can be implemented to integrate your existing architecture. Find out how to set up a namespace with messaging queues, and write simple messages for the queues to manage. See how to establish messaging topics that applications can leverage, then subscribe recipients to those topics. Additionally, explore further resources that can be used in tandem with Service Bus.

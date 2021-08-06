@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Melbert, Bentley Systems
+Course_ID=2884136
+Course_System=linkedin.com
+Course_Title=Learning MicroStation CONNECT Edition for Building Designers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MicroStation, one of the world's leading CAD software platforms, gives users the power to leverage BIM workflows to speed up their drafting and modeling processes. In this course, instructor John Melbert steps through the fundamentals of working with MicroStation CONNECT Edition, tailoring his instruction to the needs of building designers and drafters who are new to the software. John helps designers and drafters build a solid foundation in the concepts, tools, and features found in the MicroStation drawing environment within a 2D building project. Learn about basic navigation in the MicroStation CONNECT Edition user interface, creating and working with MicroStation design files, design file settings, precision drawing, and more.

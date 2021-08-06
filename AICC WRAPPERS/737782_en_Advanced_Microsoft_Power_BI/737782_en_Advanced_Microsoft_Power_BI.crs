@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Helen Wall
+Course_ID=737782
+Course_System=linkedin.com
+Course_Title=Advanced Microsoft Power BI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data visualization allows you to represent information digitally and graphically, to convey the results of data analysis. Microsoft Power BI is a suite of business analytics tools that help you gain insights from your data. The suite brings together familiar operations from well-known products—including Excel, Access, Power Query, and Power Pivot—to help you quickly get move the basics and on to comprehensive analysis. In this course, Helen Wall guides you through the advanced capabilities of the service. She shows how to work with calculations, leverage the DAX language, create advanced queries, and use the M language to improve the querying process. She demonstrates how to import data from various sources, compose advanced formulas, manage the fields and columns in tables, use X-factor functions, use conditional statements, filter results, design charts, and more.

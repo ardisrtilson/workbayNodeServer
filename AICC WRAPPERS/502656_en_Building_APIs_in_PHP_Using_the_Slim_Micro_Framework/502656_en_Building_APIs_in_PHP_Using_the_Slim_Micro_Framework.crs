@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith Casey
+Course_ID=502656
+Course_System=linkedin.com
+Course_Title=Building APIs in PHP Using the Slim Micro Framework
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A well-designed API includes not just URLs and response codes but also authentication, consistent structures, and useful JSON payloads. Luckily, the Slim micro framework makes it easy to move an API from concept to implementation to production. What used to take weeks or even months can usually be done in hours or days with Slim. This course begins with a simple application specification and builds it one step at a time. Each chapter includes a key concept, with examples from other public APIs, and then shows how to build it yourself with Slim. Learn about URL routing, validating input, and generating response codes and hypermedia payloads. Like any project, the first implementation may be a little messy but don't worry. The last chapter covers refactoring and what it takes to scale and support the API going forward.

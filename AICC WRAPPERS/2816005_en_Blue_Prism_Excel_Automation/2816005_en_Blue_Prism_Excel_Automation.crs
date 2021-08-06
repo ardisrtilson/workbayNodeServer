@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marchela Bozhilova
+Course_ID=2816005
+Course_System=linkedin.com
+Course_Title=Blue Prism: Excel Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Excel became one of the world's most popular business applications because it helps professionals efficiently organize, analyze, and present information. With Blue Prism, a powerful robotic process automation (RPA) tool, you can be even more productive with Excel. Blue Prism comes with an Excel VBO file that you can leverage to quickly start automating key Excel processes. In this course, join Marchela Bozhilova as she goes over the basics of Excel automation in Blue Prism. She shares best practices as she demonstrates how to create an end-to-end process to generate a consolidated report that extracts data from other sources. Along the way, she covers key Excel VBO functionality, including how to work with environment variables and filter collections.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=180107
+Course_System=linkedin.com
+Course_Title=Android App Development: Animations and Transitions with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Android SDK offers many ways to create visually compelling animations and screen transitions for mobile apps. This course starts with an overview of the different animation techniques and APIs, and then offers hand-on instruction using each one. David Gassner covers defining view animations in XML declarations and in Java code; animating frame by frame with images; animating object properties over time or in response to an event with tweened calculations; building simple transitions between activities; and using the new transitions framework that was introduced in Android 4.4 KitKat.

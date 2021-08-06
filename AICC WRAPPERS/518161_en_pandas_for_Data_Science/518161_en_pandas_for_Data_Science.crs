@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charles Kelly
+Course_ID=518161
+Course_System=linkedin.com
+Course_Title=pandas for Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+pandas for Data Science is an introduction to one of the hottest new tools available to data science and business analytics specialists. pandas is an open-source library that provides high-performance, easy-to-use data structures and data analysis tools. While Python has excellent capabilities for data manipulation and data preparation, pandas adds data analysis and modeling tools so that users can perform entire data science workflows. Watch this course to gain an overview of pandas. Charles Kelly helps you get started with time series, data frames, panels, plotting, and visualization. All you need is a copy of the free and interactive Jupyter Notebook app to practice and follow along.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2880195
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Enumeration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enumeration is designed for ethical hackers who want to build their skills in reconnaissance of targets and in optimizing their penetration testing. In this course, instructor Malcolm Shore teaches the basic methods of enumerating networks and targeting systems with common enumeration tools. Malcolm explains what enumeration is and gives you opportunities in the course for hands-on experience. He covers enumeration for local and remote hosts. Malcolm discusses how to enumerate web apps, the internet, and cloud resources. He also goes over how to use tools like SuperScan, NetScanTools Pro, Nmap, JXplorer, and more.

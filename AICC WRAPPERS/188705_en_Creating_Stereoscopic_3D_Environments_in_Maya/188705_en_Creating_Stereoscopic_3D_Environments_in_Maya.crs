@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Mattingly
+Course_ID=188705
+Course_System=linkedin.com
+Course_Title=Creating Stereoscopic 3D Environments in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D movies are more popular then ever, and many blockbuster films today are made or reissued in 3D. Although the process may seem very complex, it is surprisingly easy to create these effects in Maya. In this course with industry pro David Mattingly, you'll learn how to set up and render stereoscopic 3D environments in Maya. First, you'll become familiar with stereoscopic 3D basics and the important terms you need to know. Next you'll use a simple 3D environment to become proficient with adding a stereo camera and adjusting it to match the scene. You'll learn where to buy the inexpensive 3D glasses needed to view your scene in true 3D on a regular home computer. In the last section, you'll open up a full 3D environment, add and animate a 3D camera, and render out a viewable 3D scene. In just an hour, you'll be up to speed on creating your own stereoscopic 3D environment.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=486760
+Course_System=linkedin.com
+Course_Title=Java: IDE Overview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you want to develop applications with Java, you need a powerful IDE. IDEs or integrated development environments help you streamline the time spent on programming and reduce the amount of bugs in your code. This course provides an overview of today's most popular IDEs, including NetBeans, IntelliJ, BlueJ, Eclipse, and JDeveloper. Peggy Fisher discusses the pros, cons, and costs of each option, as well as installation tips and time-saving shortcuts. In each environment, she walks through the workflow for creating and debugging a simple Java program. Challenges along the way allow you to practice with each IDE, using all the features discussed in the course.

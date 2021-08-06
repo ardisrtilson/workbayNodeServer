@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2811352
+Course_System=linkedin.com
+Course_Title=AWS: Monitoring and Reporting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As you're financially responsible for whichever AWS services you use, it's important to establish sound financial monitoring to ensure that you're alerted to any changes before those changes become a financial burden. This course provides system administrators with an intermediate-level look at monitoring and reporting for the AWS platform. Instructor Shyam Raj includes heavy coverage of CloudWatch, the AWS service for monitoring resources run on AWS, as well as AWS Config for auditing and evaluating the configuration of your AWS resources. It concludes with best practices for taking action in response to alarms and triggers. This course can also be used to prep for the corresponding domain of the AWS Certified SysOps Administrator exam.

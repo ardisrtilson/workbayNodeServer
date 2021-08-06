@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Stratton
+Course_ID=653223
+Course_System=linkedin.com
+Course_Title=Excel: Creating and Managing Invoices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many small business owners use Microsoft Excel spreadsheets to track their finances, but lack an invoice management scheme. In this concise course, Jess Stratton shows business owners and independent contractors how to easily create, track, and manage invoices in Excel. She explains how to find and edit a template to create invoices, and reviews several options for getting completed invoices to customers. Plus, she demonstrates how to extend the functionality by creating a drop-down list of products using named ranges, auto-incrementing invoice numbers, and more.

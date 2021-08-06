@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2871074
+Course_System=linkedin.com
+Course_Title=Azure Administration: Configure and Manage Virtual Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to configure and manage virtual networks on Azure. Virtual networks (VNets) connect your virtual machines and other resources, forming the foundation you need to run cloud-based applications. This course provides hands-on coverage of the essential tasks for implementing and managing VNets using either the Azure portal or PowerShell, for quick, command-line control. Instructor Sharon Bennett covers configuring public IP addresses, network interfaces, peering, and Azure DNS. Plus, learn how to create network security groups. This demo-heavy course can also be used as a resource in preparation for the Microsoft Azure Administrator exam (AZ-104).

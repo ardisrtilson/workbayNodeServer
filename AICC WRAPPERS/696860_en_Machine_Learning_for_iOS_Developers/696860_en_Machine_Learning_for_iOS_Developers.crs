@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Advent
+Course_ID=696860
+Course_System=linkedin.com
+Course_Title=Machine Learning for iOS Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want to build custom machine learning models to enhance your iOS apps? Even if you're not a machine learning expert, Core ML makes it easy to integrate an existing machine learning model into an iOS application. And with Turi Create, Apple also provides a Python framework that simplifies the development of custom machine learning models. This course provides an introduction to machine learning and the Core ML framework, and covers how to build your own custom machine learning model and integrate it into an iOS app. Upon wrapping up this course, you will have built an image classifier that can distinguish cats from dogs in a provided picture.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joli Ballew
+Course_ID=2852001
+Course_System=linkedin.com
+Course_Title=Windows 10: Manage Remote Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Remote access is one of the most powerful tools available to Windows administrators. Once configured, you can troubleshoot Windows remotely, control power usage, deploy workspaces and software, and synchronize files across devices and the cloud—all without ever touching the user's PC. This hands-on, practical course covers the skills necessary for a system admin to configure, optimize, and manage remote access in Windows 10. Updated for 2020, it reflects the most recent change to the operating system and the realities of a remote workforce. Instructor Joli Ballew explores the core technologies—virtual private networks (VPNs) and clients—and then shows how to prepare a desktop computer for remote access and make the connection. She also explains how to configure and manage remote storage options and troubleshoot connection issues. Plus, get tips for using the command line and PowerShell to script remote admin tasks and creating group policy settings that can be used across your organization.

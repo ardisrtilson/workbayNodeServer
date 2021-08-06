@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Demafiles
+Course_ID=426772
+Course_System=linkedin.com
+Course_Title=Cinema 4D: Animating Charts and Graphs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Charts and graphs have always been essential visual aids. With CINEMA 4D, you have all the tools you need to produce compelling animated versions of these static presentation tools. C4D's powerful primitive objects, spline tools, and node-based expression editor, XPresso, make it relatively easy to create dynamic animated charts and graphs. This course is a project-based learning experience that will introduce different tools and techniques for importing, styling, and manipulating chart data in C4D. Alan Demafiles shows how to drive relationships between spreadsheet data and geometry with set-driven XPresso keys, connect points with tracer objects, and animate charts with dynamic primitive objects. He also explains how to customize the look and behavior of your charts and graphs to fit the style of your company or your client's.

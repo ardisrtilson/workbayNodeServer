@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=574693
+Course_System=linkedin.com
+Course_Title=Scala Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you ready to discover the capabilities of the Scala programming language? Scala source code compiles to Java bytecode, so that the resulting executable code runs on a Java virtual machine (JVM). Java libraries are interoperable with Scala code. Like Java, Scala is object-oriented, and uses a curly-brace syntax reminiscent of the C programming language. Unlike Java, Scala has many features of functional programming languages, including currying, type inference, immutability, lazy evaluation, and pattern matching. It also has an advanced type system supporting algebraic data types, anonymous types, covariance, contravariance, and higher-order types. Other features of Scala not present in Java include operator overloading, optional parameters, named parameters, raw strings, and no checked exceptions. Many of these flexible features are covered in this course. Join Peggy Fisher as she helps get you started with Scala, so you can leverage the unique capabilities it offers. First, learn the basics of type inference, variables, loops, functions, and operators. Then, find out how to read files using a console, perform pattern matching, handle exceptions, and more. Finally, learn how to use classes, fields, methods, and objects.

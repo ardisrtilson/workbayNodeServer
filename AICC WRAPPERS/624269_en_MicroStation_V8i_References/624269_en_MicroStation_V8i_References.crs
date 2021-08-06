@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeanne Aarhus
+Course_ID=624269
+Course_System=linkedin.com
+Course_Title=MicroStation V8i: References
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MicroStation V8i allows you to attach reference files, such as terrain and survey references, to your designs. In this course, instructor Jeanne Aarhus covers basic and advanced reference file techniques, helping you boost your productivity in MicroStation as you learn how to leverage the files of other users to enhance your own file data. Jeanne explains what a reference file is, details basic reference commands and settings, and discusses other ways of working with reference files. Plus, pick up a few advanced techniques, including how to use DWG files as references.

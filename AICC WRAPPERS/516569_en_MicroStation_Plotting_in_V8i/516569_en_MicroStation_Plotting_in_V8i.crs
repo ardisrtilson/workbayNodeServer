@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeanne Aarhus
+Course_ID=516569
+Course_System=linkedin.com
+Course_Title=MicroStation: Plotting in V8i
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When working with nearly any CAD package, printing can result in many issues. Understanding how to automate this process improves both user efficiency and output quality. If you're already familiar with basic commands in Bentley MicroStation V8i, the 2D and 3D CAD and information-modeling program, this course can help you print more efficiently using the software. Jeanne Aarhus begins by using a customized environment to show how simple plotting can be. She then demonstrates how to automate the print environment to improve project efficiency. Jeanne also explains how to use the software to generate output using different types of models, including design, drawing, and sheet models. After completing this course, you're prepared to generate simple 2D and 3D drawing output to various output types using a customized print environment.

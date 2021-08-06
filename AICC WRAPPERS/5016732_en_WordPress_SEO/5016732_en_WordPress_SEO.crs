@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Rauland
+Course_ID=5016732
+Course_System=linkedin.com
+Course_Title=WordPress: SEO
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Out of the box, WordPress does a pretty good job of driving users to your site. But there's still more you can do to make your site visible to search engines and social media networks. In this introductory course focusing on basic setup and usage scenarios, learn how to drive more visitors to your WordPress site by performing search engine optimization (SEO) with the help of two powerful plugins: All in One SEO Pack and Yoast SEO. Along the way, learn how to take advantage of WordPress settings that can help you out as you optimize your site.

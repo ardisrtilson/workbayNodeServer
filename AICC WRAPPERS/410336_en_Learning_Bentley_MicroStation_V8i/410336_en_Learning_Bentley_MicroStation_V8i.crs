@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeanne Aarhus
+Course_ID=410336
+Course_System=linkedin.com
+Course_Title=Learning Bentley MicroStation V8i
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bentley MicroStation is a highly optimized 2D and 3D CAD and information-modeling program used by architects and engineers around the world. This course will get you up and running quickly, so you can complete simple 2D drawing projects, edit graphics, reference title blocks, and generate a plot of the final results with MicroStation. Jeanne Aarhus begins with a tour of the interface and an introduction to the language of MicroStation. She then shows how to manipulate geometry, use the alignment and selection tools, work with levels and cells, and annotate and print drawings. The course features both architectural and civil examples, so you'll get a good understanding of MicroStation's many applications: in architecture, engineering, construction, utility systems, roads and rail, communications networks, water and wastewater networks, process plants, mining, and more.

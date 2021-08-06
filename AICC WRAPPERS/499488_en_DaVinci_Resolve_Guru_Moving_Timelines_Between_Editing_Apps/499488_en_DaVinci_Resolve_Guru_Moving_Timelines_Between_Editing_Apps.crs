@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Inhofer
+Course_ID=499488
+Course_System=linkedin.com
+Course_Title=DaVinci Resolve Guru: Moving Timelines Between Editing Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this installment of DaVinci Resolve Guru, colorist Patrick Inhofer guides you through the process of moving your timelines into DaVinci Resolve from Premiere Pro, Final Cut Pro X, and Avid Media Composer. This process is often called round tripping by colorists and editors. You'll find out how to prepare timelines for export into DaVinci Resolve, and learn what features will survive import into Resolve and what features will kill the round-tripping process. You'll also explore the concept of conforming. Conforming is verifying your timeline in Resolve precisely matches the timeline exported from your non-linear editor. Plus, learn the options for sending your color corrected timeline back to your nonlinear editor for final graphics and export.

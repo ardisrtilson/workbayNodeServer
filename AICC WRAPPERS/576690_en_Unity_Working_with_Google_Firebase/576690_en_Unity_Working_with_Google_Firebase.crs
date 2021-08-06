@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harrison Ferrone
+Course_ID=576690
+Course_System=linkedin.com
+Course_Title=Unity: Working with Google Firebase
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A dependable backend is a must-have for today's games. Giving users the ability to log in and save and retrieve player data can make or break a community-oriented game. The goal of this course is to build a flexible and scalable networking solution, which can be reused in any of your future games, using Unity and Google Firebase. Instructor Harrison Ferrone starts with an overview of the Firebase Authentication and Realtime Database modules and the Firebase SDK. He shows how to script some basic functionality for logging in and registering users, and progresses to more complex functions like saving and fetching data, waiting for responses while providing good visual feedback, and displaying real-time data in the Unity GUI. By following along, you will understand how to integrate Firebase with Unity, save and fetch user data in a game scene, and bundle your work in asset packages that can be used in many other Unity projects.

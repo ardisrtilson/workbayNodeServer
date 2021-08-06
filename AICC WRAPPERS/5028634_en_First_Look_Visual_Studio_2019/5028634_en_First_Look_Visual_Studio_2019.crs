@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=5028634
+Course_System=linkedin.com
+Course_Title=First Look: Visual Studio 2019
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Curious about what Visual Studio 2019 has to offer? In this short course, get a first look at the new features and improved functionality offered in Visual Studio 2019. Instructor Walt Ritscher goes over changes to the Visual Studio UI and discusses productivity-boosting enhancements, including how to use IntelliCode to get relevant code suggestions. Plus, learn about the Live Share collaboration feature built into Visual Studio 2019, which you can use to easily share your work with colleagues.

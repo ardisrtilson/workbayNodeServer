@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=167067
+Course_System=linkedin.com
+Course_Title=jQuery Mobile Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build great-looking mobile web applications without having to learn native code! Think iOS without Objective-C, Android without Java, Windows Phone without C#. Joe Marini introduces the jQuery Mobile framework, and provides a look at some companies (like OpenTable and Dodge) that are using it right now to build rich, interactive mobile webpages that approach the behavior of native apps. He reviews jQuery Mobile's page structure, controls, navigation, responsive layout, and theming. The course also covers the built-in library of widgets for building web content, list views, and web forms that are optimized for mobile screen sizes and that respond to gestures and changes in device orientation.

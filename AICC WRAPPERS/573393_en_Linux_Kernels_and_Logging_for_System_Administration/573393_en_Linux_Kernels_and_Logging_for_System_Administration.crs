@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=573393
+Course_System=linkedin.com
+Course_Title=Linux: Kernels and Logging for System Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In order to gain a more holistic understanding of Linux, it's crucial for system administrators to understand the mechanics of the operating system at its core—the Linux kernel. In this course, learn how to manage Linux kernels on CentOS 7, and manage the GRUB boot loader, system initialization, and system logging. Grant McWilliams explains how to fix a Linux installation issue by booting into the emergency target, and shows how to leverage systemd to help maintain system services. He goes into Linux kernel versions, and shows how to update the kernel and manage kernel modules. To wrap up, he covers system logging, explaining how to search and rotate log files, make journald logs persistent, and use rsyslog filters.

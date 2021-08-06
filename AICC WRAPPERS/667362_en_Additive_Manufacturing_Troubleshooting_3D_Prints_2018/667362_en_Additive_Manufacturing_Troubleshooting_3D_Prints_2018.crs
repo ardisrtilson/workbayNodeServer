@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joan Horvath, Rich Cameron
+Course_ID=667362
+Course_System=linkedin.com
+Course_Title=Additive Manufacturing: Troubleshooting 3D Prints (2018)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D printing is has come a long way, but there are still many things that can derail the printing process. This course helps you avoid problems in advance, and when they do come up, it helps you solve them. Rich Cameron and Joan Horvath of Nonscriptum LLC—the maker tech training company—review common 3D print problems, and show how to fix them by making changes to the model, orientation, or printer settings. Learn what to do when your print doesn't stick to the print bed; when you see pimples, dimples, or stringing; have cooling issues; or the walls of your print are too thin. Joan and Rich also help identify and fix software-related issues with your host and slicer programs, and keep track of changes as you debug, in case you need to roll back to a previous version of your design.

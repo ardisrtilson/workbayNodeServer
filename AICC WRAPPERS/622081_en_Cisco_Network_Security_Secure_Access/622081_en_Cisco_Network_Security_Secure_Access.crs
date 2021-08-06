@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=622081
+Course_System=linkedin.com
+Course_Title=Cisco Network Security: Secure Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Administering a network means controlling access to network resources: granting, limiting, preventing, and revoking permissions as necessary. This course covers the topic of secure access, including in-band and out-of-band management, secure device access, and protocols such as NTP, SCP, and SNMP. Security ambassador Lisa Bock introduces the three a's of triple-A security: authentication, authorization, and accounting. She compares RADIUS and TACACS+ authentication, and BYOD or bring your own device architecture. Plus, learn about mobile device management and security as it applies to the Internet of Things. These lessons will help you configure and manage Cisco device and properly secure your organization's infrastructure.

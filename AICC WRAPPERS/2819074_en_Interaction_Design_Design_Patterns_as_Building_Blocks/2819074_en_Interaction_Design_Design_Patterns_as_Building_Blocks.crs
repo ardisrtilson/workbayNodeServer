@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Diane Cronenwett
+Course_ID=2819074
+Course_System=linkedin.com
+Course_Title=Interaction Design: Design Patterns as Building Blocks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns offer solutions for common design problems. UX designers rely on design patterns and best practices to design usable and consistent interfaces more quickly. This course introduces new patterns, approaches, and contexts to designing common interface elements such as navigation, buttons, forms, links, progress indicators, and search boxes. Rather than having you copy common patterns, instructor Diane Cronenwett helps you understand the “why” behind them, giving you the ability to evaluate each pattern’s suitability for your projects. Plus, see examples of how different companies apply UX patterns, so you can see how the patterns take shape in real-world designs.

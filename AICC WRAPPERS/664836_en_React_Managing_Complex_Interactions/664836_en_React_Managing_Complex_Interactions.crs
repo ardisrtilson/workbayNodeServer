@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=664836
+Course_System=linkedin.com
+Course_Title=React: Managing Complex Interactions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most powerful things you can build in React-interactions-is also one of the most complicated. But to create a compelling user experience, you'll need to be able to connect and combine a wide variety of interactions. This course shows how to add and manage complex interactions in React using states and some useful third-party libraries. Learn how to add hover and click interactions, navigation popups, grids and galleries, scrolling, and more. Instructor Emmanuel Henri also provides tips for improving your UX designs after implementing interactions.

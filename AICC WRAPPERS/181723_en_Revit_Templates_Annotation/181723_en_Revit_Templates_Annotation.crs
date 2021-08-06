@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=181723
+Course_System=linkedin.com
+Course_Title=Revit Templates: Annotation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Why start from scratch every time? Learn how to build custom Revit templates and reduce the time you spend setting up and modeling projects. In this course, the first in the series, Paul F. Aubin shows how to adjust Revit template files—whether you use them out of the box or create your own from scratch—to include all of your firm's custom annotations. In the first half, he'll show you how to include levels and grids, define views with scope boxes, and work with multiple unit systems. The second half of the course explores customizing elevation and section tags, keynotes, arrowheads, and other common annotations, and choosing graphic elements like fonts and dimension types to match your office guidelines. So take the first step; configure your Revit templates with consistent annotations for more professional office standards and high-quality project deliverables.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=2822158
+Course_System=linkedin.com
+Course_Title=ZBrush: Modeling a Cartoon Character
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore sculpting, painting, and posing a 3D cartoon character using ZBrush. Author Ryan Kittleson demonstrates how to set up reference images, build a character from primitive shapes, fuse the shapes into a smooth surface, refine the anatomy and design, and color the model. Plus, learn how to render the character with a pose for presentation.

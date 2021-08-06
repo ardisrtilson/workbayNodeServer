@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2884173
+Course_System=linkedin.com
+Course_Title=AWS: Cost and Performance Optimization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As more and more organizations move their workloads and resources to the AWS cloud for its speed, elasticity, and flexible pricing options, it’s more important than ever to optimize processes to avoid extra costs and a heavy burden on resources. In this course, Shyam Raj provides guidance around controlling cloud costs and optimizing performance of apps in AWS. Shyam begins by discussing cost optimization strategies and best practices for improving resource performance. He then showcases AWS services designed to help monitor costs and those designed to help reduce cost by optimizing performance, covering AWS tools like AWS Budgets, Trusted Advisor, and Compute Optimizer. This course also covers the knowledge needed for anyone who is preparing for the corresponding domain of the AWS SysOps Administrator certification exam (SOA-C02).

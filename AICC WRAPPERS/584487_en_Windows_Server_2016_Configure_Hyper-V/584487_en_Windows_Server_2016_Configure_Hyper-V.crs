@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=584487
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Configure Hyper-V
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft offers Windows Server 2016 users the ability to create virtualized computing environments with Hyper-V. In this course, follow Ed Liberman as he explains how to install, configure, and work with the Hyper-V role in Windows Server 2016. Ed takes you through creating virtual switches, virtual machines, and virtual hard disks, and shares how to install a guest OS and manage checkpoints. Plus, he covers how to efficiently implement storage migration and live migration. This course maps to the third domain of Exam 70-743, Upgrading Your Skills to MCSA: Windows Server 2016—Implement Hyper-V.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=497771
+Course_System=linkedin.com
+Course_Title=WordPress: Internationalization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to take your WordPress site worldwide? WordPress's internationalization features allow developers to configure their code so they can be easily translated and localized. In this course, Carrie Dils introduces the specific functions and tools WordPress developers can use to make their code translation-ready. Learn how to use translation functions in WordPress and PHP, prep code for translation, adjust for special cases such as plurals, and internationalize your themes and plugins. Know another language? Find out how you can help the entire WordPress community by contributing to the WordPress translation project on GlotPress, an open-source platform used to translate WordPress.

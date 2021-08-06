@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Smith
+Course_ID=5028635
+Course_System=linkedin.com
+Course_Title=Software Testing: Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Trying to choose a tool to perform software testing? The market is a minefield, full of so many choices that it becomes difficult to zero in on the best tool for your unique test environment. This course surveys the most popular software testing tools available, including paid and open-source solutions such as Selenium, Postman, JMeter, and Kali Linux. Instructor Michael Smith—an experienced tester and software architect—breaks down the tools according to their suitability for each discipline, including API testing, security testing, load testing, and more. He also covers tools for lifecycle management and test planning, and dives into areas beyond the traditional software testing role, including unit and infrastructure testing. This review helps you narrow down your choices and understand the pros and cons of each platform, so you can make the right additions to your testing toolkit.

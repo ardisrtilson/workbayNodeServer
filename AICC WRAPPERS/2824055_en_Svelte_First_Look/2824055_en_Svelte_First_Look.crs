@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2824055
+Course_System=linkedin.com
+Course_Title=Svelte: First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript frameworks and libraries keep growing, sprouting increasingly more dependencies along the way. Svelte—a new, lightweight component framework—marches into this tangle with a brush cutter, trimming down the weeds to provide a core set of key functionalities with zero dependencies. In this course, join Ray Villalobos as he helps you get up to speed with Svelte, explaining how to use it to create apps that please your users without making them wait. Learn how Svelte differs from frameworks like Angular and React, as well as how to use styles and preprocessors with Svelte, work with data across multiple components, use lifecycle methods to load data, and more.

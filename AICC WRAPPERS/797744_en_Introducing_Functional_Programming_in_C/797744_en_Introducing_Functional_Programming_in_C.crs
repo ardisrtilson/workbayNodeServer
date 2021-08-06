@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Troy Miles
+Course_ID=797744
+Course_System=linkedin.com
+Course_Title=Introducing Functional Programming in C++
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Functional programming allows you to write more concise code that's easier to read, debug, and maintain. It revolves around powerful, mathematical functions that tell the computer what to do—not how to do it. The developer doesn't have to worry about order of execution, loops, or conditions. You simply define the desired outcome; the computer takes care of the rest. This course introduces the benefits and features of functional programming, and shows how to use different techniques and libraries in C++ to make code more functional. Instructor Troy Miles reviews built-in functions such as transform, copyif, accumulate, and bind and shows how to convert statements into more functional expressions using C++ Lambda functions. Plus, explore template metaprogramming with C++ templates and the STL and Boost.Hana libraries, and functional reactive programming with the RxCpp Reactive Extensions library for C++.

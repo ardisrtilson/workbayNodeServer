@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=791357
+Course_System=linkedin.com
+Course_Title=Shadow IT: Protecting Your Organization with Microsoft 365
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Shadow IT is the use of systems and services—such as Dropbox and AWS—that are managed without the knowledge of a company's IT department. As a majority of modern enterprises grapple with the risks posed by shadow IT, IT pros need to grasp how to mitigate these threats. In this installment of the Microsoft Cybersecurity Stack series, Pete Zerger provides end-to-end coverage of shadow IT, from the risks it poses to how to identify and eliminate threats with tools in the Microsoft cybersecurity stack. Discover how to leverage Cloud App Security (CAS), as well as how to anonymize user identity information. Plus, learn how to leverage the Microsoft Data Classification Service and CAS file policies to protect confidential information, how to control access to unmanaged devices, and more.

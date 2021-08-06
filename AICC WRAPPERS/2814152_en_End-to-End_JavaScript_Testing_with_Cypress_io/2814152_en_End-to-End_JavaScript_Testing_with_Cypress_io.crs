@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2814152
+Course_System=linkedin.com
+Course_Title=End-to-End JavaScript Testing with Cypress.io
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to set up quick, easy, and automatic JavaScript testing using Cypress.io. Cypress is a cutting-edge testing framework that makes testing JavaScript applications more frictionless. This training course is a rapid introduction to Cypress.io, covering basic and intermediate techniques for writing end-to-end test cases. Learn how to write a simple test, and then use aliases to optimize selections and beforeEach hooks to reduce repetitive code. Instructor Shaun Wassell also shows how to trigger other actions within tests, configure automatic retries, and debug any errors. The course wraps with a look at other useful Cypress commands and features, including intelligent code completion.

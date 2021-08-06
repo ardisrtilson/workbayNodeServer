@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=440660
+Course_System=linkedin.com
+Course_Title=C# & .NET: Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you've programmed in C#, you've already used part of .NET. Microsoft's object-oriented language is an integral part of the framework. But there are many other features of .NET that can make your development workflow more productive and efficient. This training course will help you learn the essentials of .NET programming with C#—techniques that use .NET features to write richer, cleaner code. Alexander Zanfir explains how to use collections, make your app more responsive with async programming, assign and change class properties, optimize performance with multithreading, and inject data into strings. Plus, learn how to handle errors and manage application resources more efficiently with the using statement.

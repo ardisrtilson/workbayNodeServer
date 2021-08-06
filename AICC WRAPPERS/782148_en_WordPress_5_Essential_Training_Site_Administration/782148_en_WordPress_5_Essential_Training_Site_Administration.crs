@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=782148
+Course_System=linkedin.com
+Course_Title=WordPress 5 Essential Training: Site Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+WordPress is an easy way to get a website up and running, but sometimes you want to take a WordPress site further. This course shows how to administer a self-hosted WordPress site. Learn how to work with the settings, including important privacy settings, and configure your site's style, menus, widgets, and theme with the Customizer. Find out how to extend WordPress with plugins, add and manage users, and manage comments and spam. Instructor Morten Rand-Hendriksen also provides tips for keeping your WordPress site secure and up to date—and troubleshoot it when something goes wrong.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Greg Bardwell
+Course_ID=656816
+Course_System=linkedin.com
+Course_Title=Angular: Routing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular routing allows you to define both the navigation and the modular structure of your application. This training course provides the skills you need to design and build real-world applications using Angular 4 routing. Instructor Greg Bardwell covers setting up and configuring routes, passing data via parameters, protecting routes with authorization, and nesting or child routing. Plus, learn valuable application design strategies such as route guards, modularization, and lazy loading.

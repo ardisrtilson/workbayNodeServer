@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Stephanie Domas
+Course_ID=2813285
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Cryptography
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While the science of cryptography—in which data is mathematically scrambled—has roots in the protection of top-secret military communications, modern cryptography helps secure information for anyone with an email account. Cryptography techniques and practices are used for authentication, data integrity, confidentiality, and non-repudiation. In this course, Stephanie Domas takes this traditionally complex topic and breaks it down into understandable and approachable segments. Stephanie covers the basic principles of cryptography and the most popular algorithms (and how they're used,) as well as attack strategies and methodologies. Learn about the different types of cyphers, hashing, digital certificates, public key infrastructure (PKI) components, and more. Note: The Ethical Hacking series maps to the 20 parts of the EC-Council Certified Ethical Hacker (CEH) exam (312-50) version 10.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Karl Kapp
+Course_ID=573400
+Course_System=linkedin.com
+Course_Title=Gamification for Interactive Learning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gamification allows you to present educational content to learners in a way that's engaging, visually compelling, and personalized. In this course, Karl Kapp explores the various types of gamification, and shows how to use gamification and interactive learning to develop effective learning experiences. He explains how to add game elements to instructional design and use reward systems for learner engagement. He also reviews the different types of structural gamification, including competition-based and badge-based. To wrap up, he dives into content gamification, explaining how to leverage characters for learning, create challenges, and provide juicy feedback.

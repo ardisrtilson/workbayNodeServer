@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Whitaker
+Course_ID=162572
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Creating a CG Flag with After Effects and Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CINEMA 4D's fantastic rigid body and cloth systems and the powerful CAMERATRACKER plugin in After Effects are a great combination for tracking and compositing cloth-like materials in live-action footage. In this course, Craig Whitaker will guide you through the entire post-production process for creating a computer-generated flag—from designing a mockup from reference material and tracking the camera movement to constructing the flag using CINEMA 4D's cloth simulation tools and compositing it back into the scene with After Effects. Each step of the process is rich with lessons applicable to similar situations CG and compositing artists will face in the real world.

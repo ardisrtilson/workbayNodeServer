@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=163417
+Course_System=linkedin.com
+Course_Title=Learning Apple Remote Desktop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Remote administration is a science akin to magic for most computer users. Apple Remote Desktop (ARD) puts the power of remote administration in your hands, offering an easy way to manage all the Mac computers on your network without ever leaving your desk. In this course, expert Sean Colins will show you how to install software on many computers at once, monitor activity, assist your users, and effortlessly gather data for all the computers in your environment. Sean also covers ARD's advantages for two types of people outside the IT department: teachers in the classroom and consultants managing client systems.

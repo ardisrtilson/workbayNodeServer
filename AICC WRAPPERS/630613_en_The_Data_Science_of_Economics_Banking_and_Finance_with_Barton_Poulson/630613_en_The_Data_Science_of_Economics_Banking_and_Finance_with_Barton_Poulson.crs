@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=630613
+Course_System=linkedin.com
+Course_Title=The Data Science of Economics, Banking, and Finance, with Barton Poulson
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Nowhere is data science more relevant than finance. Tracking the movement of money around the globe is one of the primary tasks for today's analysts. In this course, find out how algorithms, automation, big data applications, and machine learning are changing the nature of economics, banking, and finance. Data scientist and professor Barton Poulson provides a nontechnical overview of both the successful and problematic applications of data science to these fields. Learn how data science affects the way stocks are bought and sold, how loan applications are processed, and even how fraud is detected now that financial information is exchanged online at such a massive scale. Discover how social media influences economic trends, and why data scientists need to be especially careful to keep ethics in mind and false assumptions in check when dealing with financial data.

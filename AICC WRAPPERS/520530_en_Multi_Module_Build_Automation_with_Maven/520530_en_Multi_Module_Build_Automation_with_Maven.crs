@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=520530
+Course_System=linkedin.com
+Course_Title=Multi Module Build Automation with Maven
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Maven is more than a build tool. It offers end-to-end project management for all sorts of Java applications. In particular, Maven excels at managing large-scale projects with submodules: projects using inheritance or multi-module architecture. In this course, Peggy Fisher covers both scenarios. She shows how to create submodules and define parent-child relationships, and build an aggregated multi-module project. She also shows how to integrate Maven with some of the most popular Java IDEs, including NetBeans, Eclipse, and IntelliJ.

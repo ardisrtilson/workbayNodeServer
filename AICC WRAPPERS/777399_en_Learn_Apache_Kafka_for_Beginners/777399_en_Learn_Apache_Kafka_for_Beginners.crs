@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Stephane Maarek
+Course_ID=777399
+Course_System=linkedin.com
+Course_Title=Learn Apache Kafka for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kafka is the leading open-source, enterprise-scale data streaming technology. It helps you move your data where you need it, in real time, reducing the headaches that come with integrations between multiple source and target systems. This training course helps you get started with all the fundamental Kafka operations, explore the Kafka CLI and APIs, and perform key tasks like building your own producers and consumers. Learn how to start a personal Kafka cluster on Mac, Windows, or Linux; master fundamental concepts including topics, partitions, brokers, producers, and consumers; and start writing, storing, and reading data with producers, topics, and consumers. Instructor Stephane Maarek includes practical use cases and examples, such as consuming data from sources like Twitter and ElasticSearch, that feature real-world architecture and production deployments. Plus, learn how to start Kafka from annex locations, such as Docker containers and remote machines, and launch Kafka clusters.

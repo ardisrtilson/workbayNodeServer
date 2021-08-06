@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=495323
+Course_System=linkedin.com
+Course_Title=BIM Manager: Autodesk Applications Setup & Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk products offer an array of powerful features that can help you make your design ideas a reality. In this course, learn how to register Autodesk products, and deploy the correct applications across several different networks. Eric Wing begins by showing how to find your software and navigate the Autodesk site. Next, he examines what's in each suite of software and covers creating network deployments. Eric shows how to configure the Network License Manager and modify a deployment. Plus, he takes you through how to configure your applications—showing how to set up Revit, a Revit and Navisworks deployment, and an AutoCAD MEP deployment—and add service packs to a deployment.

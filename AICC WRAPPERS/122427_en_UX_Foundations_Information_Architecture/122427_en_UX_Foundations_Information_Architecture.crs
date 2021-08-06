@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=122427
+Course_System=linkedin.com
+Course_Title=UX Foundations: Information Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Improving the way the information in your site or application is organized and presented is one of the most cost-effective ways of increasing user satisfaction and engagement. Information architecture can help you find out how your users think about the world, and transition those lessons to your product. In this course, Chris Nodder teaches you how to perform card sort research to get information about user interactions, analyze the results, and create a validated information architecture plan. Then translate your plan into refined menus, content classification, and page layouts. Finally, test the success of your new structure with reverse card sorting and by monitoring feedback from server logs, site searches, and help desk calls.

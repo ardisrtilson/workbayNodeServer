@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=751324
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: Your First App with Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the world of Android app development. The Android Development Essential Training series walks beginners through the process of developing, designing, managing, and distributing Android apps. In this course—the first installment in the series—David Gassner steps through how to create your very first Android app using a mixture of programming languages, including XML and Kotlin. Learn how to configure Android Studio, the Android SDK, and emulator software, and explore the different files in a typical Android app, including build scripts and the app manifest file. Finally, learn how an app is built from the bottom up, with screens, activities, and layouts. Check out later courses in the series to continue building your app development skills.

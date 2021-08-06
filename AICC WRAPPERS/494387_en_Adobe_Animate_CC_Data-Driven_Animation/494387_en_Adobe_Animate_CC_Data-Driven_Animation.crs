@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=494387
+Course_System=linkedin.com
+Course_Title=Adobe Animate CC: Data-Driven Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create data-driven animations, such as a data-driven image carousel and an interactive RSS feed, using Adobe Animate CC—the newly relaunched version of Flash Professional. Joseph Labrecque takes you through both projects step-by-step, providing easy-to-follow instructions for interacting with JSON and XML data sets and using jQuery to ingest and parse data in HTML5 Canvas-based projects. The complete carousel will display images, captions, and controls for customizing the transitions, while the RSS feed display will load news items in a click to view more animated interface. Find out how to set up each project, build the interfaces, ingest data, apply animation, and program user controls. Plus, learn advanced techniques for creating dynamic titles.

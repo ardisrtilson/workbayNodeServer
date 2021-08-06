@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=542427
+Course_System=linkedin.com
+Course_Title=Windows Performance Tools: Thread Analysis with Intel VTune Amplifier
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Multithreaded apps can perform better than single-threaded apps, but the performance improvements come with increased code complexity and overhead. By comparing and analyzing different versions of your apps with VTune Amplifier, you can decide whether this trade-off is worth it. In this course, Thomas Pantels shows how to visualize and analyze two versions of a demo C++ application that simulates house-building tasks. The first version is single threaded; the second is multithreaded. By the end of this course, you will know how to install and configure Intel's VTune Amplifier. You will walk away knowing how to use the tool to analyze and compare both single-threaded and multithreaded Windows applications and understand the results.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2864004
+Course_System=linkedin.com
+Course_Title=Apache Kafka Essential Training: Getting Started
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the key components of a big data processing pipeline is a scalable and distributed message queue. Message queues enable real-time streaming capabilities with multiple producers and consumers of data. This enables real-time applications that can analyze data and produce insights in a scalable fashion. Apache Kafka provides these capabilities. As the de facto standard for open-source messaging, Apache Kafka is an essential skill for data scientists, big data engineers, data architects, and solution architects. In this course, instructor Kumaran Ponnambalam introduces Apache Kafka and explains its fundamental concepts and basic operations. Kumaran covers basic concepts like messages, topics, logs, and more. He shows you how to use the Kafka command line, as well as partitions and groups. He goes over Kafka Java programming, then concludes with a use case project.

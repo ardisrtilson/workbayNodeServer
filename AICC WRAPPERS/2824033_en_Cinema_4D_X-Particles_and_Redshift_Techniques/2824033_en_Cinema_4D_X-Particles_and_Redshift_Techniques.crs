@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan McCauley
+Course_ID=2824033
+Course_System=linkedin.com
+Course_Title=Cinema 4D: X-Particles and Redshift Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+View intermediate and advanced methods used to build a scene using the Redshift workflow for X-Particles. Instructor Ryan McCauley demonstrates a complete project, building a scene using emitters, xpInfectio, and Explosia FX. He shows how to render the scene using elements of X-Particles data with user data nodes in Redshift. Ryan also walks through ways to speed up a workflow and lookdev using caching and VDBs to import the particle simulations, providing faster playback that maintains access to needed render data. Most of these methods transfer over to other particle systems, including built-in C4D particles, thinking particles, and Houdini simulations.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=518699
+Course_System=linkedin.com
+Course_Title=Windows Presentation Foundation: 3 Events and the Event Model
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Presentation Foundation (WPF) in Visual Studio 2015 helps developers build modern desktop applications for Windows. The event model is WPF's new system for monitoring and reacting to application events and user-triggered events like keyboard and mouse input. It greatly improves on the .NET event model, and is an important skill for any developer who wants to create rich Windows user experiences. Join expert developer Walt Ritscher as he steps you through the details of working with events in WPF. Learn how routing works and discover how to navigate up the tree (with event bubbling) and down the tree (with event tunneling)—and stop events from moving at all with event suppression. Then follow along with Walt as he explores many sample events, including mouse, text, and keyboard events and gesture events on the InkCanvas.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tayo Koleoso
+Course_ID=2822643
+Course_System=linkedin.com
+Course_Title=Java Concurrency Troubleshooting: Data Access and Consistency
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having multiple users for your applications is great, right? More often than not, you probably didn’t spend all that time developing your app just to have one single person use it. Of course, the moment you have more than one user running your Java application, you have a whole set of new problems. In this course, instructor Tayo Koleoso shows the various and frustrating ways accessing runtime data can fall apart in a multiuser Java application. Follow along with Tayo as he takes a deep dive into Java troubleshooting to show developers how to identify, prevent, and solve data access and consistency issues in a multithreaded environment. Whether you’re working in an SQL database or accessing simple class variables, Tayo gives you tools and tips to help you predict and recognize where multithreading can go wrong.

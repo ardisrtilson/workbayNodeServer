@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=642501
+Course_System=linkedin.com
+Course_Title=Learning Redis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Redis—an in-memory data structure store—differs from relational databases like MySQL, and NoSQL databases like MongoDB. In this course, learn what Redis is and how it works as you discover how to build a client implementation using an ioredis client and a Node.js server. Emmanuel Henri explains how to install and set up Redis, and covers basic Redis tools and concepts, including persistence and replication. Plus, he reviews the different data types available, and demonstrates what you can do with strings, hashes, and lists. To wrap up, he goes over security options and best practices for securing a Redis instance.

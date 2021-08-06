@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=677130
+Course_System=linkedin.com
+Course_Title=SketchUp: Shadow Studies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Shadow studies are essential, as the play of light and shadow on architectural surfaces informs aesthetic perceptions, correlates with solar heat gain, affects how we use public spaces, impacts neighboring properties, and influences why we might choose a particular site. In this course, learn how to approach shadow studies using SketchUp, the popular 3D modeling application. Instructor Scott Onstott starts by examining how sunlight illuminates the earth at different latitudes and hemispheres, and explaining why solstices and equinoxes are the key times of year to analyze. Then, he demonstrates how to create a set of 3D helper tools based on a site's particular solar altitudes and azimuths. He goes on to use these tools to design an awning that provides shade during the summer and lets light in during the winter. In addition, he shows how to geolocate and reorient a massing model, save scenes at key times of day and seasons of the year, and output an animated time-lapse shadow study.

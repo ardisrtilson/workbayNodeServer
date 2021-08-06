@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Spence
+Course_ID=2212266
+Course_System=linkedin.com
+Course_Title=Amazon Web Services: Exploring Business Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you an IT professional considering making a move to the cloud? If so, this course can help you get up to speed with one of the most popular and powerful cloud solutions on the market—Amazon Web Services (AWS). Instructor Ryan Spence helps to acquaint you with the benefits and drawbacks of AWS, exploring the key services offered by the cloud platform. Ryan discusses how to use AWS for big data work, including the AWS options for warehouse services. He also showcases the platform's backup and recovery options; goes over its mobile service solutions; and covers bringing IoT solutions together with the AWS IoT platform. Plus, he explores emerging technologies, including how to plan robotics, blockchain, and machine learning solutions with AWS.

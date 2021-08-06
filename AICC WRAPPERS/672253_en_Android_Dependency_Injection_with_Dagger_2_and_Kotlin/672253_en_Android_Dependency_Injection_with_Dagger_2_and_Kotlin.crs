@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=G. Blake Meike
+Course_ID=672253
+Course_System=linkedin.com
+Course_Title=Android Dependency Injection with Dagger 2 and Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dependency injection (DI) is increasingly popular in Android. Injection reduces the amount of code required in an application, reducing debugging overhead. A DI tool like Dagger, which assumes responsibility for creating and providing dependencies of an object, can help make your code cleaner, easier to understand, and easier to test. Dagger 2, the latest version, is particularly highly regarded for its speed and compile-time safety. In this course, Blake Meike teaches Android developers to use Dagger 2 with Kotlin—the newly embraced Android programming language. Review Dagger basics, including the four major types of dependency injection: method, field, lazy, and provider injection. Learn how to use Dagger annotations to declare dependencies, satisfy them, and create reusable modules you can share across your apps. Plus, learn about multibinding and components, the new way of associating modules with injection targets in Dagger 2.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Jenkins
+Course_ID=2823294
+Course_System=linkedin.com
+Course_Title=Learning GitHub Actions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GitHub Actions is a continuous integration tool that allows developers to automate tasks for their web projects. In this course, learn how to use this powerful tool to build workflows triggered by events, develop a continuous integration and continuous delivery (CI/CD) pipeline, and create custom actions. Instructor Michael Jenkins shows how to create your first actions and then construct a workflow that runs them. He also demonstrates how to use actions from the GitHub Marketplace and public repositories, leverage the capabilities of GitHub Actions to support your CI/CD workflow, and plan and develop custom actions.

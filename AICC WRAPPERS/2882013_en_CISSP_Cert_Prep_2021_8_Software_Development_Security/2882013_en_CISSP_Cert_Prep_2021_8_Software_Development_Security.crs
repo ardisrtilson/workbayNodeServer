@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2882013
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 8 Software Development Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you preparing to take the Certified Information Systems Security Professional (CISSP) exam, or are you a cybersecurity professional pursuing a better understanding of secure coding practices? In this course, instructor Mike Chapple provides you with the detailed information you need to get ready for the Software Development Security domain of the 2021 CISSP exam. Mike explains software development security practices as needed to complete the exam. He covers the software development lifecycle, code review, software testing, and common software security issues. Mike also discusses secure coding practices, security considerations for cloud computing, and software security assessment.

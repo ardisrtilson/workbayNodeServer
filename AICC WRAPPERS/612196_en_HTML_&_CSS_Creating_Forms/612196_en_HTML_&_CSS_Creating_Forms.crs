@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Clarissa Peterson
+Course_ID=612196
+Course_System=linkedin.com
+Course_Title=HTML & CSS: Creating Forms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Forms are a major component of modern websites, used to collect user data, conduct polls, and more. While you can use a form builder, they're relatively simple to build from scratch with basic web technologies: HTML and CSS. In this course, Clarissa Peterson demonstrates best practices for creating and styling web forms that are easy to complete and accessible to all users and devices. Learn proper use of form fields, including the new HTML5 input types, and discover how to add interactivity such as form validation, style forms with CSS, create responsive layouts, add interactivity such as form validation, and design forms for usability and accessibility.

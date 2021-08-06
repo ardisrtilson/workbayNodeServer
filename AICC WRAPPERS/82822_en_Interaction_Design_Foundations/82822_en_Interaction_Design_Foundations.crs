@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Hogue
+Course_ID=82822
+Course_System=linkedin.com
+Course_Title=Interaction Design Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interaction design focuses on creating interfaces, systems, and devices revolving around user behavior. In this course, author David Hogue sheds light on designing effective interactions for any digital medium. The course explores the interaction design process, explains how interaction designers work and the tools they use, and details the five essential principles of interaction design: consistency, visibility, learnability, predictability, and feedback. The course also introduces basic psychological concepts and examines the roles of context, motivation, and perception in a design; offers navigation best practices; and shows how to design for motivation and behavior and provide feedback to visitors.

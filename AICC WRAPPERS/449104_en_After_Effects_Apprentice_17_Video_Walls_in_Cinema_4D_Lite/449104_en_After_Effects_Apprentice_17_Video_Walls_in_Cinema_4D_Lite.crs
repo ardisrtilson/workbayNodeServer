@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Trish Meyer, Chris Meyer
+Course_ID=449104
+Course_System=linkedin.com
+Course_Title=After Effects Apprentice: 17 Video Walls in Cinema 4D Lite
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to play video against walls or other objects in your After Effects animations? You need to learn how to map video to 3D space. Although After Effects supports 3D, its native implementation is rather limited. Fortunately, After Effects CC comes bundled with the 3D application CINEMA 4D Lite and a pipeline to integrate its output directly into the After Effects timeline. In this first of three project-oriented courses for C4D beginners, After Effects expert Chris Meyer shows you how to map video into the face of a 3D object, and then composite animated 3D text over it in After Effects. These courses are designed for users who are familiar with 3D space in After Effects, but who have never used CINEMA 4D. This course includes an overview of the C4D Lite user interface, as well as setup information you need to know whenever you use live C4D layers in After Effects. A bonus chapter shows how to set up a C4D Lite and After Effects scene to maximize production efficiency—and minimize render times. Look for the upcoming courses After Effects Apprentice 18 and 19 for more C4D Lite projects.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eduardo Corpeño
+Course_ID=2817187
+Course_System=linkedin.com
+Course_Title=Learning Verilog for FPGA Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+FPGA development requires a big switch from more typical programming processes. In order to get an FPGA-based embedded system up and running, developers must add a hardware description language to their repertoire. In this course, Eduardo Corpeño helps you learn the fundamentals of one such language: the popular and concise Verilog. Eduardo begins with the basics; he explains what a hardware description language is and some similarities to traditional programming languages. He then covers the basic syntax of Verilog, as well as how to create test bench modules to run simulations, use variables with operators as an advantage of the behavioral level of abstraction, and more. Along the way, he provides demos and programming challenges that allow you to put your new skills to the test.

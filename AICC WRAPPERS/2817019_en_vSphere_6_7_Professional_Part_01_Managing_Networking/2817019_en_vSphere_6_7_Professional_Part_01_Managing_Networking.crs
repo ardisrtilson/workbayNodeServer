@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2817019
+Course_System=linkedin.com
+Course_Title=vSphere 6.7 Professional Part 01:  Managing Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is an integral part of any modern networking environment. vSphere offers a virtualized data center that helps administrators scale infrastructure to meet business needs. This course is the first in a nine-part series designed to teach you all the essentials of configuring, managing, securing, and troubleshooting a vSphere 6.7 environment with the new HTML5 vSphere Client. Instructor Rick Crisci reviews the foundations of virtual networking with vSphere, including its standard and distributed switches, and provides hands-on demos of the major configuration tasks: setting up switches, security, failover, and your virtual machines on vSphere 6.7. Plus, learn how to prioritize and control traffic with NIOC, set up private VLANs, and monitor and report on network traffic. Note: This series is also designed to prepare candidates for the VMware Certified Professional - Data Center Virtualization 2019 (VCP-DCV 2019) exam. This course was created by Rick Crisci. We are pleased to host this training in our library.

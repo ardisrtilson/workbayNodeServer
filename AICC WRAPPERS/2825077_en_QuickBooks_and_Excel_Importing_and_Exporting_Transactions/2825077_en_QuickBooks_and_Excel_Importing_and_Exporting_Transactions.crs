@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael McDonald
+Course_ID=2825077
+Course_System=linkedin.com
+Course_Title=QuickBooks and Excel: Importing and Exporting Transactions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Businesses all have their own way of recording financial information. The challenge is getting all the data into your analysis software in a clean and consistent format. This course helps you import and export sales transactions, financial statements, customer lists, and other important business data with Microsoft Excel and QuickBooks. Learn how to move data in and out of QuickBooks and Excel and generate common types of financial statements such as income and cash flow statements and balance sheets from QuickBooks. Instructor Michael McDonald also demonstrates how to format and upload text data in QuickBooks.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=587674
+Course_System=linkedin.com
+Course_Title=PHP with MySQL Essential Training: 1 The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PHP is a popular programming language and the foundation of many smart, data-driven websites. This comprehensive course from Kevin Skoglund helps developers learn to use PHP to build interconnected webpages with dynamic content which can pass data between pages. Learn how PHP can simplify the creation of forms, read and validate form data, and display errors. Kevin also covers the fundamentals of MySQL and how to use PHP to efficiently and securely interact with a database to store and retrieve data. Throughout the course, he provides practical advice and offers examples of best practices.

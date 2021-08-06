@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=587675
+Course_System=linkedin.com
+Course_Title=PHP with MySQL Essential Training: 2 Build a CMS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course—the second installment in a series—builds on the fundamentals of PHP with MySQL and teaches the intermediate concepts necessary to develop real-world web applications while creating a working content management system. Kevin Skoglund shows how to create dynamic navigation to allow public users to browse different pages of database-driven content. He demonstrates how to hide content from the public and to write functions which are context-sensitive and use argument options for conditional behavior. He shows how to implement user authentication and utilize PHP's built-in password functions to securely regulate page access. Finally, he shows how related database tables can become nested resources by modifying and scoping functions. Along the way, Kevin provides practical advice and offers examples of best practices.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=716060
+Course_System=linkedin.com
+Course_Title=Learning System Center 2016 Service Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+System Center 2016 Service Manager (SM) offers an integrated platform that can help IT administrators and help desk technicians implement, track, and support IT service requests and enterprise incident and problem management. SM provides a centralized repository of corporate IT asset information such as users and computers. With SM, you can configure how incidents, problems, and change requests are handled. In addition, the customizable Self-Service Portal allows IT service request submission and IT resource provisioning by the end user. In this course, Daniel Lachance covers how to implement, customize, and manage an SM ecosystem. Explore the benefits of SM, how to install the SM management and data warehouse servers, and how to configure key settings. In addition, learn how to publish a service offering to the Self-Service Portal, create incidents, problems, and change requests, and more.

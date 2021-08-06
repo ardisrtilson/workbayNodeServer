@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=476623
+Course_System=linkedin.com
+Course_Title=Learning Scratch
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Scratch is an up-and-coming introductory programming language. Developed by students at MIT, Scratch allows users to create web animations, games, and interactive stories, all without a single line of code. Originally intended for kids ages 8–16, Scratch's web-based platform is ideal for educators who want to incorporate programming in the classroom, and adult students who want to learn a visual language before progressing to code. Todd Perkins, author of Programming for Non-Programmers, shows how to use Scratch to create simple web projects and teach yourself basic programming concepts along the way. He starts with demonstrating how to create your first project and gather the artwork (aka sprites) and other assets you'll need to build it. Todd then reviews the prebuilt scripts, the bits of code that control the logic of your Scratch projects, and explains how to use the different script types for different functions, such as animating sprites, responding to events such as button clicks, and comparing values. In chapter 3, he covers costumes, and in chapter 4, he shows how to load and play sounds. Finally, he shows how to put it all together into a complete web game, which you can then share with the Scratch community.

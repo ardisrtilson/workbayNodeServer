@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=548714
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Containers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software containers are the future of app deployment—and an instrumental component of any DevOps strategy. They package everything a program needs to run, allowing developers to move applications from one environment to another relatively hassle free. In this course, cloud-computing luminary David Linthicum dives into the exciting world of software containers. David goes over the basics of containers, including an overview of the fundamental steps involved in building container-based software, followed by some examples of real-world applications that leverage containers. The course concludes with container standards and best practices, and the tools, processes, and skills a DevOps professional needs to work with them.

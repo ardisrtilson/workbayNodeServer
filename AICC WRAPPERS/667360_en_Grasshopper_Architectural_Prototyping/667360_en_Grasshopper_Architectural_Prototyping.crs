@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walter Zesk
+Course_ID=667360
+Course_System=linkedin.com
+Course_Title=Grasshopper: Architectural Prototyping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Grasshopper is a powerful visual programming plugin for Rhino, but the most effective design patterns within Grasshopper remain inaccessible to a majority of architectural designers. This course attempts to correct that gap. Watch and learn how to use Grasshopper scripts to create a variety of prototypes that can test concepts, predict costs, and help in the architectural proposal process. Instructor Walter Zesk shows how to use existing scripts, adapt and repair scripts, and design new scripts from scratch, focusing on a modular, component-based designs that can accept a variety of inputs. The course closes with some best practices for running prototypes, collecting data, and sharing your prototypes with colleagues.

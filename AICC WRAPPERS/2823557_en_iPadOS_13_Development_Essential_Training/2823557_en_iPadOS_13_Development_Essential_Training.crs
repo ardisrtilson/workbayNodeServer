@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=2823557
+Course_System=linkedin.com
+Course_Title=iPadOS 13 Development Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the release of iPadOS 13, developers and users were granted access to several new features and enhancements, including enhanced multitasking functionality and new tools and features in Apple Pencil. In this course, instructor Todd Perkins shows developers how to best approach iPadOS 13 application development using SwiftUI. Todd provides an overview of developing applications for iPadOS, sharing his take on the most essential concepts that developers need to master. Learn how to work with SwiftUI, set up multitasking, incorporate hand-drawn content into your app using PencilKit, set up your iPadOS 13 apps for use on macOS, support Dark Mode in your app, and more.

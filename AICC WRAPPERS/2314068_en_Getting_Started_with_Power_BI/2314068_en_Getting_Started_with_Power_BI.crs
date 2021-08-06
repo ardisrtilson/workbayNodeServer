@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2314068
+Course_System=linkedin.com
+Course_Title=Getting Started with Power BI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to view and manipulate data in Power BI service, the online version of the popular Microsoft data visualization tool. Gini von Courter explores the features used most by Power BI consumers—the end users of Power BI content such as dashboards and reports. Learn how to sign up for Power BI and navigate a typical app. Gini then shows how to subscribe to dashboards—collections of visualizations taken from reports and workbooks—and view individual tiles, add comments, set alerts, and share dashboards and tiles with team members. Next you can explore reports, which display data in more detail. Gini shows how to sort and filter, export, and share reports, either directly through Power BI or as a PowerPoint or PDF export. Finally, learn how to view your dashboards and reports on the go using the Power BI mobile app.

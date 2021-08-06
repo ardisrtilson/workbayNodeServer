@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=786421
+Course_System=linkedin.com
+Course_Title=Text Analytics and Predictions with Python Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Text is a rich source of insights for businesses. Websites, social media, emails, and chats all contain valuable customer data. But to reap the rewards, you need to be able to analyze large amounts of unstructured text. Text mining is an essential skill for anyone working in big data and data science. This course teaches text-mining techniques to extract, cleanse, and process text using Python and the scikit-learn and nltk libraries. Kumaran Ponnambalam explains how to perform text analytics using popular techniques like word cloud and sentiment analysis. He then shows how to make predictions with text data using clustering, classification, and recommendations—otherwise known as predictive text. Along the way, he introduces important text analytics concepts such as lemmatization and n-grams.

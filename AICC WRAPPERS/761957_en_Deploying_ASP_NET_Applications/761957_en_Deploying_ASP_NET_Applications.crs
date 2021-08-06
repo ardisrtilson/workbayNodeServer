@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiberiu Covaci
+Course_ID=761957
+Course_System=linkedin.com
+Course_Title=Deploying ASP.NET Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ASP.NET is still the most popular framework for building enterprise-scale Microsoft web apps. Choosing the right deployment strategy is critical to the success of these applications. Learn the various options, from deploying with IIS on a local Windows machine, deploying to the cloud with Azure, or leveraging containerization with Docker. Instructor Tiberiu Covaci, a Microsoft MVP, explores manual and automated techniques, using common tools like PowerShell and Visual Studio that make it easy to follow along on your own.

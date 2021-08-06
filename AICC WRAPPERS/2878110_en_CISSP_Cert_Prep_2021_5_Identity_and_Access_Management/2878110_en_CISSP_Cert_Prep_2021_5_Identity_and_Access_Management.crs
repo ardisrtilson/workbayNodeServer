@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2878110
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 5 Identity and Access Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you getting ready for the Certified Information Systems Security Professional (CISSP) exam, or perhaps an experienced information security professional who wants to learn more about identity and access management? In this course, instructor Mike Chapple provides you with the detailed information you need to prepare for the Identify and Access Management domain of the 2021 CISSP exam. Mike begins by explaining identification, including usernames, access cards, biometrics, and more. He explains authentication factors, multifactor authentication, and password authentication protocols, then goes into access control systems and authentication services. Mike covers how to manage sessions and a variety of account types and roles. He helps you understand authorization and the controls you may use to manage authorizations. In closing, Mike goes over different access control attacks you may encounter and how these attacks work.

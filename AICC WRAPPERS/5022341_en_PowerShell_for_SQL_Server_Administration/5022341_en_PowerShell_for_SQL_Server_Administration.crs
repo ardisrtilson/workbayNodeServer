@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Denny Cherry
+Course_ID=5022341
+Course_System=linkedin.com
+Course_Title=PowerShell for SQL Server Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Since SQL Server database administrators are typically charged with managing multiple machines, PowerShell—which enables administrators to manage large numbers of servers—is an especially valuable tool to master. In this course, instructor Denny Cherry shows SQL Server administrators how to use PowerShell to automate server management. Discover how to work with PowerShell to create objects, populate and delete data from tables, and remote to other servers. Plus, see how to loop constructs in PowerShell and make data available for transfer to third-party platforms.

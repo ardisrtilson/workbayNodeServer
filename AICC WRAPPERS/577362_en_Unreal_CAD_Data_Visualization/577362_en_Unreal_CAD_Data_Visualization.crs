@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Barr
+Course_ID=577362
+Course_System=linkedin.com
+Course_Title=Unreal: CAD Data Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unreal Engine 4 (UE4) is a complete suite of real-time visualization tools from Epic Games. In this course, learn how to work with UE4 for CAD data visualization. Craig Barr shares tips for bringing in CAD data that's Unreal Engine friendly, and explains how to set up a project and scene. After Craig shows how to get your project started, he goes into working with materials and lighting for CAD visualization, and provides an introduction to Blueprints in UE4, which provide a powerful way to visually script nearly anything. Plus, he looks at how to render still images and shows how to output a visualization edit.

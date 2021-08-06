@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gordon Luckett
+Course_ID=2856080
+Course_System=linkedin.com
+Course_Title=FME Desktop: Data Translation for AEC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you grappling with huge amounts of data? Is much of it in the wrong format or in huge files? FME Desktop is a data translation tool used across multiple industries for manipulating and processing large volumes of data in GIS and CAD pipelines. In this course, Gordon Luckett introduces you to tools and techniques that will make your next AEC data manipulation task much easier. Learn how to use FME Workbench to convert frequently used files, including how to convert an AutoCAD DWG into a shapefile. Discover how to pull and transform information into more common formats like ECW, JPG, Google KML, and Excel. Learn about both vector and raster data transformers, including Tester—which controls the translation of data—and RasterMosaicker, which you can use to compile multiple images into a single picture. Plus, discover how you can chain transformers and use an ArcGIS Enterprise data source to create a local shapefile.

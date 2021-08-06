@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=743162
+Course_System=linkedin.com
+Course_Title=Building iOS Apps with AWS Mobile
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many of today's iOS apps rely on cloud services for features like authentication, database integration, and file storage. AWS Mobile can deliver all of these features and more, while avoiding the need for actual server-side development. In this project-based course, instructor Bear Cahill shows how to get started with AWS Mobile for iOS. He covers the basics of user authentication with Amazon, Facebook, and Google; database storage for user data; and file storage for binary data. Follow along step by step to learn how to configure the AWS console, create your Xcode project, and write the Swift code to integrate AWS Mobile into your app.

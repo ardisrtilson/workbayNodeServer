@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=5043101
+Course_System=linkedin.com
+Course_Title=Laravel 6 Essential Training: Testing, Securing and Deploying Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Laravel is the most popular MVC framework for PHP. It builds on PHP standards and conventions, making it easy to create completely customizable, full-featured apps. In this course—the second installment in the Laravel 6 Essential Training series, instructor Justin Yost continues to cover the essentials of working with Laravel 6 as he demonstrates how to build a basic Laravel application to manage a hotel reservation system. Justin explains how to run console commands, add the ability to save images, work with the Laravel service container, write tests in Laravel, write and send emails using your app, and manage user authentication. These videos provide the information you need to make a move to Laravel and build high-quality, scalable, and sound PHP applications.

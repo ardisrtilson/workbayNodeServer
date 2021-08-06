@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=2841539
+Course_System=linkedin.com
+Course_Title=COBOL Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Since its inception over 60 years ago, COBOL code has worked its way into everything from ATM machines to essential government operations. While most modern developers aren't spinning up new programs using this legacy programming language, organizations are often willing to pay a premium for candidates who can review and update existing COBOL code. This course was designed to help new and experienced programmers alike add COBOL (or add COBOL back) to their skill set. Instructor Peggy Fisher shows how to get a COBOL development environment up and running and how to start programming. She reviews the language's data types and constants, control structures, file organization and processing methods, tables, and strings. Challenges issued along the way will help you practice what you've learned.

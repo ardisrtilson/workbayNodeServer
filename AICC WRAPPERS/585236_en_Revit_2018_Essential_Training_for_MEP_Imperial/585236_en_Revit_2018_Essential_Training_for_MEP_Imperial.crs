@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=585236
+Course_System=linkedin.com
+Course_Title=Revit 2018: Essential Training for MEP (Imperial)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course focuses solely on the MEP version of Revit. In addition to learning MEP workflows and trade coordination that can apply to any trade, this course is also broken down into specific trades, then into specific features for each trade. The trades covered are electrical, mechanical, plumbing, and fire protection. Find your specialty for direct training, or view all of the specialties to get a broader view of the capabilities of Revit.

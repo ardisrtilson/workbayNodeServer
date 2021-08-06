@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Laura Stone
+Course_ID=2803423
+Course_System=linkedin.com
+Course_Title=Site Reliability Engineering: Service-Level Agreements and Objectives
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software teams are expected to both maintain the quality of existing applications and innovate on new features that excite users. For engineering and operations teams, tackling both of these efforts on a deadline can be challenging. In this course, learn how to leverage error budgets and service-level indicators (SLIs), service-level objectives (SLOs), and service-level agreements (SLAs) to set realistic performance expectations and measure system performance within your organization. Instructor Laura Stone shows how to create SLIs to measure the reliability of a system, as well as how to make those SLIs meaningful with SLOs. Laura also shows how to use error budgets to ensure that poor service performance has consequences. To wrap up, she goes over the main components of SLAs.

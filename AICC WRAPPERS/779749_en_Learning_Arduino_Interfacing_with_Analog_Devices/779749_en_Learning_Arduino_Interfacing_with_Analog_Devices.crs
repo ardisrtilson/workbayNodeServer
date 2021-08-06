@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=779749
+Course_System=linkedin.com
+Course_Title=Learning Arduino: Interfacing with Analog Devices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Arduino helps engineers and DIY enthusiasts build functional, interactive prototypes and electronics projects. Integrating analog devices allows you to take your Arduino projects to the next level, bridging the digital and physical worlds. With analog components, you can collect data from sensors, make motors run, and display information to users. This course teaches you the basics you need to get started. Zahraa Khalil shows how to connect real devices—temperature sensors, LEDs, LDR circuits, joysticks, and stepper motors—to your Arduino board. She explains the wiring and coding you need to get them up and running and showcases the possibilities of Arduino-driven hardware in three mini projects.

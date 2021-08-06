@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Greene
+Course_ID=5005082
+Course_System=linkedin.com
+Course_Title=Apollo Client State with React
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Apollo—a GraphQL client for React and React Native apps—you have the ability to manage both remote and local data. In this course, instructor Eric Greene discusses how to manage client-side state using Apollo with React. After providing an overview of Apollo client state and showing how to create your development environment, Eric demonstrates how to configure and query client state. Plus, he shows how to mutate client state with a mutation query, query and mutate the cache, and more. Note: This course was created by Wintellect. We are pleased to host this training in our library.

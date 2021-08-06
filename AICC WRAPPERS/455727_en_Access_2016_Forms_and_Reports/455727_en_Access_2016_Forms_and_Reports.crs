@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=455727
+Course_System=linkedin.com
+Course_Title=Access 2016: Forms and Reports
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Access forms and reports to control and organize the display of your data, as well as gather parameters for queries. Access expert Adam Wilbert starts with the basics of form design and leveraging controls such as buttons, links, and macros. He combines these ideas in a chapter that shows how to build an application-like framework for getting around an Access 2016 database. Then the course dives into reports: creating efficient and readable layouts, grouping data into categories, tying reports to queries, and using conditional formatting rules to highlight key takeaways from the data. Finally, Adam demonstrates how to link forms and reports and print your results, and introduces unique ways to save time filling out paperwork and generating form letters.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bhavani Ravi
+Course_ID=2857065
+Course_System=linkedin.com
+Course_Title=Developing Chatbots with Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What exactly is a chatbot? How does it differ from a bot, how can you develop one, and how can you use it, once it is developed? Instructor Bhavani Ravi walks you through learning about chatbots and developing your first one. Bhavani begins by describing what a chatbot is, what types of chatbots exist today, and how a chatbot differs from bots and applications. She goes over the components of a chatbot system and discusses the natural language processing (NLP) that allows chatbots to understand requests in human language. She steps through designing a chatbot, then shows you the “brain” of a chatbot: ML models. Bhavani shows you how to use ML models to train your chatbot, challenges you to write your own chatbot, then concludes with some projects that you can work on and submit to GitHub.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Whitaker
+Course_ID=162573
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Creating a CG Flag with Nuke X and Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual effects (VFX) don't necessarily need to involve explosions, magic, or giant robots. In fact, VFX can be as simple as a flag unfurling. CINEMA 4D and Nuke are a great combination for creating this type of shot. CINEMA 4D has fantastic rigid body and cloth systems, while Nuke, the industry's leading compositing tool, makes tracking and compositing a breeze. In this course, Craig Whitaker will guide you through the entire post-production process for creating a computer-generated flag—from creating a mock-up from reference material and tracking the camera movement to constructing the flag using CINEMA 4D's cloth simulation tools and compositing it back into the scene with Nuke. Each step of the process is rich with lessons applicable to similar situations CG and compositing artists will face in the real world.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Bailey
+Course_ID=808675
+Course_System=linkedin.com
+Course_Title=Cloud Native Development with Node.js, Docker, and Kubernetes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While the vast majority of Node.js apps are deployed and run in the cloud, few leverage all that modern cloud computing platforms have to offer. If you're looking to take the next step in your cloud computing journey, then this course is for you. Join Chris Bailey as he shows developers how to go from merely hosting apps in the cloud to building and deploying cloud native apps. Chris begins by providing an overview of what it means to be cloud native and create Node.js apps that exploit the cloud's features. He then steps through how to take an existing Node.js app and package it with Docker, deploy the app to Kubernetes, and enhance it with cloud native capabilities, including support for self-healing and metrics.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ronald Woerner
+Course_ID=802864
+Course_System=linkedin.com
+Course_Title=Security for the SMB: Implementing the NIST Cybersecurity Framework
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cybersecurity incidents impact organizations of all sizes, in all sectors. Small and medium businesses (SMBs) may not have the same infrastructure or resources for security, but face the same risks. In this course, Ron Woerner explains how to secure SMB assets, systems, and networks, leveraging the five functions of the National Institute of Standards and Technology (NIST) Cybersecurity Framework—identify, protect, detect, respond, and recover—as a scaffold for creating a robust cybersecurity program. Learn how to identify your assets and necessary levels of access, set up defenses such as firewalls and encryption, monitor your systems, create an effective incident response plan, and use backups and cloud services to ensure you can recover and resume operations as quickly as possible.

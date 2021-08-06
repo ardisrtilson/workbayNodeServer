@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2834021
+Course_System=linkedin.com
+Course_Title=Microsoft Power Apps: AI Builder
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Power Apps gives both business power users and professional developers the ability to quickly create powerful, low-code/no-code business apps. With the AI Builder in Power Apps, you can make your apps and workflows even smarter by adding AI capabilities—no programming experience required. In this course, instructor Gini von Courter helps you get up and running with AI Builder, showing you how to create custom AI models that can be used in Power Apps or Power Automate. Gini explains how to create AI automation for tasks such as form processing, object detection, and text classification. Along the way, she demonstrates how to build each model; train, review, and test the models; and then implement them in your projects.

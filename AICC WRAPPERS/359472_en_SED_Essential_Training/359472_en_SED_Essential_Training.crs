@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David D. Levine
+Course_ID=359472
+Course_System=linkedin.com
+Course_Title=SED Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SED is the one of the original command line tools for parsing and transforming data on Unix, Linux, and Macintosh machines. David D. Levine helps you unlock the power of SED's compact syntax in these lessons, which cover extracting, transforming, and manipulating data in files and data streams. He reviews the basic commands, including one you'll never want to forget, and shows how to work with regular expressions. The course also covers SED's more advanced programming features, which allow you to write simple programs and manage multiline pattern space, flow, and the hold buffer with a few simple keystrokes. Start here to learn the essentials of this versatile tool.

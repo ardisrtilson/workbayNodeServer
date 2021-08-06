@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gordon Luckett
+Course_ID=2813222
+Course_System=linkedin.com
+Course_Title=Learning QGIS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enrich your GIS data and make more effective maps with QGIS. Gordon Luckett shows how to get QGIS up and running on your computer and create both 2D and 3D maps with vector and raster data. Plus, learn how to stylize maps, get more insights from data with overlays and heat maps, and publish results with powerful Python-driven plugins for QGIS.

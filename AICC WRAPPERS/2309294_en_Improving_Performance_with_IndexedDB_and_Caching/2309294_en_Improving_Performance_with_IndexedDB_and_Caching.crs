@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Oram
+Course_ID=2309294
+Course_System=linkedin.com
+Course_Title=Improving Performance with IndexedDB and Caching
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As developers strive to create web applications that work efficiently and can tolerate unreliable network connections, caching and local storage approaches become increasingly critical. In many cases, leveraging the IndexedDB API and key caching strategies can offer huge software performance boosts. In this course, instructor Mike Oram delves into what caching and the IndexedDB API are, as well as how to work with them to boost your application's performance. Learn about the pros and cons of different caching strategies, how to implement caching in your application, and how to assess the subsequent performance gains. Plus, review techniques for storing, retrieving, and updating data with IndexedDB, including different strategies for storing dynamic data on the client side.

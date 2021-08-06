@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2823036
+Course_System=linkedin.com
+Course_Title=Leveraging Cloud-Based Machine Learning on Azure: Real-World Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In order to successfully incorporate AI on the popular Azure platform, you must gain a fundamental understanding of what AI is and become familiar with the local tools Azure offers. In this course, David Linthicum covers the basics of leveraging Azure for AI-based applications, including key tools and the processes for using them correctly. After going over the basics of AI processing on Azure, creating knowledge bases, and the use of AI systems in the cloud, David presents real-world use cases across a variety of industries, including healthcare, finance, law enforcement, and manufacturing. He then shows how to work with the Azure Machine Learning (AML) cloud service to build, train, and deploy machine learning models; leverage the Azure Search (AS) tool; and build an AML application.

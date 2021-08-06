@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=2841544
+Course_System=linkedin.com
+Course_Title=Learning Mocha
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mocha, the powerful planar tracking toolset from Boris FX, offers features that can help you solve tough tracking challenges. Interested in incorporating Mocha in your VFX and post-production work? Tune into this course to explore the basics of Mocha Pro and Mocha AE as you learn essential motion tracking and rotoscoping techniques. Instructor Lee Lanier discusses how to find a good planar pattern to track, apply tracking data, and enhance tracking results. He also covers object removal, techniques for tracking stereoscopic and 360/VR footage, and how to stitch together an extended frame with the Mega Plate module. Plus, learn about the exportation of tracking and shape data to After Effects and Boris Continuum plugins.

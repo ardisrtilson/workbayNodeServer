@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=577368
+Course_System=linkedin.com
+Course_Title=Windows Presentation Foundation 5: Interaction and Controls
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Presentation Foundation (WPF) in Visual Studio 2015 provides developers with a unified programming model for building modern line-of-business desktop applications on Windows. This course covers how to work with the essential WPF controls and classes to create interactivity. Join Walt Ritscher as he takes you through how to leverage fundamental code families. Walt uses a custom app shell to show the examples and demonstrate the code in each chapter. Get ready to explore the broad world of interaction and control options that you can leverage by learning about the types of classes that support user interaction and the definitions of the features found in UI elements.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=2817227
+Course_System=linkedin.com
+Course_Title=Troubleshooting and Debugging Bash
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programmers joke that 90% of all coding is actually debugging. In scripting, the number could be even higher. Learn how to resolve your Bash scripting issues faster and get your scripts to run right. This course teaches you how to how to set yourself up for success from the very beginning by learning what components to search for in a good script editor and how to use those features to build observability into your script. You can also discover how to more easily find and identify bugs within scripts by enabling logging techniques and reporting of error conditions. Instructor Sean Colins also explains how to successfully re-use code that you built—or that others have built before you—and efficiently locate and repair the most common Bash scripting bugs.

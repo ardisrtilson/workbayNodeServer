@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Ludwig
+Course_ID=651187
+Course_System=linkedin.com
+Course_Title=Excel: PivotTables for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PivotTables don't have to be scary! This powerful Excel feature cuts the time you spend on formulas in half. In this concise course, Excel trainer Dave Ludwig demystifies PivotTables and shows you how to get started using them to analyze your data. Dave begins by explaining two PivotTable basic building blocks: value fields and row fields. Then he shows you how to adjust a PivotTable by adding fields, filters, and formatting. Finally, Dave shows you how to use special filter buttons which are known as slicers, and he also demonstrates how to use timelines. At the end, he goes over the basics of refreshing and updating a PivotTable.

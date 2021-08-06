@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=740406
+Course_System=linkedin.com
+Course_Title=Maya: Bifrost Extension
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the Bifrost graph, a powerful new procedural content creation framework from Autodesk. Instructor Aaron Ross covers the Bifrost Extension, a free Maya plugin for creating tools to accelerate almost every aspect of 3D production. Using the Bifrost visual programming environment, artists and technical directors in all 3D disciplines can automate complex processes and generate assets without writing a single line of code.

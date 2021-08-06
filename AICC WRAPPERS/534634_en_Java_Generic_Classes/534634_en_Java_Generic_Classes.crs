@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=534634
+Course_System=linkedin.com
+Course_Title=Java: Generic Classes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Java generics to write cleaner and more robust code. Peggy Fisher walks through how to describe generics in Java and goes over syntax examples and type erasure. Peggy also covers the existing types of generic classes, interfaces, and methods, and shows how to create your own. Plus, at the conclusion of the course, she provides a hands-on challenge designed to help you practice and master what you learned.

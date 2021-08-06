@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Villeneuve
+Course_ID=2817064
+Course_System=linkedin.com
+Course_Title=AWS Essential Training for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modern companies need developers who can accomplish business objectives with Amazon Web Services (AWS) without over-engineering in-house solutions. But with AWS now listing over a hundred different service offerings, getting a holistic sense of the platform can seem daunting. In this course, Jeremy “JV” Villeneuve breaks down key AWS services, giving developers a high-level look at the different ways they can host applications within AWS, as well as how to decide which services will fit their use case. He introduces you to cloud computing by tying the concepts to real-world hardware, such as hard drives and network switches. Get the information you need to match product names to what each service does (as well as to the corresponding architecture icons), so you can explore them further.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=5019843
+Course_System=linkedin.com
+Course_Title=Electron: Building Cross Platform Desktop Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Electron is an open-source framework for creating desktop applications with your favorite web technologies: JavaScript, HTML, and CSS. It makes it easy to create a simple app with a few lines of code, using languages you already know. Want to learn more? Join Ray Villalobos as he walks through the techniques you need to master cross-platform desktop development with Electron. Learn how to configure and communicate between app windows (web pages) via the main and renderer processes; use Vue.js—the progressive JavaScript framework—with Electron; and improve your apps by modifying components and adding modals. Plus, see how to finish up an app by customizing menus and adding an icon for your dock.

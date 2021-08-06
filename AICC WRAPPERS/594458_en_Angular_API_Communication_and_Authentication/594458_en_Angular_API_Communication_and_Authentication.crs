@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Victor Mejia
+Course_ID=594458
+Course_System=linkedin.com
+Course_Title=Angular: API Communication and Authentication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+APIs are at the heart of enterprise development, and Angular ships with robust services to communicate with them via HTTP. But one of the best ways to implement authentication of API services is using JWTs (JSON web tokens). In this course, we take a deep dive into using the provided $http service in Angular to create a robust and reusable API service implementing JWT authentication. Instructor Victor Mejia also covers how to use an Angular router to protect client-side routes and unit test services, HTTP requests, and async actions. All these concepts are demonstrated using a realistic contact management application, so you can see how API calls and user authentication are implemented in a real-world Angular app.

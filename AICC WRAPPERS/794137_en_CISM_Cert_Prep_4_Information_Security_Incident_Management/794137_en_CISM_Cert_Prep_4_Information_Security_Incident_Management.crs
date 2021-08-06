@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=794137
+Course_System=linkedin.com
+Course_Title=CISM Cert Prep: 4 Information Security Incident Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Even the best security controls aren't foolproof. That's why security professionals need a solid incident management plan. The fourth domain of the Certified Information Security Manager (CISM) exam—Information Security Incident Management—tests your mastery of this important topic. Take this CISM Cert Prep course to study for the exam and gain a deeper understanding of how your team should react to and resolve a security incident, whether it's an attack on your network, an email-born virus, or data theft. Instructor Mike Chapple explains how to identify, triage, and respond to an event, minimizing the damage and maximizing your ability to find the root cause, so you can resume normal operations. He also provides tips for logging and monitoring ongoing security-related events. Each topic maps to a relevant objective from the CISM certification exam.

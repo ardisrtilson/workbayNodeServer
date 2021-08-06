@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=689778
+Course_System=linkedin.com
+Course_Title=The Data Science of Educational Management and Policy, with Barton Poulson
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Educational records and standardized tests offer a treasure trove of data about who our students are and what they actually need from the education system. Data science can help educators glean valuable insights from this deluge of information. In this brief course, data scientist and professor Barton Poulson provides a nontechnical overview of how data science changes the way that education is planned, carried out, and evaluated, as compared to traditional methods of research. Designed for aspiring and working teachers, parents, administrators, and anyone affected by the changing pace of our times, this course helps to illuminate how data science principles and procedures can help us better understand and educate our citizens. Learn how data science enables educators to create more meaningful curricula, evaluate the effectiveness of their progress, and more.

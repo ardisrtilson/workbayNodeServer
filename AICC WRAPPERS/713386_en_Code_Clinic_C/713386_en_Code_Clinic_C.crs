@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=713386
+Course_System=linkedin.com
+Course_Title=Code Clinic: C
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Successful programmers know more than just how to code. They also know how to think about solving problems. Code Clinic is a series of courses where our instructors solve the same problems using different programming languages. Here, Dan Gookin works with C. Throughout the course, Dan introduces challenges and then provides an overview of his solutions in C. Challenges include topics such as geolocation and face recognition. Visit other courses in the series to see how to solve the same challenges in languages like C++, C#, JavaScript, PHP, Python, Ruby, Go, and Swift.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=651209
+Course_System=linkedin.com
+Course_Title=R for Data Science: Lunchbreak Lessons
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programming is learned in small bits. You build on basic concepts. You transfer the knowledge you already have to the next language. Lunch Break Lessons teaches R—one of the most popular programming languages for data analysis and reporting—in short lessons that expand on what existing programmers already know. The five minutes you spend each week will provide you with a building block you can use in the next two hours at work. Review language basics, discover methods to improve existing R code, explore new and interesting features, and learn about useful development tools and libraries that will make your time programming with R that much more productive. All series code samples can be downloaded at https://github.com/mnr/five-minutes-of-R. Note: Because this is an ongoing series, viewers will not receive a certificate of completion.

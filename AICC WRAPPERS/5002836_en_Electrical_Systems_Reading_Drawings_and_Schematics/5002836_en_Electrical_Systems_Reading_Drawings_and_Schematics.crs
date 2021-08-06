@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Randall
+Course_ID=5002836
+Course_System=linkedin.com
+Course_Title=Electrical Systems: Reading Drawings and Schematics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Anyone who wants to install, maintain, or repair electrical systems relies on drawings to understand the layout of components and create new distribution systems and circuits. However, electrical drawings contain a complex set of symbols and interconnection notation that can be difficult to understand. In this course, you can learn how to read a variety of drawings, including blueprints, details, schedules, and riser and one-line diagrams. Instructor Christopher Randall also explains how to read wiring diagrams and schematics, as well as ladder diagrams specifying the configuration and placement information for programmable logic controllers (PLCs), which are used to control equipment such as motors.

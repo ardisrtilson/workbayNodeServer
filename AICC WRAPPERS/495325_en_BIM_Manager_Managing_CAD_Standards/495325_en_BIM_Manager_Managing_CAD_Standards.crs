@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=495325
+Course_System=linkedin.com
+Course_Title=BIM Manager: Managing CAD Standards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gain insight on why CAD standards are important to your firm, and what actually goes into a successful standards implementation. To begin, learn about the CAD, BIM, and virtual design and construction (VDC) manager roles. Next, learn about the National CAD Standard (NCS), and look at sheet numbering, approved border formats, text styles, and lineweights as they relate to NCS. Plus, learn about the BIM Level of Detail, COBie and IFC formats, assigning a project CAD lead, reviewing the QA and QC process, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Muazma Zahid
+Course_ID=2880021
+Course_System=linkedin.com
+Course_Title=Inclusive Tech: Breaking Bias in Tech
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether we are consciously aware of them or not, biases exist everywhere. Most people think of technology as inherently neutral, but when we examine the widespread technology used every day, we uncover unconscious biases built into the systems' foundations that impact our daily lives. Our lives are increasingly affected by these algorithms that determine things from what news we see, the products we buy, or what skin color triggers an automatic water faucet, to possibly life-altering moments like who is stopped by police. In this course, Muazma Zahid takes a look at the common biases we all experience, how they manifest in our work, and the steps you can take to remove those biases in code, actions, and products and build inclusive technology. As technology advancements continue to grow, identifying bias in the process is critical to building inclusive technology.

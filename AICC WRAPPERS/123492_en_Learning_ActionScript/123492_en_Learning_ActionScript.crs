@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=123492
+Course_System=linkedin.com
+Course_Title=Learning ActionScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ActionScript is an object-oriented programming language that has a wide reach on the web, the desktop, mobile devices, and beyond. In this workshop, expert software engineer Joseph Labrecque teaches you the fundamentals of programming in ActionScript 3 using both Flash Professional and Flash Builder. Learn how to use core constructs and object types such as variables, arrays, and functions, as well as more advanced types like video, sound, XML, and JSON.

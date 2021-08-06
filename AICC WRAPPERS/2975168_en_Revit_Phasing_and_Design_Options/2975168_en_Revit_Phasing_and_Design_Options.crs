@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=2975168
+Course_System=linkedin.com
+Course_Title=Revit: Phasing and Design Options
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Phasing in Autodesk Revit allows you to show the complete life cycle of a project, such as a before and after or existing and proposed status, while design options allow you to save multiple iterations of a concept in a single project file. In this course, Paul F. Aubin shows how to use phasing and design options to organize multipart, multifaceted projects in Revit. The course also covers adding and assigning phases to views, scheduling phases and designating future work, working with design option sets, and presenting complex designs to clients.

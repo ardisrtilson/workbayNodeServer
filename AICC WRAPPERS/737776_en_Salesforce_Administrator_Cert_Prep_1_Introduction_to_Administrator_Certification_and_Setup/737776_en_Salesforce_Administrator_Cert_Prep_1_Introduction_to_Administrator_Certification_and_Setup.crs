@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Wheeler
+Course_ID=737776
+Course_System=linkedin.com
+Course_Title=Salesforce Administrator Cert Prep: 1 Introduction to Administrator Certification and Setup
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the Salesforce Certified Administrator credential can help Salesforce developers, administrators, architects, and sales professionals jump-start their careers and deepen their understanding of the platform. To help you prepare to take and pass the Salesforce Certified Administrator exam, instructor Mike Wheeler has designed the Salesforce Administrator Cert Prep series, which covers the exam's core objectives in detail. In this course—the first installment in the series—Mike helps to equip you with the knowledge you need to tackle the organization setup and user setup exam objectives. After stepping through the official Salesforce Certified Administrator certification exam guide, he goes over the platform's user interface features and discusses how to set up and maintain a user.

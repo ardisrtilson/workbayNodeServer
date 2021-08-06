@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=417092
+Course_System=linkedin.com
+Course_Title=Word 2016: Mail Merge in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Word's Mail Merge feature to quickly build customized documents, everything from personalized letters and envelopes to labels and email messages. Author Gini Courter shows how to use Mail Merge to take a form letter or any other template and insert data in the form of variables, such as names, addresses, dates, and amounts due. She also covers how to connect to existing data sources in Access, Outlook, and Excel; create new data sources; add attachments to merged email messages; use rules for advanced mail merges; and troubleshoot Mail Merge issues.

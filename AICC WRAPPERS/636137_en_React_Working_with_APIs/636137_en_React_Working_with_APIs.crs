@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=636137
+Course_System=linkedin.com
+Course_Title=React: Working with APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While React simplifies the challenge of making API calls, figuring out how best to structure your application around an API is more difficult. There are two primary approaches: using the React built-in fetch methods, or using axios, a promise-based library. This course showcases the strengths of each technique. Instructor Emmanuel Henri covers the basic concepts behind REST APIs and shows how to build reusable components that use fetch methods to call real-world APIs like News API. He then shows how to connect to APIs using axios, which simplifies API calls by automatically transforming JSON data. By the end of the course, you should have the skills to structure API calls, maintain state, and make users happy.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=2849003
+Course_System=linkedin.com
+Course_Title=InfraWorks 2021: Animating Infrastructure Designs 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a civil engineer or transportation planner, you might need to use InfraWorks 2021 to model a landscape, building, or road as part of a larger design project. In this course, instructor Lynda Sharkey walks you through a series of tutorials that show you how to import, work with, and customize a variety of designs. Lynda begins with how you can prepare a model so that you can export it from InfraWorks and import it into Twinmotion for refinement. She shows you how to clean up a scene graph and set localization preferences. Lynda describes how to add and sculpt terrain, make changes to ponds, and work with different ground materials and vegetation. She goes over how to work with buildings, including glass doors and lights, then goes into road materials and decals you may need to model roads accurately. Lynda covers how to add city furniture, parking barriers, and vehicle paths, then concludes with custom path options that you can add.

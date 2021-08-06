@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=5028668
+Course_System=linkedin.com
+Course_Title=Vue.js Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Vue.js offers developers a framework for building applications that lets them choose how deeply they want to apply the framework. This flexibility is just one of the many benefits offered by this lightweight framework. Developers also appreciate the render functions, the single-file components, the native script plugins, the CLI project generator, and other unique-yet-familiar programming options. In this course, explore the fundamentals of Vue.js. Explore the core library and learn how to make the most of templates, classes, objects, arrays, styles, modules, and more.

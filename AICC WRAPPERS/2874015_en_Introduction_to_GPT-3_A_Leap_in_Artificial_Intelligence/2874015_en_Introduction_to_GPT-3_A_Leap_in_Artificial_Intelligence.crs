@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=2874015
+Course_System=linkedin.com
+Course_Title=Introduction to GPT-3: A Leap in Artificial Intelligence
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you an AI specialist, a data scientist, a business leader, or someone who would like to know more about how artificial intelligence is impacting our world? In this course, instructor Dr. Jonathan Reichental introduces you to a hot topic in AI development: the GPT-3 (Generative Pre-trained Transformer 3) technology released by Open AI. Reichental describes the increasingly important role that AI is playing in business. He covers a brief history of AI, then tells you about how OpenAI got started, its mission and vision, and its unique charter. Reichental discusses the core concepts of GPT-3, how it adds value, and a few of its challenges and limitations. He describes the future of AI, then concludes with suggestions for next steps you and your organization can take relative to GPT-3 and AI.

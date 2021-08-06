@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=2885187
+Course_System=linkedin.com
+Course_Title=Data Prediction with Amazon Forecast
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Machine learning is growing exponentially, and in Amazon Forecast you have a great machine learning tool for performing predictive analysis. In this course, instructor Carlos Rivas takes you through data preparation and ingestion, selecting prediction training data, training predictors, and generating forecasts using those trained predictors. After explaining use cases for a tool like Amazon Forecast, Carlos goes over key terms and keywords, predefined data sets, and pricing. He discusses how to import data, double-check your security settings, prepare your data, and train your predictors. Carlos steps through how to run relevant forecasting jobs and validate your output, then concludes with predictions and visualization.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Timothy Pintello
+Course_ID=360031
+Course_System=linkedin.com
+Course_Title=Windows Server 2012: Install, Configure, and Administer Active Directory
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Active Directory is the hub of Windows Server administration. In this course, Timothy Pintello will help you install, configure, and administer Active Directory and organize the computers and users on your network. He'll cover adding, promoting, and removing domain controllers; administering users and individual computers; and using groups and organizational units (OU) to manage the objects on your network. Need to configure other Windows services? Check out the companion courses on Timothy's author page.

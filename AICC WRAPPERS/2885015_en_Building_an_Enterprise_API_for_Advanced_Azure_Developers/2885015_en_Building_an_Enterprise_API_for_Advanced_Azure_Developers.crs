@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nertil Poci
+Course_ID=2885015
+Course_System=linkedin.com
+Course_Title=Building an Enterprise API for Advanced Azure Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Azure API Management and build secure and scalable enterprise-level APIs that can be discovered and consumed internally or by third-party applications. In this course for advanced Azure developers, instructor Nertil Poci reveals what Azure API Management service is, the needs it meets, and the features it offers. He explains how to create your very first API project and shows how to scale it to support any number of requests. He then shows how to deploy your API to Azure and consume it with the API Management service, including adding consumption rules that apply rate-limit and control-flow policies, modify headers, handle errors, and more. He also shows how to make APIs secure and discoverable, and monitor the performance of APIs after release using analytics, app insights, and live metrics. Plus, learn how to keep your APIs up to date over time—without any service interruption—through versioning.

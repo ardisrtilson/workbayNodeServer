@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=625930
+Course_System=linkedin.com
+Course_Title=SQL Server 2017: Linux, Docker, and macOS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server has traditionally run only on Windows. New for 2017 is the ability to install server instances and work with databases on Linux and in Docker containers, which opens the possibility of running SQL Server on macOS. With the extension tools now available as native Linux and macOS applications, users can capitalize on the variety of options available for running a database instance. This course shows how to install SQL Server on new platforms, and how to connect to it from a newly diverse array of environments. Instructor Adam Wilbert also shows how to use SQL Operations Studio to perform routine SQL Server maintenance tasks, such as backups, from Windows, macOS, and Linux.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=5035830
+Course_System=linkedin.com
+Course_Title=JavaScript: Test-Driven Development (ES6)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TDD is one of the most hotly discussed subjects in the software development world. Even the most carefully constructed applications grow to the point where debugging and ensuring quality becomes difficult. Test-driven development (TDD) helps with this tremendously by ensuring that all parts of your application are covered by tests. In this course, Shaun Wassell explores the foundational techniques and tools for unit and integration tests. Along the way, he zooms out to examine how they all fit together. Shaun also highlights TDD's strengths and weaknesses and provides real-world examples that showcase how TDD can fit into your development workflow.

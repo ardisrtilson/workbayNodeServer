@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft .NET, Olia Gavrysh
+Course_ID=2876200
+Course_System=linkedin.com
+Course_Title=Introducing Desktop and .NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this introductory course, learn how to create your very first WinForms or WPF application on .NET Core. First, instructor Olia Gavrysh discusses the difference between .NET Framework and .NET Core for desktop applications. Olia goes over how to create your first WinForms application targeting .NET Core 3 and explores the base components of the WinForms application. Olia also walks you through how to create your first WPF application targeting .NET Core 3 and explains the base components of the WPF application. This course was created by Microsoft.NET. We are pleased to host this training in our library.

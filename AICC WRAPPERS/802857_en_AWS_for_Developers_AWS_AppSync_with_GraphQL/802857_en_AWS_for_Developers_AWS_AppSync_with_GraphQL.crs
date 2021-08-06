@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=802857
+Course_System=linkedin.com
+Course_Title=AWS for Developers: AWS AppSync with GraphQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As mobile apps mature, users have grown to expect data to be available across devices—even offline—as well as real-time updates. AWS AppSync helps with both of these while also using GraphQL for the API. In this course, discover how to leverage AWS AppSync and GraphQL in your mobile app development workflow. Instructor Bear Cahill takes you through the creation of an online GraphQL API from an existing DynamoDB table, and vice versa. He shows how to define the schema; generate the mobile app code via Amplify; and develop an app with a user login, online data with offline availability, and real-time updates.

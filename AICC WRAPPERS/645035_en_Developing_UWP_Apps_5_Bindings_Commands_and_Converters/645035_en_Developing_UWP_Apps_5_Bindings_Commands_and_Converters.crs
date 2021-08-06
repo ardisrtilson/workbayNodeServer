@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645035
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 5 Bindings, Commands, and Converters
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data binding is one of the most important concepts that a developer must master in order to write great Universal Windows Platform (UWP) apps—especially apps that use the popular Model-View-ViewModel (MVVM) architecture. And along with data binding comes commanding and value converters. In this course, learn about all three and the role each one plays in UWP app development. Plus, discover how all of these concepts work together, and see development steps in action. Note: This course was created by Wintellect. We are pleased to host this training in our library.

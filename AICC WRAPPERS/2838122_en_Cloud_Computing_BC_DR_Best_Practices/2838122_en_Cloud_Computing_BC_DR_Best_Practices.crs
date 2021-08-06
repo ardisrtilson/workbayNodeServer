@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2838122
+Course_System=linkedin.com
+Course_Title=Cloud Computing: BC/DR Best Practices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The cloud is a force multiplier for business, allowing companies large and small to scale quickly and efficiently. However, running your workloads in the cloud doesn't mean they're immune to disruptions. In the event of a disaster that interrupts services—whether a large-scale event or an incident impacting your business specifically—you need to have a plan in place for minimizing your downtime and the resulting loss of revenue. In this course, instructor David Linthicum reviews best practices and approaches for building a strategy around business continuity (BC) as well as disaster recovery (DR). Examine real-world case studies and explore specific technologies available for BC/DR across Amazon Web Services, Microsoft Azure, and Google Cloud Platform. This practical course helps you identify the requirements specific to your business and translate them into a real-world BC/DR strategy and toolset.

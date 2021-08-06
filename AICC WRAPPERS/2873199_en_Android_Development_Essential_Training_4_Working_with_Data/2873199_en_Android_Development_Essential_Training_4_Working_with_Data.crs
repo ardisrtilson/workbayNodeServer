@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Annyce Davis
+Course_ID=2873199
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: 4 Working with Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you develop Android apps? Are you wondering how to get started or wondering how to improve? This series of courses covers the essentials you must know to develop, design, and manage a native Android application. In this course, the fourth part in a four-part series, instructor Annyce Davis focuses on data, with hands-on challenges to check your understanding. Annyce explains the various types of data processing available in Android. She shows you how to package static data in JSON files, to make it easier to work with data in your application. Annyce steps through using LiveData objects, HTTP clients, a Retrofit interface, and more to get data from a web service. She discusses how you can use a RecyclerView to display different types of data in your app, then concludes by walking you through ways to display data that a user selects.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=116478
+Course_System=linkedin.com
+Course_Title=Excel 2013 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're a novice or an expert wanting to refresh your skillset with Microsoft Excel, this course covers all the basics you need to start entering your data and building organized workbooks. Author Dennis Taylor teaches you how to enter and organize data, perform calculations with simple functions, work with multiple worksheets, format the appearance of your data, and build charts and PivotTables. Other lessons cover the powerful IF, VLOOKUP, and COUNTIF family of functions; the Goal Seek, Solver, and other data analysis tools; and how to automate many of these tasks with macros.

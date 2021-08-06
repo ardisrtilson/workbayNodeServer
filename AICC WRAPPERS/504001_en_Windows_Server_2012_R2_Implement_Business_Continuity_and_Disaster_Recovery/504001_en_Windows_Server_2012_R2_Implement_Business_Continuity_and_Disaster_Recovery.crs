@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=504001
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Implement Business Continuity and Disaster Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Business, like life, doesn't always go as planned. When disaster strikes, it's important to have a plan to get operations back online and start salvaging systems and data. Windows administrators are a key part of the recovery. This course shows you how to plan and implement a business continuity and disaster recovery strategy, which includes data protection and failover, using Windows Server 2012 R2. Ed Liberman teaches how to implement Windows Server 2012 R2 backup and recovery, configure network load balancing (NLB) for high availability of TCP/IP services, maintain a failover cluster, and implement Hyper-V failover clustering for virtual machines. Note: This course also maps to the Implement Business Continuity and Disaster Recovery domain for MCSA Exam 70-412 Configuring Advanced Windows Server 2012 Services.

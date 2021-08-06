@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2822058
+Course_System=linkedin.com
+Course_Title=Cert Prep: LPIC-1 Exam 101 (Version 5.0)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Jump-start your career as a Linux administrator by earning the LPIC-1 certification. This popular distribution-neutral Linux certification shows potential employers that you can work effectively at the Linux command line and perform key maintenance tasks. Each exam objective relates to real-world job skills, which are determined through job search analysis data. In this course, Grant McWilliams covers what you need to know to take and pass LPIC-1 exam 101, version 5.0. Grant shows how to manage software with dpkg and APT, configure Linux as a virtualized guest, set the systemd targets, manage process priority using command-line tools, and much more. Along the way, he provides opportunities to test your knowledge with assessment questions.

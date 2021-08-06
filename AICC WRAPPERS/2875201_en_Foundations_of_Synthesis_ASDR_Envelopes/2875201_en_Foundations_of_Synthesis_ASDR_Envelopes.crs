@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Hirsch
+Course_ID=2875201
+Course_System=linkedin.com
+Course_Title=Foundations of Synthesis: ASDR Envelopes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Synthesis is part of modern music creation, and this course provides a simplified overview of shaping waveforms into tones. Instructor Scott Hirsch explains how attack, sustain, decay, and release, or ASDR, are used as the foundations of waveform synthesis, then shows you how to use them to construct custom sounds and patches for your music. Scott offers an overview of how ASDR shapes tones by modifying the shape of your base, unaltered sound. He goes into how the attack property modifies the onset of your base sound. Next, he covers how the sustain property fine-tunes the length of time your sound persists and how the decay time interacts with the sustain level. Scott teaches you how the release time affects the sound after the note is let go. He steps you through how an envelope using ADSR is used in another application and discusses the timing of a filter. In conclusion, Scott offers an overview of how oscillators, filters, and more add further nuance and depth to a synthesized waveform.

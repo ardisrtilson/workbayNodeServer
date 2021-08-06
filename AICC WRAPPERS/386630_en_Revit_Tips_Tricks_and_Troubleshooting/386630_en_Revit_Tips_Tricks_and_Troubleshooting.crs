@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=386630
+Course_System=linkedin.com
+Course_Title=Revit: Tips, Tricks, and Troubleshooting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this series, there's a little something for every Revit designer—beginners and seasoned users alike. Each video focuses on a specific tip, trick, or troubleshooting technique within Revit. Do you import CAD files and want to achieve consistency? Want to get more from your dimensions? Need to check all of the views in a project and see if the settings are correct? Want to consistently configure crop boxes across the entire project? What about getting all the parameters in your family content in just the right order? These are just some of the topics in store. With a new video every week, you are sure to find something useful to add to your growing arsenal of Revit tools and techniques. Notes: The exercise files included with this course can be opened in the latest version of Revit. If you are using an older version, some files may be incompatible. Because this is an ongoing series, viewers will not receive a certificate of completion.

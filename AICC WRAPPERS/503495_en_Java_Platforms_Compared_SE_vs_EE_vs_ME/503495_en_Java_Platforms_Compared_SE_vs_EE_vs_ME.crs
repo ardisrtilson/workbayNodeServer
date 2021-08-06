@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=503495
+Course_System=linkedin.com
+Course_Title=Java Platforms Compared: SE vs EE vs ME
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Java actually comes in three flavors: SE, EE, and ME. But what's the difference? Are you shortchanging yourself if you go with Standard Edition (SE) vs. Enterprise (EE)? Can you develop for mobile without the Micro Edition (ME)? Peggy Fisher provides the answers to a new Java developer's most pressing questions when selecting a platform. Get a quick overview of the Java editions, their differences, and instructions for downloading and installing the SDKs, IDEs, and other assets you need to develop applications with each platform.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ugo Lopez
+Course_ID=2823324
+Course_System=linkedin.com
+Course_Title=Microsoft 365 Security Administration (MS-500) Cert Prep: 1 Implement and Manage Identity and Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unfortunately, up to 99% of cloud security failures are the fault of customers. Beat the statistics. Learn how to implement secure user access to your Microsoft 365 tenant using this step-by-step configuration guide from Microsoft Certified Trainer Ugo Lopez. Ugo covers managing user and groups, setting password policies, implementing multi-factor authentication, configuring Azure AD Identity Protection, working with Active Directory Federation Services (ADFS), and installing Azure AD Connect. He also provides an introduction to conditional access and device management. Don’t let Microsoft 365 be the point of failure for your organization. Use this course to plan and implement solid security strategies and ensure compliance with all applicable policies and regulations. This course is aligned with the objectives in the first domain of the Microsoft 365 Security Administration exam (MS-500), Implement and Manage Identity and Access.

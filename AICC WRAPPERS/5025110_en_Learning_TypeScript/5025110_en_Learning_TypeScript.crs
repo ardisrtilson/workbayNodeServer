@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Chadwick
+Course_ID=5025110
+Course_System=linkedin.com
+Course_Title=Learning TypeScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TypeScript adds discipline to JavaScript development. You can find errors in your code before you execute it, and leverage productivity enhancements like variable and property renaming. Despite its many parts—types, annotations, interfaces, and classes—adding TypeScript to your workflow doesn't have to be difficult. Join web developer Jess Chadwick as he walks you through the foundations, helping you set up TypeScript and use it in simple ways to improve existing JavaScript projects. Learn how to define custom types, convert existing JavaScript classes to TypeScript classes, and encapsulate your logic and data with access modifiers. Plus, find out how to reuse code with generics, type check files, and add type support for APIs. Using these techniques, you can become a more productive, efficient JavaScript developer.

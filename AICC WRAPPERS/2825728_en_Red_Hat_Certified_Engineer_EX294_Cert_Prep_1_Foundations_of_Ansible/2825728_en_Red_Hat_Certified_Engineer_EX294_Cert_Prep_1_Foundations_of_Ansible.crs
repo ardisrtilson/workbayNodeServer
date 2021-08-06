@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2825728
+Course_System=linkedin.com
+Course_Title=Red Hat Certified Engineer (EX294) Cert Prep: 1 Foundations of Ansible
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Red Hat Enterprise Linux is one of the top enterprise Linux distributions—and Red Hat Certified Engineer (RCHE) is one of the top Linux certifications. The RHCE exam for Red Hat Enterprise Linux 8 (EX294) focuses on IT automation using Red Hat Ansible Engine. In this course—the first installment in a three-part series—learn the foundations of working with Ansible Engine as you study for the Red Hat Certified Engineer (EX294) exam. Instructor Grant McWilliams covers installing Ansible in Enterprise Linux Version 8, reviews essential IT automation concepts, and discusses host requirements. He also shares how to create Ansible inventory, how to work with Ansible command-line tools, and how ad-hoc commands are sent to certain targeted hosts using patterns to manage users, services, and software packages. This course, when paired with the other two installments in this series, can help ensure that you walk into the test center feeling confident.

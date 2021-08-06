@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rudolf Olah
+Course_ID=2813265
+Course_System=linkedin.com
+Course_Title=Building React and Django Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to combine the robust front-end functionality of the React framework with the best of the Django back end to build full-stack applications. In this course, join Rudolf Olah as he demonstrates how to wire together the two frameworks, add pagination, secure, and test your applications. Throughout the course, discover how to prepare your React code for production and communicate between the front-end and back-end servers using Axios. Plus, learn how to implement filtering with React and Django, build your own custom React hook, and use unit testing and end-to-end testing to ensure that your app is ready for production.

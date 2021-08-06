@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=553470
+Course_System=linkedin.com
+Course_Title=Mathematica 11 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to analyze data using the Mathematica 11 environment and language. In this course, Curt Frye shows how to set up Mathematica notebooks, find help, assign values to variables, import data into Mathematica, and research your results using Wolfram|Alpha. He also explains how to create and manipulate lists, analyze data using descriptive statistics, perform matrix calculations, create and debug Mathematica scripts, and plot your data using the capabilities built into Mathematica 11. To wrap up, he demonstrates how to convert files into the Computable Document Format (CDF), add animation to make your results more interactive, and get started with the Wolfram Cloud.

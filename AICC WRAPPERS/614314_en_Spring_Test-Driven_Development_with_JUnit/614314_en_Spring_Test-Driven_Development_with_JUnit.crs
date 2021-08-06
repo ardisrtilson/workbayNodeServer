@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shonna Smith
+Course_ID=614314
+Course_System=linkedin.com
+Course_Title=Spring: Test-Driven Development with JUnit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Practicing test-driven development in the Spring framework—or any framework, for that matter—can help you speed up your software release cycles, and ensure that you end up with a high-quality product. Learn the tricks for using Spring and JUnit— an open-source testing tool—together, and how to use this power combo across your entire backend stack to achieve optimal test coverage. In this course, discover how (and why) to use Spring and JUnit for test-driven development. Instructor Shonna Smith also shows how to lay the groundwork for testing some typical components in your backend application: @Service, @Controller, and @Repository components. Throughout the course, Shonna provides hands-on examples of how to apply these concepts in a real-world application.

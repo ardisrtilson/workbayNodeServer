@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=534423
+Course_System=linkedin.com
+Course_Title=UX Design: 5 Creating Scenarios and Storyboards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Scenarios and storyboards provide a reality check for your designs, helping you identify design gaps and articulate exactly what features you need to build to make users happy. This course shows how to use these tools to map the concepts generated during the ideation phase of UX design to a user's real-world tasks. Author Chris Nodder explains how to write scenarios and transform them into visual storyboards that show elements that are hard to describe with words alone, such as emotion, action, detail, and progression. By the end, you'll have clear documentation to lead you through prototyping and implementation. Explore these phases and more in UX Design Techniques series on Chris's author page.

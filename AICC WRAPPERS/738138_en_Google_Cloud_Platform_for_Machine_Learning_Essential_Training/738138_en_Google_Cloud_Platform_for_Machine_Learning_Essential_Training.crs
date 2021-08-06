@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=738138
+Course_System=linkedin.com
+Course_Title=Google Cloud Platform for Machine Learning Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Machine learning can make your applications faster and more intelligent. You can analyze customer data such as voice and text input, images, and video, and take action without human intervention. Google Cloud Platform (GCP) offers a competitive set of machine learning services for nearly every type of architecture, including serverless computing, containers, and virtual machines. Learn how to design your own machine learning solutions using GCP, in this introductory course with instructor Lynn Langit. Lynn shows how to identify your requirements and map them to services such as the GCP machine learning APIs—Cloud Vision, Cloud Speech-to-Text, Cloud Video Intelligence, and more—and GCP AutoML, which puts the same APIs behind an easy-to-use interface. Then get an overview of the custom ML models and deep neural networks that are possible in Google Cloud ML Engine. Finally, review five different practical examples of GCP machine learning, including a chat bot, an image search application, and an on-device Internet of Things application.

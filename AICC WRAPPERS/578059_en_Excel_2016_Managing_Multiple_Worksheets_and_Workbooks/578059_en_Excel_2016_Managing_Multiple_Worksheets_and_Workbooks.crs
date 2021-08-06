@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=578059
+Course_System=linkedin.com
+Course_Title=Excel 2016: Managing Multiple Worksheets and Workbooks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this short, task-focused course, learn how to grapple with a common Excel problem: managing large amounts of data contained in multiple worksheets and workbooks. Follow Dennis Taylor as he takes you through how to move, copy, and link data across multiple worksheets. Dennis shares tips for adding, moving, and navigating worksheets and workbooks efficiently. He covers how to implement global changes, create formulas to connect worksheets and calculate data from multiple worksheets, and use PivotTables to summarize data from multiple workbooks.

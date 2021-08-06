@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Annyce Davis
+Course_ID=2835051
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: 1 Your First App
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android is the most popular mobile operating system in the world, holding 85% of global market share. That makes Android the natural starting point for new app developers. This series of courses teaches the basics needed to develop, design, manage, and distribute a native Android application using the Kotlin programming language and the Android SDK. Part 1 covers setting up your development environment—on Mac or Windows—including Android Studio and the physical or virtual devices you'll need for testing. Instructor Annyce Davis then explores the structure of a typical Android app as well as the build files, dependencies (external code and libraries used in your project), and prebuilt components available from third-party providers like Jetpack. In the fourth chapter, she pivots to active development, demonstrating how to define the screens of your user interface using activities, XML layouts, and Views. Make sure to take the challenges throughout the course to practice your new skills.

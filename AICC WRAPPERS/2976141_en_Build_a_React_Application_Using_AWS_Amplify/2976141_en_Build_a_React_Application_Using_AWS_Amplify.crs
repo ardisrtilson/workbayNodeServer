@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brett McLaughlin
+Course_ID=2976141
+Course_System=linkedin.com
+Course_Title=Build a React Application Using AWS Amplify
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React is one of the hottest front-end programming languages, and AWS Amplify is one of the easiest ways to get your React application up and running in AWS. Are you ready to level up your development skills and reduce repetitive setup tasks while integrating more deeply with AWS cloud services? In this course, discover how to go from an empty folder to a full React-based application hosted on AWS using AWS Amplify. Learn about setting up and configuring a React app, interacting with a GraphQL API, and simple authentication with Amazon Cognito. Explore how each component in a typical application stack relates to the other components, and how to use AWS managed services to quickly add features that would otherwise require hundreds of lines of code. Plus, discover a number of jumping off points to take your work with React in interesting directions.

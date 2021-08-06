@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oliver Schinkten
+Course_ID=628700
+Course_System=linkedin.com
+Course_Title=Learning Moodle 3.4
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Moodle is one the world's leading open-source learning management systems (LMSs). Get up to speed with Moodle 3.4, and learn how to create a course on this popular platform. Oliver Schinkten begins by explaining how to navigate a Moodle course and customize your profile and notification settings. He then walks through the creation of a brand-new course, demonstrating how to start with a blank course shell and then customize its look, layout, and functionality. He shows how to add resources to the different sections of your course, create quizzes, communicate with students, and set up your gradebook. Throughout the course, Oliver shares best practices for getting the most out of the Moodle LMS.

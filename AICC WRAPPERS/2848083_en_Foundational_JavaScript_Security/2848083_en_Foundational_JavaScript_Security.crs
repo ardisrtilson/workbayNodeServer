@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2848083
+Course_System=linkedin.com
+Course_Title=Foundational JavaScript Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript offers great power, but also many opportunities to leave doors open to hackers. Ethical hacking lets you find those open doors before they can be exploited and ensure that your sites and applications stay standing. This course shows how to improve security on your JavaScript projects using a wide variety of testing tools that provide maximum coverage. Emmanuel Henri starts by showing how to plan your strategy and set up the project in this course. He then shows how to perform reconnaissance using Snyk, GitHub Dependabot, and AppSensor. He also reviews the top eight security threats to JavaScript apps and websites, including injection, insecure deserialization, and insufficient logging. Finally, he shows how to close these loopholes in hands-on exercises. Make sure to take the challenges issued along the way to test your JavaScript security prowess.

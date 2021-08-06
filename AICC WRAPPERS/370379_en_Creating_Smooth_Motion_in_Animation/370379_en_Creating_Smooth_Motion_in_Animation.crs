@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=370379
+Course_System=linkedin.com
+Course_Title=Creating Smooth Motion in Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Getting animation to look right is an exercise in timing. In this course, you'll look at various ways to create smooth motion. Author George Maestri shows how to manage animation curves, animate along a path, understand the mechanics of smooth rotations, smooth with motion blur, and create smoother cycles—introducing tricks that will work in nearly any standard animation package.

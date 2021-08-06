@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=367449
+Course_System=linkedin.com
+Course_Title=Advanced Unity 2D: Platformer Player Movement
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the foundation of player movement in 2d platformer games. This course offers a breakdown of common player behaviors as well as some advanced techniques to bring your 2D platformer to life. Jesse Freeman shows how to detect input from the keyboard and controller, make the player walk and run, and add in more advanced movement behaviors, such as ducks, double and long jumps, and sliding down walls. Plus, learn how to make your character pick up items and fire projectiles like fireballs.

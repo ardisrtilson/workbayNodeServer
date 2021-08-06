@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2822645
+Course_System=linkedin.com
+Course_Title=AWS Certified Database – Specialty (DBS-C01): 4 Monitoring and Troubleshooting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To pass the AWS Certified Database – Specialty (DBS-C01) exam—and succeed in a database-focused role—you need a solid understanding of how to monitor database operations and troubleshoot common problems. In this course, the final installment in the AWS Certified Database – Specialty (DBS-C01) series—instructor Tom Carpenter helps equip you with these key skills as he prepares you for exam DBS-C014. Learn how to work with CloudWatch, which can monitor and report on events logged by CloudTrail, as well as other events. Review auditing concepts and monitoring’s role in auditing. Get tips for enhancing the performance of your database. Plus, learn how to troubleshoot data access issues, availability problems, data corruption issues, and more. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

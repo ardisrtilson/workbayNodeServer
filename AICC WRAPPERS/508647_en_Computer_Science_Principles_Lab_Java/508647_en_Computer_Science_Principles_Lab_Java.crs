@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Winnie
+Course_ID=508647
+Course_System=linkedin.com
+Course_Title=Computer Science Principles Lab: Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A truly versatile language, Java is used for programming web, mobile, and desktop applications for a variety of platforms. This hands-on lab is designed to build on the concepts in the Computer Science Principles series. It shows how to apply concepts such as variables, functions, conditions, loops, and collections to the Java language. You also get an introduction to the basics of object-oriented programming (OOP) in Java. Download the free exercise files and follow along with series instructor Doug Winnie as he breaks down the syntax and shows Java in action.

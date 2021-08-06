@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=55762
+Course_System=linkedin.com
+Course_Title=Excel 2007: Pivot Tables for Data Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In Excel 2007: Pivot Tables for Data Analysis, Microsoft Most Valuable Professional Curt Frye helps dispel the common fear of the Pivot Table feature, by demonstrating how to use this powerful tool to discover valuable business intelligence. Curt shows how to create Pivot Table reports from internal Excel data and outside data sources, use filters to focus on the most important data in the sheet, and make visual presentations of data using Pivot Chart reports. Exercise files accompany this course.

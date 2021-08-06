@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=769297
+Course_System=linkedin.com
+Course_Title=Python 3 SSH Network Automation Quick Start
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For network engineers looking to use Secure Shell (SSH) to configure their network devices, Netmiko—a Python library that simplifies SSH connections to network devices—is an optimal choice. In this practical course, learn how to automate networks using Netmiko. David Bombal helps you enhance your understanding of network automation using Python as he goes over how to create and run various scripts. Learn how to create a script to program multiple switches, how to use Netmiko to program the entire network, and more.

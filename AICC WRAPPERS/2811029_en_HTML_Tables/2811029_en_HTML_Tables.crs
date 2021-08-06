@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2811029
+Course_System=linkedin.com
+Course_Title=HTML: Tables
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sometimes you need to share data, and not just visualizations, directly with other people. HTML tables make this easy. While they have a complex history of use and misuse, HTML tables are great at their key purpose: presenting data. In this course, learn how to create table structures that fit your data precisely, are easy to style, and work well for sharing. Instructor Jen Kramer covers the essential skills you need to learn to display and format tabular data on the web. Watch and learn how to build tables with HTML, style tables with CSS, and make your tables accessible to users with disabilities on all types of devices.

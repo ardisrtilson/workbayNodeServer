@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Janan Siam
+Course_ID=696857
+Course_System=linkedin.com
+Course_Title=ASP.NET MVC: HTTP Request Life Cycle
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the architecture of the MVC framework by exploring the life cycle of an HTTP request as it travels through the ASP.NET MVC framework. This course educates developers about the major steps in the request life cycle, as well as how to extend and customize them when appropriate. Instead of focusing on MVC coding and how to build applications, this course dives into the relationships between the components that comprise the request pipeline. The inner workings of the MVC framework are discussed where applicable, such as controller factories, dependency resolvers, and result execution.

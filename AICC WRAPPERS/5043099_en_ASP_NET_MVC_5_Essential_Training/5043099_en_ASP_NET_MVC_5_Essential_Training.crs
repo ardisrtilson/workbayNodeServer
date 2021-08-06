@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan "J." Tower
+Course_ID=5043099
+Course_System=linkedin.com
+Course_Title=ASP.NET MVC 5 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ASP.NET MVC is the tool of choice for building modern, dynamic, and scalable web applications. MVC 5 includes features that enable rapid, test-driven development. In this course, Jonathan J. Tower teaches the essentials of the ASP.NET MVC 5 framework. Learn what models, views, and controllers are and how data is passed between them. See how controller classes and their action methods are used to organize your application's logic; how to use strongly typed models in your views; how to build models with Entity Framework; and how to create your own custom validation attributes. He also shows how to create and perform unit tests to ensure you build software that works the way it's supposed to.

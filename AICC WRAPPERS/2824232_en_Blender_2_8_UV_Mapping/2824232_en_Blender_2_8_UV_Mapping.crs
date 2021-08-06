@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=2824232
+Course_System=linkedin.com
+Course_Title=Blender 2.8 UV Mapping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+UV mapping is an essential skill for applying 2D textures to 3D objects. Blender offers a variety of tools for UV mapping complex objects—from game assets to characters for animation. In this course, Blender Foundation Certified Trainer Darrin Lile explores the fundamentals of UV mapping in Blender 2.8, introducing five hands-on projects of increasing complexity, which allow you to explore different tools and techniques. Discover how to UV map primitive objects, adjust seams, bake texture maps, optimize your UV mapping workflow when working with similar objects, and take your maps into a third-party program like Krita so you can see how textures affects your maps. Plus, learn how to UV map a human character as well as a realistic alleyway. This course was created by Darrin Lile. We are pleased to offer this training in our library.

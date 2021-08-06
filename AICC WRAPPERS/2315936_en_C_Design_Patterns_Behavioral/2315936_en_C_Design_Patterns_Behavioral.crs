@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2315936
+Course_System=linkedin.com
+Course_Title=C++ Design Patterns: Behavioral
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programmers spend much of their time solving problems, yet they may wind up solving the same problems over and over again. In C++, design patterns can help programmers save their valuable time with classes of programming problems that have similar solutions. Once developers learn these patterns, they can write software more efficiently and make more deliberate software designs. In this course, instructor Shaun Wassell goes in-depth on behavioral design patterns. Shaun begins by explaining design patterns in general and behavioral design patterns in particular. For each behavioral design pattern discussed in this course, he covers the basic idea behind the pattern, what the pattern looks like in code, some real-world examples of how you could use the pattern, and the pattern’s benefits and tradeoffs. Shaun concludes by showing you how some of these behavioral patterns can be combined and some of the benefits and drawbacks of doing so.

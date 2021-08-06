@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Lavanya Vijayan
+Course_ID=2861085
+Course_System=linkedin.com
+Course_Title=Python Functions for Data Science 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Functions are a core building block of programming and working with data and an essential approach to making code more readable and reusable. In this course, discover how to save time and enhance your code using common functions for data science projects. Explore fundamental built-in Python functions for data science, as well as more advanced built-in functions such as the filter function in Python. Learn how to leverage functions from the NumPy and SciPy libraries to manipulate numerical data and perform statistical operations. Learn how to store, modify, and group data efficiently using functions from the pandas library. Get tips on using functions from the Matplotlib and Seaborn libraries for data visualization. Plus, get insights into common pitfalls and mistakes developers make when using functions as part of a data science initiative.

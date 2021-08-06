@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=M. Scott Ford
+Course_ID=2813150
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Clean Coding Practices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a writer of code, the complier isn't your only audience. Your coworkers—and even your future self, when you fix bugs—must be able to easily understand your original intent. In this course, learn why it's important to write code that's clean—or, easily understood by both computers and humans—and how to do it in practice. Instructor Scott Ford reviews how to ensure that different aspects of your code are clearly and thoughtfully constructed, including names, formatting, and logic. Plus, he explains what a clean unit test looks like, and how to ensure that your tests are fast and efficient.

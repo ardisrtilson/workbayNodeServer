@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2823030
+Course_System=linkedin.com
+Course_Title=Building React and ASP.NET Core Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React is a popular framework that's well suited for building single-page applications (SPAs) along with ASP.NET Core; however, wiring the two frameworks together can be challenging. In this course, instructor Ervis Trupja shows you how, sharing best practices for organizing and developing a web application with a back end that's built on top of the ASP.NET Web API and a front end that's built on top of React. Ervis steps through how to build the service layer with the ASP.NET Web API to expose the required endpoints to create, read, update, and delete entries. He then shows how to build a UI using React with Bootstrap, implement Redux in your React app, and handle user authentication with Auth0.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kipp Bradford
+Course_ID=2824023
+Course_System=linkedin.com
+Course_Title=Learning SOLIDWORKS CAM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS CAM is a powerful add-on that allows designers to turn models into ready-to-manufacture instructions for computer numerical control (CNC) machines. See how to convert the features of a 3D part into the NC G-code required to machine those features out of a piece of stock on a CNC machine. Instructor Kipp Bradford demonstrates how to identify features in a design for machining, prepare the toolpaths and operations, and generate the output file and setup sheet needed to manufacture parts. Note: This course assumes familiarity with part and assembly modeling in SOLIDWORKS, as well as the fundamentals of CNC setup and operation.

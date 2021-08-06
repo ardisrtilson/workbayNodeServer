@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=424046
+Course_System=linkedin.com
+Course_Title=Creating a Responsive Web Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use responsive web design to make your site more readable and efficient—on any device. Chris Converse shares his own specialized techniques for combining HTML and CSS into a web layout that can adapt to different screen sizes and orientations. The course takes the site from start to finish, from setting up the HTML page and containers to styling established elements for small, medium, and large screens. Along the way, Chris shows how to reposition the nav bar for better viewing on mobile devices, create animated transitions, and turn bulleted lists into interactive menus with full touch support. Plus, learn how to use CSS pseudo-elements and adapt layouts for print to save ink and paper. The exercise files for this course are free to all members. Download them and start creating your own responsive websites today.

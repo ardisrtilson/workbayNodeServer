@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=656788
+Course_System=linkedin.com
+Course_Title=Business Apps for SharePoint Monthly
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this series, Gini von Courter shows you how to build apps for SharePoint to solve common business needs. Each month, she introduces a new project, which you can customize to fit the unique requirements of your organization. The apps expand the functionality of SharePoint, making a more cloud-based work environment. All you need is the built-in tools in SharePoint and SharePoint Designer—no programming knowledge is required. The series kicks off in October 2016 with an issue tracking app, perfect for managing helpdesk tickets and customer service requests. Follow-up projects include a promoted links list, an asset library, a phone call tracking app, landing pages, and a discussion board.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=490803
+Course_System=linkedin.com
+Course_Title=Excel 2016: Managing and Analyzing Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Large amounts of data can become unmanageable fast. But with the data management and analysis features in Excel 2016, you can keep the largest spreadsheets under control. In this course, Dennis Taylor shares easy-to-use commands, features, and functions for maintaining large lists of data in Excel. He covers sorting, adding subtotals, filtering, eliminating duplicate data, and using Excel's Advanced Filter feature and specialized database functions to isolate and analyze data. With these techniques, you'll be able to extract the most important information from your data, in the shortest amount of time.

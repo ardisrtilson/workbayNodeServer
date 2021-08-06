@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=497778
+Course_System=linkedin.com
+Course_Title=PHP: Resizing and Watermarking Images
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modern websites need to serve high-resolution images to avoid pixelation and blurring on high-pixel-density displays, but at a file size that loads quickly, even on mobile devices. This course shows how to use the GD functions in PHP to resize images and add an optional watermark to them. Author David Powers demonstrates how to calculate the correct scaling ratio by automatically measuring the dimensions and detecting the orientation of a JPEG image. He also explains how to add a watermark using text or, for a more polished result, an image blended with an alpha channel. All the techniques covered are completely nondestructive. Chapter 2 pulls everything together, using a custom PHP class that can batch process multiple images, automatically detect the correct MIME type, generate custom sizes, and add an optional watermark.

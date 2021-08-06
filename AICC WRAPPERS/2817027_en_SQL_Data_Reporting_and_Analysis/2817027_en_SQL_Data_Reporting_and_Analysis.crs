@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emma Saunders
+Course_ID=2817027
+Course_System=linkedin.com
+Course_Title=SQL: Data Reporting and Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you rely on IT to get the data you need? Are you often stuck waiting in line for data, and wish you could just retrieve it yourself? In this course, learn how to get the data you want by writing a bit of SQL code. You won't just be able to pull data out of the database; you'll be able to manipulate it: merging it, grouping it, and relabeling it to get just the report you want. Join Emma Saunders as she shows how to write simple SQL queries for data reporting and analysis using a publicly accessible online database. Learn how to filter, group, and sort data, using built-in SQL functions to format or calculate results. Discover how to perform more complex queries, such as joining data together from different database tables. Last but not least, she introduces views, procedures, functions, and variables.

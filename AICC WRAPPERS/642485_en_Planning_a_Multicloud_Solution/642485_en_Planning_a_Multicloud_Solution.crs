@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=642485
+Course_System=linkedin.com
+Course_Title=Planning a Multicloud Solution
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many organizations now realize that they must use multiple services and vendors to build a cloud architecture that fully meets their needs. In fact, the most effective architectures leverage the best technology from every stack. For example, an enterprise may use separate providers for infrastructure and software services, or combine solutions: Amazon Web Services, Google Cloud Platform, and Microsoft Azure. This course covers best practices for planning your own multicloud strategy as you choose cloud services for enterprise deployment. Instructor David Linthicum covers building out operations and development processes; planning governance of resources, cost, and security; putting together a strategy; and staging deployment and testing. He also examines several use cases featuring multiple service providers, showing how these solutions are architected in the real world.

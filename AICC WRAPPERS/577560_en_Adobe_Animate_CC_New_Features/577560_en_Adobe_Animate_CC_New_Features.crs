@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=577560
+Course_System=linkedin.com
+Course_Title=Adobe Animate CC New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Adobe Animate is the focused animation software that takes all the best tools from Flash Professional and bundles them with the Creative Cloud. In this course, learn about the features and enhancements in the latest releases of Adobe Animate by following along with expert Joseph Labrecque. Explore the modern user interface, advanced Onion Skin settings, and GPU-accelerated vector brushes such as Fluid Brush. Explore the enhanced animation tooling, including Frame Picker enhancements and ease presets for classic and shape tweens. Plus, learn about interactivity enhancements, including global JavaScript declarations, the ability to include references to external JavaScript libraries, and two new properties for HTML5 Canvas video components: mute and poster.

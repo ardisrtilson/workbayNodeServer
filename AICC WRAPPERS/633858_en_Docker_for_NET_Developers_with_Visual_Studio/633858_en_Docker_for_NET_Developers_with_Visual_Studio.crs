@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Brandt
+Course_ID=633858
+Course_System=linkedin.com
+Course_Title=Docker for .NET Developers with Visual Studio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Docker—a popular software containerization platform—can streamline the development process by speeding up the setup and configuration of environments. If you're a .NET developer who wants to employ containers in your application environment, this course can help by demonstrating how to leverage Docker in your workflow. Instructor Lee Brandt begins by discussing the role of Docker in the container world, and then goes over basic concepts, including how to run a container from a Docker image, and how to list and remove containers. Lee then walks through a sample project to lend a real-world context to essential Docker tasks, including how to add a Dockerfile to a Visual Studio project, and how to build a Docker image from a Dockerfile. He wraps up the course by discussing how to work with the Docker Compose file format.

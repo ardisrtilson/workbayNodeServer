@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=622089
+Course_System=linkedin.com
+Course_Title=Learning SVG
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Scalable Vector Graphics (SVG) format is spreading rapidly across the web. Naturally responsive, SVG can scale from very big to very small, and graphics can be manipulated with code after they've been downloaded to a browser.  Join LinkedIn staff instructor Morten Rand-Hendriksen as he covers the basics of learning SVG. He covers the anatomy of SVG, including the internal structure that makes your SVG easy to ship over the web while maintaining maximum flexibility. He shows how to draw and manipulate SVG shapes, work with lines and text, and use strokes, fills, and patterns to make your SVGs look just right. Plus, find out how to convert an existing graphic design into SVG—maximizing accessibility while optimizing it for the web.

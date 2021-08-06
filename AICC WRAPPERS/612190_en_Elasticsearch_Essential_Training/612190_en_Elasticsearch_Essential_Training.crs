@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=612190
+Course_System=linkedin.com
+Course_Title=Elasticsearch Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Elasticsearch has been widely adopted in search engine platforms for modern web and mobile applications. Combined with the power of Kibana—which can help to provide analytical solutions on top of your Elasticsearch cluster—this powerful platform adds the capability to answer complex business questions about your data and your customers, as well as serve up relevant results in your applications. Beyond just search, the Elastic Stack provides companies with complex analytics and advanced features like machine learning. Companies large and small use Elasticsearch to identify potential fraud, machines that aren't operating properly, and what users are doing in their apps. In this course, join Ben Sullins as he dives into the inner workings of Elasticsearch combined with Kibana. Ben provides an overview of the architecture, and then goes over the different deployment methods, and how to best structure your data. From there, he demonstrates how to query data, and how to work with Kibana to present your insights.

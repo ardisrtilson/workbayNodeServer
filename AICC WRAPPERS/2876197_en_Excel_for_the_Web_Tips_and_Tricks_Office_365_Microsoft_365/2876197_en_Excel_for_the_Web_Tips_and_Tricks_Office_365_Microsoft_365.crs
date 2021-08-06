@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joshua Rischin
+Course_ID=2876197
+Course_System=linkedin.com
+Course_Title=Excel for the Web Tips and Tricks (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel for the web offers many powerful features, but because its interface differs from the interface of the desktop tool, most users only use its basic spreadsheet functionality. In this course, instructor Joshua Rischin shows you how to get more out of Excel for the web. Joshua explains some basics of data, including how to cleanse data and use Flash Fill to add data quickly. He gives several useful tips for using custom formatting, hyperlinks, and conditional formatting in Excel for the web. Joshua goes over how to customize your workbooks, as well as create Pivot Tables and Pivot Charts. He covers ways to collaborate, while still protecting your work, and discusses how to use Excel Desktop to get even more from your Excel for the web experience. He steps you through some advanced features, like Excel Ideas and scripts, then concludes with advice on how to apply what you’ve learned from the course.

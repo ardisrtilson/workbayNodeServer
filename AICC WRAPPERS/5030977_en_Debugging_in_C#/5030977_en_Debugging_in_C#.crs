@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=5030977
+Course_System=linkedin.com
+Course_Title=Debugging in C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Writing programs in C# is one thing. Writing programs that work is another. Discover how debugging your applications can make them more accurate, efficient, and reliable. Learn exactly what it means to debug your programs, and how tools like Visual Studio Code—the most popular IDE for C# programmers—can help you identify and solve errors in your code. Instructor Kathryn Hodge reviews the basic debugging process and introduces tips and tricks to reduce bugs and make your programs more secure. She also reviews the most common errors in C#—issues like null reference exceptions and logical errors—and provides three coding challenges to help you practice your debugging skills.

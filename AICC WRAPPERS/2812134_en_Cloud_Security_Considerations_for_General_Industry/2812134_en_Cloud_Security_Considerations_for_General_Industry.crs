@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin L. Jackson
+Course_ID=2812134
+Course_System=linkedin.com
+Course_Title=Cloud Security Considerations for General Industry
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is your business looking to make a move to cloud computing? In this course, instructor Kevin L. Jackson explores the cybersecurity challenges impacting businesses in non-highly regulated industries. Kevin explores the cloud security requirements specific to general industry, broken down by region: Asia, the Middle East, Europe, Oceania, Africa, and the Americas. He provides a preliminary overview of cloud computing and its vulnerabilities, as well as the general business approach to cybersecurity. He then provides regional breakdowns, exploring security requirements for each area. The course concludes with a review of key threats and some real-world case studies that show how different security controls can be used to defend enterprises from similar attacks.

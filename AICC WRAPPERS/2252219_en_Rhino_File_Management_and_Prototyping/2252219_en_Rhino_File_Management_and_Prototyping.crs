@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=2252219
+Course_System=linkedin.com
+Course_Title=Rhino: File Management and Prototyping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino is an advanced 3D modeling tool used in architecture and industrial design. In this course, you'll learn useful tools and techniques for managing your 3D files and upping your prototyping game. Instructor Dave Schultze explains how to create models that are easy to rend, prototype, and print with Rhino. Learn how to send files for review, export Rhino files for use in other programs, and convert files back and forth from Illustrator. Plus, learn Dave’s foolproof prototyping workflow for creating models for 3D printing.

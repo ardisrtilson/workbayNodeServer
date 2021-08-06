@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emilio Melo
+Course_ID=2878068
+Course_System=linkedin.com
+Course_Title=Exam Tips: Microsoft Azure Data Fundamentals (DP-900)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data is everywhere, and companies need it to better understand their customers and competitors and to make sound business decisions. Azure is among the best options on the market. In this course, instructor Emilio Melo covers the most important topics on the DP-900 exam, the first certification of Microsoft’s data path. Emilio explains the DP-900 certification and exam, then goes into core data concepts, such as data processing and data analytics. He goes into ways to work with relational data in Azure, including hosting options and relational database offerings in Azure. Azure also has ways to handle non-relational data, and Emilio discusses several options. He goes over analytics workloads, then concludes with insights on data warehousing in Azure and Power BI.

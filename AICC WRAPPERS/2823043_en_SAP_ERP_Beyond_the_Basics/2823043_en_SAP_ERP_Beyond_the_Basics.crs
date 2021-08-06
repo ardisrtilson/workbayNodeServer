@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Valley
+Course_ID=2823043
+Course_System=linkedin.com
+Course_Title=SAP ERP: Beyond the Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAP ERP helps large businesses streamline their processes and support each segment of a business. In this advanced course, instructor Justin Valley offers advanced tips to help users get the most out of the software, including multiple ways to automate, define, and deliver reports. He covers ways to customize the SAP ERP layout for end users so that needed features and tools are front and center, and so the system works in a way that resonates with the goals of the business. Plus, learn about how to navigate using function keys, search using wildcards, use document flow, and more.

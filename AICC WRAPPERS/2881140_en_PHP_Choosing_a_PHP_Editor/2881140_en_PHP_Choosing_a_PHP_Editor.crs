@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Andrews
+Course_ID=2881140
+Course_System=linkedin.com
+Course_Title=PHP: Choosing a PHP Editor
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While you can write PHP with a regular text editor, having the right tool for the job will make your job easier and your work more productive. In this course, Robin Andrews takes you through the advantages of using an Integrated Developer Environment, or IDE, for writing PHP. Robin provides an overview of several popular editors like NetBeans, PhpStorm, Eclipse PDT, and Komodo IDE, covering the prominent features and options of each, in order to help you choose the IDE that best suits your work. He also shares some potential frustrations and difficulties you may encounter when using the IDEs. Whether you’re just starting on the path to PHP programming, or a developer seeking to ramp up your efficiency, this course provides vital information to anyone looking for the right PHP editor.

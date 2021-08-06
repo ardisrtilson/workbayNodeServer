@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2880023
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified Secure Software Lifecycle Professional (CSSLP) is a globally recognized certification from (ISC)2, the organization that has certified well over 100,000 information security professionals. As a CSSLP holder, you can demonstrate to current and future employers that you possess proven knowledge of how security can be embedded in the software development lifecycle (SDLC). This course provides you with insights and context around the eight application security domains, helping you improve the security of your organization's applications while also helping you propel your career forward. Instructor Jerod Brennen provides an overview of the exam and tips for finding practice tests and acing the exam itself. He also covers the experience and continuing education requirements you need to maintain your certification.

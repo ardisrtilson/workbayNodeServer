@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Baochuan Lu
+Course_ID=808672
+Course_System=linkedin.com
+Course_Title=Oracle Java Certification: 1. Data Types
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the Java SE 8 Oracle Certified Associate (OCA) certification can help you boost your professional credibility by demonstrating your Java programming expertise to others in your field. The Oracle Java Certification series was designed to help you prepare to take and pass the qualifying exam for this certification, Java SE 8 Programmer I (1Z0-808). In this course—the first installment in the series—instructor Baochuan Lu focuses on a key topic covered on the test: data types. He reviews both primitive and reference data types, discussing overflow and underflow, primitive and reference type casting, reference scope, and more.

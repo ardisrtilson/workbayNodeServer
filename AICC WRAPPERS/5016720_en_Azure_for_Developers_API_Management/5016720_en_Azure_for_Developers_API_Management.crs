@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=5016720
+Course_System=linkedin.com
+Course_Title=Azure for Developers: API Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure API Management (APIM) organizes your APIs and provides features that can help you secure, monitor, and document all of your operations. In this course, instructor Robby Millsap takes a deep dive into the features available in APIM. Robby steps through how to set up and publish a robust set of APIs, taking into account implications for security, performance, and more. He shows how to set up APIs from existing sources, including existing APIs and Azure Functions, as well how to mock new APIs that haven’t been created yet. By the end of this course, you’ll have a richer understanding of what’s available in APIM, as well as some handy step-by-step tutorials on how to set up APIs for a wide variety of scenarios.

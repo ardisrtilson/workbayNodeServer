@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=495345
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor: Accelerating Design Using Standards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Inventor—the mechanical design and 3D CAD software from Autodesk—boasts an array of powerful design and engineering tools. In this course, learn about a particular group of tools in Inventor that make it easier to find and include standard components in your designs. Thom Tremblay starts by showing how to access the Design Accelerator tools—which have actually been built into Inventor for years. He explains how to replace the often tedious process of adding bolted connections, metal frames, and gears to a design with a smarter and simpler process. In addition, he discusses how to use the range of motion and loads of an assembly to generate a spring.

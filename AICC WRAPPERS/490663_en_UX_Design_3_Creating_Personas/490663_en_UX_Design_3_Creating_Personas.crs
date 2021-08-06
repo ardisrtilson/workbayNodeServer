@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=490663
+Course_System=linkedin.com
+Course_Title=UX Design: 3 Creating Personas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Who are you developing for? How will they use your design? Building user personas can answer these important questions. In this course, Chris Nodder shows you how to create personas using information about the users most relevant to your business. He shows you how to gather and use data from interactions and site visits to define groups that represent a picture of your user types. These personas can help drive development and make sure your team is designing your product, application, or website with the same customer in mind, resulting in coherent, focused goals and an optimal user experience.

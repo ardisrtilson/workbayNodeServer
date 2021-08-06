@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=721902
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Cloud Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understand the basics of cloud security—a core component of cloud computing. Beginning with the basics, instructor David Linthicum explains the business case for cloud security and the levels and models available, including infrastructure-, application-, and data-level security; identity and risk management; encryption; and multifactor authentication. He then dives into the services offered by the top three cloud providers: Amazon, Microsoft, and Google. He reviews the compliance issues that affect specific industries, including health care and finance, and reviews the points you need to consider when identifying your security requirements and the security tools, services, and software to best meet those needs.

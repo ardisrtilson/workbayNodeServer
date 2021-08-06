@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=669545
+Course_System=linkedin.com
+Course_Title=Learning Composer, the PHP Dependency Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to work with the critical PHP dependency manager, Composer. With Composer, you can leverage third-party script libraries called packages, and reduce development time on your projects. This course shows how to install Composer on Mac and Windows, locate suitable Composer packages in the Packagist repository, and use those packages in your PHP projects. In chapter three, instructor Morten Rand-Hendriksen shows you how the Composer workflow looks in a production environment, and he gives you security tips on finding trustworthy packages.

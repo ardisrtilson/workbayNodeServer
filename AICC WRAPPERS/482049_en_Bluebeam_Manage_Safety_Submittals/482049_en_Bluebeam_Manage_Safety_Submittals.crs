@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim Rogers
+Course_ID=482049
+Course_System=linkedin.com
+Course_Title=Bluebeam: Manage Safety Submittals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtually every construction project these days involves documentation. Collecting, routing, reviewing, approving, copying, and distributing paper documents the old-fashioned way is tedious, and it's easy to drop the ball, especially with regulatory documentation such as Safety Data Sheets (SDSs). Using Bluebeam Revu, we can transform safety submittals into a simple paperless process. The end result is an easily accessible electronic package, with a hyperlinked chemical list that acts as a clickable table of contents—all with considerably less effort. Jim Rogers shows how to set up a project, start a studio session for collaboration, invite collaborators to the review process, set up an approval workflow, and combine all the submitted sheets into a single PDF file that can be searched and shared. Plus, learn how to keep a session open for additional submittals or archive it when a project is over.

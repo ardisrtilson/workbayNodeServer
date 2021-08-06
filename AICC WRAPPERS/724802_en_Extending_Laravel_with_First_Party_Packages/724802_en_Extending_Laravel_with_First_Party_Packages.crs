@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Curtis
+Course_ID=724802
+Course_System=linkedin.com
+Course_Title=Extending Laravel with First Party Packages
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Extending Laravel with First-Party Packages focuses on four packages built by the official Laravel team. These packages are reliable, since they are updated with each new Laravel release, and add functionality that you can pull in as needed, without adding unnecessary bloat. First, discover how to extend the native authentication system and add social sign-on capabilities with Laravel Socialite. Then learn how to implement efficient search indexing and enable live search results with Laravel Scout. Next, find out how to handle payments and subscriptions, including free trials, with Laravel Cashier, and implement broadcasting and live updates—without refreshing the page—using Echo. By the end of the course, you will know how to install, configure, and leverage these packages for all of your Laravel app development needs. Note: This course was created and produced by Packt Publishing.

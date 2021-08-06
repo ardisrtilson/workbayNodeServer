@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2832067
+Course_System=linkedin.com
+Course_Title=Stream Processing Design Patterns with Kafka Streams
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Stream processing is rapidly growing in popularity, as more and more data is generated every day by websites, devices, and communications. Platforms such as Apache Kafka Streams can help you build fast, scalable stream processing applications, but big data engineers still need to design smart use cases to achieve maximum efficiency. In this course, get insight into how to solve stream processing problems with Kafka Streams in Java as you learn how to build use cases with popular design patterns. Review some of the significant features of Kafka Streams and discover four popular patterns for stream processing: streaming analytics, alerts and thresholds, leaderboards, and real-time predictions. Along the way, review example use cases, and discover how to leverage Kafka Streams, as well as key technologies like MariaDB and Redis, to implement key examples.

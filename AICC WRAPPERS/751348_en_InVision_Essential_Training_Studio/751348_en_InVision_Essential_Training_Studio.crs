@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Drew Bridewell
+Course_ID=751348
+Course_System=linkedin.com
+Course_Title=InVision Essential Training: Studio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+InVision Studio—a powerful tool for comprehensive screen-based design projects—was built to meet the demands of the modern product lifecycle. Studio offers features that allow designers to collaborate with their teammates and tackle design, animation, and prototyping, all in one solution. In this course, learn the fundamentals of this powerful tool. Instructor Drew Bridewell covers the basics of the Studio interface and shares best practices for transitioning from Sketch to Studio. Learn how to leverage the product's vector-based drawing features, add and edit animations and components, work on responsive designs, share and collaborate on projects, and much more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sam Sehgal
+Course_ID=2820170
+Course_System=linkedin.com
+Course_Title=Artificial Intelligence for Cybersecurity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Artificial intelligence (AI)—when leveraged with preparation and guardrails—is a game-changing approach to solving complex problems in cybersecurity. In this course, instructor Sam Sehgal delves into AI in the context of information security, providing use cases and practical examples that lend each concept a real-world context. Sam goes over the six main disciplines of AI and explains how to apply these disciplines to solve pressing security problems, such as the challenges of data at scale and speed in threat response. He covers machine learning techniques and their suitability for security issues, as well as the general limitations and risks of using AI for security. Plus, he shares how to best prepare your organization to apply AI-driven security.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=114011
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Building Replacement with After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VFX Techniques with author Lee Lanier introduces common yet critical visual effects for film and television. This installment shows how to remove an unwanted building from a live-action plate and replace it with a new digital matte painting. Learn how to track the footage with the Adobe After Effects 3D Camera Tracker, replace areas such as the sky, rotoscope moving elements such as buildings and cars, and integrate a digital matte painting so it gains appropriate shifts in perspective and scale. You'll also apply color-grading techniques and learn how to fabricate reflections. The course also covers an alternative motion-tracking workflow with the Foundry CameraTracker plugin.

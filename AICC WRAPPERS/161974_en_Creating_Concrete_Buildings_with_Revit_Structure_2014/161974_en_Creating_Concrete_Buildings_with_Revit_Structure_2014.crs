@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=161974
+Course_System=linkedin.com
+Course_Title=Creating Concrete Buildings with Revit Structure (2014)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design concrete buildings that stand the test of time with Revit Structure. Eric Wing takes you step-by-step through the process, starting with laying out levels and a structural grid. Then he'll show you how to add concrete columns and foundational elements like piers, pilasters, footings, and retaining walls, and add concrete framing and slabs. And of course no concrete structure is complete without reinforcing: the final chapter guides you through the ins and outs of placing rebar perpendicular to a wall face, as well as area reinforcing and freely sketching rebar and selecting ties from the Rebar Shape Browser.

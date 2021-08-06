@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith Casey
+Course_ID=590841
+Course_System=linkedin.com
+Course_Title=API Testing and Validation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most API testing doesn't actually test the API. This course shows how to validate your API from the consumer's point of view, testing to confirm that problems experienced by your end users are being solved. Join Keith Casey as he focuses on how to approach API testing by implementing a behavior-driven development model. Keith uses Gherkin to set up a Behat environment so you can see how to write and run your first test. Then, he shows how to build API test requests, including how to introduce variables, authenticate requests, and validate responses. He also covers refactoring tests, establishing system states, using extensions for batch operations, and more.

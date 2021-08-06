@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645037
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 7 Toasts, Tiles, and Push Notifications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+An important part of building rich and immersive user experiences for Universal Windows Platform (UWP) apps is understanding tiles, toasts, and push notifications. In this course, instructor Scott Peterson tackles all three concepts. He covers adaptive tile and toast support in Windows 10. In addition, he demonstrates how to use Azure Notification Hubs to deliver asynchronous notifications to your users. Note: This course was created by Wintellect. We are pleased to host this training in our library.

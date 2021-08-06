@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ernest Mueller
+Course_ID=5038209
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Incident Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Uptime is critical for modern systems, but downtime and security incidents are inevitable. Your users’ experience depends on your ability to respond quickly, confidently, and consistently when things go awry. In this course, learn how to handle unexpected crises in information systems from a DevOps perspective. Instructor Ernest Mueller steps through the overall incident response process, explaining how to define what constitutes an incident for your organization and select the tools you'll need to mitigate these high-stakes problems. He also explains how to detect and report incidents, communicate with users and internal employees about issues, troubleshoot problems, and continuously improve your incident management process.

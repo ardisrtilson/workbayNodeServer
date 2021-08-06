@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Duffy
+Course_ID=734661
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Progressive Web Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Users now expect app-like experiences from mobile sites. But how do developers make their web-based projects behave like native apps? Progressive web apps (PWAs) are the answer. They fit any form factor, can function offline, and feel like native apps—without the difficulty or expense of native app development. This course shows how to turn an existing website into a progressive web app using nothing more than Vanilla JavaScript. Instructor Tom Duffy explains how to build in offline capabilities, automated installation prompts, and notifications—features that will delight and engage your users. Plus, learn how to implement push notifications and provide features that even advanced platforms like iOS are missing.

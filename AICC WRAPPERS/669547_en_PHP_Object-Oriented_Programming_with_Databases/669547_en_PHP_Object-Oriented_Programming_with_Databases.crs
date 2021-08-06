@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=669547
+Course_System=linkedin.com
+Course_Title=PHP: Object-Oriented Programming with Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to interact with databases using object-oriented PHP code. In this intermediate course, Kevin Skoglund teaches powerful PHP techniques that streamline interactions with MySQL databases. PHP developers will benefit from the efficient, well-organized, reusable, and easy-to-understand code that object-oriented programming (OOP) offers. Kevin shows how OOP techniques can optimize database queries, help manage sessions, and simplify user logins. He provides practical examples and tips to create objects that interact seamlessly with database rows, to build a content management system with HTML forms, to authenticate users, and to break up long lists of database data into smaller pages. Note: This is an intermediate-level training course that assumes you have existing knowledge of PHP. To refresh your skills, check out PHP Essential Training and PHP: Object-Oriented Programming.

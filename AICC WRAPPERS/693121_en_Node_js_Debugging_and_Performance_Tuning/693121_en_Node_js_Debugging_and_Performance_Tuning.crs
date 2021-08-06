@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Peck
+Course_ID=693121
+Course_System=linkedin.com
+Course_Title=Node.js: Debugging and Performance Tuning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Node.js apps are known for their blazing-fast speed, but hard-to-find bugs and suboptimal processes can drag performance down. Isolating the problem in the stack can often grind productivity to a halt. In this course, Node.js developer Jon Peck shows how to debug and speed up your site as he walks through how to fix a complete—but flawed—rock-paper-scissors game. Jon shows how to log problems, debug issues, measure performance, implement caching, and continuously optimize your application for performance.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Taylor Hokanson
+Course_ID=361202
+Course_System=linkedin.com
+Course_Title=Creating a Guitar Body with RhinoCAM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in making your own instruments? Or do you want to see how computer-aided fabrication results in real-world products? This course is for you. Educator/DIY engineer Taylor Hokanson demonstrates how to use RhinoCAM to prepare a 3D model of an electric guitar body/neck for later fabrication on a CNC mill. This project covers a variety of techniques, including flip milling, profiling, pocketing, horizontal roughing, and parallel finishing, and shows how to adjust the model to account for third-party components like pickups.

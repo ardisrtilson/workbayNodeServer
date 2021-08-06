@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Bartels
+Course_ID=122433
+Course_System=linkedin.com
+Course_Title=AutoCAD 2014 Essential Training: 1 Interface and Drawing Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD 2014 Essentials with Jeff Bartels is a multi-part series that takes a more modular approach to this massive program, used for everything from 2D and 3D CAD design, drafting, and modeling to architectural drawing and engineering projects. This installment kicks off the 2014 series with a complete tour of the interface, from understanding the concept of model space to customizing the AutoCAD preferences and working with dockable palettes. The second half of the course shows how to manage your drawings, including getting the most from the mouse and many shortcuts, creating time-saving templates, and plotting from either model space or in a layout.

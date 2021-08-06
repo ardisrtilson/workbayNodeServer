@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2825684
+Course_System=linkedin.com
+Course_Title=CompTIA Cloud+ Cert Prep 3 (CV0-002): Migrating, Maintaining, and Troubleshooting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the CompTIA Cloud+ certification can help you validate your skills and expertise in implementing and maintaining cloud technologies. In this course, review how to migrate and maintain cloud solutions—as well as troubleshoot issues when things go awry—as you prepare to ace the CompTIA Cloud+ (CV0-002) certification exam. Instructor Tom Carpenter goes over how data migration works and what to consider when setting up your migration. He then details how to properly maintain cloud solutions, explaining how to manually patch your cloud solution on either Linux or Windows, as well as save valuable time by automating maintenance tasks. Plus, learn basic troubleshooting methods that can help you get out of sticky situations, including how to troubleshoot common deployment, storage, automation, connectivity, and security issues. Upon wrapping up this course, you'll have the skills you need to answer questions in the third and fourth exam domains: Maintenance and Management. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mika Dumont, Microsoft .NET
+Course_ID=2875263
+Course_System=linkedin.com
+Course_Title=C#: Advanced Practices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Mika Dumont introduces you to C# advanced practices. Mika begins by defining LINQ and showing you how LINQ makes it easy to query any data source. She walks you through how LINQ composes queries written in multiple statements, or even multiple methods, into a single query operation. Mika covers how LINQ works with Entity Framework to query SQL data sources. She describes how async features make it easy to write code that describes what your code does. She goes into how the Task class helps you organize asynchronous algorithms in logical ways. She steps you through how to recover and process asynchronous error conditions from faulted tasks. Mika concludes by explaining the similarities and differences between asynchronous operations and multithreaded, how you can apply similar techniques in both contexts, and how asynchronous operations may be single-threaded. This course was created by Microsoft.NET. We are pleased to host this training in our library.

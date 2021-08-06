@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=562922
+Course_System=linkedin.com
+Course_Title=Business Analytics: Data Reduction Techniques Using Excel and R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With businesses having to grapple with increasing amounts of data, the need for data reduction has intensified in recent years. To make sense of an overabundance of information, you can use cluster analysis—which allows you to develop inferences about a handful of groups instead of an entire population of individuals—as well as principal components analysis, which exposes latent variables. In this course, Conrad Carlberg explains how to carry out cluster analysis and principal components analysis using Microsoft Excel, which tends to show more clearly what's going on in the analysis. Then he explains how to carry out the same analysis using R, the open-source statistical computing software, which is faster and richer in analysis options than Excel. Plus, he walks through how to merge the results of cluster analysis and factor analysis to help you break down a few underlying factors according to individuals' membership in just a few clusters.

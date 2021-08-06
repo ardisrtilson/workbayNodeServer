@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=500540
+Course_System=linkedin.com
+Course_Title=Tableau 10 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tableau is the widely used data analytics and visualization tool that many consider indispensable for data-science-related work. Its drag-and-drop interface makes it easy to sort, compare, and analyze data from multiple sources, including Excel, SQL Server, and cloud-based data repositories. Tableau 10: Essential Training explains everything you need to know to analyze and display data using Tableau Desktop—and make better, more data-driven decisions for your company. After completing the course, you'll be able to install Tableau, connect to data sources, summarize data, and create, manipulate, and share data visualizations, including highlight tables, charts, scatter plots, histograms, maps, dashboards, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=2822140
+Course_System=linkedin.com
+Course_Title=AWS Administration: Security Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Proper understanding of security services is crucial for any cloud administrator. In this course, instructor Mark Wilkins lays a solid framework for understanding the fundamentals of security services in an AWS environment. Mark begins with a general overview of AWS accounts and security components, including an overview of the AWS shared responsibility model. Then, he helps you take a deeper dive into the subject of identity security by looking at Identity and Access Management and authentication options. He also explores AWS security services like Cognito, Secrets Manager, and Resource Access Manager, explaining what each service does and how to leverage them in your work. Upon wrapping up this course, you'll have the knowledge you need to determine whether the AWS platform's security offerings are right for your organization.

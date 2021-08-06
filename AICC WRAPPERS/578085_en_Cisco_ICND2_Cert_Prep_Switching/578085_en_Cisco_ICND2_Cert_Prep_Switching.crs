@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Russell Long
+Course_ID=578085
+Course_System=linkedin.com
+Course_Title=Cisco ICND2 Cert Prep: Switching
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Demonstrate your networking knowledge and expertise by earning a Cisco CCNA Routing and Switching certification. In this course, Russell Long prepares you for the switching portion of the Interconnecting Cisco Networking Devices Part 2 (ICND2) exam. Russell takes you through the installation, management, and troubleshooting of a medium-sized network. Throughout the course, he provides configuration and troubleshooting demonstrations that can help you better understand exam concepts and real-world implementations.

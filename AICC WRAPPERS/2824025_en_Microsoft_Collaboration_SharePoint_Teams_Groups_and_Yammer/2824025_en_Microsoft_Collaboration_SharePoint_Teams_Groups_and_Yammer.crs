@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2824025
+Course_System=linkedin.com
+Course_Title=Microsoft Collaboration: SharePoint, Teams, Groups, and Yammer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create organization-wide systems of collaboration using Microsoft SharePoint, Teams, and Office 365 Groups. Instructor Gini von Courter dives into each of the programs, showing you how to create systems for asynchronous collaboration, such as file sharing, as well as communication-based collaboration that's targeted to specific members or groups inside an organization. Learn how to create a SharePoint team site and an Office 365 group, as well as how you can use your sites and groups together. Discover how to start using Teams as the collaboration hub that gives users one access point for their Teams, SharePoint sites, and Groups, including how to include cloud storage, create a tab for a page from a SharePoint site, display a SharePoint list in Teams, and more.

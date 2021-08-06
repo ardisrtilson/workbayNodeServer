@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Culp
+Course_ID=517322
+Course_System=linkedin.com
+Course_Title=Office 365: Provision Office 365 (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning about provisioning Microsoft Office 365 is a critical first step to working with Office 365. Seasoned network admins as well as those considering a move to Office 365 should know about provisioning: configuring key resources and settings, including tenants, custom domains, and pilots. In addition, these skills are tested on the MCP/MCSA exam 70-346 (Managing Office 365 Identities and Requirements), comprising 15% of the test. This course helps you prepare for exam 70-346, and master some of the most common administrative tasks involved in setting up Office 365. Instructor Brian Culp demonstrates how to configure tenants and updates, define admin roles, specify custom domains for Office 365 deployments, and plan a pilot with pilot users and usage cases. This is an ideal course for anyone tasked with administering an Office 365 environment, and is a valuable exam prep course for those wishing to become Microsoft certified.

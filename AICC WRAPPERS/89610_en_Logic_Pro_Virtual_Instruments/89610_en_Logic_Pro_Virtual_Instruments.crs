@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Trifon
+Course_ID=89610
+Course_System=linkedin.com
+Course_Title=Logic Pro: Virtual Instruments
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Join author Brian Trifon as he shows how to improve music and audio productions using virtual instruments in Logic Pro. This course tours the program's virtual instruments, including the ES2 hybrid synthesizer, Sculpture physical modeling synthesizer, EFM1 FM synthesizer, the EVOC 20 vocoder, the Ultrabeat drum synthesizer, and the EXS24 sampler, and shows how to achieve various effects with each instrument's parameters. The course also covers working with oscillators and filters, understanding signal flow, creating custom synthesizer patches, adding effects, synthesizing speech, creating a library of custom sound samples, and much more. Virtual Instruments with Logic Pro will be updating on a monthly basis, eventually covering all the virtual instruments in the application. Look for the latest movies here and on the lynda.com blog.

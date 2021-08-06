@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2813225
+Course_System=linkedin.com
+Course_Title=CCSP Cert Prep: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With an increasing number of organizations opting to move to the cloud, the ability to secure critical assets in the cloud has become an in-demand professional skill. Earning the Certified Cloud Security Professional (CCSP) certification shows potential employers that you have the expertise needed to securely design, implement, operate, and assess cloud computing environments. The CCSP Cert Prep series was designed to help you prepare to take and pass the CCSP exam. This course serves as the introduction to the series, providing you with an overview of the six exam domains—all of which are covered in greater depth in the other courses in this series— as well as a look at the exam format and tips on preparing to take the test using LinkedIn Learning resources.

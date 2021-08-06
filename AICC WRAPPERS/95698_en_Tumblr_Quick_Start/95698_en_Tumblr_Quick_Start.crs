@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Seeley
+Course_ID=95698
+Course_System=linkedin.com
+Course_Title=Tumblr Quick Start
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, author Justin Seeley shows how to share content quickly and easily using the Tumblr microblogging platform. The course walks through creating an account, setting preferences, choosing a theme, and adding Facebook and Twitter integration, as well as creating audio, video, and text posts; building custom themes with CSS and HTML; and publishing posts remotely. The course also covers working with pages, creating page templates, and tracking blog traffic with Google Analytics.

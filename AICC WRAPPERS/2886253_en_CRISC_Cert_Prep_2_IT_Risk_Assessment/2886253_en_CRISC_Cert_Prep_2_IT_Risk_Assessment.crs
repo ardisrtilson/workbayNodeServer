@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2886253
+Course_System=linkedin.com
+Course_Title=CRISC Cert Prep: 2 IT Risk Assessment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified in Risk and Information Control (CRISC) certification is an established, well-recognized credential from ISACA. A CRISC certification shows employers that you understand how to identify and manage IT risk in an enterprise and that you’re capable of implementing and maintaining the controls necessary to address risks. This series of courses explains the four IT risk management domains. In this course, instructor Jerod Brennen focuses on the second CRISC domain: IT Risk Assessment. Jerod covers basic risk assessment techniques, then goes into how you can dig deeper and determine risk rankings. He goes over how to analyze risk scenarios for your organizational structure, policies, technology, architecture, and more. Jerod discusses how to analyze the effectiveness of your current controls, including leveraging assessments and performing gap analysis. Jerod concludes with useful advice on communicating your risk assessment results and updating your risk register.

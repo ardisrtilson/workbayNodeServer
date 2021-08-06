@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Perlin
+Course_ID=444946
+Course_System=linkedin.com
+Course_Title=MadCap Flare 12 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MadCap Flare is a powerful authoring tool for creating technical documentation—help systems, service manuals, and more—in online and print forms like HTML5 and PDF. In this course, Neil Perlin first explores Flare's conventions and interface. He then explains how to create projects based on Flare 12's topic model. Learn how to create projects, add content, add navigation to let users find information quickly, control the format of the material, define different outputs from a single project, and generate those outputs in any of 16 different formats.

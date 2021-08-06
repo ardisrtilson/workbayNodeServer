@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=614310
+Course_System=linkedin.com
+Course_Title=AWS for DevOps: Security, Governance, and Validation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course—which was designed for DevOps professionals working with the AWS cloud—learn about AWS tools and best practices for security, governance, and validation. Instructor Lynn Langit covers different security and governance approaches, including outcome-based validation with service level agreements, outcome-based security with audits, and protecting data in-flight and at-rest. Lynn discusses using AWS tools such as CloudWatch, CloudTrail, and Inspector for security monitoring. Plus, she shows how to use third-party security and governance tools, and shares cost control approaches for AWS service billing. This course can also be used as an exam preparation resource, as it covers the topics in the third domain of the AWS Certified DevOps Engineer exam: Security, Governance, and Validation.

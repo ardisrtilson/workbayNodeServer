@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dustin Manning
+Course_ID=618716
+Course_System=linkedin.com
+Course_Title=AutoCAD Civil 3D: Topographic and Boundary Survey
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD Civil 3D software—a design and documentation solution for civil engineering—offers tools and features that can help you maintain consistent data and improve project performance. In this course, learn how to leverage this powerful software to tackle the different types of tasks involved in a survey project, including boundary analysis and creating TIN surfaces. Instructor Dustin Manning helps you get started by explaining how to set up your survey database. He also shows how to create automated linework, draw and label boundaries, and translate surveys. To wrap up the course, he shares some helpful productivity tips.

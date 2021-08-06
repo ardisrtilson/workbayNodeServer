@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2837229
+Course_System=linkedin.com
+Course_Title=Program Databases with Transact-SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course focuses on a single category of objects within a SQL Server database: Programmability objects. With these objects, database developers can automate systems with triggers, ensure consistent user experiences with stored procedures, protect database integrity with transactions, and implement error-handling routines that enhance the database’s functionality. Join instructor Adam Wilbert as he takes a deep dive into the Programmability folder in a SQL Server database. Using real-world examples, he explores the types of objects that can be deployed to automate systems and maintain database integrity. To follow along, you just need some familiarity with the functionality of a relational database, as well as how to write Transact-SQL (T-SQL) queries. Discover how to write stored procedures that include input and output parameters; create scalar- and table-valued user defined functions; execute batches of commands as transactions; and more.

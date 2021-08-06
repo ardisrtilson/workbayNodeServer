@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zaheer Mukhtar
+Course_ID=2819133
+Course_System=linkedin.com
+Course_Title=Unreal Engine and Quixel Megascans: Architectural Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bring photorealistic architectural scenes to life using Quixel Megascans. In this course, join instructor Zaheer Mukhtar as he shows how to use Megascans—a library of scanned assets and powerful tools that are free to use with Unreal Engine—in your architectural visualization workflow. Zaheer begins by covering the basics of Megascans, including how to install Quixel Bridge, set up a library path, and export Megascans assets from Bridge to Unreal Engine 4 (UE4) to populate your scene. He then shows how to lay out a realistic outdoor architectural scene in UE4. Learn how to assign materials and surfaces to different objects, block out the layout, set up landscapes, place 3D plants throughout a scene, and set up lighting and post processing effects in UE4.

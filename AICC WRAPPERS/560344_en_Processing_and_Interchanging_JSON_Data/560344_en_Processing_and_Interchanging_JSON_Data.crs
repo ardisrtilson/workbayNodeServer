@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=560344
+Course_System=linkedin.com
+Course_Title=Processing and Interchanging JSON Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While JavaScript Object Notation (JSON) is a powerful tool for computer-to-computer communication, human developers have to untangle its many pieces to make that communication flow smoothly. Many apps and services produce and consume data in JSON format. Developers working with code that relies on JSON data must grapple with a number of common tasks that aren't necessarily straightforward. In this course, explore some basic best practices for working with JSON data, validating a JSON string using JSON Schema, and converting between JSON and data formatted in XML and YAML.

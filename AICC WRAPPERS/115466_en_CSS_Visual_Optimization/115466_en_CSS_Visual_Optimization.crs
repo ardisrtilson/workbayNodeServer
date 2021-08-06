@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Seeley
+Course_ID=115466
+Course_System=linkedin.com
+Course_Title=CSS: Visual Optimization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a tour of a workflow that optimizes CSS code for easier navigation, organization, and readability. In this course, author Justin Seeley covers best practices for writing CSS in an easy-to-read format, commenting code, developing a table of contents, and adopting other methods that help produce cleaner code. The course also contains tips for speeding up development with some online tools and simplification techniques.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Solomon
+Course_ID=2427203
+Course_System=linkedin.com
+Course_Title=Building an Ethereum Blockchain App: 1 Introduction to Blockchain
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What is blockchain technology, and where did it come from? Why are other people using it, and what can it do for you? This series of eleven courses introduces blockchain technologies and deep dives into Ethereum development. In this first course, instructor Michael Solomon explains in-depth what blockchain is. Michael explains the beginning of blockchain and how it differs from Bitcoin. He shows you how blockchain solves common problems in the vendor-customer relationship, then goes into blockchain immutability and consensus. Michael covers what’s contained in the actual blocks of a blockchain story and how the data on the blockchain is linked together. He goes over blockchain mining and the algorithms that nodes use to arrive at consensus and keep the blockchain synced. Michael describes the difference between public blockchains and private ones, then finishes up with how blockchain provides solutions to many issues in distributed processing. Note: This course was created by Michael Solomon. We are pleased to host this training in our library.

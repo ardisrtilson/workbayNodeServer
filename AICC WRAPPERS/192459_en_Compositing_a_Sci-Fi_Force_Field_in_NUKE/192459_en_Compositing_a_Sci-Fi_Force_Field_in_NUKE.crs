@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Wright
+Course_ID=192459
+Course_System=linkedin.com
+Course_Title=Compositing a Sci-Fi Force Field in NUKE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Force fields can trap characters and stop them in their tracks. But most of the time they're virtual barriers, created by VFX compositing gurus like Steve Wright. In this project-based course, Steve shows how to build a show-stopping sci-fi force field using NUKE. He shows how to add life to a basic matte painting by animating the doors, and then keys the green-screen footage and carefully composites the main character, an armored space fighter, back into the scene. Then, using NUKE's Noise node, Steve creates the force field animation and multiplies it for maximum effect. Finally, to really sell the scene, he adds interactive lighting, motion blur, and other finishing touches. Tune in to learn how to recreate this effect in your own projects.

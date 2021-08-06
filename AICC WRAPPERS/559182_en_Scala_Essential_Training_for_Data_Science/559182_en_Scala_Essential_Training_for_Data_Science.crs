@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=559182
+Course_System=linkedin.com
+Course_Title=Scala Essential Training for Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to leverage Scala—the popular language that combines object-oriented design with functional programming—in your data science work. In this course, learn about the Scala features most useful to data scientists, including custom functions, parallel processing, and programming Spark with Scala. Dan Sullivan kicks off the course with an introduction for non-Scala programmers. Next, he describes how to use SQL from Scala—a particularly useful concept for data scientists, since they often have to extract data from relational databases. He then covers parallel processing constructs in Scala, sharing techniques that are useful for medium-sized data sets that can be analyzed on a single server with multiple cores. Dan also focuses on using Scala with Spark, a distributed processing platform. He first describes how to work with Resilient Distributed Datasets (RDDs)—a fundamental Spark data structure—and then explains how to use Scala with Spark DataFrames, a new class of data structure specially designed for analytic processing. He wraps up the course by providing a summary of advantages of using Scala for data science.

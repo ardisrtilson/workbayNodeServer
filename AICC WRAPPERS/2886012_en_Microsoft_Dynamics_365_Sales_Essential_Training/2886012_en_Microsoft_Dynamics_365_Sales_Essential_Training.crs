@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dian Taylor
+Course_ID=2886012
+Course_System=linkedin.com
+Course_Title=Microsoft Dynamics 365 Sales Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Dynamics 365 allows users to easily manage large amounts of data and create streamlined workflows for sales. It can also help automate sales activities and generate insights from the data reps store in Dynamics and Outlook. In this course, Dian Taylor teaches the essentials of using Microsoft Dynamics 365 for sales. Dian starts out by exploring the Dynamics 365 interface and then dives into specific functions through the lens of both sales and customer service tracking. Topics include using the dashboard, working with contacts, and creating, tracking, and qualifying leads. Then learn how to create opportunities, add specific products and suggestions, and communicate sales terms and pricing with quotes. Dian also explains how to take your sales work on the go with the mobile version of Dynamics 365, and build charts, dashboards, and forecasts to help better understand past performance and future opportunities.

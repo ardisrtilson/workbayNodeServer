@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Neill
+Course_ID=573604
+Course_System=linkedin.com
+Course_Title=Learning VMware vSphere 6.5
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create a vSphere environment, be introduced to ESXi and vCenter, and get a tour of vSphere 6.5 with step-by-step machine management instructions. These topics and more are explored in this course. Join Brandon Neil as he covers storage and networking basics using vSphere, the VMware virtualization suite of products. Brandon shows you how to download, install, configure, and use vSphere components. He also demonstrates how add a datastore, deploy virtual machines, migrate using vMotion, and more.

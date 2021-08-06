@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=2822166
+Course_System=linkedin.com
+Course_Title=Android Studio Essential Training 2020
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software developers who want to build Android apps need Android Studio—the official Google IDE. Android Studio is based on IntelliJ IDEA and contains the same great coding and debugging features plus lots of tools that are unique to Android development: layout editors, resource managers, virtual device support, and more. In this course, instructor David Gassner introduces Android Studio. He helps you set up your environment and your first project and provides handy shortcuts for writing and debugging code. You can also learn how to add version control and share projects on GitHub, manage project dependencies, use templates, and work with Google’s preferred programming language for Android development, Kotlin. By the end of the course, you should be able to use Android Studio to become a faster, even more efficient developer.

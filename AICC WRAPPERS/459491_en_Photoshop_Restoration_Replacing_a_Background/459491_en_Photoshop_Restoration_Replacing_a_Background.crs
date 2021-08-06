@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Rhodes
+Course_ID=459491
+Course_System=linkedin.com
+Course_Title=Photoshop Restoration: Replacing a Background
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A common photo restoration task involves replacing the background in an old photo—for example, to turn a snapshot into something that looks more like a studio portrait. In this course, master restorationist Neil Rhodes shows how to accomplish tasks like these using Photoshop. He covers the entire process: evaluating the photo, choosing an appropriate replacement background, using Photoshop's selection features to create a precise mask, and then inserting the new background and matching the grain of the original.

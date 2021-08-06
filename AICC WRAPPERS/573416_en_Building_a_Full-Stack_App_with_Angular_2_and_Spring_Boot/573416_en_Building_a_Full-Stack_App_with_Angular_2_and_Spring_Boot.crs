@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Anatalio
+Course_ID=573416
+Course_System=linkedin.com
+Course_Title=Building a Full-Stack App with Angular 2+ and Spring Boot
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular 2 is known for building rich, data-driven, single-page applications (SPAs) while Spring Boot is a popular and powerful framework for back-end development. In this course, Chris Anatalio shows how to take these two enterprise-scale worthy technologies and build a robust, secure, full-stack application. Chris covers creating a project, making your app UI responsive for mobile devices, creating a data layer with Spring data, building client-side functionality with Angular, testing, validation, and more.

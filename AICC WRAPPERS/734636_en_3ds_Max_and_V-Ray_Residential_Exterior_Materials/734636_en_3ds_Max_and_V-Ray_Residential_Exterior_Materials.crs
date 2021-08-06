@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=734636
+Course_System=linkedin.com
+Course_Title=3ds Max and V-Ray: Residential Exterior Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Anyone who presents architectural renderings and visualizations to clients knows the importance of realistic materials. Physically accurate materials add impact to any design. This course helps you build custom materials for texturing the exterior of residential buildings with 3ds Max 2019, Substance Designer, V-Ray, and Bitmap2Material (B2M). The training continues George Maestri's residential modeling series, which started in SketchUp with a concept drawing for a single family home. Here George explains how to import the SketchUp drawing into 3ds Max and UV map the geometry so you can texture and enhance the design. He shows how to create custom materials—including wood, concrete, metal, and stucco—using V-Ray and Substance Designer. He also shows how to use the standalone and 3ds Max node-based versions of B2M to convert existing bitmaps into materials. Each material is brought back into the 3ds Max environment so you can see how the results look when applied directly to the model.

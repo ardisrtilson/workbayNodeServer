@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2871075
+Course_System=linkedin.com
+Course_Title=Google Cloud Platform Essential Training for Administrators
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is Google Cloud Platform (GCP) right for your business? Explore the offerings of this leading cloud services provider. This course is designed for IT professionals—architects, network admins, and technology stakeholders—evaluating GCP for their organizations as well as those tasked with getting apps up and running on the Google cloud. Learn how to set up an account and use the console, APIs, Cloud Shell, and other GCP tools. Then explore the core services—serverless computing, data storage, and machine learning—and the developer tools that Google provides for building your own custom solutions. Along the way, instructor Lynn Langit shows how to use GCP to manage virtual machines, Docker containers, Kubernetes clusters, functions, relational data stores, NoSQL data, and more. She also shares practical tips for saving money and planning deployments, and reviews examples of common architectural patterns.

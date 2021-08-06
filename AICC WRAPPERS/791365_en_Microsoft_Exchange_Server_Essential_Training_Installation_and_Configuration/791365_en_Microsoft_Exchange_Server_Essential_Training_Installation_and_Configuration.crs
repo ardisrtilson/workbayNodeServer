@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=791365
+Course_System=linkedin.com
+Course_Title=Microsoft Exchange Server Essential Training: Installation and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Exchange Server has long been a staple of on-premises messaging servers. This course shows how Exchange Server 2019, integrated with Microsoft cloud solutions, can be used by administrators to tie an organization together. In this course, watch the step-by-step process of planning and setting up a new Exchange organization as well as migrating from previous versions. Robert McMillen covers server configuration, including database management, client support, and transport features. He also demonstrates the steps involved in creating a mailbox, upgrading, and working with PowerShell.

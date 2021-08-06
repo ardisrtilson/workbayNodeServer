@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=418255
+Course_System=linkedin.com
+Course_Title=Learning phpMyAdmin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MySQL is one of the most widely used database systems for dynamic websites and content management systems. And phpMyAdmin is the most common method of administering a MySQL database, included in many CMSs as well as the XAMPP and MAMP testing environments. Updated for phpMyAdmin 4.5, this introductory course shows designers and developers how to set up local user accounts, create a database, and design tables. Author David Powers also explains how to import data from CSV files, spreadsheets, and SQL dump files, and how to export data for backup or to transfer to another database. You'll also learn how to run database queries within its intuitive form-based interface, and monitor server performance.

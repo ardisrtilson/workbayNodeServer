@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anastasia McCune
+Course_ID=2825605
+Course_System=linkedin.com
+Course_Title=Adobe Captivate: Advanced Actions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Adobe Captivate offers advanced actions for adding interactivity, engagement, and customization. In this course, Captivate expert Anastasia McCune shows you how to use advanced actions to take your elearning projects to the next level. First, learn how to build a screen layout where users can click to reveal more information, and modify the interaction to fit your real-world use case scenario. Next, learn how to create, access, and display Captivate variables to customize your interactions with personalized information about your project or users, and how to control the flow and behavior of your presentation with conditional actions. Anastasia then shows how to capture user input and perform calculations, and closes with some tips on extending Captivate with shared actions and JavaScript.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2830014
+Course_System=linkedin.com
+Course_Title=AWS Certified Solutions Architect - Associate (SAA-C02): 2 Storage Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the AWS Certified Solutions Architect - Associate (SAA-C02) certification validates your ability to architect and deploy applications on AWS technologies—which, in turn, can set you apart from others in your field. This course is part of a nine-part series that's been completely updated for the March 2020 version of the qualifying exam. Tom Carpenter goes over the fundamentals of AWS storage design, covering key services AWS professional needs to know about. After providing an overview of the different storage services offered by AWS, he delves into Amazon Simple Storage Service (S3)—the primary file or object storage service in AWS—covering basic S3 storage and management concepts. He also discusses additional AWS storage services, including Glacier, Elastic Block Store (EBS), Elastic File System (EFS), and FSx. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

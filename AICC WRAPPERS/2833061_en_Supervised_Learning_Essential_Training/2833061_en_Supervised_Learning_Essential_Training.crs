@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ayodele Odubela
+Course_ID=2833061
+Course_System=linkedin.com
+Course_Title=Supervised Learning Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data scientists and ML/AI students may need some practical experience with supervised learning algorithms. In this course, instructor Ayodele Odubela teaches you to apply models you’ve created to new data and to assess model performance. First, Ayodele outlines what supervised learning is and how to make predictions using labeled training data. She gives you an overview of the logistic regression algorithm, how to build a linear model in Python, and how to calculate model metrics. Next, Ayodele helps you create your first decision trees as well as k-nearest neighbors models using GridSearch. Ayodele covers how you can create artificial neural networks that are foundational for most deep learning work. She concludes with an ethical AI overview and asks you to consider the impact of your models.

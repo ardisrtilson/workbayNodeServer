@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2812559
+Course_System=linkedin.com
+Course_Title=Unreal: AR Visualization 01 Basic Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the Unreal Engine by Epic Games and get an overview of augmented reality (AR) basics by walking through a real-world project. In this course, the first in a three-part series, instructor Emmanuel Henri covers the definition of augmented reality and the requirements of an AR project, and shows how to set up and get started using the Unreal Engine. He demonstrates how to add models, lights, and more before showing how to deploy the scene to iOS and Android.

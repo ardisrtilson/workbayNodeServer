@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Siegel
+Course_ID=586670
+Course_System=linkedin.com
+Course_Title=Dynamo for Revit Project Setup
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By automating the setup of Autodesk Revit project files using Dynamo—instead of manually performing each setup task yourself—you can save time and enhance your overall productivity. In this course, learn how to apply basic visual programming concepts to build scripts to automate the repetitive tasks involved in setting up new projects in Revit. Join Ian Siegel as he takes you from start to finish through automating different project setup routines, including generating floor and ceiling plans, creating overall building elevations, and laying out the entire set of sheets for a project. When you wrap up this course, you'll be familiar with how to complete a Dynamo workflow that can help you tackle your BIM management work more effectively.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=373561
+Course_System=linkedin.com
+Course_Title=Design the Web: CSS Animated Rollovers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create animated rollovers with CSS3. Animated rollovers are an easy way to enhance the user experience of your website, without adding more markup to your page, or working with JavaScript. Author Chris Converse shows how to change the color and typography of your rollovers using different CSS properties, add and animate pseudo-elements, and animate clip properties of absolute-positioned elements. The exercise files are free to all members, so download them and get started enhancing your website today.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2819178
+Course_System=linkedin.com
+Course_Title=Unity Medical Visualization: 01 Preparation and Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity isn’t just for games. The powerful 3D engine can be used to created educational assets, like the medical visualization featured in this three-part series: an animated 3D human heart. In the first course of the series, instructor Alan Thorn shows how to plan and design this interactive 3D project, covering aspects such as asset management, scene and level design, lighting, user experience, and post processing. Learn how to use the Unity universal render pipeline, import and configure mesh assets, and use Cinemachine and scripts behaviors to add meaningful interactivity.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=2838119
+Course_System=linkedin.com
+Course_Title=Learning Solibri Office
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Solibri Office is the industry-leading quality assurance solution for BIM validation, code checking, and collaboration. This course teaches the essential tools and techniques you need to get started. Instructor Shaun Bryant reviews the Solibri interface and toolset, showing how to open existing files and create new projects. He then introduces the classification system, which allows for the easy categorizing of elements and spaces in the Solibri project model as well as creating rules for information takeoff. Next learn how to check and compare model versions, generate reports, and create presentation-worthy materials and visualizations. Plus, find out how to configure multiple takeoff definitions and produce detailed information takeoffs.

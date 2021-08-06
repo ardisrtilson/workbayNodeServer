@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2880217
+Course_System=linkedin.com
+Course_Title=AWS for Azure Administrators
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The rise of multicloud scenarios has made multicloud skills a valuable commodity for enterprise IT pros. If you’re an Azure admin, you can translate your existing skills to a new platform and exponentially increase your expertise and career prospects. In this course, instructor Sharon Bennett guides Azure admins through Amazon Web Services (AWS), showing how the techniques and tools you already know migrate to the platform. She offers a thorough explanation and comparison across infrastructure, management tools, security, storage, compute services, virtual networking, and databases. You can learn how AWS helps administrators manage costs, authorization and access, data transfer, and much more—all without wasting valuable time on the concepts you already understand.

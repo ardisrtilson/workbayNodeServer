@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2804073
+Course_System=linkedin.com
+Course_Title=SQL Server: Reporting Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to build, edit, and publish interactive reports using Reporting Services in SQL Server. In this course, author Adam Wilbert shows how to create, format, and share reports that leverage a variety of data sources. First, he takes you through the setup process, followed by the step-by-step process of building a report. He covers interactive elements, formatting, charts, sorting, filtering, web viewing, and mobile viewing. Adam also shares best practices, tips, and tricks that you can use to ensure your reports are dynamic.

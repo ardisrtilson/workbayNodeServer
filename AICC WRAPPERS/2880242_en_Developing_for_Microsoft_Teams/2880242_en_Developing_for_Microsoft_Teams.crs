@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Ayers
+Course_ID=2880242
+Course_System=linkedin.com
+Course_Title=Developing for Microsoft Teams
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Teams is one of the fastest growing enterprise tools and lets workers collaborate, conduct meetings, share data and information, and use applications, all within Teams. The versatility of Teams means it is also a rich development platform. In this course, software developer Bill Ayers teaches how to build custom tabs and extensions in Teams using open web technologies like Node.js, TypeScript, and React. With more and more users not just using Teams, but also doing more and more within Teams, understanding how to develop for this platform will be increasingly important for any software developer who wants to reach their users where they are.

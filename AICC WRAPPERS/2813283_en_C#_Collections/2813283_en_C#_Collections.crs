@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2813283
+Course_System=linkedin.com
+Course_Title=C#: Collections
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Efficiently manage data with C# collection classes. In this course, join Joe Marini as he details how to maintain collections of data in C# and choose the right collection class to apply to a wide set of programming scenarios. Joe begins by covering basic concepts, including the difference between generic and non-generic collections and how to select a collection class to suit a specific programming problem. He then goes over basic collection classes, including how to use a LinkedList, and discusses specialized collections such as OrderDictionary and StringCollection.

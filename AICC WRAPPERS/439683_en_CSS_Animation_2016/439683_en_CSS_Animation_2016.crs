@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Val Head
+Course_ID=439683
+Course_System=linkedin.com
+Course_Title=CSS: Animation (2016)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CSS animation offers a whole new way to bring motion to interactive projects. It's a core skill for web designers and developers and a feature users have come to expect from modern websites. This course presents a series of basic CSS animation projects: site features such as rollover buttons, 3D transforms, animated graphics and logos, load screens, and more. Web designer Val Head introduces CSS transforms and transitions—the foundation of most CSS animations—and shows how to keyframe simple animations and adjust their timing, fill, and direction. She also covers looping and chaining animations, animating HTML and SVG elements, and optimizing animation performance, and introduces the best tools and use cases for CSS animation. Start watching to get your brand in motion.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2822167
+Course_System=linkedin.com
+Course_Title=Implementing a Hybrid and Secure Microsoft Messaging Platform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to plan, deploy, secure, and manage hybrid messaging solutions. Robert McMillen helps you determine if a hybrid email messaging solution is best for your organization, as well as whether you should opt for a classic hybrid that uses public-facing Exchange servers and certificates or a modern one, which uses an agent from Azure instead. Robert explains how to plan and deploy a hybrid solution, including how to configure mail flow between Microsoft 365 servers and on-premise Exchange servers. He shares how to implement migration, as well as how to troubleshoot failed mailbox migrations. Plus, he goes over how to configure data loss prevention policies in an Exchange hybrid environment; manage address book policies; and more. Along the way, he provides demonstrations using several different messaging services, including PowerShell, Exchange Server 2019, and Microsoft 365. This course also prepares you for the Microsoft 365 Messaging exam (MS-203).

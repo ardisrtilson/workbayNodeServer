@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Károly Nyisztor
+Course_ID=699340
+Course_System=linkedin.com
+Course_Title=iOS Development: Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Behind every polished iOS app is a thoughtful plan. By understanding and applying the fundamental concepts behind iOS application architecture, you can ensure that the software you develop is well-understood, flexible, and easy to extend or refactor. In this course, instructor Károly Nyisztor dives into these concepts, helping to familiarize you with the basics of iOS application architecture and design best practices. To begin, Károly explores the Unified Modeling Language (UML), goes over some core UML diagrams, and discusses the iOS app life cycle. Next, he covers fundamental architectural design patterns such as the model-view-controller (MVC)—the classical iOS app design paradigm—as well as the Model-View-ViewModel (MVMM) pattern and other alternatives to MVC. He also shares how to manage app state transitions and build responsive apps. In addition, he discusses URL scheme-based communication and AirDrop; efficient memory and power consumption; how to detect issues and bottlenecks in your apps; and more.

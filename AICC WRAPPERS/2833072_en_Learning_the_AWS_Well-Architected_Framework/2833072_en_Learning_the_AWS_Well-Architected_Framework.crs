@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=2833072
+Course_System=linkedin.com
+Course_Title=Learning the AWS Well-Architected Framework
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) Well-Architected Framework helps enterprise architects build more secure, high-performing, resilient, and efficient cloud-based infrastructure for their applications. Amazon created the Framework to promote AWS best practices and help architects and engineers get up and running more quickly. This course serves as a high-level introduction, providing a general overview of the Framework, its benefits, and its five pillars: operational excellence, security, reliability, performance efficiency, and cost optimization. Instructor Mark Wilkins also provides demos of the main Framework tools, including the Well-Architected Tool, Well-Architected Labs, and other resources.

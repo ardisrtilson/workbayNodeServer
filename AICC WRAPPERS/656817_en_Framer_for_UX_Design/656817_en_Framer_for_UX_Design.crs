@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=656817
+Course_System=linkedin.com
+Course_Title=Framer for UX Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Framer is a macOS application for creating JavaScript-based prototypes quickly and easily. This course provides UX and interaction designers with the skills they need to get up and running with Framer for UX design. Instructor Emmanuel Henri shows how to use the visual design tools as well as a little bit of CoffeeScript code to build engaging prototypes. He also shows how to import assets from programs like Sketch, add animation, and insert interactions. At the end of the course, you'll have new skills and a basic watchOS project you can use as a jumping off point for your own UX prototypes with Framer.

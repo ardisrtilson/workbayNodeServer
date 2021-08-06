@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=765309
+Course_System=linkedin.com
+Course_Title=SharePoint 2019: Customizing with Themes and CSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint Online boasts built-in functionality that can help you modify the look and feel of your SharePoint site. Using themes and CSS, you have control over your site's appearance, and can create a more customized experience for your users. In this course, Phil Gold walks through the Microsoft recommended approach for branding SharePoint, and explains how to use built-in tools and CSS to change colors, fonts, navigation, table layouts, and even page elements. He also shares his recommendations for when to use CSS to change branding elements in your SharePoint site, and when it's best to stick with the built-in tools.

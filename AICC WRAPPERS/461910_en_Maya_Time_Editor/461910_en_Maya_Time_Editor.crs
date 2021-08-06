@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=461910
+Course_System=linkedin.com
+Course_Title=Maya: Time Editor
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Meet the Time Editor, Maya's new tool for reusing and blending animation from multiple sources. Learn how to create motion clips, which can then be retimed and manipulated, and edit the animation curves and keys within clips. Then find out how to use the Time Editor for character animation. George Maestri shows how to copy existing animation and motion data and apply it to other characters—a fun and timesaving new technique that's brand new to Maya 2017.

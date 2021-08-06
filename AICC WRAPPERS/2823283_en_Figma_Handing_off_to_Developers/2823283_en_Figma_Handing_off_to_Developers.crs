@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2823283
+Course_System=linkedin.com
+Course_Title=Figma: Handing off to Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore using Figma, the cloud-based design tool that is particularly suited for collaboration, to work effectively with development teams. Learn how to prepare a Figma project for developer handoff, including how to export design assets from Figma in a developer-ready format. See how Figma can integrate with common design utilities to create style and design guide information, and watch the steps to structure an iterative workflow that allows regular handoff between design changes and development implementation.

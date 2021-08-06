@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=W. Scott Means
+Course_ID=731749
+Course_System=linkedin.com
+Course_Title=Interactive Animations with CSS and JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In a world without Flash, mixed-mode animation is a powerful tool for web designers. This course shows how to choose the correct mix of HTML, JavaScript, CSS, and other assets to deliver polished web-based animations that look great on everything from flat-screen televisions to smartphones. Instructor W. Scott Means focuses on how CSS animations, JavaScript, and SVG can be used to produce sophisticated effects while keeping code complexity to a minimum. As he steps through how to build a dynamic presentation, he covers storyboarding, HTML5 custom elements, working with SVG, DOM manipulation, and more.

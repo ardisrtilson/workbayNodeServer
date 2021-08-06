@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Liam Cleary
+Course_ID=2822468
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Implement Security and Threat Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Microsoft 365 Mobility and Security (MS-101) exam tests a candidate's ability to evaluate, plan, migrate, deploy, and manage Microsoft 365 services. The second domain of the exam covers the implementation, management, and monitoring of threat management and security protection services. This course covers these objectives, outlining the recommended tools and techniques to ensure user accounts and access are managed and controlled correctly. Learn how to implement and manage Cloud App Security, Office 365 Advanced Threat Protection (ATP), Windows Defender ATP, Azure AD Identity Protection, and additional security reports and alerts. By the end of the course, you'll have the skills to secure your Microsoft 365 deployments and ace the second domain of this critical certification exam.

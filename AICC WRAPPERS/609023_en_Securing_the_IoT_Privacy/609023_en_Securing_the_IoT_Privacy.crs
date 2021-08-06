@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=609023
+Course_System=linkedin.com
+Course_Title=Securing the IoT: Privacy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The rapid expansion of IoT technology brings with it an array of exciting and imaginative ways to make our products smarter and our lives easier. But the growth of this emerging technology also brings with it huge gaps in security. The IoT is plagued with vulnerabilities, malware, DDoS attacks, and the potential to disrupt infrastructure. In this course, join Lisa Bock as she explores the relationship between security, privacy, and the IoT. Lisa discusses how the vulnerabilities in IoT devices have the potential to compromise user privacy and make them more susceptible to attacks and glitches. In addition, she discusses IoT privacy concerns; existing standards, regulations, and guidelines, such as HIPAA and Sarbanes-Oxley; and proposed standards and legislation that are currently in the works to ensure the privacy of the data collected on the IoT.

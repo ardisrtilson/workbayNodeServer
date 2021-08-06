@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=677178
+Course_System=linkedin.com
+Course_Title=Ansible Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ansible is an easy-to-use IT automation engine. It can transform and optimize tasks such as rolling updates with just a few lines of code. However, many organizations aren't using Ansible modules and playbooks in a reusable fashion; they are reinventing the wheel every time they automate. This training course introduces intermediate to advanced use cases for using the tool at scale. Instructor Robert Starmer shows how to reuse Ansible functionality with roles, encrypt secret data with Ansible Vault, support idempotence, and manage multiple groups of systems with Ansible Tower. He shows you how to string these concepts together to use Ansible in the most efficient way possible: variablizing resources, capturing your ideas into roles, and extending Ansible from simple server management to network management-and beyond.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Benjamin Muschko
+Course_ID=2825701
+Course_System=linkedin.com
+Course_Title=Learning Groovy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Groovy—a powerful, easy-to-use, and widely adopted language on the Java Virtual Machine (JVM) platform—has found its way into ecosystems like Jenkins Pipelines and Gradle, as well as web development frameworks such as Grails and Micronaut. In this course, learn the basics of working with Groovy. Instructor Benjamin Muschko goes over fundamental concepts such as variables and data types, classes, and exception handling. Along the way, Benjamin establishes the connection between Java and Groovy and highlights where Groovy really shines. He also digs into more advanced concepts, including using closures, working with collections, and reading and writing files. After wrapping up this course, you'll have the basic knowledge you need to run Groovy as a script or full-fledged program.

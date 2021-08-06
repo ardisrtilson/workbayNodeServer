@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=696862
+Course_System=linkedin.com
+Course_Title=Learning Functional Programming with Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By taking up functional programming—a popular programming paradigm that's centered around pure functions—you can write more robust and maintainable Swift code. This course prepares you to make the switch by providing an introduction to the functional paradigms in Swift. Instructor Shaun Wassell covers functional concepts, first-class functions, and array functions. He also dives into a few advanced concepts, including partial application and recursion.

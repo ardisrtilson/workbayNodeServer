@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Duffy
+Course_ID=5028669
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Mobile Game Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Every developer wants to write fast and mobile-friendly projects. Using a game to practice JavaScript programming will enhance your skills in all areas of development: whether you’re designing corporate websites, ecommerce apps, multimedia players, complex interactive navigation, or yes, games. Join instructor Tom Duffy as he guides you through practical exercises that will build your JavaScript skills the fun way. Learn how to create and animate HTML objects, handle user input, implement a game loop, determine how objects interact, and style all the elements with CSS. Tom also shows how to incorporate music and sound effects and test the final game using Android and iOS emulators. By the end of the course, you’ll have “gamed” your way to better vanilla JavaScript skills.

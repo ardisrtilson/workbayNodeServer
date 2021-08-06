@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=5040388
+Course_System=linkedin.com
+Course_Title=Excel: Analytics Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deepen your Excel knowledge by picking up powerful and effective analytics techniques used by Excel pros. In this course, instructor Chris Dutton shows how to leverage intermediate to advanced Excel analytics functionality using crystal clear demos, real-world case studies, and bite-sized lessons. Each video is self-contained and focuses on a key tool or feature that you can add to your Excel tool kit. Learn how to conduct outlier detection, perform Monte Carlo simulations, and use CUBE functions. Plus, explore forecasting, using the Goal Seek feature, and leveraging Solver to tackle complex optimization models in Excel. Note: Chris uses Microsoft Office 365 ProPlus for PC throughout the course, so some tips may not apply to all versions of Excel.

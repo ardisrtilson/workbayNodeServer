@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=2876121
+Course_System=linkedin.com
+Course_Title=CCSK Cert Prep: 2 Infrastructure Security for Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud-based services should be secured with common practices such as hardening, disaster recovery planning, periodic security testing, and the use of encryption. Instructor Daniel Lachance goes over software-defined networking (SDN), cloud network infrastructure security, cloud application workload security, and business continuity in the cloud. Daniel begins with an overview of SDN and shows you how to create a virtual private cloud (VPC). He explains how to configure VPC peering, which links cloud-based networks. Daniel describes how to manage access control lists (ACLs) and how to configure a virtual private network (VPN). He reviews ways to manage cloud resources remotely over the Internet. Daniel explains identity and access management (IAM) policies. He discusses how to conduct a business impact analysis and craft disaster recovery policies, then concludes with an explanation of cloud backups and how you can use them to protect workloads and data on-premises.

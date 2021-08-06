@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Glenn Block
+Course_ID=672255
+Course_System=linkedin.com
+Course_Title=Navigating .NET and .NET Standard for Cross-Platform Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The .NET ecosystem is changing. The diverse range of options and cross-platform tools offer exciting opportunities for the developer who is willing to learn them. Discover how to get the most from .NET by choosing the right version, libraries, and framework for your project. In this course, Microsoft MVP and .NET insider Glenn Block reviews versions such as .NET Framework, .NET Core, Mono, and Universal Windows Platform, and frameworks such as ASP.NET Core, NancyFx, and the NuGet package system. He teaches you the differences between these .NET flavors and shows how to use each variety for optimal results. He also compares the Standard Library to Portable Class Libraries (PCL), and shows how to migrate your code with the .NET Portability Analyzer. Each chapter is full of hands-on demonstrations, so you can see the cross-platforms capabilities of .NET firsthand.

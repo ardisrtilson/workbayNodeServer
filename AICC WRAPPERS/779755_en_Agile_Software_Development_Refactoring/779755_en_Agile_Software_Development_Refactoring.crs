@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Kasperowski
+Course_ID=779755
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Refactoring
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Refactoring code is a key responsibility of software developers. It helps you develop quality code—the foundation you need to react quickly to change, add new features, and ship high-performance products. This course teaches the basics of refactoring, tailored for agile development. Instructor Richard Kasperowski helps you set up a test-driven development environment and walks through basic refactoring techniques: the rename variable, extract, and inline methods. In chapter two, he explains how to stabilize legacy code with outstanding technical debt—inefficiencies and errors introduced as the result of careless programming. Then he uses refactoring to simplify code, remove duplication, and build more reusable objects. Finally, he shows how refactoring complements an agile workflow, by demonstrating how to quickly add a new feature to the simplified codebase.

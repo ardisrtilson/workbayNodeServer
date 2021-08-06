@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=661768
+Course_System=linkedin.com
+Course_Title=Learn Industrial Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Industrial automation is the use of computers and robots to control industrial processes, like manufacturing, without significant human intervention. Used correctly, automation can increase the quality, safety, and accuracy of these processes. It's the job of the people in industrial automation to design the systems, configure the controllers, and monitor the processes. This course provides an overview of the topic, designed to help anyone hoping to enter the field in a role such as electrical or mechanical engineer, automation technician, or design manager. Learn about the components and networks involved at each level of automation: field level, control level, and management level. Explore the different devices involved, from the programmable logic controllers (PLCs) on the factory floor, to OPC software that give technicians insights into operations. Instructor Zahraa Khalil, an engineer and educator, also provides an overview of SCADA (supervisory control and data acquisition), an industrial control system architecture that enables supervision over large distances and multiple sites.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=2848005
+Course_System=linkedin.com
+Course_Title=InfraWorks 2021: Traffic and Mobility Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Infrastructure projects often need to predict their impact on their surrounding environment, especially when it comes to their impact on the movement of vehicles and people. In this course, instructor Lynda Sharkey shows you how to generate three different simulations with InfraWorks 2021. First, Lynda explains how to set up the software and plugins that you will use. She demonstrates the steps to set up the scenario for your traffic simulation, then goes through how to run the simulation and analyze the results. Next, Lynda walks you through how to create a pedestrian walkway, define how many people will move between areas, and create areas where people can walk in your simulation. Last, Lynda steps through how to create and alter a multimodal simulation, including how to configure a pedestrian crossing and visualize how it may influence the traffic flow within an area.

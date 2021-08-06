@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=417651
+Course_System=linkedin.com
+Course_Title=Rigging Mechanical Objects in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn techniques for rigging mechanical objects, machines, and other inanimate objects in Maya. George Maestri shows how to rig complex objects such as piston engines, cams, rocker arms, gears, and pulleys, and combine them all into a mechanized conveyor belt. These Maya tutorials are perfect for animators who want to rig mechanical interactions, vehicles, and robots—any objects other than organic bipeds and quadrupeds.

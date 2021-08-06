@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chiu-Ki Chan
+Course_ID=688522
+Course_System=linkedin.com
+Course_Title=Advanced Android Espresso Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take an in-depth look at using the Android Espresso library to write Android UI tests. In this course, Chiu-Ki Chan tackles advanced topics in Android Espresso testing, including intents, hermetic test environment, and IdlingResource. She covers incoming and outgoing intents, dependency injection, Mockito and Dagger, and more. If you're an Android developer interested in implementing automated testing as part of the development lifecycle, this course can help to equip you with the techniques you need to write repeatable UI tests.

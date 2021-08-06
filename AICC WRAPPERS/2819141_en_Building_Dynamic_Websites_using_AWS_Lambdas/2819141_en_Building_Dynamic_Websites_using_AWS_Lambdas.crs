@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brett McLaughlin
+Course_ID=2819141
+Course_System=linkedin.com
+Course_Title=Building Dynamic Websites using AWS Lambdas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While static websites are both easy on AWS and important for many businesses, some degree of interactivity is now an expected part of the web. Whether it's a shopping cart, sign-up form, or just a bit of interaction that goes beyond a simple link or button click, you need to be able to make your websites dynamic. AWS Lambda helps developers of all stripes—even those with little knowledge of back-end development—revolutionize their projects by leveraging a serverless approach to dynamic websites. In this course, instructor Brett McLaughlin shows you how to use AWS tools—plus the technology you already know, such as JavaScript and HTML—to build a complete dynamic serverless website. Learn how to write a Lambda function that takes in a request from a web server and returns an HTML response with some interaction; send an email from a Lambda function; convert a Lambda function to avoid cross-domain and security issues; and more.

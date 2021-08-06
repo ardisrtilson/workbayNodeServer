@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=2823040
+Course_System=linkedin.com
+Course_Title=3ds Max: Rendering for Compositing in V-Ray Next
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using render elements, V-Ray Next for 3ds Max offers fine-grained control over parameters necessary for creating high-quality composites, such as reflections, shadows, mattes, and more. In this course, Brian Bradley shows how to use V-Ray Next to create renders specifically for a post-production workflow in applications like Photoshop and After Effects. Explore the render elements UI and workflow and the output options for still images and animated sequences. Then learn how to use 3ds Max state sets to manage multiple render passes, and find out how to analyze a scene. In chapter four, Brian takes a deep dive into render elements such as MultiMatte, Cryptomatte, ZDepth, VRayLightSelect, and more. The fifth chapter is a project-based lesson that shows how to select and adjust render elements for an animated sequence. Finally, learn how to add lighting and other effects in order to produce a very different looking final composite. This course was created by Brian Bradley. We are pleased to offer this training in our library.

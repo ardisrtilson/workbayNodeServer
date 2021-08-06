@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=SAS Institute
+Course_ID=2822031
+Course_System=linkedin.com
+Course_Title=SAS® 9.4 Cert Prep: Part 10 Manipulating Data with Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get ahead in a crowded job market? Get certified with SAS. This course is part of a series by the SAS Institute, designed to prepare you for the SAS 9.4 certification exam. Here you can explore techniques for transforming data into useable formats with SAS functions. Instructor Stacey Syphus explains how to use functions to modify numeric, date, and character data, and change one data type to another. This course was created by SAS Institute. We are pleased to offer this training in our library.

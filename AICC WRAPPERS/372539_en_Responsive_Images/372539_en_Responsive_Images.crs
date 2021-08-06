@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=372539
+Course_System=linkedin.com
+Course_Title=Responsive Images
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Responsive images are the next evolution in web design. Learn how to implement them today, with these real-life best practice scenarios for implementing responsive images in production sites. Morten Rand-Hendriksen explains what responsive images are and how they work, and how to use the Picturefill JavaScript polyfill to get responsive images to work in browsers that do not yet support them. Then explore the two main types of responsive images (using the <img> tag with srcset and w and the new <picture> tag), and work with the production-ready code examples in the practice window to get hands-on implementation experience.

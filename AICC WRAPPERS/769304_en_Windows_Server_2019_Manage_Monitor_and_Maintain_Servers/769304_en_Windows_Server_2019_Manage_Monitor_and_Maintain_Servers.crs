@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=769304
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Manage, Monitor, and Maintain Servers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How healthy is your Windows Server? Everyone wants a perfect system, with no vulnerabilities or errors. But a key part of managing a Windows Server-based network is keeping it up to date and recognizing when things go wrong. In this course, Scott Burrell provides you with the knowledge and skills needed to keep Windows Server 2019 running properly and, when necessary, take steps to diagnose and resolve issues. Classic tools such as PowerShell are joined by Windows Defender Advanced Threat Protection (ATP) and the new Windows Admin Center to provide a complete toolset to keep servers running in peak condition.

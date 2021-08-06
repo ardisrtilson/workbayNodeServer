@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=697702
+Course_System=linkedin.com
+Course_Title=Excel 2016: Setting Up a Database
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel isn't just for flat files. You can use it to create a simple database and get even more insights into your data. Join instructor Dennis Taylor and learn how to create a simple database. Dennis explains the key strengths of Excel as a data-management tool—and what it can and can't do—and spells out the design considerations you'll want to keep in mind as you create your database. Dennis also shows how to simplify database creation with tables and manage data with the built-in Form and Data Validation tools.

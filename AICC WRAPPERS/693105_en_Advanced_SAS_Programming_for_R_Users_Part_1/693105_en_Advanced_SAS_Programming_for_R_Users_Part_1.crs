@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jordan Bakerman
+Course_ID=693105
+Course_System=linkedin.com
+Course_Title=Advanced SAS Programming for R Users, Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAS is one of the most used data analytics platforms in the world. Enhance your programming skillset by learning how to apply your understanding of R— the language of big data—in the SAS environment at an advanced level. Instructor Jordan Bakerman covers several different advanced techniques for analyzing data via inferential procedures. Learn about linear regression with PROC REG, estimating linear combinations with the general linear model procedure, mixed models and the MIXED procedure, and more. Note: You can visit the SAS site to obtain a copy of the software, and use the company's online data sets to do the course exercises.

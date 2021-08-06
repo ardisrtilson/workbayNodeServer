@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=435130
+Course_System=linkedin.com
+Course_Title=Revit Worksharing: Users
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you use Revit in an office environment with other users, worksharing is likely already a part of your daily life. Worksharing is the term we use to describe a project that has been set up for simultaneous multiuser access. Our three-part series, Revit Worksharing, explores this collaboration feature in detail. Part 1 (Revit Worksharing: Users) introduces all of the terminology and techniques that you need to know to join and participate in a workshare-enabled project successfully. Learn how to create and edit local files, and connect and sync them with the central model. Plus, find out how to create useable collections of elements called worksets and detach files from the central project when necessary. While the only way to truly master Revit collaboration is to participate in a worksharing project with a real team, this series is designed to give you the tools you need to collaborate with confidence and get up to speed quickly and efficiently.

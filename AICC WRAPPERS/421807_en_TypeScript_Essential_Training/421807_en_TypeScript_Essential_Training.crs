@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Chadwick
+Course_ID=421807
+Course_System=linkedin.com
+Course_Title=TypeScript Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TypeScript lets you write JavaScript the way you really want to. TypeScript compiles to plain JavaScript, so it works in any browser, any host, and any OS. It adds a variety of helpful syntax and tools onto an already mature language, bringing the power and productivity of static typing and object-oriented development to core JavaScript. Plus, it's completely open source. In this course, Jess Chadwick teaches you how to leverage the full power of the TypeScript language in your JavaScript applications, starting by revisiting some JavaScript fundamentals. Then he reviews the data types, classes, generics, modules, and decorators that are unique to TypeScript. In the Real-World Application Development chapter, he demos how to convert an existing JavaScript codebase to take advantage of everything TypeScript has to offer. What's more, he shows you how to do it all using the environment of your choosing: Windows, Mac, or even Linux.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick W. Crawford
+Course_ID=601786
+Course_System=linkedin.com
+Course_Title=OpenCV for Python Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+OpenCV is an open-source toolkit for advanced computer vision. It is one of the most popular tools for facial recognition, used in a wide variety of security, marketing, and photography applications, and it powers a lot of cutting-edge tech, including augmented reality and robotics. This course offers Python developers a detailed introduction to OpenCV 3, starting with installing and configuring your Mac, Windows, or Linux development environment along with Python 3. Learn about the data and image types unique to OpenCV, and find out how to manipulate pixels and images. Instructor Patrick W. Crawford also shows how to read video streams as inputs, and create custom real-time video interfaces. Then comes the real power of OpenCV: object, facial, and feature detection. Learn how to leverage the image-processing power of OpenCV using methods like template matching and machine learning data to identify and recognize features.

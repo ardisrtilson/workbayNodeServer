@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Swersky
+Course_ID=2823489
+Course_System=linkedin.com
+Course_Title=Advanced Terraform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Terraform simplifies and accelerates the configuration of cloud-based environments. DevOps engineers looking to use Terraform in the real world can start by learning how to work with the Terraform CLI and the HashiCorp Configuration Language (HCL). In this course, David Swersky covers these concepts and more, helping you go beyond the basics with this powerful infrastructure as code solution. Using practical use cases, David shows how to manage and automate your infrastructure with Terraform. He steps through how to analyze an existing application running in a client's data center, and design a Terraform configuration that supports the application in AWS. He also goes over advanced concepts, including how to set the values of variables in a Terraform configuration. Plus, he steps through how to develop an application infrastructure with Terraform, create an infrastructure CI/CD pipeline using GitHub and Terraform Cloud, and more.

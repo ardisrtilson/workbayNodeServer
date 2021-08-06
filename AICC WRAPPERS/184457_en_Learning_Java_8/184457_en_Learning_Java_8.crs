@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=184457
+Course_System=linkedin.com
+Course_Title=Learning Java 8
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Java is one of the top-five programming languages, and is used for websites, embedded controllers, and Android app development. This is an introduction to get you started programming with Java. Peggy Fisher introduces the basics: data types, strings, arrays, expressions, loops, and functions. She'll help you control the flow and logic of your code, and create classes using the principles of object-oriented design. Then go a bit beyond the basics and learn advanced techniques for working with arrays, manipulating files, and building graphical user interfaces (GUIs) that respond to user input. This three-hour capsule course is perfect for developers who need to get up to speed with Java fast, as well as for beginning programmers who want their first taste of this popular language.

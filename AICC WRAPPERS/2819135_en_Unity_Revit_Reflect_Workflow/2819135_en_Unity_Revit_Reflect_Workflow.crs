@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Logan Smith
+Course_ID=2819135
+Course_System=linkedin.com
+Course_Title=Unity: Revit Reflect Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity Reflect allows for easy movement of assets between Autodesk Revit and the Unity Game engine, making changes and other critical tasks such as design analysis and metadata processing easier to accomplish by creating a real-time link between the two applications. Join instructor Logan Smith as he shares example use cases in Unity and Reflect and explore how to interact with Revit data in real time.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nertil Poci
+Course_ID=2254041
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Synapse for Developers 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data powers decision-making. And to effectively leverage data to support business insights, companies must be able to query data and run analytics at a large scale. Azure Synapse, formerly known as Azure SQL Data Warehouse, can help. This powerful analytics service blends big data analytics with data warehousing, offering organizations a way to store large amounts of incoming data for a reasonable cost. In this course, instructor Nertil Poci helps developers get up and running with Azure Synapse and build their first data warehouse. Nertil goes over the benefits that Azure Synapse offers, as well as how to provision a data warehouse, load and query data, and leverage best practices to minimize costs and optimize your data warehouse. Along the way, he shares challenges that allow you to practice your new skills.

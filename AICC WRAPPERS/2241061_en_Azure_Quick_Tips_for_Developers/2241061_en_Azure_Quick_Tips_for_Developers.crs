@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Benkovich
+Course_ID=2241061
+Course_System=linkedin.com
+Course_Title=Azure Quick Tips for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to work smarter with Microsoft Azure? This course can help you get there, one quick tip at a time. Each self-contained video is about a minute long, so you can pick up new ways of working in your spare moments. Instructor Mike Benkovich demonstrates how to leverage the latest features and tools that the platform has to offer, sharing insider solutions and techniques in the areas of resource management, cloud governance, user access, and more.

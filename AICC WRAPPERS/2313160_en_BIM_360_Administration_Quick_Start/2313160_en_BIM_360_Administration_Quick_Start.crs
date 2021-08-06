@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=2313160
+Course_System=linkedin.com
+Course_Title=BIM 360: Administration Quick Start
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+BIM 360 is a powerful, full-featured tool for managing construction projects. Using this platform, architects, engineers, and construction professionals can speed up their workflow by moving their projects off of their local servers and into the cloud. In this course, learn what you need to know to get a project up and running with BIM 360. Instructor Eric Wing provides an overview of the different BIM 360 applications, their purpose, and how to purchase just what you need. He then covers how to configure Revit to work correctly with BIM 360, set up your hub, and start creating projects. Plus, discover how to assign users, set permissions, and work with models. Upon wrapping up this course, you'll have the knowledge you need to get a project configured and connected to Revit, as well as publish the project's models.

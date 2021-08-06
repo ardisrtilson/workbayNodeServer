@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff I. Greenberg
+Course_ID=490927
+Course_System=linkedin.com
+Course_Title=Premiere Pro Guru: Online & Offline Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+An online/offline workflow, also known as a proxy workflow, gives you the option to edit with lightweight proxy files and then relink to the original camera files for final render. A low-res proxy—an offline copy of your footage—can be created during ingest or started later in the browser. This course demonstrates a workflow for the creation and organization of proxies in Premiere Pro, concluding with relinking safely and intelligently to the high-quality master files. Jeff I. Greenberg explains the benefits and risks associated with an online/offline workflow, and shows how to choose the proper presets, codecs, and media locations. He shows how to use Adobe Media Encoder to build custom proxy presets, and demonstrates advanced workflows for outputting high-quality masters, as well as low-quality proxies for remote editing workflows.

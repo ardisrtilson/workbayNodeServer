@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Derek Jedamski
+Course_ID=2824235
+Course_System=linkedin.com
+Course_Title=Applied Machine Learning: Feature Engineering 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The quality of the predictions coming out of your machine learning model is a direct reflection of the data you feed it during training. Feature engineering helps you extract every last bit of value out of data. This course provides the tools to take a data set, tease out the signal, and throw out the noise in order to optimize your models. The concepts generalize to nearly any kind of machine learning algorithm. Instructor Derek Jedamski provides a refresher on machine learning basics and a thorough introduction to feature engineering. He explores continuous and categorical features and shows how to clean, normalize, and alter them. Learn how to address missing values, remove outliers, transform data, create indicators, and convert features. In the final chapters, Derek explains how to prepare features for modeling and provides four variations for comparison, so you can evaluate the impact of cleaning, transforming, and creating features through the lens of model performance.

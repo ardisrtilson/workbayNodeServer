@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=196345
+Course_System=linkedin.com
+Course_Title=After Effects Guru: Keyframe Assistants
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the tools in After Effects that help with the animation between the animation: keyframe assistants. These features help speed up repetitive tasks and add style to animations. This course starts with the basics: using the Keyframe Assistant tool itself to control the appearance, sequence, and timing of multiple layers within a single pre-composition. Then you'll move into very refined, keyframe-specific adjustments using a few different tools: Convert Audio to Keyframes, the Wiggler, ease adjustments, and expressions. In the final chapter, author Ian Robinson explores some very helpful third-party assistants like LayerMonkey, MotionMonkey, PlaneSpace, and Ecospace to speed up your day-to-day workflow.

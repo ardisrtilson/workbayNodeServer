@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Chiu Stone
+Course_ID=455331
+Course_System=linkedin.com
+Course_Title=Learning Lego Mindstorms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Love LEGOs? The next generation is ready to play. LEGO Mindstorms is a robotics kit designed for all experimenters—not just kids. Its advanced programming capabilities and robust hardware—sensors, motors, and intelligent EV3 brick—make LEGO Mindstorms a fun and challenging microcomputer system for programmers and tinkerers of any age. In this course, Olivia Chiu helps you open the box and build your first functional robot with LEGO Mindstorms. Learn how to unpack the hardware, connect to the programming interface, run prebuilt programs, and control the motors and sensors. Chapter 6, Adding Flow to a Program, covers advanced programming topics such as transferring data between blocks, using variables to store temporary data, programming conditional logic, and looping actions to run again and again. By the end of the course, you'll have the skills to bring your own robotic creations to life.

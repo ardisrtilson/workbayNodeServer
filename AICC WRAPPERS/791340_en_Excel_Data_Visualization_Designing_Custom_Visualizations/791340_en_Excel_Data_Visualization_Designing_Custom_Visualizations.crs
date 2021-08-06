@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=791340
+Course_System=linkedin.com
+Course_Title=Excel Data Visualization: Designing Custom Visualizations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in using more than the built-in chart and graph tools to showcase your data in Excel? In this course—the second and final installment in the Excel Data Visualization series—instructor Chris Dutton steps through how to create unique, custom data visualizations in Excel. Since Chris covered the core data visualization capabilities of Excel in the previous installment of the series, he dives into some more sophisticated techniques here. As he moves through a series of hands-on demos, Chris covers everything from building dynamic dashboards to advanced maneuvers like value-based formatting and dynamic series selection.

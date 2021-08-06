@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=135374
+Course_System=linkedin.com
+Course_Title=Creating a Responsive HTML Email
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing HTML emails can be challenging, considering the limited capabilities of desktop and web email readers, combined with the small screen sizes of mobile devices. Enter responsive HTML email. Let Chris Converse show you how to design an elegant email that will adapt to varying screen sizes and render correctly in over 30 different mail clients, including Gmail, Yahoo, AOL, and multiple versions of Outlook, as well as Android, iOS, and Windows phones. Learn to add complex features like background graphics, rounded corners, and shadows that don't break your email when they can't be displayed. Then create call-to-action buttons, add animation, and style the whole thing with CSS. Plus, explore tools and services that will help you test your campaigns. Start now and learn what is possible with HTML email. This course was created and produced by Chris Converse. We are honored to host this content in our library.

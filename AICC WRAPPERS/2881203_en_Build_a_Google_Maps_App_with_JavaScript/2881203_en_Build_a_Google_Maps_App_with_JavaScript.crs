@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Framework Tech, Mark Lassoff
+Course_ID=2881203
+Course_System=linkedin.com
+Course_Title=Build a Google Maps App with JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build a quick and compelling app that uses the Google Places library and JavaScript to implement geolocation. In this short, hands-on course, Mark Lassoff helps you create a simple Google Maps integrated application using vanilla JavaScript: Feed Me, a restaurant locator. This project can help you hone your JavaScript skills and add a much-needed feature—an interactive map—to your existing sites and applications. Plus, learn how to add extra information to Google Maps markers, such as the price and rating for the featured restaurants. This course was created by Framework Tech. We are pleased to host this training in our library.

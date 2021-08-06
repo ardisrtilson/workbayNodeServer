@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Timothy Pintello
+Course_ID=171574
+Course_System=linkedin.com
+Course_Title=Windows Server 2012: Configure Basic Microsoft Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to configure three essential Microsoft services for any organization running Windows Server 2012: file sharing, printers, and remote server management. Timothy Pintello shows how to install and configure these services in a virtual network environment, using VirtualBox—a setup you can easily replicate and practice with on your own. He also spends a chapter diving into Windows permissions. If you're coming from a Mac environment or just starting out in IT administration, this course will help you take the next crucial step in setting up Windows Server at your organization.

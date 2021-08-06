@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=585009
+Course_System=linkedin.com
+Course_Title=Hadoop for Data Science Tips, Tricks, & Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Hadoop—the hugely popular big data platform—offers a vast array of capabilities designed to help data scientists deliver their insights. In this course, Ben Sullins helps you get up to speed with Hadoop by sharing a series of tips and tricks for doing data science work in this powerful platform. He starts by looking at how to work with Hadoop data in HDFS, and then explores using Hive—the Hadoop SQL engine—where a lot of data science work happens. To wrap up the course, Ben covers techniques for running fast queries in the Hive engine.

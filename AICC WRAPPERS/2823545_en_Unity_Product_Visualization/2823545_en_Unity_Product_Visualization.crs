@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2823545
+Course_System=linkedin.com
+Course_Title=Unity: Product Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Our world is filled with cool products, designed by talented and skilled creatives. Unity is a real-time rendering tool that is ideal for showcasing great product designs and ideas. In this course, designer Alan Thorn demonstrates step by step how to use Unity to comprehensively previsualize a retro-style coffee maker in an interactive way. Alan shows how to build the coffee maker from start to finish in Unity, and test out different features like pushable buttons, levers, moveable mugs, and other engaging product characteristics that can be previewed effectively in real time. He also demonstrates how to create camera sequences and work with responsive and adaptive user interfaces. This course is ideal for digital creatives and product designers seeking to showcase their ideas with depth and energy. By the end of this course, you'll be able to create real-time visualizations for your own products using the Unity engine.

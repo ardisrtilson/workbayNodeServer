@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Julian Robichaux
+Course_ID=552873
+Course_System=linkedin.com
+Course_Title=SVN for Java Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Given that programmers are constantly modifying their code—and that other developers often touch the very same code—it's crucial to keep track of your changes. By leveraging software version control systems such as Apache Subversion (SVN), you can help your team stay on the same page. In this course, learn how to use SVN to keep track of your code changes and merge conflicting changes. Julian Robichaux covers key concepts and terminology such as trunks, commits, and revisions, and explains how to create a new Java project, make changes, and create branches. He also covers how to find and fix conflicts using Eclipse, create a release, and use SVN and Git together.

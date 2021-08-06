@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Myers
+Course_ID=642465
+Course_System=linkedin.com
+Course_Title=Revit for Interior Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Revit boasts powerful tools that allow you to efficiently plan and manage your projects, and visualize your designs. In this course, discover how to use Revit during the interior design process. Instructor Brian Myers demonstrates how to organize your project browser, assign finishes to rooms, and create new materials and custom wall types. He also shows how to model Revit families; create furniture such as tables and sofas; create a casework family; create, view, and finalize design options; and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=172849
+Course_System=linkedin.com
+Course_Title=Building Curtain Walls with Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course examines one of the best features Revit has to offer: curtain walls. Though they're not structurally significant, curtain walls are important to a building's design aesthetic and the comfort of its occupants. There are many different types of curtain walls out there; Revit offers just as many different ways to build them to fit your needs. Eric Wing starts this course with a look at Revit's simple, preconfigured walls, and then moves on to customizing blank curtain walls with different panel materials, mullions (load-bearing, structural supports), and nonlinear grid patterns. From there, you'll learn to create your own mullion family from scratch. Finally, graduate to massing free-form curtain walls with custom volumes, panels, and spider fittings. With Revit and these tutorials, you can create some really cool systems!

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=679631
+Course_System=linkedin.com
+Course_Title=Windows 10: Troubleshooting for IT Support
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows 10 is the most secure and reliable operating system ever from Microsoft. But when things go wrong, your users need your help to troubleshoot their issues. In this course, instructor Andrew Bettany provides a comprehensive guide to troubleshooting a range of Windows 10 issues commonly encountered by IT professionals—especially help desk professionals tasked with user support. Learn how to remotely help your users, troubleshoot hardware and software, and restore Windows 10 should you need to. You can discover how to resolve user account and permissions issues, and troubleshoot file access, networking and Wi-Fi problems, and Windows 10 startup issues. Plus, learn how to resolve app incompatibilities, diagnose and fix performance bottlenecks. Andrew wraps up the course with a look at essential maintenance tasks that will keep Windows 10 users from encountering problems in the first place.

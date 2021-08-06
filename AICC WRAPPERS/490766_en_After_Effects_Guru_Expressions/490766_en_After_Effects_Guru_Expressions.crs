@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Luisa Winters
+Course_ID=490766
+Course_System=linkedin.com
+Course_Title=After Effects Guru: Expressions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Expressions are an incredibly powerful feature in After Effects. They are a way to affect the values of properties using lines of code rather than keyframes. This makes expressions faster and cleaner than traditional animation techniques. In this course, author Luisa Winters demonstrates how to use expressions in Adobe After Effects. Watch and learn how to add and edit expressions, change dimensions like rate and value, and use variables to assign and change values globally. Plus, find out how to use the After Effects Expression Language menu and introduce randomness into expressions for more creative possibilities.

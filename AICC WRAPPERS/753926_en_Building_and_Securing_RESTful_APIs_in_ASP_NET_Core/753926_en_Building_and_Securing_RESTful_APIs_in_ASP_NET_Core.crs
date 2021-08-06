@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nate Barbettini
+Course_ID=753926
+Course_System=linkedin.com
+Course_Title=Building and Securing RESTful APIs in ASP.NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most people have heard of RESTful APIs, but the underlying concept—representational state transfer (REST)—still causes confusion. REST is all about modeling resources that change. RESTful APIs use REST architecture along with HTTP requests to transfer data and changes in application state between clients and servers. This course breaks down the principles of RESTful design and show how to build secure RESTful APIs on top of ASP.NET Core. Nate Barbettini answers questions such as: What is RESTful design? How do you perform RESTful routing? How can you build reusable classes to represent resources? What role does caching play? And how do you secure RESTful APIs? He also covers topics such as data modeling, hypermedia relationships, and authentication and authorization. By the end of the course, you should know the basics—how to properly request and return data in ASP.NET Core—and the best practices for building secure and scalable APIs to serve web clients, mobile clients, and beyond.

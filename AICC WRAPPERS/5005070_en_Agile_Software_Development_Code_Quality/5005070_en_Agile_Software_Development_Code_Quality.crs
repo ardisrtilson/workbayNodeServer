@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=M. Scott Ford
+Course_ID=5005070
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Code Quality
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Code quality is important to every developer. Poorly written software can cost you customers, time, and money. This course introduces best practices and tools for writing high-quality code, so you can deliver better products, get updates to market faster, and reduce your overall technical debt. Instructor Scott Ford introduces platform-agnostic tools that will help improve any software project. Learn how to reduce complexity with CodeClimate, analyze hotspots and churn with CodeScene, ensure adequate code coverage with NDepend, and reduce duplication with SonarQube. Plus, find out how to use Snyk to secure dependencies and build a more consistent coding style with HoundCI. By the end, you’ll have the tools and skills you need to create cleaner code—and programs that are easier to debug, run, and maintain.

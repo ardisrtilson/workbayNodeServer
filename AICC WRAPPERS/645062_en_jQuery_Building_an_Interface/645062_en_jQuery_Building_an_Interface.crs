@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=645062
+Course_System=linkedin.com
+Course_Title=jQuery: Building an Interface
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Create an interactive user interface that uses the strengths of jQuery, Bootstrap, Underscore.js, and the vast library of jQuery plugins. Instructor Ray Villalobos shows how to use the jQuery selector engine to select DOM elements, and how to manage actions with jQuery events. He accesses external data with AJAX methods, and extends jQuery with plugins for templating webpages and formatting data. He also shows how to sort and search through data with the Underscore.js library and add and edit form data. This hands-one project will strengthen your jQuery skills and help you build more sophisticated and responsive user interfaces.

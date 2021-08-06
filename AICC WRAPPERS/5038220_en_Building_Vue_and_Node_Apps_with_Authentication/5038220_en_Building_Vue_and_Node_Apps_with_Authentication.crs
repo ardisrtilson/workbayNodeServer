@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=5038220
+Course_System=linkedin.com
+Course_Title=Building Vue and Node Apps with Authentication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You're already familiar with the up-and-coming Vue.js framework, and Node.js has become a standard in back-end production. In this course, Alexander Zanfir shows how to leverage these technologies together to build a full-stack app in JavaScript. Alexander demonstrates how to build an interface in Vue.js that can send information to a Node.js server and adjust to its responses, as well as make sure that only authorized users can visit. He steps through how to develop a new feature in nearly every video, emphasizing practical demonstrations in code over theoretical discussions of key concepts. Discover how to get your data from Node.js, navigate with Router, register users, create a login component, and more.

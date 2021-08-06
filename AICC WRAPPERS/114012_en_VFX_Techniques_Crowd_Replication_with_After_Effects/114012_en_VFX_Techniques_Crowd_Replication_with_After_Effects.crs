@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=114012
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Crowd Replication with After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VFX Techniques introduces common yet critical visual effects techniques that are used in film and television shows on a regular basis. This installment shows how to simulate a large crowd by combining live-action footage of a small group of people, 3D renders, and Adobe Photoshop artwork—transforming an otherwise empty building into a rapt audience. Author Lee Lanier uses After Effects to set up image sequences, apply motion tracking to match the motion of the original camera, and key green-screen footage. Finally, you'll learn how to make all the elements cohesive with color correction and lighting techniques.

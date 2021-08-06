@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=601831
+Course_System=linkedin.com
+Course_Title=React: Ecosystems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React is rarely used by itself. As a result, working effectively with React—especially when developing in a group—means mastering a set of tools. Some of these tools supplement React, while others establish and maintain workflows for efficient development or help React mesh with another set of web-centric tools. In this course, learn how to make full use of React by exploring its ecosystems, and investigating what React offers as the nucleus of this system. Emmanuel explains what React offers, and dives into topics such as routing and navigation, server-side rendering, animation, and debugging.

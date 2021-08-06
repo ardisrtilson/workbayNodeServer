@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=5030998
+Course_System=linkedin.com
+Course_Title=ASP.NET Core Identity: Authorization Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Authenticating users and authorizing their level of access is a key component to any application. In this course, learn how to authorize varying levels of access and add layers of security to your ASP.NET Core applications. Instructor Ervis Trupja shows how to authorize users in .NET Core using a simple, role-based model, as well as a rich, policy-based model. Throughout the course, he covers how to add requirements to an authorization policy, use handlers for one or multiple requirements, and create custom authorized attributes. To wrap up, he demonstrates how to use imperative authorization and write a resource-based handler.

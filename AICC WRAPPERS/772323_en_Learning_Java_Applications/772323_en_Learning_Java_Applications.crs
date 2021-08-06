@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=772323
+Course_System=linkedin.com
+Course_Title=Learning Java Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a practical introduction to Java programming, focused on developing Java applications for desktop, web, and mobile platforms. In this course, Todd Perkins provides a structured guide to Java application development. He reviews the basic building blocks of the Java language: variables, functions, arrays, conditional statements, classes, and more. In chapters 3 and 4, he shows how to build a user interface with Swing, the UI toolkit for Java, and connect Swing table components to different data sources. He also covers distribution and deployment of Java applications via JAR files, server-side programming with JavaServer Pages (JSP), and the Android development workflow. By the end of the course, you should know the basics of Java and be able to create simple desktop, web, and mobile apps of your own.

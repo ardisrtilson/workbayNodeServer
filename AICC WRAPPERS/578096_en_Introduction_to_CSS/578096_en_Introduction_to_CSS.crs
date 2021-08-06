@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=578096
+Course_System=linkedin.com
+Course_Title=Introduction to CSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you have learned the basics of HTML, it's time to start exploring Cascading Style Sheets (CSS), the language that makes HTML look great in the browser. This course gives you a tour of the possibilities, showing what CSS is capable of doing and the basics you need to make it work for you. Join Carrie Dils as she explains what CSS is and how it works with HTML, discusses authoring options, and covers common CSS concepts such as the CSS box model and how to work with fonts and color. Plus, she demonstrates how to structure a page with CSS, maintain CSS with version control, work with media queries, and more.

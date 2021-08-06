@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2823366
+Course_System=linkedin.com
+Course_Title=CompTIA CySA+ (CS0-002) Cert Prep: 4 Software and Systems Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A solid understanding of software and systems security—from the software development lifecycle to penetration testing—is essential for aspiring cybersecurity analysts, as well as for those looking to earn the CompTIA Cybersecurity Analyst (CySA+) certification. In this installment of the CySA+ (CS0-002) Cert Prep series, instructor Mike Chapple dives into key software and system security practices as he prepares you for the Software and Systems Security domain of the CySA+ (CS0-002) exam. Mike provides coverage of secure software development practices, virtualization, networking, cloud computing, and more. Upon wrapping up this course—along with CySA+ (CS0-002) Cert Prep: 3 Identity and Access Management—you'll be prepared to confidently answer questions in the Software and Systems Security domain of the CySA+ exam. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

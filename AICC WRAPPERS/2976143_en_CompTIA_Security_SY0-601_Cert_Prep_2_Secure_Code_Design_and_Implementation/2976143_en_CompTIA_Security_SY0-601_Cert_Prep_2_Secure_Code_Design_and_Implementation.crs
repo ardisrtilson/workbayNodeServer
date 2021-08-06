@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2976143
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 2 Secure Code Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Application vulnerabilities can open the floodgates to all manner of malicious attacks. Cybersecurity professionals must be equipped with a robust understanding of the risks associated with application vulnerabilities, as well as the coding practices that can help developers create truly secure applications. In this course, the second installment in the CompTIA Security+ (SY0-601) Cert Prep series, dive into the topic of secure coding design and implementation as you prepare for the Security+ exam. Instructor Mike Chapple goes over the software development lifecycle, covering different software development methodologies, change management processes, and the security implications of the DevOps movement. He also goes over software quality assurance, top web security vulnerabilities to watch out for, and key coding practices that developers can leverage to protect data. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

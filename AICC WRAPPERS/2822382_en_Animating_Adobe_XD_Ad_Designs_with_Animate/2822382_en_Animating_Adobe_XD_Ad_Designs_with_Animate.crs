@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=2822382
+Course_System=linkedin.com
+Course_Title=Animating Adobe XD Ad Designs with Animate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create compelling motion and animation in your digital ad designs using Adobe XD and Adobe Animate. Expert Joseph Labrecque takes you step by step from basic design to prototype to working advertisement. Learn how to design a basic layout with imported imagery and the built-in tools in XD. Discover how to reproduce and modify the artboard design in the XD Prototype workspace, and send your assets and specifications to Animate to complete the layout. In Animate, Joseph shows how to animate the project elements and add interactivity, such as a call to action button, with JavaScript and the Actions Wizard. Finally, learn how to export your complete ad from Animate as an animated GIF, a format accepted by most major ad networks.

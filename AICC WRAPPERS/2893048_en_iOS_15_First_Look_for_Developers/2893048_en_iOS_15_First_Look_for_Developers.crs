@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=2893048
+Course_System=linkedin.com
+Course_Title=iOS 15 First Look for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Curious about what iOS 15 has to offer? This course can help you get up to speed. Join instructor Todd Perkins as he gives you a first look at the most exciting new features for developers found in the iOS 15 beta preview. Learn about updates to StoreKit; how the Interruption Levels API allows you to handle changes of urgency in your alerts; new style options for buttons in SwiftUI; and more. Tune into this short course to get ahead of the competition and prepare to implement the latest and greatest iOS features along with the iOS 15 launch.

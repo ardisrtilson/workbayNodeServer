@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sani Yusuf
+Course_ID=562260
+Course_System=linkedin.com
+Course_Title=Ionic 3.0 for Mobile App Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In a landscape where mobile apps are at the forefront of technology, it can be challenging to pick an appropriate strategy for reaching users on different platforms. In this project-based course, Sani Yusuf walks through the ins and outs of the Ionic 3.0 framework, and shows how to develop highly performant mobile applications targeting iOS, Android, and Windows while still making use of a single code base. Sani provides an overview of Ionic, and introduces key features in the latest version of the mobile SDK. To help provide a practical context for the course concepts, he takes you through how to build three separate mobile applications with Ionic.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Colin McCrone
+Course_ID=587599
+Course_System=linkedin.com
+Course_Title=Paneling with Dynamo for Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to enhance your paneling design workflow with Autodesk Dynamo, the visual scripting tool for Revit. In this course, Colin McCrone shows how to use Dynamo to describe the logic behind a project, rationalize and document a complex façade with flat panels, and represent panels in Revit. Colin covers strategies for paneling different types of design surfaces, meeting various design constraints, analyzing results, and applying patterns.

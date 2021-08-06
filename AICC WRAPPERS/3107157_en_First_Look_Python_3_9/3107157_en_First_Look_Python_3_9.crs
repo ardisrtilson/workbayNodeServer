@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Claire Burn
+Course_ID=3107157
+Course_System=linkedin.com
+Course_Title=First Look: Python 3.9
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python, like any modern language, is always evolving. In this course, instructor Claire Burn dives into Python 3.9, highlighting the new features, improvements, and deprecations packed into this release. Learn about the significant Python Enhancement Proposals (PEPs) included in Python 3.9, as well as how to distinguish which modules are new (and why they are notable). Discover which modules have been deprecated and why this was necessary. Plus, get tips for overcoming common challenges while porting from Python 2 to Python 3.9, or Python 3.x to Python 3.9.

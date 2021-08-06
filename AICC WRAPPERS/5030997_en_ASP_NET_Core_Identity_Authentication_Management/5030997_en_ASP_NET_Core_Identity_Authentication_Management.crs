@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=5030997
+Course_System=linkedin.com
+Course_Title=ASP.NET Core Identity: Authentication Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Authenticating users and authorizing their level of access are key components in any application. In this course, learn how to use ASP.NET Core Identity, as well as third-party providers, to authenticate your users. Instructor Ervis Trupja shows how to create a web application with Identity; configure lockout, password, and sign-in settings; and customize the Identity model and use Entity Framework to reflect these changes in your database. He also shows how to enable your users to sign in with their Facebook and GitHub accounts, as well as how to configure a cookie-based authentication system.

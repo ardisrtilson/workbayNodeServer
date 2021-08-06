@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Maximiliano Firtman
+Course_ID=724809
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Service Workers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Service workers are background scripts that enable features like offline storage, push notifications, and background syncing. They are an important tool for the modern web developer who wants to create faster, more interactive experiences with offline browsing and messaging. This course shows how to implement service workers in vanilla JavaScript—leaving frameworks behind in order to understand the technology's full potential. Learn how to install and register service workers, handle events, and manage updates. Then find how to implement several use cases for service workers: intercepting and routing network requests as proxy server, storing files in an offline cache, sending and receiving messages, and synchronizing background data. Plus, get tips and tricks to optimize the performance of your applications using service workers.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Abbey
+Course_ID=606063
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Simulation for Finite Element Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS Simulation offers tools that can help you test your designs and determine how to best enhance the quality of your products. In order to perform effective stress analysis, designers need to know not only the SOLIDWORKS Simulation user interface, but also the methodology and application of finite element analysis (FEA) in general. This course introduces how to set up a model for FEA analysis, run the analysis, and interpret the results to optimize your SOLIDWORKS models. Upon completing this course, you'll have the knowledge you need to carry out FEA with confidence.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Hiroko Nishimura
+Course_ID=2824221
+Course_System=linkedin.com
+Course_Title=Introduction to AWS for Non-Engineers: 3 Core Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Documentation and resources for using Amazon Web Services (AWS) are generally rife with technical jargons and concepts that non-engineers find tough to decipher. The Introduction to AWS for Non-Engineers series serves as a bridge between non-engineers and AWS. In this course, the third installment in the series, get a nontechnical introduction to the core services that make up Amazon Web Services (AWS). Instructor Hiroko Nishimura—founder of Intro to AWS for Newbies—provides an overview of key AWS technology, including compute, storage, database, and network and content delivery services, as well as management tools. Discover which services you'd use to host your website, which ones you'd use to store videos, and more. Note: This course also maps to the third domain of the AWS Certified Cloud Practitioner exam. Taking all four courses in the Introduction to AWS for Non-Engineers series will help you prepare for the exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Myers
+Course_ID=2813146
+Course_System=linkedin.com
+Course_Title=Enscape Essential Training (2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you're grappling with a looming deadline or urgent meeting with a client, rendering directly from the Revit environment isn't always feasible. Enscape, a virtual reality and real-time rendering plugin for Revit and other key AEC applications, is a user-friendly option that allows you to quickly produce client-ready renderings. In this course, learn how to create and render in real time with Enscape. Brian Myers shows how to leverage this software's features with Revit to help you, your colleagues, and your clients better visualize your fully-rendered project. Brian covers the basics of Enscape, explaining how to start it from Revit and use the navigation tools. In addition, he covers creating scenes; general settings such as depth of field, field of view, and motion blur; scene settings; and interface and video settings.

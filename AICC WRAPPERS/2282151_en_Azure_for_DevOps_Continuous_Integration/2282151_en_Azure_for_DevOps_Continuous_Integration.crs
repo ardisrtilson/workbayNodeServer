@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=2282151
+Course_System=linkedin.com
+Course_Title=Azure for DevOps: Continuous Integration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Companies need DevOps professionals who can help their teams ship high-quality products and services quickly and reliably. Earning the Azure DevOps Engineer Expert certification validates your DevOps expertise, helping you become more competitive both within your current organization and in the job market at large. In this course, instructor Robby Sap Millsap helps you prepare for the Microsoft Azure DevOps Solutions (AZ-400) exam—the required exam for this certification—by exploring the concepts covered in the test's Implement Continuous Integration domain. Sap works through key exam topics, including strategies for managing code quality, integrating security analysis tools into your build process, and planning build dependencies. Whether you're studying for the AZ-400 exam—or you just want to take a deeper dive into continuous integration with Azure DevOps—this course can help you acquire the skills you need to be successful.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=364350
+Course_System=linkedin.com
+Course_Title=jQuery: Creating Plugins
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you've ever written any jQuery, you should consider turning your code into a plugin. Plugins are easy to write and reuse, and are a great way to give back to the jQuery community. This course shows how to take some real-world examples of jQuery interactivity, written as regular filters or code, and quickly convert them into plugins. Author Joe Chellman also demonstrates how to make sure your plugin executes properly, make plugins configurable, and incorporate advanced functionality using JavaScript. Start watching and learn how to take the jQuery you've developed and package it into plugins everyone can use.

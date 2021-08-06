@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2825500
+Course_System=linkedin.com
+Course_Title=Building a Home IT Lab
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network and system administrators need somewhere to practice their IT administration skills. By building a home lab, IT professionals can experiment and refine their abilities in a dynamic environment without needing to worry about disrupting service in their work environment. In this platform-agnostic course, learn what it takes to design and build your own home IT lab. Instructor Scott Simpson starts with the basics, helping you define which hardware, roles, and tasks you need to support. He then helps you determine what kinds of configurations you’ll need—and spec out the hardware needed to support them. Plus, find out what services are offered by which kinds of products, and explore virtualization options, configuration management, and more.

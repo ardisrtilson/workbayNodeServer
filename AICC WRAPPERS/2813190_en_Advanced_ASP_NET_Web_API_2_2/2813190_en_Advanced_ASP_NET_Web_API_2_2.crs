@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2813190
+Course_System=linkedin.com
+Course_Title=Advanced ASP.NET Web API 2.2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ASP.NET Web API 2.2—a framework for building web APIs on top of the .NET Framework—can be a great choice for developers looking to expose their data and services. In this advanced course, Ervis Trupja helps you take your knowledge of this popular framework to the next level. Ervis dives into the topic of dependency injection in Web API, explaining how to resolve dependencies with Unity. He also digs into cross-origin requests and demonstrates how to create a custom cross-origin resource sharing (CORS) policy. Plus, learn how to version APIs without breaking existing features, create custom message handlers, host a Web API app in an IIS server, tackle self-hosting and more.

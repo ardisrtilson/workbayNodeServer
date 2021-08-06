@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2881138
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Logging with log4net
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Logging frameworks like log4net can help standardize and streamline the process of event logging: helping developers control which events are output and where to output them. This course teaches a real-world, project-based approach to event logging for ASP.NET Core applications with log4net. Instructor Ervis Trupja explains the benefits of using a logging framework and the options available to you. He then shows how to set up the log4net framework for console, web API apps, and MVC apps, and how to log to different mediums: a regular log file, a rolling file, and a SQL database. Plus, earn how to create a custom exception handler and configure it in the middleware to log exceptions globally.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=782138
+Course_System=linkedin.com
+Course_Title=Penetration Testing: Advanced Tunneling and Exfiltration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bolster your penetration testing skillset by learning three advanced techniques: tunneling, pivoting, and exfiltration. In this installment of the Penetration Testing series, instructor Malcolm Shore helps you grasp the basics of these three techniques, detailing what they are and how to leverage them when doing pen testing or responding to an attack. To begin, Malcom goes over how to tunnel through a network to gain access to deeper subnets. Next, he discusses what pivoting is and how to pivot with Armitage and Metaspoit. To wrap up, he goes over exfiltration, the covert extraction of information. Discover the ten rules for successful exfiltration, how to use PyExfil to exfiltrate over HTTPS, how to use the dnsteal tool to exfiltrate data across a DNS service, and more.

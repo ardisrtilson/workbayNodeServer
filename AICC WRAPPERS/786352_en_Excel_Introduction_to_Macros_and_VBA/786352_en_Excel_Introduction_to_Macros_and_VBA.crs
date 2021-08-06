@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris B. Smith
+Course_ID=786352
+Course_System=linkedin.com
+Course_Title=Excel: Introduction to Macros and VBA
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel macros allow you to automate routine tasks. Although working with macros involves the Visual Basic for Applications (VBA) programming language, you don’t need to be a programmer to use it. In this course, Excel guru and Microsoft content developer Chris Smitty Smith provides a quick introduction to macros and VBA. He walks through the steps of recording a basic macro, then demonstrates how to edit macros, including testing and adjusting, and making recorded macros dynamic. Learn how to do more with Excel using macros.

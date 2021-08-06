@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Caroline Wong
+Course_ID=806158
+Course_System=linkedin.com
+Course_Title=OWASP Top 10: #3 Sensitive Data Exposure and #4 External Entities (XXE)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Open Web Application Security Project (OWASP) was formed to provide the public with the resources needed to understand and enhance software security. The OWASP Top 10 list describes the ten biggest vulnerabilities. In this course, Caroline Wong takes a deep dive into the third and fourth categories of security vulnerabilities in the OWASP Top 10—sensitive data exposure and XML external entities (XXE). Caroline covers how sensitive data exposure and XXE attacks work, providing real-world examples that demonstrate how they affect companies and consumers alike. She also shares techniques that can help you prevent these types of attacks.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kit Eason
+Course_ID=585245
+Course_System=linkedin.com
+Course_Title=What's New in Visual Studio 2017 for F# For Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio 2017 marks an important point in the history of F# and Visual Studio. For the first time, open-source developers have made a major contribution both to the language and to the tools directly available in Visual Studio. In this course, get a quick—yet thorough—tour of the new features and tools available in Visual Studio 2017 and F# 4.1. Kit Eason discusses the new value types that provide an opportunity for performance gains, the new result type which gives you access to the railway oriented programming style of error handling, and program organization and readability changes. Plus, he explores the evolution of tooling for F#, and explains how F# tooling has changed in Visual Studio 2017. To wrap up the course, he shares how you can contribute to the F# language and tooling by getting involved in the open-source community.

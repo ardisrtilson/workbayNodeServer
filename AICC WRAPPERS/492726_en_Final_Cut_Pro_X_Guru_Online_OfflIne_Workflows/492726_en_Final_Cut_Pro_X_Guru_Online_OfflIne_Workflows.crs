@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff I. Greenberg
+Course_ID=492726
+Course_System=linkedin.com
+Course_Title=Final Cut Pro X Guru: Online OfflIne Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Optimize your editing workflow by learning how and when to work with proxies—low resolution copies of your files. Final Cut X is built to intelligently create and handle proxy files, so you can toggle between working with original files and compressed files with ease. In this course, Jeff Greenberg shares why you might want to embrace a proxy workflow by demonstrating the ways it streamlines and improves common post-production steps. Whether your footage is H.264 or ProRes, from a DSLR or from an iPhone, Jeff provides instructions that help you generate manageable media. He starts with a comparison of video resolutions and how it pertains to workflows. Then, he covers how to create proxies and customize your compression presets. He concludes by showing how to switch between online and offline workflows during editing, and how to make a final export. Organizing and archiving are also explored.

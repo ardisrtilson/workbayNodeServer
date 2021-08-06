@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=2880214
+Course_System=linkedin.com
+Course_Title=Maya: Camera Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Maya's camera tools are among the best available in any 3D package. In this course, author Aaron F. Ross shares expert techniques in Maya camera layout and animation. Aaron starts with the basics of creating and manipulating cameras, then goes over aesthetic concerns of visual composition. He explains the major forms and conventions of cinematic camera framing and movement. Aaron covers all types of camera animation, using keyframes, motion trails, scripted expressions, and constraints. He includes a chapter on special effects that delves into extended techniques like isometric views, texture projection, and lens effects. Aaron concludes with an exploration of the Maya Camera Sequencer, a nonlinear editing system for pre-visualization of cinematic scenes with multiple cameras.

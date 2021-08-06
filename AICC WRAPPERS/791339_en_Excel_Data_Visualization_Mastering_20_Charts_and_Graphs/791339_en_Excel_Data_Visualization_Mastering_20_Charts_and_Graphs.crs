@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=791339
+Course_System=linkedin.com
+Course_Title=Excel Data Visualization: Mastering 20+ Charts and Graphs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you think data visualization, you might not think Microsoft Excel. But Excel offers a large number of charts and graphing tools that complement its data analysis toolset. This course offers a laser-focused, practical guide to over 20 useful Excel charts and graphs for data visualization. Instructor Chris Dutton reviews the key principles of data visualization, and provides some introductory tips to help you customize any kind of chart in Excel. In this section, you can learn how to adjust text and cell formatting, change the chart type and axes, and leverage built-in templates. In chapter three, Chris reviews the different chart types: from basic bar and pie charts, to scatter plots, histograms, funnel charts, and sparklines. Plus, learn how to create geospatial heat maps and 3D power maps, and combine different chart types on one sheet.

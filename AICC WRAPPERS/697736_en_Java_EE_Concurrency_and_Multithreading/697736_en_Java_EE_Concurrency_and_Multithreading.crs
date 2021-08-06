@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ketkee Aryamane
+Course_ID=697736
+Course_System=linkedin.com
+Course_Title=Java EE: Concurrency and Multithreading
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unlike the Standard Edition, Java Enterprise Edition (Java EE) supports concurrency. Concurrency is a programming technique—related to parallelism and multithreading—to execute multiple tasks simultaneously, allowing applications to run faster and use resources more efficiently. Understanding Java concurrency is crucial to building modern web applications. In this course, you can learn how to seamlessly integrate concurrency and make your Java applications more efficient and fault tolerant. Instructor Ketkee Aryamane first reviews the multithreading APIs in Java SE—Thread and Runnable—and their limitations, and then explores the four concurrency APIs in Java EE, including demos that show each API in practice. She explains how Java EE makes it possible to communicate between threads, schedule and interrupt threads, and deal with liveness issues. Plus, learn how concurrency works in a distributed environment and how to handle transactions with the Java Transaction API (JTA).

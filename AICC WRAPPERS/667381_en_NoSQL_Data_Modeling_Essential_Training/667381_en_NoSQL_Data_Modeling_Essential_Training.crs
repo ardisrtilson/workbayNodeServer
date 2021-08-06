@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Van Cleave
+Course_ID=667381
+Course_System=linkedin.com
+Course_Title=NoSQL Data Modeling Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+NoSQL technologies have left even experienced data modelers scratching their heads, wondering how their valuable skills can transfer to future development activities. In this course, learn how to leverage your understanding of traditional data modeling to translate a conceptual data model into a NoSQL design. Instructor Robert Van Cleave discusses notation alternatives, access patterns, and the overall purpose of data modeling. He also covers several common design patterns, explaining how you can use each one. Learn about tree aggregation, anti-patterns, query-driven patterns, and more.

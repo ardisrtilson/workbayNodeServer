@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=2874193
+Course_System=linkedin.com
+Course_Title=Xcode 12 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the major features of Xcode 12, the integrated development environment for developers of macOS, iOS, watchOS, and tvOS apps. Instructor Todd Perkins reviews version control and storyboard features, Interface Builder, how to compile and debug apps, and how to test apps in the iOS Simulator. Todd shows you how to download Xcode from Apple and install it. He explains how you can create new projects from templates and walks you through using and customizing the interface. The canvas in Xcode allows you to instantly preview and interact with SwiftUI apps, which allows for rapid creation of user interfaces. Xcode has a variety of ways to manage source control, and Todd covers each one. Interface Builder is the built-in app for building user interfaces in Xcode. Todd explains how to navigate and use it. He concludes by walking you through the features available for debugging and testing your apps.

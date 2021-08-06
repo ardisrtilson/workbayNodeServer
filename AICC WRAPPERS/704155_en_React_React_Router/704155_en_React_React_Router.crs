@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=704155
+Course_System=linkedin.com
+Course_Title=React: React Router
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Client-side routing moves information through applications, sending information where it needs to go. As you move from the simplest React applications to more intricate projects, React Router can help you manage the flow of data through your apps. In this course, explore routing with React Router for both web and native applications. Emmanuel Henri reviews the basics of routing and steps through some common web and native routing use cases. He also provides a brief overview of server-side rendering and discusses testing with React Router.

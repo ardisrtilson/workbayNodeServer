@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Garrick Chow
+Course_ID=2823246
+Course_System=linkedin.com
+Course_Title=Learning Audacity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Audacity is a free, open-source, multitrack audio editing application that can be used to record live audio, edit sound files, change the speed or pitch of a recording, and more. In this course, instructor Garrick Chow demonstrates how to download and install Audacity on both Mac and Windows, record live audio, and import and play existing audio files. See how to perform basic editing tasks such as copying and pasting audio, splitting clips, and adding effects. Garrick also shows more advanced tasks including adding compression and automating volume levels.

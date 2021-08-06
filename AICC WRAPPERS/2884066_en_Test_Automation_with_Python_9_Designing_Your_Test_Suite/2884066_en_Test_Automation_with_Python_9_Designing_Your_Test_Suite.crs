@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2884066
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 9 Designing Your Test Suite
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this installment of the Test Automation with Python, the focus turns from automation to testing. Learn what it means to think like a tester and how to design and run tests on the automation you’ve created with Appium. Key topics covered include knowing what to test so you can run your tests more efficiently, setting up a test runner, working with the page object model, and testing the capabilities of your app on multiple platforms. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

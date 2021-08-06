@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kit Eason
+Course_ID=585248
+Course_System=linkedin.com
+Course_Title=F#: Automated Testing for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Automated testing is a popular topic in software development, but it's still often seen by developers as overhead rather than as an opportunity. By leveraging F# and some external tools and libraries, you can make automated testing easy, enjoyable, and productive. In this course, learn about a variety of techniques for writing automated testing code in F#. Kit Eason explains how to use xUnit—a .NET unit-testing package—to do some test-driven development, and demonstrates how to improve your test run experience using NCrunch, a test runner. He shows how to use FsCheck to generate test cases, and how to use Expecto to move into the world of tests as first-class values. He also covers the use of Canopy to automate the testing of web user interfaces, and of mocking to tame dependencies.

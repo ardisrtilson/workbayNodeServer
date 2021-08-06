@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645036
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 6 Multimedia and Printing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use multimedia effects in Windows development. In this installment of the Developing UWP Apps series—which demonstrates how to build great apps for the Universal Windows Platform (UWP)—explore UWP multimedia and printing concepts. This course covers audio effects, text-to-speech audio, and working with audio and video. Plus, it goes over app printing concepts, customizing print previews, and more. Note: This course was created by Wintellect. We are pleased to host this training in our library.

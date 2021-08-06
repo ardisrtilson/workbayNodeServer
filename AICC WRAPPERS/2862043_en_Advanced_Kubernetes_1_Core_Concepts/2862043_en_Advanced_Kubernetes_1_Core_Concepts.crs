@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Turner
+Course_ID=2862043
+Course_System=linkedin.com
+Course_Title=Advanced Kubernetes: 1 Core Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building and operating Kubernetes clusters is a complex topic of increasing importance in today’s DevOps-driven world. Systems engineers, site reliability engineers, and those who work with IT infrastructure at a deep and programmatic level all need to have a next-level understanding of Kubernetes. In this course, instructor Matt Turner reviews its architecture, starting with an overview of the core components of a Kubernetes cluster and the mechanisms for keeping them available at scale. He reviews the etcd database and shows how to investigate the cluster at a low-level through its API. He then reviews the API request process, from authorization to resource persistence, and explores the controllers and reconciliation loops that drive Kubernetes. The closing chapter covers reconciliation in the dataplane, including managing cloud provider resources with the cloud-controller, and how DNS-based discovery of pod and service IPs works. Note: This course also helps learners prepared for the Certified Kubernetes Administrator (CKA) exam. Find more details on the program at https://www.cncf.io/certification/cka/.

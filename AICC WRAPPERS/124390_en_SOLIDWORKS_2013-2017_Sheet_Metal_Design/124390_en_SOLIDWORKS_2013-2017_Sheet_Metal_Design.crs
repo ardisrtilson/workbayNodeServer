@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=124390
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS 2013-2017: Sheet Metal Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CAD software like SOLIDWORKS makes sheet metal design quick and cost effective. This course gets you up to speed with the sheet metal tools in SOLIDWORKS (versions 2013 through 2017) for designing parts and assemblies, and then takes you on a trip to the factory floor to see the final manufactured results. First, you'll learn to create base features, flanges, and bends that add strength and connections. Then find out how to flatten parts and add holes, cuts, and corners that are manufacturing ready, and use the Convert to Sheet Metal command to convert imported geometry into native sheet metal parts. Author Gabriel Corbett also shows you how to create assemblies from multiple parts, use the Pattern and Mirrors tools to effortlessly duplicate existing work, and then document and export your designs. Finally, take a tour of a sheet metal fabrication company and learn about the machinery and processes that occur during manufacturing.

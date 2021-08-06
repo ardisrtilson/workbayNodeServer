@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Casabona
+Course_ID=2883049
+Course_System=linkedin.com
+Course_Title=WordPress: WP-CLI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While the ease of use of the WordPress dashboard is one of the main draws of the platform, there are instances when using the command-line interface, or CLI, has distinct advantages. For example, repeated actions like updating themes or deleting spam comments can be done with a single CLI command. Using WP-CLI, you can also write scripts to automate processes like nightly backups, updating plugins, or even full WordPress installs. In this course, Joe Casabona takes you through the vast and flexible uses of WP-CLI, starting with basics like managing posts and content, to working with the WordPress database, and everything in between. By the end of this course, you’ll see how to execute nearly all WordPress dashboard tasks from WP-CLI, leaving you with the freedom to decide the best method for each scenario and task.

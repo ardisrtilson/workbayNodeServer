@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Susan Paturzo
+Course_ID=659271
+Course_System=linkedin.com
+Course_Title=Oracle: Customer Service Suite
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Oracle customer service suite—known as Service Cloud—is a powerful tool for managing customer service data. In this course, Susan Paturzo shows to set up and administer a customer service center in Oracle Service Cloud. Topics include configuring user permissions, adding staff members to queues, customizing and prioritizing queues, adding rules for routing and escalation, and building workflows to automate tasks. Susan also helps you create and modify workspaces to fit your company's operation and branding, and build a knowledge base to share solutions with agents and clients. Plus, learn how to create reports and dashboards with the built-in Service Cloud analytics tools.

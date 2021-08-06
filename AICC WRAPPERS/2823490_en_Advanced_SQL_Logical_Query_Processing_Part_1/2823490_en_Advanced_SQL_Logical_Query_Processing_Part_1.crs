@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ami Levin
+Course_ID=2823490
+Course_System=linkedin.com
+Course_Title=Advanced SQL: Logical Query Processing, Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL has been the dominant data processing language for the past five decades. This course takes you beyond the syntax fundamentals, and into a new world of understanding how relational database management systems process SQL queries, and how that impacts your coding practices. Learn about logical query processing, and avoid most common pitfalls and processing limitations. Discover advanced JOIN techniques and how to deal with missing data. Understand the subtleties of ternary logic, SELECT expression evaluation, grouping logic, and how to implement efficient paging and ordering. By the end of the course, you’ll be able to take advantage of the nuances of logical query processing to easily troubleshoot and solve daunting SQL challenges elegantly and efficiently. This course was created by Ami Levin. We are pleased to offer this training in our library.

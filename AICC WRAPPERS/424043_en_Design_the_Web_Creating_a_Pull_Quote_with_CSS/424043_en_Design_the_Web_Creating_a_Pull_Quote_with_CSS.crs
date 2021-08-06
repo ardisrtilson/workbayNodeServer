@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=424043
+Course_System=linkedin.com
+Course_Title=Design the Web: Creating a Pull Quote with CSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to turn block quotes on your webpage into stylish pull quotes with nothing more than CSS. This episode of Design the Web shows how to style HTML quote elements and add quotation marks, citations, and photos with CSS styles and pseudo-elements. You'll also learn how to make responsive design adjustments for small screens. Chris Converse provides free exercise files for every installment of Design the Web. Download the files to practice styling pull quotes on your own website.

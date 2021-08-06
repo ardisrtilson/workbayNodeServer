@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Graham Parkinson
+Course_ID=2213244
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Design a Migration Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A well-planned migration strategy is the first step for successful cloud deployment and ongoing administration. In this heavily theoretical course, instructor Graham Parkinson outlines the key considerations for cloud architects responsible for designing a cloud migration strategy. Graham explores migration types and best practices, covers how to analyze your unique environment, and explains how to avoid common pitfalls. This course is an important first step for anyone designing a migration strategy and can also be beneficial to anyone preparing for the AZ-301: Microsoft Azure Architect Design exam.

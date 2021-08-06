@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=530531
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: DNS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Domain Name System (DNS) is the lifeblood of the Internet; making sure it is configured properly is a key skill for network administrators. DNS connects everything from resources on internal enterprise networks to domains on the World Wide Web. This course explains basic DNS concepts such as zones and name resolution and shows sysadmins how to configure DNS in a Windows Server 2016 environment. Ed Liberman shows how to deploy DNS; create DNS zones; work with different record types; configure queries, caching, and forwarding; and make sure your DNS deployment is secure.

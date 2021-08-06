@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=5016726
+Course_System=linkedin.com
+Course_Title=Bash Patterns and Regular Expressions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Pattern matching allows you to create a script that can act on pieces of data if it matches a specific pattern. This makes it possible to script automation into a system process. In this course, learn how to use pattern matching in a Bash script using globs, extended globs, brace expansion, and regular expressions (regex). Throughout this course, Grant McWilliams covers the differences between basic and extended regexes and delves into using extended regexes in bash conditional statements, grep, sed, and AWK.

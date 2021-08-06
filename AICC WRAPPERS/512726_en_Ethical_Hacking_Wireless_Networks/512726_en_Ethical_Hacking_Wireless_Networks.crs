@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=512726
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Wireless Networks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Wireless networks are convenient and popular, but poor configuration and encryption leave them open to attack. Hackers can use Wi-Fi vulnerabilities to infiltrate your entire network. Security professionals need to know how to detect, prevent, and counter these kinds of attacks using the latest tools and techniques—the subject of this course with cybersecurity expert Malcolm Shore. Malcolm covers everything from configuring basic security to understanding how hackers extract passwords, harvest connections at rogue access point, and attack networks via Bluetooth. He also explains how to select the right antennae for testing and introduces some sophisticated Windows and Linux tools to scan for vulnerabilities, including Acrylic, Ekahau, and Wireshark. By the end of the course, you should be able to shore up your wireless connections and gain confidence that your local network is safe to use. Note: This course is part of our test prep series for the Certified Ethical Hacker exam. Review the complete exam objectives at https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/.

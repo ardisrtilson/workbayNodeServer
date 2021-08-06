@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick W. Crawford
+Course_ID=486043
+Course_System=linkedin.com
+Course_Title=Blender: Python Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make Blender better by harnessing the power of Python. Whether you're an artist or a developer, scripting is a great selling point to add to your resume. Once you master the basics, you can automate time-consuming modeling and animation tasks, customize the Blender interface, or even package to share or sell your enhancements to other users. Patrick W. Crawford shows how to use Blender's built-in Python console window and the bpy library to create simple one-line scripts, create custom panels and menus, and build and package add-ons. These techniques will take your Blender skills to the next level and help you enter an exciting new world of Python programming.

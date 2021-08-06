@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=721898
+Course_System=linkedin.com
+Course_Title=Docker Essential Training: 5 Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the basics of networking with Docker. In this course, join David Davis as he demonstrates how to configure and administer Docker container networking. The topics covered in this course can also prepare you to tackle related objectives from the Docker Certified Associate (DCA) certification exam. David begins by providing a brief overview of how containers communicate on the network. He then covers how to configure Docker networking, explaining how to create a bridge and overlay network; publish ports; and configure DNS, load balancing, and host networking. He also discusses how to troubleshoot Docker networking, including how to use Docker logs to help identify trouble before it happens.

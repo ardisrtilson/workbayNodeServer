@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=587665
+Course_System=linkedin.com
+Course_Title=Windows 10: Plan Desktop and Device Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Demonstrate your fundamental understanding of Windows 10 by taking Microsoft Certification exam 70-697, Configuring Windows Devices. The 70-697 exam is a requirement for obtaining an MCSA: Windows 10 certification. This hands-on, practical course covers the skills necessary for a system admin to plan deployments in Windows 10—and prepare for the Plan Desktop and Device Deployment domain of Microsoft Certification exam 70-697. Brien Posey shows how to perform a migration from Windows 7 to Windows 10, enable and configure Hyper-V, configure mobility options, and work with power plans. Plus, he explains how to encrypt a drive using BitLocker. Review the learning objectives for the Plan Desktop and Device Deployment domain of exam 70-697 at https://www.microsoft.com/en-us/learning/exam-70-697.aspx.

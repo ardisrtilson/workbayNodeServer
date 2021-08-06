@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=2822658
+Course_System=linkedin.com
+Course_Title=Learning Revit 2021
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Revit is one of the most popular building information modeling (BIM) solutions today. In this course, join Paul F. Aubin as he delves into the basics of Revit 2021, showing architects and engineers who are new to the software how to work with its key features. Learn how to choose a template; set up the basic levels, grids, and dimensions; and start adding walls, doors, and windows to your model. Paul also demonstrates how to create views and documentation that clearly communicate your plans, import files from other CAD programs, and produce construction documents.

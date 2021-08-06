@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Liam Cleary
+Course_ID=2881177
+Course_System=linkedin.com
+Course_Title=Introduction to IT Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Historically, managing an IT Infrastructure was a manual process. Administrators would manually check applications and services, hoping they were still working. In this new modern IT world, automating is the best way of managing on-premises, cloud, and hybrid environments. In this course, Microsoft MVP and MCT Liam Cleary walks you through what IT automation is and how you can put it to work for your organization. After defining IT automation and sharing some advantages, disadvantages, and cost reductions that it presents, Liam explains several approaches to automation. It’s not one size fits all, as different organizations will have different needs. He goes over automation tools for Windows, Linux, and the Cloud, then goes in-depth on how you can use scripts to assist in IT automation.

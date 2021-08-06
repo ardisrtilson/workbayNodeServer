@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2825609
+Course_System=linkedin.com
+Course_Title=Learning VirtualBox
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VirtualBox—a free software virtualization package from Oracle that allows you to host multiple operating systems on a single physical machine—is an excellent solution for creating your own practice and testing environments. In this course, learn how to use VirtualBox to create virtual machines on your computer. Instructor Scott Simpson demonstrates how to set up VirtualBox and install both Windows 10 and Linux, complete with guest additions. He also highlights key VirtualBox techniques, including creating and deleting virtual machines, networking, rolling back changes with snapshots, managing VirtualBox from the command line. Plus, get tips for troubleshooting common VirtualBox problems.

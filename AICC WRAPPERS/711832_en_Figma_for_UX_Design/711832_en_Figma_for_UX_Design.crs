@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=711832
+Course_System=linkedin.com
+Course_Title=Figma for UX Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use Figma, an online UX design and collaboration tool, for projects you create or projects distributed across a team. This course begins by explaining what Figma is and how to get a Figma project started. Next, discover how to add content to your design project by working with frames, creating and editing shapes, drawing, adding and formatting text, and more. Plus, learn how to create a prototype, share designs using the collaboration features in Figma, and generate assets for development.

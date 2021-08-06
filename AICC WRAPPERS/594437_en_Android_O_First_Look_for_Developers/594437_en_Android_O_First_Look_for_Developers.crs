@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=594437
+Course_System=linkedin.com
+Course_Title=Android O First Look for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you are an experienced developer who wants to get started with the latest version of Android, you can use this course to learn how to install, set up, and use the new features of Android O. Join instructor David Gassner as he provides a preview of Android Studio 2.4 and then shows you how to target Android O in a new project and set up testing devices. Next, he shows you the new features and enhancements in Android O, including notifications in channels, autofilling data entry components, picture-in-picture video, TextView autosizing, pinnable launcher icons, Wi-Fi Aware, and more. Get ready to learn how to leverage Android O to improve your apps.

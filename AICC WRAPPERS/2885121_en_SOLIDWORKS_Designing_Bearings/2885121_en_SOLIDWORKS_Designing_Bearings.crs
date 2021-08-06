@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Krawchuk
+Course_ID=2885121
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Designing Bearings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bearings are an amazing innovation in mechanical engineering. They can ensure that a part rotates or slides the way you want it to, and can ensure that parts don't move in directions they shouldn't. They can reduce friction, saving energy in your design. In this course, mechanical engineer and certified SOLIDWORKS expert Ryan Krawchuk teaches you the fundamentals of bearings, and models a series of different mechanical bearings, creating complex and dynamic multipart assemblies that behave as they would in the real world. Ryan covers three types of bearings—ball, roller, and spherical bearings—and shows how to design their constituent parts in SOLIDWORKS and combine those parts into a final bearing assembly.

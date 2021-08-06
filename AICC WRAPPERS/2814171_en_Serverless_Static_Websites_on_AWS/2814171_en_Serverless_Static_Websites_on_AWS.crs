@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brett McLaughlin
+Course_ID=2814171
+Course_System=linkedin.com
+Course_Title=Serverless Static Websites on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AWS and cloud computing are arguably the most important paradigm shifts for developers in the last 10 years. And as the technology grows more sophisticated, it's important for developers to evolve to understand the cloud as a fundamentally different way to host applications and websites. Rather than building a website in a traditional manner—with traditional headaches and costs—developers need to easily and correctly be able to determine when to use Amazon Simple Storage Service (Amazon S3) as a hosting mechanism. In this course, instructor Brett McLaughlin shows developers how to make the switch to serverless, explaining how to take a website and convert it from a traditional site—whether it's running on premises or in the cloud—to a serverless site. In about two hours, Brett steps through how to host a simple static website, configure CloudWatch to monitor your S3-hosted static website, use dashboards to get a quick look at how your site is doing, and more.

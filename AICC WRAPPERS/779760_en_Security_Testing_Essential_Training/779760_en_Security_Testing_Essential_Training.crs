@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=779760
+Course_System=linkedin.com
+Course_Title=Security Testing Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To provide your organization with confidence, you need to perform testing to prove it's secure. However, not all security testing is the same. A risk assessment is not a vulnerability assessment; a penetration test won't measure compliance. For a successful career, a security analyst needs to have an understanding of the many different types of security testing and know when and how to implement them. This course provides the resources you need to set up a testing environment, plan assessments, identify targets, and begin executing security tests. Instructor Jerod Brennen also helps you analyze test results and draft a report of your findings. Plus, see popular testing frameworks tools in action, include Nmap, Nessus, Wireshark, Lynis, OWASP ZAP, Aircrack-ng, and hashcat, as run on a Kali Linux virtual machine. Note: This course aligns with the National Institute of Standards and Technology (NIST) special publication on information security testing (SP 800-115).

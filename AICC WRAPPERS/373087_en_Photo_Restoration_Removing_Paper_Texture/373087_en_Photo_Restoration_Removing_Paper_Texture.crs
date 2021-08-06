@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Rhodes
+Course_ID=373087
+Course_System=linkedin.com
+Course_Title=Photo Restoration: Removing Paper Texture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many vintage photos were printed on textured, silk-finish photographic paper. If you're restoring an old photo, you'll want to remove this texture to get the cleanest, sharpest results. In this course, master retoucher Neil Rhodes shows a variety of techniques for removing paper texture, from scanning the photo in multiple angles to using a sophisticated Photoshop plugin called FFT to process photos on Windows.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2828014
+Course_System=linkedin.com
+Course_Title=AWS Certified Solutions Architect - Associate (SAA-C02): 9 Services and Design Scenarios
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the variety of services offered by Amazon—including available DevOps services and analytics engines—and review AWS design best practices as you prepare for the 2020 AWS Certified Solutions Architect - Associate (SAA-C02) exam. Instructor Tom Carpenter helps to familiarize you with various AWS media creation, management, and distribution services; security services; and ElastiCache, the fully managed, in-memory data store and cache service. He then shares strategies for achieving operational excellence with AWS, going over tactics for resilient, performant, and secure design, as well as cost optimization. Along the way, he demonstrates how to apply these best practices in real-world scenarios. Each lesson helps you study for key objectives from the latest version of the SAA-C02 exam, and earn this critical career-boosting certification. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=685032
+Course_System=linkedin.com
+Course_Title=Microsoft Azure: Backup and Disaster Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The most important components of disaster recovery are proper planning and the proper tools. This course shows IT admins how to protect system resources before disaster strikes using the comprehensive backup, restore, and site recovery solutions in Microsoft Azure. Instructor Sharon Bennett—a Microsoft Certified Solutions Expert—shows how to configure backups of virtual machines, files and folders, and Microsoft SQL Server, and restore data from those backups. She covers features such as Azure Backup, Recovery Services, Backup Server, and the System Center Data Protection Manager (DPM). There is also in-depth coverage of Azure Site Recovery (ASR), which allows businesses to fail over to systems at a secondary location. In that chapter, Sharon shows how to use ASR to protect Hyper-V and Azure virtual machines, test your ASR configuration, and fail over to and fail back from the replicated VMs.

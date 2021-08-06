@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=681097
+Course_System=linkedin.com
+Course_Title=Docker Essential Training: 2 Orchestration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance your Docker skillset by learning about Docker container technologies, with an emphasis on container orchestration. In this course, instructor David Davis covers how Docker container orchestration works and shares important tips you'll need to prepare for the Docker Certified Associate (DCA) exam. Specifically, he steps through how to set up a Docker Swarm cluster, deploy Swarm services, troubleshoot Docker Swarm, and more. By reviewing these concepts, he helps to prepare you for the first domain of the Docker Certified Associate exam.

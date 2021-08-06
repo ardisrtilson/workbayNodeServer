@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chou
+Course_ID=2838123
+Course_System=linkedin.com
+Course_Title=Cisco DevNet Associate Cert Prep 1: Software Development and Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare for the Cisco DevNet Associate certification exam. The course reviews the core principles and best practices for developing network applications on top of Cisco platforms—topics that align with objectives from the first domain of the DevNet Associate exam: Software Development and Design. Instructor Eric Chou reviews the basics, such as common data formats, test-driven development, and popular design patterns. Discover how to manipulate XML, JSON, and YAML with Python. Familiarize yourself with the fundamentals of waterfall, lean, and agile development methodologies. Discover best practices for writing reusable code and explore the benefits of software design patterns and version control. These lessons help you become a more productive, efficient developer—and get one step closer to this career-boosting Cisco certification.

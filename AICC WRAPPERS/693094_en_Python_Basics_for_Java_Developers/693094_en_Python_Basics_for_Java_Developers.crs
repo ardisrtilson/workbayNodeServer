@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Deepa Muralidhar
+Course_ID=693094
+Course_System=linkedin.com
+Course_Title=Python Basics for Java Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python is powerful, popular, and allows you to get your programs up and running in relatively few steps. If you're a Java developer interested in learning this highly readable language, then this course is for you. Join Deepa Muralidhar as she helps to acquaint you with the basics of Python. Deepa begins by going over Python syntax and highlighting the essential differences between Python and Java. She then dives into basic concepts—including selection statements and arrays—and discusses functions, methods, and object-oriented programming in Python.

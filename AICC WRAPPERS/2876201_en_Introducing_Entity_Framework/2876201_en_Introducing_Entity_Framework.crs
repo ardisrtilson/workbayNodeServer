@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft .NET, Cam Soper
+Course_ID=2876201
+Course_System=linkedin.com
+Course_Title=Introducing Entity Framework
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Instructor Cam Soper introduces Entity Framework (EF) Core. EF Core is an object-relational mapper (ORM) that simplifies working with relational databases using strongly typed .NET objects. Cam shows you how to reverse engineer an existing database for use with EF Core. He explains that ASP.NET and EF Core are a perfect match to accelerate your web app development. He demonstrates how to use SQLite and Azure Cosmos database providers with EF Core. Cam concludes by exploring several ways you can optimize your EF Core code. This course was created by Microsoft.NET. We are pleased to host this training in our library.

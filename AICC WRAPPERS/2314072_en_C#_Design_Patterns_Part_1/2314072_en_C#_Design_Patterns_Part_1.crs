@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Goforth
+Course_ID=2314072
+Course_System=linkedin.com
+Course_Title=C#: Design Patterns Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns are an important part of programming. Rather than programming solutions to every issue from scratch, developers can implement these patterns that solve common problems. In this course, instructor Richard Goforth explains the purpose and effective use of key design patterns in C#. Richard begins by discussing why design patterns make sense, what they are, and how they are grouped and categorized. He then provides an overview of the creational, behavioral, and structural Gang of Four design patterns and how they are applied in C# and .NET. Next, he takes a deeper dive into the Iterator, Factory Method, and Adapter patterns, providing hands-on challenges that help you master the application of these patterns in your own code.

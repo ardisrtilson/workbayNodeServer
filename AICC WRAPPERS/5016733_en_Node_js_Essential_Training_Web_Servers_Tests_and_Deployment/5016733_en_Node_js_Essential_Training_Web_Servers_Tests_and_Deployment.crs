@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Banks
+Course_ID=5016733
+Course_System=linkedin.com
+Course_Title=Node.js Essential Training: Web Servers, Tests, and Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deepen your essential knowledge of Node.js. Node.js is a powerful tool for controlling servers and building web applications. This training course provides a strong foundation in those intermediate-level topics: working with web servers and testing and deploying applications. Instructor Alex Banks introduces the HTTP module for making HTTP requests and shows how to install and manage Node.js modules with the node package manager (npm). He also dives into WebSockets for real-time two-way communication between web servers and clients—and demos a chat application that puts it to good use. In the final chapter, he shows how to test and debug Node.js code and use available tooling to streamline common tasks, such as compiling and minification.

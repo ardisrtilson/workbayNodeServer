@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Stratton
+Course_ID=2848240
+Course_System=linkedin.com
+Course_Title=Outlook: Automating Your Email with Mail Rules
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Did you know that email can be automated quickly and easily with Outlook mail rules? In this short course, Jess Stratton walks through how to customize mail rules so you can spend less time in Outlook and more time being productive. Jess begins with a quick overview of what mail rules can do. She offers useful advice to help you brainstorm rule conditions that will streamline your own email. Next, she shows how to set rule actions for each condition. Because rules are sometimes meant to be broken, Jess covers creating exceptions to a rule, to allow flexibility in the way Outlook processes your email. Finally, Jess demonstrates how to manage Outlook rules over time by editing, deleting, and disabling rules.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Gonzalez
+Course_ID=433518
+Course_System=linkedin.com
+Course_Title=Windows 10: Configure, Secure, and Manage Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows 10 is the latest release of Microsoft's market-leading client OS. Being able to configure, secure, and manage Windows 10 data is key for any IT professional. This course is designed for help desk technicians and system administrators who wish to upgrade their skills and knowledge of the latest Windows features and technologies. Using the tools that come with a standard Windows build, James Gonzalez shows how to configure data storage (on client devices and on OneDrive), secure data with good authentication practices, encrypt data with EFS and BitLocker, and manage data access to shared folders, printers, and hard drives. He also shows how to set up file sharing for an organization using HomeGroup networks and NTFS permissions. This course is also part of a series designed to help you prepare for the Microsoft exam 70-697: Configuring Windows Devices.

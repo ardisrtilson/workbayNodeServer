@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=2871211
+Course_System=linkedin.com
+Course_Title=Protecting Your Network with Open Source Software
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network protection is vital to organizations big and small, but it doesn't have to be an expensive proposition. Learn how to protect your network with open-source tools, and do it completely free. Jungwoo Ryoo shows how to set up firewalls, investigate network traffic with a packet analyzer, detect threats and malicious activity with an intrusion-detection system, and enable network logging and monitoring. Start here for a low-cost route to a more secure network.

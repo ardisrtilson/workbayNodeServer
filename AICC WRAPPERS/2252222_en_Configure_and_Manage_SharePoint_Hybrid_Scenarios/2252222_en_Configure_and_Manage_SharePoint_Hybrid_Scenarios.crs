@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2252222
+Course_System=linkedin.com
+Course_Title=Configure and Manage SharePoint Hybrid Scenarios
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In today’s complex computing environment, you need more than simple on-premises solutions. Microsoft SharePoint is a significant component of Microsoft 365 solutions. In this course, learn how to create, configure, and implement a hybrid solution involving both SharePoint Online and SharePoint on-premises. Instructor Ed Liberman shows how to plan a hybrid topology, implement hybrid teamwork artifacts and a hybrid search service application, and configure and manage an on-premises data gateway. Plus, he shares tools and tips for migrating content to SharePoint Online. This course can help you prepare for the Configure and Manage SharePoint Hybrid Scenarios domain of the Microsoft Deploying SharePoint Server Hybrid (MS-301) exam.

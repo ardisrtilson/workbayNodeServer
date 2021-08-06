@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Duane Loose
+Course_ID=473884
+Course_System=linkedin.com
+Course_Title=3ds Max: Medical Product Visualization with Arnold
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3ds Max—combined with its rendering engine, Arnold—can help you create dynamic content for the presentation of product ideas and concepts. In this course, learn how to use 3ds Max and Arnold to create compelling product visualizations for medical devices. Instructor Duane Loose starts by showing how to set up 3ds Max 2018 for Arnold rendering, and how to import CAD assets. Duane then covers materials, how to build a material library, and how to light and render your scenes. To wrap up, Duane discusses compositing and output, including how to leverage Photoshop and After Effects to prepare your imagery for marketing and promotional materials.

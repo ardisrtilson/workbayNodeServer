@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5019840
+Course_System=linkedin.com
+Course_Title=Java EE 7: Enterprise JavaBeans (EJB)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get introduced to Enterprise Java Beans (EJB) in Java EE 7. Emmanuel Henri walks you through the entire creation of an EJB application programming interface (API). He begins by explaining the benefits EJB. He covers how to set up a database, overcome errors, and create a project. Then, he discusses the fundamentals of session beans and how the syntax of a bean works. Next, he shows how to create message-driven beans. Lastly, he goes through how to create servlets and how to test the EJB items in the server.

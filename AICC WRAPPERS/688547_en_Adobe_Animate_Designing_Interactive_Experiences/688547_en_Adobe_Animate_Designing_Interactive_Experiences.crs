@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=688547
+Course_System=linkedin.com
+Course_Title=Adobe Animate: Designing Interactive Experiences
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interactivity is not a perk for modern web projects—it's a prerequisite. Learn what you need to go beyond the basics and create engaging, interactive apps and web experiences using the tools in Adobe Animate. Instructor Joseph Labrecque shows how to build out a library of UI elements, such as buttons, toggles, sliders, and lists. He shows how to use these building blocks to design application views within the Animate timeline and create a persistent navigation bar. Then he shows how to add interactivity—using event listeners and custom functions to respond to user input—and animate application views with keyframes, motion tweening, and camera transitions. Finally, learn how to export your prototypes for distribution on desktop, web, and mobile devices.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Yahalom
+Course_ID=601794
+Course_System=linkedin.com
+Course_Title=Oracle Database 12c: Advanced SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mastering SQL is an essential skill for any Oracle professional—and the first step in becoming a true Oracle expert. In this course, Oracle instructor and consultant David Yahalom covers advanced aspects of coding using SQL in an Oracle Database 12c environment. David goes over key topics that can help you develop your Oracle SQL expertise, including database concurrency; transactions; Oracle-specific schema objects such as indexes and PL/SQL procedures, functions, and packages; and table partitioning.

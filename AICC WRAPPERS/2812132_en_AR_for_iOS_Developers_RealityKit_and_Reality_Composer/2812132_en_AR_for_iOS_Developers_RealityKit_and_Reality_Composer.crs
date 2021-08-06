@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Advent
+Course_ID=2812132
+Course_System=linkedin.com
+Course_Title=AR for iOS Developers: RealityKit and Reality Composer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the RealityKit framework, you can integrate virtual objects into the real world to build striking augmented reality (AR) experiences. Reality Composer, a powerful new app for iOS and Mac, makes it easy to create 3D content that you can add to the app you're building with RealityKit. In this course, learn the fundamentals of working with RealityKit, as well as how to use Reality Composer to create interactive AR experiences with no prior 3D experience. After showing you how to quickly build an AR app with RealityKit, instructor Brian Advent demonstrates how to create content and interactions with Reality Composer. Then, see how to use Reality Composer and Xcode together to create apps that display content based on 2D images and 3D objects found in the real world.

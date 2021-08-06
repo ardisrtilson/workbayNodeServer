@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=2887316
+Course_System=linkedin.com
+Course_Title=Using SQL with Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you familiar with SQL? Do you know Python? Are you interested in understanding how these two languages work together? Then join Bill Weinman in this course as he shows the power of these two languages combined. Bill starts with some basics—connecting to a database, performing simple queries, and reading rows from a table. He covers how to use prepared statements and cursors, how to build a wrapper class to streamline the SQL interface and support multiple different database engines, and how to build a CRUD class and a full-featured web application using what you've learned. Many applications require a combination of SQL and Python, and after finishing Bill’s course, you’ll have a better understanding of why and how you can leverage the power of these two languages together.

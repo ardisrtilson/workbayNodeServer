@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=2700204
+Course_System=linkedin.com
+Course_Title=Unreal: Creating Visualization Cinematics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cinematics allow artists to highlight key components of a design to tell the story of a home or building concept. As these sequences allow you to quickly show clients what you've been working on—or show off key areas of a project that might otherwise go unnoticed—cinematics are a critical component of any architectural presentation. Unreal has a powerful toolset for creating cinematics that can help artists take their architectural visualization projects to the next level. In this course, learn how to leverage this toolset to create, enhance, and render out cinematics in Unreal. Learn how to work with the Sequencer Editor, create sweeping camera moves, add fades and cuts, and more.

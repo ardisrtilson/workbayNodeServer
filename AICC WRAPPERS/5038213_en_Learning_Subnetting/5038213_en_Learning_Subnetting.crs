@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=5038213
+Course_System=linkedin.com
+Course_Title=Learning Subnetting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+IP subnetting is one of the most challenging, yet most critical, skills for IT professionals to acquire. In this course, you can learn the basics of IPv4 addressing and master the skill of IP subnetting. Explore the structure of an IPv4 address and the difference between public and private IPv4 addresses. Learn how to convert between binary and decimal numbers. In these chapters, instructor Kevin Wallace explains how to determine the subnet bits you need in order to create a specific number of subnets, how many host bits are required to support a specific number of hosts, and the range of usable addresses for each subnet. Plus, learn how to troubleshoot incorrectly assigned IPv4 addresses and use Classless Interdomain Routing to efficiently summarize IP addresses.

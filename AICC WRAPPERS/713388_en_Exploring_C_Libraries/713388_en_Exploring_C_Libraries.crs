@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=713388
+Course_System=linkedin.com
+Course_Title=Exploring C Libraries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+External libraries expand the C language's capabilities, allowing developers to build programs that can do all manner of amazing things. In this course, learn how to tap into the power of external libraries to access complex data, interact with the web, play with graphics, and more. Instructor Dan Gookin covers a variety of C libraries—from libcurl to ncurses—explaining how to install and test each one. Dan highlights libraries that allow you to manipulate JSON; save and send web data; work with text; read, write, and manipulate image data; and more. Along the way, he provides sample code and demonstrations to help make these concepts stick.

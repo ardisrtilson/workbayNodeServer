@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Vladimir Mariano
+Course_ID=685025
+Course_System=linkedin.com
+Course_Title=Fusion 360: Basic Part Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how design for the real world with Autodesk Fusion 360 to practice modeling parts that match real-life constraints. This course takes you through how to measure objects and create models for parts that are manufacture-ready. Design basics are covered first, including using the tools in Fusion 360. Then, project-based instructions are provided for creating a battery holder that meets valid constraints. Next, reference drawings are used to demonstrate how to modify dimensions according to various specifications. Additionally, several design and modeling steps are shown, involving sketching, extruding, using calipers, fixing over-constraint errors, adjusting appearances, calibrating canvases, and more.

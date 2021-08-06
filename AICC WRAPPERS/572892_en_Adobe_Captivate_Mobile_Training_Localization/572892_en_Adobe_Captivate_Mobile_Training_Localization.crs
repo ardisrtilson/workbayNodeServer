@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pooja Jaisingh
+Course_ID=572892
+Course_System=linkedin.com
+Course_Title=Adobe Captivate: Mobile Training Localization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Localizing your elearning content allows it to be received by a broader audience. You can use Adobe Captivate to create multiple translations and adaptations of your courses to ensure the information is understood in varying contexts. Join Pooja Jaisingh as she demonstrates how to use the localization capabilities of Captivate. She covers the how to create courses with localization in mind, including how to modify metadata, work with variables, use multistate objects, and more. By the end of the course, you should be able to create single-branched courses that are location-aware with conditional behaviors and responses.

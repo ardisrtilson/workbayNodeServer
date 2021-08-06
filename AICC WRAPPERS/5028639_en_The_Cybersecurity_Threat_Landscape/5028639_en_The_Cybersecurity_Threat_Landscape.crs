@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marc Menninger
+Course_ID=5028639
+Course_System=linkedin.com
+Course_Title=The Cybersecurity Threat Landscape
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As IT systems continue to grow in complexity, cybersecurity threats are becoming increasingly more effective and damaging. News headlines regularly announce enormous data breaches and sophisticated hacks. How are these attackers getting in, and what actions can you take to protect against them? In this course, Marc Menninger describes some of the most common cybersecurity threats, including phishing and ransomware, as well as newer attack vectors like cryptojacking, cloud-based threats, and unsecured Internet of Things (IoT) devices. He then teaches the best countermeasures for reducing or eliminating the impact of these threats.

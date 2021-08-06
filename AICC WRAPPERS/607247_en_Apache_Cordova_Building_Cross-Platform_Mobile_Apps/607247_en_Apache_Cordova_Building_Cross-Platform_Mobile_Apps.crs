@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Duffy
+Course_ID=607247
+Course_System=linkedin.com
+Course_Title=Apache Cordova: Building Cross-Platform Mobile Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cordova allows mobile developers to create native apps by leveraging a single reusable codebase across multiple platforms. You simply develop the app components using standard web technologies (HTML, CSS, and JavaScript) and use Cordova to create a native app. Cordova makes it easy to access OS-specific device capabilities. Learn more about the benefits of using Cordova for your next app development project, in these tutorials with Tom Duffy. Tom shows you how to create a modern, location-aware app that integrates with the Google Maps API, and style it to look like a native app. Then he uses the Cordova CLI to prepare it for deployment on iOS and Android (via Xcode and Android Studio). By the end of the course, Thomas completes a simple project with Cordova, and provides you with some ideas for improving the app with custom icons, a splash screen, directions, and pop-up info windows.

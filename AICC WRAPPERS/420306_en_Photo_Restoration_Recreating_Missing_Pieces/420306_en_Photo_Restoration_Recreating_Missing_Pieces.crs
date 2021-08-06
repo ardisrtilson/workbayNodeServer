@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Rhodes
+Course_ID=420306
+Course_System=linkedin.com
+Course_Title=Photo Restoration: Recreating Missing Pieces
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most challenging photo restoration tasks involves recreating missing pieces of a severely damaged photo. In this course, master restorationist Neil Rhodes steps through examples of severely damaged photos, showing how to reconstruct missing faces and body parts, as well as objects and background details, with Photoshop's Patch command, content-aware toolset, and the Puppet Warp tool.

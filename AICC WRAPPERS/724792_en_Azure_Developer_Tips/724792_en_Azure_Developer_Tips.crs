@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Benkovich
+Course_ID=724792
+Course_System=linkedin.com
+Course_Title=Azure Developer Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Azure is a cloud platform that gets better every day. Over 800 new features were added in 2017 alone. This series helps new and experienced developers and DevOps engineers keep up with the changes. Instructor Mike Benkovich showcases what's new and compelling in Azure, using the tools to build short, one-off projects, such as a .NET web app or a continuous delivery pipeline with Visual Studio.

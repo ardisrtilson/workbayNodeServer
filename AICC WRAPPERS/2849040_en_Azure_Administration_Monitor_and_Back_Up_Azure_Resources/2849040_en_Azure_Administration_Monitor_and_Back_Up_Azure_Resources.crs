@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2849040
+Course_System=linkedin.com
+Course_Title=Azure Administration: Monitor and Back Up Azure Resources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to monitor and back up your resources correctly is essential to successfully managing your Azure infrastructure. In this course, explore key Azure services that are designed to help you manage your backups and recover easily from a data glitch or disaster. Instructor Sharon Bennett covers Azure Monitor, explaining how to use it to configure metrics and Log Analytics, as well as set up alerts and actions. Sharon discusses how to perform a site-to-site recovery and create a Recovery Services vault. Plus, she provides opportunities for you to attempt hands-on challenges on your own. The topics covered in this course will help to prepare you for the AZ-104 certification exam for Microsoft Azure Administrators.

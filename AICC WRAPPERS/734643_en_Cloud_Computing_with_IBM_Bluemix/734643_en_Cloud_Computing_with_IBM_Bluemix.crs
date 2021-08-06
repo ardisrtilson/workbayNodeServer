@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harshit Srivastava
+Course_ID=734643
+Course_System=linkedin.com
+Course_Title=Cloud Computing with IBM Bluemix
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the benefits of cloud computing with Bluemix, the PaaS offering from IBM Cloud. Learn about the available services under the Platform and Infrastructure categories, and what developers can do with each service. Instructor Harshit Srivastava runs down the compute, storage, and network and security offerings, as well as solutions for mobile, DevOps, artificial intelligence, serverless, blockchain, and continuous delivery. Then he provides practical examples of Bluemix in action: creating an AI-powered chatbot with Watson Assistant; building and deploying web apps with Cloud Foundry; creating a DevOps toolchain for continuous delivery; using block storage and containers; and leveraging boilerplate code. Plus, learn how to use tools such as Bluemix Analytics Engine and Streaming Analytics to gain deeper insights on everything from big data analysis to streaming data from social media.

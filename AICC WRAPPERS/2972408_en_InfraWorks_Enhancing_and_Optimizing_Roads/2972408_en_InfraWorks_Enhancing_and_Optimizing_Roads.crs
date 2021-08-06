@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=2972408
+Course_System=linkedin.com
+Course_Title=InfraWorks: Enhancing and Optimizing Roads
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk InfraWorks offers unparalleled features for helping transportation planners and civil engineers efficiently plan and design roads. In this course, you can learn how to optimize and enhance roads within an existing InfraWorks model. Instructor Lynda Sharkey shows how to use style-based roads to more precisely control geometry and grades. In addition, she demonstrates how to create your own component assemblies that use vertical as well as horizontal geometry for more advanced capabilities, such as superelevation, as well as how to analyze and optimize the roads that you create. Plus, learn how to analyze traffic flow and display color-coded traffic analysis results by setting up InfraWorks traffic simulations.

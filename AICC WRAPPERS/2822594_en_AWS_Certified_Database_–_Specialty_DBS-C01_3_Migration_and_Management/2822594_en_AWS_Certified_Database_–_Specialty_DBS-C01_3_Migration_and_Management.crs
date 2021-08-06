@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2822594
+Course_System=linkedin.com
+Course_Title=AWS Certified Database – Specialty (DBS-C01): 3 Migration and Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Validate your understanding of how to design and maintain AWS database solutions by earning the AWS Certified Database – Specialty certification. In this course—the third installment in a series—review database migration strategies and the basic processes used in database management as you prepare for exam DBS-C01. Instructor Tom Carpenter covers how to formulate an effective database migration strategy, prepare data for migration, and execute and validate a data migration. He then goes over key processes for managing databases, including how to extract, load, and archive data and perform both an unmanaged and managed database backup. To wrap up, he discusses how to manage database services, including how to work with DynamoDB and Redshift. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

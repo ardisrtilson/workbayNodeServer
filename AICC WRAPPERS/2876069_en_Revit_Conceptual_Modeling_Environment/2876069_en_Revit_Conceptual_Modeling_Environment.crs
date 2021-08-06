@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=2876069
+Course_System=linkedin.com
+Course_Title=Revit: Conceptual Modeling Environment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning the basics of model building in Revit is mostly quick and easy. The essentials of core elements such as walls, floor, and roofs are accessible and fairly intuitive. For more unique and specialized design challenges, discovering appropriate tools and techniques can be more challenging. Many advanced modeling techniques are available, and some are more obvious and intuitive than others. In this course, Paul F. Aubin dives deep into the tools that the Revit conceptual modeling environment has to offer. Whether you want to do a simple building massing study or pro forma analysis, or delve deep into complex shapes and forms like lofted forms, free-form geometry, patterning and repeat tools, the massing environment offers these and many more. Paul mixes standard techniques and outside-the-box thinking as he explores many ways to take your Revit modeling skills to the next level.

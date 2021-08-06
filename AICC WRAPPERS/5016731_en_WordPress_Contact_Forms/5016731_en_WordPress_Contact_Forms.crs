@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Rauland
+Course_ID=5016731
+Course_System=linkedin.com
+Course_Title=WordPress: Contact Forms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a maker of WordPress-powered websites, you've likely needed to create and add many contact forms. In this course, take a closer look at the task of creating contact forms for your WordPress site. Using three different plugins—Jetpack, Ninja Forms, and Gravity Forms—instructor Patrick Rauland walks through the process of setting up and configuring each plugin, working with the advanced features in each option, and receiving form submissions. Contact forms are a must-have for any WordPress-powered website, and these plugins—which range from simple and free to complex and pricey—can do a lot more than just ask for names, addresses, and messages. Unleash the power of contact forms, and find the plugin that's right for you.

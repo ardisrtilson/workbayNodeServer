@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2825369
+Course_System=linkedin.com
+Course_Title=Installing and Running Ruby on Rails 6
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to install and configure Ruby on Rails 6 on a Windows or Mac computer. This practical course covers everything you need to know to get Ruby on Rails, MySQL, and all of the supporting software up and running. Instructor Kevin Skoglund begins by stepping through how to set up a complete development environment—including Ruby, MySQL, and RubyGems—on macOS, as well as how to choose a text editor for Ruby on Rails development. Kevin then goes over the same process in Windows. To wrap up, he shows how to create, configure, and launch a Ruby on Rails project to ensure that your new installation is working properly. Whether you want to dive into the Ruby on Rails courses in our library or get your own project up and running, this course can help you get started.

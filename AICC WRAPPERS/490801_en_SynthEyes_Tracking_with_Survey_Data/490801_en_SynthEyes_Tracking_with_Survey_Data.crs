@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Morse
+Course_ID=490801
+Course_System=linkedin.com
+Course_Title=SynthEyes: Tracking with Survey Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Being able to use real-world survey data to solve cameras is a powerful tool in 3D tracking. Survey data can help you speed up your workflow, solve difficult shots more accurately, and even help you solve multiple cameras. This short course teaches you how to set up and solve a survey shot using SynthEyes—concentrating on data from still images, but also using data from 3D models and text files. Author Brian Morse introduces several methods of solving the survey shot, and then shows how to solve multiple cameras at the same location so they all fit accurately in the same scene.

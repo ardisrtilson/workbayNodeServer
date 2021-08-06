@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=110284
+Course_System=linkedin.com
+Course_Title=Java: Database Integration with JDBC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're building a web- or desktop-based application with Java SE or Java EE, many Java applications need to integrate data from a relational database. This course describes how to read and manage data from relational databases such as MySQL and SQL Server using the Java Database Connectivity (JDBC) API. Author David Gassner explains how to choose a JDBC driver and connect to one or more databases. He also provides detailed instructions on reading, selecting, and updating data; calling stored procedures; managing data via JavaBean classes or with prepared statements; and working with metadata.

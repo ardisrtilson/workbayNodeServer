@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=2700208
+Course_System=linkedin.com
+Course_Title=Microsoft Cloud Fundamentals: Administering Office 365 and Intune
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to keep your users secure and up to date by configuring cloud identity and authentication with Azure AD and Office 365, and enterprise-level mobile device management with Intune. This course covers key topics related to the administration of these services, including users, groups, policies, and roles. It's ideal for IT professionals responsible for their company's cloud operations. Follow along with Andrew Bettany as he covers creating user groups within both Office 365 and Intune, assigning administrative roles, and configuring mobile device management.

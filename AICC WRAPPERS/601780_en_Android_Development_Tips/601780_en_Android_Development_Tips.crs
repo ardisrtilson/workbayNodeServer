@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=601780
+Course_System=linkedin.com
+Course_Title=Android Development Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this series, David Gassner shares tips and tricks that you can use to code smarter and create fast, reliable apps that look great. David provides tips on a variety of topics—some of which help you enhance your app's user interface, and others which focus on back-end processing. Plus, he covers some open-source libraries that can help you enhance your development workflow.

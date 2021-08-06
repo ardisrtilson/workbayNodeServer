@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2885260
+Course_System=linkedin.com
+Course_Title=Data Steward Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data stewardship programs help organizations achieve the maximum value from their information assets. In this course, instructor Mike Chapple shows you the basic foundations of data stewardship and best practices for getting your own data stewardship program off the ground. Mike explores the roles, qualities, and responsibilities of a data steward. He goes over best practices for maintaining data quality, then explains the many protections that go into maintaining data security. Mike discusses privacy controls and the patchwork of international, national, and local laws that govern data security and privacy. He concludes with useful steps you can take in building a data stewardship program.

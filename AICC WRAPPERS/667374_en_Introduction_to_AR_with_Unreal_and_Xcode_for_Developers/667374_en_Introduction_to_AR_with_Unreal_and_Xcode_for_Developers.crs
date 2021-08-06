@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=667374
+Course_System=linkedin.com
+Course_Title=Introduction to AR with Unreal and Xcode for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course introduces web and mobile developers to augmented reality (AR) using real-world code and examples with Unreal Engine and Xcode. Instructor Emmanuel Henri starts with a brief review of what AR is, exactly, and an explanation of the necessary installation and setup tasks you'll need to get started. He then discusses how to build an AR environment, explaining how to approach the initial creation of a project, create the element that will be used as the AR orientation of your device, and set up a pass-through camera. To wrap up, he shares how to finalize a project by adding interest to your scene using lighting, and how to do a final test of a project once all the elements are in place.

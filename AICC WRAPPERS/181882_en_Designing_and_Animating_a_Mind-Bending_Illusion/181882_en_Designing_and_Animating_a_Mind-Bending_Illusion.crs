@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Deke McClelland
+Course_ID=181882
+Course_System=linkedin.com
+Course_Title=Designing and Animating a Mind-Bending Illusion
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn what it takes to design your own mind-bending illusion, in this installment of Designs dekeConstructed—the series that breaks down popular graphic designs and show you how to re-create them on your own. Deke starts out by drawing an impossible Penrose triangle and a golden ball in Adobe Illustrator. Next, he plots a path for the ball to follow around the triangle. Last, he moves to Photoshop, where he shows you how to animate the ball with a combination of layer masks and the timeline.

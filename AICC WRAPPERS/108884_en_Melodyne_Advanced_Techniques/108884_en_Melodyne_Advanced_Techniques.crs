@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Skye Lewin
+Course_ID=108884
+Course_System=linkedin.com
+Course_Title=Melodyne: Advanced Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, producer and engineer Skye Lewin reveals the techniques that professional musicians and producers use to get the best-sounding results from Melodyne. The course covers digital audio workstation (DAW) and session preparation, and shows how to perform rhythm and pitch corrections on both lead and background vocals. It includes lessons on importing and exporting tracks between the DAW and the standalone version of Melodyne, as well as utilizing Melodyne as a plug-in, through ReWire, and through Melodyne Bridge. Skye also shows how to use a MIDI keyboard to edit the pitch of a recorded performance in Melodyne and how to trigger a MIDI instrument using an audio recording.

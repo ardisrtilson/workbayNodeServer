@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2814069
+Course_System=linkedin.com
+Course_Title=Applied AI for IT Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+IT operations is one of the key business functions for modern enterprises. As data centers become large, distributed, and integrated, the need to monitor and manage hardware, software, networks, and data increases exponentially. And while the elements in a network generate tons of data in terms of logs and events, the need to collect and understand this data to predict future outcomes is also increasing. In this course, learn how to solve common challenges in IT operations using the power of AI. Instructor Kumaran Ponnambalam reviews the key issues that IT ops teams face in their day-to-day operations. He then goes over several uses cases in the world of IT ops, explaining in detail how AI technology can speed up processes like root cause analysis, improve response times at your IT help desk, and more. Along the way, he uses Python, Jupyter Notebooks, Keras, and deep learning techniques to step through practical solutions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Hur
+Course_ID=2815153
+Course_System=linkedin.com
+Course_Title=Full Stack Web Development with Flask
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to build your own personal or professional web application? In this course, join Christian Hur as he steps through how to build dynamic web apps using Python and Flask, the popular Python web framework. After demonstrating how to set up your environment, Christian shows how to create a Flask project, work with templates, and set up and configure a database system for your app—in this case, Flask-MongoEngine—to help store and track data. Plus, see how to work with web forms; integrate Flask-Security, which allows you to add common security mechanisms; and create and test REST APIs using Postman.

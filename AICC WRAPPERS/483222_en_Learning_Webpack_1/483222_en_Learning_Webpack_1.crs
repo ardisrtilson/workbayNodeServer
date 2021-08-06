@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eve Porcello
+Course_ID=483222
+Course_System=linkedin.com
+Course_Title=Learning Webpack 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+webpack is the latest and greatest addition to a front-end developer's toolset. It is a module bundler suitable for the largest single-page web applications, and it can process JavaScript, CSS, and more. Learn the basics of transforming, bundling, and processing JavaScript modules and other web assets with webpack, in this introductory course with Eve Porcello. Discover how to install webpack, run a build, and edit the config file. Find out how to use loaders to run tasks and process files such as CSS, Sass, and inline images. Eve then demos on-demand code splitting with webpack, which allows your code to run faster and more efficiently. In addition, learn how to set up a webpack-dev-server to serve and reload files in real time as you make changes.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=453346
+Course_System=linkedin.com
+Course_Title=Managing DNS Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Domain Name System (DNS) helps identify all resources on the Internet; a DNS server indexes the resources on your own network. Understanding how to manage a DNS server is key for any IT professional, including DNS administrators and programmers, analysts, and CTOs. Managing DNS Essential Training covers the theory and practice of administering DNS using dig and other DNS server technologies. Heavy in practical examples, and full of excellent visualizations to help with absorbing concepts, this course will have you saying Eureka, I've got it! in no time! To begin, author Sean Colins covers the fundamentals of DNS. He then segues to more complex topics such as setting up a DNS server on Linux, Mac, and Windows and working with DNS record types, such as AAAA, MX, TX, CNAME, and SPF. He offers breakdowns of difficult concepts as well as practical technical tips for the day-to-day activities involved in DNS server management.

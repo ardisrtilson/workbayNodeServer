@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=786425
+Course_System=linkedin.com
+Course_Title=Processing Text with R Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Today’s big data and analytics pipelines are consuming more and more text data generated through websites, social media, and private communications. But deriving insights from text isn't straightforward; it requires a series of techniques and forms for preparing text for analytics and machine learning. In this course, learn the essential techniques for cleansing and processing text in R, and discover how to convert text to a form that's ready for analytics and predictions. Kumaran Ponnambalam begins by reviewing techniques for extracting, cleansing, and processing text. He then shows how to convert text into an analytics-ready form, including how to use n-grams and TF-IDF. Throughout the course, he provides examples for exercising these techniques using the R and tm libraries.

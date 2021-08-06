@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2804075
+Course_System=linkedin.com
+Course_Title=Building Modern Projects with React
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about some of the most important tools in the React ecosystem that help you simplify development and manage the complexities of state, side effects, structure, and styling. Instructor Shaun Wassell shows how to create a basic React project, and then explains how to add Redux, create thunks, use selectors, work with styled-components, perform testing, and more.

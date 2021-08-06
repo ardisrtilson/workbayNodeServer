@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=2824143
+Course_System=linkedin.com
+Course_Title=JavaScript for Web Designers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web designers can improve their skill sets and job prospects by getting comfortable with JavaScript. It's the only scripting language for client-side programming—for doing things that would be impossible with HTML and CSS alone—and is increasingly popular for server-side programming, too. Learn some basic, real-world uses for JavaScript in this course with Joe Chellman. Find out how to write JavaScript in the browser and in a code editor, and then put it straight to use in a store checkout page: manipulating forms and form fields, reading data, checking input for errors, and displaying the results of shipping calculations. Plus, learn how to use JavaScript time and date functions to create features like clocks, and add interactive content through APIs like Bing Maps.

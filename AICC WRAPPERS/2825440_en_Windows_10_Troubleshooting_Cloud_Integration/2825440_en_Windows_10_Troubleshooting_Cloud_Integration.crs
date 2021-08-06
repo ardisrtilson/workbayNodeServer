@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=2825440
+Course_System=linkedin.com
+Course_Title=Windows 10: Troubleshooting Cloud Integration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The cloud offers organizations a slew of benefits, including greater device mobility and increased productivity. Consequently, more and more companies have been making the switch to cloud-based solutions. Microsoft is at the forefront of this trend, and so they designed Windows 10 to be a fully cloud-integrated technology platform; it can be managed using mobile device management solutions, and it works seamlessly with other cloud technologies, such as Azure Active Directory. In this course, instructor Andrew Bettany details the skills and knowledge you need to troubleshoot issues that arise when integrating Windows 10 with the cloud. Andrew covers troubleshooting Microsoft Intune and Office 365; resolving issues with multifactor authentication; handling deployment problems; and much more.

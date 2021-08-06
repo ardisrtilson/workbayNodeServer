@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charlie Joey Hadley
+Course_ID=586671
+Course_System=linkedin.com
+Course_Title=R: Interactive Visualizations with htmlwidgets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using the R language almost exclusively, htmlwidgets allow you to create the same interactive maps, charts, and graphs you see on popular data journalism sites and in BI dashboards. You can connect R to popular JavaScript libraries—such as Plotly and Leaflet—with htmlwidget packages. The interactive visualizations you create can be used in R Markdown reports and presentations, and even integrated into rich, responsive Shiny applications. This course introduces you to the fundamental skills needed to add htmlwidgets to your R workflow. Start by learning to manage packages and structure data for visualizations with the tidyverse and the pipe operator. Then there is an important question: Which library should you choose? The course introduces five popular options: Leaflet, Plotly, Highcharter, visNetwork, and DataTables (DT). Instructor Martin Hadley shows how to use these libraries to create scattergeo, choropleth, and geolines maps; stacked bar charts, scatter charts, bubble charts, and heat maps; treemaps and time series charts; interactive networks and graphs; and responsive, interactive data tables. Plus, learn how to customize your visualizations with legends and tooltips, and extract click information for Shiny apps.

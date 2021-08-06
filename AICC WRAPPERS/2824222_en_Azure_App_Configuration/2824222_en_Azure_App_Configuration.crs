@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=2824222
+Course_System=linkedin.com
+Course_Title=Azure App Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure App Configuration introduces a much-needed paradigm shift in how applications are configured. It offers a secure, remotely hosted service that has the potential to eliminate local app settings—which have been a part of the .NET Framework since its infancy. In this course, Robby Sap Millsap delves into this exciting new service, highlighting how to leverage it in your organization. Sap kicks off the course by explaining why you might want to centralize your application settings in the first place. He then highlights the key benefits of App Configuration and demonstrates how to use the product from the portal, as well as import configurations. Next, Sap dives into the code and steps through how to replace a standard app configuration from an ASP.NET Core web application with Azure App Configuration middleware. He also looks at how to integrate the service into your CI/CD pipelines in Azure DevOps, as well as how to use PowerShell with App Configuration.

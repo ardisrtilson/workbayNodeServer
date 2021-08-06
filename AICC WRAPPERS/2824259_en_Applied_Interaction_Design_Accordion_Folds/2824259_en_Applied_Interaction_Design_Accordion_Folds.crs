@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2824259
+Course_System=linkedin.com
+Course_Title=Applied Interaction Design: Accordion Folds
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Accordion folds are space-saving features that can hide content until the user clicks to reveal more. However, this popular design pattern still requires some customization, as the interaction designer needs to decide how and when sections—called “cards”—collapse or expand. In this course, you can experience the hands-on workflow of prototyping accordion folds with instructor Tom Green. Learn how to develop a static wireframe for the accordion fold pattern, make changes based on user testing and content, and add interactivity and animation—all with Adobe Experience Design (XD). Plus, learn how to achieve more granular control over the motion and easing of your animation by exporting your XD project to After Effects.

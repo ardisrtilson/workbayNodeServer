@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=160819
+Course_System=linkedin.com
+Course_Title=Creating Product Shots in Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to model basic objects in Blender and create professional-quality renders of product designs. George Maestri first shows you how to model a simple package design, apply textures to it, and then light and render the model with Blender's Cycles renderer. Then he moves to a more sophisticated model: an energy-drink bottle. George shows how to model the bottle and the liquid inside it, create and apply glass and fluid materials, and add environmental lighting and reflectivity in the final render.

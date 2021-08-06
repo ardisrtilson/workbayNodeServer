@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit, Chiu-Ki Chan
+Course_ID=751331
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Pair and Mob Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When it comes to unraveling a particularly tricky coding problem, sometimes two (or more) minds are better than one. In this course, learn all about the mechanics, details, and value of collaborative coding approaches—namely, pair programming and mob programming—that can help you solve problems at a faster clip. Learn practical techniques that can set you up for success when you try out pair or mob programming with your own teams. Plus, learn about variations to these approaches, including remote pair programming and working with nonprogrammers. Throughout the course, instructors Lynn Langit and Chiu-Ki Chan share scenarios that showcase how these collaborative techniques work in real-world situations.

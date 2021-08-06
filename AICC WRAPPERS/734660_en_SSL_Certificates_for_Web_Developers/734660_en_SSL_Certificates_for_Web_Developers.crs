@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=734660
+Course_System=linkedin.com
+Course_Title=SSL Certificates for Web Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+All websites should be using secure connections over HTTPS by default. Web browsers have evolved and warn users whenever sites allow insecure connections. At the same time, the Let's Encrypt project has made it easy to install SSL certificates for free. In this course, instructor Kevin Skoglund explains what an SSL certificate is, how it is used to encrypt communications between a server and a browser, and how to choose the domain scope and validation type. He demonstrates how to install free certificates from Let's Encrypt using Certbot or install purchased certificates from a traditional certificate authority. He shows how to configure the web server to default to HTTPS and how HSTS directives can tell browsers to always use HTTPS.

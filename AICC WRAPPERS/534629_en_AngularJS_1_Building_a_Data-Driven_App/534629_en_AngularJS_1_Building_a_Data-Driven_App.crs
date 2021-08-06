@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=534629
+Course_System=linkedin.com
+Course_Title=AngularJS 1: Building a Data-Driven App
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to create data-driven web applications? AngularJS is a great choice. It allows you to build apps where multiple users can push and pull data at the same time, in real time. However, while the framework is easy to learn, it can be tough to master. This course is the second in a two-part series designed to show you how Angular works in the real world. It takes up where AngularJS 1: Adding Registration to Your Application left off: a simple application that checks users in and out of meetings. Here, instructor and Angular advocate Ray Villalobos shows how to enhance the existing app with new views and controllers to reward random checked-in users with prizes. Learn how to create forms, edit database records, create methods, randomize record selections, and style and secure your app. With these project-based lessons, you'll learn how to see how data-driven programming with AngularJS can help your apps react to real-time data streams.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Stratton
+Course_ID=2833084
+Course_System=linkedin.com
+Course_Title=Excel Formulas and Functions Quick Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The myriad formulas and functions in Excel are, in large part, what makes it such a uniquely powerful program. But for many users, figuring out how to apply these formulas and functions to solve everyday problems can seem overwhelming. In this course, staff instructor Jess Stratton demystifies these powerful features, sharing bite-sized tips designed to help you work faster and more efficiently in Excel. Jess begins by covering the fundamental concepts you need to get started with functions and formulas, such as how to programmatically reference cells located in other worksheets and combine cell data with other characters. She then digs into a variety of useful Excel functions. Learn how to count cells that meet a specific set of criteria using COUNTIF, extract characters with LEFT and RIGHT, use INDEX and MATCH to retrieve a value, and much more.

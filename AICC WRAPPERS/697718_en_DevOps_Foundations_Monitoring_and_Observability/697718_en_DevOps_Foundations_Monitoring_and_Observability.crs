@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ernest Mueller, Peco Karayanev
+Course_ID=697718
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Monitoring and Observability
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Monitoring is a key practice area of modern operations. In this course, explore techniques and tools for monitoring from a DevOps mindset. Instructors Ernest Mueller and Peco Karayanev spell out what monitoring is, what's unique about the DevOps approach to monitoring, and how to model your system so monitoring makes sense in context. Next, they examine the different types of monitoring instrumentation, including how to implement synthetic monitoring, end user monitoring, system monitoring, and network monitoring. They also cover best practices for architecting systems for observability and share how to overcome common obstacles.

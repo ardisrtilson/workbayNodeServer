@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Assam
+Course_ID=2804066
+Course_System=linkedin.com
+Course_Title=Building Chatbots Using Google Dialogflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Dialogflow can help you build engaging text-based conversational interfaces, using an AI-powered toolset that assists with designing, scaling, and improving your customer experience. This course introduces Google Dialogflow and shows how this ecosystem can be used to build chatbots for a variety of business applications. Follow along with instructor Lee Assam as he builds out a real-life use case while introducing key features and concepts of Dialogflow. Learn about the basic building blocks—agents, intents, entities and parameters, context, and fulfillment—and find out how to set up your account. Then learn how to configure all these components and seamlessly deploy the complete chatbot on a website using Dialogflow’s platform-specific integration options.

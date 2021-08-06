@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=483220
+Course_System=linkedin.com
+Course_Title=Design the Web: Creating a Sortable Table
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+HTML tables don't have to be a static read-only affair. Learn how to create tables that allow users to sort them any way they see fit. Chris Converse explains how to use jQuery and a free plugin called tablesorter to create a sortable, interactive table with just a few lines of code. He also shows how to add indicator arrows and colors with CSS and create a custom parser to sort dates more intelligently. As with all episodes of Design the Web, the exercise files for this course (including the tablesorter plugin) are free to all members.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2822085
+Course_System=linkedin.com
+Course_Title=A Tour of the SAP Cloud Platform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Review the major features of SAP Cloud Platform, the SAP collection of cloud-based services including analytics, AI, DevOps, security, and more. In this course, you can learn what the SAP Cloud Platform is and how it fits into an enterprise architecture by understanding the key use cases. Plus, learn how to set up your own free trial account of the SAP Cloud Platform so you can experience the services for yourself. This course was created by Michael Management. We are pleased to offer this training in our library.

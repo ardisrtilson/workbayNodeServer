@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2825725
+Course_System=linkedin.com
+Course_Title=SQL Code Challenges
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to assess your SQL skills? These concise challenges let you stretch your brain and test your talents. Get hands-on practice querying and retrieving data, adding new tables to existing databases, updating data in multiple tables and multiple records, and presenting summary data. LinkedIn Learning staff instructor Scott Simpson structures each challenge in real-world scenarios: a restaurant website that takes reservations and online orders, and a library lending system. After each challenge, Scott shares his own solution. You can see how a professional programmer creates personalized, data-driven documents; handles sign-up data; deletes records; prepares reports; and more.

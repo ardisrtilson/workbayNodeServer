@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=797737
+Course_System=linkedin.com
+Course_Title=Learning CentOS Linux
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CentOS is a Linux distribution (derived from Red Hat Enterprise Linux) that's popular with system admins, DevOps engineers, and home users alike. It's also used by many organizations for development and production servers. In this course, learn how to install and make your way around CentOS, perform common tasks from the command line, and get a firewall, a web server, and shared folders up and running. Instructor Scott Simpson also shares troubleshooting tips and discusses security-enhanced Linux (SELinux), which adds an additional level of security to CentOS.

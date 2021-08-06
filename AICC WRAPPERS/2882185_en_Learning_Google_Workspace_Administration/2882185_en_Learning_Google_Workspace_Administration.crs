@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Julio Appling
+Course_ID=2882185
+Course_System=linkedin.com
+Course_Title=Learning Google Workspace Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Workspace (formerly G Suite) is a popular cloud-based productivity platform for enterprise document management and email. But to have a great Google experience, administrators need to be able to choose and deploy the right services. In this course, educational technology specialist Julio Appling walks you through launching Google Workspace at an organization. Julio provides an overview of Google Workspace plans, guidelines for choosing the right plan, and privacy and data ownership policies related to Google Workspace. He shows you how to create an account and migrate existing data (such as email, calendars, and contacts) to Google Workspace. Julio steps through the admin homepage, where admins can create a company profile, choose services, add and remove users, manage user privileges, and create groups. He demonstrates setting up Android, iOS, and Google Chrome devices. The final chapter focuses on the reports that Google Workspace provides.

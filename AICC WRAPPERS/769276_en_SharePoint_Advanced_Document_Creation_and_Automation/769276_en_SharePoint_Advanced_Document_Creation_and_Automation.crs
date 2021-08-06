@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shari L Oswald
+Course_ID=769276
+Course_System=linkedin.com
+Course_Title=SharePoint Advanced: Document Creation and Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Trying to track down the right template—or repurpose an old one—can be time-consuming. In this course, Shari L. Oswald shares a process that can help you remove these repetitive tasks from your workflow. Here, Shari takes you step by step through the creation of an automated document creation workflow and form. Using this process, templates for new document types can be created and stored. When a new document is required, the basic information can be entered into a form, and all the needed documents will be automatically created. This workflow is great for creating client-facing documents, contracts, project notes, and even personalized internal documents. Learn how to plan and create template libraries, build document libraries, and more.

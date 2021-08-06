@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=542425
+Course_System=linkedin.com
+Course_Title=Windows Performance Tools: Memory Leak Analysis with Intel Inspector
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Memory leaks are a common cause of unexpected crashes in Windows applications. It's important to detect them before your apps go live. Luckily, there is a tool to help. Intel Inspector XE is a memory and threading debugger that can be used to detect memory leaks in C, C++, and Fortran applications running on Windows. Learn to use the Intel Inspector to easily find and repair memory leaks in any of your own Windows applications, with this installment of Windows Performance Tools. Thomas Pantels shows how to profile a C++ application, detect memory issues with Inspector XE, and pinpoint memory leaks in an OpenCV demo app. By the end of this course, you will be able to use the Intel Inspector to easily find memory-related issues like memory leaks in any of your own applications.

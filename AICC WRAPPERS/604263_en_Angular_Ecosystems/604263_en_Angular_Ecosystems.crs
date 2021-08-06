@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Derek Peruo
+Course_ID=604263
+Course_System=linkedin.com
+Course_Title=Angular: Ecosystems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Making full use of Angular requires mastering a complicated—and occasionally confusing—cluster of tools. Some of these tools supplement Angular itself, while others establish and maintain workflows for efficient development, or help Angular mesh with another set of web-centric tools. In this course, Derek Peruo explores techniques and tools outside of Angular that can enhance your app development workflow. Derek goes over common tools you could use with most software projects, as well as some options that are specific to Angular. He discusses code editors, tools you can use to build and deploy Angular apps into production, frameworks and libraries to help speed up development, and more.

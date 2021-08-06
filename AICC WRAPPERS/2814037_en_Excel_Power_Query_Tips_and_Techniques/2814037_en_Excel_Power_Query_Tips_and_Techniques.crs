@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oz du Soleil
+Course_ID=2814037
+Course_System=linkedin.com
+Course_Title=Excel Power Query Tips and Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn timesaving tips on using Power Query, also called Get & Transform, a data connection technology that simplifies gathering, connecting, combining, and refining data in Microsoft Excel and Power BI Desktop. Power Query is simple to use but can be especially powerful when you learn a few techniques. In this course, instructor Oz du Soleil demonstrates customizing your Excel environment, then dives into organizing your work. He offers strategies for working with queries including referencing, duplicating, and renaming queries. Finally, Oz shows how to approach tasks where Power Query works differently from Excel.

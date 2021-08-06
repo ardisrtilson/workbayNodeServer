@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=133324
+Course_System=linkedin.com
+Course_Title=Rhino 5 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino is a 3D-modeling powerhouse, used to design and engineer products ranging from jewelry and furniture to architecture and automobiles. Learn how to build your own 3D models, characters, and prototypes with the NURBS-based modeling tools in Rhino 5.0 for Windows. Author Dave Schultze introduces Rhino's three primary entities (the curve, the surface, and the solid) and shows the best ways to draw curves and model 3D objects, edit their geometry efficiently, and render and export your designs.

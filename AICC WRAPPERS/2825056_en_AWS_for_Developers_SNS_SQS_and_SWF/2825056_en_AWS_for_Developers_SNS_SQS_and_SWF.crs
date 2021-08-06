@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Villeneuve
+Course_ID=2825056
+Course_System=linkedin.com
+Course_Title=AWS for Developers: SNS, SQS, and SWF
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you unclear about how to best work with the messaging, queueing, and workflow services offered by AWS? If so, this course can help. Join Jeremy Villeneuve as he shines a spotlight on three key AWS services—Simple Workflow Service (SWF), Simple Queue Service (SQS), and Simple Notification Service (SNS)—and how they can help you effectively handle complex workflows. Since each service was designed to address a specific methodology of the messaging/queueing/workflow model, Jeremy spells out the key differences in methodologies so you can ensure you're using the right tool for the right job. Along the way, get hands-on experience with SQS and SNS, and learn how to refactor an existing application that tracks user state within a database table to a workflow model provided by SWF.

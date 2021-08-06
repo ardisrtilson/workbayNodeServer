@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=2835009
+Course_System=linkedin.com
+Course_Title=Microsoft Power Automate Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Power Automate allows you to write actions that integrate multiple or single Microsoft applications in order to automate tasks. This course explores the essentials needed to start using this powerful cloud-based application, and implement either existing or new processes inside of Power Automate. Instructor Bill Kulterman covers several flows you can create to work smarter, including flows for automatically adding and removing files from SharePoint based on emails sent, converting Word docs to PDFs, and tracking working hours using the Power Automate mobile app. Upon wrapping up this course, you'll be ready to start automating business processes in your own workflow.

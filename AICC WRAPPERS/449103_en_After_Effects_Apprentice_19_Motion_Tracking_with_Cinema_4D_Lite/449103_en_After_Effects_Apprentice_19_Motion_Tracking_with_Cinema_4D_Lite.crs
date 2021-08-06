@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Trish Meyer, Chris Meyer
+Course_ID=449103
+Course_System=linkedin.com
+Course_Title=After Effects Apprentice: 19 Motion Tracking with Cinema 4D Lite
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning After Effects? Take your skills to the next dimension: 3D. After Effects CC comes bundled with the 3D application CINEMA 4D Lite and a pipeline to integrate its output directly into the After Effects timeline. In this course for C4D beginners, After Effects expert Chris Meyer shows you how to track and extract the camera move and ground plane from already shot footage, and add a 3D model—complete with lighting and shadows—to the scene. These project-based lessons are a great way to familiarize yourself with C4D motion tracking and layers. The first course in the series, After Effects Apprentice 17, includes an overview of the C4D Lite user interface, as well as important setup information you need to know whenever you use live C4D layers in After Effects. We recommend you watch it first if you have no prior experience with C4D.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Dion
+Course_ID=2804068
+Course_System=linkedin.com
+Course_Title=Learning Cyber Incident Response and Digital Forensics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If your organization is the victim of a cyberattack, are you ready to respond? In this course, learn the basics of how an incident response is conducted, including how evidence is collected for further digital forensic investigation. This course serves as an introduction to the field of digital forensics and incident response practices by providing hands-on demonstrations of tools and techniques used by real-world professionals in the field. A basic understanding of computer networks and cybersecurity is helpful for getting the most from this course.

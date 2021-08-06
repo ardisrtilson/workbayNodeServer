@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Jenkins
+Course_ID=2972409
+Course_System=linkedin.com
+Course_Title=DevOps Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To get a job in DevOps, you need to be able to build, test, and release high-quality software quickly. But to build a successful career, you need a broad base of soft skills as well as the ability to implement the latest technology and trends. This training course focuses on these oft-overlooked topics, providing the critical knowledge to take you to next level in DevOps. Instructor Michael Jenkins covers soft skills such as hiring, collaborating, working remotely, and avoiding burnout. He then pivots to technology trends, covering the best ways to introduce infrastructure as code, microservices, and serverless to your organization. In the third chapter, he concentrates on essential resources for building your career: developer roadmaps, certifications, and other ways of keeping up with the DevOps industry. This course is an invaluable guide for anyone who wants to learn the skills that separate the good from the great DevOps professional.

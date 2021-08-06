@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=784305
+Course_System=linkedin.com
+Course_Title=Create a CRM Mobile Application with React Native
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React Native lets web developers apply their skills to native apps for iOS and Android. In this course, Emmanuel Henri shows how to take a design spec created in a previous course—Prototype a CRM Mobile App with Framer—and convert it into a real CRM application, with a clean interface, smooth performance, and natural cross-platform adaptability. Learn how to set up a project, establish a strong folder structure, work with Redux, add several views, use CRUD operations, and more. Upon wrapping up this course, you'll have a solid understanding of how to work with this framework to build polished mobile apps.

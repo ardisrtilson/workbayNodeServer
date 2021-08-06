@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2808543
+Course_System=linkedin.com
+Course_Title=Visual Studio 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Integrated development environments (IDE) make it faster and easier to write high-quality code. Visual Studio, the IDE from Microsoft, has every tool you need to be a productive developer—regardless of your language, programming style, or project type. This course offers a comprehensive introduction to Visual Studio, allowing you to explore the tools and features and configure Visual Studio to support your needs. Walt Ritscher shows how to implement version control with Git, adjust the editor preferences, code more efficiently with IntelliSense and code snippets, and use the built-in tools in Visual Studio for refactoring and debugging code. Plus, learn how to make Visual Studio even more robust by capitalizing on the library of free and paid extensions in the Visual Studio Marketplace.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=445034
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 07 Understanding Project Types
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Choosing the right project type in Visual Studio 2015 provides you with the right libraries and tools for your project, whether you're creating a desktop application, mobile app, or web service. In this Visual Studio Essentials training course, Walt Ritscher guides developers through the most popular project templates in Visual Studio 2015, including console, desktop, web, and mobile projects in ASP.NET, Apache Cordova, DirectX, Windows Forms, Windows Presentation Foundation, Universal Windows, and more. He also shows how to create class libraries and leverage third-party project templates that extend Visual Studio's built-in project types.

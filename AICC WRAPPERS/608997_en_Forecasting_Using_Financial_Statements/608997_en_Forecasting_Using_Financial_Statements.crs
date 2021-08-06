@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Yash Patel
+Course_ID=608997
+Course_System=linkedin.com
+Course_Title=Forecasting Using Financial Statements
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn where a company is headed and the resources it will need to succeed. Forecasting Using Financial Statements provides a deep dive into the mathematics of financial forecasting. Dig into the numbers and find out how to build a complete forecast from start to finish, using Excel or Google Sheets. Yash Patel dissects an income statement and balance sheet to calculate pro-forma predictions for revenue, equipment, sales cost, and more. He also shows the math behind simple forecasting techniques, such as the naive approach, simple moving average, and exponential smoothing. He also shows how to build cash flow projections, calculating earnings before interest and taxes, depreciation and capital expenditures, and net working capital. Yash also uses data to create regressions that can extrapolate and forecast for a given independent value. By the end of this course, you should be able to provide projections for a business using nothing more than commonly available financial statements.

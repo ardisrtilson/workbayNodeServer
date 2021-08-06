@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2823098
+Course_System=linkedin.com
+Course_Title=Review and Manage the SAP MRP List
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The material requirements planning (MRP) list is a key information source for anyone involved in inventory control and manufacturing. This course is focused on review and management of the MRP lists in SAP in order to identify and resolve issues coming out of the planning run. Learn how to access and navigate the MRP lists, decipher the MRP exception messages and traffic lights, and resolve exceptions found in your planning run. Plus, see a demo of the techniques in action. This course was created by Michael Management. We are pleased to offer this training in our library.

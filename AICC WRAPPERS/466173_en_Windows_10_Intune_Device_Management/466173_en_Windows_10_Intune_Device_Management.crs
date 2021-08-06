@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Spence
+Course_ID=466173
+Course_System=linkedin.com
+Course_Title=Windows 10: Intune Device Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Intune and Windows 10 Mobile are two parts of an ecosystem of interconnected Microsoft technologies for mobile device management. Learn how to deploy, configure, and manage your organization's mobile devices using this enterprise-level mobile management platform, in this course with Ryan Spence. Ryan is the director of enterprise mobility management at MOBI and supports Fortune 100 clients around the world. Here he shares the key components of any enterprise mobility management (EMM) strategy, focusing on Microsoft Intune. Learn what's different about the Windows 10 mobile operating system and why and how businesses manage Windows devices with Intune. Explore Intune infrastructure management and best practices pertaining to design, identity, security, updates, applications, content, and more. Along the way, he'll help you design and implement smart security policies, configure monitoring and services like Windows To Go, and provisioning user accounts. Note: This course maps to the Plan and Implement a Microsoft Intune device management solution domain of the Microsoft exam 70-697: Configuring Windows Devices.

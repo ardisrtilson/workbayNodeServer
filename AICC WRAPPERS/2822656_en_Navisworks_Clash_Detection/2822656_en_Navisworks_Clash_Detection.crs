@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Myers
+Course_ID=2822656
+Course_System=linkedin.com
+Course_Title=Navisworks: Clash Detection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Navisworks is an industry-standard program for performing the coordination of models for architecture, engineering, and construction projects. This coordination can include communicating design issues to the project team, finding your own design problems, and documenting issues so that they can be talked about and, if required, fixed. The Clash Detective—one of the most powerful tools in the Navisworks Manage version of the software—allows for clash detection, which involves finding when different objects hit or touch each other in the design (and need to be examined for potential correction). In this course, Brian Myers reviews the clash detection functionality in Navisworks Manage, as well as the process of performing clash detection. Discover how to create various categories for your clash tests, set up rules to refine your clash detection results, run clash tests, create custom views and reports, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=585261
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Operation of Running Systems (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Demonstrate your understanding of the Linux operating system by earning a Linux Foundation Certified System Administrator (LFCS) certification. In this course, Scott Simpson helps to familiarize you with the basics of operating a system running Ubuntu, and prepares you for the Operation of Running Systems domain of the LFCS exam. Scott explains how to manage the startup process, update the kernel, install software from source code, use AppArmor to confine software into limited access spaces, and examine resource utilization. He also goes into scheduling and verifying tasks, configuration management and automation, and incident management.

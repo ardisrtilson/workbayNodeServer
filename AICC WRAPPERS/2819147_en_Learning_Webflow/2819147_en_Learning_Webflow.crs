@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2819147
+Course_System=linkedin.com
+Course_Title=Learning Webflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about how to use Webflow, the web-based tool for easily creating responsive websites without coding. Instructor Jen Kramer covers creating a new site with Webflow, adding content and media, customizing the navigation and visual layout, and adding additional pages. She also shares how to publish a site, monitor its performance, and keep it updated with new content.

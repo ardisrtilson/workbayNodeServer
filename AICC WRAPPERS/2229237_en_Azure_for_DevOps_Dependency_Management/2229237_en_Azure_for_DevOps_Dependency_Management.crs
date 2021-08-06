@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gurinder Singh Mann
+Course_ID=2229237
+Course_System=linkedin.com
+Course_Title=Azure for DevOps: Dependency Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As teams and projects grow, so do dependencies. Microsoft Azure offers dependency management tools to help DevOps teams maximize high availability and speed and minimize the risk of failure. This course covers DevOps management strategies utilizing Azure Artifacts, Azure Pipelines, and the most current security and compliance best practices. Instructor Gurinder Singh Mann explains why dependency management is so important on architecturally complex projects and how Azure Artifacts can simplify the process of creating, hosting, and sharing packages with your team—including publishing packages to your CI/CD pipelines. Plus, find out how to control access to Azure DevOps and secure open-source packages using the free developer tool, WhiteSource Bolt.

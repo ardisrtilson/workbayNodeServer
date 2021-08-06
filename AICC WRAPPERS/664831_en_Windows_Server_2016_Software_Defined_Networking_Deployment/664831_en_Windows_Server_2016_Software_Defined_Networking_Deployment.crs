@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=664831
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Software Defined Networking Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software-defined networks (SDN) are a key concept in server and networking administration, cloud computing, and data center management. SDNs allow administrators to segment network traffic in virtual environments—speeding up deployment and maximizing hardware utilization. In this course, Robert McMillen shows how to deploy a SDN in a Windows Server 2016 environment using the virtual switches and routers from Microsoft. Learn how to configure your network manually using System Center Virtual Machine Manager and automatically via PowerShell scripting. Learn how to configure Hyper-V switches, create a VLAN, build virtual machine (VM) templates to speed up VM creation, and auto-assign IP addresses to new VMs with IP pools. Find out how to automate the creation of objects such as gateways and multitenant VMs with SDN Express scripts. Plus, explore practical use cases for software-defined networking, such as virtual security. Note: This course is the first of two that will cover SDN in a Server 2016 network. This course maps to the SDN deployment objectives in Exam 70-745.

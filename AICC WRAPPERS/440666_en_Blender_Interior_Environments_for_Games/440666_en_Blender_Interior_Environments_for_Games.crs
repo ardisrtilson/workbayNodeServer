@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=440666
+Course_System=linkedin.com
+Course_Title=Blender: Interior Environments for Games
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blender: Interior Environments for Games is a project-based course illustrating a complete workflow for building clean, optimized, and reusable environments for game engines like Unity. Aimed at intermediate users of Blender, this course covers scene configuration and preparation, modeling techniques for building realistic environment pieces, effective UV mapping and texturing workflows, and important import and export tips for transferring your final assets into a real-time game engine. Author Alan Thorn also spends a chapter in Unity, where he applies some finishing touches, such as a first-person controller and camera effects. By the end of this course, you'll have developed a solid groundwork for quickly and effectively building immersive environments that work well with many contemporary game engines.

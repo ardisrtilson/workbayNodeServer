@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Starr
+Course_ID=618731
+Course_System=linkedin.com
+Course_Title=WordPress: Plugin Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is your WordPress website missing something special? Almost any feature you can imagine can be built with WordPress plugins. Learn how to build, extend, and distribute your own plugins with these development techniques, featuring the WordPress API and PHP. Learn how to create menus and a settings page, add custom functionality with JavaScript, and style your plugin with CSS. Discover how to customize the WordPress loop, add custom fields and metaboxes, and work with transients, HTTP, WP Cron, AJAX, the REST API, and Gutenberg. Plus, learn how to adjust roles and permissions to keep your plugins secure.

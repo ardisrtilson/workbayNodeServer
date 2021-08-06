@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Russell Long
+Course_ID=580650
+Course_System=linkedin.com
+Course_Title=Cisco ICND2 Cert Prep: Routing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Without routing, there is no way to access out-of-network resources or the internet. Efficient routing is an important part of any IT administrator's job. That's why it's a key objective of the Cisco ICND2 exam—one of two qualifying exams for CCNA Routing & Switching certification. In this course, instructor Russell Long helps you prepare for the exam and understand the basics of Layer 3 routing. He explores concepts such as static vs. dynamic routing, switch-level routing, and key dynamic IPv4 and IPV6 routing protocols. Learn configuration, management, and troubleshooting techniques for the popular InterVLAN, OSPF, and EIGRP protocols, as well as tips for more secure network routing.

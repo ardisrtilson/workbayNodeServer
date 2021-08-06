@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Kemka
+Course_ID=5019805
+Course_System=linkedin.com
+Course_Title=Learning Amazon SageMaker
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SageMaker is Amazon’s solution for developers who want to deploy predictive machine learning models into a production environment. Programming is done in Python and the results can easily be integrated into cloud-based applications. These lessons review the entire Amazon SageMaker workflow: analysis, build, and final deployment. Instructor Martin Kemka introduces the benefits of Amazon SageMaker and reviews its browser-based interface and toolset. In the second chapter, he shows how to import, investigate, visualize, and summarize your data. The next stage is to use a clean data sample to train a machine learning model to fulfill a basic task. Finally, Martin shows how the model is deployed. Almost every chapter concludes with a challenge that allows you to practice your new SageMaker skills.

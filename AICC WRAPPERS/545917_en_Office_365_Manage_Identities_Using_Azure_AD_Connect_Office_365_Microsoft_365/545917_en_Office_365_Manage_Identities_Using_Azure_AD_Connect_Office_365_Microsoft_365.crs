@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Culp
+Course_ID=545917
+Course_System=linkedin.com
+Course_Title=Office 365: Manage Identities Using Azure AD Connect (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network and system admins can prepare on-premises directories and connect to Azure to take advantage of managing Office 365 groups and users using common identities. Preparation, setup, and administration steps are demonstrated in this course using the Azure Active Directory (AAD) Connect tool. This course is designed to provide you with a better understanding of domain controllers, identity management, synchronization, and more. This course is also an exam preparation resource with topics that map to a corresponding domain in the Office 365 70-346 exam: Managing Office 365 Identities and Requirements.

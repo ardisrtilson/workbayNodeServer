@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Shostack
+Course_ID=2823198
+Course_System=linkedin.com
+Course_Title=Threat Modeling: Information Disclosure in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+STRIDE is a popular threat modeling framework that helps security pros and software developers think strategically about risk. This course addresses the I in STRIDE, which stands for information disclosure. You can learn how to preserve the confidentiality of the data, secrets, and other information you store, and the policies you need to put into place to share that information safely. Topics include classic models such as data at rest and data in motion as well as information disclosure in processes and information disclosure in certain technologies such as cloud, Internet of Things and mobile, and AI and machine learning. Expert Adam Shostack also reviews the side effects of computation, the physical effects of CPUs, and the defenses you can put into place at your organization to manage metadata, secrets, and other sensitive information.

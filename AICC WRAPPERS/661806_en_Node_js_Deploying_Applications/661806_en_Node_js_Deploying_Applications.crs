@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kirsten Hunter
+Course_ID=661806
+Course_System=linkedin.com
+Course_Title=Node.js: Deploying Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to deploy Node.js applications, and review popular options that can help you successfully tackle the deployment process. This course walks through how to deploy apps to Heroku, AWS Elastic Beanstalk, and Microsoft Azure. Follow Kirsten Hunter as she sets up a simple project and works through different deployment scenarios. Throughout the course, Kirsten shares practical tips and insights into the pros and cons of each option. Plus, she goes over how to work with some of the most commonly-used continuous deployment systems, including Jenkins and CircleCI.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Neill
+Course_ID=502652
+Course_System=linkedin.com
+Course_Title=VMware vSphere: Advanced Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deepen your understanding of how to work with vSphere—a leading virtualization platform from VMware. Join Brandon Neill as he covers advanced topics and concepts, such as using command line utilities like ESXCLI and vsish to help you gather network information. Brandon discusses physical NICs and how to install the correct network drivers for them, configuring VMDirectPath I/O, and using SR-IOV. Plus, he goes into configuring multicast filters, the function of DvFilters in a distributed switch, and the types of vNICSs.

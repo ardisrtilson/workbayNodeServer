@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=490802
+Course_System=linkedin.com
+Course_Title=Excel 2016: Data Validation in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Excel's data validation tools, you can control how users enter data into workbooks, ensuring that data is consistent and accurate. You can control dates, times, even the length of the text they enter, or simply provide a list of acceptable choices to eliminate any possible mistakes. Here, Dennis Taylor explores how the data validation tools in Excel 2016 can be used to set dropdown lists and control numeric, text, date, and time entries.

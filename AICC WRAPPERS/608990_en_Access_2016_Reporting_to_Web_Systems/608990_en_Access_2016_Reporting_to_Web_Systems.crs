@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=608990
+Course_System=linkedin.com
+Course_Title=Access 2016: Reporting to Web Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Access databases typically live on your desktop and are shared with a limited number of users over a local network. Microsoft SharePoint integration allows you to share data on the web, but this solution can be complicated for many users. There are several alternatives that you can consider. By leveraging web-friendly data formats—such as a basic HTML table or machine-readable XML, CSV, and JSON data files—or connecting to a hosted Microsoft Azure database, Access users can expand the reach of their data and reports. In this course, Adam Wilbert shows you how, by exploring options for getting your data out of Microsoft Access, making it easier to share with others. He covers Access data export options, and demonstrates how to modify exported files with a text editor. He also explains how to link Access to an Azure SQL database to provide a cloud storage solution for your Access tables.

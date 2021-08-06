@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kunal D Mehta
+Course_ID=2241069
+Course_System=linkedin.com
+Course_Title=Planning for Azure Active Directory
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By establishing a hybrid identity infrastructure, you can support your on-premises infrastructure while also leveraging the latest features the cloud has to offer. In this course, join Kunal D Mehta as he steps through how to seamlessly integrate your on-premises infrastructure with Azure Active Directory using Azure AD Connect. Kunal dives into the topic of hybrid identity and highlights the role played by AD Connect. Explore how AD Connect works under the hood, the prerequisites needed for its deployment, and how to monitor your on-premises identity infrastructure using Azure AD Connect Health.

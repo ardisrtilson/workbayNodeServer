@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chaim Krause
+Course_ID=520228
+Course_System=linkedin.com
+Course_Title=Linux: BIND and DNS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DNS is the workhorse underlying any network, and BIND is the most common Linux implementation of DNS. BIND allows you to create custom domains to serve emails and websites, and answer queries from around the world. This course covers how to configure BIND DNS on a CentOS 7 server, including coverage of different lookup records and zone types. Join instructor Chaim Krause as he shows how to create, verify, load, and test zone files and set up both basic and advanced name servers. Plus, learn how to add extra layers of security to protect your Linux systems from DNS attacks.

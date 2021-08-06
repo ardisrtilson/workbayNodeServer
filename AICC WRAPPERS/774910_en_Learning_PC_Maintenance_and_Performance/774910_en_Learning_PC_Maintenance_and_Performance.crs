@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=774910
+Course_System=linkedin.com
+Course_Title=Learning PC Maintenance and Performance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PC maintenance and performance go hand in hand; when you correctly maintain your computer, you usually see a corresponding boost in performance. Happily, basic computer maintenance tasks are simple enough for anyone to accomplish. This course teaches the elemental skills related to PC maintenance. It's a good, thorough background for anyone who works with Windows-based computers. Dan Gookin helps you configure simple settings to make sure your system is running at its peak, including Windows security settings, backup and recovery options, and updates. Plus, learn how to make everything run faster and smoother by identifying resource hogs and using tools like ReadyBoost for external caching.

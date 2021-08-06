@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=681083
+Course_System=linkedin.com
+Course_Title=SharePoint for Enterprise: Data Management (2018)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Managing data is key to making SharePoint effective and accurate in reporting. In this course, Philip Gold explores the best practices for data management inside SharePoint, and across all SharePoint sites. Learn about the importance of metadata, and how well-formatted lists can perform the heavy lifting you used to do in Excel spreadsheets. Find out how to adjust permissions for sensitive libraries, and use version control to make sure no change is ever irrecoverable. Philip also shows how to create more dynamic views that allows user to sort and filter results, and integrate Excel and Project into your SharePoint data management workflow.

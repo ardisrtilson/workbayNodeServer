@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=5005072
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: IP Addressing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Not all IP addressing takes care of itself. Network administrators know this all too well, which is why one of their core skills is being able to configure and assign IP addresses in a server environment. In this course, learn all about IP addressing in the context of Windows Server 2019. Ed Liberman explores the rules of IP addressing and IP address configuration. He also covers connectivity troubleshooting. Because IP addressing continues to be a substantial part of the function of computer networking, enterprise companies are apt to want to stay on top of the latest versions. Get ready to learn how to help your organization keep communications between resources running strong.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2806967
+Course_System=linkedin.com
+Course_Title=SQL Server Integration Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server Integration Services (SSIS) is one of the core add-on components to SQL Server. With SSIS, professionals can create automated workflows that streamline the process of consolidating data from a wide variety of sources. Through a process called ETL—extract, transform, and load—you can ingest and move data between systems such as other databases, flat data files, and even online repositories. In this course, Adam Wilbert helps you get up and running with SSIS. Adam shows how to work with different control flow tasks, data sources, connections, and transformations. Plus, see how to add variables to control package execution, run packages with T-SQL, and more.

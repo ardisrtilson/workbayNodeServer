@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ronnie Sheer
+Course_ID=2825700
+Course_System=linkedin.com
+Course_Title=Secure Coding in Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to develop more secure Python applications. In this course, instructor Ronnie Sheer reviews the most common vulnerabilities in Python apps and explains how to set up a coding environment that helps you develop code with security in mind. Learn how to avoid common pitfalls associated with loose typing and assertions and find out how to deserialize Pickle data. Then explore the security features—such as code generation and secrets management—in Django, a popular Python framework. Ronnie also explains how to secure a RESTful API in Django using permissions, data serialization, and automated testing, and closes the course with some tips for securing applications written with Flask, a powerful micro web framework.

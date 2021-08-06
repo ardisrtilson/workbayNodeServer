@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shashi Shekhar
+Course_ID=756317
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Scrum for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Scrum is an agile framework that helps organizations deliver high-quality products to their customers. Learn how to use scrum and project management tools like Jira and Confluence to manage software development. This course takes a practical approach with real-life examples that show how scrum is executed. Instructor Shashi Shekhar covers scrum roles, rules, artifacts, and events and uses Jira and Confluence to show how popular software development tools can assist in scrum implementation.

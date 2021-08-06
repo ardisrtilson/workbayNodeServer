@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=163416
+Course_System=linkedin.com
+Course_Title=Imaging and Deploying Macintosh Computers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Faced with deploying a Macintosh network of dozens, hundreds, or even thousands of computers? Imaging your systems can help. Imaging saves you time and gives your users a consistent experience at every workstation. Sean Colins has been performing system admin tasks like imaging for nearly twenty years. Here, he shares his techniques for creating a master image you can deploy throughout your organization. These include restoring a Mac to a standard configuration, with or without a network; one-to-one deployments; building a portable hard drive that will help you troubleshoot issues on the go; rebooting troubled systems over the network; and adopting a modular workflow that will save you time building masters.

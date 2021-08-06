@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jomarc Baquiran
+Course_ID=751317
+Course_System=linkedin.com
+Course_Title=Fusion 360: Multi-Body Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The multi-body design process allows you to model parts and components as separate bodies within a single design file. In this course, learn how to create multiple bodies using techniques in Fusion 360, including placing solids, making assembly components, working with sketches and text, and creating solids with the sculpt feature. Instructor Jomarc Baquiran covers extrusion, linking, modeling, and additional steps involved in creating multiple bodies, detailing bodies, and turning bodies into components.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2848254
+Course_System=linkedin.com
+Course_Title=Web Components and Modularization: Practical Approaches
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modern development practices have shifted from thinking about entire pages to thinking about components and how to combine them to create views. This course looks at practical approaches to componentization and modularization to help you identify when a component is needed, what it does, and how to plan for and design portable and maintainable components of your own. As code componentization is relevant to all developers, instructor Morten Rand-Hendriksen shifts the focus away from coding and into the conceptual work that goes into component design. Using practical examples, Morten details how to sketch out and organize components in projects large and small. Learn about the four core principles of component development. Get tips and best practices for component planning. Plus, learn how to organize components and structure their markup, determine when (and when not to) focus on reusability, and more.

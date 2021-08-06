@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2280175
+Course_System=linkedin.com
+Course_Title=React: Testing and Debugging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tracking down bugs in React—and the many different pieces it communicates with—can be a challenge. While basic JavaScript testing and debugging tools certainly work, solutions designed specifically to work with React will save you time and effort. This course covers those tools, as well as tips and techniques to help you find, diagnose, and fix problems in your apps. Watch and learn how to test React code with Jest, debug with Chrome, check type with flow, and optimize your code with ESLint. Instructor Emmanuel Henri has packaged this course with everything you need to get started, including exercise files and setup instructions, and concludes with some next steps for exploring advanced debugging in React.

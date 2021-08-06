@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=461839
+Course_System=linkedin.com
+Course_Title=Browser Testing with Internet Explorer and Virtualbox
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You can increase the cross-browser compatibility of your website and test against many versions of Internet Explorer by using VirtualBox. The VirtualBox application allows you to use virtual machines and emulate different operating systems, without needing to invest in additional hardware or expensive software. This solution allows you to perform browser testing on multiple combinations of operating systems and browser versions to ensure your web designs look solid on all of the key browsers, IE included. In this course, Brian Wood explains the how to use VirtualBox and modern.ie to set up virtual machines you can use to perform browser testing. He walks you through each step of the setup process so you can become familiar with these tools and starting using them for browser testing.

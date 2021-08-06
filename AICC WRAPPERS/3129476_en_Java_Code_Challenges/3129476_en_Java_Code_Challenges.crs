@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=3129476
+Course_System=linkedin.com
+Course_Title=Java Code Challenges
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How do you get better at writing code in Java? You practice, of course. Test your Java skills with these hands-on practice challenges. In this course, instructor Kathryn Hodge presents a variety of concise (five minutes or less) beginner, intermediate, and advanced code challenges that you can use to test your skills. The lessons are independent, so you can skip around and watch them in any order. For each challenge, Kathryn provides a walkthrough solution and automated testing files. The goal of this course is not only to develop your skills in Java, but also to show you some tricks of the trade that software developers in the industry use every day.

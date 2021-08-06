@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=653218
+Course_System=linkedin.com
+Course_Title=Unreal: Substance Designer Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the integration of Substance Designer—a powerful tool for creating textures for 3D art, visualization projects, and games—with Unreal Engine. This course provides a solid foundation of the principles of texture creation in Substance Designer for use in Unreal Engine. Instructor Scott Pagano explains how to import a model into Substance Designer and bake AO, curvature, and ID maps. He discusses the advantages of system-based procedural texture creation, and shows how to create both image file output and substances which can be used and modified directly in the Unreal editor.

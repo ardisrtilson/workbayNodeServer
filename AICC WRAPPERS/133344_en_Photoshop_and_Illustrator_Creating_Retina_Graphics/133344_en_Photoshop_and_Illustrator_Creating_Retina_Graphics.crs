@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Seeley
+Course_ID=133344
+Course_System=linkedin.com
+Course_Title=Photoshop and Illustrator: Creating Retina Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Monitors and mobile device screens seem to get better everyday. But that means designers need to respond with better, higher-resolution graphics. This course will take you through creating beautiful, HiDPI (aka retina) graphics for a variety of screen sizes, using the tools in Photoshop and Illustrator. Staff author Justin Seeley covers the core concepts (including platform support for HiDPI), file setup, and his rules for retina, which ensure you'll use elements and materials that scale and export your graphics in formats that will display beautifully on the web. Start watching to learn how to create your own graphics optimized for today's most advanced screens.

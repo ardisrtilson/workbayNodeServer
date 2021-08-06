@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=540536
+Course_System=linkedin.com
+Course_Title=Learning Polymer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Polymer is an open-source JavaScript library that can help you structure complex web applications. In this course, get started with Polymer, and learn how to work smarter by leveraging the power of web components—custom elements you can use just as you would built-in HTML tags. Joe Marini kicks off the course by reviewing what web components are and why they're significant, and providing a tour of a basic web app built with Polymer. Next, he discusses Polymer command-line tools, the web components catalog, and how to add components to an existing app. Plus, he shows how to build your own Polymer component, and use the command-line tools to scaffold out a basic Polymer app. To wrap up, he goes into data binding, discussing one-way binding, two-way binding, and computed properties.

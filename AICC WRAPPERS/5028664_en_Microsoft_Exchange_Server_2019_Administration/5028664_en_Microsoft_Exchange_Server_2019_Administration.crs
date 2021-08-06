@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=5028664
+Course_System=linkedin.com
+Course_Title=Microsoft Exchange Server 2019: Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the day-to-day activities required to maintain and monitor an Exchange Server environment. This course teaches the core skills related to administering an organization's email with Exchange Server 2019—the latest version of the flagship Microsoft communications platform. Microsoft Certified Trainer and Solutions Expert Robert McMillen covers creating and configuring mailboxes in the Exchange Control Panel, setting mailbox permissions and delegations, adjusting transport rules, and designing a service-level agreement (SLA) to set expectations around downtime and message delivery. Plus, learn how to back up and recover email, set up protections against malware and spam, and define client policies to guide access, retention, delivery attempts, and more.

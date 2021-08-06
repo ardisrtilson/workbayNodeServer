@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sandra Toner
+Course_ID=490511
+Course_System=linkedin.com
+Course_Title=Setting Up a Red Hat Enterprise Linux Server
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Join the Linux revolution. More than 90% of Fortune Global 500 companies now use Red Hat products and solutions like Red Hat Enterprise Linux (RHEL)—one of the top Linux distributions. Knowing how to set up a new RHEL installation is a key skill for any Linux administration, and a key component of Red Hat Certified System Administrator (RHCSA) certification. In this course, Sandra Toner covers installing RHEL, executing basic commands, managing user accounts, and working with the file system. You'll learn to use the graphical interface, command line, and the various tools and utilities built right into Red Hat Enterprise Linux to configure, maintain, and troubleshoot your server. Plus, find out how to configure basic security settings to keep your new Linux network safe.

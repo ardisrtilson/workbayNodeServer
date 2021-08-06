@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy A. Hansen
+Course_ID=677175
+Course_System=linkedin.com
+Course_Title=Symmetric Cryptography Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+No matter what your role, if you work with computers, you use cryptography every day. Symmetric cryptography is a common method that uses the same key for encryption and decryption of data. Faster and less resource intensive than asymmetric cryptography, symmetric cryptography is important for all IT professionals—software developers, system architects, and security engineers alike—to understand. This course delivers a practical overview of the technology, with an emphasis on high-level concepts that affect how our data is stored and transmitted. Instructor Jeremy Hansen explains the difference between single key (symmetric) and multiple key (asymmetric) algorithms, and shows how symmetric encryption affects underlying binary data. Learn about the basic ciphers used in symmetric cryptography, including substitution, permutation, and transposition, and influential symmetric-key algorithms such as the Advanced Encryption Standard and its predecessor, the Data Encryption Standard. Finally review modern block cipher modes, such as cipher block chaining (CBC), cipher feedback (CFB), output feedback (OFB), and counter (CTR), which can help authenticate large amounts of data.

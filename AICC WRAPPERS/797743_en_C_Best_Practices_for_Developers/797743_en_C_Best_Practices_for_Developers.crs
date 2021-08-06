@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Troy Miles
+Course_ID=797743
+Course_System=linkedin.com
+Course_Title=C++ Best Practices for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There have been several updates to C++ over the years. In this course, learn best practices that can help you produce higher-quality C++ code by leveraging tools and new features. To begin, instructor Troy Miles provides a high-level overview of the major features introduced in the 2011, 2014, and 2017 updates to the C++ language. Next, he goes over a few tools that can help you improve your code, including how to boost your code's quality and reliability using static analyzers. Troy also shares practical tips for using the new C++ features correctly, as well as rules and techniques for managing objects.

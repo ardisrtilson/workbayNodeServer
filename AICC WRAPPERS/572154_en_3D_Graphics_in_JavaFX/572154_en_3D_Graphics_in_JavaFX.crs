@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=572154
+Course_System=linkedin.com
+Course_Title=3D Graphics in JavaFX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Part of virtual reality is generating real-time 3D graphics. This can be done with JavaFX. This course discusses the benefits of JavaFX and then gets you started using it to create graphics. First, learn how to create charts and UI elements. Then, discover how 3D shapes can be defined and generated. Once you have your 3D graphics, you're ready for controlling the camera and lighting. Last, find out how to apply shape materials and then interact with 3D scenes.

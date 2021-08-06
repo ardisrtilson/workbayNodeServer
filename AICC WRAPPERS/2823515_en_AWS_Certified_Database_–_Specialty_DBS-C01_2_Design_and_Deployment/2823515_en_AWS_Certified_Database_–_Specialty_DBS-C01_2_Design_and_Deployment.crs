@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2823515
+Course_System=linkedin.com
+Course_Title=AWS Certified Database – Specialty (DBS-C01): 2 Design and Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+All quality databases begin with a thoughtful design. In this installment of the AWS Certified Database – Specialty (DBS-C01) series, learn how to design and deploy AWS database solutions as you study for exam DBS-C01. Instructor Tom Carpenter covers database design tools and explains how to design a database for performance, scalability, and compliance. Tom then goes over the backup processes and options related to Amazon Relational Database Service (Amazon RDS) and instance-based database solutions in AWS, as well as the high-availability options in AWS. Plus, he steps through the process of creating RDS, DynamoDB, Redshift, and instance-based databases. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

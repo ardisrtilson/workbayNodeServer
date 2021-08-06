@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2823072
+Course_System=linkedin.com
+Course_Title=Tableau and R for Analytics Projects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+On its own, Tableau is a powerful tool that helps professionals analyze, display, and generally make sense of the data at their fingertips. With the addition of R—a free, open-source language for data science—you can glean even more insights from your data. In this course, learn how to combine the analytical strengths of R with the visualization power of Tableau to analyze and present data more effectively. Instructor Curt Frye demonstrates how to install R and RServe; create a connection between Tableau and R; perform several types of analyses in R, from linear regression to cluster identification; and incorporate those analyses into Tableau visualizations.

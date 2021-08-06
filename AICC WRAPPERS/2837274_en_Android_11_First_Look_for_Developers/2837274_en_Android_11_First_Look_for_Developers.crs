@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon-Luke West
+Course_ID=2837274
+Course_System=linkedin.com
+Course_Title=Android 11: First Look for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android 11 is here and available for developers as a beta preview. This release is small but important, focusing on stability, privacy, and security. Take a tour of the Android 11 features and changes that will affect all developers in this short course. Discover how to install the Developer Preview on a physical or virtual Google Pixel series device and start experimenting with the new enhancements. Instructor Jon-Luke West takes you through the notification bubbles, scoped storage, one-time permissions, reliable wireless debugging, and more, providing insights to help developers make the most of the latest Android improvements.

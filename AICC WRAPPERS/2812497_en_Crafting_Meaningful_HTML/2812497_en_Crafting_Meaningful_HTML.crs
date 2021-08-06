@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2812497
+Course_System=linkedin.com
+Course_Title=Crafting Meaningful HTML
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+HTML is a powerful tool kit that gives your code superpowers, if you choose to use them. Thanks to the built-in behaviors in HTML, you can reduce the amount of explicit code you need. Structure your documents so that they work well as well as look good, and you can make your content available to more people and more programs. In this course, Jen Kramer shows you how to craft semantic, meaningful HTML, demystifying essential HTML tags and attributes along the way. She helps you make sure your pages (including elements like navigation) are properly structured and sectioned, and shows how to use the language's unique features for representing quotes, figures, dates, and times.

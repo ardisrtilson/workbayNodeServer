@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michele Vallisneri
+Course_ID=2841619
+Course_System=linkedin.com
+Course_Title=Python: Programming Efficiently
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cut down on your development time by learning how to write elegant code in an efficient manner, specifically in Python—the popular and pragmatic computer language. Michele Vallisneri explains how to make your Python code more expressive and concise, and leverage the most powerful features of the language. He shines a spotlight on some of the strongest third-party packages you can take advantage of, discusses object-oriented and functional programming, and shares strategies for improving the performance of your code. Michele illustrates these concepts with many intriguing examples, showing how to make 3D images and animations of the sun, draw fractals, implement a graphical programming language, and more.

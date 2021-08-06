@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pablo Muñoz
+Course_ID=5028632
+Course_System=linkedin.com
+Course_Title=ZBrush: Product Prototyping Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By taking advantage of the powerful features of ZBrush, combined with the techniques presented in the course, prototype makers and designers can produce compelling 3D images. This course focuses on a workflow that speeds up the prototyping stage and allows designers to iterate, present variations, and make polished renders. Pablo Muñoz first covers how to work with subdivisions, primitives, and Booleans. Next he explains concepts related to minimal design and how these relate to working with geometry. Then he shows how to work with organic shapes by demonstrating planing, blocking, padding, and polygrouping. He wraps up the course by taking you through the rendering process which includes making adjustments to lighting and materials using KeyShot.

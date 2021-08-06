@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2885236
+Course_System=linkedin.com
+Course_Title=PostgreSQL: Client Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PostgreSQL is one of the most popular open-source database management systems. In this course, Adam Wilbert introduces you to the command line tools used in professional PostgreSQL database administration. These tools are used for remote management of the server and provide detailed insight into the configuration and operation of the server. Adam starts by locating or installing the tools, then explores the operation of the main utility, psql. Psql provides a wide array of configurable options that can be combined to create flexible workflows for sending SQL commands to the server, or for exporting query results to external files. Adam finishes the course with a detailed look at the command line utilities used to create and restore database backups.

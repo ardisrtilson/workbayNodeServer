@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2874332
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Design and Implement Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft 365 comprises apps like Word, Excel, and PowerPoint, as well as powerful cloud services, device management, and advanced security. The MS-100 Microsoft Identity and Services exam helps enterprise administrators prove their M365 expertise. In this course, instructor Ed Liberman covers one domain of the MS-100 exam: Design and Implement Microsoft 365 Services. Ed shows you how to prepare to move your on-premises infrastructure to the Microsoft 365 cloud. He goes over how to set up and deploy a Microsoft 365 tenant. Once your tenant is deployed, Ed discusses how to configure your tenancy and subscription, including how to manage and upgrade subscriptions, create users, configure and review security reports, and more. He concludes by describing how you can migrate users, groups, and data successfully.

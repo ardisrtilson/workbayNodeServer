@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Samuelson
+Course_ID=688520
+Course_System=linkedin.com
+Course_Title=Learning Nagios
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Nagios is an industry-standard, open-source solution, which makes Nagios a great choice to get started in network monitoring and administration. Learn how to use Nagios to monitor system health and gain actionable intelligence about your IT infrastructure, in this course with instructor and DevOps engineer Josh Samuelson. Josh shows how to set up a Nagios server, use plugins, and configure monitoring via the command line. He explains how to set up custom alerts and generate graphs of your data for more comprehensive insights. Plus, learn how to integrate PagerDuty to manage your on-call schedule and escalations and manage alerts remotely.

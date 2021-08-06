@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Hiroko Nishimura
+Course_ID=2825408
+Course_System=linkedin.com
+Course_Title=Introduction to AWS for Non-Engineers: 2 Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As part of any good IT infrastructure, security plays an important part in creating a stable technical environment. In the AWS Certified Cloud Practitioner exam, the Security module makes up a fourth of the exam questions. With cloud computing becoming more relevant to many professionals’ lives, even if tangentially, it's a vital topic to explore. This course, the second in a four-part series designed to help professionals in non-technical roles, provides you with a high-level grasp of the major security services and concepts in AWS. Instructor Hiroko Nishimura—founder of Intro to AWS for Newbies—provides an overview of security in the cloud. She then delves into the different security services available: Identity Access Management (IAM), Shield, Inspector, and more. Note: This course also maps to the second domain of the AWS Certified Cloud Practitioner exam. Taking all four courses in the Introduction to AWS for Non-Engineers series will help you prepare for the exam.

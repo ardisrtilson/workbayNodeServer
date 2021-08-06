@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=5030982
+Course_System=linkedin.com
+Course_Title=Developing on AWS Pinpoint for Analytics and User Engagement
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Pinpoint is a service in AWS that enables customer engagement through SMS, email, voice messages, and push notifications. Today's developer needs to understand the business as well as the technology behind services to maximize their efficiency and customer discovery outcomes. This course provides training beneficial for developers and management related to business analytics and user engagement, exploring various features and technical possibilities. Join Bear Cahill and learn how to use Amazon Pinpoint to make your job easier and get messages and notifications to your customers faster.

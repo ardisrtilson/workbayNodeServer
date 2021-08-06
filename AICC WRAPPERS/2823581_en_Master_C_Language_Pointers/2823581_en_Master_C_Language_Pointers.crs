@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=2823581
+Course_System=linkedin.com
+Course_Title=Master C Language Pointers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Struggling with the concept of pointers in C programming? You're not alone. While pointers can be defined simply as variables that hold a memory location, even experienced coders are often intimidated by this powerful part of the C language. In this advanced course, instructor Dan Gookin shines a spotlight on pointers, starting with the basics and then building upon that foundation. Dan covers the essentials of obtaining, storing, and using addresses; memory allocation and buffers; and linked lists. He then digs into some more advanced concepts, including how to send a pointer to a function, sort pointers, and use pointers to manage memory.

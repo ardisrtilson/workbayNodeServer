@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=614318
+Course_System=linkedin.com
+Course_Title=Angular: Animations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Motion is the key to modern web applications. Angular is ready. Explore the native animation capabilities of this popular JavaScript library and build expressive applications. This project-based course uses the Angular CLI and its animations module to create and animate an interactive demo. Find out how to set parameters such as duration, delay, easing, and callbacks, which allow you to adjust the timing and sequence of your animation. Instructor Joseph Labrecque also shows how to animate isolated elements of your application using the query and stagger functions. Once you understand how to animate a new project, Joseph takes you through the process of animating interactions within an existing Angular application—a custom video player. Finally, discover how to compile and package the project for distribution on the web.

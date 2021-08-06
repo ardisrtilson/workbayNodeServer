@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=534417
+Course_System=linkedin.com
+Course_Title=Developing Microsoft SQL Server 2016 Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server is Microsoft's de facto relational database software. While you can build a simple database relatively easily straight out of the box, most administrators need to know how to take advantage of more advanced features in the latest release, SQL Server 2016, to give their clients everything they've come to expect in an enterprise database. In this course, Adam Wilbert shows experienced SQL Server DBAs how to develop a SQL Server 2016 database. Learn how to create data tables, including temporary tables and tables with variables, and schemas. Find out how to enforce data integrity with constraints and secure your database at the user level. Then discover how to create indexes to optimize performance, work with functions, and make sure your SQL database is as fast and secure as possible. Note: This course will also help you prepare for the Developing Microsoft SQL Server Databases exam—a crucial component of the MCSA: Solutions Associate certification. Find out more about the certification at https://www.microsoft.com/en-us/learning/exam-70-762.aspx.

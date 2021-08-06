@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2211315
+Course_System=linkedin.com
+Course_Title=Docker for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Docker containers help you simplify your application delivery. In this course, instructor Emmanuel Henri shows developers how to leverage this popular platform for application development. Emmanuel digs into basic Docker concepts and use cases for developers, explaining how Docker and its tools can help you maximize your time. Discover how to install Docker on Windows, Linux, and Mac computers; use the platform when developing front-end, back-end, and full-stack projects; approach CI/CD with Docker; and explore other tools, including Kubernetes, the widely-used container orchestration engine.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chad Chelius
+Course_ID=123550
+Course_System=linkedin.com
+Course_Title=Building PDFs with Acrobat XI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Adobe Acrobat XI, the latest version of Adobe's PDF editing application, includes powerful new features like enhanced text- and image-editing capabilities, support for web forms and electronic signatures, and improved compatibility with Word, Excel, and PowerPoint. In this workshop, Adobe Certified Instructor Chad Chelius shows you how to make the most of Acrobat XI. After walking you through the settings used to generate PDF files, Chad teaches you how to navigate a PDF, add key navigation features such as bookmarks and links, and create PDF files in a variety of ways. Plus, discover how to share your PDF files, create a PDF form using the new FormsCentral application, and collaborate with other users.

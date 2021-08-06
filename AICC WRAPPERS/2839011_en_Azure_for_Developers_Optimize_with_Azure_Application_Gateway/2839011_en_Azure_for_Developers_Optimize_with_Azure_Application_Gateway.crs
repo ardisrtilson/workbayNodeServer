@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Karl Ots
+Course_ID=2839011
+Course_System=linkedin.com
+Course_Title=Azure for Developers: Optimize with Azure Application Gateway
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Architecting your applications with Azure Application Gateway helps you to improve your application scalability, costs, and security. In this course, instructor Karl Ots covers what Azure Application Gateway is, how to use it to optimize workloads, and how to architect scalable and secure cloud applications. Karl discusses which service to choose in load balancing. He also explores load balancing in existing applications and cloud-native applications. Learn about the components of an Azure Application Gateway implementation. Find out about the design considerations and implementation details of Application Gateway HTTP(S) listeners, Application Gateway load balancing rules, and Application Gateway health probes. Karl demonstrates Application Gateway scaling capabilities and teaches how to work with encrypted traffic. Plus, he goes into advanced topics such as multi-site hosting, path-based routing, Web Application Firewall, building globally available web applications, and automation for DevOps.

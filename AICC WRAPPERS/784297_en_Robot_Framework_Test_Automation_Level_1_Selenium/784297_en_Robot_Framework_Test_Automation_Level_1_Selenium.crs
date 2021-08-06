@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bryan Lamb
+Course_ID=784297
+Course_System=linkedin.com
+Course_Title=Robot Framework Test Automation: Level 1 (Selenium)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a comprehensive introduction to Robot Framework, a free, open source, keyword-driven test automation framework. In this course, instructor Bryan Lamb helps you discover how you can use this easy and powerful test automation tool to automate software tests quickly and easily. After a detailed installation section, Bryan shows you how to create your very first Robot Framework script in just minutes, and then demonstrates several options for running it, including via PyCharm, Windows command line, and the Jenkins CI platform. He then walks you through the process of how to make your script more readable by incorporating variables, custom keywords, and page objects. Finally, he provides hands-on walkthroughs of several of the most popular Robot Framework libraries.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=498710
+Course_System=linkedin.com
+Course_Title=CAD and BIM: Workflow for Rooms in Facilities Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Revit offers a workflow that’s uniquely suited to facilities management, particularly room and area design. You can take a linked CAD file and generate a detailed room schedule by defining room-bounding parameters and areas. In this course, you can learn how to use Revit to develop room plans and schedules from CAD models. Discover how to retrieve room data from the model, create a room floor plan, tag rooms, add new rooms and departments, and associate spaces with occupancy. Instructor Shaun Bryant also explains how to generate detailed room schedules from your design for sharing with clients and colleagues.

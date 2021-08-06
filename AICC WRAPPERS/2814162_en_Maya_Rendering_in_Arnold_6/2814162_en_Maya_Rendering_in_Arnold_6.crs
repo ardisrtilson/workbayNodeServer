@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=2814162
+Course_System=linkedin.com
+Course_Title=Maya: Rendering in Arnold 6
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Arnold is the high-quality rendering engine in Maya. Realistic rendering in Maya is easier than ever with this brute force Monte Carlo ray tracer. The physically based rendering in Arnold accurately simulates light in the real world, but allows breaking physical laws to achieve artistic styles. This course is an overview of essential features for lighting, materials, and rendering in Maya using Arnold core version 6. This course was created by Aaron F. Ross. We are pleased to offer this training in our library.

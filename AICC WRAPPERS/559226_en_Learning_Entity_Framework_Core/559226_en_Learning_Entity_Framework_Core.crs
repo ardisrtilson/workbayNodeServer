@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=559226
+Course_System=linkedin.com
+Course_Title=Learning Entity Framework Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Entity Framework is a data access technology of choice for .NET and ASP.NET data-oriented development. .NET developers appreciate how this object-relational mapper reduces the need for writing data-access code by providing the ability to work with relational data using domain-specific objects. How can you take advantage of this framework in your programming efforts? Reynold Adolphe shows you how in this course. Reynald demonstrates how to write code-based models and how to interact with data. He also explains how Entity Framework works with ASP.NET Core MVC and Web APIs. He covers creating a console app, creating an MVC app, and more.

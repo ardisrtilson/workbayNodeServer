@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=633864
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Virtualization (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtual machines (VMs) are critical to modern computing. VMs are used for enterprise resource management, software testing, user training, and experimentation. That's why virtualization is a major component of the Linux Foundation Certified System (LFCS) Administrator exam. LFCS Certification opens new doors in your career and your understanding of Linux. Join Scott Simpson for this course, as he shows various methods for creating, controlling, and configuring virtual machines in Linux. Learn essential techniques for cloning a virtual machine, snapshotting your system state for easy recovery, and migrating hosts. Scott also explores LXC containers and virtualized guests.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Walter
+Course_ID=800212
+Course_System=linkedin.com
+Course_Title=Deploying Django Apps: Make Your Site Go Live
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deploying a Django app to production doesn't have to be challenging. By learning how to leverage a cloud-based solution like Digital Ocean, AWS, Heroku, or Azure, you can cover your deployment needs, from small to large. Join Nick Walter as he demonstrates the steps involved to make a Django site go live. This course shows how to work with PostgreSQL, NGINX, S3, and more, so you can gain the skills necessary to transfer code to a host, manage files, create a web address, set up a database, test a site, and deploy a Django application.

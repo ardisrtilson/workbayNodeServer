@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=156150
+Course_System=linkedin.com
+Course_Title=Implementing a Data Warehouse with Microsoft SQL Server 2012
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design and implement an enterprise data warehouse. Microsoft Certified Trainer Martin Guidry shows how to design fact and dimension tables using both the star and snowflake techniques, use data quality services to cleanse data, and implement an ETL process with SQL Server integration services.

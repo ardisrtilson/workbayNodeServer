@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Watts
+Course_ID=189008
+Course_System=linkedin.com
+Course_Title=TurbulenceFD for Cinema 4D Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having the skills to create believable smoke and fire is crucial for any aspiring VFX artist. In this course Ben Watts shows how to use TurbulenceFD, an incredibly powerful fluid simulator that plugs right into CINEMA 4D, to create realistic smoke, fire, and explosions. Want to jump right in? Check out the Quick Start chapter for short lessons on creating containers and emitters and rendering your simulation. From there, the course explores every aspect of TurbulenceFD in depth, including its solver and timing settings, forces, channels, and emitter options. Along the way, Ben includes some practical and fun examples. By the end of this course you'll be confident using Turbulence FD and creating your own awesome smoke and fire effects.

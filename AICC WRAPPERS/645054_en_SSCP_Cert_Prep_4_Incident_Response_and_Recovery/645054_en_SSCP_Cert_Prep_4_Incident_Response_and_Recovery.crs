@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=645054
+Course_System=linkedin.com
+Course_Title=SSCP Cert Prep: 4 Incident Response and Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the (ISC)2 Systems Security Certified Practitioner (SSCP) certification can help to accelerate your career by validating your understanding of essential IT security concepts. In this installment of the SSCP Cert Prep series, instructor Mike Chapple covers the objectives of Incident Response and Recovery, the fourth domain of the SSCP exam. Topics discussed include incident management-including how to build a security incident response program-and network and software forensics. Mike also explores disaster recovery, discussing the design of backup strategies, different options for alternate processing facilities, and how to evaluate the effectiveness of business continuity and disaster recovery plans.

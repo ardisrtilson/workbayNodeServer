@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=667387
+Course_System=linkedin.com
+Course_Title=OctaneRender for Cinema 4D Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+OctaneRender is a popular third-party render engine for Cinema 4D. It renders images in a much shorter time than a standard CPU renderer. In this course, mograph artist Andy Needham introduces members to this critical tool for 3D modeling and design. It begins with a quick-start guide, designed to get you up and running with Octane in 30 minutes or less. Andy then explores the Live Viewer—the heart of the engine, which provides instant visual feedback on your project—and C4D layouts for Octane. Then dive deep into materials, including the blend and metallic materials introduced in Octane 3.08; the Octane lighting system; and the thin-lens camera, which enables effects such as depth of field and motion blur. Andy also reviews Octane Scatter, volumetric effects like fog, and the new Toon materials and lights. He shows how to optimize your render settings and use a multi-pass workflow to enable you to get the most flexibility and control over your scene. The course wraps up with a challenge that will allow you to practice your newfound skills.

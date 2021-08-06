@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2835116
+Course_System=linkedin.com
+Course_Title=Learning Wi-Fi
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Wi-Fi frees our computers from network cables and enables us to work at coffee shops, airports, and from our own couch. While most of us are familiar with how to use Wi-Fi, having some additional terms and options clarified can help us make the most out of this technology. In this course, Scott Simpson introduces the basics of how Wi-Fi works, explains related acronyms and terms, and discusses how to set up, secure, and configure your own Wi-Fi network. Scott covers how to set up a router, extend a Wi-Fi signal to reach farther, add a separate guest network for visitors, and more.

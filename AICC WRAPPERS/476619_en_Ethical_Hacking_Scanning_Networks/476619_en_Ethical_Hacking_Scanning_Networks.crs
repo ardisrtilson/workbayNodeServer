@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=476619
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Scanning Networks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+After footprinting and reconnaissance, scanning is the second phase of information gathering that hackers use to size up a network. Network scans are also a key tool in the arsenal of ethical hackers, who work to prevent attacks on an organization's infrastructure and data. This course investigates the scanning tools and techniques used to obtain information from a target system, including ping sweeps, UDP scans, and TCP flags. Instructor Lisa Bock discusses scanning techniques and their objectives, then goes over vulnerability scanning and how to predict possible attack paths. Lisa introduces scanning tools for port scans, fingerprinting OS, time syncs, and more, then shows you some ways that hackers counter detection via evasion, concealment, and spoofing. She also addresses how to reduce the threat of tunneling, a method hackers use to circumvent network security. Note: The Ethical Hacking series maps to the 20 parts of the EC-Council Certified Ethical Hacker (CEH) exam (312_50) version 10.

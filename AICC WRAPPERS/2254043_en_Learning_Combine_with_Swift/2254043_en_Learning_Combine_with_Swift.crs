@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doron Katz
+Course_ID=2254043
+Course_System=linkedin.com
+Course_Title=Learning Combine with Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Combine is a monumental paradigm shift in the Apple programming mindset. Combine provides Swift developers with a declarative functional approach to interacting with APIs, as well as SwiftUI components, over time, through a publisher/subscriber model. The introduction of Combine gives you a native way to manage asynchronous events in Swift, without relying on third-party reactive frameworks. This course explores the Combine life cycle, including publishing, manipulating, and receiving data streams, and explains how to apply these fundamentals to interact with REST APIs and UI components. Instructor and iOS engineer Doron Katz also introduces advanced techniques, such as throttling data streams and leveraging advanced operators. This introductory course should enable you to start putting Combine into practice in your own app development workflow.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Rich
+Course_ID=2815059
+Course_System=linkedin.com
+Course_Title=Developing Skills for AWS Alexa
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to create your own apps, also known as skills, for Alexa, the Amazon Echo brand of smart speakers. Learn essential terminology, how to build voice interactions, and how to test responsiveness. Explore what it takes to submit your skill for Amazon Echo certification before you can submit it to the Alexa Skills Store for publication to Amazon customers.

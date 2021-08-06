@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=664835
+Course_System=linkedin.com
+Course_Title=Angular: Maintaining Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most applications grow and change over time. The challenge for developers is to make sure their projects keep pace with ever-evolving frameworks and security standards. This course shows you how to maintain your Angular applications and prepare them for growth. Instructor Emmanuel Henri reviews the upgrade path from Angular 2 to Angular 4 and introduces best practices to help your application scale for organic growth, integrate other projects and frameworks, and accommodate shifts to deployment models such as continuous integration/continuous delivery. Plus, learn how to recognize when it's time to decommission a feature, module, application, or framework version.

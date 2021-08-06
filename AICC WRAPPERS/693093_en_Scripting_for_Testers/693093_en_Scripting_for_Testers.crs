@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Westerveld
+Course_ID=693093
+Course_System=linkedin.com
+Course_Title=Scripting for Testers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Scripting can expand your abilities as a tester and help you keep up with the pace of agile. It allows you to more quickly and efficiently find software issues and automate manual tasks such as reporting and test site preparation. This course examines a few ways to use scripts to solve common challenges faced in the fast-paced world of software testing. Follow along and learn how to navigate and test APIs, generate reports, explore products with web automation tools, generate dummy data for testing, and more. The lessons rely on simple Python-based scripts as well as popular testing tools such as Google Sheets and Selenium WebDriver. Instructor Dave Westerveld provides concrete examples and ideas to increase your productivity, eliminate boring tasks, build new insights into products, and standardize and simplify your team's work.

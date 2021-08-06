@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Khan
+Course_ID=798496
+Course_System=linkedin.com
+Course_Title=Advanced Express
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Node.js is one of major platforms for the web and Express is one of the most popular Node frameworks. This course is designed to take your development skills to the next level, with advanced techniques that will enable you to tackle more complex projects with Express. Learn how to integrate a database, build a proper user authentication and authorization system, securely upload files, process and serve images, and deploy your Express apps to production. Daniel also provides instructions for building a login form, improving performance with a cluster module, and securing your application. A complete startup project is included in the exercise files, so you can follow along with the lessons and have a solid foundation for future Express projects.

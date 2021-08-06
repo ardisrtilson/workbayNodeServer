@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Benkovich
+Course_ID=711816
+Course_System=linkedin.com
+Course_Title=Azure Serverless Computing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You may already be familiar with platform as a service (PaaS), but this course takes you further by teaching you how to work with several of the serverless options available in Azure. First, Mike Benkovich explains serverless computing. Next, he introduces you to stream analytics, Event Hubs, advanced queries, and functions. Follow along in the demo apps to practice IoT provisioning, provisioning an ASA job, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christine Volden
+Course_ID=685017
+Course_System=linkedin.com
+Course_Title=Salesforce Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to work smarter in Salesforce, the hugely popular customer relationship management (CRM) solution. In this course, Christine Pereira shares practical tips and tricks that can help you customize Salesforce to suit your unique needs and leverage Salesforce features in your day-to-day operations. Christine shows how to keep your data clean by using the right naming conventions, discusses how to use follow-up reminders and tasks to get you closer to closing a deal, and shares strategies for connecting with the Salesforce community.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=397389
+Course_System=linkedin.com
+Course_Title=Migrating Access Databases to SQL Server
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+At one point Access was adequate. But what happens when your database grows and you need more powerful tools? You can move it! Migration allows you to take advantage of SQL Server's advanced features, and maintain a link to the data in Access. Watch this course to learn how to leverage what you already know to take that next step. Adam Wilbert reviews the basics of SQL Server Management Studio (SSMS) and introduces two workflows for migrating Access data: one using a simple export/import process and the other using the free SQL Server Migration Assistant (SSMA). He also shows how to convert Access to SQL data types, link Access to SQL data via an ODBC connection, and address special concerns for Access 2010 data.

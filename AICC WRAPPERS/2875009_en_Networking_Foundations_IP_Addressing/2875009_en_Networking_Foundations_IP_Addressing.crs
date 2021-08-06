@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anthony Sequeira
+Course_ID=2875009
+Course_System=linkedin.com
+Course_Title=Networking Foundations: IP Addressing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The IP address is a fundamental building block for a functioning modern network. In this course, instructor Anthony Sequeira explains the basics of IP addressing, the components of an IP address, aggregation, and more. Anthony begins by describing what the IP address does and why it is critical in a successful network. He goes into the structure of IPv4 and IPv6 addresses. Anthony shows you how to work with the classful addressing system for IP addresses, then goes over subnet masks and subnet addressing. He covers how variable length subnet masking (VLSM) permits the creation of optimal right-sized network segments. Anthony walks you through CIDR and IP address aggregation. He explains special use addresses, then concludes with how IP services such as DHCP, DNS, and NAT can benefit your network.

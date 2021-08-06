@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kesha Williams
+Course_ID=696858
+Course_System=linkedin.com
+Course_Title=Java Persistence API (JPA): 2 Inheritance and Querying
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Java Persistence API (JPA) is the standard for mapping Java objects to relational databases. In this second course of the JPA series, Kesha Williams discusses inheritance mapping strategies, Java Persistence Query Language (JPQL), the Criteria API, and persistence providers. She explains how inheritance functions when working with mappings, classes, superclasses, and tables. She demonstrates how to create queries, use native queries, and query using streams. Then, she shows how to create query relationships using joins. Additionally, Kesha compares persistence provider options, and shows how to switch between providers.

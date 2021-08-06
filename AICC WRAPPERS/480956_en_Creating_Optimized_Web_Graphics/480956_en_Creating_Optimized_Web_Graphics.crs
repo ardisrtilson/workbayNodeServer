@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=480956
+Course_System=linkedin.com
+Course_Title=Creating Optimized Web Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating graphics is easy. But creating optimized web graphics that download quickly and look great on a variety of devices can be a chore. Learn the best file formats and production techniques to get great looking graphics every time, in this course with Brian Wood. Discover how compression affects image quality; learn the pros and cons of vectors vs. raster images, and JPGs over PNGs and GIFs; and find out how to optimize images for Retina displays. These tutorials use programs like Photoshop, Illustrator, and Sketch, but the tips apply equally well to any other graphics software.

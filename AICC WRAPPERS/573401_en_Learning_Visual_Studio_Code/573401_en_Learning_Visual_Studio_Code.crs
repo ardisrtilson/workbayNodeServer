@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=573401
+Course_System=linkedin.com
+Course_Title=Learning Visual Studio Code
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio Code is a lightweight source code editor that boasts the advanced features of an IDE, and runs on Windows, Linux, and macOS. It provides easy access to many extensions for additional features and support for languages like C#, C++, Python, Java, and much more. It comes with support for embedded Git control, debugging, intelligent code completion, code refactoring, and more. In this course, learn the basics of Visual Studio Code. Industry expert Reynald Adolphe helps you get started with Visual Studio Code by showing how to use the command line and manage its layout, as well as how to handle multiple instances of the command line. He also demonstrates code refactoring, explains how to prepare for environments like ASP.NET, and shows how to create your first .NET app and Node app. Plus, Reynald covers keyboard shortcuts, and language features.

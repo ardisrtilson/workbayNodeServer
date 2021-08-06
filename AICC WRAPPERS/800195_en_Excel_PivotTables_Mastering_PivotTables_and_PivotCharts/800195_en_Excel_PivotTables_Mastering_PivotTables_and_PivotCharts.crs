@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=800195
+Course_System=linkedin.com
+Course_Title=Excel PivotTables: Mastering PivotTables and PivotCharts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While the power and time-saving value of PivotTables appeals to anyone who analyzes data in Excel, many users are too intimidated by the feature to add it to their workflow. In this course—the first installment in a two-part series—instructor Chris Dutton breaks down how to use PivotTables, as well as how to add PivotCharts to the mix to summarize your data visually. Throughout the course, Chris shares practical tips and demonstrations that help you grasp how these tools are used in the real world, as well as how PivotTable values are actually calculated and displayed. Learn how to prepare your raw data for analysis; leverage formatting, sorting, filtering, and grouping options; display values in multiple ways; create PivotCharts; and much more.

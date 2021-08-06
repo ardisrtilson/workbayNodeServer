@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=366453
+Course_System=linkedin.com
+Course_Title=Design the Web: Adding Dynamic QR Codes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to use the free Google Chart API to add dynamic QR codes to your webpages, in this short and informative installment of Design the Web. Chris Converse covers four options for generating the QR code: pointing Google Chart to an image URL, using server-side code to retrieve the URL, injecting the URL code with JavaScript, and generating the QR code with JavaScript and jQuery. So stop creating QR codes by hand; learn how to generate them dynamically with these tricks.

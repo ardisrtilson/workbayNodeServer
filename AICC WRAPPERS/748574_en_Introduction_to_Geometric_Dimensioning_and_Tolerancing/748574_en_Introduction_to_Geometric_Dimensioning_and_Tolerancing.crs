@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kipp Bradford
+Course_ID=748574
+Course_System=linkedin.com
+Course_Title=Introduction to Geometric Dimensioning and Tolerancing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When your design and tolerance constraints are lost in translation, you can end up with out-of-tolerance parts that hold up the manufacturing process and cost you money. Geometric Dimensioning and Tolerancing (GD&T) is a system that engineers and manufacturers can use to communicate essential details of how products are to be manufactured. Engineers need to express required tolerances when they put out a request for quotes, and manufacturers need to tell prospective customers what their limits are. In this course, instructor Kipp Bradford shows how to clearly communicate both of these needs, covering the basics of GD&T from both the engineering and machinist perspectives. Learn about essential GD&T rules, terms, and symbols; GD&T tools in CAD; interpreting GD&T in CAD models; and more.

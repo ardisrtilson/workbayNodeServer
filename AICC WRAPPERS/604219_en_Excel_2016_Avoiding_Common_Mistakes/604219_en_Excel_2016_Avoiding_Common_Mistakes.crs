@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=604219
+Course_System=linkedin.com
+Course_Title=Excel 2016: Avoiding Common Mistakes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you do a lot of work in Excel, you know that errors can easily creep into your data. And even a small error can have big consequences, throwing off important calculations or transmitting incorrect information to your team. In this concise course, Excel expert Dennis Taylor provides quick and easy tips to help you avoid making common mistakes. Dennis begins with the basics—how to display data so that errors can be easily spotted. Next, he offers handy tips to ensure data is entered correctly the first time, using the AutoFill feature and using AutoCorrect shortcut codes for frequently used entries. Dennis provides easy ways to validate your data, which is particularly helpful when multiple team members are contributing to the same spreadsheet. This includes restricting the data that can appear in a spreadsheet by setting value limits, pre-populating data with drop-down lists, and other methods. He also shows how to avoid mistakes in formulas, how to hide data that doesn't need to be seen, and how to use workbook protection to prevent errors, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oliver Schinkten
+Course_ID=511288
+Course_System=linkedin.com
+Course_Title=Internet Safety for Students
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Along with being a core part of building digital citizenship, internet safely is an essential skill for students. This course explores how students can protect themselves by understanding the nature of Internet-based threats and learning about the protection options and tools built right into most web browsers and mail systems. Topics include understanding secure and insecure web pages, avoiding phishing, recognizing malware and adware, and best practices for setting and maintaining a password.

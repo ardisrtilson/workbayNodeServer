@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Smith
+Course_ID=2819140
+Course_System=linkedin.com
+Course_Title=Nail Your Software Tester Interview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Preparing to interview for a software testing position? In this course, learn how to effectively highlight your experience and answer questions that put both your technical and soft skills to the test. Instructor Michael Smith looks at the common and technical proficiencies that testers need, including experience with test automation, exploratory testing, API testing, SQL, the CLI, and scripting. He then goes over the soft skills that might be needed within the role, such as estimation and teamwork. Plus, discover how to turn the tables on your interviewer and ask smart, insightful questions that help you stand out as a candidate.

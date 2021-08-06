@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=433723
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 06 Debug and Troubleshoot Code
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to find and resolve the bugs in your code with the powerful debugging tools in Visual Studio 2015. Walt Ritscher first introduces the philosophy behind debugging, including common debug scenarios and defect categories, and then shows how to put Visual Studio's debugging tools to work on your code. Learn how to step through code, work with exceptions, dive deeper into variables with DataTips and visualizers, and use Watch, Intermediate, and Diagnostics windows to evaluate code and the performance of your application. The course closes with a chapter where Walt puts the tools together to debug different types of applications, including console, desktop, web, and mobile apps.

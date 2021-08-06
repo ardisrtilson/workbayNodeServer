@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=761933
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS is 3D CAD software that can speed up your design process and make you more productive—enabling you to deliver innovative products to market faster. In this course, Gabriel Corbett teaches you the essential tools and techniques necessary to create parts, assemblies, and drawings efficiently in SOLIDWORKS. First, see how to create two-dimensional sketches that become the foundation for 3D objects. Next, look at extruding and revolving 3D features; creating complex objects using the Sweep, Loft, and Surface tools; and modifying parts. Find out how to create uniform holes with the Hole Wizard, and explore more advanced modeling techniques using equations, mirroring, and pattern tools. Then review best practices for putting parts together in assemblies. Finally, get tips for creating detailed drawings, complete with an itemized bill of materials. Along the way, Gabriel highlights new features from the 2019 release, including Sketch Ink, which enables pen and touch markup and model manipulation using gestures, and the updated project curve and slice tools.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=782133
+Course_System=linkedin.com
+Course_Title=C++ Templates and the STL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C++ templates support generic programming, code that works independent of type. The C++ Standard Template Library (STL) is one of the most complete and powerful container libraries available. Having a solid grasp of both C++ templates and the STL is essential for programmers looking to attain competency in C++. In this course, the second in a series focused on C++ essentials, instructor Bill Weinman dives into both of these fundamental topics. To begin, he covers templates, discussing template syntax, template functions and classes, and argument deduction. He then builds on that knowledge to discuss STL containers, iterators, transformations, functions, and algorithms.

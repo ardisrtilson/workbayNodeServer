@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charlie Joey Hadley
+Course_ID=699348
+Course_System=linkedin.com
+Course_Title=Creating Reports and Presentations with R Markdown and RStudio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The pinnacle of a data science project is often the presentation of your findings. Data science is, after all, about deriving insights from data and then sharing those insights with others. This course shows how to design high-quality reports and presentations, including interactive web experiences and printable PDFs, using R Markdown and RStudio, the authoring framework designed specifically for data science. Instructor Martin John Hadley starts with an overview of the PDF and HTML reporting options. He then shows how to include R code in your documents and add visual interest with slides, charts, images, and tables. Plus, learn how to customize the styles in your document, override markdown, and insert prebuilt data visualizations with htmlwidgets. Last but not least, Martin explains how to publish your R Markdown documents for sharing and distribution.

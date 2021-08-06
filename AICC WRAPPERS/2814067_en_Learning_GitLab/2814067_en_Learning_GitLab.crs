@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Samuelson
+Course_ID=2814067
+Course_System=linkedin.com
+Course_Title=Learning GitLab
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GitLab is a web-based tool designed to help developers collaborate more effectively throughout each phase of the software development life cycle. Curious about how to fit GitLab into your team's workflow? In this course, Josh Samuelson show you how, covering how to set up a GitLab project, edit files, and leverage key features to collaborate more effectively with your teammates. Learn how to use the basic GitLab editor to make changes to a file, create branch and merge requests, and interpret the Git commit history. Plus, see how to use key collaboration features, including Todos, milestones, and issues, a built-in ticketing system for tracking work on your projects.

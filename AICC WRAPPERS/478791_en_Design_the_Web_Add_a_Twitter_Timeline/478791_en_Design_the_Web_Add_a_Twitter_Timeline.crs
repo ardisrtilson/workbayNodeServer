@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=478791
+Course_System=linkedin.com
+Course_Title=Design the Web: Add a Twitter Timeline
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Social media integration is high stakes for modern websites. This course shows how to integrate a third-party social network like Twitter into a standard webpage. Chris Converse shows how to create a Twitter timeline widget, use HTML and JavaScript to embed the timeline as a live feed, update parameters such as time range and number of tweets, and create widgets to combine timelines from multiple accounts. The practice files are free to all members. Download them and get started designing the web today.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5005085
+Course_System=linkedin.com
+Course_Title=Google Assistant: Building Actions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google devices support a common voice interface, and you can add your own actions to it. In some ways, actions don't have too many moving parts—there's a simple interface to get started and JSON files for handling complexity, and it all gets hosted at Google. Each of those parts raises its own questions, though, and you'll need to connect to your logic to provide responses to the people making requests. In this course, join Emmanuel Henri as he digs into Google Assistant actions and steps through how to connect voice actions to web services you define. To begin, he covers the basics of actions and shows how to create your first action. Then, he shares how to create new intents with training phases, test the capture of spoken words, and use webhooks to implement other ways to use actions.

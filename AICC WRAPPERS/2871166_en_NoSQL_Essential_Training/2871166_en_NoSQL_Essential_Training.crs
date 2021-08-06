@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Melanie McGee
+Course_ID=2871166
+Course_System=linkedin.com
+Course_Title=NoSQL Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As the shiny new object in the data world, you might have heard a lot of people talk excitedly about NoSQL and all the things it can do. It’s great in terms of flexibility, speed, and is easy to work with. It’s super scalable, so it can accommodate increased numbers of users as websites and applications grow. But will it replace SQL? Will it make relational databases obsolete? In this course, Mel McGee explains just exactly what NoSQL is, the pros and cons, and tradeoffs you’ll make when using NoSQL. Mel takes a high-level approach without delving into the details of any one NoSQL query language or solution, so if you’re a developer looking for a bigger picture of NoSQL, or an entrepreneur wanting to explore options for your product, or just plain curious about non-relational databases, this course is for you.

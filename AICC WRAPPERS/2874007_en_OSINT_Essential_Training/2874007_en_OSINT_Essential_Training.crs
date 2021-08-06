@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Wylie
+Course_ID=2874007
+Course_System=linkedin.com
+Course_Title=OSINT Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’ve ever engaged in any sort of internet sleuthing—doing research on a company before an interview, looking up someone on social media before you meet them—then you’ve already engaged in some open-source intelligence, or OSINT. OSINT is, essentially, using publicly available information in an intelligence context. In this course, information security expert Mike Wylie shows how to effectively engage in OSINT, from the value of using it, to methods of gathering information. He covers topics like passive reconnaissance vs. active reconnaissance, methods for tracking organizations and employees, and crafting advanced search queries to find sensitive indexed information. If you’re conducting any kind of penetration test, OSINT provides a good foundation to get you started.

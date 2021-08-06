@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Bartels
+Course_ID=122437
+Course_System=linkedin.com
+Course_Title=AutoCAD 2014 Essential Training: 5 Working with References
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to work with AutoCAD blocks, link to other drawings, and incorporate images into your AutoCAD 2014 projects. Join author Jeff Bartels as he explores the concept of references—a tool that allows you to link to and reuse external content. The course covers creating and leveraging block symbols, attaching and clipping external drawings, and referencing images. The final chapter includes a drawing challenge, where you can apply the skills you've learned, followed by Jeff's step-by-step solution.

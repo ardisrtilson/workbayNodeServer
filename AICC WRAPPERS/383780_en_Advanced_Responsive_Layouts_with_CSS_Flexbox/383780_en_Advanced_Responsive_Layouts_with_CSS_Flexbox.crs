@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=383780
+Course_System=linkedin.com
+Course_Title=Advanced Responsive Layouts with CSS Flexbox
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The CSS Flexible Box Layout module (aka Flexbox) provides a simple solution to many of the design and layout problems web designers and developers have faced since the advent of CSS. Now that the module is becoming ready for the main stage, it's time to look at what we can do with it. This course shows how to use flexible boxes to create advanced responsive layouts. Morten Rand-Hendriksen takes the viewer on a tour of Flexbox and provides actionable code snippets that can be implemented safely in almost any website. He puts it all together in a holy grail site complete with card-based layout, mixed content menus, and interactive components that provide visitors with choices about what they see.

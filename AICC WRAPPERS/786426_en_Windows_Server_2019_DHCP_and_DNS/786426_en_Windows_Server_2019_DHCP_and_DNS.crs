@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=786426
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: DHCP and DNS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dynamic Host Configuration Protocol (DHCP) is the system that automatically assigns IP addresses to hosts, and Domain Name System (DNS) resolves fully qualified domain names to IP addresses. If you're a network administrator charged with managing a Microsoft network environment, then it's essential that you have a solid understanding of both of these networking services. In this course, Ed Liberman dives into DHCP and DNS, explaining how they work in the context of a Windows Server 2019 environment. Learn how to install, configure, and manage a DHCP server, as well as how to deploy DNS. Plus, explore name resolution in enterprise networks, including how to configure standard and conditional DNS forwarding.

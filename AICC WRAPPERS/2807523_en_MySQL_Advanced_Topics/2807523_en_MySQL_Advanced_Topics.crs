@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=2807523
+Course_System=linkedin.com
+Course_Title=MySQL Advanced Topics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get more out to the world’s most popular RDMS. Learn to take full advantage of some of the more advanced features in MySQL, including views, transactions, triggers, and stored procedures. In this course, Bill Weinman helps you take your MySQL skills to the next level. Discover how to facilitate rapid lookups with indexes, search for data in a result set provided by another select statement with subselects, and put database-intensive operations into stored functions and procedures for faster, more modular, and more efficient programming. Plus, learn how to ensure data integrity with transactions and cross-reference distributed data with foreign key constraints. These techniques allow you to create more performant and stable databases for all your development projects, from web applications to data warehouses. This course was created by Bill Weinman. We are pleased to host this training in our library.

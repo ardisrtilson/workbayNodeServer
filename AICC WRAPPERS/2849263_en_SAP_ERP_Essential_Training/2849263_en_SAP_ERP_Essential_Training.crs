@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Valley
+Course_ID=2849263
+Course_System=linkedin.com
+Course_Title=SAP ERP Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The SAP Enterprise Resource Planning (ERP) platform helps large organizations streamline their processes across each segment of their business, from sales to financial accounting. In this course, instructor Justin Valley covers key concepts within SAP ERP and shares valuable tips to help you use this enterprise software most effectively. Justin explains the difference between master data and transactional data in SAP before diving into commonly used SAP modules, including SAP Materials Management (MM) and SAP Sales and Distribution (SD). He also shows how end users can navigate inside SAP, use various search methods to find data, run and export reports from SAP, and more.

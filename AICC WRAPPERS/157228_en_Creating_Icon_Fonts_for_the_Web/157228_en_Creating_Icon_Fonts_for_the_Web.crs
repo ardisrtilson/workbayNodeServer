@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=157228
+Course_System=linkedin.com
+Course_Title=Creating Icon Fonts for the Web
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you think icon fonts stop and start with Dingbats, think again. New icon fonts are modern, fun, and allow you to add scalable vector artwork to your designs with a single keystroke. Chances are you've seen them in action, but you might not be exactly clear on how to create your own. In this course, senior author James Williamson explains what icon fonts are and how they work, and reviews a selection of tools for generating icon fonts: online services like Fontello, vector-drawing programs like Illustrator, and font creation software like Glyphs Mini. He also provides tips on drawing and organizing glyphs, importing artwork, exporting your font, and generating cross-browser-compatible web fonts. Note: Glyphs Mini is only available on the Mac.

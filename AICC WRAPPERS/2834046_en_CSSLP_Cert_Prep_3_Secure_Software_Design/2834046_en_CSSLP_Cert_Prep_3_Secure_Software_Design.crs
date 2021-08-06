@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2834046
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 3 Secure Software Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Secure software design helps you eliminate the design flaws that attackers exploit—before your app ever makes it to production. In this course, the third installment of the CSSLP Cert Prep series, instructor Jerod Brennen dives into the subject of app security, helping prepare you for the third domain of the Certified Secure Software Lifecycle Professional (CSSLP) exam: Secure Software Design. Jerod discusses threat modeling, security architecture, and security design. Learn how to identify and prioritize the right controls for your style of architecture, including mobile and cloud-based architectures. Discover security-enhancing tools to diagnose and repair design flaws. Find out how to design adequate security controls for your network, servers, data, and application, and explore how data modeling and classification can make your security efforts more targeted and cost-effective.

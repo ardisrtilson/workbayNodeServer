@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=478376
+Course_System=linkedin.com
+Course_Title=Deploying Exchange Server 2016
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This step-by-step course covers how to install, set up, and deploy Exchange Server 2016. Whether you are upgrading from a former version of Microsoft Exchange, migrating from another system, or starting afresh, this course includes instructions for you. The course starts with planning considerations including how to prepare Active Directory and relevant domains. Then, learn how to create mailboxes, address lists, and mail flows. See how to set up access from Outlook, or the web, and how to create clustering and replication to achieve high availability. Additionally, you'll learn about transport rules, loss prevention, mobile solutions, and more. Join Robert McMillen as he takes you through the process, from preparation, and configuration, to deployment. Along the way, he informs you of new features, so you'll know how the 2016 version compares to 2013 or 2010. This course is designed to provide new or experienced networking professionals the essential steps needed for a successful implementation of Microsoft Exchange Server 2016.

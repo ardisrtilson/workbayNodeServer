@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2810408
+Course_System=linkedin.com
+Course_Title=Building RESTful Web Services with DropWizard
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to build RESTful APIs with Dropwizard, a lightweight framework for Java web developers. Instructor Emmanuel Henri takes you step by step through your first project with Dropwizard, including setting up your development environment and exploring the project structure of a Dropwizard application. Next, take a tour of the foundational classes, including the configuration, application, representation, and resource classes. Discover how to create and refine your data model and add the endpoints necessary to post, retrieve, and update data from your API. In the final chapters, Emmanuel covers testing, compiling, and publishing the API in your local environment. Everything you learn in this course can be easily transferred to your own RESTful Dropwizard APIs. This course was created by Emmanuel Henri. We are pleased to offer this training in our library.

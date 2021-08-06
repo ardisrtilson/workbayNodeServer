@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=2820195
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Cloud Computing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud resource hardening and monitoring goes a long way in mitigating cloud-based attacks. In this course, which maps to the Cloud Computing module in version 10 of the Certified Ethical Hacker (CEH) exam, instructor Daniel Lachance explores how to evaluate and harden cloud-deployed resources. Daniel covers how cloud computing relates to the different phases of ethical hacking, as well as common threats that affect cloud computing environments. He also goes over cloud identity management, keeping your IT systems running in the cloud even in the event of an attack or security breach, using artificial intelligence (AI) and machine learning (ML) to identify anomalies that might indicate that your system is compromised, and more.

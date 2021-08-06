@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=2700206
+Course_System=linkedin.com
+Course_Title=AWS for Developers: DynamoDB
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DynamoDB is a fully managed NoSQL database solution hosted on the AWS cloud. It allows developers quickly scale to support millions of requests without having to worry about provisioning, clustering, patching, and replication. DynamoDB is also known for being an ideal solution for web APIs due to its robust support of JSON. In this course, learn how to leverage this solution so you can reap the high-performance benefits. Robby Millsap covers planning, database fundamentals, coding, and support. He takes you through the process of modeling data, creating tables, using Node.js, indexing, fetching, searching, scanning, querying, authentication, monitoring, and more.

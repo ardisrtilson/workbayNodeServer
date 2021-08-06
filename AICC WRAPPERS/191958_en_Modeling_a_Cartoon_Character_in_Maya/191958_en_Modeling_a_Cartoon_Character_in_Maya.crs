@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=191958
+Course_System=linkedin.com
+Course_Title=Modeling a Cartoon Character in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to model a simple cartoon character in Maya, and get the skills to create your own cartoon creatures, great and small. In this course, author George Maestri reviews the basics of character design, and shows how to model the body, arms, and legs of a character and add details such as facial features. He also details how to UV map your model for seamless application of textures and materials, which you'll add in the last chapter of the course using Adobe Photoshop and Maya's own 3D Paint tool.

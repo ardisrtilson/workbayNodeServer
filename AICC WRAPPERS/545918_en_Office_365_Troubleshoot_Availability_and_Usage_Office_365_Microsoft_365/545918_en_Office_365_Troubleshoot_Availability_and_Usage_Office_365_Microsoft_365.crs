@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Culp
+Course_ID=545918
+Course_System=linkedin.com
+Course_Title=Office 365: Troubleshoot Availability and Usage (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're preparing for exam 70-346, Managing Office 365 Identities and Requirements, or you just want to improve your Office 365 administration skills, then this course is for you. Instructor Brian Culp looks at three objectives in the Monitor and Troubleshoot Office 365 Availability and Usage section of the exam—analyzing reports, monitoring service health, and isolating service interruptions. By the end of this course, you'll be better prepared to tackle this section of the exam, and will have a better understanding of the troubleshooting and reporting tools available to Office 365 admins.

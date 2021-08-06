@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oz du Soleil
+Course_ID=5012298
+Course_System=linkedin.com
+Course_Title=Excel: You Can Do This
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel scares a lot of people. Terms like PivotTables, VLOOKUP, and circular references make their heads spin. But once you have a basic grounding in Excel, you can do all these things and more. Follow along with Excel MVP Oz du Soleil in this fast-paced course, as he walks you through features, functions, and commands such as Freeze Panes, Flash Fill, COUNTIFS, and even VLOOKUP. Oz takes the bite out of the most intimidating features in Excel, so you can get more mileage every time you use it.

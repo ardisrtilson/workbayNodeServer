@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=711828
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Email Services (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Email is a core communication protocol. Every Linux system administrator needs to be familiar with the basics. This course teaches how to set up an email server for mail routing and delivery using the common packages Postfix and Dovecot. Learn how to install and configure these services and secure them against unauthorized use. Instructor Scott Simpson closes with a look at hosting a webmail service. Note: The course covers objectives from the Service Configuration domain of the Linux Foundation Certified System Administrator (LFCS) certification exam. Completing this course and others in the related learning path will help administrators pass the LFCS exam.

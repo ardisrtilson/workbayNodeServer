@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Abhiram Ravikumar
+Course_ID=711813
+Course_System=linkedin.com
+Course_Title=First Look: Rust
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get your first look at Rust, an open-source systems programming language that focuses on speed, memory safety, and parallelism. Developers use Rust to create a wide range of new software applications, such as game engines, operating systems, file systems, browser components and simulation engines for virtual reality. In this course, learn how to install Rust and then familiarize yourself with basic concepts like variables, data types, method syntax, enums, and more. Discover how the unique ownership principles of Rust impact the language. Data handling, pattern patching, and error handling are also covered. The course wraps up with a sample Rust project that shows you how it all comes together.

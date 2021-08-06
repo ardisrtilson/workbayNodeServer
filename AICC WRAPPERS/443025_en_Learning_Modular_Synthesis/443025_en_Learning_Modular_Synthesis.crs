@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Meyer
+Course_ID=443025
+Course_System=linkedin.com
+Course_Title=Learning Modular Synthesis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most exciting areas of modern music creation is modular synthesis, where you get to assemble your own flexible and customizable instruments using components (aka modules) from a variety of manufacturers. In this course, music industry veteran and synth designer Chris Meyer guides you through putting together a modular system and interconnecting it with the rest of your studio. He reviews typical module arrangements, explains how the modules talk to each other, and covers details such as the differences between waveforms, filter modes, envelope types, and more. This course will be based around the widely available Roland SYSTEM-500 Eurorack-standard synthesizer modules, complemented with modules from several other manufacturers. As most modules, synthesizer keyboards, and plugins are designed around the same principles, this course lets you dig deeper into synthesis and programming your sounds regardless of the equipment you own.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2875150
+Course_System=linkedin.com
+Course_Title=GitHub Codespaces: First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With GitHub Codespaces, a cloud development environment available in your browser, you can start coding faster and contribute code anywhere (and on any machine). In this course, get a first look at Codespaces, as well as how taking a cloud-based approach to programming can transform the way you work. Instructor Walt Ritscher explains how each codespace is associated with one branch of a GitHub repository, as well as how to create your own codespace and view it in the Visual Studio Code application. Walt also highlights how Codespaces provides an easy way to spin up an application container, how to commit and push changes from a codespace repository to GitHub, how to customize the Codespaces code editor, and more. Tune in to learn how to start developing entirely in the cloud with Codespaces.

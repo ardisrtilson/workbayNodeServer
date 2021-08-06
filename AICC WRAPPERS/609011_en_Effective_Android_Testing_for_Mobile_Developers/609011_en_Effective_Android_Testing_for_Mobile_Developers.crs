@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chiu-Ki Chan
+Course_ID=609011
+Course_System=linkedin.com
+Course_Title=Effective Android Testing for Mobile Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There's a difference between knowing how to implement testing and knowing when and why to do it. In this project-based course, get acquainted with best practices for testing Android apps by walking through a development workflow where testing is integrated throughout the process. As instructor Chiu-Ki Chan shows how to build the app, she explores the differences between JVM and on-device tests, explaining when to use each one. She also explores advanced techniques such as the MVP pattern. By demonstrating how testing fits into an app development workflow, she helps you bolster your ability to catch bugs—and determine where and when you should test.

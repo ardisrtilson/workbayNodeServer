@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Bowersox
+Course_ID=2874287
+Course_System=linkedin.com
+Course_Title=Calling REST APIs with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get the information you need on several popular third-party REST APIs, including the Azure Cognitive Services API, the Twitter API, the Twilio API, and more. Instructor Kevin Bowersox shows you how to call these APIs, using various techniques available in Java. Kevin uses each chapter to focus on a specific third-party API and a specific Java tactic for calling the API. Within each chapter, he goes over the purpose of the API, its major resources, and its security scheme, then he provides hands-on lessons that demonstrate how to call the API. Kevin demonstrates how to interact with these APIs, so you can get hands-on experience working with real world APIs that will translate to other APIs that you can leverage in your professional development.

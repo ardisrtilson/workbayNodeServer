@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2823390
+Course_System=linkedin.com
+Course_Title=Visual Studio: Advanced Debugging Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get more out of your Visual Studio debugging sessions? In this course, take a look at several powerful tools and features that can help you pinpoint problems in your application code. Instructor Walt Ritscher details how to leverage IntelliTrace, which captures and archives debugging sessions, allowing you to replay and analyze those sessions later to find elusive bugs. Walt also covers the Diagnostics window, which provides an interactive view of application performance metrics; how code maps help you visualize the relationships between .NET types and type members; how to analyze memory usage with the Diagnostics Tools window; and how to debug multithreaded code. Plus, get several helpful debugging tips, including how to use the new function breakpoint feature to have Visual Studio autogenerate breakpoints for a specified function during a debugging session.

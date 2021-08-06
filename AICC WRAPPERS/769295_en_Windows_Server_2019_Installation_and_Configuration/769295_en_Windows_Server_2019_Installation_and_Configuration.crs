@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=769295
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Installation and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What do you want Windows Server to do for you? Understanding the requirements of your server is one of the most important and overlooked aspects of the entire installation process. This course shows new system and network administrators how to plan the big picture and use that plan to install and configure Windows Server 2019. Instructor Scott Burrell explains how to identify and acquire the hardware—virtual or dedicated—you will need for your new server to accomplish its purpose: file server, domain controller, DNS/DHCP server, or virtual machine host. He then explains how to select the appropriate edition of Windows Server and install the core operating system. Finally, learn how to use the legacy admin tools as well as Windows PowerShell to configure network addressing, storage, features, and roles, so your server meets your organization's needs. As an alternative to in-place upgrades, Scott also shows how migrate your roles and features to future servers with the Windows Server Migration (SMIG) Tools cmdlets.

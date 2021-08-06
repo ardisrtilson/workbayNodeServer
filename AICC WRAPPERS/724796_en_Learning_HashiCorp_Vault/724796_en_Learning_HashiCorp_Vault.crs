@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Swersky
+Course_ID=724796
+Course_System=linkedin.com
+Course_Title=Learning HashiCorp Vault
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Secrets management refers to the practices, techniques, and technology used to keep sensitive data safe from prying eyes. Tools like HashiCorp Vault—an open-source solution that provides secrets management and encryption capabilities—offer features that can help organizations large and small securely access their passwords, certificates, and other secrets. In this course, learn how Vault can solve key problems related to secrets management, how to run and use Vault, and how to securely implement Vault without putting your secrets at risk. Instructor David Swersky goes over how to work with Vault secrets engines, run a Vault server, configure the database secrets engine, securely distribute access keys to machines and people, use the Vault API, and more.

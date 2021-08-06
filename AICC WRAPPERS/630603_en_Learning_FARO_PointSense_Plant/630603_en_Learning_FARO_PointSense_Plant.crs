@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Irene Radcliffe
+Course_ID=630603
+Course_System=linkedin.com
+Course_Title=Learning FARO PointSense Plant
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With FARO PointSense Plant, engineers can take laser scan data into familiar AutoCAD plant design tools to quickly create models that include industry-standard components—without manual modeling. In this course, you can learn your way around the PointSense Plant interface and see how to bring in scan data, configure pattern recognition, and bring your model into AutoCAD and Plant 3D. Instructor Irene Radcliffe covers piping and steel processes in detail, and provides an overview of the VirtuSurv plugin, for high-speed modeling of scan data.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=197537
+Course_System=linkedin.com
+Course_Title=Electronics Foundations: Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Working with electronics can be a ton of fun, but it can also be a bit confusing—especially when you're first learning. In this course, electrical engineer Barron Stone uses easy-to-understand analogies to break down the fundamental concepts of voltage, current, resistance, and power. After you review the science behind electricity, Barron applies those concepts to build basic circuits. He explains the differences between the ideal, theoretical power sources that we often consider when designing circuits and the physical limitations of the real-world power sources that we actually use to build them. He also shows you how to use the go-to tool for debugging electronics—the digital multimeter—so you can measure the actual voltage and current in your circuits.

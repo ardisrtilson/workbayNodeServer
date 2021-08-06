@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=774914
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Mail Systems Using Postfix
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One third of all mail servers run on Postfix, the open-source mail transfer agent. As a Linux administrator, there's a good chance that you may be asked to set up, manage, or troubleshoot Postfix—and a 100% chance of encountering questions about Postfix on the RHCE certification exam. If you want to pass the RHCE exam and demonstrate your expertise in Red Hat Enterprise Linux, you need to master Postfix. This course covers Postfix configuration and management, including relaying and forwarding, on Linux. Learn how to install and set up Postfix as your default mail transport agent (MTA) and review how email is routed and headers are written. Learn the commands needed to administer Postfix, and decipher the nine different configuration files. Grant McWilliams—Linux expert and author of the RHCE Cert Prep¬ series—also shows how to create aliases and virtual mail groups. The lessons culminate in the fourth chapter, which explains how to set up a local Postfix mail server and relay all mail in the network, including email from remote users, to your mail server.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=161811
+Course_System=linkedin.com
+Course_Title=Blender: Cloth Simulation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create realistic garments and fabrics, from T-shirts to tablecloths, with Blender. Join author Joel Bradley as he shows how to simulate cloth, control its appearance, and make it interact realistically with other objects in your scene. First, he helps you prepare for cloth simulation by understanding the importance of physics and mesh subdivisions. Then Joel shows how to set up and work with the Cloth modifier—the core hub of the system—and Blender's cloth caching and baking features. Chapter 3 concentrates on the controls for the various cloth properties: Quality, Material, Damping, and more. Then learn how to control how your cloth interacts with other objects in your scene (including forces like wind) with collisions. Last, Joel covers special features introduced in Blender 2.7: force fields, wind absorption, and the new cloth sewing features.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gary Grudzinskas
+Course_ID=2832007
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Design for Identity and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to secure your cloud environment by successfully incorporating identity management into your Azure strategy. In this course, instructor Gary Grudzinskas covers key considerations for Azure architects related to identity management, authentication, authorization, risk prevention, metrics, and alerts. Gary goes into multi-factor authentication (MFA) solutions in Azure. He explains hierarchical considerations in security and identity design structure and describes how role-based access control (RBAC) contributes to identity solutions. Gary discusses how to secure relationships between identities and internet apps, on-premises data, and partner accounts. He also goes over the Azure Key Vault service, Azure Policy, and Azure Blueprint. This course is a valuable resource for Azure architects, as well as anyone preparing for the Microsoft Azure Architect Design (AZ-304) certification exam.

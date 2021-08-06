@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Duffy
+Course_ID=2818022
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Design a Compute Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about designing a compute strategy with Microsoft Azure and prepare for the compute portion of the Exam AZ-301: Microsoft Azure Architect Design. Instructor Scott Duffy starts with an overview of Azure compute basics, then discusses pricing and shares best practices for managing costs in Azure. Scott covers migrating to serverless and microservices. He demonstrates how to use the command line, PowerShell, the Azure portal, and more.

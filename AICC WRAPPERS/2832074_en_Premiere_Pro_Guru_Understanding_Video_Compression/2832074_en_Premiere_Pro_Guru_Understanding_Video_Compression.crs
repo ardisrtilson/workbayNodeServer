@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Luisa Winters
+Course_ID=2832074
+Course_System=linkedin.com
+Course_Title=Premiere Pro Guru: Understanding Video Compression
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Compression affects every aspect of video work. Compress too much, and you'll lose quality. Compress too little, and the file size is too big. Use the wrong compression, and your client cannot see the video at all. In this course, instructor Luisa Winters explains what compression is, how to use it, and how to optimize it to give your work the greatest impact. Learn how to finesse export settings in Premiere Pro and Adobe Media Encoder for the best-looking video.

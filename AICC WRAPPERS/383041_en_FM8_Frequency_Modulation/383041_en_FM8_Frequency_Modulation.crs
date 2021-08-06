@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Evan Sutton
+Course_ID=383041
+Course_System=linkedin.com
+Course_Title=FM8: Frequency Modulation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get going with FM8, the next gen FM synthesizer from Native Instruments. In this course, author Evan Sutton dives deep into the app's features and the techniques necessary for creating FM8's characteristic clangy and textured sounds and incorporating them into your music productions. He covers working with the routing matrix; developing harmonics, partials, and overtones using waveforms; and creating both realistic and more far-out sounds. The course also touches on percussion programming, as well as FM8's built-in Arpeggiator and morphing controls.

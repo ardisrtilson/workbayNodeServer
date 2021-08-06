@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=SAS Institute
+Course_ID=2825027
+Course_System=linkedin.com
+Course_Title=SAS® 9.4 Cert Prep: Part 03 Exploring and Validating Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get ahead in a crowded job market? Get certified with SAS. This course is part of a series by the SAS Institute, designed to prepare you for the SAS 9.4 certification exam. One of the most important steps to take with your data is knowing how to find and format it in a useful way. The following videos introduces you to the ways that SAS can help you explore your data. Instructor Stacey Syphus explains how to use procedures, filter rows with the WHERE statement, create and use macro variables, format columns, sort data, and remove duplicates. This course was created by SAS Institute. We are pleased to offer this training in our library.

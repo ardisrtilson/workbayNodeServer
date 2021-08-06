@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2823071
+Course_System=linkedin.com
+Course_Title=Cert Prep LPIC-1 Exam 102 (Version 5.0)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the LPIC-1 certification—a distribution-neutral Linux certification—shows potential employers that you have the real-world skills needed to excel as a Linux administrator. In this course, Grant McWilliams covers what you need to know to ace LPIC-1 exam 102, version 5.0. Grant reviews topics that correspond to each exam objective. Learn about shells and shell scripting; managing user and group accounts; using cron and systemd timers to run jobs at regular intervals and at specific times; setting the system date, time, and time zone; locate and interpret system log files; perform basic network troubleshooting; and more. Plus, he provides tips and tricks for successfully taking the exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Meyers
+Course_ID=5019830
+Course_System=linkedin.com
+Course_Title=CompTIA A+ (220-1001) Cert Prep 8: Internet and the Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CompTIA A+ (220-1001): Cert Prep is a comprehensive 10-part series designed to help IT professionals prepare for the CompTIA A+ Core 1 (220-1001) exam, which focuses on critical IT support tasks and essential troubleshooting skills. In this installment, CompTIA expert Mike Meyers reviews internet fundamentals—from broadband connections to VPNs—and essential virtualization concepts that you need to grasp to ace the test. Mike explains the differences between LANs, WANs, MANs, and PANs, and analyzes the functions of local and server-based firewalls. He explores classic email protocols, goes over a generic VPN setup, and shows how to set up IoT devices. In addition, he explains how to set up a virtual machine and dives into the basics of cloud computing. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

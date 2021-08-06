@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=428719
+Course_System=linkedin.com
+Course_Title=Texturing a Game Asset in Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blender is a free, open-source program that allows artists to create stunning imagery on a budget. Its texture painting tools are ideal for game asset texturing, and the resulting texture maps play well with a variety of engines. In this quick course, Darrin shows you how to paint textures directly on your 3D objects, bake texture maps in Blender, and use them in game engines like Unity. These texturing techniques are useful for both animation and games.

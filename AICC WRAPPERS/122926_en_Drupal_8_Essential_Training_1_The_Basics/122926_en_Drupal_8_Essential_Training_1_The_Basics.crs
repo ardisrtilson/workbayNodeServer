@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Geller
+Course_ID=122926
+Course_System=linkedin.com
+Course_Title=Drupal 8 Essential Training: 1 The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Drupal 8 Essentials is designed to help anyone create a simple website using Drupal, the free web design software that powers personal blogs as well as the sites of some of the world's largest corporations. This course is the first of the series. No prerequisites are required beyond basic computer skills! These easy-to-follow tutorials show how to install Drupal and other necessary components on a Windows or Mac computer, navigate Drupal's web-based interface, configure the settings of a new Drupal site, create content, and move the site to a server. Every step includes best practices to ensure your website remains streamlined, secure, and up-to-date. Watch Drupal 8 Essentials 2: Building Out Your Website to find out how to finesse your site with categories, comments, custom styles, and other special features.

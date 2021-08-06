@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=471833
+Course_System=linkedin.com
+Course_Title=Web Design Tips: SVG Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Watch this video for a selection of quick web design tips about the SVG (Scalable Vector Graphics) format. SVG allows you to design custom vector web visuals, but there are some tricks to making your graphics efficient and smooth. Brian Wood explains the importance of using independent artboards, handling web fonts, keeping your gradients and paths as simple as possible, and working with Photoshop effects inside Illustrator CC.

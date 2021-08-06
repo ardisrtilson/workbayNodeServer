@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Bowersox
+Course_ID=2841531
+Course_System=linkedin.com
+Course_Title=Microservices: Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cyberattacks are on the rise—and your microservices may very well be underprotected. Microservices present new safety considerations, and while protective techniques exist, the implementation can be complex and challenging to understand. This course provides developers with a playbook for safeguarding such services using various strategies and levels of security. Learn about security concepts that must be addressed for all information systems and explore microservice-specific concerns like distributed security checks and advanced identity management. Instructor Kevin Bowersox discusses patterns for establishing identity management, access control, and secure communications between services in a microservice-based system. Kevin also goes in depth on how you can leverage API gateways and identity providers to create better defenses, use principles to secure containers that are commonly used for microservice deployments, and more.

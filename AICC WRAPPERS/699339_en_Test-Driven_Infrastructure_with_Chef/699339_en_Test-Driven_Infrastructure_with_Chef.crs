@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Beck
+Course_ID=699339
+Course_System=linkedin.com
+Course_Title=Test-Driven Infrastructure with Chef
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How do you apply test-driven development (TDD) principles to infrastructure as code when utilizing an automation framework like Chef? Join instructor Robin Beck in this training course to explore the infrastructure testing tools that ship with the Chef Development Kit (ChefDK). For integration testing, Robin introduces Test Kitchen, which allows you to verify your cookbook integrity by deploying code in isolation to a test environment, such as a virtual machine, Docker container, or cloud instance. He also reviews InSpec, the language for evaluating security and compliance issues. Finally, Robin demonstrates unit testing with ChefSpec, a fork of the popular RSpec framework that can verify the functionality of code in memory. With a focus on practical exercises, this course guides developers through a workflow that helps you reduce errors and produce production-ready infrastructure—before your cookbooks ever enter the pipeline.

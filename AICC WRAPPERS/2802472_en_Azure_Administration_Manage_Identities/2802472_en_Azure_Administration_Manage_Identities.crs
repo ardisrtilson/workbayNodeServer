@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2802472
+Course_System=linkedin.com
+Course_Title=Azure Administration: Manage Identities
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course provides coverage of key concepts related to managing identities in Azure AD. Instructor Sharon Bennett demonstrates how to implement Azure AD and Active Directory Connect, and how to manage users, groups, and identities. Explore how to use PowerShell to create users and groups and how to implement multifactor authentication (MFA.) This course is ideal for Azure administrators managing cloud compute services and can be used as a resource to prepare for the AZ-103: Microsoft Azure Administrator exam.

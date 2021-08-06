@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=697732
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Network Security (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're tasked with managing services on a network, it's important that you have a solid foundation in security services. In this course, Scott Simpson covers crucial network security concepts and techniques—topics that can also prepare you for the network security section of the Linux Foundation Certified Engineer (LFCE) exam. Scott goes over how ports and firewalls work, explaining how to use the Uncomplicated Firewall (UFW) and iptables. He also shows how to enable secure communication on your web server, read log files to look for problems, and secure the Secure Shell (SSH).

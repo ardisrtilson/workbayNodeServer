@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Stefan Loader
+Course_ID=415315
+Course_System=linkedin.com
+Course_Title=Learning FL Studio 12
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Up and Running with FL Studio prepares music producers and audio engineers to work on real-world projects with FL Studio, the powerful digital audio workstation on par with Ableton Live and Pro Tools. Author Stefan Loader reviews the most important parts of the interface and then dives deep into the step sequencer, showing how to create a beat, add samples and instruments, use the Piano Roll, and record MIDI tracks. He also demonstrates how to use Fl Studio's built-in plugins, automation, patterns, and effects to develop the sound of your song, and export it for sharing with the world.

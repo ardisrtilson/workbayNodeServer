@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2822402
+Course_System=linkedin.com
+Course_Title=Android App Development: Communicating with the User
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Knowing when and how to display communications in your Android app can ensure your users enjoy a smooth user experience with a predictable and reliable flow. In this course, join Joe Marini as he demonstrates how to most effectively utilize key user communication options in your Android apps. Joe demonstrates how to communicate with your users using toast messages, Snackbars, and dialogs, depending on if you want the user to acknowledge or confirm information. He explains how to handle events using notifications, how to customize layouts, and how to work with action buttons. He also shares the benefits and drawbacks of each feature, so you can select the right method for the best user experience.

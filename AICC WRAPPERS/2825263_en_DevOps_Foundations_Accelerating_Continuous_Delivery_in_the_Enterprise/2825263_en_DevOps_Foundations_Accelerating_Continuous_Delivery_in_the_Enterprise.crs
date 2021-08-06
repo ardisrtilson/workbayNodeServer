@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Manuel Pais
+Course_ID=2825263
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Accelerating Continuous Delivery in the Enterprise
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To fully reap the benefits of continuous delivery (CD), organizations must stop seeing it as a set of technical practices that only engineering teams care about. Instead, they need to map out current end-to-end processes and be willing to dramatically change how things have been done in the past. In this course, instructor Manuel Pais shows leaders how to rethink CD in their organization to boost the speed and safety of their delivery workflow. Manuel explains why true continuous delivery is an organizational capability, and why software releases should be treated as business decisions. Plus, learn how to define a single path to production that balances speed and reliability; extract and transform data to enable faster release decisions; improve key metrics for high performance sustainably; and more.

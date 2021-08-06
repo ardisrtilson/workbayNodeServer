@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=5038206
+Course_System=linkedin.com
+Course_Title=Android Development: Understanding Intents
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android intents are how apps communicate with the operating system and with each other. They are the “glue” between activities. Using intents, you can adjust your app's user experience or ask other apps to perform common actions: taking photos, sending emails and SMS messages, and even displaying locations on maps and playing media. This course teaches you all you need to know to take advantage of this core piece of Android functionality. Instructor Joe Marini shows how to create and send a basic intent, enhance it with values, and then leverage the most useful built-in intents, such as opening links and capturing images, setting alarms, and making phone calls. Plus, learn how to queue up pending intents and force intents to open in certain apps on the user’s device.

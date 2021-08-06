@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=450907
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Manage Group Policy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Group Policy allows admins to control a network with the touch of a few buttons. It controls how you push out programs, restrict user access, set company-themed desktops, secure computers from data theft, and much more. Few IT administrators know how to master this useful Active Directory feature in Windows Server 2012, but with our training, you will be able to wield its power effectively. In this course, author Ed Liberman uses Windows Server 2012 R2 to demonstrate what Group Policy is and how to use it effectively. He shows how to configure Group Policy processing, adjust settings and preferences, and troubleshoot Group Policy problems and conflicts as they arise. Note: This course maps to the Configure and Manage Group Policy domain for MCSA Exam 70-411, Administering Windows Server 2012.

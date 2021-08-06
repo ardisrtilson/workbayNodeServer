@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=786363
+Course_System=linkedin.com
+Course_Title=AWS Security Best Practices for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security matters to everyone, but solid security practices start with the developer of an application. In this developer-centered course, instructor and AWS Certified Solutions Architect Carlos Rivas shows how to build stronger, more secure applications for deployment on Amazon Web Services. Learn core AWS security development principles around Identity and Access Management (IAM), S3 storage, and Key Management Service (KMS), to ensure your users, systems, and data are secure on the cloud. Plus, learn how to use Cognito to establish user identity without maintaining unique login credentials for each application.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=606038
+Course_System=linkedin.com
+Course_Title=Blender: Character Rigging with BlenRig
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+BlenRig—a character rigging system provided by the Blender Foundation—provides you with tools that can help you bring your characters to life. In this course, join Darrin Lile as he breaks down how to use BlenRig to rig a character for animation in Blender. He shows how to install and set up the BlenRig add-on, and adjust the rig to match your character using the retargeting tools. He also demonstrates how to adjust the deform cage to fit the shape of a character, add corrective shape keys, and weight paint the hands and face. To wrap up, Darrin discusses how to set parameters and adjust actions and ranges to fine-tune the rig.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=477448
+Course_System=linkedin.com
+Course_Title=Learning Data Science: Using Agile Methodology
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A data science team asks great questions, explores the data, and delivers key insights. But at the end of the day your team needs to add real business value. Even the best data science teams won't last long in your organization if they can't generate revenue or lower expenses. The best way to generate business value is to deliver a constant stream of key insights in short two-week sprints. These short sprints give you real-time feedback to help keep your team on track. A short sprint will also help your team pivot so they can ask new questions based on what they learn from the data. This course shows how to structure your work within a two-week sprint. See how to work within a data science life cycle (DSLC)—a methodology for cycling through questions, research, and reporting every two weeks. Explore key practices to help your team break down the work so it fits within a two-week sprint. Learn how to use tools like question boards to encourage discussion and find essential questions. And most importantly, learn how to grow your team's shared knowledge and avoid common pitfalls.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=2825412
+Course_System=linkedin.com
+Course_Title=Designing VR Experiences with Adobe Animate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design virtual reality (VR) experiences using Adobe Animate. In this course, Joseph Labrecque takes you through the exciting possibilities offered by this multimedia and authoring application. Learn how to set up Animate for both 360 degree and panoramic VR experiences, import assets for use as textures, and structure your project. Discover how to create and switch between scenes—allowing travel between different states in the experience—and code user interactions. Finally, find out how to test and publish your VR experience for viewing on web, mobile, and desktop devices.

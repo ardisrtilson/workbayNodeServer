@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mary Chib, Bentley Systems
+Course_ID=2854001
+Course_System=linkedin.com
+Course_Title=Learning OpenBuildings Designer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover OpenBuildings Designer, the BIM software for architects and professional building modelers. This introductory course focuses on 3D modeling in OpenBuildings Designer, teaching concepts through a fun example building: a transportation station. Though the building design is relatively simple, it has some unique design elements, including a custom platform roof canopy. Instructor Mary Chib teachers you how to set up your modeling environment and create models with basic structural, architectural, and interior elements: columns and footings, walls and windows, casework and furniture, and more. She also shows how to work with assemblies, create a custom profile, and view the drawings and schedules for your design.

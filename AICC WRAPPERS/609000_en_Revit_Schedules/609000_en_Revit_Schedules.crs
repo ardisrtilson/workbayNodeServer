@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=609000
+Course_System=linkedin.com
+Course_Title=Revit Schedules
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Schedules—which display information extracted from the properties of different project elements—are the backbone of BIM. In this course, explore how to work with schedules in Revit. Focusing primarily on the I for information in BIM, instructor Eric Wing demonstrates how to drill into the Revit database and query data out of your models. Eric covers a few standard schedules such as door, window, and room schedules, and then dives into the specifics of Revit parameters, and how they relate to the underlying database that you have—perhaps, unknowingly—developed by virtue of modeling your project. He goes into creating blank schedules, material takeoffs, keynote legends, schedule keys, and more.

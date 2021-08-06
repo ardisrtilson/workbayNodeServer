@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Simon
+Course_ID=597024
+Course_System=linkedin.com
+Course_Title=Edge Analytics: IoT and Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mobile devices, the Internet of Things (IoT), and other systems at the edge of the enterprise produce a vast amount of decentralized data. Instead of consolidating and syncing that data to perform analytics, why not produce the analytics at the edge and dramatically increase the availability and usability of data-driven insights? All of the major technology vendors, including Cisco, Oracle, and IBM, have embraced edge analytics. It is an important, emerging topic for anyone involved in business development, operations, or analytics to understand. This course introduces the concepts related to edge analytics, and explains how edge analytics fit alongside big data, traditional data warehousing, and other analytical environments. Instructor Alan Simon demonstrates sample architectures and core technologies such as intelligent digital video and sensor-produced data. He also reviews specific solutions from Intel, Cisco, and other vendors, and shows how edge analytics can be applied in four different use cases: retail, manufacturing, IT security and systems management, and energy exploration.

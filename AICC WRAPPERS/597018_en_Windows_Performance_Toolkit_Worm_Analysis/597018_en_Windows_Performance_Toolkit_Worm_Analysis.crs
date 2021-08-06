@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=597018
+Course_System=linkedin.com
+Course_Title=Windows Performance Toolkit:  Worm Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Did you know your computer could be sending spam to your coworkers and contacts, without your consent or knowledge? A worm is the likely culprit. Unlike a virus, a worm can spread without user interaction. Anyone who simply opens your email will be infected. Windows Performance Toolkit provides tools to catch worms that antivirus programs can miss. Join instructor Thomas Pantels, as he shows how to use Windows Performance Toolkit to analyze and locate a worm that automatically sends spam emails to the contacts in your Microsoft account. By analyzing network I/O activity and disk and CPU usage, he shows how to isolate the worm and provides tips to remove it from your system permanently.

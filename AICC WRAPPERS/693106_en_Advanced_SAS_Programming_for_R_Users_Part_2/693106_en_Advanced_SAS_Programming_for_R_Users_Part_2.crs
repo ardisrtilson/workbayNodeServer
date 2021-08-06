@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jordan Bakerman
+Course_ID=693106
+Course_System=linkedin.com
+Course_Title=Advanced SAS Programming for R Users, Part 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Advanced SAS Programming for R Users explores sophisticated techniques and concepts that can help you apply your understanding of R—the language of big data—in the SAS environment at an advanced level. In this course, Jordan Bakerman walks through several advanced SAS programming concepts. To begin, he covers the basics of the Interactive Matrix Language (IML), and discusses random number generation in IML, common IML modules, and how to pull a SAS dataset into an IML matrix. He then discusses how to call R from SAS, work with R from IML, and more. To get the most from this course, make sure to watch Advanced SAS Programming for R Users, Part 1. Note: You can visit the SAS site to obtain a copy of the software, and use the company's online data sets to do the course exercises.

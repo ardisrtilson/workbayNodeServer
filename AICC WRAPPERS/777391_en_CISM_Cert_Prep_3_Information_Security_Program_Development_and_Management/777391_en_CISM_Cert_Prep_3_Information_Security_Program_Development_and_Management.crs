@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=777391
+Course_System=linkedin.com
+Course_Title=CISM Cert Prep: 3 Information Security Program Development and Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare to pass the Certified Information Security Manager (CISM) exam. In this course, Mike Chapple details how to best set up, define, and manage an information security program in an organization—concepts that can help you ace the questions in the Information Security Program Development and Management exam domain. Mike helps you grasp the role of a manager in an information security program and goes over a wide variety of technical, physical, and administrative controls used to safeguard information and systems. Learn how to build your security team and maintain security in the hiring process; approach cloud storage security; secure mobile devices; work with firewalls, VPNs, and VPN concentrators; maintain employee safety; and much more.

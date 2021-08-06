@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=2808554
+Course_System=linkedin.com
+Course_Title=Prototyping Microinteractions with Adobe Animate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Progress bars, ripple and pulsing effects, and other microinteractions should achieve a single task, and do so in a way that feels unobtrusive. But while these elements may be understated, they play an important role in a user's overall experience with your project. In this course, join Joseph Labrecque as he demonstrates how to prototype gestures and design a number of useful microinteractions for UX design projects using Adobe Animate. Explore the basics of creating motion within Animate, as well as how to prototype common gestures such as the double tap and long press. Finally, learn how to design a variety of microinteractions, including stretch and fill, icon transformation, and bouncing icons.

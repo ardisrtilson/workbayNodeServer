@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=774920
+Course_System=linkedin.com
+Course_Title=React: SPAs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You know the basics of React, but now you want to build a production-ready project. It's time to dig deeper than the UI. React: SPAs shows you how to build a polished single-page application (SPA), with tools for managing users and reading and writing data from a database. Instructor Ray Villalobos shows you how create React components, add user authentication and authorization, and integrate a Firebase database with custom routing. The project you complete in this course will allow you take your React projects to the next level, and create full-featured user experiences that are fluid and responsive, without constant page loads.

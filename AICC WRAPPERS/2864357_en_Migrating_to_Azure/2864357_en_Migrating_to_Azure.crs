@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Millar
+Course_ID=2864357
+Course_System=linkedin.com
+Course_Title=Migrating to Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A successful migration to Azure requires carefully planning your strategy, organizing your existing resources, identifying what should migrate, becoming familiar with Azure services, and managing the deployment of your plan. In this course, instructor James Millar shows you how to work through each piece of an Azure migration and provides best practice guidance for conducting your own migration to Azure. James begins with an explanation of the Microsoft Cloud Adoption Framework, then goes into how to define and plan for migration. He steps through how to organize your resources, manage access and costs, monitor and report in Azure, and work with Azure Monitor. James explores different migration scenarios and introduces you to Azure Migrate. He walks you through several migrations you may need to complete, then concludes with a variety of ways you can innovate and automate using Azure Cloud Services.

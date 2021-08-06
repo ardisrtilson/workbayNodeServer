@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Hu
+Course_ID=604239
+Course_System=linkedin.com
+Course_Title=IoT Foundations: Device Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're working with a small-scale or large-scale system of connected devices, it is crucial that you devise thoughtful, sustainable management and monitoring solutions. In this course, learn about the basics of IoT device management, and discover how to build smart objects that are easy to maintain and troubleshoot. Instructor Ryan Hu covers essential concepts such as the system architecture, key functionalities, key standards, and protocols. He also discusses the representative standards for IoT device management—the LightweightM2M standard and the oneM2M standard. He shows how to use the IBM Watson IoT Platform, and more.

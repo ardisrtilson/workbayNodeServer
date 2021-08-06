@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aram Goganian
+Course_ID=2976140
+Course_System=linkedin.com
+Course_Title=Fusion 360 Modeling Techniques and Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fusion 360 is an essential tool for product design. In this course, designer Aram Goganian of Predator Cycling teaches viewers critical techniques for building shape-based models that can be easily modified during the design process in Fusion 360. First, learn how to use a sketch as the initial building block for your geometry. Then discover how to use the Fusion surface modeling tools—Extrude, Offset, Stitch, Sweep, and more—to transform your sketch into 3D bodies. Aram also shows how to make cuts with the Pipe and Split tools. Plus, learn how to import parts for your design from third-party STEP files, create smooth shapes with T-splines, and join components parts into a cohesive assembly. Check out the bonus chapter, which includes tips for importing models from external sites to supercharge your Fusion 360 workflow.

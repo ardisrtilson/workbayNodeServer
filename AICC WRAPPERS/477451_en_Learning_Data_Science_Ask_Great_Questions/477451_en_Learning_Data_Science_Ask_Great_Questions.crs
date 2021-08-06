@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=477451
+Course_System=linkedin.com
+Course_Title=Learning Data Science: Ask Great Questions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Great data science discoveries are often traced back to someone asking a critical question. That's why it's important for your team to use critical thinking to come up with astute, meaningful questions that add real value. A well-crafted question can prevent your team from getting sidetracked on bad assumptions and false conclusions. In this course, author Doug Rose explores the key components of critical reasoning and how to pan for gold in streams of data to search for new questions. You'll learn how to work together as a team to run question meetings, organize important ideas into question trees, and generate quality questions by clarifying key terms, challenging evidence, uncovering misleading statistics, and more.

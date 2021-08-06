@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=765327
+Course_System=linkedin.com
+Course_Title=Data Fluency: Exploring and Describing Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data analysis isn’t just for specialists who need to make sense of massive datasets. Decision-makers in every industry can benefit from a basic understanding of the goals and concepts of applied data analysis. In this course, join Barton Poulson as he focuses on the fundamentals of data fluency, or the ability to work with data to extract insights and determine your next steps. Barton shows how exploring data with graphs and describing data with statistics can help you reach your goals and make better decisions. Instead of focusing on particular tools, he concentrates on general procedures that can help you solve specific problems. Find out how to prepare data, explore it visually, and use statistical methods to describe it.

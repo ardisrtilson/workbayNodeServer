@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=2815125
+Course_System=linkedin.com
+Course_Title=SwiftUI Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SwiftUI, an innovative new way to lay out user interfaces on Apple platforms, made its debut with the release of Xcode 11. This UI tool kit provides layout structures, controls, and views that allow you to build user interfaces for the Mac, iPhone, iPad, Apple Watch, and Apple TV—all from the same code. If you're curious how SwiftUI differs from UIKit and AppKit—or just want to get started with this powerful new tool kit—then this course is for you. Join Steven Lipton as he demonstrates how to use Xcode and SwiftUI to set up an app's user interface. Discover how to work with collection views, add navigation, animate interactions, and more. To lend these concepts a real-world context, he steps through how to use SwiftUI to build the front end of an ordering app for a pizza restaurant.

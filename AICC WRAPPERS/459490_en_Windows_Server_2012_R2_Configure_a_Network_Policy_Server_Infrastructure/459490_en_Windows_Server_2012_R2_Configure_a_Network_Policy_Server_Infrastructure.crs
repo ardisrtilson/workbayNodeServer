@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=459490
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Configure a Network Policy Server Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network Policy Server (NPS) is Microsoft's solution for enforcing company-wide access policies, including remote authentication. Being able to configure NPS is a key domain of MCSA Exam 70-411, Administering Windows Server 2012, and a must-have job skill for Windows network administrators. This short course walks you through the steps to configure Windows Server 2012 R2 network policy using NPS, and prepares you for this aspect of MCSA certification. Ed Liberman helps you set up a VPN for secure remote connectivity, install and configure NPS, configure RADIUS clients, and set up Network Access Protection (NAP) to evaluate connection requests. Note: This course maps to the Configure a Network Policy Server (NPS) Infrastructure domain of Microsoft Certified Solutions Associate (MCSA) Exam 70-411, Administering Windows Server 2012.

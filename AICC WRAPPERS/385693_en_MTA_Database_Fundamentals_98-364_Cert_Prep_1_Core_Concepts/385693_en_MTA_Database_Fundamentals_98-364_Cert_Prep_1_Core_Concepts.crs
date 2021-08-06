@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=385693
+Course_System=linkedin.com
+Course_Title=MTA Database Fundamentals (98-364) Cert Prep: 1 Core Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understand the core concepts every IT professional should know to start working with databases. This course, the first in a four-part series with database consultant Adam Wilbert, is designed to provide a solid foundation that will serve you throughout your IT career. Learn about the different data storage models and find out how to build your first database with SQL Server—the Express edition, which requires no hardware or special connections for setup. Then discover how to create database objects with the data definition language (DDL) and edit data in your tables with data manipulation language (DML). Adam also covers critical relational database concepts, such as relationships, indexes, and schemes. Note: This course will also prepare certification candidates for the Microsoft Technology Associate Exam 98-364, Database Administration Fundamentals.

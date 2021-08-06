@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=482052
+Course_System=linkedin.com
+Course_Title=PHP: Clean URLs on Apache Server
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Clean URLs are great. They're elegant, easier to remember, and more user friendly than dynamic URLs. But the primary reason to use clean URLs is for SEO: to make it easier for search engines to index your site. This translates to better search results and increased page visits. Find out how to reap the benefits of clean URLs in your PHP code, in this course with PHP expert David Powers. Rather than checking URLs individually, David shows how to evaluate and update them sitewide with the Apache mod_rewrite module. Watch these tutorials to learn how to enable mod_rewrite on your server, understand the structure of mod_rewrite rules, remove unnecessary file extensions, convert query strings into readable numbers and text, and use rewrite maps to look up complex values without regular expressions. Plus, learn how to enhance search results and provide searchers with links to specific parts of a webpage.

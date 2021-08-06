@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=721899
+Course_System=linkedin.com
+Course_Title=Docker Essential Training: 4 Storage and Volumes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Docker containers aren't just for app deployment. They can also be used for persistent data storage. This course introduces the basics of Docker storage, including configuring drivers, volumes, bind mounts, and cluster storage. Instructor David Davis also shows how to change drivers and free up storage space by cleaning up unused Docker images. By the end of the course, you should be able to set up a variety of virtual storage solutions with Docker and answer related objectives from the Docker Certified Associate (DCA) certification exam.

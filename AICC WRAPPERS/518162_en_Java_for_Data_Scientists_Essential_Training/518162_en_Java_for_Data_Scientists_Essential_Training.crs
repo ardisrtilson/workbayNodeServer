@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charles Kelly
+Course_ID=518162
+Course_System=linkedin.com
+Course_Title=Java for Data Scientists Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Java for two components of data science—data engineering and data analysis. Instead of poring over every facet of Java, instructor Charles Kelly focuses on a selection of valuable topics that will help you learn how to leverage Java in your data science career. This course revolves around the ingest, model, query, analyze, and visualize (IMQAV) model, which is a framework for data science workflows. Charles goes over test-driven development and object-oriented design. Using the free community edition of IntelliJ from JetBrains, he presents Java examples including Java classes, methods, operations, and libraries. Plus, Charles shares how to apply the skills that you learned in the course to create magic squares and sudoku puzzles.

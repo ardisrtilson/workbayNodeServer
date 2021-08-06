@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Deke McClelland
+Course_ID=86002
+Course_System=linkedin.com
+Course_Title=Photoshop Masking and Compositing: Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Photoshop Masking and Compositing: Fundamentals is the introductory installment of Deke McClelland's four-part series on making photorealistic compositions in Photoshop. The course shows how to make selections, refine the selections with masks, and then combine them in new ways, using layer effects, blend modes, and other techniques to create a single seamless piece of artwork. Deke introduces the Channels panel and the alpha channel, the key to masking and transparency in Photoshop; reviews the selection tools, including the Color Range tool , Quick Mask mode, and the Refine Edge command; and shows how to blend masked images so they interact naturally.

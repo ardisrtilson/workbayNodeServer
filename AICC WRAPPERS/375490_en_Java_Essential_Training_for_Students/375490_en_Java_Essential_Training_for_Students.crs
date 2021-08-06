@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=375490
+Course_System=linkedin.com
+Course_Title=Java Essential Training for Students
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Taking a college-level programming course? Maximize your learning with these Java tutorials. Peggy Fisher explores command-level programming, basic techniques such as managing loops and creating methods, debugging Java code, working with classes and objects, and storing and sorting arrays. Along the way, she investigates the Java API and Java's capabilities for running simulations and algorithm analysis, and issues challenges to write programs that utilize all of these Java features.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=5034175
+Course_System=linkedin.com
+Course_Title=Introduction to Deep Learning with OpenCV
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deep learning is a fairly recent and hugely popular branch of artificial intelligence (AI) that finds patterns and insights in data, including images and video. Its layering and abstraction give deep learning models almost human-like abilities—including advanced image recognition. Using OpenCV—a widely adopted computer vision software—you can run previously trained deep learning models on inexpensive hardware and generate powerful insights from digital images and video. In this course, instructor Jonathan Fernandes introduces you to the world of deep learning via inference, using the OpenCV Deep Neural Networks (dnn) module. You can get an overview of deep learning concepts and architecture, and then discover how to view and load images and videos using OpenCV and Python. Jonathan also shows how to provide classification for both images and videos, use blobs (the equivalent of tensors in other frameworks), and leverage YOLOv3 for custom object detection.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=5043084
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Evading IDS, Firewalls, and Honeypots
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ethical hacking—testing to see if an organization's network is vulnerable to outside attacks—is a desired skill for many IT security professionals. In this course, cybersecurity expert Malcolm Shore prepares you to take your first steps into testing client defenses. Malcolm provides you with an overview of firewall technology, detailing how firewalls work in both Windows and Linux, as well as how to set up a firewall simulation in a GNS3 network. Next, he goes over web application firewalls, API gateway threat mitigation solutions, and how to use honeypots to detect intruders. Finally, he covers the main ways to manage a suspected intrusion, including how to use the Security Onion intrusion detection system (IDS). Note: The topics covered in this course are drawn from the Evading IDS, Firewalls, and Honeypots competency in the Certified Ethical Hacker (CEH) body of knowledge.

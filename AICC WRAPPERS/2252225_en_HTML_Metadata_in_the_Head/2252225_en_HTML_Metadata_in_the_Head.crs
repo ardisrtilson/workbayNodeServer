@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2252225
+Course_System=linkedin.com
+Course_Title=HTML: Metadata in the Head
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The HTML head element is different from the rest of the language, providing context rather than content. Want to control how your page appears on social media? Apply a title? Link a style? All that and more happen in the head. In this course, learn to leverage the invisible but powerful head element to improve search engine rankings, social media sharing, and more. Instructor Jen Kramer shows how to establish the fundamentals, like doctype and language, and use the meta tags to configure character sets, color themes, authors, and more, as well as redirect pages. Plus, learn how to control how links to your page are shown on Facebook with the Open Graph tag. Then discover how to set page titles, link and specify styles, and add JavaScript to your page with other crucial tags.

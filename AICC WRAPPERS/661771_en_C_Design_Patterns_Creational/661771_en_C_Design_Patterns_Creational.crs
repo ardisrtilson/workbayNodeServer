@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Chiu Stone
+Course_ID=661771
+Course_System=linkedin.com
+Course_Title=C++ Design Patterns: Creational
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns solve the challenges software developers face over and over again. They are reusable, proven solutions that make your software more reliable and flexible to change. Creational design patterns move the creation of objects out of the main codebase and into separate classes-a best practice known as encapsulation. This course explores the five most popular creational design patterns for C++. To convince you of their merits, instructor Olivia Chiu first explains why we use design patterns in the first place, and what problems that creational patterns can help you solve. She then reviews the core concepts, implementation instructions, and examples for each pattern: Factory, Abstract Factory, Builder, Prototype, and Singleton. She also shows how to extend patterns and compare patterns to find the best fit for your applications.

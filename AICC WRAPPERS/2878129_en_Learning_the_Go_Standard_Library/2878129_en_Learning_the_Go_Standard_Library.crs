@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2878129
+Course_System=linkedin.com
+Course_Title=Learning the Go Standard Library
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the world of programming languages, Go is a relative newcomer, but has become very popular in the developer community due to its simplicity, performance, and focus on modern programming techniques like concurrency. The key to making the most efficient use of Go is to keep your code lean, and one of the best ways to do that is to use the standard package library. As instructor Joe Marini explains, a big part of the popularity of Go is due to the large and growing ecosystem of packages that make up that standard library. In this course, Joe takes a look at several of the more popular and useful packages that address common development scenarios, like formatting strings for output and display to the user, performing common networking tasks like HTTP requests, processing internet data formats like XML and JSON, and working with files and directories. After this course, you’ll have a solid grasp of what's included in the standard library and how to leverage it within your code.

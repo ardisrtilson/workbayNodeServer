@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Yahalom
+Course_ID=601795
+Course_System=linkedin.com
+Course_Title=Oracle Database 12c: Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Database security is one of the hottest topics for Oracle DBAs, and one of the most important aspects of their role. With the increasing risks of cyberattacks, database hacks, and data leaks, knowing how to fully enable and leverage all of the Oracle 12c security features is essential. In this course, Oracle instructor and consultant David Yahalom covers this vitally important and in-demand skill. Learn how to identify the major risks and security threats, and review general best practices for properly protecting and hardening any production database. Then, dive into hands-on demos that show how to set up user accounts, the connection between users and schemas, database object and system permissions, and roles in a multitenant environment, as well as encrypt data, audit user actions, and access to sensitive information. Plus, find out how to enable data-at-rest security via the Oracle Transparent Data Encryption and backup encryption options.

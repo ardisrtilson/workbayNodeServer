@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=174919
+Course_System=linkedin.com
+Course_Title=Installing and Running Joomla! 3: Local and Web-Hosted Sites
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Joomla! is one of the most popular open-source content management systems in the world, powering over 30 million websites. In this course Jen Kramer will help you install Joomla! locally or remotely, so you can run it from your own computer or on a web host everyone can access. Learn how to install Joomla! with either WAMP (Windows) or MAMP (Mac) stacks, configure Joomla! on a web host, and move your site from a web-hosted environment to a local one—or vice versa. Plus, learn the keys to administering Joomla!, both locally and remotely, including updating Joomla! when the next version is released.

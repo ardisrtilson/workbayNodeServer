@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eduardo Corpeño
+Course_ID=2841617
+Course_System=linkedin.com
+Course_Title=Training Neural Networks in C++
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about the purpose, structure, and training process of neural networks to improve your machine learning skills. In this project-based course, instructor Eduardo Corpeño teaches you how to create an intelligent system with a neural network from scratch in C++, as well as how to choose the right neural network architecture and training method for each problem. Eduardo starts by explaining the difference between a neural network and other programming tools. He goes over why this course uses C++ and how to add different types of neural networks to your toolbox. The inspiration for artificial neural networks is the brain, and Eduardo relates parts of a biological neuron to C++ elements, then shows how to use activation functions and perceptrons in building neuron models. Eduardo covers the steps you will need to build and train your network. He explains segment display recognition, then guides you through designing and training your own SDR neural network.

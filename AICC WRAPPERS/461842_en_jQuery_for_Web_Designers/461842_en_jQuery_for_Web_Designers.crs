@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=461842
+Course_System=linkedin.com
+Course_Title=jQuery for Web Designers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript is the programming language of the web. But some problems are a little difficult to solve using 100% pure JavaScript. jQuery closes most of the gaps, and does it so well that a huge number of developers now use jQuery to create some of the coolest front-end plugins around. This course will help web designers learn how to use jQuery's core library and plugins to create richer, more usable sites—faster and more efficiently than with JavaScript alone. It features real-world examples and some easily learned best practices, while covering jQuery basics such as functions, classes, event binding, and data manipulation. Author and developer Joe Chellman shows how to install and customize popular plugins and offers some compelling use cases for jQuery-based (vs. CSS-based) animation.

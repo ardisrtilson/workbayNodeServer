@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=713389
+Course_System=linkedin.com
+Course_Title=SharePoint Framework for Developers: 5 SPFx and Angular
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular is a hugely popular framework for client-side development. SharePoint Framework (SPFx) is the development methodology for Office 365 and SharePoint on premises. In this installment of the SharePoint Framework for Developers series, learn how to use Angular with SPFx by leveraging Angular elements. After providing some background information on SPFx and how it uses third-party libraries and frameworks, instructor Sahil Malik explains why out-of-the-box Angular doesn't work well with SPFx and dives into the pros and cons of different architectural approaches. He then moves on to discuss Angular elements, which are Angular components packaged as custom elements. Discover how to convert Angular components to Angular elements, as well as how to use Angular elements in SPFx.

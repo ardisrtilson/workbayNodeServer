@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Starr
+Course_ID=2810630
+Course_System=linkedin.com
+Course_Title=Installing and Running WordPress: Shared Hosting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to set up a WordPress-powered site using a shared hosting service? This course is for you. Join instructor Jeff Starr as he steps through the entire process, explaining how to leverage shared hosting to inexpensively share your content with the world. While not all shared hosts work exactly the same way, the principles and techniques covered in this course are universal and will apply to any shared hosting environment. Learn how to set up (and back up) the database, upload WordPress files, make the necessary connections, and start using WordPress.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charles Judd
+Course_ID=3129481
+Course_System=linkedin.com
+Course_Title=Cisco CCNP SCOR Security (350-701) Cert Prep: 1 Security Concepts and Network Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The newest Cisco certification tracks each have one exam that serves as the core exam for that track’s CCNP certification, and that same exam also serves as the written exam for that track’s CCIE certification. For the Security track, that exam is Implementing and Operating Cisco Security Core Technologies (SCOR 350-701). This three-part series provides foundational principles necessary for IT professionals who are prepping for the exam, or are just interested in learning about and deploying Cisco Security solutions. In this course, Charles Judd covers the first two domains of the exam: Fundamental Security Concepts and Network Security.

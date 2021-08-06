@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=482044
+Course_System=linkedin.com
+Course_Title=SharePoint 2016: No-Code Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course demonstrates how to use PowerApps and Microsoft Flow to efficiently create mobile apps and custom workflows without needing to write a single line of code. In this course, SharePoint expert Gini Courter explains how to create a custom list in SharePoint 2016, and then how to use PowerApps to build an application. She explains how to fine-tune your app, showing how to modify the layout, format text, brand your app, and add conditional formatting. Then, she switches to Flow to show how to create a custom workflow that responds to the data entered in the app. Plus, Gini shares how to view the results of your workflow by opening your app on a mobile device and entering a record.

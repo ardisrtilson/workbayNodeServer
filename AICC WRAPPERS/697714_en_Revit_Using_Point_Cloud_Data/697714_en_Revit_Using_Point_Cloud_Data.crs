@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Myers
+Course_ID=697714
+Course_System=linkedin.com
+Course_Title=Revit: Using Point Cloud Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Point clouds from 3D scanners are indispensable tools for modeling existing real-world artifacts. In this course, Brian Myers walks you through incorporating point clouds into your Revit projects. Learn how to view and measure point clouds and use them in modeling architecture, such as walls, doors, and floors. Also, find out how to use point clouds when modeling mechanical systems, such as ductwork, pipes, and more.

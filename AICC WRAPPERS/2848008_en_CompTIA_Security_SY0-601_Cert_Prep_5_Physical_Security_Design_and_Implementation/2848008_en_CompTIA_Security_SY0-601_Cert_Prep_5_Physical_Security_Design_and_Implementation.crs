@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2848008
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 5 Physical Security Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Physical security is an important part of the CompTIA Security+ curriculum. If someone gets ahold of a company laptop, they may steal just as much sensitive information as a digital intruder. In this course, explore the detailed information you need to prepare for the physical security design and implementation elements of version SY0-601 of the CompTIA Security+ exam. Join experienced IT leader, Mike Chapple, to learn about data center protection, physical security controls, business continuity planning, and disaster recovery. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

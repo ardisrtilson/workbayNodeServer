@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=697733
+Course_System=linkedin.com
+Course_Title=Cisco Network Security: Content and Endpoint Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a network professional, it's imperative to have a solid understanding of endpoint threats and how to defend against them. In this course, bolster your understanding of how to combat threats as you study for the Cisco Certified Network Associate (CCNA) Security exam. Join security ambassador Lisa Bock as she prepares you for the Content and Endpoint Security section of the CCNA Security exam 210-260: Implementing Cisco Network Security. Lisa begins by reviewing the current state of cybersecurity and the importance of standards and regulations such as HIPAA and GDPR to ensure privacy. She outlines the COBIT framework and explains how it helps organizations provide information assurance, security, and risk mitigation. She covers web and email security concepts that include web filtering, along with email encryption and spam filtering. To wrap up, she shares best practices, such as leveraging antimalware protection and personal firewalls to prevent data loss in an organization.

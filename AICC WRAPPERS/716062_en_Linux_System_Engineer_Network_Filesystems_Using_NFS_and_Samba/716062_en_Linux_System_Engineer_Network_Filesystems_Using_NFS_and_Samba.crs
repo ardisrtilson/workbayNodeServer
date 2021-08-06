@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=716062
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Network Filesystems Using NFS and Samba
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become a Red Hat Certified Engineer (RHCE). The RHCE certification demonstrates expert-level competence with Red Hat Enterprise Linux and is considered the benchmark for Linux administrators. This course covers objectives related to network filesystems and file sharing. Instructor Grant McWilliams introduces Network File System (NFS), the standard used by virtually every Linux and Unit distribution, and shows how to configure an NFS server. He creates a simple NFS share, providing a brief overview of NFS security and its interaction with SELinux, and then shows how to mount the share from a client computer. Then he reviews the same techniques with Samba, an SMB file and print sharing stack for non-Microsoft operating systems. There are two chapters of hands-on exercises that allow you to practice your skills with NFS and Samba, including creating shares for group collaboration.

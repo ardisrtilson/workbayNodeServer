@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jain Waldrip
+Course_ID=2823554
+Course_System=linkedin.com
+Course_Title=Software Testing Foundations: Continuous Testing and DevOps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The next step beyond agile testing and test automation is continuous testing. Continuous testing means having your test automation run regularly and give code changes the green light before moving on in the development process. It can speed up the development life cycle and contribute to more stable and reliable software deliveries. DevOps provides you with the infrastructure to start running your automation in a continuous integration pipeline—this course can provide you with the skills. Join instructor and developer Jain Waldrip to learn the essential concepts of continuous testing and what DevOps means for QA. Discover methods for running automated tests in a continuous integration pipeline and explore common tools you will encounter in the process of implementing continuous testing. Jain also provides tips for running tests in containers and generating reports from your test results.

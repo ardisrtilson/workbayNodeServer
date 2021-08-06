@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael D. Rodgers, Jr
+Course_ID=697735
+Course_System=linkedin.com
+Course_Title=Spring: Messaging with JMS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Java Message Service (JMS) is a Java API that defines a common set of interfaces that allow applications to securely pass along and receive messages. In this course, learn how to implement messaging within your enterprise Spring applications using JMS. Learn the basics of the JMS specification within Spring and review how to send messages to ActiveMQ, view messages in the ActiveMQ Web Console, and use Spring JMS message converters. Plus, learn how to configure connections, approach response management, and more.

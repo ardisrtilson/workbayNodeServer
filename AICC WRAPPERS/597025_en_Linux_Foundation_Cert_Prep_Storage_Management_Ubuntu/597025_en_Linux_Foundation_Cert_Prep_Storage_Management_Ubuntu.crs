@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=597025
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Storage Management (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Storage is a critical component of any system. Linux offers a variety of approaches to storage management, depending on the size and importance of your data. Mastering this topic is key to finding a job in Linux administration—and it's a core component of Linux Foundation Certified System Administrator (LFCS) certification, one of the most popular Linux certifications around. Join instructor Scott Simpson, as he shows how to manage and optimize file storage on Ubuntu Linux. First, learn how to create, modify, and mount partitions and filesystems, and manage swap space. Scott then combines these basics into more sophisticated solutions using volume management, and shows how to secure Linux storage and configure disk quotas and backup policies.

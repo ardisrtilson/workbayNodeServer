@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=779763
+Course_System=linkedin.com
+Course_Title=Advanced Predictive Modeling: Mastering Ensembles and Metamodeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ensembles involve groups of models working together to make more accurate predictions. When creating complete deployed solutions, data scientists may also leverage passing data from one model to another or using models in combination—also known as metamodeling. These techniques are dominant among winners of modeling competitions like Kaggle as well as leading data science teams around the world. In this advanced course, you can learn how to add ensembles and metamodeling to your toolset. Instructor Keith McCormick provides a conceptual introduction that can be applied in any program: R, Python, SPSS, or SAS. He introduces the most essential ensemble algorithms and explains the basics of metamodeling. Plus, review two case studies that show how to combine supervised and unsupervised ensembles and how to route subpopulations of data to different models in a metamodeling scenario.

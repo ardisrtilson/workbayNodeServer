@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=696861
+Course_System=linkedin.com
+Course_Title=Swift: Delegations and Data Sources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever been frustrated getting data from one storyboard scene to another using delegates? If so, then this concise course is for you. Discover how to work with delegates and data sources, two essential—but tricky—concepts that can confuse even seasoned iOS developers. Get the foundation you need to understand delegates and the theory of how they work. View examples demonstrating the steps to build a delegate in both the iOS and watchOS context, and learn how to use a data source in a playground. To wrap up, review the use of delegates and data sources in Apple factory classes.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=786423
+Course_System=linkedin.com
+Course_Title=Text Analytics and Predictions with R Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Social media, emails, blogs, and text messages offer businesses valuable insights into how their customers think and what they want. But mining this text data isn't a straightforward process; rather, it requires a special set of tools and techniques. In this course, Kumaran Ponnambalam explores these tools and techniques, demonstrating how to use them to analyze text data in R and perform machine learning and predictions. Kumaran shows how to perform text analytics using popular methods like word cloud and sentiment analysis. He then shows how to make predictions with text data using clustering, classification, and recommendations—otherwise known as predictive text.

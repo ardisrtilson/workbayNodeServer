@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2893117
+Course_System=linkedin.com
+Course_Title=DBeaver Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you looking for an alternative to your database platform’s native tools? DBeaver is the universal database client that allows you to work with a wide variety of data platforms from a single interface. In this course, database expert Adam Wilbert shows you how to leverage this powerful tool. Adam gives you a tour of the interface and explains how to create your own database connections and add a PostgreSQL connection. He steps through how to use projects to organize your workspace, as well as the views, filters, and panels you might use when working with tabular data. After exploring how to create and modify database objects and structures, Adam covers how to configure, save, and print an entity relationship (ER) diagram. He offers useful tips on writing commands with the SQL Editor, then concludes with a discussion of some additional features that you might use in the Enterprise Edition.

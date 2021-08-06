@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2800327
+Course_System=linkedin.com
+Course_Title=Unreal Engine: Lunchtime Lessons
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to learn more about Unreal Engine, but don't have time for a lengthy, in-depth course? In this series, instructor George Maestri shares expert techniques tailored for artists and developers looking to build their Unreal Engine skills in their spare moments. George shares tips on everything from geometry to materials to lighting to interactivity. Discover how to create an architectural water effect, use vertex painting to interactively paint multiple materials, import specific terrain into Unreal, and much more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=728390
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Advanced Sketching
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sketching is the foundation for every 3D model in SOLIDWORKS. Understanding the complete suite of sketching tools will improve your designs and productivity. In this course, instructor David Antanavige covers all the advanced features and functions related to sketches in SOLIDWORKS. Review the basic sketch entities, from planes to belt lines, and then learn how to use the core sketching tools, including SketchXpert and Mirror. Find out how to group sketch entities in blocks and reuse those blocks in drawings, create and control splines with the advanced spline tools, and view and edit relations. David then dives into 3D sketching and sketching within drawings, before closing with some techniques for splitting, projecting, and compositing curves in SOLIDWORKS.

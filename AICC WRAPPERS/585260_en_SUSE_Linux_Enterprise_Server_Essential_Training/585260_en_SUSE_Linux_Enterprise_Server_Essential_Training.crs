@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chaim Krause
+Course_ID=585260
+Course_System=linkedin.com
+Course_Title=SUSE Linux Enterprise Server Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with SUSE Linux Enterprise Server, a secure, open source server operating system designed to tackle mission-critical workloads. In this course, learn essential SUSE Linux Enterprise Server administration concepts. Chaim Krause explains how to use YaST, set up a server to use Secure Boot, manage users and groups, and administer the most common network services. Plus, he covers various file systems, and using logical volume management to optimize your storage.

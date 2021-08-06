@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=772336
+Course_System=linkedin.com
+Course_Title=Juniper Security Policies Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Juniper security policies allow networking professionals working with Junos OS to secure access to a network's critical resources by defining the required security level for those resources. Grasping how these security policies work—and how to troubleshoot them—is key for anyone studying for the Juniper Networks Certified Associate, Security (JNCIA-SEC) certification exam. In this course, discover how to protect your network with security policies as you learn the concepts covered in the Security Policies objectives in the JNCIA-SEC exam. Instructor Shyam Raj covers planning and configuring security policies, as well as how you can use these policies to control traffic moving in and out of a network. Plus, discover how to schedule, monitor, and troubleshoot security policies.

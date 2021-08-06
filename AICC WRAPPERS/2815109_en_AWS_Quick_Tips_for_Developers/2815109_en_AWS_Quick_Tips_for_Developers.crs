@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2815109
+Course_System=linkedin.com
+Course_Title=AWS Quick Tips for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) boasts over 150 services for everything from storage to machine learning. This course provides helpful, condensed tips for working smarter with some of the most essential services in this popular cloud platform. Instructor Bear Cahill shares bite-sized answers to common questions developers have about AWS. Whether you're trying to monitor AWS billing, set user policies, or host a web app on Amazon Simple Storage Service (Amazon S3), this course can help by equipping you with insights you can readily apply to keep on task. Each video is self-contained and about one minute long, so you can jump in and get some helpful insights in no time.

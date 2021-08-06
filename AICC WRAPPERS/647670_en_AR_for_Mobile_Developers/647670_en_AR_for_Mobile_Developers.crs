@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=647670
+Course_System=linkedin.com
+Course_Title=AR for Mobile Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Augmented reality (AR) offers developers an array of possibilities for presenting content in new and interesting ways. If this technology has piqued your interest, but you're unsure of how to approach an AR project from a mobile development standpoint, this course can help. Receive an overview of what AR is and learn about which common traits are present in most successful AR apps, and how to approach popular AR tools from the perspective of a developer or entrepreneur. Instructor Emmanuel Henri first takes a look at defining a successful AR project by reviewing examples of well-executed applications. He then moves through the research and planning phases, discussing what brings value to an AR application, and how to approach interactions and device sizing. He wraps up the course with a look at two of the most popular AR tools on today's market: Unreal Engine and Unity.

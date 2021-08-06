@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=724800
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Secure Coding
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to incorporate security into the software development life cycle. Move security into your design and build phases by identifying common insecure code issues and embracing the mindset of a security professional. In this course, security architect Frank Moley provides a basic understanding of secure coding practices. Learn how to understand your attackers and risks and mitigate issues at critical junctures in your code, including thick app, client, and server interactions. Plus, explore how to prevent unauthorized access and data leaks with authentication and cryptography. Frank closes with an overview of security in each phase of the software development life cycle, and next steps for strengthening the security posture of your applications.

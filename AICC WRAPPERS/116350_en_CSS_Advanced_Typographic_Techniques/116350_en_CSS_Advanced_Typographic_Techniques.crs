@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=116350
+Course_System=linkedin.com
+Course_Title=CSS: Advanced Typographic Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CSS is a veritable playground for type designers. It allows you to push the boundaries of typography, and explore new creative possibilities. In this course, senior lynda.com author James Williamson explores a number of advanced CSS typographic effects, including text shadows, animation, transforms, and transitions. Plus, learn to use the JavaScript libraries Lettering.js and Modernizr library to control aspects of typography that typical CSS does not.

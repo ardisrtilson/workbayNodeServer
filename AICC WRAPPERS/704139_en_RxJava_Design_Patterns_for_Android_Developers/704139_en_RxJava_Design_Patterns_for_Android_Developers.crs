@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Bott
+Course_ID=704139
+Course_System=linkedin.com
+Course_Title=RxJava: Design Patterns for Android Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The RxJava library—a Java virtual machine (VM) implementation of Reactive Extensions—extends the observer pattern, making it easier for Android developers to program apps that respond to user events and data changes. In this project-based course, instructor Jon Bott helps to familiarize developers with key aspects of RxJava as he goes over some simple design patterns that work with reactive programming. Learn about traits, observables, threading, and more—as well as how to add RxJava to a layered architecture such as Model-View-Presenter (MVP) or Model-View-ViewModel (MVVM). Plus, review real-world use cases that can help you gain a practical understanding of these concepts.

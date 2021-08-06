@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=2886048
+Course_System=linkedin.com
+Course_Title=Excel for Mac: Advanced Formulas and Functions (365/2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to master all the formulas and functions available in Excel for Mac? In this comprehensive course, Dennis Taylor presents numerous Excel formulas and functions and shows how to use them efficiently. Dennis begins with tips and keyboard shortcuts to accelerate the way you work with formulas within one or multiple worksheets. He then covers how to perform logical tests with the IF, AND, OR, and NOT functions, search and retrieve data with lookup functions (VLOOKUP, XLOOKUP, MATCH, and INDEX), analyze data with statistical functions, use text functions to clean up worksheets, work with array formulas and functions, and master date and time calculations. If you’re looking to up your formulas and functions skills in Excel, join Dennis as he uses practical examples that transition effortlessly to real-world scenarios.

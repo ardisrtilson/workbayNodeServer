@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2938117
+Course_System=linkedin.com
+Course_Title=Wireless Networking Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a broad overview of how wireless networks operate and walk through the steps of setting one up with instructor Kevin Wallace. Kevin discusses wireless LAN design options, wireless standards and security, and more. Kevin also demonstrates how to set up two different types of wireless networks—one using a common consumer-grade router and the other using professional-grade hardware.

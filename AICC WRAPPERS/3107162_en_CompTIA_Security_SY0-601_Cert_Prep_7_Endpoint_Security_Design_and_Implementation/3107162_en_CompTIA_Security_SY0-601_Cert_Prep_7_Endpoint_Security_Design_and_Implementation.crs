@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=3107162
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 7 Endpoint Security Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Endpoints can be attractive targets for cybersecurity adversaries and entry points for network-wide threats. Consequently, security professionals must be adept at keeping these end-user devices uncompromised. In this course, explore the tools and techniques that you can use to protect end-user systems, servers, and other networked devices as you prepare for the CompTIA Security+ (SY0-601) exam. Mike Chapple guides you through security challenges, from malware prevention to threats from embedded devices like printers, HVAC systems, and game consoles. Mike covers hardware and peripheral security, data loss prevention (DLP) technology, and data encryption. Plus, look at scripting as an automation tool and explore common ways to manipulate files in the command line. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

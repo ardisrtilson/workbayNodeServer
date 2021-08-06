@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bryan Lamb
+Course_ID=800203
+Course_System=linkedin.com
+Course_Title=Robot Framework Test Automation: Sauce Labs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Robot Framework test automation framework was designed to help users automate software tests quickly and easily. By adding Sauce Labs to the mix, you can boost your productivity ever further by running your tests in parallel against many of the OS and browser configurations afforded by the Sauce Labs browser cloud. In this course, instructor Bryan Lamb shares what you need to know to get an existing Robot Framework Selenium script to run on the Sauce Labs browser cloud—and, in turn, avoid needing to spend undue time setting up and configuring multiple test machines. Learn how to create and run Sauce Lab scripts, leverage advanced triggering options, test apps behind a firewall, and more.

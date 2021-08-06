@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2864002
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 8 Network Security Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Networks carry sensitive data between systems and users. To protect the confidentiality, integrity, and availability of network traffic, cybersecurity professionals must implement strong security controls. In this course, the eighth installment in the CompTIA Security+ (SY0-601) Cert Prep series, dive into the topic of network security design and implementation as you prepare for the Security+ exam. Instructor Mike Chapple discusses TCP and IP—two of the main protocols that make up all modern networks— and how the components of the TCP/IP stack combine to facilitate network communications. Mike delves into secure network design, including how virtual LANs may be used to segment networks of differing security levels. Plus, he covers essential network security devices, such as firewalls and VPNs; using secure protocols; mobile device security; and more. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

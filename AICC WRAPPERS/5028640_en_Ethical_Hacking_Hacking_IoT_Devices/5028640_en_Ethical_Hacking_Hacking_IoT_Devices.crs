@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Luciano Ferrari
+Course_ID=5028640
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Hacking IoT Devices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The number of IoT (internet of things) devices being deployed is growing exponentially and securing those devices is a huge challenge. In this course, Luciano Ferrari discusses how IoT devices work, including the architectures and protocols used. He covers the main attack surfaces used by hackers and security professionals against IoT devices, how to assess IoT security threats and vulnerabilities, and how to properly secure the devices by following industry best practices and implementing countermeasures.

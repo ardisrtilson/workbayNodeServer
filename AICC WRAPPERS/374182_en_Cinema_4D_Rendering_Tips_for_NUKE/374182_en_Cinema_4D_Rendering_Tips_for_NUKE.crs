@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Whitaker
+Course_ID=374182
+Course_System=linkedin.com
+Course_Title=Cinema 4D Rendering Tips for NUKE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Like a cake, a render isn't fully baked until you've added the finishing touches that take motion graphics from good to great. This course shows you how to take a render directly from CINEMA 4D, or any other 3D package, and bump it up a notch with NUKE. Author Craig Whitaker shows how to combine UVW passes with ST maps to retexture objects, build RGB mattes, create glows and gizmos with Fresnel shaders, and add depth of field, motion blur, and other effects.

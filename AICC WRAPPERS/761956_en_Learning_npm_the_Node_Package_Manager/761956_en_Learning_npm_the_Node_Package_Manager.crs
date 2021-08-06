@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=761956
+Course_System=linkedin.com
+Course_Title=Learning npm the Node Package Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Imagine being able to share and reuse code from common JavaScript libraries like Grunt, Gulp, and Underscore, in addition to custom code. With the node package manager (npm), reusing code is a snap, making it an indispensable part of every developer's toolbox. In this course, Emmanuel Henri shows how to install npm on macOS, Windows, and Linux, and use npm commands and packages to track project dependencies and control installations. Plus, learn how to use NPX, the node package runner, and alternatives to npm such as Yarn.

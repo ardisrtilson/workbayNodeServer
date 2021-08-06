@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Franz Buscha
+Course_ID=5034174
+Course_System=linkedin.com
+Course_Title=Advanced and Specialized Statistics with Stata
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Stata is agile, easy to use, and fast, with the ability to load and process up to 120,000 variables and over 20 billion observations. In this course, take a deeper dive into the popular statistics software. Instructor Franz Buscha explores advanced and specialized topics in Stata, from panel data modeling to interaction effects in regression models. Franz demonstrates several sophisticated data management functions and visualization techniques to complement the basic Stata operations that you may have already mastered. Plus learn about Monte Carlo simulations, count data analysis, survival analysis, and more.

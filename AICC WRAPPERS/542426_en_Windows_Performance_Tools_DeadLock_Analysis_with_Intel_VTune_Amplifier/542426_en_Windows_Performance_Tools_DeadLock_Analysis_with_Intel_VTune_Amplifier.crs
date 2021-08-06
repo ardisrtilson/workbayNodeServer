@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=542426
+Course_System=linkedin.com
+Course_Title=Windows Performance Tools: DeadLock Analysis with Intel VTune Amplifier
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are your Windows apps underperforming? Application threads often wait too long on synchronization objects (locks), which results in processor cores being underutilized. Discover how to use the Locks and Waits analysis in Intel's VTune Amplifier to identify and remove deadlocks: one of the most common reasons for inefficient parallel execution within a Windows application. Follow along with instructor Thomas Pantels as he demos the analysis tool and shows where to locate and enhance source code to remove deadlocks. By the end of this course you will know how to use the Locks and Waits analysis on your own application and improve the efficiency of parallel task execution on Windows.

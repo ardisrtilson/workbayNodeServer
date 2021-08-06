@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kirsten Hunter
+Course_ID=616718
+Course_System=linkedin.com
+Course_Title=Database Clinic: MongoDB
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Database Clinic series pits experts and their databases of choice against a series of the same challenges. In each installment of the series, a specialist demonstrates how their tool of choice would meet each task, providing you with key insights into where each database shines—or falls a bit short. Here, join Kirsten Hunter as she demonstrates how MongoDB—a powerful document database—would handle these challenges. After going over the strengths and weaknesses of MongoDB, Kirsten shows how to create a database in MongoDB, join data sets, and search data. She also covers create, read, update, and delete (CRUD) operations, as well as how to perform calculations in MongoDB.

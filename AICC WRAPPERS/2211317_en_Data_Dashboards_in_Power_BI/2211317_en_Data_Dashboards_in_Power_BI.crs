@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Helen Wall
+Course_ID=2211317
+Course_System=linkedin.com
+Course_Title=Data Dashboards in Power BI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power BI is a powerful data analytics and visualization tool that allows business users to monitor data, analyze trends, and make decisions. In this course, Helen Wall focuses on the front end of the Power BI application—the dashboard—where users interact with charts and graphs that communicate trends in their data. Throughout this course, Helen steps through how to design and customize the setup of visuals and charts to make it easy to use, understand, and interact with the dashboard model. Learn how to work with data from open-source websites, create visuals such as heatmaps and sparklines, compare multiple variables with trendlines and violin plots, and build engaging maps. To wrap up, she demonstrates how to create and share your finished product: an intuitive, engaging dashboard.

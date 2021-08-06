@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joey D'Antoni
+Course_ID=688529
+Course_System=linkedin.com
+Course_Title=Learning SQL Server Development on Linux
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The release of Microsoft SQL Server 2017 introduces a wide range of new features for developers—including the ability to leverage the power of the SQL Server engine on Linux operating systems. In this course, get up to speed with all of the exciting new features available in this platform, and learn about SQL Server on Linux. Instructor Joey D'Antoni also covers adaptive query processing, discussing batch mode adaptive joins, interleaved execution, and automatic tuning. He wraps up the course with a discussion of SQL Operations Studio, an open-source tool that you can use to manage SQL Server and Azure SQL Database from any platform.

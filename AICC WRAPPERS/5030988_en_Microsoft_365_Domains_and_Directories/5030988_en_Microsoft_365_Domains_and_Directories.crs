@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=5030988
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Domains and Directories
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft 365 is a complete, intelligent solution, including Office 365, Windows 10, and Enterprise Mobility + Security. In this course, instructor Brien Posey steps through how to manage domains and directories in Microsoft 365 and Azure AD. Brien begins by showing how to add, configure, and remove a domain, as well as how to link an Office 365 user to a custom domain name. Then, he shows how to set up directory synchronization, configure multi-forest synchronization, and set up Active Directory Federation Services (AD FS), an authentication and authorization service that provides a single sign-on solution for Windows-based networks. To wrap up, he shows how to publish an application to Azure AD. This course can also prepare you for the Microsoft 365 Identity and Services (MS-100) exam.

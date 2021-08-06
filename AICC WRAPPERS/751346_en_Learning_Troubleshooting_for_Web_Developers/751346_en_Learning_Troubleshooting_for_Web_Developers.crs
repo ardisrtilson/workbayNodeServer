@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=751346
+Course_System=linkedin.com
+Course_Title=Learning Troubleshooting for Web Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Troubleshooting problems is a foundational skill in web development. Unresolved issues can bring development to a halt. Learn the best places to perform research and to get answers—both online and in person—in this course for new and beginner web developers. Instructor Carrie Dils, an experienced developer, covers the basics: checking for system updates, restarting, and consulting the manuals. If those steps don't solve your problem, it's time to look for answers. Carrie shows how to enter your question into Google, search forums, and use resources like GitHub, user groups, and even social media. If the answer isn't available, maybe the question hasn't been asked yet. In that case, Carrie explains how to ask for help by posing your questions online, and examine alternatives that may help you work around any issues you can't resolve.

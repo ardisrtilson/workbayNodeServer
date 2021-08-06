@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bernardo Pineda
+Course_ID=604258
+Course_System=linkedin.com
+Course_Title=Laravel 5 Essential Training: 2 Testing, Securing, and Deploying
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Laravel is the most popular MVC framework for PHP. This course teaches the basics you need to know to test, secure, and deploy elegant Laravel applications. Instructor Bernard Pineda shows how to use the test-driven development paradigm and PHPUnit to build new Laravel features, secure your application from attack, authenticate users, download and upload files, and deploy applications while keeping your source code and database structure up to date.

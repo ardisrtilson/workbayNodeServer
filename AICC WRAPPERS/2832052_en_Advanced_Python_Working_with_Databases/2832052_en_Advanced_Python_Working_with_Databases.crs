@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=2832052
+Course_System=linkedin.com
+Course_Title=Advanced Python: Working with Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To create functional and useful Python applications, you need a database. Databases allow you to store data from user sessions, track inventory, make recommendations, and more. However, Python is compatible with many options: SQLite, MySQL, and PostgreSQL, among others. Selecting the right database is a skill that advanced developers are expected to master. This course provides an excellent primer, comparing the different types of databases that can be connected through the Python Database API. Instructor Kathryn Hodge teaches the differences between SQLite, MySQL, and PostgreSQL and shows how to use the ORM tool SQLAlchemy to query a database. The final chapters put your knowledge to practical use in two hands-on projects: developing a full-stack application with Python, PostgreSQL, and Flask and creating a data analysis app with pandas and Jupyter Notebook. By the end, you should feel comfortable creating and using databases and be able to decide which Python database is right for you.

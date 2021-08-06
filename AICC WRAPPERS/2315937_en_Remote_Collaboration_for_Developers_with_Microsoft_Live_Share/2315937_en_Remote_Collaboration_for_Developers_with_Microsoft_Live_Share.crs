@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos, Walt Ritscher
+Course_ID=2315937
+Course_System=linkedin.com
+Course_Title=Remote Collaboration for Developers with Microsoft Live Share
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Remote work is the new normal for many professionals. Software developers acclimating to this new world of work must grapple with the same challenges facing those in other industries. How do you best approach remote collaboration? How do you remain efficient when your living room is now your office? Cloud-based DevOps tools help remote developers manage their source code and build pipelines, and virtual communication tools help them keep in touch with their coworkers. Developers also need tooling to write, review, and pair with other developers in their IDEs and code editors. In this course, staff instructors Walt Ritscher and Ray Villalobos dive into one such tool: Microsoft Visual Studio Live Share. This tool—which is integrated in the Visual Studio IDE and Visual Studio Code editor—makes it easy to share, edit, and debug your code without requiring collaborators to install SDKs or clone any repos. Discover how to start a Live Share session, co-debug a project, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=774915
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Database Servers Using MariaDB
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Study to pass the Red Hat Certified Engineer (RHCE) exam—the benchmark certification for Red Hat Enterprise Linux. This installment of the RHCE Cert Prep series covers database configuration and management with MariaDB. Instructor Grant McWilliams begins by reviewing database basics, walking through a MariaDB server install, and noting differences between MySQL and MariaDB. Then he demonstrates some SQL commands for creating databases and tables, and how to query the data held within them. Next, he explains how to set and recover the database root user's password and secure your database server installation. Finally, he shows how to create and restore logical MariaDB backups of databases and tables.

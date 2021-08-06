@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=165438
+Course_System=linkedin.com
+Course_Title=Learning Excel Cluster Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Excel's built-in data management and computation functions to identify clusters of data points—with little or no VBA! Author Curt Frye shows you how to set up a worksheet for cluster analysis, create formulas that identify the closest focal point (centroid) for each row, and analyze your results in an Excel table or XY scatter chart. Members who don't mind recording macros or writing VBA code can learn how to automate some parts of the procedure.

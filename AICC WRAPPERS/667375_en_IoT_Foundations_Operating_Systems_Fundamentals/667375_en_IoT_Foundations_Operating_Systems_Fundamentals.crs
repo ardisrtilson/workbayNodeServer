@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Hu
+Course_ID=667375
+Course_System=linkedin.com
+Course_Title=IoT Foundations: Operating Systems Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet of Things (IoT) offers developers an array of exciting possibilities to explore. But building systems solutions for IoT can be challenging, and such systems may not be equipped to effectively manage resources and schedule tasks for modern IoT devices. Using an operating system (OS) can help you solve some of these issues. In this course, join Ryan Hu as he reviews the basics of using an operating system for IoT, and explores OS-related concepts and examples using an OS kernel, FreeRTOS. Learn about characteristics and technical requirements of OSs, and explore task management, intertask communication, memory management, and more.

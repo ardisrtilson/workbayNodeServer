@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emily Kay
+Course_ID=2811723
+Course_System=linkedin.com
+Course_Title=Customizing a WordPress Theme from an Adobe XD Prototype
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore how to take a static website prototype created in Adobe XD and transform it into a fully functioning website using a WordPress theme and plugins. Instructor Emily Kay starts with an overview of setting up WordPress for theme customization, then moves on to show which plugins are needed for the project. Emily covers how to make the content in your WordPress site closely match your XD prototype, including posts, menus, and images. Discover using widgets to extend your theme, see ways to promote your website, and learn about how to set up pages for best results with search engines.

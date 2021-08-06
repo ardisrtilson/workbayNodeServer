@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=2885122
+Course_System=linkedin.com
+Course_Title=Java Object-Oriented Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you familiar with Java but want to get the most out of your Java programs? In this course, Kathryn Hodge teaches the basics of object-oriented programming in Java, so you can write code that’s secure, scalable, and easier to troubleshoot. Kathryn begins by showing how object-oriented principles are embedded into the Java language from the first code file you create. She looks at how classes, instances, and constructors embody the idea of representing real-life objects in code. Kathryn not only shows how to apply object-oriented principles in your own programs, but also explains how Java leverages these principles behind the scenes. While many resources about object-oriented programming focus on abstract examples, the goal of this course is to get away from the abstract and focus more on practical examples of these principles in Java. Along with deep dives into the source code, this course also provides several challenges and solutions to help you apply what you’ve learned.

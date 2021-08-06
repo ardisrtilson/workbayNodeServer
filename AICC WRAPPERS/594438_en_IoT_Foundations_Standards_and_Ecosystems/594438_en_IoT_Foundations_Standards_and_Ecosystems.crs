@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=594438
+Course_System=linkedin.com
+Course_Title=IoT Foundations: Standards and Ecosystems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The continuous development of IoT ecosystems promises a future in which our homes, cars, and cities are more connected. But as this technology evolves, it has become increasingly important to tackle the communication and compatibility challenges facing the billions of connected devices already out in the world. In this course, learn about IoT standards and ecosystems. Instructor Zahraa Khalil provides a high-level look at the IoT ecosystem, discussing IoT markets, technology, and standards. She also goes over the challenges facing the development of IoT—including security, privacy, and legal issues—the IoT standards development process, and IoT protocols for device management. Plus, she shares examples of IoT ecosystems in action by exploring case studies of smart cities.

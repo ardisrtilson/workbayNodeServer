@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Winnie
+Course_ID=508648
+Course_System=linkedin.com
+Course_Title=Computer Science Principles Lab: JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take coding from theory to practice with our Computer Science Principles Labs. This hands-on lab gives you a chance to experiment with JavaScript, one of the most popular languages for web programming. JavaScript's ease of use, cross-platform compatibility, and many free coding tools make it a great choice for new programmers. Building on the lessons in the Computer Science Principles series, this course shows how to apply concepts such as variables, functions, conditions, loops, and arrays directly to the JavaScript language. Download the free exercise files and follow along with series instructor Doug Winnie as he breaks down the syntax and shows JavaScript in action.

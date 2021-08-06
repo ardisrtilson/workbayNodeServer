@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Parth Anand
+Course_ID=2313158
+Course_System=linkedin.com
+Course_Title=AR Development Techniques 02: Lighting and Physics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course, the second in a four-part series, teaches you about lighting and physics in AR application development in Unity. First, instructor Parth Anand explains how to set up a simple AR scene and how to detect unique planes in the environment. He teaches you how to place a virtual object on a plane. Next, Parth shows you how to write code to hide plane visualizers and how to reset an augmented reality scene. He goes over the different lightning options available in Unity, covering the light projector, how to add reflections, and how to gauge environmental light properties. Parth shows you how to create light-based shadows and blob shadows. He teaches you about world space, screen space, and how to create a 3D UI. Parth goes over on-screen gestures to scale, rotate, and move virtual objects. He covers how to add physics collisions using colliders and Rigidbody. In conclusion, he steps you through how to create an AR bowling app where the user can launch a ball and hit bowling pins. Note: The fourth installment in this series will be released in January 2021.

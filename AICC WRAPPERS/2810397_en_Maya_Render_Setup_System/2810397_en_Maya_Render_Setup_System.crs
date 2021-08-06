@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2810397
+Course_System=linkedin.com
+Course_Title=Maya: Render Setup System
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rendering can be the rewarding final step at the end of a long 3D modeling process. Or, it can be a frustrating chore. It all comes down to the right settings. Individuals working in Maya have access to the Render Setup window, which provides everything animators need to manage multiple renders within a single window. In this targeted course, George Maestri explores the Render Setup window and Light Editor in Maya. George provides an overview of both tools and then demonstrates how to set up render layers and create collections: groups of objects that you want to render on each layer. Plus, he helps you adjust the shading, materials, and lighting of objects in your scene and render the final results using this powerful tool.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Brynsvold
+Course_ID=630606
+Course_System=linkedin.com
+Course_Title=Android App Development: Localization and Internationalization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are 260 million Android users in the US—but there are ten times as many around the world. Expand your Android app's reach to a global audience. Learn how to internationalize your app and develop a process for localizing it for other languages and locales. This course covers the difference between localization and internationalization, and shows how to accomplish both with an existing Android app. Developer Eric Brynsvold demonstrates how to customize different elements of your apps for international audiences, including strings, currencies, dates and numbers, and even alternate images and layouts. Once the app is internationalized, he introduces considerations for localizing your interface and content for target markets, including selecting a translation service, workflow best practices, and test strategies. Plus, learn how to manage the internationalized and localized versions of your app so they stay up to date when you add new features.

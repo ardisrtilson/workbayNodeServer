@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=806145
+Course_System=linkedin.com
+Course_Title=Excel: Introduction to Formatting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a quick crash course in Excel formatting to make your spreadsheets more readable and compelling. Dennis Taylor shows the basics of formatting in Excel, including how to emphasize data with fonts, borders, and colors. Learn how to adjust the formatting of numbers, dates, and times; create value-based conditional formatting; adjust rows and columns without commands; and easily copy and even paint formatting across multiple cells.

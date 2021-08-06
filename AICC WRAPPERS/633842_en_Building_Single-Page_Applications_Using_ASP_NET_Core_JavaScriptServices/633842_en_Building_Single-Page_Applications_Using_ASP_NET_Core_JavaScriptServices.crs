@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kazi Nasrat Ali
+Course_ID=633842
+Course_System=linkedin.com
+Course_Title=Building Single-Page Applications Using ASP.NET Core JavaScriptServices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore how to leverage ASP.NET Core single-page project templates—including React.js, Angular.js, Vue.js, and Aurelia.js. This course covers how to work with templates and JavaScriptServices to accomplish front-end projects, from setup to app publication. Find out how to approach scaffolding a project, implement SPA (single-page application) services, execute JS in the server, use routing helpers, create database features, add React components, and more.

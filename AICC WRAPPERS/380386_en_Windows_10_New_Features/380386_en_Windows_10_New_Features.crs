@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Garrick Chow
+Course_ID=380386
+Course_System=linkedin.com
+Course_Title=Windows 10 New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows 10 is here! Explore the core new features and improvements found in the newest Microsoft operating system. Take a look at the Start menu, Task View, Snap Assist, and Continuum, which allows you to run the same apps on mobile Windows devices as your PC. Also see how the Cortana virtual assistant can help you find files and more, and check out the the Edge web browser's novel capabilities.

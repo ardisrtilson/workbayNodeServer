@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=2833069
+Course_System=linkedin.com
+Course_Title=Concurrent Programming with Android: Threads, Workers, and Kotlin Coroutines
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Best practices for concurrent programming in Android have gone through major changes in the past few years. From new restrictions on the use of long-running services to the introduction of Kotlin coroutines and the WorkManager API, Android developers have many new skills to learn. In this course, instructor David Gassner takes a deep dive into concurrent programming for Android, providing a hands-on tour of different ways to run Android tasks in the background. Learn about various kinds of services: bound, started, foreground, and implementations of JobIntentService. Explore the use of Handlers, Threads, and Runnable objects to delay or push tasks into background threads. Plus, learn about the use of Kotlin coroutines to run multiple concurrent operations and manage background threads.

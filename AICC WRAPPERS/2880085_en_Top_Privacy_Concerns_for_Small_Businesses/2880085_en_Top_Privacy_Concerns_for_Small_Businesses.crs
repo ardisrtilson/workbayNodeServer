@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nishant Bhajaria
+Course_ID=2880085
+Course_System=linkedin.com
+Course_Title=Top Privacy Concerns for Small Businesses
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unlike large companies, small companies cannot always hire privacy specialists or buy pricey third-party tools. In this course, instructor Nishant Bhajaria provides an easy-to-understand, practical primer on privacy, security, and compliance. He shows hands-on leaders what obligations are created by laws like GDPR and CCPA, identifies techniques to detect privacy risk in data handling and product development, demonstrates how to implement tools and processes to manage access to sensitive data, and much more. This course can help you build tooling for critical functions like data inventory; data sharing and export; data subject access requests; deleting account and event streaming data; capturing; storing and updating user consent; and addressing security vulnerabilities that could cause privacy harm. After taking this course, companies will be able to prioritize and execute on their privacy priorities intelligently, reduce risk, manage compliance, and build user trust.

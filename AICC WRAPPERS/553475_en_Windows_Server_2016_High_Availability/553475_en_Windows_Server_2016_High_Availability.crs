@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=553475
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: High Availability
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a clear understanding of the high-availability features in Windows Server 2016. This course maps to the fifth domain of Exam 70-743, Upgrading Your Skills to MCSA: Windows Server 2016—Implement high availability. Learn how to set up and manage high-availability solutions. Robert McMillen covers configuring network load balancing, creating a failover cluster, setting up and managing a cluster network, and interacting with Hyper-V. Plus, he walks through configuring role-specific settings, creating continuously available shares, and managing cluster movement.

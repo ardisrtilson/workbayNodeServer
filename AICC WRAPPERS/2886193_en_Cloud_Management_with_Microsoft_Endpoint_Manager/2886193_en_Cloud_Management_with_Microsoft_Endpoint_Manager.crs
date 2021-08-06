@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2886193
+Course_System=linkedin.com
+Course_Title=Cloud Management with Microsoft Endpoint Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Endpoint Manager offers a unified management system that combines functions of Microsoft Intune and Configuration Manager to allow admins to secure, deploy, and manage users, apps, and devices. In this course, instructor Robert McMillen explains how Endpoint Manager can be used to manage endpoint security, device management, and cloud actions. Beginning with an overview of Endpoint products and how to identify which products are best for specific environments, he then goes in depth with Intune, Configuration Manager, and Azure Active Directory.

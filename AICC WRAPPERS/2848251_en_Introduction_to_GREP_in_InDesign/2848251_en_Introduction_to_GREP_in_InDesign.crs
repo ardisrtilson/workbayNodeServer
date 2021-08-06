@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Erica Gamet
+Course_ID=2848251
+Course_System=linkedin.com
+Course_Title=Introduction to GREP in InDesign
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GREP offers InDesign users advanced search techniques for finding and replacing text and formatting. This course decodes the language of GREP, showing how to use this versatile tool to speed up everyday formatting tasks. Instructor Erica Gamet begins by exploring what GREP does and where you can find it in InDesign. She then covers the basic building blocks of code, the expression rules, and how GREP can apply formatting to text. Erica also explores some of the lesser-known features of GREP, explaining how to use GREP styles and the Find/Change dialog box to rearrange data and dynamically format text. Upon wrapping up this course, you'll have the information you need to start constructing GREP expressions of your own.

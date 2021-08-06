@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Drake Boley
+Course_ID=625945
+Course_System=linkedin.com
+Course_Title=Migrating from React to Angular
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to convert a React application into an Angular app. Drake Boley starts with preparation steps: installing the Angular CLI, evaluating the structure of an app's code, and using generators. Next comes the conversion process, including how to handle types, interfaces, components, styles, and controllers. Then, directives and pipes transform templates. Finally, services and routing are explored as alternatives to flux architecture.

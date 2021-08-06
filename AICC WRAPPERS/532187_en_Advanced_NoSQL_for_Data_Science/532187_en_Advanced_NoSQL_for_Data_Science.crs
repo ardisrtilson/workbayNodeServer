@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=532187
+Course_System=linkedin.com
+Course_Title=Advanced NoSQL for Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many organizations are turning to NoSQL databases to store large volumes of complex data, sparking an increased need for data scientists and analysts to understand non-relational data stores. If you're a data scientist or business analyst who needs to work with NoSQL, then this course is for you. Learn about the differences between relational and NoSQL databases, review types of NoSQL databases, and see how to perform common data science tasks, including data preparation, exploration, and building and applying models. The course begins with an introduction to NoSQL, and then delves into the specifics of document, wide-column, and graph databases. Learn key details for performing data preparation, exploration, and extraction for each type of NoSQL database. Review case studies that show how to use various NoSQL databases with popular data science tools, including the document database MongoDB, the wide-column database Cassandra, and the graph database Neo4j.

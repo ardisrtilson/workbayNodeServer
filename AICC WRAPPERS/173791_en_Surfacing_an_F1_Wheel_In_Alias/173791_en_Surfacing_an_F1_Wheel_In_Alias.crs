@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Veejay Gahir
+Course_ID=173791
+Course_System=linkedin.com
+Course_Title=Surfacing an F1 Wheel In Alias
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Picking up where Modeling an F1 Wheel in Maya left off, in this course Veejay Gahir walks through the steps required to surface a Formula 1 wheel in Alias. With assets from the previous course, you'll be able to complete the entire project, from setting up your Alias model and building high-quality surfaces for the different wheel components, to exporting data for use in rapid prototype physical models and rendering the final product.

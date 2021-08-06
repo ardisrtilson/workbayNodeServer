@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=734645
+Course_System=linkedin.com
+Course_Title=Azure Machine Learning Development: 1 Basic Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data science is opening up exciting new opportunities, especially for Microsoft developers who want to take advantage of the artificial intelligence and machine learning capabilities of Azure. This introductory course provides an overview of the basic concepts underlying Azure Machine Learning. Learn the difference between supervised, unsupervised, and reinforcement learning and important factors that impact the success of any data science project: the quality of the data you use, the questions you ask, and the predictions you make. Instructor Sahil Malik also reviews some of the machine learning algorithms—clustering, anomaly detection, classification, and regression—that are most relevant to Azure.

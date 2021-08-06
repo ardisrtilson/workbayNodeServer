@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=2280171
+Course_System=linkedin.com
+Course_Title=AWS for Developers: Step Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using Step Functions—a fully managed service from AWS—developers can design visual workflows and run them to coordinate their AWS services. In this course, instructor Carlos Rivas takes a deep dive into Step Functions, sharing what you need to know to use the service to enhance and automate your cloud applications without needing to write additional code. Carlos begins by highlighting use cases for Step Functions. He then identifies the elements that make up state machines (the workflows you can build with Step Functions). He shows how to manipulate data when it goes from one function to another; demonstrates how to capture and handle errors; and provides design ideas that can help you avoid common pitfalls. Along the way, Carlos shares challenges that help you practice your new skills.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2882046
+Course_System=linkedin.com
+Course_Title=Cloud Native Projects: AWS Serverless
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers need to understand how to use serverless functions in cloud environments. In this course, instructor Frank P Moley III explains how to use AWS Lambda as a serverless framework and why developers should understand how to use this tool. Frank introduces you to AWS Lambda and how to interact with Lambda in the AWS console. He talks about how and why serverless exists and operates as a technology selection, including its benefits, downfalls, and use cases. Frank covers how to use Lambda functions with Python, Java, and Go.

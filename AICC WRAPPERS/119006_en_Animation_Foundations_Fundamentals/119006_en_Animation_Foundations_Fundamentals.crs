@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=119006
+Course_System=linkedin.com
+Course_Title=Animation Foundations: Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dig into the roots of animation in this course for animators, motion graphics artists, and visual effects designers of all levels. Author George Maestri reviews the basic concepts of animation and what makes things move—and the features you'll find in almost every animation package, including X, Y, and Z planes, keyframes, animation paths, hierarchies, pivots, and rotation. Plus, learn time-tested techniques that bring your animations to life, such as easing, squash and stretch, exaggeration, staging, and the importance of timing.

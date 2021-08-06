@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2882186
+Course_System=linkedin.com
+Course_Title=Azure Administration: Deploy and Manage Compute Resources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Effectively managing compute resources is key to infrastructure administration—and a successful career in IT. In this course, instructor Sharon Bennett discusses how to successfully deploy and manage Microsoft Azure compute resources, focusing heavily on configuration of virtual machines. Sharon shows how to configure VMs for high availability and scalability, set up encryption, provision VMs, and automate VM deployment and configuration with Azure templates. She also teaches how to create and configure containers and web apps. This course is also a valuable resource for anyone preparing for the corresponding domain of the AZ-104 Azure Administrator certification exam. Level up your Azure skills today with these hands-on demos and practical techniques.

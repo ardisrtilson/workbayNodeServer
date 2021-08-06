@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2833060
+Course_System=linkedin.com
+Course_Title=Stream Processing Patterns in Apache Flink
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Frameworks such as Apache Flink can help you build fast, scalable stream processing applications, but big data engineers still need to design smart use cases to achieve maximum efficiency. In this course, instructor Kumaran Ponnambalam demonstrates how to use Apache Flink and associated technologies to build stream-processing use cases leveraging popular patterns. Kumaran begins by highlighting the opportunities and challenges that stream processing brings to big data. He then goes over four popular patterns for stream processing: streaming analytics, alerts and thresholds, leaderboards, and real-time predictions. Along the way, he reviews example use cases and explains how to leverage Flink, as well as key technologies like MariaDB and Redis, to implement key examples.

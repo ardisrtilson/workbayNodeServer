@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2811028
+Course_System=linkedin.com
+Course_Title=CSS: Variables and Fluid Layouts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When responsive web design was first introduced, it was at once magical and inefficient. Designers had to work with floats to lay out their grid-based systems, as well as hack media queries. Recent advances in CSS simplify this process, letting your design adapt to circumstances more fluidly. But leveraging these new features requires abandoning current practices and shifting to a model where you trade precise control for consistency and ease of implementation. This course can help you make that shift. Jen Kramer lays out how to do math directly in CSS via the calc() function and leverage custom properties, or variables, to streamline your CSS. Along the way, Jen shares examples of how to use these properties, including how to add custom properties to type scale and work with Flexbox and Grid.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=774905
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: App Architecture with Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Android app architecture constantly evolves. The introduction of the Kotlin programming language, new form factors such as Chromebooks, and reusable architecture components have made it faster and easier than ever to build high-quality Android apps. It is imperative that developers understand what the latest tools and recommendations are and how to use them to build out their applications. In this course, instructor David Gassner explains how to build an Android app that uses Kotlin instead of Java, add navigation functionality, and leverage the most useful architecture components such as LifecycleObserver, ViewModel, and LiveData, to create apps that are robust and easy to maintain over time.

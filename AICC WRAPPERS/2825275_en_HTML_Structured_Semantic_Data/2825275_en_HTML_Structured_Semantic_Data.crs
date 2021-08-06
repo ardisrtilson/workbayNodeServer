@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2825275
+Course_System=linkedin.com
+Course_Title=HTML: Structured Semantic Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web development focuses on creating highly visual content, but many crawlers ignore the layouts and imagery that give human readers context. To aid Google Search and other bots, you can use structured semantic data. This invisible but critical metadata determines how your sites appear online and can help boost your search rankings. In this course, Jen Kramer shows how to add data structured for machine readers to pages also intended for humans. Learn how to describe content in schemas, use meta tags, and leverage tools like the Structured Data Markup Helper and Structured Data Testing Tool—both from Google—to add microdata and JSON-LD code to your pages. In chapter three, Jen provides several structured data examples as well as a challenge to test your ability to provide rich search results.

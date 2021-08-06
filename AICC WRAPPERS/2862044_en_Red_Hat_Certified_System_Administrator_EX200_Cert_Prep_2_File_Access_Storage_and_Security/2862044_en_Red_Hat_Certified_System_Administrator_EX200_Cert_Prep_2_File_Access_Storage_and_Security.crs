@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2862044
+Course_System=linkedin.com
+Course_Title=Red Hat Certified System Administrator (EX200) Cert Prep: 2 File Access, Storage, and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Red Hat Enterprise Linux is one of the top enterprise Linux distributions, and the Red Hat Certified System Administrator (RHCSA) cert is highly sought after. This course helps you prepare for the second half of the RHCSA exam. First, instructor Grant McWilliams covers tasks related to users and accounts, such as creating and deleting users and utilizing sudo. Next, he delves into files access control, with topics that include the Linux permission system, special bits such as SUID and SGID, and access control lists (ACLs). Grant explores how to manage security with topics like security context, SELinux policy violations, and maintaining firewalls. He walks you through how to access Linux remotely, using SSH. In conclusion, Grant discusses how to configure local storage, including different tools to create partitions, logical volume management, and mounting and unmounting network drives.

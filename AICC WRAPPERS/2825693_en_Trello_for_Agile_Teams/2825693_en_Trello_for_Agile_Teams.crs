@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=2825693
+Course_System=linkedin.com
+Course_Title=Trello for Agile Teams
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Trello is a popular, web-based list-making application. It uses a kanban-style taskboard to organize and prioritize your work. In this course, learn how to optimize Trello to work well with agile teams. Agile expert Doug Rose shares best practices and tips for leveraging the tool's features in your product delivery. Doug begins with a quick overview of the pros and cons of working with Trello. He shows how to set up a Trello taskboard to deliver in sprints. This helps your team get better feedback and maintain a sustainable pace. He also demonstrates how to map out the big picture using portfolio boards and story cards. To wrap up, he shares how to connect a variety of helpful Power-Ups to Trello cards. He explains how to connect your story cards to GitHub, create lightweight visualizations with Screenful, use ZenDesk help desk tickets to create Trello cards for the product map, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=677171
+Course_System=linkedin.com
+Course_Title=iOS Core Bluetooth for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+iOS devices are equipped with Bluetooth low energy (BLE) capabilities, but—for many developers—creating an app that communicates with devices that are equipped with BLE wireless technology can seem a bit daunting. This course provides practical solutions for enterprise developers seeking to utilize BLE. Discover how to use the Core Bluetooth framework from Apple to detect BLE devices, connect to them, and read and write their data. Plus, learn how to create an app that serves as a peripheral for other connections.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=479404
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Session Hijacking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most sophisticated forms of cyberattacks is session hijacking. Hackers take over network, web, or service sessions—the valid interactions of unsuspecting users—in order to gain unauthorized access to data and systems and attack an organization from the inside. The root failure is weaknesses in common protocols. To prevent these attacks, IT security professionals need to know which protocols are vulnerable and how to test their systems for exposure. This course teaches you what session hijacking is, and how black-hat hackers use it to attack an organization. Learn how TCP, web, and wireless protocols work and how hackers exploit them. Find out how to use built-in Windows and Linux tools, as well as specialized third-party solutions such as Zed Attack Proxy (ZAP) and Cain, to detect and shore up vulnerabilities. Author and cybersecurity expert Malcolm Shore also discusses remote hijacking, which allows hackers to take control of drones or even vehicles. Note: This course maps to the Session Hijacking domain of the Certified Ethical Hacking exam. Review the exam objectives at the EC-Council's website.

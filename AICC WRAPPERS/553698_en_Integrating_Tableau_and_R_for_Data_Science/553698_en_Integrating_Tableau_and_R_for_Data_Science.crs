@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=553698
+Course_System=linkedin.com
+Course_Title=Integrating Tableau and R for Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+R is known as one of the most robust statistical computing solutions out there. Tableau—a leading business intelligence platform—provides excellent data visualization and exploration capabilities. When combined, Tableau and R offer one of the most powerful and complete data analytics solutions in the industry today, providing businesses with unparalleled abilities to see and understand their data. In this course, learn how to integrate these two platforms, as well as how to determine when each one is a better choice. Instructor Ben Sullins explains how to connect Tableau to R, and covers geocoding, running linear regression models, clustering, and more.

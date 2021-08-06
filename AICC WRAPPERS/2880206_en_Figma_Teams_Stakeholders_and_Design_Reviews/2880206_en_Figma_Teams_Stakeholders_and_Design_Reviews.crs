@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2880206
+Course_System=linkedin.com
+Course_Title=Figma: Teams, Stakeholders, and Design Reviews
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Streamline your UX design process. Learn how to use Figma to organize your teams, build your designs, and distribute them for review by nontechnical stakeholders. In this course instructor Tom Green shows how Figma features can help you create a central hub for your entire team to collaborate and conceptualize designs. He starts with an overview of the UX design process and shows how to create and manage teams in Figma. Next, learn how to conduct and report on your user research in Figma, including personas, journey maps, touchpoints, and user flows. Then find out how to conceptualize your design using tools like FigJam, the Figma whiteboard app; wireframes; and even paper sketches. Tom then shows how to turn your wireframe into a functional mockup and add interactivity. In the final chapters, he shows how to conduct user testing to validate your design and share and hand off your project.

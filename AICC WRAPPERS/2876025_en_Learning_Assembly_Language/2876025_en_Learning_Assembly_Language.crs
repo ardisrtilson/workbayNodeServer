@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2876025
+Course_System=linkedin.com
+Course_Title=Learning Assembly Language
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Malcolm Shore offers you a hands-on introduction to programming in both the 32 bit and 64 bit x86 assembler and shows how you can use it to access system functions through the Windows API. First, Malcolm shows you how to install and test the GoAsm assembler, the Easy Code IDE, and the x64 debugger. He explains how to build a complex data structure and how to manipulate constants, registers, and main memory. He shows you how to write and call subprograms and how to manipulate information as an array. Then Malcolm goes into the Windows API and how to use it. He describes how to run a system command from inside an assembler program, as well as how to code and use jump tables. Next, he steps you through how to use what you’ve learned to complete an enigmatic encryptor. After showing you how to resolve some security issues in the assembler, Malcolm concludes with several examples of how you can run assembly code from another language with assembler subprograms.

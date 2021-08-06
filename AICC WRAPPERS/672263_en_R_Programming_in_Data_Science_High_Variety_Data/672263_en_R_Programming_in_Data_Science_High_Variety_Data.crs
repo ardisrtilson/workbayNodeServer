@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=672263
+Course_System=linkedin.com
+Course_Title=R Programming in Data Science: High Variety Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In a perfect world, every dataset would be stored as XML text with context for every piece of information. Numbers would never be stored as strings. Decimal values would never be stored as scientific notation. Strings would never be longer than 500 characters. But obviously, we don't live in a perfect world of data. And big data only makes this issue, well, bigger. This is the problem of variety; data arriving in multiple formats. Data scientists spend an inordinate amount of time with this problem, using brain power that would be better spent on valuable analysis tasks. In this course, Mark Niemann-Ross introduces the problem of data variety and demonstrates how to use the unique capabilities of R to solve them. Learn how to import a wide variety of data, from Excel to ODS files.

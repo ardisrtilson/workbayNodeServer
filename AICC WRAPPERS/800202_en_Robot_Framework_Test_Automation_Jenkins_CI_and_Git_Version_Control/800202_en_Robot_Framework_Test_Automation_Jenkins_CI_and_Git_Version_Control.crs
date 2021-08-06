@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bryan Lamb
+Course_ID=800202
+Course_System=linkedin.com
+Course_Title=Robot Framework Test Automation: Jenkins CI and Git Version Control
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to build a testing workflow that's more collaborative and iterative? Learn how to integrate Jenkins and Git into Robot Framework for automated continuous testing and for version control with shared codebases and scripts. In this course, instructor Bryan Lamb shows how to set up and work with Git locally and then apply the same skills to remote GitHub and Team Foundation Server (TFS) repositories, so you can branch and merge Robot Framework scripts and work more effectively as a testing team. Then learn how to trigger Robot Framework tests to run automatically, in parallel, on different browsers and operating systems using Jenkins, and use the results to analyze performance trends.

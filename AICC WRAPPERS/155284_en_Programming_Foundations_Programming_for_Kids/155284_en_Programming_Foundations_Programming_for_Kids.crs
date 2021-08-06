@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=155284
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Programming for Kids
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kids are naturally excited about building, whether it's building blocks or building rockets. Programming can be just as much fun. And the skills kids gain programming can help them feel accomplished, while giving them a head start in our fast-paced digital world. This course is designed to help parents and educators introduce programming concepts to kids of all ages, from grammar school to high school. David Gassner starts with a description of different learning styles (auditory, kinesthetic, or visual) and talks about how kids' programming tools appeal to different styles. He then introduces mobile device apps for young programmers that let them animate graphical images using simple block-based programming. For older kids, he introduces software such as Scratch for more advanced animation, MIT App Inventor for programming real Android apps, and tools that teach core languages like JavaScript and Java. The final chapter covers how kids can work with robots and other hardware like the Raspberry Pi, which show how programming can work in the real world.

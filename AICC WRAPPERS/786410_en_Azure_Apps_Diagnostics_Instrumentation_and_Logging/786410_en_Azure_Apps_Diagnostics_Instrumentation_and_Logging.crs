@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=786410
+Course_System=linkedin.com
+Course_Title=Azure Apps: Diagnostics, Instrumentation, and Logging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure is a complex ecosystem. Diagnosing issues can be difficult with so many services and systems—but it's critical to get right. This course takes an Azure-centric approach to diagnosing, instrumentation, and logging with Azure applications. Instructor Sahil Malik explains how to use Application Insights to track and record exceptions; perform diagnostic logging; and view health, activity, and usage metrics in Azure Monitor. He also shows how to use Azure Monitor to track virtual machines and containers, monitor network conditions, and scale services automatically based on predefined rules. Plus, learn how to optimize your deployments with Azure Advisor security and performance recommendations. With these tools and tips, you can gain deeper insights into resources you have provisioned both on-premises and in the Azure cloud.

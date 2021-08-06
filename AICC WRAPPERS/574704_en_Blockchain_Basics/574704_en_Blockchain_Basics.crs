@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=574704
+Course_System=linkedin.com
+Course_Title=Blockchain Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+We're on the precipice of a radical and disruptive new way of conducting all manner of transactions over the Internet. While still in its infancy, blockchain technology demands attention. In this introductory-level course, learn what blockchain is and what it might mean to you. Jonathan Reichental—named one of the world's top 100 CIOs in 2017—dives into blockchain technology from a conceptual perspective. The course is primarily non-technical by design, intended for those working in business leadership positions, data science, and IT management. Jonathan begins by describing some of the current challenges with the Internet, including existing risks and security problems such as identity management. Next, he describes how traditional online databases function, so that you have a basis for how the blockchain redesigns this function. He then describes how the blockchain becomes a potential solution for many of the existing limitations of online databases. Since the blockchain has its genesis in Bitcoin—the digital currency—he provides some background on that too. He also discusses how blockchain technology actually offers new capabilities beyond simply solving old problems. To wrap up the course, Jonathan shares steps you can take in your organization to understand the implications of the blockchain.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=114322
+Course_System=linkedin.com
+Course_Title=Migrating from AutoCAD to Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course shows AutoCAD drafters and designers how to migrate their CAD workflow to Autodesk Revit software. Author Paul F. Aubin details how to transfer your files and explains key distinctions between the packages. Along the way, learn how to customize the Revit settings for optimal control, get a basic handle on the modeling tools, and adjust yourself to the differences in visibility, plot style, object creation, and the user interface.

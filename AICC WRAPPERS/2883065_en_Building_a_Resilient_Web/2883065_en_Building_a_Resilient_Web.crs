@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2883065
+Course_System=linkedin.com
+Course_Title=Building a Resilient Web
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web developers have a wide variety of tools to use and choices to make. How should you mix HTML, CSS, and JavaScript? How do you balance speed and rich media? What happens when third-party content moves or breaks? Join Morten Rand-Hendriksen as he demonstrates how focusing on resilience can help you create web applications that will work for all of your users. First, learn what makes an app or website fragile. Then explore the basic techniques underlying the resilient web, including progressive enhancement, accessibility, link persistence, web components, and more. Next, discover how to avoid issues introduced by JavaScript frameworks. Finally, watch as Morten takes you step by step through the process of architecting a resilient web application, from setting your goals to maintaining your links.

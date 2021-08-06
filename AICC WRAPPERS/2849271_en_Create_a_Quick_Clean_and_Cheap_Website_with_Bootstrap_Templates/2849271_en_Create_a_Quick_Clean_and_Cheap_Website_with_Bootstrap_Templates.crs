@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Melanie Panem
+Course_ID=2849271
+Course_System=linkedin.com
+Course_Title=Create a Quick, Clean, and Cheap Website with Bootstrap Templates
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Instructor Melanie Panem demonstrates that even non-coders can quickly pump out a simple site within just an hour or two! The foundation of a website's layout is already set when a template is used as a starting point; in this case, a non-copyright, responsive, Bootstrap template from startbootstrap.com. Responsive web page layouts are essential for a website's content to display accurately across different screen sizes and devices. Melanie then walks through HTML and CSS basics for placing and styling web page content. When the website is ready to publish, she explains how to upload it to a free online host, GitHub. And finally, Melanie shows how to easily purchase a domain name from GoDaddy.com, and connect it to the website files.

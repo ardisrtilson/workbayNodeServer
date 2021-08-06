@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2818089
+Course_System=linkedin.com
+Course_Title=Visual Studio Code: Building an Extension
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're using Visual Studio Code to create websites and applications, then you're already using the tools you need to customize Visual Studio Code itself. In this course, learn how to make Visual Studio Code do what you want by building extensions. Instructor Ray Villalobos steps through how to apply web development tools and APIs to create a new tool in Visual Studio Code, which you can customize to add your own functionality. Learn how to modify themes, automate tasks by adding commands, and even publish your extensions so that others can leverage what you've built.

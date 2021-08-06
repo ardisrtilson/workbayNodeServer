@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=606053
+Course_System=linkedin.com
+Course_Title=AutoCAD: Working with Drawings Exported From Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD is the leader in CAD drafting, used by designers around the world, and it plays beautifully with Autodesk Revit Architecture. In this course, author Shaun Bryant takes you through how to work with CAD drawings exported from Revit, and use the standards and settings that come through from Revit in AutoCAD. Learn how to work with layers, XREFs, coordinates, Plus, find out how to customize how your Revit drawings come out and make the adjustment process in AutoCAD that much easier.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=159243
+Course_System=linkedin.com
+Course_Title=Unity 4: 2D Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many of the games hitting app stores are 2D games. Unity is the perfect engine for designing them. Why? Unity 2D has a drag-and-drop sprite importer, built-in texture atlasing, a sprite animation editor, a dedicated 2D renderer with features like layers/depth and parallax scrolling, and the open-source Box2D physics engine. (If you've played games like Angry Birds, you've seen Box2D in action!) Here Jesse Freeman shows you how to take advantage of these features and build reusable components that you can use in your own games. He'll show you how to import artwork, create and link animations, build and control a player, create formidable enemies, add obstacles, build out different levels, and accept touch and controller input from players. The last chapter shows how to publish your finished game on a variety of platforms: iOS, Android, desktop computers, and the web. Watch now and start building the next blockbuster.

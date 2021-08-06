@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2825078
+Course_System=linkedin.com
+Course_Title=Learning FreeNAS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Based on FreeBSD and OpenZFS, FreeNAS provides a flexible and open-source solution for providing storage services on a network. In this course, Scott Simpson helps system administrators get up and running with this popular operating system. Scott details how to plan an installation and configure FreeNAS, as well as how to use both the console and web interface. He also highlights the advantages of ZFS—the file system, RAID controller, and volume manager that FreeNAS relies on; details how to add and manage storage; and explains how to provide network file services to clients.

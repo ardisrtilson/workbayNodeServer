@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Victor Mejia
+Course_ID=2823325
+Course_System=linkedin.com
+Course_Title=React: Cloud-Powered Apps with Firebase
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modern web applications require more than just your React code. You need hosting, APIs, authentication, and automatic deployments. You need to build apps fast, without managing infrastructure. Firebase allows you to do exactly that. Backed by Google Cloud Platform and used by some of the largest apps today, Firebase is a suite of tools to help build and scale your web application. In this course, instructor Victor Mejia goes over the different services provided by Firebase, as well as how to work with them to build a serverless application. To begin, Victor takes a look at the Firebase console and how it can help you manage different Firebase projects. He then demonstrates how to use Firebase Authentication to add authentication to your app; store data using Firebase Cloud Firestore; and deploy your app using Firebase Hosting. Plus, see how to create your own serverless functions using Firebase Cloud Functions.

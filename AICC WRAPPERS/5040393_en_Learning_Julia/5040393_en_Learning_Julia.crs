@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=5040393
+Course_System=linkedin.com
+Course_Title=Learning Julia
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Julia is an increasingly popular programming language that combines the power and flexibility of Python with the speed of C—making it an attractive option in fields like data science and financial modeling. In this course, Joe Marini introduces the Julia programming language, covering its syntax, basic concepts, and features. Joe begins by going over the language's feature set, explaining how it differs from other languages. Next, he goes over data types, numbers, and strings in Julia; language features such as data type casting; and control and data structures. At the end of the course, you'll be ready to install and run Julia and write code using the language's features.

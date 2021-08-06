@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2880243
+Course_System=linkedin.com
+Course_Title=Building an Ubuntu Server
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building and hosting your own server at home or in the office is a great way to learn about system configuration and administration, and also provides an opportunity to maintain control of your files and services. Servers are often used to provide services like file sharing and web hosting, and can be used for running containers, virtual machines, and other development tools. In this course, Scott Simpson demonstrates how to set up a Linux server using Ubuntu, and provides an introduction to system administration. He discusses storage and network configuration, gives advice on what kind of hardware to use, and surveys popular services that home and business users frequently require. At the end of this course, you’ll have the tools and knowledge to build a working server of your own.

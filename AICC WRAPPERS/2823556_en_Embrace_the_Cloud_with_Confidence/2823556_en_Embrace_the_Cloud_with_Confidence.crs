@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rashim Mogha
+Course_ID=2823556
+Course_System=linkedin.com
+Course_Title=Embrace the Cloud with Confidence
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As organizations increase their reliance on cloud technologies, everyone within an organization needs to understand what it means to move to cloud. In this course, instructor Rashim Mogha teaches you how moving to the cloud affects everyone in a company and how to prepare for the move. Rashim explains how the move impacts people and processes. She goes over how moving to the cloud impacts elements of data security. Next, Rashim helps you understand how moving to the cloud may impact your service catalogue and pricing model. Moving to cloud means that some roles like a system administrators and database administrators will need to be redefined, and it presents an opportunity to look at your technology stack and access if there is an opportunity to use different applications or move to the SaaS version. Rashim concludes by pointing out the importance of reviewing and redefining any workflows and processes impacted by the move.

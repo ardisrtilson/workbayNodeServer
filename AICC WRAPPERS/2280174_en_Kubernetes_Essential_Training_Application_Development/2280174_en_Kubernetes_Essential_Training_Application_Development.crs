@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Turner
+Course_ID=2280174
+Course_System=linkedin.com
+Course_Title=Kubernetes Essential Training: Application Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your Kubernetes knowledge from theory to practice. Learn how to use Kubernetes to develop and run real-world applications. Instructor Matt Turner starts by showing you how to run local clusters, containers, and pods; execute commands; and view activity from the command line as well as the Kubernetes dashboard. Next, discover how to orchestrate practical workloads, including batch workloads with jobs and cron jobs. Matt then shows how to make Kubernetes smarter and safer using the built-in resource management, scheduling, and security tools. He also explores some advanced deployment patterns using namespaces, sidecars, and extensions like operators. Plus, discover tools and techniques to take your Kubernetes development further, such as manifest file generation with Helm, advanced debugging with kubectl commands, and faster and more frictionless deployments with Telepresence. Note: This course was also designed to help prepare you for the Certified Kubernetes Application Developer (CKAD) examination from the Linux Foundation. Learn more about the certification and exam details at https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/.

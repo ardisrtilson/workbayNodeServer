@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sue Jenkins
+Course_ID=516577
+Course_System=linkedin.com
+Course_Title=Designing Websites from Photoshop to Dreamweaver
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Turn your design from Photoshop into a fully functioning website using Dreamweaver. This course shows how to create mockups, optimize web graphics, and design a site. Sue Jenkins demonstrates how to design a mockup in Photoshop, work with the Photoshop Extractor, use Bootstrap templates, customize HTML and CSS to style and position content, test and validate code, build custom pages, and adapt Bootstrap elements to match your site's aesthetics.

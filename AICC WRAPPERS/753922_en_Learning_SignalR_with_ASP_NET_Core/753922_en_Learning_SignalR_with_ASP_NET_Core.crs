@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nate Barbettini
+Course_ID=753922
+Course_System=linkedin.com
+Course_Title=Learning SignalR with ASP.NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SignalR simplifies real-time communications, opening up new and faster possibilities for pushing data to clients. Using SignalR in combination with ASP.NET Core, you can build more compelling and dynamic web applications with features like live chat and real-time dashboards. In this course, instructor Nate Barbettini explains the differences between SignalR and comparative technologies such as WebSockets. He shows how to set up your own SignalR server—a hub—and build a simple web client with JavaScript. He also demonstrates how to use groups to segment clients, add persistence in order to store and process messages transmitted by SignalR, and secure your application with user authorization and cookie authentication. By the end of the training, you'll have the skills to build modern, high-performance web and client experiences on top of ASP.NET and SignalR.

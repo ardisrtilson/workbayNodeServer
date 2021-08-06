@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=711827
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Remote Access (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+From a sunny beach or a remote ski lodge, you can connect to your servers and get work done. This course describes common ways of connecting remotely to a Linux server. Starting with basic telnet and Secure Shell (SSH), learn which options are available for accessing systems from afar. The course also discusses graphical desktop access and considers how to set up a remote desktop session with virtual network computing (VNC).

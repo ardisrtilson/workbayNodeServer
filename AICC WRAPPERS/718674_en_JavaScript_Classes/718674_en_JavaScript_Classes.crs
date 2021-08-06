@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=718674
+Course_System=linkedin.com
+Course_Title=JavaScript: Classes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The release of ECMAScript 2015 brought class syntax to JavaScript, providing developers used to class inheritance with some familiar tools. If you're new to the language—or just unsure how classes work in ECMAScript 6 (ES6)—then this course is for you. Join instructor Emmanuel Henri as he explains how classes work in ES6. He starts with the foundations of classes and how they interact with other JavaScript features. He then goes over constructors, mixins, and extends, explaining how they work and sharing code examples.

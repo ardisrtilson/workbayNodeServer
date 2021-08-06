@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joey D'Antoni
+Course_ID=688526
+Course_System=linkedin.com
+Course_Title=SQL Server Performance for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers face an array of challenges when trying to develop performant applications for Microsoft SQL Server. In this course, instructor Joey D'Antoni shares concepts and strategies that can help you enhance your app's performance on SQL Server. Throughout this course, Joey walks through best practices for building efficient, scalable database applications. He covers an array of topics, including execution plans, columnstore indexes, datatypes, temporary objects, and what not to do with SQL Server. He also goes over indexing, and shares how best to create temporary objects.

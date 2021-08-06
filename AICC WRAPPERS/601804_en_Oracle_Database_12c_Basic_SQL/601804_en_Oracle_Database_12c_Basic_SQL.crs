@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Yahalom
+Course_ID=601804
+Course_System=linkedin.com
+Course_Title=Oracle Database 12c: Basic SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mastering the SQL language is an essential skill for any Oracle professional and is the first step in becoming a true Oracle expert. As with any database platform, Oracle has its own take on the SQL language that builds on top of industry standards. In this course, Oracle instructor and consultant David Yahalom covers the basics required to code with SQL in an Oracle Database 12c environment. Learn how to select and filter data, and manipulate data using functions, including SUBSTR, UPPER, MIN, MAX, AVG, SUM, and more. Then find out how to combine data from two or more tables in a single statement with joins. Discover how to modify data with DML and DDL commands like DELETE and UPDATE, and group data with aggregate functions. David also provides an overview of advanced concepts, such as constraints and subqueries. Note: This training course is appropriate for beginning database developers with no prior experience with SQL or Oracle.

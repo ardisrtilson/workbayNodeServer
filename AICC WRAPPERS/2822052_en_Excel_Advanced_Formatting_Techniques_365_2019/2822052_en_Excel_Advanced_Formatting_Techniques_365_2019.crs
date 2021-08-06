@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=2822052
+Course_System=linkedin.com
+Course_Title=Excel: Advanced Formatting Techniques (365/2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+View simple, powerful tips for making Excel data more readable and easier to manipulate. Author Dennis Taylor shows you how to emphasize individual cells with fonts, borders, and colors; adjust the position of cell contents; format numeric data; and increase the readability of worksheets. You can also learn how to add images to worksheets and discover automation techniques that can take the drudgery out of formatting even large amounts of data.

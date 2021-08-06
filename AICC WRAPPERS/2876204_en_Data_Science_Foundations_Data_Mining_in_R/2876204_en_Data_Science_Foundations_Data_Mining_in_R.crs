@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=2876204
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Data Mining in R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data science continues to grow in sophistication and demand at an exponential rate. Data mining is the area of data science that focuses on finding actionable patterns in large and diverse datasets: clusters of similar customers, trends over time that can only be spotted after disentangling seasonal and random effects, and new methods for predicting important outcomes. Instructor Barton Poulson focuses on data mining in R, presents a broad range of algorithms including machine learning methods, and offers important information on laws and policies that affect data mining. Barton gives an overview of dimensionality reduction. He introduces clustering, including hierarchical clustering, then goes into association analysis. He explains time-series mining and decomposition, then concludes with text mining, sentiment analysis, and sentiment scoring.

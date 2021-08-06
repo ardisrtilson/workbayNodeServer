@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Abbey
+Course_ID=704127
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Shell and Beam Modeling in FEA
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Much of CAD design uses 3D elements for finite element analysis (FEA) simulation. However, sometimes thin-walled or frame-like structures dominate. In these cases, shell (2D) and beam (1D) elements can represent designs more effectively. Across all industries, as much as 50% of the design of major engineering projects fall into these categories. In this course, instructor Tony Abbey explains how to work with shell and beam models in SOLIDWORKS. Learn when to use shell, beam, and specialized truss elements; understand the fundamentals of modeling with them; and find out how to mesh, postprocess, and model components with these tools. Tony shows how to set up and run these FEA simulations to test the integrity of your designs and view results such as stress, force, and displacement.

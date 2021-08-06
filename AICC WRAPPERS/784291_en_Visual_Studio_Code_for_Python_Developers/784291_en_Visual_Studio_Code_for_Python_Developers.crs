@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=784291
+Course_System=linkedin.com
+Course_Title=Visual Studio Code for Python Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio (VS) Code—the optimized code editor for Windows, macOS, and Linux—provides stellar support for Python right out of the box. Even if you’re already familiar with VS Code, this course can help you speed up your development work by highlighting how to best leverage this popular code editor when developing Python apps. Instructor Joe Marini covers everything from writing and debugging Python code, to using the built-in refactoring tools to make your code easier to maintain, to maximizing your productivity with must-have extensions such as REST Client. After wrapping up this course, you’ll have the knowledge you need to make the most out of VS Code when working with Python projects.

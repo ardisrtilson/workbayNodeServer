@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=114900
+Course_System=linkedin.com
+Course_Title=JavaScript and AJAX: Integration Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to read data and communicate information asynchronously is fundamental to modern web applications. In this course, author Ray Villalobos takes a look at integrating AJAX (Asynchronous JavaScript and XML) with JavaScript and jQuery—a combination that makes it easy to work with dynamic data and reduces the number of requests to the server. The course first explains what AJAX is, and shows how to load and reload pages with pure JavaScript, update the DOM, and read and parse data in the XML and JSON formats. Next, learn how to read and write information between the server and the client with AJAX methods in jQuery, and build a dynamic search application that updates search results as you type.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Hunt
+Course_ID=636105
+Course_System=linkedin.com
+Course_Title=Access 2016: Building Dashboards for Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using Excel, you can optimize reporting for Access databases. Learn how to build powerful dashboards to visualize your data, using tools such as slicers, timelines, charts, and PivotCharts. Instructor Robin Hunt shows how to analyze, query, and export Access data for use in Excel, and connect directly to Access from Excel, so that you always have a live view of your data. Then learn how to build dashboards with slicers, timelines, and charts, and create macros that make your dashboards more user friendly. By the end of the course, you should be able to extend your current reporting capabilities and create more engaging visualizations.

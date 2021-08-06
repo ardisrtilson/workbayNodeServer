@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2814096
+Course_System=linkedin.com
+Course_Title=Flutter: Part 08 Powering Your App with Live Web Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Users have come to expect true connectivity from their apps, like constant access to real-time data. With Flutter, it’s possible to build apps powered by live web data, such as the weather app you build in this project-based course. Instructor Angela Yu takes you through the process of accessing and requesting live data via asynchronous programming methods in Dart. She shows how to handle errors, access APIs for external data, and parse data types such as JSON. Plus, learn how to use Dart geolocation packages to implement location services in your app and pass data to objects in your app in order to display the information to users. This course was created by London App Brewery. We are pleased to host this content in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neelam Dwivedi
+Course_ID=782132
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Test-Driven Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programmers shouldn’t have to guess whether software is working correctly. They should be able to prove it, every step of the way. A formal test-driven development (TDD) process allows you to build testing into your daily routine. You can run tests many times a day, getting instant feedback on the quality of your code. This course explains how to adopt a TDD mindset and process—vital skills for all modern software developers. Find out what makes a good test, why you should be more interested in failure than success, and how to measure and repeatedly run tests. Then explore the jargon: test suites, test harnesses, mock and stub objects, and more. Finally, look at how TDD is used in the most common programming languages and environments and what tools and frameworks exist to help you succeed. Instructor Neelam Dwivedi tackles each topic from a programmer’s perspective, emphasizing the time and cost savings that a good TDD workflow can provide.

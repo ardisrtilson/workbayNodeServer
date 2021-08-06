@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Monika Wahi
+Course_ID=578082
+Course_System=linkedin.com
+Course_Title=SAS Essential Training: 2 Regression Analysis for Healthcare Research
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAS is a venerable data analytics platform that boasts millions of users worldwide and a slew of useful features. In this course, instructor Monika Wahi helps you deepen your SAS knowledge by showing how to use the platform to conduct a regression analysis of a health survey data center. Throughout the course, Monika demonstrates how to conduct regression analyses and present your model results in tables. She shows how to develop and present a linear regression model using PROC GLM as part of a hypothesis-driven analysis; how to do a logistic regression model in both PROC GENMOD and PROC LOGISTIC; and how to present and interpret your linear and logistic regression models. To wrap up, she goes over issues in regression and provides a few helpful tips.

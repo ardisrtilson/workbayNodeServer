@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=633863
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Networking (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux Foundation certifications can open new doors for your career and your understanding of Linux. This course prepares you for the networking domain of the Linux Foundation Certified System Administrator (LFCS) exam, which includes objectives such as configuring network settings, firewalls, and routing. Learn the two standard methods for managing network connections, and discover how to configure dynamic and static addresses. Find out how to set up a firewall to restrict the traffic entering and exiting your system. Discover how to configure packet forwarding, routing, and tunneling. Plus, learn how to synchronize time between network peers and monitor network performance.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043091
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Advanced Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to set up and administer storage environments using vSphere 6.5, the data center virtualization platform from VMware. This course covers advanced vSphere storage concepts, topics which are part of the VMware Certified Professional exam. Instructor Rick Crisci starts the course by explaining the basics of storage performance and shows how to work with datastores, iSCSI, and independent hardware. Then, he moves on to advanced storage administration, covering host storage, DRS settings, vSAN, and virtual volumes. He wraps up by demonstrating how to use multipathing plugin, SIOC, and VMFS.

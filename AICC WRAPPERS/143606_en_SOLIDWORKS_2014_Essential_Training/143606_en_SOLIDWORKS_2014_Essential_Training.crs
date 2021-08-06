@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=143606
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS 2014 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS is the world leader in 3D software for product development and design. Start creating manufacturing-ready parts and assemblies, as well as detailed drawings and bills of materials. In this course, author Gabriel Corbett shows how to create 2D sketches that will become the basis for your 3D models. You'll use the Extrude and Revolve tools to turn 2D sketches into 3D parts, then create more complex geometry with sweep and lofts. Then learn how to use the cut features to remove material and shape parts, and use mirroring, patterning, and scaling to modify parts. Next, you'll combine parts into movable assemblies and subassemblies. Finally, you'll create accurately annotated drawings, complete with itemized bills of materials that relate the final parts and assemblies to a manufacturer.

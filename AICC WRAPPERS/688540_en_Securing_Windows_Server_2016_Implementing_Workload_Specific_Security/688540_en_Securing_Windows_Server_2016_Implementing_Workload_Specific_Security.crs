@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=688540
+Course_System=linkedin.com
+Course_Title=Securing Windows Server 2016: Implementing Workload Specific Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to implement workload specific security in Windows Server 2016. In this concise training course, instructor Ed Liberman discusses secure application development, including how to install Security Compliance Manager (SCM) and configure and deploy a security baseline. He also covers secure file services, discussing quota management, file screening, and storage reports. Upon completing this course, you'll be equipped with strategies that can help you maintain a secure server environment.

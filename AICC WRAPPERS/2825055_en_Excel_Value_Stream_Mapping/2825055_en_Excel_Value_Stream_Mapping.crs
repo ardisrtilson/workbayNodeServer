@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2825055
+Course_System=linkedin.com
+Course_Title=Excel: Value Stream Mapping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Value stream mapping is a method for documenting business processes, allowing project managers and analysts to analyze the different states and identify areas of improvement. This course shows how to create value stream maps using Excel and PowerPoint. Learn how to document two real-world processes—a manufacturing process and a service process—by calculating measures for various subprocesses, such as process time, cycle time, process utilization, and information flow time, and visualize the results in PowerPoint or other tools. By the end of the course, you will have a basic understanding of value stream maps and be able to create them using these popular Office apps.

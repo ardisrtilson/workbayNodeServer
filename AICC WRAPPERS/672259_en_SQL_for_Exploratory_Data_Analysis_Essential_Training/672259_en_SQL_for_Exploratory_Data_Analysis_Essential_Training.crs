@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=672259
+Course_System=linkedin.com
+Course_Title=SQL for Exploratory Data Analysis Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use SQL to understand the characteristics of data sets destined for data science and machine learning. The course begins with an introduction to exploratory data analysis and how it differs from hypothesis-driven statistical analysis. Instructor Dan Sullivan explains how SQL queries and statistical calculations, and visualization tools like Excel and R, can help you verify data quality and avoid incorrect assumptions. Next, find out how to perform data-quality checks, reveal and recover missing values, and check business logic. Discover how to use box plots to understand non-normal distribution of data and use histograms to understand the frequency of data values in particular attributes. Dan also explains how to use the chi square test to understand dependencies and measure correlations between attributes. The course concludes with a collection of tips and best practices for exploratory data analysis.

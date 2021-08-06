@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Prince Mokut
+Course_ID=2877316
+Course_System=linkedin.com
+Course_Title=Integrating Azure DevOps with GitHub
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DevOps combines people, processes, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives within the shortest possible time. Integrating Azure DevOps and GitHub provides more features for an organization to track the progress of a project, comply with industry standards, and manage code distribution and deployment. In this course, Prince Mokut explores how agile teams can integrate their GitHub repositories with Azure DevOps to leverage services like Azure Boards for project management and Azure Pipelines for continuous integration and delivery of your software. Prince starts by reviewing high-level functions of Azure DevOps and services, then covers how to customize dashboards, secure pipelines, and integrate tools from the Azure DevOps marketplace. After this course, you’ll have knowledge to help your team take advantage of this integration and seamlessly manage large software projects in your organization.

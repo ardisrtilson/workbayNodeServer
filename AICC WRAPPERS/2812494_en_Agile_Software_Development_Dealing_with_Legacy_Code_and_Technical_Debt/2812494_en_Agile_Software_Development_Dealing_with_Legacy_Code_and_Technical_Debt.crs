@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=M. Scott Ford
+Course_ID=2812494
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Dealing with Legacy Code and Technical Debt
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In nearly every organization, developers are forced to grapple with old code that gets in the way of writing new features. Is legacy code limiting your development team's agility? If so, let this course be your guide for how to embrace a legacy system and improve it while paying down technical debt. Instructor Scott Ford explains how to review legacy code and fence in the technical debt by creating and running a test suite. He also demonstrates how to introduce dependency management and update dependences and tools, how to remove noise and distractions from your code, and how to keep technical debt at bay by remaining test driven and monitoring code quality.

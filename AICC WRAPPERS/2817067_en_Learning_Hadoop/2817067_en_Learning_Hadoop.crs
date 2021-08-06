@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2817067
+Course_System=linkedin.com
+Course_Title=Learning Hadoop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Hadoop is indispensable when it comes to processing big data—as necessary to understanding your information as servers are to storing it. This course is your introduction to Hadoop; key file systems used with Hadoop; its processing engine, MapReduce, and its many libraries and programming tools. Developer and big-data consultant Lynn Langit shows how to set up a Hadoop development environment, run and optimize MapReduce jobs, code basic queries with Hive and Pig, and build workflows to schedule jobs. Plus, learn about the depth and breadth of available Apache Spark libraries available for use with a Hadoop cluster, as well as options for running machine learning jobs on a Hadoop cluster.

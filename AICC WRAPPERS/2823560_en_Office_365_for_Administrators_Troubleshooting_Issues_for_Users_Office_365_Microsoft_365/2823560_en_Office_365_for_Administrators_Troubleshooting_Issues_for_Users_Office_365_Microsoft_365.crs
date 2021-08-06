@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2823560
+Course_System=linkedin.com
+Course_Title=Office 365 for Administrators: Troubleshooting Issues for Users (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once your users are up and running with Office 365, they may experience more complex issues related to printing, version compatibility, and startup. This course provides Level 1 IT administrators with an overview of common end-user troubleshooting requests related to Office 365. Learn how to fix Word formatting issues, find lost and damaged files, fix common audio and video issues in Teams, reset OneNote notebooks that just won't sync, and connect to different mailboxes in Outlook. Plus, get solutions to common problems with Access, Excel, PowerPoint, Visio, SharePoint, Teams, Publisher, and OneDrive. Microsoft solutions expert Sharon Bennett makes sure that you have the answers to your users' most frequent questions—before they even ask.

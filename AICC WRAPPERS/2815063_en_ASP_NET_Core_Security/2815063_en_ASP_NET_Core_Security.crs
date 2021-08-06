@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2815063
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software security is an important consideration when designing and developing web applications. While security breaches and threats can have serious consequences, there are steps that software developers can take to keep their applications safe. In this course, instructor Ervis Trupja explores techniques for securing and controlling access to your ASP.NET Core applications. Ervis begins by going over some of the most common attacks and how to protect against them. He then covers how to protect sensitive data in your applications using the data protection API, as well as how to implement token authentication in .NET Core with IdentityServer.

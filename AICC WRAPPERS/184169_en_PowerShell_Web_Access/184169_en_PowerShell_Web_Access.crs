@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason C. Helmick
+Course_ID=184169
+Course_System=linkedin.com
+Course_Title=PowerShell: Web Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With PowerShell Web Access, you can learn how to run PowerShell anywhere, anytime, and on virtually any device. Learn how to use Windows PowerShell Web Access to run command scripts to manage and troubleshoot your environment from anywhere in the world.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=534419
+Course_System=linkedin.com
+Course_Title=macOS Sierra for IT Administrators
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While Windows dominates the desktop market, Macs are still widely used, especially in smaller organizations. Knowing how to administer and configure macOS is a key skill that any IT admin should know. In this course, Sean Colins looks at Mac's latest operating system—Sierra—focusing on the most important topics for administrators. You'll first dive into backing up and restoring Sierra, using the built-in solution, Time Machine, and a cloud-based alternative, Backblaze. You'll then learn about iCloud administration, including techniques for restoring deleted files from iCloud and disabling iCloud entirely. Next, learn about working with local storage and the new Apple File System (APFS), which—once released—will provide a unified storage solution across macOS, iOS, tvOS, and watchOS. Then find out how to monitor macOS Sierra using the new console, unified logging system, and commands for collecting, searching, and debugging logs. The course then concludes with an overview of enterprise-wide security solutions for Sierra and how mobile device management can help with system imaging at scale.

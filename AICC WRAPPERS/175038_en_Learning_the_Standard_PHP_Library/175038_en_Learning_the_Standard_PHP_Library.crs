@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=175038
+Course_System=linkedin.com
+Course_Title=Learning the Standard PHP Library
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Standard PHP Library (SPL) is a collection of useful classes for traversing, filtering, and sorting data and objects. One of its main features is the iterator, which provide easy access to arrays, trees, and directory listings. In this course, David Powers reviews using these iterators to explore the file system, and combining iterators in order to edit and manage specific types of files. He'll show how to load XML and JSON data, convert arrays into nested lists, and work with data structures such as doubly linked lists, queues, and heaps. Start learning how to put SPL into practice, and extend the power of your PHP applications.

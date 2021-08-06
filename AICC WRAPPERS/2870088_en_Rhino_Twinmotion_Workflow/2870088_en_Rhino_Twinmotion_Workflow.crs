@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Racek
+Course_ID=2870088
+Course_System=linkedin.com
+Course_Title=Rhino: Twinmotion Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Twinmotion is a real-time visualization tool for the AEC and product design world that enables photorealistic real-time renders for a variety of platforms. In this course Jonathan Racek shows the workflow between Twinmotion and Rhino. Jonathan begins by explaining what Twinmotion is, how to navigate it, and how to operate the Gizmo, an essential tool for manipulating geometry in Twinmotion. He steps through how to prepare your Rhino file to sync successfully into a Twinmotion project. Once the file is imported, Jonathan shows you additional ways of importing geometry into your Twinmotion file, as well as how to add vegetation, swap objects, use the basic weather functions, and more. He goes over how to export rendered images and videos, then concludes with an explanation of the presenter tool, which gives you a convenient way to share your work with a client.

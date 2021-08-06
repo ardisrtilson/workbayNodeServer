@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=148422
+Course_System=linkedin.com
+Course_Title=Revit: Construction Modeling Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If your job requires working on Revit models created by someone else, then you have probably run into situations where portions of the model need to be reworked. Perhaps you're a subcontractor or an interior designer who needs to accurately convey finishes. Traditionally tasks like these would require a good deal of time, but with the three unique construction modeling tools in Revit, you can now add the details and refinements you need without rebuilding the entire model. Paul F. Aubin shows how model elements can be broken down into parts and articulated with their own finishes, materials, and other details. To assist in documentation, Paul explores assemblies: detailed drawings of isolated portions of the model. And with the Displace feature he shows how to create compelling exploded view illustrations to convey how things fit together.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kim Schlesinger
+Course_ID=2830010
+Course_System=linkedin.com
+Course_Title=Kubernetes: Package Management with Helm
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to speed up the process of setting up and deploying applications in a Kubernetes cluster? Helm, the package management tool for Kubernetes, can help. This tool offers developers a way to quickly deploy and update applications in a cluster, as well as roll back to an earlier deployment. In this course, join instructor Kim Schlesinger as she helps you get up and running with Helm. Kim shares use cases for Helm and explains how to install Helm on your computer. She shares how to install a Helm chart—a collection of files that describe a set of resources—in your Kubernetes cluster, as well as how to verify whether your installation worked, update your chart, and roll back changes. In addition to showing you how to use a premade Helm chart, Kim demonstrates how to create a new Helm chart from the command line, deploy and update a Kubernetes ConfigMap and secret via Helm, and leverage advanced features, including how to render a ConfigMap value dynamically with Helm templating.

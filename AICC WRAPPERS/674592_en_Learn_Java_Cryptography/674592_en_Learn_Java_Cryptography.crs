@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=674592
+Course_System=linkedin.com
+Course_Title=Learn Java Cryptography
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security is paramount for any application. In Java, cryptography is key to the secure storage and transmission of data: to and from resources, users, and APIs. This course teaches the basics of Java cryptography using the Java Development Kit (JDK) crypto libraries: Java Cryptography Architecture (JCA) and Java Cryptography Extensions (JCE). Learn basic cryptography concepts and terms, including symmetric and asymmetric encryption, hashing, and digital signatures. Then find out how to use the cryptographic services or engine classes in JCA and JCE, such as Cipher, KeyGenerator, MessageDigest, and Signature, to enforce secure messaging and data storage. Plus, discover how to build a Java keystore to manage your repository of keys and certificates. Instructor Frank Moley uses his 16+ years of experience as a software developer and security architect to guide you through this complex topic.

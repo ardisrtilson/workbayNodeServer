@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2889005
+Course_System=linkedin.com
+Course_Title=Cloud Native Projects: GCP Serverless
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Every cloud developer should understand the use of serverless functions in cloud environments. In this course, senior software engineer Frank Moley shows you how to understand and implement serverless cloud functions in Google Cloud Platform (GCP). Frank introduces GCP Cloud Functions, as well as the benefits, negatives, and risks of a serverless system. Then he walks you through the steps and strategies you need to implement Python, Java, and Go in GCP serverless, including practical challenges and solutions for each.

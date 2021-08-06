@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Diane Cronenwett
+Course_ID=2824239
+Course_System=linkedin.com
+Course_Title=Interaction Design: Flow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore ways to create and use flow maps: diagrams of the steps users will complete in an experience. Instructor Diane Cronenwett discusses how flow relates to creating great user experiences and outlines the role of technology in designing flow. She demonstrates how diagrams communicate underlying system logic and conditions to produce an effective user experience. Diane covers the ways designing a flow takes into account various entry points, exits, and conditional states a user might encounter while using a product interface. Plus, learn the steps to crafting effective diagrams to map user flow.

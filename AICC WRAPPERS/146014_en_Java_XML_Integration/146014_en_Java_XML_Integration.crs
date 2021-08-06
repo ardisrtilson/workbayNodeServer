@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=146014
+Course_System=linkedin.com
+Course_Title=Java: XML Integration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to choose the right Java API for your application and get started coding with XML and Java. In this course, author David Gassner shows you how to read and create XML strings and files, decide whether to use a streaming or tree-based API, and find out which APIs are compatible with Android. Plus, discover how to use both standard APIs that are included with the Java SE and EE distributions, such as DOM, SAX, and JAXB, and learn about popular open-source libraries such as JDOM and the Simple XML Serialization framework.

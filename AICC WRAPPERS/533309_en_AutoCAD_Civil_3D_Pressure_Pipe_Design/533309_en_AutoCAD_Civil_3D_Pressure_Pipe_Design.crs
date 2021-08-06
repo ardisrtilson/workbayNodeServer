@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chappell
+Course_ID=533309
+Course_System=linkedin.com
+Course_Title=AutoCAD Civil 3D: Pressure Pipe Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD Civil 3D boasts a line of specialized layout tools designed to help you generate 3D models of pressure networks, such as water transmission systems, gas lines, and force mains. In this course, instructor Eric Chappell explains how to leverage these features to approach the creation of a pressure pipe network, edit your designs, and document them so that others know how to implement your ideas. Eric walks through the complete pressure pipe design process, from the initial creation of pipes and fittings all the way to the analysis stage. Plus, he shares helpful tips and techniques that can help you tackle this aspect of your civil engineering project with ease and efficiency.

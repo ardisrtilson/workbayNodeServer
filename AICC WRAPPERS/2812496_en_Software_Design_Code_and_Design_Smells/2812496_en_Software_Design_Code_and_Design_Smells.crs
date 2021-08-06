@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harrison Ferrone
+Course_ID=2812496
+Course_System=linkedin.com
+Course_Title=Software Design: Code and Design Smells
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ever wonder if your freshly written code is as effective and understandable as you'd like it to be? In this course, learn how to identify and deal with code and design smells: code that, while functional, has weak points that may result in bugs or other issues down the line. Instructor Harrison Ferrone goes over the history of code smells and how they impact the modern development workflow. He steps through how to catch low- or method-level bad habits in code, as well as how to keep your overarching system code clean, identify and update bad abstractions, and more. Plus, see how to leverage tools to weed out the bad code you encounter.

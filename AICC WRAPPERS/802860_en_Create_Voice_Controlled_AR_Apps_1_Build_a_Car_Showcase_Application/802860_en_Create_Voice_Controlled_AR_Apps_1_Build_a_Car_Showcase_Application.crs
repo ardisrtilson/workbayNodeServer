@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Diego Herrera
+Course_ID=802860
+Course_System=linkedin.com
+Course_Title=Create Voice Controlled AR Apps 1: Build a Car Showcase Application
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create immersive, commercially viable augmented reality (AR) apps that can be controlled with voice commands. This training course shows how to combine the latest AR technology from Vuforia, the Unity game engine, and voice-controlled, cloud-based artificial intelligence to build fully functional AR applications like the car showcase shown here. Instructor Diego Herrera takes you step-by-step through the creation of the app, which allows users to customize 3D models of high-performance vehicles (like Lamborghinis and Porsches) and demo them virtually—wherever they can take their iOS or Android device. Diego helps you install Unity and Vuforia, create your app in Unity, build professional particle system and animation effects, and integrate the AR and voice-command systems. Plus, find out how to upgrade your project with C# scripting, and test and export the app for target devices.

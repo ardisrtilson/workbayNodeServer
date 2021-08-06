@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shane Chagpar
+Course_ID=2253162
+Course_System=linkedin.com
+Course_Title=ServiceNow: Basic Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ServiceNow platform can help IT teams boost customer satisfaction, decrease manual errors, and generally work smarter by leveraging the power of machine learning. Interested in learning how to use ServiceNow to build and manage workflows in your organization? In this course, instructor Shane Chagpar helps you get started by stepping through the fundamentals of administering the popular platform. Shane details how to configure and manage key applications, including the Service Catalog and the Configuration Management Database (CMDB). Plus, he explores how to best approach automation, access control rules, scripting, working with a knowledge base, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=769290
+Course_System=linkedin.com
+Course_Title=Ruby Essential Training Part 3: Files, Formats, Templates
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use Ruby code to interact with the file system. With Ruby, you can read and write to config files and logs, automate tasks like mail merge, and find and organize files without ever leaving your code editor. In this course, the third in the Ruby Essential Training series, Kevin Skoglund reviews the basic techniques for working with files and directories. Learn to find existing files and directories and to create new ones. Discover different techniques for reading and writing data to files. Then learn how to import and export data in popular formats and how to use Embedded Ruby (ERB) to bind dynamic values into reusable file templates. Each lesson is filled with practical examples, and programming challenges allow you to practice your new skills as you progress through the course.

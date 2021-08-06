@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Morgan
+Course_ID=2835115
+Course_System=linkedin.com
+Course_Title=Architectural Models: Digital File Prep with Rhino
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Curious how physical scale models go from the drawing board to the display table at a client meeting? In this course, get an expert's take on how professionals approach the model-building process. Instructor Olivia Morgan takes you through each step of the workflow, showing you how to use Rhino to design a digital file of a building for the physical fabrication of a scale model. Olivia begins by covering general model-building methods, as well as how to compose a digital file for different fabrication options. She goes over the best import and post-processing methods when working with files types outside of Rhino. Using an imported base model, Olivia demonstrates how to rebuild a model out of puzzle pieces that will be fabricated and reassembled physically. Plus, get best practices for laying out your materials for laser cutting.

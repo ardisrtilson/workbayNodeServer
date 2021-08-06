@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Advent
+Course_ID=636123
+Course_System=linkedin.com
+Course_Title=iOS App Development: Core ML
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With iOS 11 and macOS High Sierra, Apple introduced the Core ML framework. This put the integration of machine learning within the grasp of Apple developers, and ushered in a host of new opportunities for developers to come up with the next big thing or enhance the quality of their mobile and desktop applications. This course provides an introduction to the Core ML framework, and the advantages of using machine learning models, computer vision, and natural language processing in modern apps. Learn about different features and use cases for the Core ML and Vision frameworks, as well as the natural language processing classes. Plus, the course walks through the development of sample apps that leverage different machine learning features.

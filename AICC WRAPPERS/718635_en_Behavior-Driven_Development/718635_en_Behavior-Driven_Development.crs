@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Beck
+Course_ID=718635
+Course_System=linkedin.com
+Course_Title=Behavior-Driven Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Behavior-driven development (BDD) emerged from test-driven development as a process that enhances collaboration with non-technical teams. BDD tests are focused on the user and system behavior, and can clarify details that are often lost during the traditional software development process. This training course teaches the basics of behavior-driven development. Learn how BDD fits in an agile workflow, how to drive BDD process within a team, and the basics of using popular BDD frameworks like Cucumber. Instructor Robin Beck helps you get hands-on with Cucumber and its specification language, Gherkin, providing examples of writing requirements specifications, defining scenarios, setting up failing tests, and optimizing your code to emphasize domain-driven and object-oriented design. He wraps up with some best practices for implementing behavior-driven development and keeping the philosophy—behavior over function—at top of mind.

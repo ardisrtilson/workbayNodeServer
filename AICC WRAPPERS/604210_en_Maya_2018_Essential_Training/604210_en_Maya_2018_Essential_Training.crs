@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=604210
+Course_System=linkedin.com
+Course_Title=Maya 2018 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create high-quality 3D models and animations in Maya 2018. This course covers the core Maya skills—modeling, texturing, rendering, and animation—within a real-world, project-based workflow. The techniques you'll learn here translate equally well to film, motion graphics, game design, and animation. First explore the basics of the Maya interface, including selecting and manipulating objects, organizing scenes, and customizing the interface. Next, learn about polygonal modeling, creating and refining meshes, sculpting, and working with NURBS surfaces. Once you understand modeling, discover how to create and apply materials—adding color, texture, and reflectivity to your creations. Then integrate cameras, lighting, and effects into the rendering process, and leverage the new Arnold for Maya renderer. Last but not least, instructor George Maestri show how to add movement and life to your work with Maya's animation tools.

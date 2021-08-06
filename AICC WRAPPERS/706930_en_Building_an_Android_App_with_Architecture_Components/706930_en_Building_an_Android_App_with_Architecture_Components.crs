@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=706930
+Course_System=linkedin.com
+Course_Title=Building an Android App with Architecture Components
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google now offers a set of recommended components for architecting Android apps. Android developers can learn how to follow these recommendations to improve their initial development process and simplify long-term maintenance. In this course, learn best practices for building high-quality Android apps using the Android Architecture Components for data persistence and display. Instructor David Gassner teaches these concepts in a real-world context by using the Architecture Components to build a simple note-taking app from start to finish. He shows how to define an SQLite database with the Room library, display a list of data with the efficient RecyclerView component, and update the user interface with observable LiveData objects.

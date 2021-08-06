@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brad Wheeler
+Course_ID=2825724
+Course_System=linkedin.com
+Course_Title=Learning MySQL Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you brand new to database development? After 25 years, MySQL is still the most popular and approachable database management system—ideal for developers who want to start programming data-driven applications. This course provides an overview of MySQL tools and techniques for software development. Discover what a database is and how it's structured and explore the data types underlying MySQL records. Find how to create tables, define primary and foreign keys, and load data from external sources. Instructor Brad Wheeler then takes you through the basics of writing queries and statements to select, update, delete, and transform data. Plus, get an introduction to advanced concepts such as joining existing tables. By the end of this course, you'll have the basic skills you need to create and maintain your own MySQL databases—and take your applications to a whole new level of sophistication.

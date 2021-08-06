@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Troy Miles
+Course_ID=2823291
+Course_System=linkedin.com
+Course_Title=Kotlin Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kotlin, the powerful programming language from JetBrains, offers null safety, concise syntax, and 100% Java compatibility. Plus, it's fully supported by Google for Android development. If you're looking to get up and running with this popular language, then this course is for you. Join instructor Troy Miles as he provides a comprehensive overview of what developers need to create command-line programs using the Kotlin programming language. Troy starts by covering the basics: data types and variables, how statements differ from expressions, and what the different types of expressions are. He then dives into all of the language's essential features, from functions and classes to coroutines, as well as how to effectively debug your Kotlin code.

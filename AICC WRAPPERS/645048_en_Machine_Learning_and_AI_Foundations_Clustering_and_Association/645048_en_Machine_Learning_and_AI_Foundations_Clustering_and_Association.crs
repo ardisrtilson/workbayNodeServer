@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=645048
+Course_System=linkedin.com
+Course_Title=Machine Learning and AI Foundations: Clustering and Association
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unsupervised learning is a type of machine learning where algorithms parse unlabeled data. The focus is not on sorting data into known categories but uncovering hidden patterns. Unsupervised learning plays a big role in modern marketing segmentation, fraud detection, and market basket analysis. This course shows how to use leading machine-learning techniques—cluster analysis, anomaly detection, and association rules—to get accurate, meaningful results from big data. Instructor Keith McCormick reviews the most common clustering algorithms: hierarchical, k-means, BIRCH, and self-organizing maps (SOM). He uses the same algorithms for anomaly detection, with additional specialized functions available in IBM SPSS Modeler. He closes the course with a review of association rules and sequence detection, and also provides some resources for learning more. All exercises are demonstrated in IBM SPSS Modeler and IBM SPSS Statistics, but the emphasis is on concepts, not the mechanics of the software.

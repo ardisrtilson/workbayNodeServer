@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Samer Buna
+Course_ID=2829011
+Course_System=linkedin.com
+Course_Title=React Native Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React Native allows you to build native mobile apps using JavaScript and React. In this project-based course, learn how to use React Native to build production-ready, native mobile apps on both iOS and Android. To help acquaint you with the fundamentals of React Native, instructor Samer Buna takes a hands-on approach, showing how to build applications from scratch. He first walks through how to build a simple math game, and then demonstrates how to build a data-driven app. Along the way, he shows how to debug and solve common problems, and shares practical knowledge about testing and packaging your apps.

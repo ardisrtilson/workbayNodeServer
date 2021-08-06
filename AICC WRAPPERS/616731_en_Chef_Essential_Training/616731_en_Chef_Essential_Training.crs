@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Beck
+Course_ID=616731
+Course_System=linkedin.com
+Course_Title=Chef Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Chef is a configuration management tool that allows you to write recipes to automate the deployment, provisioning, and configuration of machines and applications. The cooking metaphor extends to Chef cookbooks, which are collections of recipes; its CLI, knife; and its testing framework, Kitchen. The platform is ideal for DevOps engineers that want to manage their infrastructure with code. This intermediate-level course provides insights into the Chef architecture through practical examples and demos, including the deployment of a PHP application on top of a LAMP stack. Instructor Robin Beck walks through recipe development and the various prebuilt cookbooks available from the Chef community Supermarket, and reviews best practices for building wrapper cookbooks that allow you to access recipes from different cookbooks. He also shows how to work more efficiently with knife commands for managing clients, cookbooks, and data.

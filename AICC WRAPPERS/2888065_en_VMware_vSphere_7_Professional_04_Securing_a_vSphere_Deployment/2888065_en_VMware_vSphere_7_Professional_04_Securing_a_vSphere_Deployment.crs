@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2888065
+Course_System=linkedin.com
+Course_Title=VMware vSphere 7 Professional: 04 Securing a vSphere Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. In order to stay relevant, you must understand vSphere. Perhaps you’re also preparing to take the VMware Certified Professional Datacenter Virtualization (VCP-DCV) exam. In this series of courses, Rick Crisci, a VMware Certified Instructor, walks you through over 50 real-world demos in a vSphere 7 environment using the HTML5 vSphere Client. This course focuses specifically on securing a vSphere deployment. Rick provides an overview of vCenter Single Sign-On (SSO) and explains proper configuration, and also discusses the purpose of vSphere Identity Federation, setting up roles and permissions, and securing your VMs against attacks. Rick also shows how to set up an ESXi firewall and how to activate lockdown mode to ensure that all of your ESXi traffic is coming from the Command Center. Note: This course was created by Rick Crisci. We are pleased to host this training in our library.

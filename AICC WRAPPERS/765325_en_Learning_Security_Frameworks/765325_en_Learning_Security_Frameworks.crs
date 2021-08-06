@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mandy Huth
+Course_ID=765325
+Course_System=linkedin.com
+Course_Title=Learning Security Frameworks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security frameworks are designed to help organizations boost their security posture. Such frameworks provide security practitioners—and their business partners—with a common set of practices to follow, as well as a baseline that makes it easier to report on improvements. In this course, join Mandy Huth as she covers the top four frameworks available, goes over how the frameworks compare, and shares how you can actually map your security controls across multiple frameworks. Mandy also shows how to determine your core security set, stepping through how to define what you'll do and how you'll measure it, and then prove that you did what you sought out to do. Throughout the course, she shares best practices that can help you start leveraging a security framework in your own company.

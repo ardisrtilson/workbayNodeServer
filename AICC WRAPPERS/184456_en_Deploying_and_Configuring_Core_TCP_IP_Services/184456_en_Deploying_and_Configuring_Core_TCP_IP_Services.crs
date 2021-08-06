@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Timothy Pintello
+Course_ID=184456
+Course_System=linkedin.com
+Course_Title=Deploying and Configuring Core TCP/IP Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to configure TCP/IP networking? In this course, Timothy Pintello covers installing and configuring core TCP/IP services on Windows Server 2012, using a virtual network environment you can easily set up and practice with on your own. He shows how to configure and assign IPv4 and IPv6 addresses, and install Dynamic Host Control Protocol (DHCP) and Domain Name System (DNS) servers so that the computers on your network can locate, and communicate with, each other. Need to configure simple services for your users, such as file sharing and printers? Check out Configuring Basic Microsoft Services.

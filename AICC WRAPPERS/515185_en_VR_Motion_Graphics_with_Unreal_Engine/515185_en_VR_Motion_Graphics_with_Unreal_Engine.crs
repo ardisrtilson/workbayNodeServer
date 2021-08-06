@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=515185
+Course_System=linkedin.com
+Course_Title=VR Motion Graphics with Unreal Engine
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to leverage Unreal Engine to create immersive virtual reality experiences. In this course, learn how to build a real-time motion graphics-style scene in Unreal Engine for deployment on VR headsets. To begin, Scott Pagano covers the proper exporting process out of Maya and importing process into Unreal. Then he moves on to the nuts and bolts of the course—constructing a series of blueprints that provide all the interactivity and logic needed to make your scene work in VR. Scott covers scene building for HTC VIVE and Samsung Gear VR, as well as VR deployment on Android phones. You'll leave this course with valuable skills that can help you dive into building content for the immersive future.

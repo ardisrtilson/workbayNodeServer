@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2823370
+Course_System=linkedin.com
+Course_Title=JavaScript: Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For the past two decades, programmers have structured both their code and their conversations about code around the patterns first described in Design Patterns, the classic Gang of Four book. JavaScript programmers have participated in these conversations, but the patterns discussed mostly fit in the world of orthodox object-oriented programming. In this course, Emmanuel Henri explains how these patterns fit with JavaScript. He demystifies the purpose of some of the most common patterns, providing code examples along the way. Learn about key creational, structural, and behavioral design patterns, and how you can apply each of them in your JavaScript code.

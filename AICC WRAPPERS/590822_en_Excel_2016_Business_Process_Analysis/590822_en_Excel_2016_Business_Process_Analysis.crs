@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=590822
+Course_System=linkedin.com
+Course_Title=Excel 2016: Business Process Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Operate with increased efficiency. Learn how to evaluate business processes using Excel worksheet formulas. These formulas let business analysts determine the theoretical throughput of processes, assess the impact of changeover time, identify bottlenecks, and weigh setup costs versus product costs when placing an order. Curt Frye shows how to apply them to calculate capacity, identify what resources are idle and underutilized, determine optimum batch size, and calculate the right number of products to manufacture and the correct quantity to order to maximize cost savings. These are the kinds of business decisions that business analysis tools like Excel were built for! Learn how to use it to help your organization run at an entirely new level of productivity.

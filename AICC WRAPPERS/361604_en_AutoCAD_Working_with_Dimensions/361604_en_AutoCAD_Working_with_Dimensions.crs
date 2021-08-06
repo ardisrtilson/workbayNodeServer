@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=361604
+Course_System=linkedin.com
+Course_Title=AutoCAD: Working with Dimensions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For designs to be precisely built and manufactured, technical drawings need to show dimensions indicating measured lengths and angles, and in some cases geometric tolerances must be specified. In this AutoCAD training course, author Scott Onstott shows you how to create linear, aligned, angular, radial, diameter, continued, baseline, ordinate, and tolerance dimensions so you can precisely annotate any design. Plus, learn how to edit dimension styles, create sub-styles, temporarily override styles, control dimensional associativity, fine-tune dimension text, label features with multileaders, and much more.

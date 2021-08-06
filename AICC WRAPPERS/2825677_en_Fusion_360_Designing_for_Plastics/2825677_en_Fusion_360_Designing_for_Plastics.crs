@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=2825677
+Course_System=linkedin.com
+Course_Title=Fusion 360: Designing for Plastics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Plastic has unique properties not shared by other materials. If you're designing something that will eventually be created in plastic, considering the complexities of manufacturing in your design process is critical. In this course, learn how to design parts for additive manufacturing in plastic using Autodesk Fusion 360—the affordable cloud-powered CAD and CAM tool that works like more expensive, industry-focused tools. Instructor Thom Tremblay explains how to create a form, complete and visualize your design, and set it up for 3D printing, all while designing a ready-to-manufacture part. Plus, learn a more complex alternative modeling processes for creating a solid from surfaces and subdividing a solid model.

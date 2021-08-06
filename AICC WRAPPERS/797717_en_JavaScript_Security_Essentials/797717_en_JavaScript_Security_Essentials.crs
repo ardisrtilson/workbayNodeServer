@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=797717
+Course_System=linkedin.com
+Course_Title=JavaScript: Security Essentials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web security guidelines are useful. Penetration testing finds weak points in code and infrastructure. Somewhere in the middle, though, developers need to create resilient code. In this course, Emmanuel Henri equips JavaScript developers with the basic knowledge and techniques they need to keep their JavaScript applications secure. Discover how to approach the challenges of cross-side scripting, cross-site forgery, server-side injection, and obfuscation, as well as how to best approach sensitive data risks. Throughout the course, Emmanuel shows what these threats actually look like in code, demonstrates syntax corrections you can make to fix these issues, and shares best practices for dealing with key threats.

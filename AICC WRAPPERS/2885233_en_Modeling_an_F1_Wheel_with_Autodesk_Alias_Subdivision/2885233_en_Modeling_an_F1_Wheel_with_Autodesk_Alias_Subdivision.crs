@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Veejay Gahir
+Course_ID=2885233
+Course_System=linkedin.com
+Course_Title=Modeling an F1 Wheel with Autodesk Alias Subdivision
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever wanted to explore the world of concept modeling but didn't have the time to learn a new interface or application? With Autodesk expanding the capabilities of Alias to include subdivision modeling, you can now dive into concept development without having to learn a new interface or application. In this course, Veejay Gahir demonstrates a typical workflow by taking a sketch of a Formula 1 race car steering wheel and showing how to model and render a fully realized version in Alias. Veejay shows how to import the sketch, use subdivision (SubD) modeling techniques to create the basic shape, and add details like buttons and switches, and logos. With the capabilities of Alias coupled with the unique commands developed exclusively for subdivisions, Alias users can now use a familiar interface to learn a new skill.

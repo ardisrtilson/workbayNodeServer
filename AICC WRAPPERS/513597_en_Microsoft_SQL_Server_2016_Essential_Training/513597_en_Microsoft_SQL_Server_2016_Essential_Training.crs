@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=513597
+Course_System=linkedin.com
+Course_Title=Microsoft SQL Server 2016 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server supports mission-critical applications and big data solutions—without having to buy expensive add-ons or high-end appliances. Learn the essentials of Microsoft's latest release, SQL Server 2016. Use tools like SQL Management Studio and the Configuration Monitor to deploy and manage databases both on premises and in the cloud. Learn how to create new databases, build tables, define relationships, write queries, and use stored procedures and built-in functions. Instructor Martin Guidry—a SQL Server veteran—also shows how to manipulate XML and JSON data, and perform crucial database administration tasks, such as backups and restores, security enhancements, and performance monitoring. Plus, find out how to extend SQL Server by integrating it with cloud services like Microsoft Azure.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=5026549
+Course_System=linkedin.com
+Course_Title=Excel for Mac: PivotTables in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to quickly summarize, sort, and analyze data with one of the most overlooked features in Microsoft Excel for Mac: PivotTables. Follow along with Curt Frye as he shows you how to gain more valuable insights from your data—demystifying the complexity of PivotTables while demonstrating their power. Curt shows how to build PivotTables from Excel workbooks or external data sources, add calculated fields, filter results, and format your layout to make it more readable. Plus, learn how to use conditional formatting to intelligently highlight cells, apply color scales, and format cells using data bars, as well as how to create and format PivotCharts. Note: This course was recorded in Office 365 for Mac. However, much of the content will be useful to those working with Office for Mac 2019 and 2016.

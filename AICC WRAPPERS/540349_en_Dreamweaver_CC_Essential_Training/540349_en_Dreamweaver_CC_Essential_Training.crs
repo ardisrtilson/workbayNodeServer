@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=540349
+Course_System=linkedin.com
+Course_Title=Dreamweaver CC Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use Adobe Dreamweaver CC 2017—the popular web design and development application—to create and publish websites using standards-based technology and a simplified user interface. In this course, David Powers shows how to get started with Dreamweaver, covering the user interface and providing guidance on creating new files, setting up a logical structure for content, and generating clear and accessible code. David explains how to format basic HTML and CSS using the visual and code-based tools in Dreamweaver. He also explores site management techniques, including checking for broken links, connecting to a remote server, and managing multiple sites.

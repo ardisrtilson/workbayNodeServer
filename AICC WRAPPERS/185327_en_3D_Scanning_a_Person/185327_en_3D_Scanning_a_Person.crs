@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kacie Hultgren
+Course_ID=185327
+Course_System=linkedin.com
+Course_Title=3D Scanning a Person
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+New consumer-grade 3D sensors in products like the Microsoft Kinect make scanning people easy! And with 3D printers, you can turn those scans into Mini-Mes that can be used as cake toppers, game tokens, or action figures. In this course, Kacie Hultgren will guide you through the process of creating a 3D selfie that's ready for printing. Kacie uses the free software Meshmixer to repair and enhance the scan, before printing it with a MakerBot. Don't own a 3D printer? Kacie also shows how to export your model and send it to Shapeways, where you can order a 3D print.

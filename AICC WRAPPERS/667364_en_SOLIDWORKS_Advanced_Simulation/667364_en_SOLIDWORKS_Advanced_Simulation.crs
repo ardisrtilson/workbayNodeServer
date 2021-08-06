@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Abbey
+Course_ID=667364
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Advanced Simulation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Before parts can be manufactured, SOLIDWORKS designers need to perform advanced stress analysis using simulations. This process is called finite element analysis or FEA. Join instructor Tony Abbey in this course, as he teaches this vital skill using the rich simulation features in SOLIDWORKS Premium 2018. Learn how to break up and mesh models, set loads and boundary conditions, and fix and re-mesh geometry. Explore the 3-2-1 and plane strain methods for measuring stress and displacement. After optimizing each design, Tony runs an analysis and compares the before and after results so you can see how the stress is reduced.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Helfen
+Course_ID=373550
+Course_System=linkedin.com
+Course_Title=Inventor 2016 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get an in-depth look at Autodesk Inventor 2016. In this course, author John Helfen takes you through the interface and key processes of this parametric design system, including sketching, drawing, modeling parts, and building assemblies. With Inventor and these tutorials, you can create parts and assemblies and document them for manufacturing. Throughout the course, John touches on more complex topics such as sweeps and lofts, T-splines, and assembly visualization techniques that will take your documentation to the next level.

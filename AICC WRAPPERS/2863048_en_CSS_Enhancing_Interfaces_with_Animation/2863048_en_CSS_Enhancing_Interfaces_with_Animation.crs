@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christina Gorton
+Course_ID=2863048
+Course_System=linkedin.com
+Course_Title=CSS: Enhancing Interfaces with Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Push your interfaces further and make websites more engaging by integrating animations throughout the site. In this course, learn how to leverage CSS to incorporate interactive animations that enhance features and layouts. Examine principles and best practices that should guide your use of animation. Find out how to use transitions, keyframe animations, and transforms to give users a better overall experience. Discover the importance of fine-tuning the duration, speed, and choreography of dynamic elements. See how to make buttons, menus, and cards more fun and inviting. Consider theories, practical uses, and more as you explore the use of movement in UI.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=639072
+Course_System=linkedin.com
+Course_Title=Designing an Animated App UI with Illustrator
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+An animated prototype is a great way to test an app's interface design, without spending any engineering resources. In this course, Andy Needham shows how you can use Adobe Illustrator to design reusable components and screens for a mobile app prototype, which can later be animated in After Effects. He starts with the planning process, where you gather reference material, sketch your ideas, and map the user journey. Then Andy shows how to set up the project file correctly, by choosing the correct document type and organizing the artboards. Next, learn how to break down your sketches into components that can be reused throughout the app, including headers, navigation bars, and dashboard tiles. Andy shows how to convert your components into Illustrator symbols, and lay out the different app screens. Finally, he shows how to organize your project and export assets for animation. Learn how to animate the prototype by watching Andy's follow-up course, Creating a Mobile App Interface in After Effects.

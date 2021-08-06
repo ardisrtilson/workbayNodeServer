@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Neill
+Course_ID=412380
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtualization and cloud computing are the future of our IT infrastructure. It's important for system administrators who want to succeed to have a strong foundation in virtualization technologies, particularly in the popular virtual environment VMware vSphere, including the ESXi hypervisor and vCenter Server. With vSphere, you can create virtual machines that bypass the need for additional expensive hardware and provide features not available on a physical system—a perfect setup for exploring new technologies and setting up test environments. This course teaches the basics of installing, configuring, and maintaining vSphere 6, including installation of the ESXi hypervisor and vCenter Server using a pre-created environment called AutoLab. Following lab creation, Brandon Neill introduces the core components of vSphere (ESXi and vCenter) and shows how to configure storage and networking. Finally, he runs through some typical virtual-machine management tasks, such as creating a virtual machine manually vs. creating one with templates and clones, working with snapshots, and performing a vMotion migration.

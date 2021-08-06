@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul Tice
+Course_ID=656798
+Course_System=linkedin.com
+Course_Title=FARO SCENE 3D Laser Scan Registration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+FARO SCENE is an important tool for 3D laser scanning that can help you process and manage scan data more efficiently. This course covers a comprehensive workflow for 3D laser scan processing, registration, and quality control (QC) using FARO SCENE software. Instructor Paul Tice covers setting up your project registration, navigating through your point cloud data in FARO SCENE, noise identification and removal, and validating the overall registration of your point cloud data set. He also goes into visualizing point clouds, point cloud exporting options and applications, integration options in FARO SCENE, using third-party data, and more.

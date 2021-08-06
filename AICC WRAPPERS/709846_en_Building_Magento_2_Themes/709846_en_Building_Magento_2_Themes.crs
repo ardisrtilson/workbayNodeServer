@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Enno Stuurman
+Course_ID=709846
+Course_System=linkedin.com
+Course_Title=Building Magento 2 Themes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Note: This course was created by OSTraining. It was originally released on August 21, 2017. We are pleased to host this training in our library. Learn how to create and customize Magento 2 themes. Instructor Enno Stuurman begins the course by taking a look at the default Luma theme. After he goes over the structure of Luma, he helps you use that knowledge to build your own unique theme. Enno discusses page layouts in Magento themes, overriding and extending Magento theme CSS, deploying Magento 2 themes to production, and more. Throughout the course, he covers Knockout.js, Grunt, and other tools you need to master Magento theming.

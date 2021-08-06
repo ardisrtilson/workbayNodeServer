@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2890061
+Course_System=linkedin.com
+Course_Title=SAP BPC Embedded Fundamentals for Planning Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re an SAP developer or ABAP programmer looking to expand your skills into SAP BI-IP or BPC Embedded, this course is for you. Learn to design, configure, and roll out a complete planning application inside SAP BPC embedded or BI-IP. The course starts with the design of a simple planning action to familiarize you with the basic functionality and terminology available in BI-IP, before drilling down into more complex functionality to enable you to design more advanced planning applications. This course also helps you understand the various options for reporting and planning within the Embedded/BI-IP environment, and goes over how to create and maintain planning functions in BI-IP and Embedded. Note: This course was created by Michael Management. We are pleased to host this training in our library

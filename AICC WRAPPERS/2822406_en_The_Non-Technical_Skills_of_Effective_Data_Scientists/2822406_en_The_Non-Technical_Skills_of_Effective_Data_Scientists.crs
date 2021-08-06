@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=2822406
+Course_System=linkedin.com
+Course_Title=The Non-Technical Skills of Effective Data Scientists
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most data science training focuses only on key technologies. But real-world data science jobs require more than just technical acumen. When new data scientists change their focus from the classroom to the boardroom, they must be able to empathize, persuade, and lead others if they want to successfully run projects that produce business transformation. This course was designed to help you learn these, and other, nontechnical skills that can help you convert your first data science job into a successful, lifelong career. There are predictable challenges to be overcome when predictive models introduce change in organizations. Throughout this course, instructor Keith McCormick goes over these challenges and shows how to overcome them. Discover how to confidently defend your turf at work, enhance your own natural curiosity, deepen your commitment to your craft, effectively translate the language of analytics to the language of business, practice diplomacy, and more.

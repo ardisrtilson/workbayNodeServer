@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=360620
+Course_System=linkedin.com
+Course_Title=Creating an Interior Scene with Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Blender to model, texture, and render a realistic interior scene. In this course author Darrin Lile demonstrates techniques used to create environments for animation and architectural visualizations. He begins by creating the basic structure of a contemporary condominium living room based on imported blueprints, and then demonstrates useful tips for modeling the furniture and accessories. Next Darrin shows how to apply materials to the objects in your scene, as well as UV map and texture them. Finally, he goes over the process of adding lights to the scene and producing a rendered image of the environment.

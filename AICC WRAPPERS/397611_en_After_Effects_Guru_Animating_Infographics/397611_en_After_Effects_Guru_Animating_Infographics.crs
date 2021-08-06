@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=397611
+Course_System=linkedin.com
+Course_Title=After Effects Guru: Animating Infographics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to animate infographics with Adobe After Effects! Many infographic elements begin life in applications like Illustrator, Photoshop, or PowerPoint. But these assets can be flat and boring; animation is what brings them to life. In this course, After Effects guru Ian Robinson covers animating charts and graphs with shape layers, layer masks, and stroke and text animators. He also shows how to use expressions to link animation between different graphic elements, build dynamic camera moves, and create some animated 3D infographics with CINEMA 4D Lite. To finish things off, he'll look at some third-party tools such as Cinema Spice Charts & Graphs for After Effects and aescripts, which help speed up some of the techniques you learned earlier in the course.

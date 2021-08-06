@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kesha Williams
+Course_ID=696856
+Course_System=linkedin.com
+Course_Title=Java Persistence API (JPA): 1 The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Java Persistence API (JPA) is the standard for mapping Java objects to relational databases. JPA provides several advantages over traditional data access methods like Java Database Connectivity (JDBC). In this practical course, Kesha Williams discusses these advantages and acquaints you with the basics of JPA, entity management, transaction management, and relationship mapping. Upon completing this course, you'll be equipped with a firm understanding of JPA and persisting data in Java enterprise applications.

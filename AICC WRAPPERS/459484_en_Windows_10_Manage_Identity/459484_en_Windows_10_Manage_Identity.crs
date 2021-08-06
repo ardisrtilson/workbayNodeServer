@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Culp
+Course_ID=459484
+Course_System=linkedin.com
+Course_Title=Windows 10: Manage Identity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This hands-on IT certification course covers the tools and techniques necessary for a system admin to manage user identities in Windows 10. Learn two vital skills: (1) how to support Windows Store and cloud apps and (2) how to support authentication and authorization—as you study for key topics for Microsoft Exam 70-697, Configuring Windows Devices. Windows expert Brian Culp covers app installation and management; the core differences between local, domain, and Microsoft accounts; techniques for authenticating and authorizing accounts; workgroup support; and domain-level authentication options, such as multifactor authentication, Windows Hello, and virtual smart cards. Note: This course maps to the Manage Identity domain from the Microsoft Exam 70-697: Configuring Windows Devices. Review the exam objectives here.

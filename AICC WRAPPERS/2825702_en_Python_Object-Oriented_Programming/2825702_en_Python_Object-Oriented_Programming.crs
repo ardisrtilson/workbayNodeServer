@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2825702
+Course_System=linkedin.com
+Course_Title=Python Object-Oriented Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The object-oriented programming (OOP) features in Python make it easier to build programs of increasing complexity and modularity. In this course, you can learn how to apply core OOP principles like inheritance and composition along with some Python-specific features like “magic” methods and data classes to build programs that are extensible and efficient. Begin by brushing up on some object-oriented basics, and then use Python features like magic methods to make your classes integrate tightly with the Python language and data classes to dramatically reduce the amount of boilerplate code needed to build data-centric objects.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=774906
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: Manage Data with Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Nearly every app you build will use some kind of data. That data could be a single numeric value, or a complex relational database with multiple tables. This course helps you build Android apps that store, manage, and display data in a variety of forms and formats, using the Kotlin programming language and the latest tools and best practices for Android developers. Learn how to access data from internal resources and assets, external files, and web services; parse strings that are formatted with JSON; and display just the data you want to users. Instructor David Gassner also explains how to read from and write to text files and manage SQLite databases in Android-based applications. The course uses Kotlin—rather than Java—for all examples, leveraging its efficiency and brevity.

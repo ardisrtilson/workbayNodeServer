@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=455719
+Course_System=linkedin.com
+Course_Title=Substance Painter: Petrol Pump Game Asset
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Substance Painter is shaking up the asset development workflow in the 3D game industry. To introduce users to the tools and techniques in Substance Painter, Joel Bradley introduces another fun, basic project that starts with an existing model from 3ds Max and ends with a completely textured asset that can be used in any game engine. The petrol pump featured in this project requires materials like painted metal, bare metal, rubber, plastic, and glass. Joel will show how to use custom bitmaps, custom materials from Substance Designer, fill layers, and particle brushes to apply the textures and create realistic wear and tear. By the end of the course, you'll have another Substance Painter project under your belt and a new asset for your library.

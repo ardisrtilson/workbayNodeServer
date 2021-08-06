@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Yot
+Course_ID=2800331
+Course_System=linkedin.com
+Course_Title=Modo 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MODO offers artists a powerful 3D platform for modeling, rendering, texturing, and animating. MODO is popular amongst pre-visualization artists and in feature film art departments due to its efficient and intuitive modeling and rendering features. This essential training brings you up to speed with the basics of using MODO providing a solid foundation for further study, including such topics as modeling, texture mapping, shading, rigging, and more. Join instructor Richard Yot as he introduces concepts that make MODO different from other 3D tools as well as workflows for modeling, lighting, and rendering beautiful 3D objects.

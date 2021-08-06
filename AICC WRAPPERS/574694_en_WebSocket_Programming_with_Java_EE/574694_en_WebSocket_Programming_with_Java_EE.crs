@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Theedom
+Course_ID=574694
+Course_System=linkedin.com
+Course_Title=WebSocket Programming with Java EE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+WebSocket programming is a new paradigm in web development that takes the interactive web experience to a new level of richness. The WebSocket API in Java EE offers a powerful lifecycle model and annotation-driven configuration, and is an ideal solution for the development of interactive and dynamic websites. In this course, learn how to implement WebSocket functionality end to end in a client and server application. Join Alex Theedom as he guides you through the lifecycle of a WebSocket connection, and discusses the Java EE WebSocket programming methodologies: annotation and programmatic. He shows how to secure and encrypt WebSocket endpoints and use simple techniques to test their implementation. In addition, he explains how to integrate the JSON-processing API and build a front-end and server based WebSocket client.

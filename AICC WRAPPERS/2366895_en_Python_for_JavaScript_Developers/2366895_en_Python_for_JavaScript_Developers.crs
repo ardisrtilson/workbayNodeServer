@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ronnie Sheer
+Course_ID=2366895
+Course_System=linkedin.com
+Course_Title=Python for JavaScript Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you need to learn Python for your current job, for the job you want, or just for fun? In this course, instructor Ronnie Sheer shows you how you can leverage your existing knowledge of JavaScript to get started programming in Python. Ronnie compares Python and JavaScript, then covers how to set up and run a Python environment. He discusses how to write code that adheres to Python conventions, which can prevent bugs. Ronnie explains some of the basic logic in Python, including the use of indentation, how to write and debug control flow, how to use Python try/except appropriately, and more. He goes over objects and class definitions, then explores Python’s data model feature and mixins class. Ronnie goes into iteration in Python and shows how you can write more concise and elegant code in Python by using zip, enumerate, and list comprehensions. He concludes with a challenge that shows you how to apply your knowledge of JavaScript and Python to improve a small program.

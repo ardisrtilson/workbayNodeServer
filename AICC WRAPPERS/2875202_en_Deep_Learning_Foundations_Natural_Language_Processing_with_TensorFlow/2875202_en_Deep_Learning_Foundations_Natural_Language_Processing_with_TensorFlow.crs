@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harshit Tyagi
+Course_ID=2875202
+Course_System=linkedin.com
+Course_Title=Deep Learning Foundations: Natural Language Processing with TensorFlow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There is a growing demand to harness the power of natural language processing (NLP) and deep learning models to be able to make sense of textual data and reduce the emotional intervention of humans in order to make better decisions. In this course, instructor Harshit Tyagi provides a complete guide to understanding NLP using recurrent neural networks (RNNs). Harshit begins by introducing you to word encodings and using TensorFlow for tokenization. He describes the important concept of word embeddings and shows you how to use TensorFlow to classify movie reviews and project vectors. Harshit discusses RNNs and long short-term memory (LSTM), then shows you how to improve the movie review classifier from earlier in the course. He concludes with a discussion of how you can train RNNs to predict the next word in a sentence, which in turn allows you to generate some original text.

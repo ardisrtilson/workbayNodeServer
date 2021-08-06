@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Anatalio
+Course_ID=5025108
+Course_System=linkedin.com
+Course_Title=Building a Reactive App with Angular and Spring Boot 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular is known for building rich, data-driven single page applications (SPAs), while Spring Boot is a popular and powerful framework for back-end development. In this course, Chris Anatalio shows how to take these two enterprise-scale worthy technologies and build a robust, secure full-stack application. Learn how to build an app that uses this reactive Spring stack to create a REST API on the back end, and an Angular front end that leverages that data. After highlighting the benefits of using reactive programming with Angular and Spring, Chris covers using, configuring, and implementing reactive Spring Data; building a reactive Spring Data client-side functionality with Angular; testing; and more.

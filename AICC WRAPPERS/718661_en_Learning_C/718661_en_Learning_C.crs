@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=718661
+Course_System=linkedin.com
+Course_Title=Learning C
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Released in 1973, C is still at the center of it all. In this course, get a quick introduction to the vocabulary and basics of programming in C, the language that inspired C++, Objective-C, and many others. Instructor Dan Gookin covers flow control, variables, and other basic topics, but also introduces advanced concepts such as pointers and memory allocation. Plus, he provides challenges that allow you to test your learning along the way.

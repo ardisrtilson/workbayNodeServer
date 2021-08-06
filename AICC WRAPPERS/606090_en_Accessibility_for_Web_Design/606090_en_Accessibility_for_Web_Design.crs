@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Derek Featherstone
+Course_ID=606090
+Course_System=linkedin.com
+Course_Title=Accessibility for Web Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you doing everything you can to make sure your sites are accessible and easy to use? Learn practical accessibility techniques to ensure your web designs can be viewed and used by everyone. Internationally recognized accessibility expert Derek Featherstone walks through examples of common web interaction flows, and then steps through considerations and tactical strategies for each component, to assure that people with disabilities can easily complete those tasks. Learn the proper use of color, contrast, and motion, and find out how to design keyboard interactions and touch interfaces; incorporate images, sound, and video; design accessible forms; structure content at the tag level; and balance responsive design with accessibility.

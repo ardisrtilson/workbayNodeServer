@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Harrington
+Course_ID=361384
+Course_System=linkedin.com
+Course_Title=Creating Time-Lapse Movies with Lightroom and LRTimelapse
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Transform your still image sequences into stunning time-lapses with Lightroom and the incredible but easy-to-use companion app, LRTimelapse. Rich Harrington starts this course off explaining how an all-raw workflow can help you make the most of this toolset and get you the best-looking results. Then he shows how to process raw images in Lightroom and use LRTimelapse to address more complex issues, such as flicker and exposure changes over time. Then he demos two options for final assembly of your time-lapse movie: exporting directly to video from LRTimelapse, or bringing the still images into other Adobe and Apple programs to build your time-lapses there.

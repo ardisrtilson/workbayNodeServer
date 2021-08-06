@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2972411
+Course_System=linkedin.com
+Course_Title=Azure Administration: Implement and Manage Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to manage Azure storage, including Blob storage and file shares. This demo-heavy course is for any administrator who wants to be able to configure and secure cloud-based storage options with Azure, and those who want to prepare for the coveted Microsoft Azure Administrator certification exam (AZ-104). Instructor Sharon Bennet provides hands-on demonstrations that cover creating and configuring storage accounts, importing and exporting data to Azure, configuring Azure file shares, and implementing Azure Blob storage. Plus, learn how to make sure your data is secure with access keys and Azure AD Authentication. Each chapter is filled with practical challenges to practice your new Azure administration skills.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Wes McDermott
+Course_ID=746259
+Course_System=linkedin.com
+Course_Title=Substance Painter 2018 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+These days, nearly every industrial visualization and game studio uses Substance Painter, making it the industry standard for texture creation, especially for physically-based rendering (PBR). In this course, Wes McDermott takes a beginner's look at Substance Painter 2018, walking you through a basic project—texturing a simple game asset. He starts with the basics, showing you how to create a new project and import the model, as well as use the integrated baking system. Next, Wes shows how to work with materials and layers and provides a primer on the brush toolset and smart materials. After you finish tackling the fundamentals, Wes shows you how to fully texturize the asset, working step-by-step through the body, tires, and cabin of the example asset, a front-load tractor. He wraps up by showing you how to create portfolio renders using Iray, the integrated path-tracing renderer in Substance Painter.

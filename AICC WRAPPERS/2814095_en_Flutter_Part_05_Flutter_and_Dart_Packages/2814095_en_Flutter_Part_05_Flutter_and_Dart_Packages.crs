@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2814095
+Course_System=linkedin.com
+Course_Title=Flutter: Part 05 Flutter and Dart Packages
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Flutter, you can design beautiful apps with minimal effort. This course introduces intermediate app development techniques using packages—specialized plugins that speed up your Flutter development even more. Instructor Angela Yu explains how to use packages to play sound, incorporate input for dynamic responses, customize app appearance, output messages, and more. Take the Dart functions challenge to test your new Flutter skills. Each lesson is illustrated using a fun, real-world project—a musical xylophone app—that you can build, customize, and add to your Flutter portfolio. This course was created by London App Brewery. We are pleased to host this content in our library.

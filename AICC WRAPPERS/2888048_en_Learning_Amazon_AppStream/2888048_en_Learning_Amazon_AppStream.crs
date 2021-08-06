@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=2888048
+Course_System=linkedin.com
+Course_Title=Learning Amazon AppStream
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the new world of work, securely delivering software applications over the internet to students and employees is key to uninterrupted learning and business continuity. In this course, learn how to use Amazon AppStream to keep your remote employees connected to essential data, applications, and resources. Instructor Carlos Rivas explains how to deploy a secure network infrastructure. He then details how to manage and share AppStream images, which are snapshots of one or more software applications that you can later use to deploy as a service to your remote audience. Plus, learn how to properly manage your fleet, generate temporary URLs, set up SSO, and more.

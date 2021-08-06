@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Skye Lewin
+Course_ID=178118
+Course_System=linkedin.com
+Course_Title=Logic Pro X: Mixing and Mastering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, composer and producer/engineer Skye Lewin shares his professional mixing and mastering techniques using Logic Pro X. He starts by showing how to prepare a project for mixing, from importing tracks to organizing them visually. Skye then discusses working with Logic's mixer: controlling signal flow, working with plugins, and using sends and returns, groups, and the master output. Next, Skye dives into mixing a song, covering balance, equalization (EQ), dynamics and compression, reverb and delay, automation, and bouncing down the mix. Finally, Skye covers mastering techniques, including applying EQ, compression, and limiting; setting the song order; and understanding how concepts like bit depth, sample rate, file formats, and dither affect sound quality.

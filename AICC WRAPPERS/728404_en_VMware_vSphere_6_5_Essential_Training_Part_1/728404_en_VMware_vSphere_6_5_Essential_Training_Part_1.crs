@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=728404
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Essential Training Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the essentials of vSphere 6.5, the data center virtualization platform from VMware. Part 1 of this training series covers core vSphere concepts such as virtual networking, virtual storage, virtual machines, and virtual apps. It starts with installation and configuration of the core tools—vSphere, vCenter Server, and the ESXi hypervisor—and then introduces features such as vSphere switches, VMFS and NFS data stores, vSAN, templates, and cloning. Instructor Rick Crisci also demos many common tasks that you may need to perform as a vSphere administrator using the vSphere web client.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Bowersox
+Course_ID=2839045
+Course_System=linkedin.com
+Course_Title=Migrating beyond Java 8
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to migrate your Java 8 applications to the latest versions of Java. It's important for developers to plan ahead for the impacts of the new release cadence, licensing models, and support strategies as Java 8 becomes obsolete. This course provides you with tactics and tools for adapting new and existing applications to a newer version of Java. Explore enhanced language and API features in Java 11, 12, 13, and 14—including switch expressions and text blocks for working with multiline strings—and learn how to develop a migration strategy that takes advantage of automated tools. Instructor and Java expert Kevin Bowersox also helps you tackle challenges such as deprecation, removed packages, and third party dependencies that can cause issues when migrating between Java versions. By the end of the course, you should have the skills and knowledge to conduct a seamless migration to the most modern, secure, and performant versions of the Java platform.

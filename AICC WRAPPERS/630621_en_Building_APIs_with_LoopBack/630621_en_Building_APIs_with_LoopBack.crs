@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Raymond Camden
+Course_ID=630621
+Course_System=linkedin.com
+Course_Title=Building APIs with LoopBack
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+LoopBack is a powerful, easy-to-use Node.js framework that can help make the process of creating REST-based APIs a bit less tedious. In this course, learn how to efficiently build APIs using LoopBack. Raymond Camden begins by providing a high-level overview of LoopBack, and showing how to install this framework. He then shares how to create APIs using the command-line interface (CLI), explaining how to work with data sources, and how to use and modify the framework's security features. Plus, he demonstrates how to customize LoopBack, filter data, and use validation rules. Raymond wraps up by walking through the code of a basic LoopBack front-end application.

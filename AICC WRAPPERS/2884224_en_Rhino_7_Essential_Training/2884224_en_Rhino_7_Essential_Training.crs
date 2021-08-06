@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=2884224
+Course_System=linkedin.com
+Course_Title=Rhino 7 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino is a popular and easy-to-use 3D modeling program. In this course, instructor Dave Schultze uses clear explanations and helpful exercises to get you started drawing and modeling in Rhino 7. Dave introduces you to the commands and customizations in the Rhino interface, as well as the useful Properties panel and Gumball. He steps you through workflow basics, such as selecting objects, organizing a project using layers, and basic transformations. Dave shows you how to draw using 2D geometry. He concludes by showing you useful commands and features to start modeling basic surfaces.

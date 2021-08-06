@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=808688
+Course_System=linkedin.com
+Course_Title=Advanced npm
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+npm is a key part of every developer's toolbox. It's the package manager for JavaScript and JavaScript frameworks such as Node.js, enabling developers to easily share and re-use code. This course helps you build on your npm knowledge, teaching advanced concepts and skills, including how to publish your own packages so they can be used by the entire JavaScript community. Instructor Emmanuel Henri also covers working with private packages, executing audits, and troubleshooting common issues, including cache problems.

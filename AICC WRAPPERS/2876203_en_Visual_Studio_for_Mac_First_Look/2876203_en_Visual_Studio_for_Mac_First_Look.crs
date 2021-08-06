@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Galloway, Microsoft .NET
+Course_ID=2876203
+Course_System=linkedin.com
+Course_Title=Visual Studio for Mac First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Jon Galloway offers up an introduction to Visual Studio for Mac, the integrated development environment for .NET applications from Microsoft. With Visual Studio, you can build all the different programs, apps, websites, and services that you can build with .NET, but with a user interface and tools to help you get started and be more productive as you’re developing. Jon guides you through the basics of installing Visual Studio, and gives a tour of the most important features it has to offer, like code navigation, debugging, testing, and collaboration. After installing the free software, he shows you how to create a C# app, compile it, and debug it. Jon also shows how to get more involved with the large .NET and Visual Studio communities, ranging from livestreams to in-person meetups.

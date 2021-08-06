@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2873282
+Course_System=linkedin.com
+Course_Title=Maya 2022 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create high-quality 3D models and animations in Maya 2022. This course covers the core Maya skills—modeling, texturing, rendering, and animation—in a real-world project-based workflow that translates equally well to film, motion graphics, and game design. Learn basics such as selecting and manipulating objects, organizing scenes, and customizing the interface. Next, review polygonal modeling, creating and refining meshes, sculpting, and NURBS modeling. Discover how to create and apply materials to surfaces—adding color, texture, and reflectivity. Then integrate cameras, lighting, and depth-of-field effects using the Arnold for Maya renderer. Last but not least, instructor George Maestri shows how to add movement and life to your work with the Maya animation tools.

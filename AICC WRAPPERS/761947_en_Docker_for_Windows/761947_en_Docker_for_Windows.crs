@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=761947
+Course_System=linkedin.com
+Course_Title=Docker for Windows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Containerization is a game-changing technology for DevOps professionals. Containers virtualize software, making it more agile and efficient. Docker makes it easy to get those containers up and running on multiple platforms, including Windows and Windows Server. This course explores the numerous benefits of using Docker containers for Windows app development and deployment. Learn how to install Docker for Windows, as well as management tools like Kitematic and Kubernetes, and start running your first containers. Instructor David Davis shows how to deploy Microsoft IIS, SQL, and even Windows inside containers, and configure container storage and networking. Plus, explore enterprise uses for Docker on Windows Server.

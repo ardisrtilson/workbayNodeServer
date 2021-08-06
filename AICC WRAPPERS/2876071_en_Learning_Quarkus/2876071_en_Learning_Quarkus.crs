@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2876071
+Course_System=linkedin.com
+Course_Title=Learning Quarkus
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Running Java applications, especially in a containerized cloud-native environment, can be a resource-heavy and expensive endeavor, and the prospect of a framework with a smaller footprint with all the power of Java is very appealing. Enter Quarkus, a Kubernetes-based framework that delivers the power of the Java development language and ecosystem with fewer resource needs. In this course, Frank Moley gives an introduction to Quarkus, starting with the basics and then illustrating the framework through a series of challenges and solutions. By the end of the course, it should be clear why Quarkus is quickly becoming one of the most exciting frameworks for building Java-based microservices and cloud-native components.

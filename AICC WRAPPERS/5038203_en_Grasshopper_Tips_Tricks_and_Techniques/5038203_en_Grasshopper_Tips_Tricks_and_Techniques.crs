@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walter Zesk
+Course_ID=5038203
+Course_System=linkedin.com
+Course_Title=Grasshopper: Tips, Tricks, and Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Since its inception, the Grasshopper plugin for Rhino 3D has consistently grown in popularity with designers. This graphical algorithm editor boasts capabilities that make the process of creating complex 3D models less tedious and more efficient. In this series, instructor Walter Zesk shows you how to work even smarter with this powerful plugin. Get techniques that can help you resolve common challenges in Grasshopper and make the most out of its capabilities. Tune in every week for a new tip. Note: Because this is an ongoing series, viewers will not receive a certificate of completion.

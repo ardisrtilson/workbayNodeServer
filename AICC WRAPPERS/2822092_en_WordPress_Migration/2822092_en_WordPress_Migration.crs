@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Dolson
+Course_ID=2822092
+Course_System=linkedin.com
+Course_Title=WordPress: Migration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to migrate your WordPress website? In this course, instructor Joe Dolson shows you how, detailing what it takes to move your WordPress site from one location to another by duplicating and resetting your database. Joe shares what you need to do to prepare your site for migration, including how to change protocols, domains, and hosts. He highlights key tools—such as the WordPress command-line interface (WP-CLI) and File Transfer Protocol (FTP)—that can help your migration run smoothly. Plus, he goes over a variety of different plugins you can use to handle migration, including Duplicator and Migrate Guru. To wrap up, Joe shares solutions to common problems that can crop up during the WordPress migration process.

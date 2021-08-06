@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=455726
+Course_System=linkedin.com
+Course_Title=Access 2016: Queries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to find and translate complex raw data into information you can use to make better decisions, with Access queries. Access expert Adam Wilbert explains how to create real-world queries to filter and sort data and perform calculations, as well as refine query results with built-in functions, all while offering challenges that help you master the material. Find out how to identify top performers, automate repetitive analysis tasks, make queries more flexible with parameter requests, and increase accuracy and consistency in your database using program flow functions. Adam closes with an assortment of useful query tricks. Take the challenges posed along the way to test and practice your new Access skills.

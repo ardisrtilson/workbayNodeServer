@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=728389
+Course_System=linkedin.com
+Course_Title=AutoCAD: Advanced Workflow with Sheet Sets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sheet sets can help you work smarter in AutoCAD by allowing you to organize selected layouts from your drawings into a named collection. The Sheet Set Manager streamlines how you manage, transmit, publish, and archive these collections. In this course, discover how the AutoCAD Sheet Set Wizard and Sheet Set Manager work, and learn about the particular advantages of working with sheet sets. Plus, see how to organize, manage, publish, and archive sheet sets.

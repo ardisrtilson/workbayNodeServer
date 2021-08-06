@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Siegel
+Course_ID=494383
+Course_System=linkedin.com
+Course_Title=Dynamo: Revit Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dynamo allows Revit users to build custom tools to solve their problems in smarter, faster ways. This course teaches you how to apply basic visual programming concepts to architectural design in Revit, including automating various design, documentation, analysis, and BIM management tasks. Learn how to use Dynamo for numbering rooms, calculating occupant loads, evaluating the efficiency of a room's furniture layout, verifying adherence to building code, and dimensioning rooms. Each chapter features start-to-finish examples of Dynamo in action, solving and automating the kind of tasks architects face every day.

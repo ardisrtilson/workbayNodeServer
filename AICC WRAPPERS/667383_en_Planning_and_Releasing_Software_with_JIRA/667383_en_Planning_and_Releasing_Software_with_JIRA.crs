@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Anthony
+Course_ID=667383
+Course_System=linkedin.com
+Course_Title=Planning and Releasing Software with JIRA
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Jira has several powerful features for release management, including agile release cycles. This course explains how to plan and release software in a scrum development environment using a base Jira project and some useful plugins and add-ons. It also shows how to use principles of continuous integration, delivery, and deployment to guide the release management strategy at your company. Instructor Robert Anthony shows how to create boards and reports for sprints, use Portfolio for Jira to manage multiple software projects and cross-project dependencies, and manage code repositories with Bitbucket, which integrates with version control systems like Git and Mercurial. Challenges videos at the end of each chapter allow you to practice your newfound Jira skills.

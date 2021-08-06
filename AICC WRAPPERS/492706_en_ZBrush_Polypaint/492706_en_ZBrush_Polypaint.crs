@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Ingrassia
+Course_ID=492706
+Course_System=linkedin.com
+Course_Title=ZBrush: Polypaint
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ZBrush's Polypaint feature allows artists to paint directly on a model's surface without first assigning a texture map. Simply create your texture map at a later time by transferring the painted surface into a texture. Polypainting is much faster and much more fun than the standard workflow—and you can easily change the size and resolution of your map and remap the UVs. Join Michael Ingrassia as he shows how to use Polypaint for advanced texturing in ZBrush. Learn dark-to-light painting techniques, how to set up meshes for colorizing, and how to create various texture effects, including metallic finishes and stippling. To learn how to sculpt the 3D pirate journal featured here, check out Michael's previous course, ZBrush: Stylized Sculpting.

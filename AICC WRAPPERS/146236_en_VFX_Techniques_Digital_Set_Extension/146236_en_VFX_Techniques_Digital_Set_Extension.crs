@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=146236
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Digital Set Extension
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to digitally extend a set with After Effects. Lee Lanier shows how to remove a tricky green screen with the KEYLIGHT plugin and a custom luma matte, motion track a new background with appropriate parallax, digitally dress a set with static artwork, fabricate shadows, and relight the footage to create a realistic result.

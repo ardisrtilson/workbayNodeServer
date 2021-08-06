@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2825023
+Course_System=linkedin.com
+Course_Title=Spring: Spring Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Spring Cloud provides tools for developers to quickly build cloud native apps. Using Spring Boot and Spring Cloud, developers can stand up microservices, consume services, perform load balancing, and more. Plus, Spring Cloud solutions are built on the 12-factor app methodology, so they'll work well in any distributed environment. Join software and security architect Frank Moley, as he shows how to use Spring Cloud to build cloud native apps that scale beautifully in both traditional data centers and private or public cloud infrastructures. Learn how to set up microservices and external configurations, as well as how to discover and consume services. Frank concentrates on the Spring Cloud Netflix patterns, including Eureka.

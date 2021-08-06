@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=699344
+Course_System=linkedin.com
+Course_Title=Data Science on Google Cloud Platform: Building Data Pipelines
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud computing brings unlimited scalability and elasticity to data science applications. Expertise in the major platforms, such as Google Cloud Platform (GCP), is essential to the IT professional. This course—one of a series by veteran cloud engineering specialist and data scientists Kumaran Ponnambalam—shows how to use the latest technologies in GCP to build a big data pipeline that ingests, transports, and transforms data entirely in the cloud. Learn how to set up data processing jobs using Apache Beam and Cloud Dataflow. Discover how to leverage Cloud Pub/Sub for stream ingestion and real-time messaging. Finally, find out how to process the stream events in Cloud Dataflow. The course uses an end-to-end use case that shows how to apply the knowledge and best practices from the course in a practical data science workflow.

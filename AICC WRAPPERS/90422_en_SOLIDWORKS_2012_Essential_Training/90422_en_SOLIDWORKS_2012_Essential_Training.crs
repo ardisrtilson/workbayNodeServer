@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=90422
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS 2012 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, author Gabriel Corbett shows how to create manufacturing-ready parts and assemblies in SOLIDWORKS 2012. Beginning with simple 2D sketching and the software's sketch-editing tools, the course provides step-by-step instruction on building 3D geometry from 2D sketches. The course covers creating complex 3D objects with the Extrude, Revolve, Sweep, and Loft tools and shows building complex assemblies by mating individual parts together into robust assemblies and structures. The course shows how to cut and revolve holes into parts and use the Hole Wizard tool to generate industry standard holes like counter bores, counter sinks, and taps. Best practice for designing parts is emphasized throughout the course as well as methods for creating parts faster and easier using equations, mirroring, and patterning tools. The course wraps up with generating manufacturing-ready drawings complete with an itemized Bill of Materials. As a bonus feature, Gabriel shows how to photo render a final design. Exercise files are included with the course.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Assam
+Course_ID=5040394
+Course_System=linkedin.com
+Course_Title=Learning Google Cloud IoT Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet of Things (IoT) has infused an array of devices—from watches to doorbells—with features that keep us more connected and informed than ever before. But with IoT devices becoming more mainstream, developers and IoT architects need tools that support them as they create, deploy, and secure an increasing number of IoT devices. Google Cloud IoT Core—a fully managed service for connecting and managing IoT devices—is one such tool. In this course, learn how to build out IoT applications with Google Cloud IoT Core. Instructor Lee Assam details the challenges of scaling IoT, and then explains how to provision and secure edge devices, set up a virtual device, set up a connected edge device, use an IoT gateway, and more.

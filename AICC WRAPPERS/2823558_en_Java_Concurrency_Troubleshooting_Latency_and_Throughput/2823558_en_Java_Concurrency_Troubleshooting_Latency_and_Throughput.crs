@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tayo Koleoso
+Course_ID=2823558
+Course_System=linkedin.com
+Course_Title=Java Concurrency Troubleshooting: Latency and Throughput
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Concurrency and its related problems are common in enterprises. But developers who can effectively troubleshoot these issues—and write thread-safe code—are often not as easy to find. In this course, instructor Tayo Koleoso helps equip Java developers with best practices for identifying sources of blocked threads, as well as tips for preventing and solving latency issues in multithreaded Java applications. Tayo goes over the coding practices and Java platform techniques that may be slowing down your application, including how parallel Java streams—which can be convenient and great for easy multithreading—present risks and pitfalls. He also highlights the different tools and resources that can help you identify what's slowing down your application. Discover how to work with Java Mission Control (JMC) to identify blocked threads in your Java virtual machines (JVMs), how to use the Java Flight Recorder (JFR) to identify blocked threads and monitor your JVM, and more.

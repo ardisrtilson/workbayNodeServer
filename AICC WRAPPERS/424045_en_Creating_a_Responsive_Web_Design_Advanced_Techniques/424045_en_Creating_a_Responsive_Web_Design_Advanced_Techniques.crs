@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=424045
+Course_System=linkedin.com
+Course_Title=Creating a Responsive Web Design: Advanced Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to take your responsive web design skills to the next level? Learn how to create collapsible menus and add scalable vector graphics (SVGs) to your layouts. Chris Converse shares advanced techniques to style mobile menus and graphics with HTML, CSS, JavaScript, and jQuery. These videos offer practical, start-to-finish tutorials to build more efficient and flexible webpages that can adapt to different screen sizes and orientations.

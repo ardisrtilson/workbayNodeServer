@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2822091
+Course_System=linkedin.com
+Course_Title=Functional Programming with Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Functional programming offers developers a more effective way of writing readable, maintainable code. In this course, Shaun Wassell helps Python developers get up to speed with this increasingly popular programming paradigm, explaining what it is and how adopting it can help you improve the quality and maintainability of your code. Shaun begins by covering the key differences between the declarative and imperative programming paradigms. He then dives into the basics of working with first-class functions in Python, as well as the built-in functions and features in Python that support functional programming. Plus, he goes over several advanced concepts, including partial application and recursion.

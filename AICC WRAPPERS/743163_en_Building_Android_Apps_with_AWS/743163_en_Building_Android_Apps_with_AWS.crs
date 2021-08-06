@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Boyd
+Course_ID=743163
+Course_System=linkedin.com
+Course_Title=Building Android Apps with AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to enhance your Android apps using Amazon Web Services (AWS). In this practical course, Matt Boyd demonstrates how to take a stand-alone Android app and add cloud-enabled features using AWS. Matt begins by showing how to sign up for an Amazon Web Services Free Tier account. Next, he provides a practical use case for AWS by showing how to take a self-contained app and move its data into the cloud. Along the way, he goes over various AWS cloud features for Android applications. Discover how to allow users to sign in with Facebook or Google, set up a database, and add cloud file storage. Matt also covers additional AWS services, including Amazon Pinpoint, which you can use to send email, SMS, and mobile push messages.

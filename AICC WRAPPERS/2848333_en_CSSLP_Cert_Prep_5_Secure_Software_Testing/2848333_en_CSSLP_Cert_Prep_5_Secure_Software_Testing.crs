@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2848333
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 5 Secure Software Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Improve the security of your organization's applications while working toward a credential that can propel your career forward. Prepare for the fifth domain of the CSSLP exam, Secure Software Testing, with this installment of the CSSLP Cert Prep series. Learn about building test cases with a comprehensive approach, including both automated and manual penetration testing, regression, integration, and failure test cases, plus unique tests with a cryptography focus. Get tips for building a testing strategy, such as how to group your tests for greater efficiency and expand your testing with external sources. Plus, see how to execute verification and validation tests and properly conduct testing in order to uncover, track, and remediate bugs.

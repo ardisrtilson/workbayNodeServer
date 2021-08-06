@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2822142
+Course_System=linkedin.com
+Course_Title=Making Sense of the CSS Box Model
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Based on old-school typography blocks, the CSS box model is the key to modern web design. Once you master it, you can build any layout you want—and troubleshoot most of the common CSS alignment and positioning woes. In this course, Morten Rand-Hendriksen offers a four course meal approach to the CSS box model, breaking it down into easily digestible chunks. He covers techniques such as styling text and images, floating content, using display properties, and positioning elements. He also explores the brave new world of modern layout modules, discussing Float, Flex, and Grid and how they can work together. Each lesson is supported by real-world demonstrations of the concepts in action, and Morten closes with a nightcap that will get you thinking about going further with CSS.

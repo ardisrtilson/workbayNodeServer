@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=415312
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 02 Getting Comfortable with the IDE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio's IDE is where you'll spend most of your time in the program. By customizing the layout and preferences to suit your workflow, you'll save time and avoid mistakes. Join Walt Ritscher for a tour of the interface and get tips for managing the many editor and tool windows. Walt shows how to use docking and other window management techniques, interact with tabbed editors, customize menus and toolbars, and make Visual Studio memorize your favorite IDE configurations. He also covers the Quick Launch tool, multi-monitor support, and touch-screen improvements in Visual Studio 2015.

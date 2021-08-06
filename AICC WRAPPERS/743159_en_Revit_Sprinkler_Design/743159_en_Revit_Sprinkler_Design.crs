@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=743159
+Course_System=linkedin.com
+Course_Title=Revit: Sprinkler Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design sprinkler piping and systems in Revit. Join instructor Eric Wing as he covers features, tools, and techniques that can help engineers and designers perfect their sprinkler designs using this powerful BIM software. Eric shows how to set up views, link to your architectural model, and configure routing preferences and systems. He also covers how to place sprinklers, risers, and pipes; customize tags; and import views from other sources, like AutoCAD.

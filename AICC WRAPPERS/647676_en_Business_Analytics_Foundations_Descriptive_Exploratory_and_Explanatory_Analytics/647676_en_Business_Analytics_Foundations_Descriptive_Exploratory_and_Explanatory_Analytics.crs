@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=647676
+Course_System=linkedin.com
+Course_Title=Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Business analytics allows us to learn from the past and make better predictions for the future. There are three types of analytics used for learning from the past. Descriptive analytics summarizes historical data; exploratory analytics uncovers hidden patterns; and explanatory analytics reveals the reasons for business results. Each type encompasses a different set of tools, technologies, processes, and best practices to derive insights from data. This course by Kumaran Ponnambalam explains why they matter and how and when to use them. He starts by setting the context for business analytics and its various stages. You then explore the stages that focus on the past: descriptive, exploratory, and explanatory. With each stage, you learn about the processes, techniques, and best practices used in the field. Finally, you walk through a use case (the results of an email marketing campaign) that demonstrates how analysis is performed at each stage.

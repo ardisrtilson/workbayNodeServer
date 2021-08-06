@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=474684
+Course_System=linkedin.com
+Course_Title=R for Excel Users
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data scientists who use Excel realize that R is emerging as the new standard for statistical wrangling (especially for larger data sets). This course serves as the perfect bridge for the many Excel-reliant data analysts and business users who need to update their data science skills by learning R. Much of the course focuses on how crucial statistical tasks and operations are done in R—often with the DescTools package—as contrasted with Excel functions and Data Analysis add-in, and then scales up from there, showing the more powerful features of R. Conrad Carlberg helps you effectively toggle between both programs, moving data back and forth so you can get the best of both worlds. Learn about calculating descriptive statistics, running bivariate analyses, and more.

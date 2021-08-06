@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=370499
+Course_System=linkedin.com
+Course_Title=C#: Delegates, Events and Lambdas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C# provides function types to fit a variety of scenarios, called delegates, events, and lambda functions. In this course, Joe Marini explores these key elements, starting with delegates, which allow developers to easily separate functional pieces of a program. Joe shows how to create both anonymous and composable delegates, using a shipping costs calculator as a practical example. Next, he covers using events to broadcast and listen to messages both inside and outside a program, switching functionality on and off on demand. Finally, the course explores lambda functions: concise ways to declare small and focused or one-off functions, which keep your program code tight and efficient. Start watching to learn how to adapt this flexible set of programming tools to your own C# programming needs.

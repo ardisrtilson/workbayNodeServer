@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Gallup
+Course_ID=2832054
+Course_System=linkedin.com
+Course_Title=Learning CircuitPython with Circuit Playground Express
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python is coming to the Internet of Things. That opens vast possibilities, but you need to learn to apply Python differently on the constrained resources of microcontrollers. In this course, instructor Robert Gallup walks you through how to get started, control hardware, add interaction, and connect external components. Robert introduces you to the purpose, background, and limitations of CircuitPython and shows you how to write and upload your first script. He explains the basic elements of a microprocessor, then steps through identifying components on the Circuit Playground Express (CPX) board, controlling the CPX onboard LED, and controlling NeoPixels on the CPX. Robert shows you how to add several different interactions with the CPX. He concludes by showing you how to connect external components, such as a potentiometer and external libraries.

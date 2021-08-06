@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=2242038
+Course_System=linkedin.com
+Course_Title=SharePoint Online: Working in the Modern Experience
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The modern experience in SharePoint is designed to be a simplified, more flexible interface for SharePoint Online. In addition to a different look, the modern experience offers new features, changes common workflows, and eliminates some features of the classic SharePoint experience. In this course, instructor Phil Gold walks you through the differences between the modern and classic experiences, and teaches how you can make the transition to the modern experience. He also covers how to take advantage of the new workflows and updated tools.

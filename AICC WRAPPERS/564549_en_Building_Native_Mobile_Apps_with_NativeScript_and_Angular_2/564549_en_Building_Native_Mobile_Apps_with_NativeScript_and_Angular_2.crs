@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Ziskind
+Course_ID=564549
+Course_System=linkedin.com
+Course_Title=Building Native Mobile Apps with NativeScript and Angular 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+NativeScript is an open-source framework for building native iOS and Android apps. Web developers who are familiar with Angular 2 can get introduced to NativeScript in this course and learn how to develop an application for iOS and Android by leveraging the NativeScript framework with Angular 2. Join Alex Ziskind as he guides you from the initial installation of NativeScript through architecting an application. He explains how to declare the most common user interface widgets while styling them with CSS. Plus, he demonstrates how to set up the Faker library, and how to programmatically tap into the native navigation engine for iOS and Android.

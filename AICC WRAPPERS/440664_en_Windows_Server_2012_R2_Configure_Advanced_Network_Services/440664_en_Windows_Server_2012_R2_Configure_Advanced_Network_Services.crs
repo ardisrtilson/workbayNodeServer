@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Timothy Pintello
+Course_ID=440664
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Configure Advanced Network Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Configuring advanced services in Windows Server is an integral skill for any Windows network admin. This means DHCP and DNS solutions, VPNs, direct access, and IP address management (IPAM)—complex topics that form the core of two Windows Server exams: Configuring Windows Server (70-411) and Configuring Advanced Windows Server Services (70-412). This Windows training course helps you study for the exams while learning advanced server administration techniques. Professor Timothy Pintello covers all of the core exam topics, including DHCPv6, primary and secondary DNS zone configuration, working with different DNS resource record types, VPN routing, certificates for direct access, IPAM admin delegation, and more.

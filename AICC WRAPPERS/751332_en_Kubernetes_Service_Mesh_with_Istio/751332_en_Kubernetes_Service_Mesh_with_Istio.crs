@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=751332
+Course_System=linkedin.com
+Course_Title=Kubernetes: Service Mesh with Istio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to enhance your cloud development with Istio, a powerful technology supporting a service-mesh based connectivity model for microservice applications in a distributed management environment like Kubernetes. Services mesh in general, and Istio specifically, addresses some of the key issues that development teams run into when building microservices-based systems. In this course, instructor Robert Starmer shows how to enable Istio and integrate it into any Kubernetes-based application environment, highlighting key aspects of the Istio service mesh along the way. Robert covers how to approach traffic routing and load balancing; establish MTLS credentials and connect to non-MTLS services; improve microservice robustness; and more.

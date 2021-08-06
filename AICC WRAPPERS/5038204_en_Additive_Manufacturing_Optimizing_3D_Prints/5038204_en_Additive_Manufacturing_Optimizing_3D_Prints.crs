@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joan Horvath, Rich Cameron
+Course_ID=5038204
+Course_System=linkedin.com
+Course_Title=Additive Manufacturing: Optimizing 3D Prints
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D printing is a complex additive process. Many things can go wrong. But with the right knowledge, design, and materials, you can get amazing, high-quality prints. Join Rich Cameron and Joan Horvath—founders of Nonscriptum, the 3D printing and maker tech education company—as they show you how to get the best quality 3D print, every time. Explore popular software programs for filament-based printing, such as Slic3r and Cura, and the settings that have the biggest impact on your print quality, from layer height to infill amount. Discover how to achieve the best adhesion, how to auto-level print beds, how to remove supports, and how to dial in your retraction and extrusion settings. Plus, find out how to use G-code to run custom commands.

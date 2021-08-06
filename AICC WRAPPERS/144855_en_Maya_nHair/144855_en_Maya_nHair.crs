@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=144855
+Course_System=linkedin.com
+Course_Title=Maya: nHair
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get tried and true techniques for creating, styling, animating, and rendering hair with nHair in Autodesk Maya. Aaron F. Ross will show you how to prepare your mesh; control for stiffness, shape, and curl; trim and extend follicles; style hair with curves; and adjust color, translucency, and specular highlights. The last chapter shows you how to render nHair with Maya and mental ray.

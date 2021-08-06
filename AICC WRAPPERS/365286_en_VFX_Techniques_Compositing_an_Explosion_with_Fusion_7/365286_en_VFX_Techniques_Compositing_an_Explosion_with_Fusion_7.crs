@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=365286
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Compositing an Explosion with Fusion 7
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make your films more explosive with Fusion, Blackmagic Design's free compositing software. This course covers the steps necessary to create a 3D scene integrating live-action footage with 3D virtual renders of a car explosion. Artist/author Lee Lanier shows how to import the assets you'll need for the shoot (including video, static artwork, and 3D renders), assemble the footage with node-based compositing, and make the composite seamless with color grading. Fluid dynamics simulations from Maya are used to emulate the explosion, dust, and debris of the explosion, and Lee achieves realistic rendering through the use of materials, lights, cameras, reflections, shadows, motion blur, and depth of field. Start watching to put this essential VFX technique into practice in your own films.

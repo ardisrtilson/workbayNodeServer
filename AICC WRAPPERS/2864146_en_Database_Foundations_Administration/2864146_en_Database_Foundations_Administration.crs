@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2864146
+Course_System=linkedin.com
+Course_Title=Database Foundations: Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ongoing, regular administration is critical to the security and performance of databases such as SQL Server. In this course—the fourth installment in the Database Foundations series—explore vital techniques and best practices for administering a database. Instructor Adam Wilbert covers a variety of core concepts, including how to secure a server with user authentication and roles, protect your database by setting up permissions for authorized user accounts, and perform a backup and restore. Adam also offers expert tips for ensuring that a database remains available, even through hardware maintenance, upgrades, and failures. Along the way, he provides tips for working effectively with both SQL Server and PostgreSQL.

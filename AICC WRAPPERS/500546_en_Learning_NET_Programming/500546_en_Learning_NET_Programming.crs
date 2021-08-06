@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=500546
+Course_System=linkedin.com
+Course_Title=Learning .NET Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+.NET is a programming framework that defies expectations. It's a platform and a runtime environment; it supports cross-platform development but runs primarily on Windows. Regardless, .NET is one of the staple tools for software developers. This introduction is designed to guide new programmers through the basics of the latest version of .NET. Industry expert Reynald Adolphe steps you through everything you need to know to get up and running, describing the Common Language Runtime (CLR), and the Framework class library (FCL) and providing an overview of the differences between .NET 4.6 and .NET Core. He demos different IDEs you can use to code in .NET, including Visual Studio, and shows how to create basic apps for four different project types: ASP.NET MVC, Windows Presentation Foundation, Console, and Web API. Plus, learn about popular C# features and testing methodologies, as well as different deployment methods for .NET apps.

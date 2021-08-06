@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=706932
+Course_System=linkedin.com
+Course_Title=Introduction to AWS DeepLens
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AWS DeepLens is the world's first deep learning-enabled video camera for developers. In this hands-on course, instructor Jonathan Fernandes helps you get started with this exciting new tool. Jonathan kicks off the course by acquainting you with how DeepLens works, how to set it up, and how to troubleshoot common issues. Next, he guides you through a variety of projects available with DeepLens, including ones dealing with object recognition. To wrap up, Jonathan provides an overview of future projects you can consider.

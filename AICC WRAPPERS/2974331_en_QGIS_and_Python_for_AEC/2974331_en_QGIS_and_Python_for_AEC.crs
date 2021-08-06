@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gordon Luckett
+Course_ID=2974331
+Course_System=linkedin.com
+Course_Title=QGIS and Python for AEC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+QGIS is an open-source tool for quickly visualizing and analyzing geospatial data for architecture, engineering, and construction (AEC). One way to make QGIS even more versatile and efficient is to add the power of Python. In this course, CAD and GIS consultant Gordon Luckett shows how to use Python scripting to automate and augment the QGIS toolset. It starts with an overview of Python programming basics, including creating and saving basic scripts. Then Gordon shows how to automate common QGIS tasks, such as opening, closing, and saving projects; adding new layers and layer definitions; and creating and managing geometry. Gordon also shows how to automate the import of AutoCAD data such as DWG and DXF files into QGIS projects, and closes the course with a hands-on demo of the QGIS plugin creation process, leveraging the Plugin Builder, QT Designer interface builder, and Python code.

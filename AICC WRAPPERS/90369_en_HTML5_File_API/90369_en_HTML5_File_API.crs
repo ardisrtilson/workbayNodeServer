@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=90369
+Course_System=linkedin.com
+Course_Title=HTML5: File API
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Join author Joe Marini as he demonstrates how to use the HTML5 File API to perform file-related operations from within a web page, including manipulating files, reading and accessing data within files, and retrieving information about files. The course also covers how to complete tasks that were previously only possible with native code, such as picture processing, file conversion, and content checking.

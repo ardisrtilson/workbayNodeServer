@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Ferguson
+Course_ID=474418
+Course_System=linkedin.com
+Course_Title=VMware NSX: Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Making sure an organization's software-defined network (SDN) is secure is the main concern for any organization looking to move to the cloud. This course illustrates how NSX, VMware's SDN solution, provides not just a virtual network environment but also a microsegmentation of security in a business context, down to the level of each application for each tenant. This security aspect of NSX can be an eye-opener for many people. Here Bill Ferguson covers edge firewalls and distributed firewalls, role-based security administration, and security control with Service Composer, a tool that allows you to inspect all the data your network sends and receives. Make sure to watch Bill's Up and Running with VMware NSX for tips on setting up your network.

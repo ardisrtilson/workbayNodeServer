@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lillian Pierson, P.E.
+Course_ID=5025803
+Course_System=linkedin.com
+Course_Title=Python for Data Science Essential Training Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python for Data Science Essential Training is one of the most popular data science courses at LinkedIn Learning. It has now been updated and expanded to two parts—for even more hands-on experience with Python. In this course, instructor Lillian Pierson takes you step by step through a practical data science project: a web scraper that downloads and analyzes data from the web. Along the way, she introduces techniques to clean, reformat, transform, and describe raw data; generate visualizations; remove outliers; perform simple data analysis; and generate interactive graphs using the Plotly library. You should walk away from this training with basic coding experience that you can take to your organization and quickly apply to your own custom data science projects.

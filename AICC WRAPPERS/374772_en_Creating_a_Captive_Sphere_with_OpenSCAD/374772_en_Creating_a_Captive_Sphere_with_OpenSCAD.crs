@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Caplin
+Course_ID=374772
+Course_System=linkedin.com
+Course_Title=Creating a Captive Sphere with OpenSCAD
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+OpenSCAD is a free, multiplatform 3D CAD program that's ideal for producing models that are going to be 3D printed. Unlike most other modeling apps, in OpenSCAD you design objects using text instructions alone. Sounds scary? Don't worry. In this introductory lesson Steve Caplin takes you through the basics and shows you how to create a captive sphere model—using just 10 lines of code—and make the object printable.

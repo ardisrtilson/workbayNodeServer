@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=548815
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Storage Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to configure file and storage services in Windows Server 2016. This course maps to the Implement Storage Solutions domain from Microsoft Certified Solutions Associate (MCSA) Exam 70-740, Installation, Storage, and Compute with Windows Server, and helps both experienced admins and those new to IT deploy and set up efficient and secure storage with Windows Server 2016. Instructor Robert McMillen covers basics such as volumes, disks, and the command-line utilities you need to format disks and edit files. Then explore drive mirroring, advanced file services (including configuring file permissions), Dynamic Access Control, and data deduplication. Plus, learn about virtual storage with Hyper-V, using Distributed File System (DFS) for redundancy and replication, and working with alternative solutions such as Volume Shadow Copy and RAID storage.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2815080
+Course_System=linkedin.com
+Course_Title=Flutter: Part 07 Building the UI or Flutter: Part 07 Building UIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While widgets make Flutter apps easy to build, they dictate the functionality and appearance of your project. Get more control over your user interface using Flutter and Dart, the programming language optimized for cross-platform app development. This course teaches you how to use intermediate Dart constructs such as enums, operators, and routers to customize Flutter apps. Instructor Angela Yu also explains how to customize existing widgets, build your own form scratch, control page navigation, and leverage gestures for interactivity—all using Dart programming. Each lesson is illustrated using a fun, real-world project—the BMI Calculator app—that you can build, customize, and add to your Flutter portfolio. This course was created by London App Brewery. We are pleased to host this content in our library.

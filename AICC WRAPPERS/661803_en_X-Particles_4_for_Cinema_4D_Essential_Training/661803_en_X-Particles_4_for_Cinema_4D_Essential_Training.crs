@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=661803
+Course_System=linkedin.com
+Course_Title=X-Particles 4 for Cinema 4D Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+X-Particles 4 is a stellar addition to Cinema 4D, allowing artists to quickly and easily create finely rendered fluid simulations, dynamics, and collisions. This course gets you started with this powerful plugin. Join Andy Needham as he walks through the Emitter interface, and shows how to use modifiers to change the look and behavior of particles. Andy demonstrates how to create visible particles, make fluid and fire simulations, and render your work. He also covers additional ways to sculpt particles, and shares helpful tips for enhancing your workflow.

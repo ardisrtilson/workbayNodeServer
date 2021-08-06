@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2818053
+Course_System=linkedin.com
+Course_Title=Applied Interaction Design: Card Transitions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing elegant and simple screen interactions such as taps and clicks can make the difference between a project that is truly successful and one that is mundane. Join instructor Tom Green as he shows you how to create UX prototypes starting with simple static wireframes in Adobe Illustrator. Tom demonstrates how to import wireframes into Apple Keynote, create a rough animation concept, block out the transition in Adobe XD, export the XD file into After Effects, fine-tune animation characteristics, and ultimately create a QuickTime movie you can share with stakeholders.

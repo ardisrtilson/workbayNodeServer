@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Ring
+Course_ID=661810
+Course_System=linkedin.com
+Course_Title=Magento Community Edition 2 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Note: This course was created by OSTraining.  It was originally released on January 6, 2017. We are pleased to host this training in our library. Magento is one of the most popular ecommerce solutions in the world. But this powerful content management system also has a reputation for being challenging to learn. This course is designed to address that issue. Here, learn how to set up your own ecommerce site using Magento Community Edition. Instructor Robert Ring walks through how to manually install Magneto and configure content and stores. He also explains how to create basic products, organize those products, create a homepage, set up payment methods, configure shipping and automated emails, and more. Throughout the class, Robert demonstrates key concepts as he walks through the construction of an ecommerce site that sells coffee products.

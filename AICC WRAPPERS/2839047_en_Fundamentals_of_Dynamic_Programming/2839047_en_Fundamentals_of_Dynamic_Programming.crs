@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Avik Das
+Course_ID=2839047
+Course_System=linkedin.com
+Course_Title=Fundamentals of Dynamic Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having a clearer picture of dynamic programming (DP) can take your coding to the next level. It's a technique that makes it possible to adeptly solve difficult problems, which is why it comes up in interviews and is used in applications like machine learning. In this course, learn about the uses of DP, how to determine when it’s an appropriate tactic, how it produces efficient and easily understood algorithms, and how it's used in real-world applications. Compare different approaches to computing the Fibonacci Sequence and learn how to visualize the problem as a directed acyclic graph. Explore the different variations of DP that you’re likely to encounter by working through a series of increasingly complex challenges. Plus, build a content-aware image resizing application with these new concepts at its core.

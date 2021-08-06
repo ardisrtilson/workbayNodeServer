@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2832012
+Course_System=linkedin.com
+Course_Title=Introduction to SAP BI/BW
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a learner-friendly introduction to the Business Intelligence (BI) and Business Warehouse (BW) tools in SAP. This extensive overview course is valuable to all who want to understand what is required to develop within the BI and BW solutions. Learn what makes up the systems, the objects used, and how it all works together to form a cohesive solution that makes it such a great tool. Discover how to pull and organize data from sources, map data into InfoObjects, modify data, combine data from multiple sources, and store your data in memory with SAP HANA. This course was created by Michael Management. We are pleased to offer this training in our library.

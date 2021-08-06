@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Prashant Pandey
+Course_ID=2806966
+Course_System=linkedin.com
+Course_Title=Android App Penetration Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android applications are exposed to a variety of security risks that threaten the integrity of your apps and the safety of your end users. In this course, join instructor Prashant Pandey as he shares a structured, comprehensive approach for testing Android apps to uncover some of the most common of these vulnerabilities, demonstrating how to leverage key pen testing tools and frameworks along the way. Prashant starts with the basics, covering the essential aspects of Android pen testing. He then delves into four major tools and frameworks—MobSF, Burp Suite, Android Debug Bridge (adb), and drozer—each catering to one specific aspect of Android app security. Learn how to approach network communication security, static and dynamic application testing, platform integration testing, and more.

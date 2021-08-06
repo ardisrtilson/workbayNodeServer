@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chad Chelius
+Course_ID=669540
+Course_System=linkedin.com
+Course_Title=Creating Accessible PDFs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Accessibility means making sure your content is available to as many people as possible. When you make your PDFs accessible, it means adding tags, bookmarks, alt text, and other information that makes the files readable and navigable to users who are visually or mobility impaired. Using the latest versions of Adobe Acrobat DC, Microsoft Word, and Adobe InDesign, it's now much easier to create valid, accessible PDFs. In this course—completely revised for 2018—Chad Chelius shows how to take an existing PDF file and remediate it for users of assistive software. He then introduces two workflows for creating accessible PDFs from scratch—one in Word and one in InDesign—with some special considerations for Excel and PowerPoint. Along the way, he offers techniques, tips, and tricks to make accessibility easy to incorporate in every document you publish.

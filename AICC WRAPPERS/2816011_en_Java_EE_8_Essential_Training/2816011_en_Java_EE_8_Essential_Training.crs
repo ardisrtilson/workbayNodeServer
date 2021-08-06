@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Bowersox
+Course_ID=2816011
+Course_System=linkedin.com
+Course_Title=Java EE 8 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Java Enterprise Edition (EE) is a highly scalable—and highly popular—platform that powers systems for modern enterprises ranging from small businesses to Fortune 500 companies. In this course, join Kevin Bowersox as he helps you get up and running with Java EE 8. Throughout the course, Kevin showcases how to leverage over a dozen key Java EE technologies to build or maintain complex Java EE systems. Learn about the essential changes introduced in Java EE 8, as well as how to work with key APIs including Java Server Faces (JSF), Java Server Pages (JSP), Context and Dependency Injection (CDI), Security, JSON Binding, and more.

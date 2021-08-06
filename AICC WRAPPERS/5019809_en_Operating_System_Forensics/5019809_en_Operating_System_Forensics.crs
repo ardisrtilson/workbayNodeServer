@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=5019809
+Course_System=linkedin.com
+Course_Title=Operating System Forensics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Criminals rely on the intricacies of operating systems like Windows, macOS, and Linux to conceal their activities and hide data. However, a skilled digital forensics expert knows the places to look and the tools to use to access evidence of their crimes. This course covers all the major concepts and tools of the growing field of operating system forensics. Instructor Jungwoo Ryoo (J.R.) reviews the fundamentals: the goals, history, and roles of operating system forensics and the future of the industry. He then shows how to acquire evidence from file systems, slack space, alternate data streams, and main memory. He uses a combination of free and commercial software, so students can practice techniques like file recovery and live acquisition with the tools that are within their budgets.

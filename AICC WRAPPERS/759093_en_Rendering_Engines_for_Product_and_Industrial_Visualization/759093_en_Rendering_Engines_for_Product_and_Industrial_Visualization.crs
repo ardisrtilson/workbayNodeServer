@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zaheer Mukhtar
+Course_ID=759093
+Course_System=linkedin.com
+Course_Title=Rendering Engines for Product and Industrial Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Choose the best rendering engine for your product and industrial visualization jobs. This course is focused on introducing and comparing the most popular rendering engines—Unreal, Unity, V-Ray, Arnold, and Redshift—and quick renderers such as KeyShot and Marmoset Toolbag. Instructor Zaheer Mukhtar explains the difference between real-time and offline renderers, and the advantages and ideal uses of each rendering engine. Discover how to leverage each application's unique tools and workflow for lighting, texturing with materials, camera animation, and post-processing effects. Plus, learn why you might use KeyShot and Marmoset Toolbag for quick clean renders, such as previewing your project or presenting a low-poly 3D model to a client.

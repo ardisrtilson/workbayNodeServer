@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2825134
+Course_System=linkedin.com
+Course_Title=Building a Headless WordPress App with REST API
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Headless applications use content management systems like WordPress as data resources and present the data independently. In this course, Morten Rand-Henriksen shows how to build these data-driven front-end applications on top of the WordPress REST API. Follow along with the evolution of the course project, Task Book, a standalone app using WordPress REST API to receive and send data using authenticated requests over OAuth2, as Morten explains key concepts and techniques. Find out how to build a basic plugin to add new content types, roles, capabilities, and fields to WordPress and the REST API; set up authentication with OAuth2; and configure the headless app logic with JavaScript. Plus, find out how to display task data and generate simple charts using the Chart.js library.

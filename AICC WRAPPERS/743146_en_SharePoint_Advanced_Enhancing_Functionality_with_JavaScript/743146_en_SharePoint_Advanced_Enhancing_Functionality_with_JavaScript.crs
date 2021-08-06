@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=743146
+Course_System=linkedin.com
+Course_Title=SharePoint Advanced: Enhancing Functionality with JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript allows you to quickly and easily modify the functionality and look of SharePoint. Many site owners and administrators are intimidated by it, but you don't have to be a developer to leverage the power of JavaScript. This course helps you understand how JavaScript and SharePoint work together and what you can do with them. Communications and training professional Phil Gold explains why you should use JavaScript, provides example use cases, and explores the core components and JavaScript libraries that can be applied to SharePoint—at all user levels—to automate tasks, update the user interface, and even move data in and out of SharePoint.

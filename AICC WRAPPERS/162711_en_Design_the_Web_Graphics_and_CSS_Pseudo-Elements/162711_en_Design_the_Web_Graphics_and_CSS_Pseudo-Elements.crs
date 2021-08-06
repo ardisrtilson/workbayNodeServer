@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=162711
+Course_System=linkedin.com
+Course_Title=Design the Web: Graphics and CSS Pseudo-Elements
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to combine graphics and pseudo-elements to add more design and layout possibilities without adding more HTML to your web pages. Combining web graphics and CSS3 pseudo-elements allows you to style text, add graphics, and position objects, all while keeping your HTML clean and organized and without sacrificing responsive elements of your design. This course was created by Chris Converse. We are honored to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=740424
+Course_System=linkedin.com
+Course_Title=Sketch: Creating Responsive SVG
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Scalable Vector Graphics (SVG) format is distinctive in that it can contain its own CSS, allowing it to respond to its display size. In this concise course, learn how to use Sketch and CSS to create a responsive SVG file. Chris Converse demonstrates how to combine various versions of a graphic to maximize its impact on various screen sizes, as well as how to export SVG files from Sketch. He also shows how to add a bit of CSS and make a graphic responsive by including media queries. Upon completing the course, you'll grasp how to create a single SVG file that can change and adapt itself based on its on-screen size.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Hammel
+Course_ID=427442
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor: Rendering & Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rendering and animation allow designers to showcase their work and prove functionality before manufacturing a product. Luckily Autodesk Inventor has these presentation features built right in. This course, designed by Autodesk Certified Instructor Alex Hammel, shows how to use Inventor's tools to render and animate existing 3D models, and change the lighting, cameras, styles, and background scenes to produce more realistic images and animations. These techniques are useful for animating models to show product functionality and present final design concepts that showcase your parts and assemblies.

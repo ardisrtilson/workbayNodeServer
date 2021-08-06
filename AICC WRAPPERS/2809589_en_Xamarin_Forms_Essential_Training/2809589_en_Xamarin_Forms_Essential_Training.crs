@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Milner
+Course_ID=2809589
+Course_System=linkedin.com
+Course_Title=Xamarin.Forms Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Xamarin.Forms is a cross-platform UI toolkit that developers can leverage to build fully native mobile apps using C#. It can speed up and simplify the development process by enabling you to create a single, shared UI that renders natively on different platforms. In this course, Matt Milner helps you get started with this powerful toolkit. To help you get a practical understanding of Xamarin.Forms, Matt steps through how to build a Xamarin app that uses Xamarin.Forms for the UI. Matt goes over the Xamarin.Forms application model, shows how to create a navigation page, and details the various layouts and controls that help you design your interfaces. He also shares techniques for dealing with platform-specific needs, shows how to embed native controls in your Xamarin.Forms page, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oz du Soleil
+Course_ID=2824198
+Course_System=linkedin.com
+Course_Title=Excel: Power Query (Get & Transform)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power Query is a feature in Excel that allows you to quickly import data from multiple sources and easily clean, transform, and reshape it to suit your needs. Follow along with Excel MVP Oz du Soleil as he shows you how to use this powerful, time-saving tool. Oz demonstrates how to import, merge, rearrange, and clean data, as well as how to repeat the process with one click if the data changes. Discover how to split columns, unpivot data, and use joins to merge, segment, and compare datasets. Oz offers dozens of techniques and tips in this comprehensive training.

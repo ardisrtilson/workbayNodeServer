@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon-Luke West
+Course_ID=2841533
+Course_System=linkedin.com
+Course_Title=Distributing Your Android App for Kotlin Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+So you’ve built an Android app, and you’re ready to share it with the world. Now what? There are many ways you can distribute your app, and in this course, Jon-Luke West shows you how to use the primary distribution channel, the Google Play Store, as well as the Amazon Appstore. Jon-Luke covers how to prepare the app for distribution by cleaning up and optimizing the code, creating a security certificate, and uploading an APK file. He then shows how to create multiple flavors of your app to include different features, how to register as a Google Play and Amazon developer, set the app description and pricing, and publish the app. Lastly, Jon-Luke looks at the post-publishing aspects, including how to track app usage, usage statistics, revenue, and crash reporting.

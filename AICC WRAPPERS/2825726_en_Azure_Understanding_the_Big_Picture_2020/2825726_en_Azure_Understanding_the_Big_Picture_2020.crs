@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2825726
+Course_System=linkedin.com
+Course_Title=Azure: Understanding the Big Picture (2020)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understanding the scope of the cloud is an overwhelming task, even for a seasoned developer. This course takes a step back to look at the big picture of Microsoft Azure. This perspective can help you understand the many Azure offerings, including storage, hosting, and deployment, and assess which best fit your organization's cloud strategy. Those just entering the cloud will find the course to be a valuable resource they can return to again and again. Instructor Walt Ritscher kicks off the course by comparing the three cornerstones of the cloud: software as a service, infrastructure as a service, and platform as a service. He then covers Azure subscription options and costs and dives deeper into specific Azure services. He covers web hosting, cloud storage, Azure security, infrastructure, DevOps tools, and media encoding, as well as event and notification services. Review the services that interest you or zoom out for a more complete picture of this powerful cloud-computing platform.

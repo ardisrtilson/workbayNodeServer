@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=609014
+Course_System=linkedin.com
+Course_Title=C# Framework Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to design C# frameworks for personal, enterprise, and open-source projects. In this course, join instructor Jesse Freeman as he discusses key framework design concepts, how to organize your code, and how to document and share your frameworks online. Jesse covers code encapsulation and modular classes. He also explains how to extend a framework and enforce an architecture pattern.

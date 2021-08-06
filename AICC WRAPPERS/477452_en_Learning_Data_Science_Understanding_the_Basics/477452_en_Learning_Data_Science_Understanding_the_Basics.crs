@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=477452
+Course_System=linkedin.com
+Course_Title=Learning Data Science: Understanding the Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many of the people who work on data science teams won't be data scientists. They'll be the managers and associates who want to gain real business value from your organization's data. These team members need to understand the language of data science so they can ask better questions, understand processes, and help effectively lead their teams and organizations to making better data-driven decisions. This course is an introduction to data science for people who aren't planning on being full-time data scientists. It introduces big data concepts, tools, and techniques, including gathering and sorting data, working with databases, understanding structured and unstructured data types, and applying statistical analysis. Business coach and author Doug Rose helps you speak the language of data science so that you can guide your organization through the opportunities and limitations in this dramatically growing field.

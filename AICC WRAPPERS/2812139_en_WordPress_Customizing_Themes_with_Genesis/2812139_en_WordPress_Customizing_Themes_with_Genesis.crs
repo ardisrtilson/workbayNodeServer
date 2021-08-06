@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=2812139
+Course_System=linkedin.com
+Course_Title=WordPress: Customizing Themes with Genesis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're a novice or advanced developer, Genesis provides a foundation that takes WordPress to places you never thought it could go. The Genesis Framework for WordPress is more than a mere WordPress theme; it's an underlying framework of immaculate code offering three important benefits: SEO optimization, security, and a huge selection of design options. In this course, learn how to work with the framework in order to customize child themes. Carrie Dils discusses key aspects of Genesis—including template files and action hooks and filters—to help familiarize you with the structure and components that make up this framework. With a solid understanding of how Genesis operates, you can modify nearly any child theme.

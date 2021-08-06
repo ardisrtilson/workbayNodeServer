@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=490660
+Course_System=linkedin.com
+Course_Title=Open Data: Unleashing Hidden Value
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Governments around the world are discovering the value and responsibility in making the data they collect and store easily available to anyone who wants to access it. Making the decision to open up data sets is a strategic choice that requires detailed tactics. There are processes and technologies to make data accessible while minimizing risk. If you want to start opening up your organization's data to enable transparency and catalyze innovation, or use open data to drive analysis and make more informed decisions, this course is for you. Dr. Jonathan Reichental introduces real-world use cases for open data, as well as the steps you need to take to develop and operationalize an open data program. He also explains how data scientists use open data to tell stories and drive data visualizations. Along the way, he provides numerous examples of open data in action: improving government, empowering citizens, creating opportunity, and solving public problems.

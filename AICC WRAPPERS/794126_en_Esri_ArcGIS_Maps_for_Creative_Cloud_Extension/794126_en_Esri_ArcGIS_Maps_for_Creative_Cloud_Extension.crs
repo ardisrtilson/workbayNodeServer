@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Harmer
+Course_ID=794126
+Course_System=linkedin.com
+Course_Title=Esri ArcGIS Maps for Creative Cloud Extension
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Find out how to create vector-based, pixel-based, data-driven maps inside Illustrator and Photoshop using the ArcGIS Maps for Creative Cloud extension from Esri. Instructor Tony Harmer demonstrates how to acquire and install the extension, create an account, and open the extension from within the apps. He shows how to find and import a map, work with the layers, sync data, and change the style and appearance. Plus, Tony explains the limitations and capabilities of different options available for the extension.

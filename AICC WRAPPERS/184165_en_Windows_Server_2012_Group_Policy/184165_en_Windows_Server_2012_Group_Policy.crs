@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Trader
+Course_ID=184165
+Course_System=linkedin.com
+Course_Title=Windows Server 2012: Group Policy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to become a group policy ninja, and use group policies to control your entire environment. This course will enable your to perform common admin tasks, such as locking down access for temporary or contract employees and deploying software across the network. Author Rick Trader explores the Group Policy Management Console (GPMC) and covers topics from configuring users' desktops with Group Policy objects to setting up security options like fine-grained passwords.

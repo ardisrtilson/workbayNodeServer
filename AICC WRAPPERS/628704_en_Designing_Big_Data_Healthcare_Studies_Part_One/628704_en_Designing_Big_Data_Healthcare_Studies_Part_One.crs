@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Monika Wahi
+Course_ID=628704
+Course_System=linkedin.com
+Course_Title=Designing Big Data Healthcare Studies, Part One
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Even if you have a strong grasp of statistics and informatics, you also need to understand epidemiology and basic study design to perform accurate, rigorous analysis of healthcare data. This course will help you design research studies around hypotheses, and fill the knowledge gap that many of today's analysts face when entering the healthcare field. Instructor Monika Wahi defines basic terms and concepts in epidemiology, and reviews the different study design approaches: descriptive, analytic, cross-sectional, and case control. She dives into detail on cross-sectional and case-control studies, and shows how to plan an analytic data set: figuring out the necessary native variables and operationalizing them in a data dictionary. Last, she reviews the lessons learned from the course and prepares you for part two of the training series, which tackles the descriptive and regression analysis for the data set you have designed.

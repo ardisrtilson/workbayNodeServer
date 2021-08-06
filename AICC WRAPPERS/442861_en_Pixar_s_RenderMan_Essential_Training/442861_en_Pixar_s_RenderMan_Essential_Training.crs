@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christos Obretenov
+Course_ID=442861
+Course_System=linkedin.com
+Course_Title=Pixar's RenderMan Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ever wondered how Pixar makes all their animated feature films and how most studios around the world do their visual effects? Meet RenderMan. Created by Pixar, and available for the first time ever for noncommercial use, RenderMan is the high-end 3D rendering package that can be used for any 3D rendering projects: animation and visual effects, but also architecture, visualizations, and commercial work. This introduction teaches the basics of using RenderMan with Autodesk Maya, including features such as arbitrary output variables (AOVs), the path tracer, and integrators. It dives into all the lights offered in the software (area lights, mesh lights, etc.), as well as the main shading networks (PxrDisney and LM-layered materials) and beginner-intermediate rendering settings in RenderMan's new RIS path-tracing rendering engine. Shading architect Christos Obretenov also demonstrates techniques for creating realistic glass surfaces and still life scenes, so you can see what possibilities RenderMan offers straight out of the box.

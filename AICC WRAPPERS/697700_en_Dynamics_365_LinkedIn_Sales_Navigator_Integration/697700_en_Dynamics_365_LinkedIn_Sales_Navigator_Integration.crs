@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=697700
+Course_System=linkedin.com
+Course_Title=Dynamics 365: LinkedIn Sales Navigator Integration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to add the power of the world's largest professional network to your CRM solution by integrating LinkedIn Sales Navigator with Microsoft Dynamics 365. In this course, Gini von Courter explores how to streamline and enhance your social selling strategy by importing LinkedIn profile data and sales activities into Dynamics 365, the powerful business application from Microsoft. She explains how to access Sales Navigator features—including InMail and lead recommendations—from inside Dynamics 365. Plus, she demonstrates how to view Dynamics data in Sales Navigator.

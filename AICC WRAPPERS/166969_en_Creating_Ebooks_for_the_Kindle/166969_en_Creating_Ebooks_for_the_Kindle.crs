@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Harmer
+Course_ID=166969
+Course_System=linkedin.com
+Course_Title=Creating Ebooks for the Kindle
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to convert an ebook into a Kindle-ready format? No matter what your file's origin—InDesign, Word, Pages, or even a plain text editor—Tony Harmer will show you how to crack it open and convert it to a Kindle-compatible format with your choice of free tools: Sigil, calibre, and KindleGen. Learn about the range of ebook formats and editing tools, get a short primer on HTML and CSS, and see how to build out ebook features like tables of contents, links, and metadata. When you're done creating your ebook, Tony will show how to upload it to Amazon's Kindle Store.

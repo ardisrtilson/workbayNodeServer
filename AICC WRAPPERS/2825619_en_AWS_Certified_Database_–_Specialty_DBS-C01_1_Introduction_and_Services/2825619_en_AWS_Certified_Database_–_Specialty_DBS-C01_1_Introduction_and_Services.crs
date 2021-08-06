@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2825619
+Course_System=linkedin.com
+Course_Title=AWS Certified Database – Specialty (DBS-C01): 1 Introduction and Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the AWS Certified Database – Specialty certification validates your understanding of AWS database services and ability to design and maintain database solutions. In this course—the first in a series designed to help you prepare for the AWS Certified Database – Specialty (DBS-C01) exam—review fundamental database concepts and the different database services offered by AWS. Instructor Tom Carpenter begins by going over the exam objectives. He then provides an overview of key database concepts, including the differences between cloud-based and local databases and how to read and write data with SQL. Plus, learn about the different AWS database services, from relational databases like Aurora to in-memory databases like ElastiCache. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

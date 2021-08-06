@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=461032
+Course_System=linkedin.com
+Course_Title=Maya: Motion Graphics Workflow with MASH
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The MASH toolkit brings a powerful suite of procedural animation tools into Maya 2016. Procedural methodologies allow for nonlinear play and experimentation, with control networks instead of traditional keyframes. With sophisticated tools for replication, animation, controlled randomness, and instancing, MASH opens up a vast new territory for motion graphics and visual effects creation. From data visualization, to 3D type, to HUD layouts and arrays of geometric objects, Mash provides a powerful, intuitive, and engaging way to create procedural animation systems directly in Maya. Learn how to incorporate MASH in your workflow in these Maya tutorials with mograph designer Scott Pagano. Scott covers the main nodes one by one, and then steps through examples with particles and dynamic 3D type. Plus, see MASH in action in more complex projects: a futuristic UI and an elaborate city animation.

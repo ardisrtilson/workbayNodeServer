@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharif Nijim
+Course_ID=2834045
+Course_System=linkedin.com
+Course_Title=AWS: Enterprise Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understanding—and successfully implementing—security concepts is essential to using Amazon Web Services (AWS) as your enterprise solution. In this course, instructor Sharif Nijim couples pragmatic advice with practical examples that show IT pros how to create a secure infrastructure within AWS. Sharif explores the shared responsibility model of security, which splits duties between your company and AWS, and introduces key Identity and Access Management (IAM) concepts, including users, groups, roles, and policies. Discover how to manage access to Simple Storage Service (S3); implement detective controls within AWS, including how to work with AWS Config and GuardDuty; use protective tools such as AWS Shield; and use AWS Key Management Service (KMS) to manage access keys. Plus, learn how to prepare for the inevitable audit of your AWS account(s).

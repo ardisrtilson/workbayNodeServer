@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=483233
+Course_System=linkedin.com
+Course_Title=Advanced PHP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Implement namespaces, extend interfaces, create your first Trait, dive into object-oriented programming, and discover versatile scripting methods with this course. Web developer Justin Yost takes you into the advanced parts of the PHP server-side language, including abstract classes, iterators, generators, and password hashing. He provides an overview of each topic, takes you through how to code each item for the first time, and then shows you how to expand further. Learn how to establish consistency, solve problems, and prevent your applications from crashing by applying the techniques Justin shares in this course. Take your object-oriented programming beyond basic attributes and methods into using constructors, deconstructors, and singletons. Build nested exceptions, use type hints, and explore additional ways you can craft more flexible software using PHP.

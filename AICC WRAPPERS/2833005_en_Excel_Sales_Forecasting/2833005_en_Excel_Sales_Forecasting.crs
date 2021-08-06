@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael McDonald
+Course_ID=2833005
+Course_System=linkedin.com
+Course_Title=Excel: Sales Forecasting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating accurate and reliable sales forecasts is essential for any sales leader. Professor Michael McDonald shows how to use Excel to forecast sales more effectively, beginning with a quick primer on sales forecasting, then explaining the business intelligence used in forecasting and the basics of regression analysis. Next, Michael shows how to use Excel to gather the necessary data for your forecast, how to cleanse data so that it will lead to more accurate forecasts, and how to interpret and explain the results of a regression forecast. The course concludes with a sample project, forecasting sales for a fictional restaurant. In this sample project, you’ll construct a data set, compute a simple set of forecast metrics, and construct an in-depth sales forecast. Finally, Michael explains the limitations of sales forecasting and how you can mitigate risk.

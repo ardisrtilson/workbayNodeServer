@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Long
+Course_ID=83840
+Course_System=linkedin.com
+Course_Title=HDR Photography: Shooting and Processing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, photographer Ben Long describes the concepts and techniques behind high dynamic range (HDR) photography, a technique used to create images that have a wider range between the lightest and darkest areas of a scene than a digital camera can typically capture. The course begins with some background on dynamic range, on how camera sensors detect shadows, and on the kinds of subjects that benefit from HDR. Ben then describes and demonstrates several methods of generating HDR images, starting with single-shot HDR, which relies on masking to subtly enhance the dynamic range of a shot. Next, the course covers multi-exposure HDR, which involves shooting several photos of a scene, each at a different exposure, and then combining them using software tools. Ben demonstrates how to use Photoshop and the popular Photomatix software to process HDR images whose appearance ranges from subtle to surreal.

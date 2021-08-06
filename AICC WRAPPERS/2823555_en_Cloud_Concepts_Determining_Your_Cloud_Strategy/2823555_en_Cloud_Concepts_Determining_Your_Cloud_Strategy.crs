@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rashim Mogha
+Course_ID=2823555
+Course_System=linkedin.com
+Course_Title=Cloud Concepts: Determining Your Cloud Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this era of digital transformation, the move to cloud is inevitable. In this course, instructor Rashim Mogha walks you through several critical steps in determining your cloud strategy and guiding your company's digital transformation. Rashim explains hybrid and multicloud deployment models, then goes into how to make sure your stakeholders understand how the move to cloud will affect the business. She covers how to have roadmap discussions and create a roadmap. She helps you determine how to pick the right project for proof of concept and how to ensure that you have a team that is open to change. She explains the roles and responsibilities of the Center of Excellence (COE) team, then explores how to create a robust enablement plan for the COE. In conclusion, she teaches you about how to vet potential cloud partners and how to decide if you want MSP to be a part of your cloud journey strategy.

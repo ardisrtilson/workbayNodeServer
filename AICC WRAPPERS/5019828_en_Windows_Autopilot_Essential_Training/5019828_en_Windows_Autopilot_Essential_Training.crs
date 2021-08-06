@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=5019828
+Course_System=linkedin.com
+Course_Title=Windows Autopilot Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Autopilot is a collection of technologies that make it easy to deploy Windows 10—and do so without any IT infrastructure, to boot. In this course, instructor Andrew Bettany helps you get started with Windows Autopilot, explaining how to evaluate, implement, and troubleshoot a Windows 10 deployment within your organization using Windows Autopilot. Andrew provides end-to-end walk-throughs of how both administrators and users experience Windows Autopilot. He also demonstrates how to configure and deploy devices with Windows Autopilot, as well as how to troubleshoot a variety of common issues.

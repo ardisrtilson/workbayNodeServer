@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marc de Vinck
+Course_ID=2880140
+Course_System=linkedin.com
+Course_Title=IoT Projects: Physical Email Alert
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How do you create a physical alert for virtual data? With a Raspberry Pi, a few electronic components, and some time, you can build a device that lets you know how much email your inbox contains. This course helps you explore the Internet of Things (IoT) through this fun sample project. Learn about the Pi, servos, building a case, and assembling a finished-looking project. Instructor Marc de Vinck explains what tools, software, and other equipment you need to get started, and then shows how to put together the hardware, code your device, and complete it with a simple enclosure and wiring. Plus, discover other things you can do with an email-triggered device, like automating tasks around the home. This course was created by Marc de Vinck. We are pleased to host this training in our library.

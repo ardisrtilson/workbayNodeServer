@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=588785
+Course_System=linkedin.com
+Course_Title=Visual Studio Code for Web Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A great code editor is a crucial addition to any web developer's arsenal of tools. In this course, learn how to make the most of Visual Studio (VS) Code—the powerful code editor from Microsoft—when working with web-based projects. Joe Marini kicks off the course by taking you through the app's user interface, and showing how to work with its basic editing features. Next, Joe demonstrates how to customize VS Code by configuring preferences, setting your own keyboard shortcuts, and working with snippets. He also explains how to maximize your productivity by installing and managing extensions from the Visual Studio Marketplace. Plus, he discusses how VS Code works with folders and collections of files, helps you understand the IntelliSense feature, and dives into the app's advanced code editing features, such as automatic formatting.

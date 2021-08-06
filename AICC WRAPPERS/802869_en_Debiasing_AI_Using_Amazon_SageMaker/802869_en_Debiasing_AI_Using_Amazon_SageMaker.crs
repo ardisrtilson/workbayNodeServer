@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kesha Williams
+Course_ID=802869
+Course_System=linkedin.com
+Course_Title=Debiasing AI Using Amazon SageMaker
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Artificial intelligence (AI) can have deeply embedded bias. It’s the job of data scientists and developers to ensure their algorithms are fair, transparent, and explainable. This responsibility is critically important when building models that may determine policy—or shape the course of people’s lives. In this course, award-winning software engineer Kesha Williams explains how to debias AI with Amazon SageMaker. She shows how to use SageMaker to create a predictive-policing machine-learning model that integrates Rekognition and AWS DeepLens, creating a crime-fighting model that can “see” what’s happening in a live scene. By following the development process, you can learn what goes into making a model that doesn’t suffer from cultural prejudices. Kesha also discusses how to remove bias in training data, test a model for fairness, and build trust in AI by making models that are explainable.

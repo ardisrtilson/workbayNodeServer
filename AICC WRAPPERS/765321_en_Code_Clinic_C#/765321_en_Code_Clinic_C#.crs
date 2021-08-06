@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anton Delsink
+Course_ID=765321
+Course_System=linkedin.com
+Course_Title=Code Clinic: C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Successful programmers know more than just how to code. They also know how to think about solving problems. Code Clinic is a series of courses in which our instructors solve the same problems using different programming languages. In each course, instructors provide tips and tricks for working in a particular language and help you grasp why you might want to learn one language over another. Here, Anton Delsink works with C#. Throughout the course, Anton introduces challenges and then provides an overview of his solutions in C#. Challenges include topics such as geolocation, face recognition, and accessing peripherals. Visit other courses in the series to see how to solve the same challenges in languages like C++, JavaScript, PHP, Python, Ruby, Go, and Swift.

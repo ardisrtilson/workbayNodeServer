@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Irene Radcliffe
+Course_ID=704131
+Course_System=linkedin.com
+Course_Title=Learning FARO PointSense Building
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The FARO PointSense Building plugin for AutoCAD allows you to take scan data from a variety of sources—including laser scans and photogrammetry—and build architecturally compatible 2D plans. In this course, you can learn how to create 2D floor plans with PointSense Building and AutoCAD. Instructor Irene Radcliffe walks you through the entire process, from configuring your project and scan data, to sectioning and slicing, to digitizing your scan. Get familiar with the drawing and modeling tools available and learn how to use VirtuSurv, the FARO software for producing realistic and intuitive views of scan data. Then discover how to use the PointSense analysis tools to look for deviations and see how your linework and models fit the point cloud. Plus, find out how to use VirtuSurv macros to speed up your workflow and learn how to add construction details and dimensions to your drawings.

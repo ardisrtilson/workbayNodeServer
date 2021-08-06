@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645038
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 8 Cloud and Connected Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developing solid Universal Windows Platform (UWP) apps means connecting to and leveraging services in the cloud. In this course, join instructor Scott Peterson as he introduces Azure Blob storage and Table Storage, and demonstrates how to use each from the Universal Windows Platform. Scott also introduces Microsoft Graph, which provides a unified API for accessing Microsoft cloud services, and shows how to use it to integrate with OneDrive. Note: This course was created by Wintellect. We are pleased to host this training in our library.

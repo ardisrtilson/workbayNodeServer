@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=595829
+Course_System=linkedin.com
+Course_Title=GraphQL: Data Fetching with Relay
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to build more efficient, data-driven React.js applications? Streamline data retrieval with GraphQL and Relay. You can get exactly the data you need—nothing more, nothing less—and predictable results every time. Join Emmanuel Henri as he shows how to set up a GraphQL server and use the Relay framework to fetch data from React components. In the process of building this project, he reviews the basics of GraphQL and the fundamentals of queries and mutations, introduces Relay, and then shows how these three technologies fit together when you code GraphQL fragments in React components.

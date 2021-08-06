@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=609024
+Course_System=linkedin.com
+Course_Title=Building Applications with Angular, ASP.NET Core, and Entity Framework Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating a complete full-stack application requires integrating multiple components. The front-end piece must talk smoothly to the server, and within the server, you'll need multiple layers: one to talk with the client, and one to store information on the server. This course teaches integration through the perspective of a quiz project, with instructor Alexander Zanfir showing how to use Angular, ASP.NET Core, and Entity Framework Core to develop a full-stack application. Alexander explains how to display and edit data in Angular with ASP.NET Core, create forms, navigate to different views, and more.

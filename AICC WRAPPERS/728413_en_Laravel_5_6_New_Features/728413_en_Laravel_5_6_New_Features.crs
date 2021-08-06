@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=728413
+Course_System=linkedin.com
+Course_Title=Laravel 5.6 New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Laravel is the PHP framework that developers prefer for its expressive, elegant syntax. Learn what's new in version 5.6 in this quick overview. Instructor Justin Yost walks through the upgrade process, and then reviews the new features: the Artisan Collision package, job queues, dynamic rate limiting, Blade aliases for reusing components, as well as back-end features for working with the console. In chapter two, Justin covers the improvements to existing features that make working with Laravel even better, including API controller generation, date casting, and password hashing.

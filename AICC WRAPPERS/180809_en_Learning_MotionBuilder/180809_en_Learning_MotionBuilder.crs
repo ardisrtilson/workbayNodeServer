@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=180809
+Course_System=linkedin.com
+Course_Title=Learning MotionBuilder
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Join George Maestri for an approachable and concise introduction to MotionBuilder, Autodesk's motion-editing offering. This course starts with an overview of the basic MotionBuilder interface and navigation, and then moves on to animating simple objects. Character rigs are up next, with instructions on posing and controlling generic, human, and biped rigs. The course then moves on to more-sophisticated animation with external motion data, and wraps up with some finishing touches—lights and cameras—before you export your scene for further development in programs like Maya and 3ds Max.

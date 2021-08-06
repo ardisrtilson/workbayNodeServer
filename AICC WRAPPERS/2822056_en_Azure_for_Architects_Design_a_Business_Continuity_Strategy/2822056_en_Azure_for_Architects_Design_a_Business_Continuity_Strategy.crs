@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2822056
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Design a Business Continuity Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design a successful strategy around high availability, data archiving, and site recovery solutions in Microsoft Azure. This course can also prepare you for Exam AZ-301: Microsoft Azure Architect Design. Instructor Sharon Bennett covers key considerations around planned and unplanned failover and failback, designing for network redundancy, and identifying requirements for data archiving. Along the way, she covers key processes that can help architects charged with pulling a strategy together and making recommendations to an organization's stakeholders. You should have an understanding of Azure administration and development before viewing this course.

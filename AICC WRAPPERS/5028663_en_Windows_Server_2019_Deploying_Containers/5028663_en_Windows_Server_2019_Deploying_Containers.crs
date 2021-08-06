@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=5028663
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Deploying Containers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Server 2019 contains new features for working with containers—packages that store an application's code, configurations, and dependencies, allowing them to run on any platform. This course helps you unlock their power. Discover how containers work, why you should use them, and how to run them in a Windows Server environment. Instructor David Davis explains how to install the Windows container host; how to run your first Windows container; how to administer your container infrastructure, including networking and storage; how to create a cluster of Windows Server 2019 container hosts in a production data center; and how to run containers on Windows Server 2019 in Azure and Amazon Web Services. Plus, learn how to use orchestration tools such as Swarm and Kubernetes, isolate containers using Hyper-V, and run containerized apps with Windows Nano Server.

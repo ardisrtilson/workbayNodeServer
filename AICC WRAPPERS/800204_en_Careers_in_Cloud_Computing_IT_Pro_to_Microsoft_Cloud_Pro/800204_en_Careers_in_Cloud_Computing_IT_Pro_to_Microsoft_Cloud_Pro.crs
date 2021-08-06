@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=800204
+Course_System=linkedin.com
+Course_Title=Careers in Cloud Computing: IT Pro to Microsoft Cloud Pro
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Businesses are adopting cloud-based technologies at a fast rate. Moving to the cloud requires businesses and the IT professionals that support them to evolve. Cloud-based systems require a new approach to IT management and a whole new suite of tools and skills. This course equips IT professionals to shift their careers and embrace cloud technology. Primarily focused on the cloud services provided by Microsoft, this course includes in-depth coverage of Azure, PowerShell, and Microsoft 365, but also touches on additional platforms such as Amazon Web Services. Instructor Andrew Bettany also helps you map where you may want to specialize, where you need to be skill-wise, and how to create a path to get there.

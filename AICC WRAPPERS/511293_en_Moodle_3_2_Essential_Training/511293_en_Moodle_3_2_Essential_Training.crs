@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oliver Schinkten
+Course_ID=511293
+Course_System=linkedin.com
+Course_Title=Moodle 3.2 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a deep dive into Moodle and explore the features of this ever-popular, free learning management system (LMS). In this course, education expert Oliver Schinkten shows how to create an online course, highlighting some of the features that are new to Moodle 3.2 along the way. He explains how to construct a course in which students can access resources, submit assignments, take assessments, join online discussions, and more. He explores how to start with a blank course shell, and then customize it for a specific course by adjusting the layout, adding resources, and including activities. Plus, Oliver goes over some best practices—such as saving a backup of your course—to help you get the most out of Moodle.

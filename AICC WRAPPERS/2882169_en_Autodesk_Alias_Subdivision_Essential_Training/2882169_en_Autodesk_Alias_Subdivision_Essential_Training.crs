@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Veejay Gahir
+Course_ID=2882169
+Course_System=linkedin.com
+Course_Title=Autodesk Alias Subdivision Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the essentials of subdivision modeling using Autodesk Alias. Veejay Gahir introduces the principles of subdivision modeling as well as the advantages of using this workflow and toolset. Discover how to create and modify subdivision entities and understand the advantages of using a hybrid approach, utilizing existing Bezier and Nurbs entities. Learn how to apply good CAD modeling practices to enable users downstream to use this data for engineering, packaging, or design reviews. Veejay also shows how to create additional entities from subdivisions and refine selections using Grow and Shrink. Explore the advantages of reverse engineering using the optimized retopology workflow that allows users to utilize existing mesh or surface data as a scan reference. By the end of this course, you’ll have the skills and knowledge to start using the Alias subdivision feature set for smooth, accelerated design and concept modeling.

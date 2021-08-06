@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chappell
+Course_ID=369901
+Course_System=linkedin.com
+Course_Title=AutoCAD Civil 3D: Intersecting New Roads with Existing Roads
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Every road project that you work on will require you to tie your new road designs to existing roads via intersections. To do this successfully you need to know the right workflow: to leverage the best Civil 3D features in the right ways and in the right order. In this course, you'll learn how to combine features involving alignments, profiles, corridors, surfaces, and intersections to efficiently design new-to-existing intersections.

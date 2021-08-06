@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Lipps
+Course_ID=5030986
+Course_System=linkedin.com
+Course_Title=Mobile Testing with Appium
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Appium is the most popular and comprehensive tool for automating mobile application testing. Write scripts in any language—Java, Python, Ruby, or JavaScript—and test on any device: iOS or Android. Anyone involved in mobile QA who wants to save time and energy on testing should have at least a basic understanding of Appium. In this course, Jonathan Lipps, Appium project lead, takes you through the code-based automation workflow in Appium. Discover how to prepare your system for Appium, get it running, and set up a test code environment. Learn how to launch automation sessions with native mobile apps on iOS and Android and perform basic interactions with on-screen elements. From there Jonathan tackles more advanced topics, like synthesizing touch gestures. Each lesson helps you unlock new levels of quality and efficiency in your app development cycle.

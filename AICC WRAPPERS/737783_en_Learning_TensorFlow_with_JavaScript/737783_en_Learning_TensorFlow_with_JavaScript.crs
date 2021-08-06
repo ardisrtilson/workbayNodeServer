@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=737783
+Course_System=linkedin.com
+Course_Title=Learning TensorFlow with JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript developers can use the TensorFlow framework to create a machine learning (ML) project. This course introduces you to ML basics, and demonstrates how to set up and use TensorFlow to train a model and generate live results. Emmanuel Henri shows how to create a new project; how to work with different tensor types, variables, models, and layers; how to import a project and explore datasets; how TensorFlow executes model training; how to convert a saved model for the web; and more.

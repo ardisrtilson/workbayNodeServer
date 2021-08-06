@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645032
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 1 Layout and Navigation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Universal Windows Platform (UWP) from Microsoft allows you to create a single package and target a variety of devices in the Windows family, including desktops, phones, tablets, and even the Xbox. If you want to start learning how to write UWP apps, layout and navigation is an ideal place to start. Adaptive layouts and adaptive triggers allow an app to look great on any device and on any screen size. Navigation is crucial to providing a high-quality user experience, as being unable to navigate through an app can be hugely frustrating to users. In this course, start your journey to UWP enlightenment by learning about layout and navigation, and discovering how to use the concepts presented here in UWP apps of your own. Note: This course was created by Wintellect. We are pleased to host this training in our library.

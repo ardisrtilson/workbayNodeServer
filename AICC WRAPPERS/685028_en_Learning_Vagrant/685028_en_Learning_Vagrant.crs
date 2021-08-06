@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Swersky
+Course_ID=685028
+Course_System=linkedin.com
+Course_Title=Learning Vagrant
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Vagrant is a command-line program that's used in combination with a configuration file to define, configure, and run virtual machines. Vagrant is compatible with most of the major hypervisors, including VirtualBox, Hyper-V, and VMware. In this course, instructor Dave Swersky helps you get started with this powerful, easy-to-use tool by helping you build your understanding of Vagrant components and the ecosystem that Hashicorp—the makers of Vagrant—provides to support Vagrant. Dave goes over the primary use cases for Vagrant, and explains how it can simplify the usage and deployment of virtual machines. He discusses how to work with boxes—including how to create boxes of your own—and discusses Vagrant Cloud, an online box repository. He also shares tips and tricks that can help you work more efficiently with Vagrant.

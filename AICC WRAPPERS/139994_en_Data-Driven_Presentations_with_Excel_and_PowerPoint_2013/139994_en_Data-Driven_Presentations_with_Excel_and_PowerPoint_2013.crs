@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=139994
+Course_System=linkedin.com
+Course_Title=Data-Driven Presentations with Excel and PowerPoint 2013
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to drive your Microsoft PowerPoint presentations with data straight from the source—Excel. Gini Courter first shows you how to use conditional formatting to highlight important data, summarize data with PivotTables, and visualize your data with sparklines and charts. Then learn how to leverage the linking and embedding features of Office to bring Excel tables and charts into PowerPoint. Gini then uses SmartArt to provide a conceptual framework in PowerPoint and animates the results. Finally, learn to create links from PowerPoint to Excel to fire up a workbook directly from a presentation. If you've wondered how to create compelling, data-driven presentations that always stay up to date, this course is for you.

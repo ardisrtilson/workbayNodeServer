@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=743171
+Course_System=linkedin.com
+Course_Title=Machine Learning and AI Foundations: Predictive Modeling Strategy at Scale
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building world-class predictive analytics solutions requires recognizing that the challenges of scale and sample size fluctuate greatly at different stages of a project. How do you know how much data to use? What is too little, what is too much? How does your infrastructure need to scale with the volume and demands of the project? This course walks step by step through the strategic and tactical aspects of determining how much data is needed to build an effective predictive modeling solution based on machine learning and what volumes of data are so large that they will create challenges. Instructor Keith McCormick reviews each stage—data selection, data preparation, modeling, scoring, and deployment—with scalability in mind, providing IT professionals, data scientists, and leadership with new insights, perspectives, and collaboration tools. Note: This course is software agnostic. The emphasis is on strategy and planning. Examples, calculations, and software results shown are for training purposes only.

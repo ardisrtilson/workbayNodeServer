@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sidney Andrews
+Course_ID=2820014
+Course_System=linkedin.com
+Course_Title=Azure for Developers: Cosmos DB
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Cosmos DB is one of the fastest-growing Azure services on the market. But even professionals with considerable experience setting up databases for organizations may have questions about this service's features, simply due to how different it is from other Microsoft home-grown data platforms. This course was designed to help answer these questions. Join instructor Sidney Andrews as he helps you get up and running with this fully managed and globally distributed database service. Sidney delves into the individual Cosmos DB APIs and models, as well as its architecture. He then covers a variety of key concepts, including how to configure security for your account, customize your account using key settings, and more.

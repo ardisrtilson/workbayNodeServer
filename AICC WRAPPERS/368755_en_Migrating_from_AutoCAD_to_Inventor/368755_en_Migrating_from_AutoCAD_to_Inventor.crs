@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=368755
+Course_System=linkedin.com
+Course_Title=Migrating from AutoCAD to Inventor
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD users around the world are adopting Autodesk Inventor, the purpose-built tool for mechanical design, engineering, and manufacturing. While they're both Autodesk products, Inventor has different tools, terminology, and workflows than AutoCAD, which can make migration challenging. This course explores the key elements of Inventor that every experienced AutoCAD user needs to start moving their projects and design processes over to Inventor. Author Thom Tremblay explores 2D drawing and 3D modeling, as well as options for collaborating with AutoCAD users while using Inventor and leveraging your existing AutoCAD data in Inventor.

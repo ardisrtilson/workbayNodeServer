@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Casabona
+Course_ID=2833095
+Course_System=linkedin.com
+Course_Title=PHP for WordPress
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to add custom functionality to your WordPress site? In this course, learn what every WordPress developer needs to know to start coding in PHP. Instructor Joe Casabona helps you quickly get up to speed with the popular server-side programming language, explaining just what you need to know to start adding your own custom code. After briefly going over what PHP is, Joe introduces key concepts. Learn about decision-making with conditional statements, creating custom functions, and how WordPress handles most variables. Along the way, Joe provides challenges that allow you to put your new skills to the test. By the end of this course, you'll be equipped with a basic understanding of PHP and how to use it to make simple modifications in WordPress.

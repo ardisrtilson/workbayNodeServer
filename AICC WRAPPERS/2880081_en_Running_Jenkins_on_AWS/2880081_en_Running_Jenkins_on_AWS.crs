@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Jenkins
+Course_ID=2880081
+Course_System=linkedin.com
+Course_Title=Running Jenkins on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create and move a master instance of Jenkins to the cloud-based servers of AWS (Amazon Web Services). In this course, instructor Michael Jenkins covers steps for setting up Jenkins, creating a build environment, connecting with webhooks, using a deployment service, and shutting down AWS resources. First, Michael shows you how to create a master instance of Jenkins, including how to configure a security group, a NGINX reverse proxy, and your Jenkins master instance. Next, he steps through creating a build environment and connect the Jenkins master server to the build server. Michael explains what a webhook is and how you can create and test one. He goes over how to deploy using Elastic Beanstalk. Finally, Michael discusses how to stop or remove AWS resources.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=388134
+Course_System=linkedin.com
+Course_Title=C#: Interfaces and Generics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your C# coding skills to the next level by learning to use interfaces and generics in this course with programming expert Joe Marini. Interfaces provide a way of implementing common types of behaviors that can be reused across multiple classes. Interfaces keep your code nimble, compact, and efficient. Generics, on the other hand, help you work with strongly typed data collections, without having to commit to a data type ahead of time. Used in combination, these features make your C# projects easier to build and scale, with fewer bugs and performance issues along the way. Start watching to learn how to integrate interfaces and generics into your projects today.

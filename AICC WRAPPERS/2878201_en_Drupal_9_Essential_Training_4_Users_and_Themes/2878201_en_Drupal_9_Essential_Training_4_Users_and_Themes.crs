@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=OSTraining, Rod Martin
+Course_ID=2878201
+Course_System=linkedin.com
+Course_Title=Drupal 9 Essential Training: 4 Users and Themes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+User management in Drupal is very robust. In this course, instructor Rod Martin shows you how you can create different user roles with different levels of access to your Drupal administration interface, then teaches you how to install and configure a custom theme for Drupal. Rod begins by reviewing the site plan and giving you a look at user roles. He gives you insights on how to set permissions and rearrange roles in the administrator interface. Rod covers how to gather content from users to create user profiles. He explains how to set up content workflows and custom permissions. After giving an overview of the theming process, Rod walks you through the process of downloading and installing a custom theme for Drupal. Note: This course was created by OSTraining. We are pleased to host this training in our library.

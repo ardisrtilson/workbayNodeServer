@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Banks
+Course_ID=661809
+Course_System=linkedin.com
+Course_Title=Advanced Node.js: Scaling Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While Node.js is great for creating small apps with minimal surface areas, it was designed to scale. In this course, learn sophisticated programming techniques that can help you scale your Node.js applications. Instructor Alex Banks goes over the scale cube, discussing the different directions in which an app can be scaled: along the x-axis, z-axis, and y-axis. He also looks at cloning, discussing how to fork your Node.js processes and work with clusters with PM2. Plus, learn how to set up horizontal partitioning to split data between databases, as well as how to decompose applications into microservices.

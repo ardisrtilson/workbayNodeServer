@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=679630
+Course_System=linkedin.com
+Course_Title=Windows 10 for IT Pros Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Windows 10 operating system offers enhanced security and compatibility, which makes it a solid choice for business and education environments. In this in-depth course, instructor Brien Posey provides IT professionals with the tools they need to implement and manage Windows 10. To begin, Brien provides an overview of how to install Windows 10 and navigate the Windows 10 interface. Next, he goes under the hood, focusing on important features related to security, including Secure Boot and Windows Defender. He also discusses using virtualization in Windows 10, managing remote access, and using backup and recovery options. Plus, learn about Windows Ink and how to enable mixed reality in Windows 10.

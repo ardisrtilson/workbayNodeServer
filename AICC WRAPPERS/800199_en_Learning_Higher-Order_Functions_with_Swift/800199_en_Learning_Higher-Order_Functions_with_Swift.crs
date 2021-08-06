@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=800199
+Course_System=linkedin.com
+Course_Title=Learning Higher-Order Functions with Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By taking the time to truly grasp higher-order functions, you'll go from merely understanding the Swift language to mastering it. In this course, Bear Cahill shines a spotlight on higher-order functions in Swift, exploring what they are and how to use them. Bear starts by discussing the importance of higher-order functions and the basics of closures and functions as a basis for the rest of the course. He then covers a variety of higher-order functions—including sort, reduce, and compactMap—with a breakdown of the concepts behind each one (so you know when best to apply them). Learn about passing functions, closure optimizations, higher-order functions on strings, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=2874224
+Course_System=linkedin.com
+Course_Title=First Look: WordPress Full-Site Editing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+WordPress has come a long way since the first version in 2003. What started as simple blogging software has become a full-fledged content management system used by companies large and small all over the world. One of the biggest changes came in 2018 with the introduction of blocks, which fundamentally changed how you edit content in WordPress. Now, a variety of block types—headings, images, quotes, and more—are used to create rich content. In this course, Carrie Dils takes a look at the next big change coming to WordPress, full-site editing. With full-site editing, the block editor is used for all aspects of the site, not just the content area. Headers, footers, and sidebars alike can be formatted and populated with blocks. While full-site editing is still in the early stages of development and adoption, if you’re a WordPress developer, this first-look course provides a good introduction to the concepts and a way for you to get ready when full-site editing officially lands.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=2875057
+Course_System=linkedin.com
+Course_Title=Fusion 360: Simulation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing your parts is just the first step. In order to ensure they will perform as designed, you need to know how they will stand up to real-world conditions. Will they deform, break, or otherwise fail when they are used? Instructor Thom Tremblay shows you how to use Fusion 360 simulation tools to specify materials, loads, constraints, and then perform your analysis to learn what changes you need to make before manufacturing your part. Thom explains how to use the application's various simulation tools, including Finite Element Analysis (FEA), thermal simulation, and tools to study cooling for electronics. He concludes with a recap of Generative Design, a cloud-based service that runs on Fusion 360 and uses simulation to offer design suggestions. Then he discusses how Autodesk CFD can be used in conjunction with Fusion 360 from computational fluid dynamics studies.

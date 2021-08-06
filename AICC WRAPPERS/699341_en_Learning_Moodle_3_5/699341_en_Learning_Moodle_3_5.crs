@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oliver Schinkten
+Course_ID=699341
+Course_System=linkedin.com
+Course_Title=Learning Moodle 3.5
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Moodle, a learning management system (LMS), allows you to create online classes, post assignments and assessments, calculate grades, and more. Students can access the class and resources online, complete assignments, and communicate with the instructor. This course demonstrates how instructors can get started using Moodle. Learn how to set up an instructor profile. See how to create a course and adjust course settings. Find out how to add files, post announcements, and make quizzes. Watch how to enroll students and create groups. Additionally, discover how to grade assignments and run reports.

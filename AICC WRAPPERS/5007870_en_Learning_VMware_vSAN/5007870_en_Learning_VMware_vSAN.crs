@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5007870
+Course_System=linkedin.com
+Course_Title=Learning VMware vSAN
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+vSAN is a popular software-defined storage solution from the leading virtualization company, VMware. This training course provide complete coverage of vSAN, including conceptual lessons and hands-on demos using the free labs at VMware.com. You can learn how to configure, monitor, and manage vSAN, and explore the different vSAN architecture options. VMware Certified Instructor Rick Crisci also covers important operations and maintenance considerations, such as high-availability configuration and vSAN recovery procedures. Plus, review popular deployment options: two-node clusters and stretched vSAN clusters.

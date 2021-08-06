@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=5034171
+Course_System=linkedin.com
+Course_Title=Introduction to Quantum Computing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Classical computing, which gave us the current digital age, is about to be displaced by a more exciting, powerful, and radically different form of computing. This technology—known as quantum computing—operates under completely different scientific principles and has the potential to provide a massive technological leap forward that will enable breakthroughs in artificial intelligence, medicine, chemistry, space capabilities, mixed reality, and so much more. Those left behind will find it hard to catch up. Learn all about it here, as well as how to apply quantum computing to your own (and your organization's) outlook for the future. In plain language, instructor Jonathan Reichental lays out what quantum computing is and details its applications, opportunities, and risks.

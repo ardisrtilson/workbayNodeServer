@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2980055
+Course_System=linkedin.com
+Course_Title=Vue.js: Creating and Hosting a Full-Stack Site
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you have Vue.js front-end capabilities, but lack familiarity with the server side? Would you like to develop the skills needed to build full-stack applications? In this course, instructor Shaun Wassell helps you enhance your development tool kit by showing how to leverage your existing Vue.js skills to build a full-stack ecommerce site. Shaun guides you through the process, showing how to use Vue.js to build a simple front end; Node.js and MongoDB to construct the back end; Axios to communicate between the front and back ends; and finally, Heroku to take it live. Along the way, learn how to work with different tools and frameworks to correctly configure your site, including Postman and Express.

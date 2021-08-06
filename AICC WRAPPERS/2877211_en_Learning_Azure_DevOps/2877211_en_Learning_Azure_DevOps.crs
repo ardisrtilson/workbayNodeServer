@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2877211
+Course_System=linkedin.com
+Course_Title=Learning Azure DevOps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure DevOps is a bundle of services to help developers ship high-quality products faster. In this course, instructor Walt Ritscher teaches you everything you need to get up and running using this DevOps solution. Walt gives you an overview of the Azure DevOps services, then explains how to create projects and add users to organizations or teams. He presents a quick tour of Azure Boards, the hub for managing software projects, then describes how to use work items, backlogs, sprints, Kanban boards, and more. Walt shows you how Azure Repos provides a place to capture every team member’s source code on the Microsoft cloud servers. He walks you through the parts of Azure Repos and how to manage what each part does. Walt explains the parts and features of Azure Pipelines, the set of services that automate your application build and deployment phases. He concludes with different extensions you can add to DevOps, including Slack, Marketplace, and Persona.

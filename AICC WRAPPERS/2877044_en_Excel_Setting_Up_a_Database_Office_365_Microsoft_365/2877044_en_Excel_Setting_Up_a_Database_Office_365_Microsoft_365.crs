@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=2877044
+Course_System=linkedin.com
+Course_Title=Excel: Setting Up a Database (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Did you know you can use Excel to create a simple database and get even more insights into your data? Join instructor Dennis Taylor and learn how to create a simple database. Dennis explains how to prepare lists that are suitable for data analysis. He goes into how to use the Form tool to view and manage records in a list, then covers how to use the Data Validation command to enter data quickly and accurately. Dennis steps through how to convert data to a table and use its many valuable features. He discusses the Table Design tab, demonstrating how to access the many formatting features to apply to tables. He demonstrates how to expand tables quickly and easily by adding adjacent rows and columns, as well as total rows. Dennis highlights some techniques for creating formulas using field names. He concludes by showing you how to use slicers to filter data with appealing, easy-to-read visuals.

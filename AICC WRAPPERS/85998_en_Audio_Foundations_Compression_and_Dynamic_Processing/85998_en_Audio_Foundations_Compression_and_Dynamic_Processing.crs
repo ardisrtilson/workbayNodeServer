@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Lee White
+Course_ID=85998
+Course_System=linkedin.com
+Course_Title=Audio Foundations: Compression and Dynamic Processing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this first installment of the Foundations of Audio series, author Brian Lee White shows how to improve the sound of a mix with compressors, limiters, gates, de-essers, and other dynamic processors. The course explains the fundamentals of sound waves, and amplitude, explores common compressor controls, and shows how to eliminate unwanted noise using gates and expanders. The course also demonstrates best practices in compression and limiting in a variety of audio applications and covers sculpting the attack and decay of individual notes with transient shapers and applying frequency specific dynamics control with multiband compressors. Exercise files accompany the course and include special Get in the Mix session files.

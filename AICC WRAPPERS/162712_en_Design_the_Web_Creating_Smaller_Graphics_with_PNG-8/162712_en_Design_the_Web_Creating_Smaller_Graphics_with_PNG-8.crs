@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=162712
+Course_System=linkedin.com
+Course_Title=Design the Web: Creating Smaller Graphics with PNG-8
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PNG-24 files provide great quality with the added benefit of 8-bit transparency; however, this particular file format can be rather large. And larger files sizes mean longer loading times for your users. The good news is you can create varying transparent PNG-8 files—files that are between 60% and 80% smaller than PNG-24 files—with a new crop of Windows, Mac, and web-based tools. Chris Converse shows you how in this short, insightful course on creating compressed PNGs that display beautifully on a variety of websites, especially those targeting mobile devices.

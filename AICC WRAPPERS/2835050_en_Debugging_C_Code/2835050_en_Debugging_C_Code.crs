@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=2835050
+Course_System=linkedin.com
+Course_Title=Debugging C Code
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+It's not a matter of if you find bugs in your C code—it's a matter of when. And even for advanced developers, finding and fixing bugs can be a challenge. In this course, get an in-depth look at tools and best practices that can help you spot and resolve bugs in your C code. Instructor Dan Gookin kicks off the course by going over the nature of bugs, common coding problems, and how to track variables and situations in your code without using debugging software. Next, he covers how to work with an IDE debugger—Code::Blocks—to step through code, find flaws, and resolve issues. To wrap up, Dan covers how to use the GNU Debugger, a staple in the Unix environment, to examine and decompile code. Along the way, he provides challenges that allow you to put your new debugging skills to the test.

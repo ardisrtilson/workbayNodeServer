@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=383123
+Course_System=linkedin.com
+Course_Title=Building Responsive Forms with Flexbox
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The CSS3 Flexible Box Model, or Flexbox, is a different way to design responsive websites and HTML forms. Flexbox doesn't rely on floats or collapsible margins. Instead, flex containers shrink and expand items to fit the available space. With flexbox, complex layouts can be achieved with cleaner, more semantic code. In this course, senior staff author James Williamson shows how to use flex containers, flex child items, and responsive design techniques to create responsive layouts for two forms: a short search form and a longer registration form with sections. He demonstrates how to style the form structures, fields, labels, and buttons; control the alignment of different elements; and enhance the responsiveness of both forms with media queries.

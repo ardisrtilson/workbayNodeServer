@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=2849207
+Course_System=linkedin.com
+Course_Title=AWS Well-Architected Framework: Cost Optimization Pillar
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The AWS Well-Architected Framework helps architects build secure, high-performing, resilient, and efficient infrastructures for their applications through five pillars. This course takes an in-depth look at the cost optimization pillar. Instructor Mark Wilkins reviews how to use cost optimization with the design properties of the cost optimization pillar, then goes into key financial management concepts. He explores budgeting and forecasting tools for cloud costs. He shows you how to monitor cost, usage, and the decommissioning of resources, then offers information on how to choose a pricing model. Mark goes over how to manage costs using the Billing and Cost Management dashboard. He also discusses the challenge of changing your design as new features and abilities are provided over time, then shows you how to match supply and demand. Plus, he provides a demo in which he uses the Well-Architected Tool to answer cost optimization pillar questions.

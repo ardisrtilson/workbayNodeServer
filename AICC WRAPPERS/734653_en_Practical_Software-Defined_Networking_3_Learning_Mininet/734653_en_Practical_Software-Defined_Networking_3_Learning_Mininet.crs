@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=734653
+Course_System=linkedin.com
+Course_Title=Practical Software-Defined Networking: 3 Learning Mininet
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mininet is a virtual network emulator that supports testing, research, debugging, and other essential tasks. It can also help you experiment with—and, in turn, wrap your head around—software-defined networking and OpenFlow, a network communications protocol. In this course, learn how to get started with Mininet. Explore key Mininet commands—including sudo mn—and learn how to start a web server on a Mininet host. In addition, explore Mininet topologies and learn how to bridge Mininet to the outside world. Note: This course uses GNS3 for all demonstrations.

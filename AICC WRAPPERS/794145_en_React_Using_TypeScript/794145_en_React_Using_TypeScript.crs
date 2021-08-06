@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=794145
+Course_System=linkedin.com
+Course_Title=React: Using TypeScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TypeScript offers developers a more structured approach to JavaScript application development, and is a natural fit for the build processes most React developers are already using. Combining the component approach in React with the discipline of TypeScript enables you to build clean web applications that will be easier to maintain over time. In this course, instructor Emmanuel Henri explains shows how to use TypeScript with React. He starts with a review of basic and complex types and functional and stateful components. Then he shows how to use TypeScript interfaces to improve your React code. Finally, learn how to implement higher-order components to reuse components while adding new functionality.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=2871067
+Course_System=linkedin.com
+Course_Title=Blender and Substance Painter: Architectural Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in creating realistic environments for animation, architectural visualization, or games? This course can help you get started. Join instructor Darrin Lile as he steps through how to create a scene with Blender and Substance Painter. Darrin shows how to model rooms, explaining how to create the walls, doors, and windows of a coworking space. He goes over how to create furniture and appliances using key modeling tools and modifiers in Blender, as well as how to UV map the office desks, stools, chairs, and other 3D objects in the scene. Darrin then discusses how to bring your files into Substance Painter and apply realistic textures to your models. To wrap up, he demonstrates how to add lights and render your scene using both the Eevee and Cycles render engines in Blender.

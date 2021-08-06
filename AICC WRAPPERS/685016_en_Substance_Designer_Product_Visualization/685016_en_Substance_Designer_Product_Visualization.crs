@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=685016
+Course_System=linkedin.com
+Course_Title=Substance Designer: Product Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Substance Designer is a great tool for creating interactive product visualizations. Using its real-time 3D View, you can change the look of a product on the fly, allowing clients to visualize different manufacturing options. This training course shows how to use Substance Designer to set up a flexible product with dynamic colors, textures, and logo placement. Instructor Joel Bradley shows how to create realistic materials, such as metal, plastic, and rubber, and bake out data maps to place the materials using the Blend Material node. He exposes the parameters for the materials, and shows how to adjust the camera, exposure, and viewport effects so that the product looks its best. Finally, learn how to create high-quality still images to display alongside the interactive 3D View, using the iRay render engine.

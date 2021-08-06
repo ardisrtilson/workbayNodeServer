@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=5035812
+Course_System=linkedin.com
+Course_Title=Cloud Architecture: Core Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you new to cloud computing? If so, this course can help you build your cloud computing skill set by familiarizing you with the business and tech-related basics of creating a cloud architecture. Join cloud-computing luminary David Linthicum as he discusses what cloud architecture is and why a strong architecture is crucial. After covering the fundamentals, he moves on to identifying the business and technical requirements of building a cloud architecture and goes over cloud parts and how to work from requirements to a solution. The course concludes by leading you through how to build your first architecture.

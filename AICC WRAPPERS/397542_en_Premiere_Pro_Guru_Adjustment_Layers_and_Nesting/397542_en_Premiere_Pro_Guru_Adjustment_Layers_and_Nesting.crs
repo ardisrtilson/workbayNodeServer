@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Luisa Winters
+Course_ID=397542
+Course_System=linkedin.com
+Course_Title=Premiere Pro Guru: Adjustment Layers and Nesting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With adjustment layers and nesting, you can nondestructively apply effects, color correction, and filmic looks to video footage in Premiere Pro. Here Luisa Winters explains what nesting is, when to use it, and how to use adjustment layers to apply effects to certain sequences in your timeline. She also covers masking effects; saving presets for future use; creating sepia, film, and other looks with adjustment layers; and using lookup tables (LUTs) to manipulate color in a data-oriented way.

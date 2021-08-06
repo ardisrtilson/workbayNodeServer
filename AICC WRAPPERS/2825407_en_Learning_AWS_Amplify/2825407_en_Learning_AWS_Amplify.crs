@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2825407
+Course_System=linkedin.com
+Course_Title=Learning AWS Amplify
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developing mobile apps is challenging enough without needing to learn and develop the back end on the server. Amazon Web Services (AWS) provides many of the services you need—but navigating AWS can be overwhelming. AWS Amplify brings the work to you, the developer, in the Amplify CLI, which uses intelligent defaults and does the heavy lifting for you. In this course, Bear Cahill details how to leverage AWS Amplify to simplify your app development workflow. Bear provides an overview of Amplify and then details how to use it in the development of a React web app and iOS mobile app, including how to easily add analytics to your app using Amplify. Plus, he discusses how to approach user authentication with Amplify, create a GraphQL API with AppSync and Amplify, and store files online.

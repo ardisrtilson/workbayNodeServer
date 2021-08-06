@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=2871165
+Course_System=linkedin.com
+Course_Title=Rust Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you know even a little bit about programming languages, you know there are a plethora of options to choose from. If your priority is a language focused on reliability, speed, memory, safety, and parallelism, then Rust may be the one for you. In this course, instructor Barron Stone covers the key components of Rust, starting with basic programming concepts including variables, data types, functions, and control loops. He then moves on to some of the core concepts that are unique to Rust, including ownership, borrowing references, and crates. While Rust is great for low-level systems programming, it’s also being used for web apps, network services, and embedded programs. As Barron shows, the features of Rust, along with great tools, documentation, and a welcoming community, have made Rust a language that developers love.

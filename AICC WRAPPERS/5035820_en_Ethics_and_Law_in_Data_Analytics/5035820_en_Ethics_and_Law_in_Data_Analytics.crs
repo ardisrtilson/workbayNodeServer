@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft General Technical Skills
+Course_ID=5035820
+Course_System=linkedin.com
+Course_Title=Ethics and Law in Data Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With big data analytics and artificial intelligence (AI), corporations, governments, and individuals have access to powerful tools that can have real-world outcomes. Data professionals today need both the frameworks and the methods in their job to achieve optimal results while being good stewards of their critical role in society today. This course—part of the Microsoft Professional Program offerings—explores the ethical and legal frameworks applicable to the data profession. Learn how these frameworks apply to practical problems posed by work in big data and data science, and investigate applied data methods for ethical and legal work in analytics and AI.

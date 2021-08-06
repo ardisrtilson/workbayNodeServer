@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bradley G Munkowitz
+Course_ID=140919
+Course_System=linkedin.com
+Course_Title=GMUNK's 3D-Rendered Geometric Art Series: Start to Finish
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this episode of Start to Finish, graphic designer Bradley G Munkowitz, known to his ardent fan base as GMUNK, lets us into his studio and reveals his process for creating op-art-inspired geometric prints. Learn how he uses a web app developed with code artist Marcin Ignac to divide simple primitives into complex multifaceted shapes, and then sends the results to Maya for shading, lighting, and rendering. It's a completely unorthodox use of this 3D toolset—but it's typical of GMUNK's work.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Taylor Hokanson
+Course_ID=359786
+Course_System=linkedin.com
+Course_Title=Learning Mastercam
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Computer numerical control (CNC) milling is a subtractive process that allows you to carve digital 3D models out of blocks of solid material like foam, wood, plastic, or metal. Computer-aided design and manufacturing (CAD/CAM) programs are used to control CNC mills, which can fabricate objects that are often stronger than those created by additive means—for example, 3D printing. In this short course, Taylor Hokanson helps you get up and running with Mastercam, one of the most popular CAD/CAM applications. He demonstrates how to use this program to create basic geometry and convert it to toolpaths for export to the mill of your choice.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2366897
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 7 Software Deployment, Operations, and Maintenance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified Secure Software Lifecycle Professional (CSSLP) is a globally recognized certification from (ISC)2. In this course, part seven in an eight-part series, instructor Jerod Brennen provides insights and context around the seventh domain of the CSSLP certification exam: Secure Software Deployment, Operations, Maintenance. Jerod teaches you the essential components of an operational risk analysis. He shows you how to securely store and manage credentials, secrets, keys, certificates, and configurations. He covers bootstrapping, environment hardening, and applying the principle of least privilege. Then he steps you through the security testing you should perform post-deployment. He discusses obtaining the security approval needed to operate your production app and performing information security continuous monitoring (ISCM). In conclusion, Jerod walks you through how to maintain your software, including how to scan, track, and triage vulnerabilities.

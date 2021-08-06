@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Chiu Stone, Barron Stone
+Course_ID=2814041
+Course_System=linkedin.com
+Course_Title=Python Parallel and Concurrent Programming Part 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Parallel programming is key to writing faster and more efficient applications. This course, the second in a series from instructors Barron and Olivia Stone, introduces more advanced techniques for parallel and concurrent programming in Python. Barron and Olivia explain concepts like condition variables, semaphores, barriers, and thread pools in a fun and informative way, relating them to everyday activities you perform in the kitchen. They also explain how to evaluate your code’s performance and design more efficient parallel programs from the start with techniques like partitioning. To cement the ideas, they demo them in action using Python—closing the course with a variety of coding challenges. Each lesson is short and practical, driving home the theory with hands-on techniques.

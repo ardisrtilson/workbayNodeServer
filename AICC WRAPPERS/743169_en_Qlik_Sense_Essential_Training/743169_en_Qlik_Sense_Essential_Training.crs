@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=743169
+Course_System=linkedin.com
+Course_Title=Qlik Sense Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Qlik Sense is a cloud-based data analytics solution that helps businesses gain valuable insights into their data. In this course, learn how to analyze and display data using this powerful platform. Instructor Curt Frye shows how to install or connect to Qlik Sense, import and summarize data, create an app from a data source, and create and manage tables. He also steps through how to manage Qlik Sense sheets, which provide a canvas you can fill with data, charts, and other visualizations. Plus, learn how to create and manipulate a variety of data visualizations, from bar charts to histogram charts; create PivotTables and reports; sort and filter data; and combine your app's sheets with objects, text, and images to create a story that clearly conveys your message.

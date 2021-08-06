@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=376985
+Course_System=linkedin.com
+Course_Title=Excel 2016 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Start mastering Excel, the world's most popular and powerful spreadsheet program, with Excel expert Dennis Taylor. Learn how to best enter and organize data, perform calculations with simple functions, work with multiple worksheets, format the appearance of your data and cells, and build charts and PivotTables. Other lessons cover the powerful IF, VLOOKUP, and COUNTIF family of functions; the Goal Seek, Solver, and other data analysis tools; and automating tasks with macros.

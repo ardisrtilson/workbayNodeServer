@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=672258
+Course_System=linkedin.com
+Course_Title=Data Visualization in R with ggplot2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to create informative and visually appealing data visualizations using ggplot2, the leading visualization package for R. In this course, Mike Chapple shows how to work with ggplot2 to create basic visualizations, how to beautify those visualizations by applying different aesthetics, and how to visualize data with maps. Throughout the course, Mike also covers key concepts such as the grammar of graphics and how to apply different geometries to visualize data. To wrap up, he shares a case study that lends a practical context to the concepts covered in the course.

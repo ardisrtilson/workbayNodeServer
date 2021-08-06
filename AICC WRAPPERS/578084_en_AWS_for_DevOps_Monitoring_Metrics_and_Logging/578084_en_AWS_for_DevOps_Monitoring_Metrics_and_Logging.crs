@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=578084
+Course_System=linkedin.com
+Course_Title=AWS for DevOps: Monitoring, Metrics, and Logging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance your development operations by learning how to work with monitoring tools from Amazon for services and applications. In this course, Lynn Langit explains how to use practical and applicable tools, techniques, and strategies for instrumenting your production AWS applications. She shows how to use product consoles, such as EC2, S3, and RDS. She also discusses and demonstrates using services—such as CloudTrail, CloudFormation, and the newly-announced X-Ray—for monitoring, gathering key metrics, and logging your application's output. Plus, she covers AWS scripting tools, such as the AWS CLI. This course maps to the Monitoring, Metrics, and Logging domain from the AWS Certified DevOps Engineer – Professional exam.

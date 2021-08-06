@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Bryant
+Course_ID=784302
+Course_System=linkedin.com
+Course_Title=CCNP Troubleshooting (300-135) Cert Prep
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Exam 300-135 TSHOOT, Troubleshooting and Maintaining Cisco IP Networks exam—one of three required exams you must pass to earn the CCNP Routing and Switching certification—tests your ability to perform network troubleshooting and maintain complex enterprise routed and switched networks. In this course, CCNP test prep veteran Chris Bryant provides comprehensive coverage of the topics included in the 300-135 TSHOOT exam, helping you boost your troubleshooting skills along the way. Chris goes over everything from RSTP to BGP, covering complex OSPF configurations, VRF-lite, and much more. Throughout the course, Chris offers hands-on demos using real Cisco routers and switches, providing you with the practical knowledge you need to ace exam 300-135.

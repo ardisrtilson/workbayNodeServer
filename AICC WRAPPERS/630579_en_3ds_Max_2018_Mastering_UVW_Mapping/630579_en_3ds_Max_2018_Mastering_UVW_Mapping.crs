@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=630579
+Course_System=linkedin.com
+Course_Title=3ds Max 2018: Mastering UVW Mapping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+UVW mapping is a coordinate mapping technique that enables artists to project 2D textures onto the surfaces of 3D objects. It's a key skill for all areas of the 3D industry, including film, gaming, and visualization. This course helps designers map geometry in preparation for texturing, using the powerful UVW mapping feature set in 3ds Max 2018, including the UVW Map modifier, UVW Editor, and Blended Box Map. Instructor Joel Bradley explains what UVWs are, how they affect textures, and why they are needed. He also reviews the different mapping spaces that are available and how procedural maps are used in texturing. Then he progresses to the hands-on portion of the course, starting with mapping simple shapes and models with the UVW modifier. He also reviews advanced topics, such as unwrapping and editing UVs with the UVW Editor. Finally, he introduces blended box mapping, for when you need to get a model ready for texturing quickly.

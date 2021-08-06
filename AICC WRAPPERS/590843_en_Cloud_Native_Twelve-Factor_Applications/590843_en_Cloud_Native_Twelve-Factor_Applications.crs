@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=590843
+Course_System=linkedin.com
+Course_Title=Cloud Native Twelve-Factor Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The twelve-factors app is a methodology that allows for automation, continuous deployment, easy onboarding of new developers, and portability between execution environments. By leveraging this methodology when building modern web-based applications, you can also achieve straightforward deployment on numerous cloud platforms, and high scalability without the need to change tooling, architecture, or how your team works. It can be applied to apps written in any language and using any combination of backing services. In this course, join Frank Moley as he walks through the twelve factors that go into building agile, highly-scalable, and resilient web apps. As he discusses each factor, Frank explains exactly how they apply to cloud-native development, and shares key pointers for turning a legacy application into one that's twelve-factor compatible.

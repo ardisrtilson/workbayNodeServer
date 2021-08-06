@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2817029
+Course_System=linkedin.com
+Course_Title=Prototype a CRM Mobile Application with Framer X
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers and designers know that UI mockups have limits. Eventually an interactive prototype is needed to be able to more fully convey the interactions involved in a user’s experience. In this course, Emmanuel Henri shows how to create a prototype of a mobile app using Framer. He starts by showing how to set up a project, gather exported graphics, and import graphics into Framer X. Then he covers how to create each view, link the views, add interactive components, create form inputs, and even animate interactions. Finally, he demonstrates how to complete the prototype so you can deliver it to clients or stakeholders for review.

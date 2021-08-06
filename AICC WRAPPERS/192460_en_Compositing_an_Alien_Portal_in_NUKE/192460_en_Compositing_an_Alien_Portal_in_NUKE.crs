@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Wright
+Course_ID=192460
+Course_System=linkedin.com
+Course_Title=Compositing an Alien Portal in NUKE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Practice your NUKE compositing skills while you build something truly out of this world: an alien portal. In this project, VFX compositing guru Steve Wright uses footage shot with a RED camera, a CG-rendered character, and a matte painting—assets included with the exercise files. He composites the character into the scene, and then uses camera tracking to create a solve for laying in the portal and portal rays—effects created from scratch with NUKE's Noise node. Finally, he shows how to color correct the shot and add interactive lighting effects. Each step of the process is rich in valuable production techniques, but is best for artists who are already familiar with NUKE. For more training on the basics, see Nuke X Essential Training.

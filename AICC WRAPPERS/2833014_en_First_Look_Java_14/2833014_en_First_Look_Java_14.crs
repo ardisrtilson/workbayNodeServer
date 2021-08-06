@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2833014
+Course_System=linkedin.com
+Course_Title=First Look: Java 14
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how the release of Java 14 will affect how you write your code. This course provides a brief introduction to Java 14 and its new features, as well as the deprecated features announced in this release. Instructor Frank Moley focuses on the core additions in Java 14, including improved switch statements, records for class definition, more useful NullPointerExceptions, an OS-specific packaging tool in incubator, and various garbage collection changes. Plus, learn which features are being deprecated with this upgrade, so you can pinpoint potential roadblocks to adoption.

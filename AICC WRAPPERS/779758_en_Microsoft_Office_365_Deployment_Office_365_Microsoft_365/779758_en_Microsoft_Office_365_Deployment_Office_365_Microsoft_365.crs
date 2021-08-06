@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Elfassy
+Course_ID=779758
+Course_System=linkedin.com
+Course_Title=Microsoft Office 365: Deployment (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Office 365 is the future of Microsoft Office—a one-stop shop for all the familiar tools, plus email, real-time collaboration, and secure file storage. As more organizations move toward the cloud, being able to deploy Office 365 is a skill all network and system admins will need to know. This course details the process of moving your network to Office 365 by deploying a new Office 365 subscription. David Elfassy explores the different features and flavors of Office 365, and shows how to use the Admin Center to manage the basic setup and administration tasks. He covers creating user accounts, adding domains, and configuring email, directories, conferencing, file sharing, and valuable business services such as PowerShell and SharePoint. Follow along to learn how to deploy your own implementation of Office 365—or simply evaluate if this technology fits your enterprise needs.

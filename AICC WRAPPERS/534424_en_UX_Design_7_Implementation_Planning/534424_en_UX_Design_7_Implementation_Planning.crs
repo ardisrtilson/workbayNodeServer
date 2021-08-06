@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=534424
+Course_System=linkedin.com
+Course_Title=UX Design: 7 Implementation Planning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+User-centered design (UCD) artifacts aren't just for the visual aspect of design. In this final installment of UX Design Techniques—a series designed to teach you how to make your development process more user centered—learn how to use artifacts from each of the UCD techniques to help plan the implementation of your design. Implementation planning happens at the end of the initial UCD cycle. First, you observe users, and then you create an experience map to extract pain points, goals, and personas. This gives you the information needed to do ideation exercises. After ideation, bring things back to reality by creating scenarios, which you use to build a prototype UI for planning purposes. By investing time in these UCD activities, you'll enter the development phase of your project with a much better understanding of what you need to build to delight your users. Having a set of measurable goals and a prototype interface makes it easier to plan your implementation and set interim deliverables that you know will deliver value to your users.

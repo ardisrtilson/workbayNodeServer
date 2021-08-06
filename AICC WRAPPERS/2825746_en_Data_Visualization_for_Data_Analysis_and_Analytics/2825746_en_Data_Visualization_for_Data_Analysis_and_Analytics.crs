@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Shander
+Course_ID=2825746
+Course_System=linkedin.com
+Course_Title=Data Visualization for Data Analysis and Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a data analyst, you probably already know how to build visualizations and use tools like Excel and Tableau. This course challenges you to go beyond the data, beyond the software, and start thinking more clearly and strategically about the foundations of great communication design. Bill Shander, founder of Beehive Media, focuses on the key challenges that analysts face trying to communicate complex information, and how visual communication can help. He breaks down ten key components of great data visualizations—built in any program—and shows innovative ways of rethinking the slides, charts, diagrams, and dashboards you work with every day.

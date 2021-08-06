@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=5010659
+Course_System=linkedin.com
+Course_Title=Microsoft SQL Server 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Master the fundamentals of SQL Server 2019, the industry-leading database management platform from Microsoft. In this course, instructor Adam Wilbert equips beginners with the core skills they need to create and manage SQL Server databases. Adam begins with the basics, showing how to install SQL Server and log into a local database server. He then discusses how to create new databases, design tables, define relationships, write queries, and use stored procedures and built-in functions. Plus, he demonstrates how to perform crucial database administration tasks, such as backups and restores, security enhancements, and performance monitoring.

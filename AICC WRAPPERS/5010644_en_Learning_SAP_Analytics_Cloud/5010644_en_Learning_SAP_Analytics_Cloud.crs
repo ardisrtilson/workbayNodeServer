@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joshua Rischin
+Course_ID=5010644
+Course_System=linkedin.com
+Course_Title=Learning SAP Analytics Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enterprises need ways to harness data to improve organizational outcomes, and ultimately to improve the quality of their products and services. SAP Analytics Cloud, part of the SAP Business Intelligence suite, allows you to analyze data from any industry-standard data source to make more data-driven, evidence-based decisions. In this course, you can learn how to use the Analytics Cloud to generate reports and look for data insights that can help your organization. Instructor Joshua Rischin explains how to create and manage data models, build reports and dashboards, and enhance your analysis with the artificial intelligence (AI) and machine learning features in SAP Analytics Cloud. No matter what kind of data you need to analyze—pricing or sales data, custom customer information, or inventory—SAP Analytics Cloud can help you turn your data into clear and actionable insights.

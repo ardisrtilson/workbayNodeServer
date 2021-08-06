@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dustin Manning
+Course_ID=664815
+Course_System=linkedin.com
+Course_Title=Learning FARO: Laser Scanning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Laser scanning is a high-precision method of reality capture. By sending laser beams toward a target area, observing the reflected beam, and performing intricate calculations, the FARO Focus laser scanner can construct a data set that represents the target in three dimensions. This course teaches you about the operation of the scanner and explains how to use the FARO scan-editing software, FARO SCENE, to turn the data set into an 3D object you can manipulate in a CAD program. Join instructor Dustin Manning as he takes you on a hands-on tour of this powerful technology. Learn how to create accurate 3D scans in indoor and outdoor scenarios, import them into SCENE, and adjust and export your project for use in other designs.

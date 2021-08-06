@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=709845
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: HTTP Services (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+HTTP services enable the web to function. Consequently, it's important that Linux administrators understand how these services work. This intermediate course covers the basics of HTTP services with Apache on Ubuntu. Learn what a web server needs to make a site accessible to others, how to install the Apache HTTP server, and how to make configuration changes to customize how it works. Discover how to add encryption to ensure that your website remains secure. Plus, learn about logging, how to enable and disable modules, and more. This course can prepare you for the HTTP services section of the Linux Foundation Certified Engineer (LFCE) exam.

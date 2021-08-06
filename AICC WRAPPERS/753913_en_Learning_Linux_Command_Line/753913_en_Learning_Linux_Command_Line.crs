@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=753913
+Course_System=linkedin.com
+Course_Title=Learning Linux Command Line
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Knowledge of the Linux command line is critical for anyone who uses this open-source operating system. For many tasks, it's more efficient and flexible than a graphical environment. For administrators, it plays a vital role in configuring permissions and working with files. In this course, experienced instructor Scott Simpson discusses the basics of working with the Linux command line using the Bash shell, focusing on practical Linux commands with examples that help you navigate through the file and folder structure, edit text, and set permissions. Scott also discusses some of the common command-line tools, such as grep, awk, and sed, and command-line apps such as the nano and Vim text editors. The course wraps up with a look at how to install and update software with a package manager.

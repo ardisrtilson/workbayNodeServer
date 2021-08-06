@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=622066
+Course_System=linkedin.com
+Course_Title=AutoCAD: Construction Drawings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD is a world leader in computer-aided design (CAD), and users around the world use this powerful software to communicate their design intent in many different disciplines. In this course, Shaun Bryant takes you through how to work with AutoCAD to create construction drawings that accurately communicate your design intent. Shaun explains how to use the tools and features within AutoCAD to develop drawings that clearly express the sizes of the objects you want to build. He covers how to develop a title block, set up attributes, set up layers to industry standards, develop plans and elevations, set up viewports, and more.

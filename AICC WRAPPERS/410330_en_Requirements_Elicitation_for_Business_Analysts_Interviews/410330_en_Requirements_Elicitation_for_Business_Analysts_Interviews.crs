@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Angela Wick
+Course_ID=410330
+Course_System=linkedin.com
+Course_Title=Requirements Elicitation for Business Analysts: Interviews
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interviews can be an effective component in identifying requirements during project planning, and help business analysts and project managers understand the project from the user's point of view. This course covers interview techniques that can help build relationships with project stakeholders and obtain accurate information about project needs. Author Angela Wick helps you identify when to use interviews, who to interview, and how to plan, conduct, and follow up on interviews.

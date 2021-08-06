@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2841395
+Course_System=linkedin.com
+Course_Title=Excel VBA: Managing Files and Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Automate complex tasks and get more meaningful insights from data in Excel using Visual Basic for Applications (VBA) code. This course demonstrates how to work more efficiently in this powerful and popular spreadsheet program. Curt Frye shows how to focus in on important data, with filters; manage workbooks and worksheets; access built-in functions; create charts; build UserForm interfaces for data entry; and manage PivotTables using Excel VBA.

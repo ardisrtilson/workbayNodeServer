@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Anthony
+Course_ID=587668
+Course_System=linkedin.com
+Course_Title=JIRA Software: Advanced Administration (2017)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bolster your JIRA administration skills by diving into some advanced topics. In this course, JIRA trainer Robert Anthony pulls back the curtain on some of the most advanced administration topics within JIRA to provide you with the precise information you need to successfully administer JIRA software. Robert covers how to configure and edit custom fields, create new screens, and edit field configuration schemes. Plus, he explores advanced workflow creation and notifications. After completing this course, you'll have a better understanding of how to leverage the tools and features in JIRA to improve efficiency and transparency in your instance.

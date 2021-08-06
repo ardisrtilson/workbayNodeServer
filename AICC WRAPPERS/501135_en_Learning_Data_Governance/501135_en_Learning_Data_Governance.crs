@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=501135
+Course_System=linkedin.com
+Course_Title=Learning Data Governance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the era of big data and data science, most businesses and institutions realize the power of data. Yet far too many fail to appreciate the legal and fiscal responsibilities and liabilities associated with it. The stakes are high, but a well-rounded data governance process can help ensure the consistent quality, availability, integrity, and usability of your data. Here Dr. Jonathan Reichental explains how to begin to implement a data governance program within any organization. Learn the components of data governance, its strategic value, the roles and responsibilities of stakeholders, and the overall steps that an organization needs to take to manage, monitor, and measure the program. Plus, get guidance on a set of next steps for building skills. As the data science domain grows, so does the demand for data governance expertise. Start here for your first look at this in-demand skill.

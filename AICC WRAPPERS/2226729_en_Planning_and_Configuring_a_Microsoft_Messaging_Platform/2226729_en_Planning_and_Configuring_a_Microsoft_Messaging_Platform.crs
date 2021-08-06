@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2226729
+Course_System=linkedin.com
+Course_Title=Planning and Configuring a Microsoft Messaging Platform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover what it takes to plan, configure, deploy, and manage messaging platforms for modern organizations. Throughout this course, instructor Robert McMillen provides demonstrations using Exchange Server 2019, PowerShell, and Microsoft 365 messaging services. Learn how to manage a modern messaging infrastructure, including how to plan mailbox database requirements, create and troubleshoot mailbox databases, and create a backup and recovery strategy. Plus, review how to manage mail flow topology—such as how to plan the transport pipeline—as well as how to manage mailboxes, groups, mobile device mailbox policies, and more. Planning to take the Microsoft 365 Messaging exam (MS-203)? This course can also help you master the skills needed to ace the test.

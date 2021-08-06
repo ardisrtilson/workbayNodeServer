@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2885064
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 3 Testing Web and Mobile
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Test Automation with Python series focuses on using Selenium for web browser automation, but it’s not the only tool out there. This third course in the series starts with a quick look at several other free and open-source web browser automation tools that exist, and then explains why Selenium is the pick for this series. Likewise, there are dozens of open-source tools for automating your mobile testing, and this course explains why Appium is the choice here. After this course, you’ll have a solid foundation on the history and development of both Selenium and Appium and how they fit into the modern development workflow, along with their uses and how you can integrate them into your project. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

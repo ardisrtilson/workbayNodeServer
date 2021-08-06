@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Lowery
+Course_ID=101071
+Course_System=linkedin.com
+Course_Title=Responsive Design with Dreamweaver CS6
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course illustrates two approaches to responsive web design, the new Fluid Grid Layout feature and media queries, which allow a wide spectrum of designers to reach their target audience via desktops, tablets, or other mobile devices. Author Joseph Lowery shows how to use the Fluid Grid Layout feature in Dreamweaver to create a single web site that delivers different layouts to targeted screen sizes. The course also offers a more advanced approach to responsive design by using media queries—employing the Multiscreen Preview feature and enhancing the resulting output code—as well as methods for handling mobile first priorities and adaptive images.

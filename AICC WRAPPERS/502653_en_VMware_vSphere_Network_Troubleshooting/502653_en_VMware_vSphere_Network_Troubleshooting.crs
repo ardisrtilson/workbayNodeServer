@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Neill
+Course_ID=502653
+Course_System=linkedin.com
+Course_Title=VMware vSphere: Network Troubleshooting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Being able to perform basic troubleshooting on a vSphere environment is a key skill for any network admin. In this course, Brandon Neill looks at some of the troubleshooting skills necessary for a clean vSphere environment. The first chapter is an introduction to the troubleshooting process: defining the problem, scoping, seeking expert advice, and resolving the problem. In chapter 2, Brandon demos some of the tools and techniques for vSphere troubleshooting, including analyzing with esxtop and vsish, capturing packets, and searching log files. Next, learn about VMkernel routing, and troubleshooting VMkernel network issues. In the final chapters, Brandon explains how to troubleshoot VM networking and provide two hands-on demonstrations of the concepts covered in the course.

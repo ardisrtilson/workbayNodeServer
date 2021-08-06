@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Shostack
+Course_ID=2822207
+Course_System=linkedin.com
+Course_Title=Threat Modeling: Repudiation in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Repudiation—the third stage in the STRIDE threat modeling framework—involves the acceptance or denial of responsibility. In the case of identity theft, repudiation comes into play when victims deny involvement with the charges racked up by the criminal. These threats impact all sorts of systems, and security professionals and developers need to understand how they work, and how they can ensure that their systems offer defenses that accurately indicate responsibility. In this installment of his Threat Modeling series, Adam Shostack takes a deep dive into the subject of repudiation. Using practical examples, Adam covers the issues of fraud, identity theft, attacks on logs, and repudiation in specific technologies such as blockchain and the cloud.

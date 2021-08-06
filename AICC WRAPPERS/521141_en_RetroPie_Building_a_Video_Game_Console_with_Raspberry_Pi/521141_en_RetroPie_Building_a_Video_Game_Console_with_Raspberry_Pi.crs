@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brad Wheeler
+Course_ID=521141
+Course_System=linkedin.com
+Course_Title=RetroPie: Building a Video Game Console with Raspberry Pi
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For fans of retro video games, having the ability to play all the classics on one machine is ideal. If you own a Raspberry Pi—and get a kick out of a good DIY challenge— you can make this a reality by using the open-source RetroPie software to turn your Raspberry Pi into a highly capable, retro game console. In this course, discover how to install and set up RetroPie, load and play games, configure game-specific settings, and run your games with a variety of USB controllers. Plus, learn how to control the action by building classic joysticks and arcade buttons.

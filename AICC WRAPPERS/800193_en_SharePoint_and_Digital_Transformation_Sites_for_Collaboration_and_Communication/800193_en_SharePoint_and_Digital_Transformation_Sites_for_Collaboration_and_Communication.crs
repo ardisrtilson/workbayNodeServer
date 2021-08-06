@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=800193
+Course_System=linkedin.com
+Course_Title=SharePoint and Digital Transformation: Sites for Collaboration and Communication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In contrast with the classic team sites, modern SharePoint sites offer users the ability to create either collaboration or communication sites. In this course, learn the difference between the two, how to determine whether a collaboration or communication SharePoint site is best for your situation, and how to build both of these modern sites. Instructor Gini von Courter begins by discussing how to create and modify modern SharePoint sites, including how to customize the site theme and add web parts. She then steps through how to plan and create both communication sites and team sites.

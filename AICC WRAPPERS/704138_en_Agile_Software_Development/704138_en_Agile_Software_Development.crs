@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shashi Shekhar
+Course_ID=704138
+Course_System=linkedin.com
+Course_Title=Agile Software Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The agile approach—which emphasizes continuous delivery and improvement, collaboration, and openness to change—can help professionals enhance both their productivity and the quality of their final products. In this course, learn the fundamentals of agile for software developers, as well as why this approach is uniquely suited for software engineering. Instructor Shashi Shekhar discusses key principles of the agile approach from the perspective of developers. He then reviews scrum—a hugely popular agile framework—and discusses scrum principles, roles, and events. He also looks at how you can complement your scrum implementation with Kanban; takes a deep dive into extreme programming (XP); and shares how you can apply XP to be more effective and efficient in a development team. Throughout this course, Shashi shares practical examples that can help reinforce the concepts covered in this course.

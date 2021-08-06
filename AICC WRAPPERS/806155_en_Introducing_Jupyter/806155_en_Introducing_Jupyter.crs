@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh McQuiston
+Course_ID=806155
+Course_System=linkedin.com
+Course_Title=Introducing Jupyter
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Present your projects like a pro with a new tool, Jupyter Notebook. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, charts and graphics, and descriptive text. It’s ideal for machine learning, statistical modeling, and other projects that require analysis and visualization. Join instructor Josh McQuiston as he shows how to run Jupyter notebooks, streamline workflows, and use common graphs to visualize your data in uncommon ways. The lessons are illustrated with examples based in real data, so you get an accurate picture of the real-world impact Jupyter can make on your development projects.

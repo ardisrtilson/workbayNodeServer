@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2873356
+Course_System=linkedin.com
+Course_Title=Understanding Edge Computing in a Cloud Computing World
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In recent years, computation and data storage has been moving out to the edge, meaning devices and servers are located closest to the source of the data. Edge computing has been essential in reducing latency in IoT devices, such as those in cars, planes, homes, and even on your wrist. However, there is much confusion around how edge computing is created, secured, and operated. In this course, David Linthicum takes the mystery out of the concept of edge computing, including how edge systems are designed, built, deployed, and maintained. David covers key facets of edge computing, from explaining the basic concepts and its uses, to the different components of an edge computing system, and details the state-of-the-art edge technology that can be employed today to build future-proof, edge-based computing systems and infrastructure.

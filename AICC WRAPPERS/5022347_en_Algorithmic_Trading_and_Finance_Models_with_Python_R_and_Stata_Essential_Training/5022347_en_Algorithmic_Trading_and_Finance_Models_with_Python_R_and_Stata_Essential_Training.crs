@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael McDonald
+Course_ID=5022347
+Course_System=linkedin.com
+Course_Title=Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Business intelligence is one of the fastest growing areas of business, especially for financial investing. This project-based course focuses on using different types of software to build models (algorithms) that can trade stocks and other financial products. Michael McDonald shows how you can use Excel, Python, R, or Stata, to set up quantitative, testable investment rules so that you can make informed trading decisions. First, he explains what algo trading is and how it works. Next, he discusses how to develop an algo trading strategy and shares tips for how to identify opportunities in various markets. Then, he goes through an in-depth exploration of how to leverage existing software tools. Michael also covers stock trading, bond trading, data analysis, regressions, and more. Note: Prior to watching this course, it is recommended that you watch the course Algorithmic Trading and Stocks Essential Training.

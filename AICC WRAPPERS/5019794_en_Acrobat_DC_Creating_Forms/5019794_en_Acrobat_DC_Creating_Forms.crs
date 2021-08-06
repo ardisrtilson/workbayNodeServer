@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Garrick Chow
+Course_ID=5019794
+Course_System=linkedin.com
+Course_Title=Acrobat DC: Creating Forms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to take static PDF documents and turn them into interactive forms with Acrobat DC. Garrick Chow shows how to add a variety of interactive form fields—everything from text and check boxes to radio buttons and list boxes—and how to trigger actions with buttons. He also explores how to automate form creation with the Form Wizard, perform calculations, and work with signatures, including how to verify signatures on documents you receive. To wrap up, he covers how to distribute forms and use the data gathered from forms.

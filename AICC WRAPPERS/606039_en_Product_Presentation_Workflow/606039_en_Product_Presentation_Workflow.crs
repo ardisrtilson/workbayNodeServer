@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zaheer Mukhtar
+Course_ID=606039
+Course_System=linkedin.com
+Course_Title=Product Presentation Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore a complete process for creating a stylish product presentation. In this course, Zaheer Mukhtar walks through a product presentation workflow, demonstrating how to tackle modeling, create lights and materials, and composite render passes. He begins by showing how to quickly model your scene assets. He then shows how to create realistic materials and textures for the different models, set up V-Ray renderer, make further adjustments to the lights, set up render passes, and composite your renders in Adobe Photoshop. Plus, he shows how to add details to your renders to make them more visually interesting, and color correct objects.

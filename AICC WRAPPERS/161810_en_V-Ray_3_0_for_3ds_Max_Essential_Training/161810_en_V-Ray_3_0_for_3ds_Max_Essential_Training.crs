@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=161810
+Course_System=linkedin.com
+Course_Title=V-Ray 3.0 for 3ds Max Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Master features of the V-Ray 3.0 rendering engine and learn how to extend the range of 3ds Max with state-of-the-art V-Ray tools, such as progressive sampling, skin and hair shaders, and stereoscopic 3D rendering. This course covers critical V-Ray concepts such as basic material creation, image sampling, color mapping, subdivs, and lighting, as well as creating in-camera effects such as depth of field, motion blur, and caustics. Author and 3D expert Brian Bradley will help you add amazing and lifelike materials and effects to your 3D models with this powerful plugin.

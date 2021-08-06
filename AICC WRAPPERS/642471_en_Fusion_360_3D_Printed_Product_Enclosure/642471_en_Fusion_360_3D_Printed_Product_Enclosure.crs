@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Vladimir Mariano
+Course_ID=642471
+Course_System=linkedin.com
+Course_Title=Fusion 360: 3D Printed Product Enclosure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design product enclosures using Autodesk Fusion 360. This course takes you through a project involving an enclosure of an electronic device so you can follow along and practice modelling. First, setup steps are covered, including tips related to designing for additive manufacturing, obtaining product measurements, and securing connections. Then, see how to insert various parts into an enclosure and position the variety of components. Next, find out how to model the base of an enclose, modify the constraints, and model a cover. Finally, discover how to check the fit of the model and prepare it for 3D printing.

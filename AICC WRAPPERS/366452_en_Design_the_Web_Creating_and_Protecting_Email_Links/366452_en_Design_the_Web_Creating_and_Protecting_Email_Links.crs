@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=366452
+Course_System=linkedin.com
+Course_Title=Design the Web: Creating and Protecting Email Links
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to share your email address on the web, but don't want your inbox filling up with spam? Learn to hide email addresses from spiders and bots, with these smart solutions from web developer Chris Converse. He'll show you CSS-only options and techniques for reversing and encoding text, as well as advanced JavaScript-based solutions. The exercise files for this course are free to all lynda.com members, so download them now and get started learning how to hide your email addresses from web crawlers.

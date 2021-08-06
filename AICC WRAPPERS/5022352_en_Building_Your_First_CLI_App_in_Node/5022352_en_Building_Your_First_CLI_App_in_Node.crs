@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Naomi Freeman
+Course_ID=5022352
+Course_System=linkedin.com
+Course_Title=Building Your First CLI App in Node
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Put your Node.js skills to practical use by building a CLI App in Node.js. Many software developers, system administrators, and other advanced users frequently use command-line interfaces (CLIs) to perform tasks more efficiently, configure their machine, or access programs and features not typically available through the more popular graphical interfaces. If you’re looking for a good course to build your Node skills or you've ever been curious about what it takes to develop an app or tool in the CLI, then this course is for you. Join Naomi Freeman as she demonstrates how to build a command-line developer tool in Node.js that automates a few key Git commands. Discover how to leverage the Node.js and npm ecosystem of packages and modules to connect to the GitHub RESTful API with Ocktokit.

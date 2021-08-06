@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Jenkins
+Course_ID=5010652
+Course_System=linkedin.com
+Course_Title=Continuous Integration: Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Continuous integration and continuous delivery (CI/CD) practices enable developers to reliably produce applications at a faster rate—and enhance team collaboration in the process. As CI/CD grew to become a key DevOps practice area, new CI/CD tools began proliferating throughout the industry. Curious about which tools are right for your team? In this course, Michael Jenkins digs into a variety of CI/CD tools in several different categories, highlighting the pros and cons of each one. Learn about self-hosted options such as Jenkins and Bamboo, SaaS tools, and options from cloud service providers and code repositories.

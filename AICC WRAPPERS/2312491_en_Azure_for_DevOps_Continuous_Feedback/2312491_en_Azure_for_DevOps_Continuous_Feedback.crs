@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Vishwas Lele
+Course_ID=2312491
+Course_System=linkedin.com
+Course_Title=Azure for DevOps: Continuous Feedback
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Feedback loops help ensure that new features are built correctly—without negatively impacting existing features. In this course, explore the topic of continuous feedback, an important part of DevOps culture and a key domain in the Designing and Implementing Microsoft DevOps Solutions exam (AZ-400). Find out how to implement various components of continuous feedback: designing its mechanisms, routing it to development, and optimizing feedback mechanisms. Learn about essential features of Azure tools, including Azure Monitor, which you can use to maximize the availability and performance of your applications. Azure DevOps engineers can use this course to prepare for the AZ-400 certification exam.

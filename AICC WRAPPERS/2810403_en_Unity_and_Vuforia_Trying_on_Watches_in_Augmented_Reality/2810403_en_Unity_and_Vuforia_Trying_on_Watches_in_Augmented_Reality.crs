@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Parth Anand
+Course_ID=2810403
+Course_System=linkedin.com
+Course_Title=Unity and Vuforia: Trying on Watches in Augmented Reality
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Augmented reality (AR) has opened up a world of shopping experience possibilities, helping people try before they buy. Join instructor Parth Anand as he walks you through the steps to create an augmented reality app that lets shoppers preview a virtual 3D watch models on their wrist—using their phone—and quickly swap between colors, faces, and straps. Explore how to add reflections, metallic effects, and occlusion to make the watches more realistic, and how to make watch bands interchangeable. Learn how to import watch models and set up targets, creating a paper marker the shopper can place on their wrist that the app will track for placement. Parth also covers how to create buttons and components for the app user interface.

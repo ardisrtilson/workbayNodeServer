@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Block
+Course_ID=490509
+Course_System=linkedin.com
+Course_Title=Learning REAPER 5
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with REAPER, the lightweight and flexible DAW for Windows and OS X. Sound designer Brian Block demonstrates all the major features of the software and prepares you to use them on real-world projects—multitrack recording, audio editing, effects processing, and mixing and mastering. First, get comfortable with the most important parts of the REAPER interface. Brian then dives into recording a brand-new project, demonstrating the record modes, input settings, and auto-punch features. Next, he discusses editing techniques, such as trimming, ripple editing, creating fades, and looping. Finally, he looks at REAPER's mixing features, including applying effects, using folders to create submixes, adding automation, mixing down the final track, and exporting.

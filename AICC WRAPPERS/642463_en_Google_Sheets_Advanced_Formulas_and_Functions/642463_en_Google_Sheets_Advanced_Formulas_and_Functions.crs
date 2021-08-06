@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=642463
+Course_System=linkedin.com
+Course_Title=Google Sheets: Advanced Formulas and Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many beginning and intermediate Google Sheets users are familiar with basic functions and formulas, but have no experience with the more advanced calculations the program offers. In this course, Curt Frye walks through the intermediate and advanced functions for summarizing data, performing statistics, analyzing financial data, and more. Learn how to use references and named ranges; apply mathematical functions to multiply, round, and count values; identify outliers and rank values; calculate investments and loan payments; determine dates and times; look up values based on multiple criteria; and summarize arrays of data.

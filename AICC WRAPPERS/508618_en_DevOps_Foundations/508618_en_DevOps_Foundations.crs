@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett, Ernest Mueller
+Course_ID=508618
+Course_System=linkedin.com
+Course_Title=DevOps Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DevOps is not a framework or a workflow. It's a culture that is overtaking the business world. DevOps ensures collaboration and communication between software engineers (Dev) and IT operations (Ops). With DevOps, changes make it to production faster. Resources are easier to share. And large-scale systems are easier to manage and maintain. In this course, well-known DevOps practitioners Ernest Mueller and James Wickett provide an overview of the DevOps movement, focusing on the core value of CAMS (culture, automation, measurement, and sharing). They cover the various methodologies and tools an organization can adopt to transition into DevOps, looking at both agile and lean project management principles and how old-school principles like ITIL, ITSM, and SDLC fit within DevOps. The course concludes with a discussion of the three main tenants of DevOps—infrastructure automation, continuous delivery, and reliability engineering—as well as some additional resources and a brief look into what the future holds as organizations transition from the cloud to serverless architectures.

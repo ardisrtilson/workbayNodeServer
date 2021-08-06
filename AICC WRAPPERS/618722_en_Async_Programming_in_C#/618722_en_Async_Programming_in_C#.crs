@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anton Delsink
+Course_ID=618722
+Course_System=linkedin.com
+Course_Title=Async Programming in C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to improve the scalability and performance of your applications using asynchronous programming in C#. In this course, join Anton Delsink as he explores different options for parallelizing your code, and shows how asynchronous programming is done with C#. Anton covers key concepts, including unit tests, delegates, lambdas, and anonymous methods. He also covers multithreading, async keywords, tasks, and more.

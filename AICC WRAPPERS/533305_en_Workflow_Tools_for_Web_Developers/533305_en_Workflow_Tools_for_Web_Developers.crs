@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christina Truong
+Course_ID=533305
+Course_System=linkedin.com
+Course_Title=Workflow Tools for Web Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web developers don't have to do everything by hand. There are many tools and frameworks that can make your workflow more productive and efficient—helping you code faster and cleaner than before. Christina Truong introduces browser tools for analyzing and testing your code; text editors that help you write it; and shortcuts and tools for automating repetitive web dev tasks. Plus, learn how version control systems like Git actually help save you time, in addition to saving you from mistakes. Get an overview of the pros and cons of each tool as well as examples, tips, and guidance for evaluating which ones will work best for you.

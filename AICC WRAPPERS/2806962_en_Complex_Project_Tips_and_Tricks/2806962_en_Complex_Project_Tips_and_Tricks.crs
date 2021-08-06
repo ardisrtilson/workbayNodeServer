@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sam Yankelevitch
+Course_ID=2806962
+Course_System=linkedin.com
+Course_Title=Complex Project Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Project complexity can become critical when remote or multinational teams have to work together without knowing each other. When hidden risk factors associated with interdependent systems and teams are not taken seriously, problems occur that cannot be solved by technology alone. This case study provides a combination of communication problems, multicultural issues, and technology challenges based on a real case study. In addition, it provides valuable lessons that can help teams avoid similar costly results.

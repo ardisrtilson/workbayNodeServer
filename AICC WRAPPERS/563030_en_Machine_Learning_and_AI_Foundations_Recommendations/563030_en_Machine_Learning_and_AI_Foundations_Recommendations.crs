@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Geitgey
+Course_ID=563030
+Course_System=linkedin.com
+Course_Title=Machine Learning and AI Foundations: Recommendations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This project-based course shows programmers of all skill levels how to use machine learning to build programs that can make recommendations. In this course, Adam Geitgey walks you through a hands-on lab building a recommendation system that is able to suggest similar products to customers based on past products they have reviewed or purchased. The system can also identify which products are similar to each other. Recommendation systems are a key part of almost every modern consumer website. The systems help drive customer interaction and sales by helping customers discover products and services they might not ever find themselves. The course uses the free, open source tools Python 3.5, pandas, and numpy. By the end of the course, you'll be equipped to use machine learning yourself to solve recommendation problems. What you learn can then be directly applied to your own projects.

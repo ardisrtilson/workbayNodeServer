@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Barkin
+Course_ID=746311
+Course_System=linkedin.com
+Course_Title=Introducing Robotic Process Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Robotic process automation—software-based robotics that emulate work that people do—is poised to change the way we work. Using this exciting technology, organizations can digitize and transform an array of business processes and functions. In this course, instructor Ian Barkin takes a deep dive into RPA, explaining what it is, what it's not, and what to keep in mind when adopting it in your organization. Here, Ian shares information that can help a variety of stakeholders—from executives to IT professionals—grasp the key benefits of RPA, as well as best practices that can help their organization succeed at both the process and enterprise levels. Plus, he lends a real-world context to the concepts covered in this course by providing examples from global companies that are implementing RPA.

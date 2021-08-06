@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Marjieh
+Course_ID=718631
+Course_System=linkedin.com
+Course_Title=Siemens NX: Surfacing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up to speed fast with the surfacing capabilities in Siemens NX. Surfaces allow designers to render complex, unique shapes quickly. Siemens NX is one of the most efficient tools for the job. Learn all the basic surface creation tools in this high-end CAD program: reference curves and extruded surfaces, as well as offset, sweep, and fill operations. Learn how to join, split, and trim surfaces, and how to inspect the surfaces you create with the NX analysis tools. By the end of the training course, you will be able to use the surfacing tools of this robust program to build accurate models of a wide variety of products and parts, including those with irregular, freeform shapes.

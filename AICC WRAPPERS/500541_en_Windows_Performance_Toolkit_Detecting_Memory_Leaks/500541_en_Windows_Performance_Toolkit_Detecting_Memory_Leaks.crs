@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=500541
+Course_System=linkedin.com
+Course_Title=Windows Performance Toolkit: Detecting Memory Leaks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Diagnosing application performance problems on a PC can feel like you have to be one part detective and one part psychic. Your application may compile and run fine—until boom, it crashes. These crashes are usually caused by memory leaks: poorly managed resource allocations in the application. Luckily, with Windows Performance Toolkit, you can locate and correct problems such as memory leaks quickly and efficiently. Thomas Pantels, former application engineer at Intel, shows how to analyze and optimize applications with memory leaks using Windows Performance Recorder (WPR) and Windows Performance Analyzer (WPA). He drills into an OpenCV application developed in C++, walks through the source code, and fixes the leak, providing a thorough overview of Windows Performance Toolkit in action and practical techniques that will help your applications make better use of system resources.

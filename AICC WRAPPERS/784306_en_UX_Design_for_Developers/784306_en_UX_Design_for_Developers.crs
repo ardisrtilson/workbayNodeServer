@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Billy Hollis
+Course_ID=784306
+Course_System=linkedin.com
+Course_Title=UX Design for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in adding UX design to your professional tool kit? In this course, Billy Hollis provides developers with an entry point to the principles and process of UX design for typical business apps. Billy begins by going over the state of business applications today, as well as what a well-designed business app looks like. Next, he digs into design principles, discussing how to leverage the human visual system to help users intuitively see what they need. He also goes over the visual and cognitive problems with crowded screens, presenting alternatives that can help you deal with cluttered interfaces. Plus, learn how to refine your ideas using storyboarding. Upon wrapping up this course, you'll be ready to start creating your own intuitive, elegant UX designs that delight users.

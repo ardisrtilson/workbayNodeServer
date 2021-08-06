@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emilio Melo
+Course_ID=2857068
+Course_System=linkedin.com
+Course_Title=Exam Tips: Microsoft Azure AI Fundamentals (AI-900)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Artificial intelligence is no longer science fiction. AI technologies are available right now, making formerly impossible endeavors feasible. In this course, learn about the features of Microsoft Azure AI and get an overview of the concepts covered in the AI-900 certification exam. Explore AI, machine learning, and data science. Emilio Melo discusses cognitive services, computer vision image analysis, natural language processing (NLP), speech APIs, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Sara Anstey, Lacey Westphal, Sam Cvetkovski, Alfonso Berumen, Louis Tremblay
+Course_ID=2859039
+Course_System=linkedin.com
+Course_Title=A Day In The Life of a Data Scientist
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The best way to understand what it's actually like to work as a data scientist is to spend the day with one. In this course, you can follow along with one day in the life of real data scientists working on real projects. Explore exactly what data science work looks like—getting on-the-job insights to help prepare you to tackle the next challenge or choose your next data science role. Discover how working professionals handle time management, starting from the very first hour of the workday, and tackle major tasks, such as exploring the data, mitigating bias, and presenting their findings. Another thing that separates pros from the rest is process and in chapter three, you can see how data scientists build automation, cross-functional collaboration, and other techniques into their workflows. Plus, learn how to choose and use tools, structure and work well in teams, and serve your clients. This course was created by Madecraft. We are pleased to host this content in our library.

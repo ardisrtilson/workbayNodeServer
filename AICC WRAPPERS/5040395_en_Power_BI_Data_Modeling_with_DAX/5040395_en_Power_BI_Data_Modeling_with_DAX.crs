@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=5040395
+Course_System=linkedin.com
+Course_Title=Power BI Data Modeling with DAX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power BI Desktop makes it easy to create basic data models. But if you need to report across time periods—for example, visualize year-over-year growth or compare sales or other data by month or quarter—you need Data Analysis Expressions (DAX). DAX is a language you can use to create formulas for Power BI that extend your data model. In this course, Gini von Courter covers the essentials of working with DAX, sharing best practices for data model design and optimization along the way. Learn how to work with DAX aggregate functions, add calculated columns, create measures, and work with DAX logical and filter functions.

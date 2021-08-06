@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=689769
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Installation and Maintenance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Before you can begin to use SOLIDWORKS, you need to set it up correctly. This course shows how to install SOLIDWORKS Standalone—a single user license on a local machine—as well as a SOLIDWORKS Network License. Instructor David Antanavige explains the critical differences between the two licenses and demonstrates how to perform important maintenance tasks, such as updating SOLIDWORKS, backing up your settings, and configuring locations to store templates and design libraries. He also shows how to install a Home Use License (HUL) and other SOLIDWORKS software, such as SOLIDWORKS PDM, DraftSight, and helpful add-ins. Plus, learn about the options available for transferring licenses between users.

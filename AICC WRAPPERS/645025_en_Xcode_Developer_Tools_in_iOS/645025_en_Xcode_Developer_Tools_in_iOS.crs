@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Bott
+Course_ID=645025
+Course_System=linkedin.com
+Course_Title=Xcode Developer Tools in iOS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bugs and performance issues inevitably come up during coding. Xcode 9 has some great new tools for finding and fixing these issues. In this course, learn how to leverage the new Xcode developer tools to enhance your debugging workflow. First, learn what's new in Xcode 9, including refactoring tools like fix-its, wireless debugging, GitHub integration, and multiple concurrent simulators. Instructor Jon Bott also covers auditing your app for accessibility, determining the location of memory issues, and troubleshooting performance issues with threads. Plus, he explains how to debug view hierarchies to solve UI issues during runtime, and how to discover memory leaks.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2366896
+Course_System=linkedin.com
+Course_Title=AWS: Controlling Cost
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Amazon Web Services (AWS) tools and best practices to understand, forecast, and control service costs. This course covers core AWS tools, such as CloudWatch billing alarms, consolidated billing with AWS Organizations, and the AWS billing dashboard tools. Instructor Lynn Langit shows how to control costs through key services, such as EC2, S3, RDS, and more. She also reviews architectural decisions related to cost control drawn from her own professional experiences.

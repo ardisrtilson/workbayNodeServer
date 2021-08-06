@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kyle Gower-Winter
+Course_ID=553473
+Course_System=linkedin.com
+Course_Title=Learning GWT
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Web Toolkit (GWT) is a development toolkit for building and optimizing complex browser-based applications. Its goal is to enable productive development of high-performance web applications without the developer needing to be an expert in browser quirks. Developers write their code in Java, and it compiles to JavaScript. In this course, learn how to build high-performance, browser-based apps using GWT. Kyle Gower-Winter introduces you to GWT, explaining the benefits of using this toolkit to build dynamic web pages. To help you practice what you learn, he shows how to build a simple foreign exchange rate application. Plus, Kyle covers managing AJAX events on the client, handling UI action events, debugging code, and more.

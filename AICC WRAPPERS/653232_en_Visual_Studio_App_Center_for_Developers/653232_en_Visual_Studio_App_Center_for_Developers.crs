@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Ford
+Course_ID=653232
+Course_System=linkedin.com
+Course_Title=Visual Studio App Center for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio App Center brings together multiple tools used by mobile developers-tools for testing, deployment, distribution, reporting, and analytics-into a single, unified product. It integrates with popular repositories such as GitHub and supports platforms such as React Native, Swift, Android Java, and Xamarin. Join instructor Kevin Ford as he shows how to use VSAC to create and customize builds, run automated UI testing, distribute builds, monitor the health and usage of apps, and send users push notifications. Plus, learn how to update applications without distributing new releases. Using the features in VSAC, you can improve your app development workflow and your users' experience.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=645056
+Course_System=linkedin.com
+Course_Title=SSCP Cert Prep: 6 Networks and Communications Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Systems Security Certified Practitioner (SSCP) certification is an excellent entry point to a career in IT security. To help you prepare for the SSCP exam, instructor Mike Chapple has designed a series of courses covering each domain. In this installment, Mike covers the objectives of Networks and Communications Security, Domain 6, which comprises 16% of the questions on the exam. Topics include TCP/IP networking, configuring network security devices, and identifying the different types of network attacks. Plus, learn how to secure your network with firewall rules, switch and router configuration, and network monitoring; protect your telecommunications; and understand the unique features and vulnerabilities of wireless networks. To join one of Mike's free study groups for access to bonus tips and practice questions, visit certmike.com.

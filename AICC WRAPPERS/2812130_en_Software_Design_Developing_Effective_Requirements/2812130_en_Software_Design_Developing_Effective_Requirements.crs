@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neelam Dwivedi
+Course_ID=2812130
+Course_System=linkedin.com
+Course_Title=Software Design: Developing Effective Requirements
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Getting the requirements right in software development is half the battle. In this course, instructor Neelam Dwivedi delves into the techniques and tools needed to win that battle. Neelam reviews the different types of requirements and how to divide your requirement development process into phases. She covers how to elicit, specify, analyze, and validate product requirements, sharing challenges along the way that help you grasp how these phases work in real-world projects. Plus, she shares techniques for estimating effort for requirements, as well as how to minimize or mitigate project risk by working iteratively on high-risk requirements first.

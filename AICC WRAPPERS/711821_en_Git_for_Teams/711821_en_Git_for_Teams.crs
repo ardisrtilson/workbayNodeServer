@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Bowersox
+Course_ID=711821
+Course_System=linkedin.com
+Course_Title=Git for Teams
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Development teams transitioning to distributed source control with Git often experience friction when initially adopting the tool. Often, the root cause is related to issues surrounding culture and practices as opposed to a technical learning curve. In this course, Kevin Bowersox covers collaboration strategies for teams using Git, discussing tools and techniques that can help you and your team circumvent the challenges that hinder the delivery of high-quality software. Kevin shares best practices and tips that can help you avoid common pitfalls that often cause teams to veer off track. Learn branching strategies, how to build a continuous integration pipeline, and more.

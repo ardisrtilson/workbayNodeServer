@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Wayne Winston
+Course_ID=153775
+Course_System=linkedin.com
+Course_Title=Excel Data Analysis: Forecasting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Professor Wayne Winston has taught advanced forecasting techniques to Fortune 500 companies for more than twenty years. In this course, he shows how to use Excel's data-analysis tools—including charts, formulas, and functions—to create accurate and insightful forecasts. Learn how to display time-series data visually; make sure your forecasts are accurate, by computing for errors and bias; use trendlines to identify trends and outlier data; model growth; account for seasonality; and identify unknown variables, with multiple regression analysis. A series of practice challenges along the way helps you test your skills and compare your work to Wayne's solutions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=2803044
+Course_System=linkedin.com
+Course_Title=Microsoft Cloud Fundamentals: SharePoint Online, OneDrive, and Teams
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft SharePoint Online, OneDrive, and Microsoft Teams can help organizations keep their files safe, share information more effectively, and communicate with ease. In this course, learn the basics of how to configure and manage SharePoint Online, OneDrive, and Microsoft Teams. Instructor Andrew Bettany explains how to create a SharePoint site, manage SharePoint storage, and share documents in OneDrive. He also outlines the basics of working with Microsoft Teams, as well as how to deploy the communications platform within your organization.

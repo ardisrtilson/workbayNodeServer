@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joey D'Antoni
+Course_ID=734644
+Course_System=linkedin.com
+Course_Title=SQL Server: Security for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to protect databases and preserve the integrity of an organization's data by configuring the security settings in SQL Server. This course covers how to use built-in options on Microsoft platforms, including Azure AD, to secure database and network infrastructure. Learn about establishing users, assigning roles, and granting privileges. Find out how to prevent SQL Server from malicious injection by addressing vulnerabilities. Discover how to encrypt data at rest and in-transit. See how to build a robust security model for your applications. Additionally, learn how to encrypt connections and secure a network.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul Hacker
+Course_ID=2211313
+Course_System=linkedin.com
+Course_Title=Azure for DevOps: Designing a Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As DevOps practices continue to increase in popularity, organizations are ramping up their search for professionals who can implement them. Earning the Microsoft Certified: Azure DevOps Engineer Expert certification can set you apart from other professionals vying for such roles. In this course, join DevOps architect Paul Hacker as he prepares you to ace the Design a DevOps strategy domain in Microsoft Azure DevOps Solutions (AZ-400), the required exam for this certification. Throughout this course, Paul covers how to prepare for DevOps by identifying the types of metrics and KPIs to track; define a DevOps-friendly team and organizational structure; design an agile work management approach; improve the security of your software with smart development practices; and more.

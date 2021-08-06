@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin L. Jackson
+Course_ID=2809819
+Course_System=linkedin.com
+Course_Title=Cloud Security Considerations for Government and the Military
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is your governmental organization exploring a move to cloud computing? In this course, explore cloud security considerations specific to your industry, as well as how to effectively cope with these challenges. Instructor Kevin L. Jackson covers key resource requirements, security breaches, relevant security frameworks, and cyber defense priorities. He provides regional breakdowns, exploring security requirements broken down by territory: Asia, the Middle East, Europe, Oceania, Africa, and the Americas. Plus, he explores relevant case studies that highlight key threats and controls in government cloud security.

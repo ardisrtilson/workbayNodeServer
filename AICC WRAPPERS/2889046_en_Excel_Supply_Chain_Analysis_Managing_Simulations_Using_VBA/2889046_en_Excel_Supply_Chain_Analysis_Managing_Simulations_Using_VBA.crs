@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2889046
+Course_System=linkedin.com
+Course_Title=Excel Supply Chain Analysis: Managing Simulations Using VBA
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Did you know you can record and run Solver macros, generate random inputs, run multiple simulations, and more, in Excel? Moreover, you can do all this without buying expensive specialty software. In this course, instructor Curt Frye shows how to enhance your supply chain analysis using the Solver add-in in combination with VBA. Working from an example transportation problem, Curt steps through creating a reference to the Solver VBA library, recording and running a Solver macro, generating random inputs, and defining a loop structure to run multiple simulations. Then he moves on to enabling detailed analysis by writing model output, creating a results dashboard to analyze your model output, exploring alternative scenarios with a Solver model, and more.

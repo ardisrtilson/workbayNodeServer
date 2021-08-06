@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Flett
+Course_ID=765319
+Course_System=linkedin.com
+Course_Title=Learning Altium
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Generate clear and accurate printed circuit board (PCB) designs with Altium. This course shows how use Altium to generate PCB designs, including PCB schematics and layouts. Instructor Justin Flett helps you find your way around the Altium interface and use all of the built-in tools, including the millions of components and symbols that come with Altium libraries, to build a PCB project from the ground up. Learn how to place components, wire the schematic, and add annotations with a single click. Find out how to refine your design with layers, grids and units; edit the board shape; and place the footprints that will connect your components to the board. Justin wraps up with a look at creating custom footprints and schematics to store and reuse in your projects, and shows how to generate 3D views and industry-standard final output and reports.

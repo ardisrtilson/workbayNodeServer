@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Walter
+Course_ID=5010668
+Course_System=linkedin.com
+Course_Title=Django: Forms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most websites require the use of forms to receive data from users, so it is crucial to know how to safely collect and handle data while maintaining a user-friendly experience on your website. In this course, learn how to use Django to create forms from scratch. Instructor Nick Walter also explains how to deploy forms to your site, access stored data, leverage submitted form data, work with widgets, customize formsets, and more.

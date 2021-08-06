@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=520537
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: IP Addressing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Not all IP addressing takes care of itself. Network administrators know this all too well, which is why one of their cores skills is being able to configure and assign IP addresses in a server environment. In this course, learn how to work with IPv4 and IPv6 in the context of Windows Server 2016. Ed Liberman explains allocation, subnets, and IP address configuration. He also covers connectivity troubleshooting. Because TCP/IP and IP addressing continue to be a substantial part of the function of computer networking, enterprise companies are apt to want to stay on top of the latest versions. Get ready to learn how to help your organization keep communications between resources running strong.

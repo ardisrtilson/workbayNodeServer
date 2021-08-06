@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=182377
+Course_System=linkedin.com
+Course_Title=Learning Houdini
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amidst the myriad of 3D tools, Houdini is unique, offering a procedural workflow and node networks that allow for increased complexity and asset reusability. And with the Houdini Engine plugin, users of other 3D tools can now incorporate Houdini's procedural power into their workflows. These tutorials introduce the fundamental 3D concepts (modeling, animation, texturing, lighting, and rendering) as they apply in Houdini. Instructor Scott Pagano shows how to manipulate geometry; apply materials; add lights and cameras to a scene; render work with Houdini's internal renderer, Mantra; and even create simple particle systems. The course will start new users on a path to more advanced 3D work and show experienced users of other 3D packages how to transfer their skills to the world of Houdini.

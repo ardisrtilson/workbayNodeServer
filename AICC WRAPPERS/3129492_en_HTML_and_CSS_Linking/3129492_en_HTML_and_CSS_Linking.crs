@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=3129492
+Course_System=linkedin.com
+Course_Title=HTML and CSS: Linking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Hyperlinks are the foundation of the World Wide Web, but they come in many different flavors. Do you want to link to a specific point in a document? Make a phone call, or send an email? Link from images or dedicated navigation bars instead of text? In this course, instructor Jen Kramer gives you all the tools you need to make those tasks easy. Jen goes over basic links, linking to different files and resources, and linking from images, headers, text, and more. She shows you how you can style links and individual link states using CSS selectors, then goes into how you can make exceptions and create different styles. Jen covers the steps you should take to maintain links and redirect them when necessary.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=786365
+Course_System=linkedin.com
+Course_Title=Azure Event Grid
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Event Grid is a fully managed, intelligent event-routing service that allows for uniform and efficient event consumption using a publish-subscribe model. An alternative to expensive polling, Event Grid allows your services to talk to each other more efficiently and securely. This course demonstrates how to react to relevant events across Azure in near real-time fashion. Get an overview of Event Grid, and learn how it compares to other routing services: Service Bus, Event Hubs, and Queue Storage. Review the security features, and see how Event Grid handles message delivery when it doesn't get a response from an endpoint. Instructor Sahil Malik then demonstrates a practical use case for the technology, using Event Grid to react to Azure Blog Storage events.

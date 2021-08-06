@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=195668
+Course_System=linkedin.com
+Course_Title=Advanced C Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you've mastered the basics of programming in C, you can concentrate on writing more efficient, more functional code. In this course, Dan Gookin offers some tips to help you extend your C programming skills. Learn how to read and write main function arguments, build more useful variables, and work with arrays and structures. Plus, get tips on generating pointers, and take the practice challenges to test your learning along the way.

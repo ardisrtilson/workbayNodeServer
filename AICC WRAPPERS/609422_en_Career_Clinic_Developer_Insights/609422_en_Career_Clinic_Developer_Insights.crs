@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=LinkedIn Learning Developer Instructor
+Course_ID=609422
+Course_System=linkedin.com
+Course_Title=Career Clinic: Developer Insights
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get career advice and insights from tech [in]structors—practicing developers who teach for LinkedIn Learning. Christina Truong, Ted Neward, Chiu-Ki Chan, Emmanuel Henri, and other working professionals provide relevant, targeted advice for those entering the tech industry and those who want to progress to the next stage in their careers. Meet a different developer, as they share stories about starting out, getting hired, finding mentors, improving their skills, and working on their favorite projects. Each interview is full of helpful job hunting tips and guidance for navigating today's fast-paced tech world.

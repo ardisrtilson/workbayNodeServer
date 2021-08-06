@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Johno Ellison
+Course_ID=2876070
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Designing for Consumer Electronics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Consumer electronics are all around us, and new products are created every year. In this course, instructor Johno Ellison teaches the basics of designing these items in SOLIDWORKS. Through this project-based course, he shows you how to design a game controller using SOLIDWORKS features like lofts, fillets, mirroring, and shell. Course projects include creating an assembly, adding fastening details, and even creating the buttons, joystick, and printed circuit board that go into the controller. Johno concludes with a discussion of development and potential next stages in the design process.

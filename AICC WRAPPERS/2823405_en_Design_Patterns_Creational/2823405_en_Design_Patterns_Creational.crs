@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Elisabeth Robson
+Course_ID=2823405
+Course_System=linkedin.com
+Course_Title=Design Patterns: Creational
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Time-tested solutions to common problems in software engineering never go out of style, especially when software systems last much longer than anticipated. Exploring design patterns as part of an overall software development strategy is more important than ever to create maintainable, flexible designs. This course covers all the core creational patterns from the original design patterns catalog, the Gang of Four collection. Explore how to use these five patterns to create flexible and efficient object-oriented software designs, learn how the patterns and the design principles behind them guide good software design, and discover techniques and ideas to improve your own designs.

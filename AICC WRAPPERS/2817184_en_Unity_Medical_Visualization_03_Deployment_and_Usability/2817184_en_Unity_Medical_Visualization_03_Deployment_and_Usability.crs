@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2817184
+Course_System=linkedin.com
+Course_Title=Unity Medical Visualization: 03 Deployment and Usability
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity isn’t just for games. The powerful 3D engine can be used to created educational assets, like the medical visualization featured in this three-part series: an animated 3D human heart. In the third course of the series, instructor Alan Thorn focuses on adding usability features—a camera control system created with C# and Cinemachine—and creating the final build for deployment on Android mobile devices. Learn how to create user-friendly controls, make any necessary adaptations for mobile, and create and test the Android build file. These final steps help you achieve a beautiful and functional visualization to share with your students.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=459489
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Configure File Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+File and storage services are fundamental aspects of any enterprise network. The IT administrator's job is to ensure these services are secure, reliable, and scalable. Watch this course to learn how to configure file and storage services in Windows Server 2012 R2. Ed Liberman walks through four key topics: configuring file sharing with Distributed File System (DFS), managing storage with File Server Resource Manager (FSRM), encrypting files, and setting up advanced audit policies. This is a fast-paced course that will give admins the skills to configure file sharing and storage on any Windows Server-based network. Note: This course also maps to the Configure File and Print Services domain for Microsoft Certified Solutions Expert (MCSA) Exam 70-411, Administering Windows Server 2012. Review the exam objectives here.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rudolph Rosenberg
+Course_ID=173209
+Course_System=linkedin.com
+Course_Title=Financial Analysis: Analyzing the Top Line with Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to analyze the top line (or revenue) of your company and identify areas of under- or overperformance with Excel. Author Rudolph Rosenberg explores essential financial concepts that are necessary to understanding your company's revenue data. Then he introduces the tools and techniques you can use in Excel, including PivotTables and the invaluable SUMIF function, to prepare and analyze the data you have available. Plus, learn how to analyze your customer base, determine revenue per product, and identify upsell opportunities. Rudolph will also show how to make sure you're treating your data fairly, by considering the impact of seasonality, recurrent vs. one-off business, and interdependencies. Also check out the companion course, Financial Analysis: Analyzing the Bottom Line with Excel.

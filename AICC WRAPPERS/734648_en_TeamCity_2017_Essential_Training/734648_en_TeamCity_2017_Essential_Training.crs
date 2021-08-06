@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aref Karimi
+Course_ID=734648
+Course_System=linkedin.com
+Course_Title=TeamCity 2017 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TeamCity is a popular tool for continuous integration and continuous delivery workflows. It supports many different environments, server types, and languages, including PHP, Python, Java, and .NET. This course explains how a developer or DevOps engineer can install TeamCity and use it to compile, test, and deploy code to a QA, staging, or production environment. Instructor Aref Karimi helps you write unit tests and perform code inspections, manage code branches in a version control system like GitHub or Bitbucket, and deploy your build to the cloud. Plus, learn how to better manage your team's contributions with roles, audit logs, and notifications. Along the way, Aref makes sure to introduce all the new features in TeamCity 2017, so you are up to date with the latest version of the software.

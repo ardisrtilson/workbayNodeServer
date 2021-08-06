@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=5022350
+Course_System=linkedin.com
+Course_Title=Deploying Exchange Server 2019
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deploying enterprise communication systems is a key skill for any IT professional. In this course, author Robert McMillen explains how to deploy Exchange Server 2019. Learn how to plan your deployment, prepare your environment, install the Exchange mailbox and Edge Transport roles, and create public folders, address lists, dynamic distributions groups, and contacts. Robert also explains how to install certificates for user authentication and configure email transport rules. Plus, learn how to set up high availability (HA) options, such as clustered mailbox servers, to ensure maximum uptime, and how to upgrade from previous versions of Exchange.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2829010
+Course_System=linkedin.com
+Course_Title=AWS Certified Solutions Architect - Associate (SAA-C02): 5 Identity and Access Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a deep dive into the Identity and Access Management (IAM) policies in Amazon Web Services (AWS). This course is the fifth of a nine-part series designed to help prepare you to pass the 2020 AWS Certified Solutions Architect - Associate (SAA-C02) certification exam. It starts with an overview of AWS Identity and Access Management (IAM) and then dives into authentication and authorization policies, multi-factor authentication, and permissions. It then covers IAM best practices, including setting up user accounts, password policies, policy conditions, and IAM roles. Instructor Tom Carpenter provides foundational instruction for anyone beginning the journey to becoming an AWS architect, as well as those prepping for the AWS Certified Solutions Architect - Associate exam. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

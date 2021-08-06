@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Diego Herrera
+Course_ID=5016722
+Course_System=linkedin.com
+Course_Title=Unity: Integrating GPS and Points of Interest
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Geographic data is at the heart of much of the large-scale augmented reality work out there, but adding it to projects takes finesse. In this hands-on course, instructor Diego Herrera lays out the process, showing beginners how to use GPS inside Android and iOS applications. Throughout the course, Diego details how to load information from the Google Places API and process the JSON code successfully inside Unity. Learn how to set up an augmented reality camera, as well as how to build a fully-functional application that can sort results by distance.

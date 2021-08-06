@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=597878
+Course_System=linkedin.com
+Course_Title=Migrating from Google Drive to SharePoint
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to migrate documents, spreadsheets, presentations, and files from Google Drive to SharePoint. In this course, Bill Kulterman explores the best practices for moving from Google Drive to SharePoint, and discusses how Microsoft OneDrive plays a role in this migration. He provides a quick tour of OneDrive and SharePoint, and then explains how to convert documents and spreadsheets and address issues with fonts, charts, and presentations. Throughout the course, Bill addresses common challenges that arise when moving between platforms, and shares tips and tricks that can help make your migration run smoothly.

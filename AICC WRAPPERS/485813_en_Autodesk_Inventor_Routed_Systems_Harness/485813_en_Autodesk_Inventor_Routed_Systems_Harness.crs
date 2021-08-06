@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=485813
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor Routed Systems: Harness
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing routed systems—including wire harnesses—has never been easier than with Autodesk Inventor. Inventor's rules-based routing tools select the appropriate connectors, allowing you to easily change to a different style. Join Thom Tremblay as he shows how to use automated and manual routes to add wires to your harness assemblies. Learn how to change harness settings, build electrical connections, import data from AutoCAD Electrical, add harness segments, and route wires. Plus, learn how to generate a harness report and create a nailboard drawing.

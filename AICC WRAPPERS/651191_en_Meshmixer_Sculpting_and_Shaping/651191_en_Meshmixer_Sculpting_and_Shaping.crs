@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Kloski
+Course_ID=651191
+Course_System=linkedin.com
+Course_Title=Meshmixer: Sculpting and Shaping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Meshmixer is a utility for creating and editing 3D models. In this course, instructor Nick Kloski explores the sculpting and shaping features in Meshmixer. He demonstrates techniques for manipulating and controlling meshes, including smoothing, flattening, creating sharp features, and patterning a model's surface. Nick also shares a few useful shortcuts, and shows how to prevent out-of-control meshes. This course was recorded and produced by HoneyPoint3D. We're pleased to host this training in our library.

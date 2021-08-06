@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Chadwick
+Course_ID=693123
+Course_System=linkedin.com
+Course_Title=ASP.NET MVC: Building for Productivity and Maintainability
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ASP.NET MVC provides great features and functionality out of the box, but there's more you can do to optimize your code. Learn how to build applications for long-term productivity and maintainability by streamlining your views, controllers, and models, in this deep dive course from Jess Chadwick. Discover how to separate application and business logic, reuse and simplify views, manage dependencies, reduce markup with HTML helpers, and apply patterns to increase productivity and simplify controller logic. Plus, learn how to take advantage of feature folders, which groups all necessary controllers, views, and models for a feature within a single folder, reducing navigation and search time and enabling feature scaling and code reuse.

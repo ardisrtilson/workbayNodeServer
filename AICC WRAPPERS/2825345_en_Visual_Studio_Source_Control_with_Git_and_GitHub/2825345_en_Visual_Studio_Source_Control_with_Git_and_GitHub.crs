@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2825345
+Course_System=linkedin.com
+Course_Title=Visual Studio: Source Control with Git and GitHub
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prefer working with an IDE instead of the command line? Discover how to use Git, the defacto distributed source control tool, effectively within Visual Studio. Throughout this course, instructor Walt Ritscher delves into the mapping between Git and GitHub commands and the tools in Visual Studio. After going over key Git concepts, commands, and GUI tools, Walt shows how to initialize a new repository with PowerShell, Visual Studio, and GitHub. He then shows how to add, rename, move and delete files; add a remote repository; clone and fork a repository; and view and handle merge conflicts. Plus, see how to work with branches, create, review and compare pull requests, and more.

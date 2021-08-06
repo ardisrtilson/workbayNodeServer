@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charles Kelly
+Course_ID=508873
+Course_System=linkedin.com
+Course_Title=NumPy Data Science Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+NumPy Data Science Essential Training introduces the beginning to intermediate data scientist to NumPy, the Python library that supports numerical, scientific, and statistical programming, including machine learning. The library supports several aspects of data science, providing multidimensional array objects, derived objects (matrixes and masked arrays), and routines for math, logic, sorting, statistics, and random number generation. Here Charles Kelly shows how to work with NumPy and Python within Jupyter Notebook, a browser-based tool for creating interactive documents with live code, annotations, and even visualizations such as plots. Learn how to create NumPy arrays, use NumPy statements and snippets, and index, slice, iterate, and otherwise manipulate arrays. Plus, learn how to plot data and combine NumPy arrays with Python classes, and get examples of NumPy in action: solving linear equations, finding patterns, performing statistics, generating magic cubes, and more.

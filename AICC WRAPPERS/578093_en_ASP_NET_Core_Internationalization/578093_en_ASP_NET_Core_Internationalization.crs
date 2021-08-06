@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Woodruff
+Course_ID=578093
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Internationalization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to take your ASP.NET Core site worldwide? ASP.NET offers internationalization features that allow developers to configure their code so it can be easily localized. In this course, learn about internationalization considerations specific to taking your site global. Discover how to configure your code to be ready for internationalization, and explore specific functions and strategies to customize your site's content based on the local culture.

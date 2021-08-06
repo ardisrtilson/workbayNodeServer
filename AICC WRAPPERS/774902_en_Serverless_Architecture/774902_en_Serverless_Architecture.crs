@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=774902
+Course_System=linkedin.com
+Course_Title=Serverless Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Serverless architecture moves computing from physical servers to the cloud. This course provides a broad overview of the different types of design patterns available for serverless application development and deployment. Instructor Lynn Langit covers the core concepts behind serverless, including its costs, benefits, and risks. Then she reviews serverless services, including messaging, storage, streaming, payment processing, and deployment, and related solutions: AWS Lambda, Kinesis, Auth0, Kubernetes, and more. She reviews cloud-native architectures for serverless applications that incorporate third-party APIs, notifications, Internet of Things sensors, big data, and machine learning. Plus, learn about emergent architectures that support migration and hybrid serverless functionality. Each chapter is illustrated with real-world use cases that showcase the cost, scalability, and productivity benefits of serverless architecture in action.

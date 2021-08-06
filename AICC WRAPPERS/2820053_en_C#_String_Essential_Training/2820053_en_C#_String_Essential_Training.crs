@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2820053
+Course_System=linkedin.com
+Course_Title=C#: String Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the world of software development, a string is a series of characters. And regardless of which programming language you're using, it's one of the most important data types you'll be working with. In this course, Walt Ritscher takes a focused look at how to work with the string class in the .NET framework. Walt reviews how to manipulate string content, parse strings, format numeric and date types, and more. Plus, he considers how cultural differences impact strings and shows how to work with the CultureInfo class.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2820127
+Course_System=linkedin.com
+Course_Title=AWS and React: Creating Full-Stack Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Before developers can take their app idea from the drawing board to the app store, certain key pieces—from hosting to user accounts—must be set in place. Amazon Web Services (AWS) offers a variety of powerhouse services you can leverage to add these essential pieces to your React apps. In this course, learn how to use AWS with React to speed up your app development workflow. Instructor Bear Cahill shows you how to work with AWS to add hosting, user authentication, and a back-end database to your React app.

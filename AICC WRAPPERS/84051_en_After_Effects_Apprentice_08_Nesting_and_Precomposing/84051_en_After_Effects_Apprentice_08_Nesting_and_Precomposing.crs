@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Trish Meyer, Chris Meyer
+Course_ID=84051
+Course_System=linkedin.com
+Course_Title=After Effects Apprentice: 08 Nesting and Precomposing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Let Chris and Trish Meyer share with you two of the core secrets required to become an efficient After Effects user: understanding the render order (the internal order of operations After Effects uses when calculating masks, effects, transformation, track mattes, and layer styles) and the use of multiple compositions where a composition may be nested into one or more other comps. This makes it easier to group layers, efficiently re-use a common element to quickly accommodate client changes, pan around large composites of multiple layers, and solve render order issues. The After Effects Apprentice series was created by Trish and Chris Meyer. These tutorials are designed for After Effects CS4 through CC, and can be used on their own or as a companion to the Meyer's book, After Effects Apprentice.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=2841528
+Course_System=linkedin.com
+Course_Title=Using Slack and AWS EventBridge to Automate Your DevOps Tasks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Communication and collaboration are key to successful DevOps. Amazon EventBridge allows developers to easily create end-to-end integrations between AWS and popular third-party tools like Slack. Imagine communicating with fellow developers, testers, and sys admins; monitoring AWS processes; and automating manual tasks—all in one place. This project-based course shows how to use EventBridge to architect serverless AWS app integrations with tools like Slack. Learn how to create a custom Slack app and fetch and post data via the Slack API. Then find out how to create an AWS pipeline for monitoring and communicating code changes in your Slack channel, and use messages to automatically trigger events—such as a CI/CD workflow—using EventBridge, CodePipeline, API Gateway, and Lambda functions. Instructor Carlos Rivas—a Certified AWS Solutions Architect—leaves you with some ideas to expand the code and customize it to the needs of your own DevOps team.

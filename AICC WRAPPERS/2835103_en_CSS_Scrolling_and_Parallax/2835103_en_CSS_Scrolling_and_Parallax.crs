@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2835103
+Course_System=linkedin.com
+Course_Title=CSS: Scrolling and Parallax
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Scrolling used to be really basic—up and down, and occasionally side to side. Now scrolling has taken a larger place in navigation, and CSS lets you connect animations to scrolling, resulting in new interaction opportunities. This course shows how web developers and app developers can leverage scrolling and parallax to program new interface styles. Ray Villalobos demonstrates how to customize CSS for scrolling behaviors, create CSS animations, create scroll-based animations, use ScrollMagic, tween, and use the GreenSock Animation Platform (GSAP). He covers pseudo classes, elements, using transform properties, sequencing, parallax with JavaScript, and more.

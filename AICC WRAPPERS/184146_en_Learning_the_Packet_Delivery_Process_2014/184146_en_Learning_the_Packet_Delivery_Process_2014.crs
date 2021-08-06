@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Jacob
+Course_ID=184146
+Course_System=linkedin.com
+Course_Title=Learning the Packet Delivery Process (2014)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Join Mark Jacob for an exploration of packet-delivery topics like understanding port numbers, establishing a TCP session, and exploring basic IP routing. He'll help you understand the function of routing, and what a media access control (MAC) address really is. Plus, learn about modifying packet information with network address translation (NAT) and managing traffic using access control lists (ACLs).

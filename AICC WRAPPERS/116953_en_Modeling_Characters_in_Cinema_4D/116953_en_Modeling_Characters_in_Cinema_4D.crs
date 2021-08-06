@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Broeska
+Course_ID=116953
+Course_System=linkedin.com
+Course_Title=Modeling Characters in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to model realistic 3D characters with the powerful and flexible modeling toolset in CINEMA 4D. Chris Broeska shows you how to use a basic front and side template and create basic shapes with NURBs Lofts and Sweeps. Then you'll convert the patches to polygons and stitch them together to create a base mesh. The last chapter shows you how to complete the character by setting up the UVs for the model and head, and mirror both the polygons and UVs to create the other sides of your character.

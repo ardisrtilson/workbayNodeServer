@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Stephanie Ihezukwu
+Course_ID=2814151
+Course_System=linkedin.com
+Course_Title=Security Awareness: Social Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Social engineering is one of the most dangerous forms of hacking because it preys on human nature. Learn how to defend your organization from social engineering by recognizing and thwarting the most common types of attacks. This course provides security teams and professionals with information on common social engineering techniques and safeguards. Instructor Stephanie Ihezukwu—a security analyst and engineer—describes how phishing, vishing, baiting, and physical activities like tailgating all provide entry to bad actors, and explains how training can be the most effective tool to combat these attacks. She also explains how to create policies and procedures; set up controls around passwords, email, and software updates; and conduct tests to see how effective your defenses truly are.

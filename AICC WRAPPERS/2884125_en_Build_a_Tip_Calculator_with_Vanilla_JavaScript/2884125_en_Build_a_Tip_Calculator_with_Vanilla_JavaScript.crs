@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Framework Tech, Mark Lassoff
+Course_ID=2884125
+Course_System=linkedin.com
+Course_Title=Build a Tip Calculator with Vanilla JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sitting down and learning code or brushing up your skills can be an effective way to learn, but it’s often helpful and just more interesting if you have an actual project to complete. In this hands-on course, Mark Lassoff guides you through building a tip calculator app in JavaScript. Using Vanilla JavaScript—meaning the core JavaScript language without any libraries or frameworks—plus HTML and a touch of CSS, Mark shows how to apply the fundamentals of JavaScript to a short, fun project. This course was created by Framework Tech. We are pleased to host this training in our library.

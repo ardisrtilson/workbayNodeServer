@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tim Slavin
+Course_ID=94626
+Course_System=linkedin.com
+Course_Title=Creating an HTML Email Newsletter
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, author Tim Slavin shows how to design and code an HTML email newsletter, including setting the final dimensions and color palette, placing images and copy in the code structures of the file, and defining the newsletter's parameters with tables within tables. The course demonstrates each step of building an HTML newsletter, up to testing and sending the email.

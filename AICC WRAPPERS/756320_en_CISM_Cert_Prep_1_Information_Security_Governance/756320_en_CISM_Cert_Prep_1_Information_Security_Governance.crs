@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=756320
+Course_System=linkedin.com
+Course_Title=CISM Cert Prep: 1 Information Security Governance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare for the first domain of the Certified Information Security Manager (CISM) exam: Information Security Governance. CISM certification validates your expertise in information security. A key part of that is governance, which ensures your team's work is aligned with business objectives and external requirements. This course covers all the material in the domain, including implementing an information security strategy, developing a governance framework, and integrating that framework into corporate governance practices. Instructor Mike Chapple also covers developing policies, business cases, and other key components of a security governance program.

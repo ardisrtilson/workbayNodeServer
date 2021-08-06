@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2813281
+Course_System=linkedin.com
+Course_Title=Visual Basic Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Basic is one of the core Microsoft languages for building desktop, mobile, and web applications. This course was designed to help you start programming with Visual Basic using Visual Studio. Instructor Walt Ritscher jump-starts the course with projects for common application architectures, including console and desktop. Walt then outlines language fundamentals such as data types, strings, operators, conditional code, and looping constructs. Plus, discover how to refactor your code into functions and subs, work with lists, debug your code, handle exceptions, and more.

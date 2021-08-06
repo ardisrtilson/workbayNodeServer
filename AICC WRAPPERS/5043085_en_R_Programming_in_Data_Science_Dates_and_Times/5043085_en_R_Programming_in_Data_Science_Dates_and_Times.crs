@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=5043085
+Course_System=linkedin.com
+Course_Title=R Programming in Data Science: Dates and Times
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the fundamental difficulties of data science is working with dates and times. This course shows data engineers, DevOps practitioners, and data-science programmers the most common (and many not so common!) problems and how to use R-based tools to implement solutions. Learn how dates and times are stored and retrieved in base R. Find out how to format, compare, add and subtract, and extract dates and times using built-in R functions. Then discover how to incorporate specialized R packages, such as lubridate, busdater, zoo, timelineR, anytime, datetime, and more, to perform some of the heavy lifting. Instructor Mark Niemann-Ross walks you through each package, so you can appreciate the advantages and best uses of each one.

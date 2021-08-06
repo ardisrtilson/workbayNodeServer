@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jean Gorospe
+Course_ID=645021
+Course_System=linkedin.com
+Course_Title=ZBrush and SubD: Design for 3D Printing with SLA
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Not all CAD packages excel at the same tasks. But moving models between them can be difficult. In this course, you can learn a workflow for moving models between ZBrush and CAD packages that use SubD (subdivision surfaces), such as Rhino. Instructor Jean Gorospe shows how to build incredible designs that take advantage of both their strengths-and prepare for an exciting 3D printing process known as stereolithography (SLA). Follow along and discover how to build a modern task chair in Rhino, transfer the model to ZBrush for high-res detailing, send the mesh back to Rhino to convert it to NURBs, and finalize the design for printing. Jean even shows you what the results look like coming straight off an SLA printer, and after they've been washed and cured.

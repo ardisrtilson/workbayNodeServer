@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chappell
+Course_ID=432861
+Course_System=linkedin.com
+Course_Title=AutoCAD Civil 3D: Designing Gravity Pipe Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gravity pipe systems are a part of almost every civil engineering project. In AutoCAD Civil 3D, that means working with a pipe network, which represents the pipe and structure objects that form the basis of your systems. In these tutorials, Eric Chappell shows engineers and project designers how to use pipes and structures to draw 2D and 3D models of underground piping systems, such as storm sewers, sanitary sewers, and more. Along the way, he shows how to edit, split, and merge pipe networks; annotate your drawings; create detailed parts lists; and analyze the pipe network. Plus, learn how to view and edit pipe network in profile view to achieve more accurate designs.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Hirsch
+Course_ID=366444
+Course_System=linkedin.com
+Course_Title=iZotope RX 4: Repairing and Enhancing Audio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the noise reduction and audio restoration possibilities—for both music and post production—in iZotope RX 4 and RX 4 Advanced. Author Scott Hirsch covers all of the best and latest features of RX 4, demonstrating techniques for fixing audio problems in a variety of situations. He'll show how to reduce noise, connect with a DAW such as Pro Tools or Logic Pro, and use advanced features such as EQ Match, Ambience Match, and the utility modules for resampling, retiming, and pitching audio.

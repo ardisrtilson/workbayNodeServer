@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christina Truong
+Course_ID=2255005
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Version Control with Git
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Manually keeping track of changes to files can slow you down. Version control systems allow developers to off-load this work, as well as safeguard their projects in general. In this course, instructor Christina Truong covers the fundamentals of version control with Git, the popular open-source version control software. Christina helps you get acquainted with basic Git terminology, the basic Git workflow, and how to install the software on both Macs and PCs. She then demonstrates how to manage repositories using either the command line or a graphical user interface (GUI). Along the way, she provides challenges and solutions that help you grasp how these concepts work in practice.

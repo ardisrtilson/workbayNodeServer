@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=580634
+Course_System=linkedin.com
+Course_Title=Enterprise Agile: Growing Scrum
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Large-Scale Scrum (LeSS) is an enterprise agile framework that allows you to scale up your agile mindset for use on large, enterprise-level products. In this course—an installment in a larger series on enterprise agile—learn the fundamentals of LeSS, and discover how to leverage this framework to enhance the overall efficiency of your organization's product delivery. Doug Rose covers key concepts such as LeSS principles and Larman's Laws and explains how LeSS upsizes key scrum roles to help product owners and scrum masters successfully tackle bigger projects. Plus, he covers how LeSS tackles sprint planning, working in component teams, and team coordination, as well as how to organize a sprint review and overall retrospective.

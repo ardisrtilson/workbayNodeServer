@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2891067
+Course_System=linkedin.com
+Course_Title=VMware vSphere 7 Professional: 02 Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. In order to stay relevant, you must understand vSphere. Perhaps you’re also preparing to take the VMware Certified Professional Datacenter Virtualization (VCP-DCV) exam. In this series of courses, Rick Crisci, a VMware Certified Instructor, walks you through over 50 real life demos in a vSphere 7 environment using the HTML5 vSphere Client. This course focuses specifically on the tools and techniques that you can use to manage storage in a virtualized environment. Rick gives you an overview of storage architecture options, then introduces you to storage technologies such as VMFS and NFS datastores and iSCSI storage. He steps through expanding your datastore and explains how to use dependent hardware and independent hardware for iSCSI and ESXi 7. Rick covers storage DRS, then goes in-depth on vSAN architecture, disk groups, configuration, and more. Note: This course was created by Rick Crisci. We are pleased to host this training in our library.

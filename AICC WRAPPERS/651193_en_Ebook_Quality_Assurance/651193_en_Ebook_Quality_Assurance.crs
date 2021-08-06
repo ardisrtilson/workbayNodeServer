@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joshua Tallent
+Course_ID=651193
+Course_System=linkedin.com
+Course_Title=Ebook Quality Assurance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Quality assurance is one of the most important steps in ebook creation, but also one of the most overlooked. This course was designed to teach anyone—regardless of their technical skills—how to effectively test and validate EPUB, Kindle, and other ebook files on different devices. Learn the inner workings of ebook file formats, which technologies affect how an ebook displays on different devices, and the differences between fixed layout and reflowable ebooks. Instructor Joshua Tallent also discusses unique retailer specifications and device limitations, how to load ebooks on different devices for testing, and essential details on performing automated and manual quality assurance testing.

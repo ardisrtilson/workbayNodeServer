@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, James Parkin
+Course_ID=2874251
+Course_System=linkedin.com
+Course_Title=From Excel to SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data is powerful, and the ability to access it quickly and accurately is important. In this course, instructor James Parkin helps you use your existing Excel skills to master the basics of working with data in SQL, one of the most common languages for database wrangling. James shows you how to set up your environment for SQL and shares some differences between spreadsheets and databases. He steps through SQL basics that you need to know to access and identify the data you need. In both Excel and SQL, you work with functions. James covers several, including SUM, AVERAGE, MIN, MAX, COUNT. He explains different methods of sorting, grouping, and organizing your data in SQL. James concludes by showing you how to use joins, VLOOKUP, HLOOKUP, and XLOOKUP to combine your data. This course was created by Madecraft. We are pleased to host this training in our library.

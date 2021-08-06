@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=636117
+Course_System=linkedin.com
+Course_Title=Learning SOLIDWORKS PDM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS Product Data Management (PDM) allows you to keep track of design data throughout the product development lifecycle. PDM is essential for team collaboration and efficiency in multiuser environments. This course teaches the basics of SOLIDWORKS PDM to engineers and designers who are already familiar with SOLIDWORKS. Learn how the software works, and the requirements needed to run it. Find out how to create a vault for your project, and add users, groups, and workflows. You can also learn how to add objects to the vault, check files in and out, and work with versions, variables, and data cards. Along the way, instructor David Antanavige provides tips for tracking changes, organizing your projects, and maintaining file references.

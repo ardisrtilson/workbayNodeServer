@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=5035827
+Course_System=linkedin.com
+Course_Title=MongoDB for MEAN Stack Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MEAN combines MongoDB, Express.js, Angular, and Node.js into a single, full-stack solution for JavaScript development. In this project-based course, instructor Alexander Zanfir focuses on the M in the MEAN stack, showing how to persist data using a simple discussion board project. Learn how to create a form for users to post topics and replies, process the submissions on the back end, and store and display the data. Alexander also demonstrates how to associate users with posts. These techniques can be reused and recombined in your own MEAN-based web applications.

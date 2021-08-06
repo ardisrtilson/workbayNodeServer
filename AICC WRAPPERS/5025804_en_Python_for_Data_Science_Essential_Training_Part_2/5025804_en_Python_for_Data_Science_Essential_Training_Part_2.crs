@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lillian Pierson, P.E.
+Course_ID=5025804
+Course_System=linkedin.com
+Course_Title=Python for Data Science Essential Training Part 2 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python for Data Science Essential Training is one of the most popular data science courses at LinkedIn Learning. It has now been updated and expanded to two parts—for even more hands-on experience with Python. In this course, instructor Lillian Pierson takes you step by step through a practical data science project: building machine learning models that can generate predictions and recommendations and automate routine tasks. Along the way, she shows how to perform linear and logistic regression, use K-means and hierarchal clustering, identify relationships between variables, and use other machine learning tools such as neural networks and Bayesian models. You should walk away from this training with hands-on coding experience that you can quickly apply to your own data science projects.

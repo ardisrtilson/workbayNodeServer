@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2891065
+Course_System=linkedin.com
+Course_Title=SAP ABAP Programming Best Practices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re an ABAP programmer considering the transition from classic ABAP programming to an object-oriented style programming style, this course shows you the advantages of using ABAP Objects, the object-oriented programming feature of ABAP. This course discusses reasons for implementing programming standards and the use of standardized frameworks for writing code, before getting into detailed examples of code reuse with ABAP Objects. Other topics include powerful techniques to handle and report error conditions in your ABAP programs, and how to incorporate automated test routines into development and maintenance cycles. By the end of this course, you’ll be on your way to a better understanding of the different ways that objects can be reused for different business problems, and have knowledge to help you produce efficient and easily maintainable code in a short amount of time. Note: This course was created by Michael Management. We are pleased to host this training in our library

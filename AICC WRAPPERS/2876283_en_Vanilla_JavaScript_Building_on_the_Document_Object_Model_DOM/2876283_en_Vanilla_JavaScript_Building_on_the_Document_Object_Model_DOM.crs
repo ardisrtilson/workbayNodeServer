@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=W. Scott Means
+Course_ID=2876283
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Building on the Document Object Model (DOM)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+At the heart of every web application and framework (such as Angular or React) lies the DOM, the Document Object Model. In this course, instructor W. Scott Means explores the DOM from the bottom up. After a fast-paced introduction to the Node interface and DOM trees, Scott takes things to the next level by constructing a functioning HTML parser. He shows you how HTML source code is translated into a complete DOM tree, including comments, text nodes, and elements with attribute nodes. Then, Scott demonstrates how the resulting DOM tree can be traversed and transformed using DOM-specific maps and lists, tree references, and document fragments to produce pretty-printed HTML output. He concludes the course with advice on how you can practice what you’ve learned and get one step closer to mastering the DOM.

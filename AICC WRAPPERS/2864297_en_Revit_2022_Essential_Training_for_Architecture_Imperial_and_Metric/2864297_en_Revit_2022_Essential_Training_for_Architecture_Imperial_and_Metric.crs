@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=2864297
+Course_System=linkedin.com
+Course_Title=Revit 2022: Essential Training for Architecture (Imperial and Metric)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with Revit Architecture 2022 for architectural design. This course is designed for students who have no prior Revit experience and want to learn the basics. Instructor Paul F. Aubin begins by helping you get comfortable with the Revit environment. He demonstrates how to set up a project and add the grids, levels, and dimensions that will anchor your design. Then Paul helps you dive into modeling: adding walls, doors, and windows; using joins and constraints; creating groups; linking to DWG files; and modeling floors, roofs, and ceilings. He also shows advanced techniques for modeling stairs and complex walls, adding rooms, and creating schedules. Finally, discover how to annotate your drawings so all the components are clearly understood, as well as output sheets to PDF and AutoCAD.

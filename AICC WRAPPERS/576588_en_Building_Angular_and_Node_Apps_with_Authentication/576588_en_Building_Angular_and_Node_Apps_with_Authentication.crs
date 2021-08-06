@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=576588
+Course_System=linkedin.com
+Course_Title=Building Angular and Node Apps with Authentication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you already familiar with Angular 2 and Node.js? If so, this course can help you leverage these two popular frameworks to build a full-stack web application—which you can later use as a template for your own web app. Join Alexander Zanfir as he shows how to create and configure an Angular 2 project, display data in Angular 2, get your data from Node.js, and save your data to Node.js. He also covers how to create a form in Angular, set up routes, validate with reactive forms, register users, and more.

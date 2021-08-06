@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=435131
+Course_System=linkedin.com
+Course_Title=Revit: View Range
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Floor plans are an essential part of any Revit project. And one of the most critical (and confusing) aspects of any floor plan is view range. The view range settings are linked to three horizontal planes that control the visibility and display of objects in a plan view—Top, Cut Plane, and Bottom—as well as an additional plane called View Depth. Properties can be adjusted through the View Range dialog, but only certain elements are cuttable. There are special case rules for elements such as floors, walls, and stairs. Here Paul F. Aubin explains each of the view range settings and properties in detail, demystifying these functions once and for all. Learn what the cut plane does and why certain elements seem to have their own rules when it comes to interacting with the cut. Understand the above and below ranges and how you can control elements beyond. Find out how to control view range within plan regions and in linked files in Revit. Both floor plans and reflected ceiling plans will be considered, as well as roof and foundation plans. Once you have completed this course, you will finally understand exactly how Revit view range works.

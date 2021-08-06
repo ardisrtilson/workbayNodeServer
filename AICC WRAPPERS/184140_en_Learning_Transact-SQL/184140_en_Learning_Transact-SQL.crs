@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Jones
+Course_ID=184140
+Course_System=linkedin.com
+Course_Title=Learning Transact-SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to utilize Transact-SQL to address real business requirements and gain a solid understanding of your SQL Server database. Jeff Jones, an IT professional with over forty years of experience shows you how to use the tools available in Transact-SQL to discover the database definition, access tables, submit queries, and view the results.

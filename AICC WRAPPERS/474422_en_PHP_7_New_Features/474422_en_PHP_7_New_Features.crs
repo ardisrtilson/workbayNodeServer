@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=474422
+Course_System=linkedin.com
+Course_Title=PHP 7 New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PHP 7 is the first major release of PHP in more than 11 years. This course by expert instructor Kevin Skoglund provides an overview of the new features, improvements, and changes in PHP 7. Learn about new tools to help write smarter code, and the key changes you need to watch for to ensure your existing PHP code works correctly after an upgrade.

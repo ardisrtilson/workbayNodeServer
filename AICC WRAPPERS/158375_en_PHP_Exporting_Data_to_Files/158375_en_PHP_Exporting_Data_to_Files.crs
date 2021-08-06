@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=158375
+Course_System=linkedin.com
+Course_Title=PHP: Exporting Data to Files
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Providing a file from a database in exactly the same format that's requested by the user is an extremely valuable technique. In this course, David Powers shows you how to export data from a database with PHP in a variety of formats, including rich text, CSV, Excel, Word, OpenOffice spreadsheets and documents, and even XML. He introduces tools like PHPExcel and PHPRtfLite that make the job of formatting the data (fonts, headers, columns, and all) easier to manage, and also shows how to embed nontext data like images in your exports.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Derek Jedamski
+Course_ID=751335
+Course_System=linkedin.com
+Course_Title=Applied Machine Learning: Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Anyone who can write basic Python is capable of fitting a simple machine learning model on a clean dataset. The competitive edge comes in the ability to customize and optimize those models for specific problems. The workflow used to build effective machine learning models and the methods used to optimize those models are typically not algorithm or problem specific. In this course, the first installment in the two-part Applied Machine Learning series, instructor Derek Jedamski digs into the foundations of machine learning, from exploratory data analysis to evaluating a model to ensure it generalizes to unseen examples. Instead of zeroing in on any specific machine learning algorithm, Derek focuses on giving you the tools to efficiently solve nearly any kind of machine learning problem.

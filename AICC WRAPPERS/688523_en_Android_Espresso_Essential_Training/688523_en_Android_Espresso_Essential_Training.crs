@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chiu-Ki Chan
+Course_ID=688523
+Course_System=linkedin.com
+Course_Title=Android Espresso Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Testing is essential to delivering high-quality software. Espresso is the tool of choice for many Android developers, who need to test the logic and UI of their applications. Join instructor Chiu-Ki Chan to learn the essentials of Android Espresso for UI testing. Learn how to write tests by hand, and then leverage the Espresso Test Recorder to record actions that generate the code for you. Find out how to use the Layout Inspector to pinpoint the views you want to test, and also test scrolling views such as list and recycler views.

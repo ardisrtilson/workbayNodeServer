@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=2835065
+Course_System=linkedin.com
+Course_Title=3ds Max to Unreal Engine Workflow and Troubleshooting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you have 3D designs that you want to take from 3ds Max and make interactive, you’ve probably already explored using Unreal Engine. In this course, Brian Bradley shows you some potential workflows for transferring assets from 3ds Max into Unreal in as clean and easy a manner as possible, including some of the potential problems and pitfalls that you can run into along the way. Brian first covers the steps you should take in 3ds Max to get your scenes ready for export in a quick and straightforward manner. Then, he gets into how to fix some of the common problems that might arise at different points along the production process. After this course, you’ll be better equipped to transfer your assets smoothly and spend less time moving your files around and more time working in Unreal.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=648939
+Course_System=linkedin.com
+Course_Title=React VR: Interactive Multimedia
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you've learned the basics of virtual reality, you can create immersive, interactive experiences that enable users to play and learn. With React VR, developers can add multimedia, including video, 3D models, and animation, and use the component state to dynamically re-render content. This course teaches you how to go beyond the basics and combine these elements into a single immersive VR project: a space-themed environment for NASA Earth Science. Instructor Emmanuel Henri also teaches you how to structure and test your projects, letting you safely explore more complex possibilities with React VR.

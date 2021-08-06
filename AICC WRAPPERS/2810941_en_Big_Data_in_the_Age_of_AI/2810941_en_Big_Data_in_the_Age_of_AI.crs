@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=2810941
+Course_System=linkedin.com
+Course_Title=Big Data in the Age of AI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The hype about big data may have peaked several years ago, but big data is far from gone. Instead it forms the foundation for some of today's most exciting technologies. Artificial intelligence (AI), machine learning, and data science rely on big data, or data that—by virtue of its velocity, volume, or variety—can't be easily stored or analyzed with traditional methods. In this nontechnical course, Barton Poulson digs into the topic of big data, explaining how it works and shapes our modern data universe. Barton explains big data's relationship to AI, data science, social media, and the Internet of Things (IoT). He goes over some of the ethical issues behind the use of big data. Plus, he covers techniques involved in analyzing big data, including data mining and predictive analytics.

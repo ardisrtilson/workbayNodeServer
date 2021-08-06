@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lott
+Course_ID=2824432
+Course_System=linkedin.com
+Course_Title=Migrating from Python 2.7 to Python 3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you still using Python 2.7? Official support for this version ended in January 2020; upgrading is more important than ever. If you've been meaning to make the jump to Python 3, but aren't entirely sure how to use the new features—or how to migrate your existing code—then this course is for you. Instructor Steven Lott illuminates the differences between the two Python versions, going over changes to built-in Python functions and the Python standard library. He also walks through a number of ways to convert your Python 2.7 applications to Python 3, including manual rewrite and automated migration using packages like six, pytest, and 2to3. Along the way, Steven shares his own experiences with this transition and offers helpful suggestions for enhancing the overall quality and performance of your code.

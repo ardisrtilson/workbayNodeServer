@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=5030992
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Application Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft 365 is a complete, intelligent solution that includes Office 365, Windows 10, and Enterprise Mobility + Security. The applications in Office 365 have the highest visibility to your users, so they’re critical to get right. This course presents fundamental concepts for enterprise administrators that are planning, migrating, deploying, and managing the applications in Microsoft 365. Microsoft MVP Brien Posey covers automated installation, customization, upgrades, and many other important topics. He also helps you troubleshoot deployment and migration-related challenges that you may encounter in the real world.

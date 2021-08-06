@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=SAS Institute
+Course_ID=2823033
+Course_System=linkedin.com
+Course_Title=SAS® 9.4 Cert Prep: Part 02 Accessing Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get ahead in a crowded job market? Get certified with SAS. This course is part of a series by the SAS Institute, designed to prepare you for the SAS 9.4 certification exam. Here, instructor Stacey Syphus helps you understand the first step in the SAS programming process: reading and accessing data in a variety of locations and formats. Learn how to identify the features of SAS tables, access data through libraries, and import unstructured and structured data into SAS for analysis. This course was created by SAS Institute. We are pleased to offer this training in our library.

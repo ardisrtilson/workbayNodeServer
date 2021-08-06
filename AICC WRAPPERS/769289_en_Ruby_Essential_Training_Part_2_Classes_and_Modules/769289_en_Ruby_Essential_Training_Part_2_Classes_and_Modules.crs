@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=769289
+Course_System=linkedin.com
+Course_Title=Ruby Essential Training Part 2: Classes and Modules
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you understand the basics of Ruby, you can start creating custom classes and modules. These programming constructs make it easier to organize and maintain code and extend your applications with new features. In Ruby Essential Training 2, instructor Kevin Skoglund teaches the fundamentals of object-oriented programming with classes and modules. Learn how to define classes, the templates for creating object instances with their own unique behaviors and attributes. Discover how to use inheritance to share attributes and methods between a superclass and subclasses—and to extend or override them when necessary. Then find out how to use modules as namespaces, to prevent conflicts with other code, or as mixins, to share functionality between classes. The course includes step-by-step demonstrations, complete with examples and challenges that allow you to practice your new Ruby skills along the way.

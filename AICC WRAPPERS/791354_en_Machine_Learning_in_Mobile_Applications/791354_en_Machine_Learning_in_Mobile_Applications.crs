@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Ford
+Course_ID=791354
+Course_System=linkedin.com
+Course_Title=Machine Learning in Mobile Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Machine learning is reaching the mainstream. With the new tools available to developers, it's now possible to implement machine learning features—voice, face, and image recognition; personalized recommendations; and more—in a mobile context. This course explores how to apply the power of machine learning to mobile app development, using platforms such as IBM Watson, Microsoft Azure Cognitive Services, and Apple Core ML. Instructor Kevin Ford demos each product, reviewing the different features and approaches to machine learning. He shows how to train and deploy models for natural language and visual recognition and how to generate statistical models for use in a Xamarin application. In chapter five, he compares client-side and server-side models and explains when a developer might choose one platform over another.

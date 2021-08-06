@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2814094
+Course_System=linkedin.com
+Course_Title=Flutter: Part 03 Flutter Widgets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Flutter, you can design beautiful apps with minimal effort. This course introduces developers to Flutter widgets—prebuilt elements that make it easy to create elegant and interactive user interfaces for iOS and Android. This project-based course shows how to build a personal business card app using Container, Row, Column, and Icon widgets. Along the way, instructor Angela Yu explains how to split your code into multiple classes for maximum extensibility, use widgets to manipulate assets like images, and incorporate custom fonts and color schemes into your design. Plus, learn how to use the Card and ListTile widgets to organize data and maximize the readability and accessibility of your app. This course was created by London App Brewery. We are pleased to host this content in our library.

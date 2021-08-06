@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=431188
+Course_System=linkedin.com
+Course_Title=Excel 2016: Advanced Formulas and Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel expert Dennis Taylor demystifies some of the most useful of the 450+ formulas and functions in Excel and shows how to put them to their best use. Dennis starts with a review of the more basic functions (SUM, AVERAGE, and MAX), and a few critical keyboard shortcuts that will let you locate and display formula cells and accelerate working with Excel formulas—even on multiple sheets. He then covers how to find and retrieve data with the VLOOKUP and INDEX functions, calculate totals with counting and statistical functions, extract data with text functions, and work with date, time, array, math and information functions. The course focuses on practical examples that will help viewers easily transition to using Excel's most powerful formulas and functions in real-world scenarios.

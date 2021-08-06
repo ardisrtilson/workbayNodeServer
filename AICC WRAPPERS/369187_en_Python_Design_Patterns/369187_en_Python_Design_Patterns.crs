@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=369187
+Course_System=linkedin.com
+Course_Title=Python: Design Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns encourage programming efficiency and code reuse. This course is a look at traditional design patterns as applied to Python. Jungwoo Ryoo covers 15 essential creational, structural, and behavioral patterns to help you solve common coding challenges, while introducing best practices that will keep your solutions consistent, complete, and correct.

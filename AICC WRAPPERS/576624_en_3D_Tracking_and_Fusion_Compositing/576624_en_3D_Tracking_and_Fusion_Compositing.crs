@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Morse
+Course_ID=576624
+Course_System=linkedin.com
+Course_Title=3D Tracking and Fusion Compositing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're working with a team or on your own, understanding how to efficiently use 3D tracking information in compositing can help you speed up your workflow. In this course, learn how to use 3D tracking data to add 3D objects to a 2D shot in Fusion. Brian Morse shows how to export your cameras to Maya and Fusion from SynthEyes, and explains how to set up your 3D scene once and use it for all of your shots. He also demonstrates how to render your final project so that all of the composites work fluidly.

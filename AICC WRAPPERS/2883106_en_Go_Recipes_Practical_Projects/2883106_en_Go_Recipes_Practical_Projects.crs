@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=2883106
+Course_System=linkedin.com
+Course_Title=Go Recipes: Practical Projects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re figuring out what to make for dinner tonight, this course will not help you. However, if you’re learning the Go programming language, this course is a great resource for practical learning. Instructor Miki Tebeka walks you through common Go projects with recipes, or step-by-step instructions. Miki shows you some basics, such as Go slices, maps, error handling, and panic recovery. He explains how to measure, format, parse, and convert time in Go. Miki goes over ways you can work with text in Go, then demonstrates using structs, methods, and interfaces to improve your code. He discusses working with JSON and HTTP, then concludes by describing the benefits of bringing concurrent instructions to your apps.

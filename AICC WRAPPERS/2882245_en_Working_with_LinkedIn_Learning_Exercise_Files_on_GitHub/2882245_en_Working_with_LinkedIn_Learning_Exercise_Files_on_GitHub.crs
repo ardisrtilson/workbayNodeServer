@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner, Ray Villalobos, Walt Ritscher
+Course_ID=2882245
+Course_System=linkedin.com
+Course_Title=Working with LinkedIn Learning Exercise Files on GitHub
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A LinkedIn Learning membership gives you access to an incredibly rich resource: exercise files that allow you to follow along with the very same project as the instructor. For many of our technology courses, that project lives in GitHub. This course shows how to access GitHub exercise files—from the command line as well as from several popular IDEs, including Visual Studio and Visual Studio Code, IntelliJ IDEA, and GitHub Desktop. Learn how to locate the repository, clone it to your computer, and work with branches. Plus, learn how to save, commit, and roll back branch changes with Git commands. By the end of the course, you’ll have everything you need to start working with these valuable assets.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2803036
+Course_System=linkedin.com
+Course_Title=S/4 Finance: Fiori General Journal Boot Camp
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The modernized Fiori UX bring an app-like experience to SAP. This quick, one-hour course teaches you how to use Fiori to create financial reports and manage different types of accounting journals in S/4HANA. Discover how to run a financial statement, an account balance, and line item details, and post and manage journal entries, including recurring entries, using Fiori apps. Plus, check out the “Appendix” video for a quick reference guide that links Fiori apps to corresponding SAP GUI transaction codes. This course was created by Michael Management. We are pleased to offer this training in our library.

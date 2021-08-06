@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=721897
+Course_System=linkedin.com
+Course_Title=Docker Essential Training: 6 Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore key concepts that can help enterprise administrators, developers, and security professionals make Docker containers more secure. The topics covered in this course can also prepare you to tackle related objectives from the Docker Certified Associate (DCA) certification exam. Instructor David Davis begins by covering essential Docker security concepts, including the level of security that's built into the Docker Engine by default; how to configure security using certificates to ensure that the Docker daemon has rights to access registry images; and content trust in Docker. He then discusses the configuration of Docker security, including how to configure role-based access control (RBAC) in Universal Control Plane (UCP), create UCP client bundles, and configure image scanning in Docker Trusted Registry (DTR).

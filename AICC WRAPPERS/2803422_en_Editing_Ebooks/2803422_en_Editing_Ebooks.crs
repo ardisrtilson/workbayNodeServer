@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Laura Brady
+Course_ID=2803422
+Course_System=linkedin.com
+Course_Title=Editing Ebooks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The independent ebook market is growing, and in this course you’ll explore the steps to editing the components of an ebook file with a view to publishing an EPUB (electronic publication) or MOBI (Mobipocket), formats supported by many ereaders and compatible apps for smartphones, tablets, and computers. The course begins with an exploration of EPUB structure and delves into the basics of HTML and CSS for editing EPUB files. Instructor Laura Brady then dives deeply into the tools and techniques for editing, validating, and repacking an EPUB file.

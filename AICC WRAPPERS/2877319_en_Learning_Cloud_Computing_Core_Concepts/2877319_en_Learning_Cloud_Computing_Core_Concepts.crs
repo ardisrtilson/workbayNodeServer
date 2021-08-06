@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2877319
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Core Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Migrating to the cloud? Get an overview of cloud computing and the key concepts that you should consider. You can choose from public, private, community, and hybrid clouds and leverage emerging deployment models, such as multicloud. When you use cloud computing, you can get extra capacity online and ready for use minutes after you need it, then scale back down just as easily. Instructor David Linthicum helps you understand what cloud computing is and the impact it can have on your cost efficiency, agility, and more. David explains how to select a cloud provider and plan a migration. He reviews the security considerations, typical day-to-day operations, and tools that IT administrators need to keep their cloud-based infrastructure up and running. David goes into multicloud operations and advanced cloud operations approaches and technologies, then he concludes with a thorough discussion of cloud governance.

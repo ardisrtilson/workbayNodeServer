@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeanne Aarhus
+Course_ID=577364
+Course_System=linkedin.com
+Course_Title=Migrating from AutoCAD to MicroStation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How can your knowledge of AutoCAD help you adopt the use of MicroStation? This course provides a comparison between corresponding features, allowing those who are familiar with AutoCAD to quickly learn MicroStation, and those who aren't to learn the features in logical order. First, Jeanne Aarhus covers the MicroStation interface, design file concepts, views, attributes, shortcuts, and precise drawing techniques. Next, she shows how to practice drawing commands and manipulate objects. She wraps up the course by walking through the use of several element modification and selection features.

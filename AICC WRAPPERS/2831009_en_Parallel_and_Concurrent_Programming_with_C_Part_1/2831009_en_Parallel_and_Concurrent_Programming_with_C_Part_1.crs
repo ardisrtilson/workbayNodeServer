@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Chiu Stone, Barron Stone
+Course_ID=2831009
+Course_System=linkedin.com
+Course_Title=Parallel and Concurrent Programming with C++ Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Parallel programming unlocks a program’s ability to execute multiple instructions simultaneously. It increases the overall processing throughput and is key to writing faster and more efficient applications. This training course introduces the basics of concurrent and parallel programming in C++, providing the foundational knowledge you need to write more efficient, performant code. Instructors Barron and Olivia Stone explain concepts like threading and mutual exclusion in a fun and informative way, relating them to everyday activities you perform in the kitchen. To cement the ideas, they demo them in action using C++. Each lesson is short and practical, driving home the theory with hands-on techniques.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=604218
+Course_System=linkedin.com
+Course_Title=Excel 2016: Working with Dates and Times
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Getting dates and times to show up the way you want in an Excel spreadsheet can be tricky. In this concise course, Excel expert Dennis Taylor shares easy solutions for formatting and calculating dates and times in Excel 2016. Dennis explains what's going on behind the scenes when Excel stores dates and times, and offers tips for entering and formatting data. Next, he demonstrates how to work with dates and times in common Excel functions, and how to calculate data with dates and times. Finally, Dennis explains how to use dates and times with Excel commands, including working with data filters.

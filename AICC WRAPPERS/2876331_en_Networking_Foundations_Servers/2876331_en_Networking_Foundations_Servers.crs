@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2876331
+Course_System=linkedin.com
+Course_Title=Networking Foundations: Servers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Servers are the heavy lifters of IT. They power the internet, email, enterprise-level applications, databases, local networks, and more. While most users have a superficial understanding of servers, system administrators and IT pros must know them intimately. You must be prepared to configure, deploy, and maintain a variety of servers—with high availability and scalability. This course covers the fundamentals of servers, including popular server operating systems such as Windows Server and Linux. It's designed for the entry-level IT student who needs a basic understanding of server architecture, user administration, virtualization, storage, security, networking, and disaster recovery. Instructor Ed Liberman, an IT consultant and trainer for over 20 years, also reviews troubleshooting theory and tools, so you can understand common problems that can arise with servers and how to solve them.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=492725
+Course_System=linkedin.com
+Course_Title=Houdini: Advanced Motion Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Procedural animation is a powerful way to create motion that would be both inefficient and impractical to animate manually. Houdini offers a range of procedural animation tools that complement the CINEMA 4D and Maya pipelines. Adding Houdini allows for the generation of highly complex motion with relative ease and gives animators a whole new toolkit of reusable techniques. The techniques shown here use wire dynamics, rigid body dynamics, and channel networks to create animation data that can be imported into C4D or Maya and assembled, lit, and rendered there. Author Scott Pagano shows how to create organic-looking strand movement, audio-reactive motion graphics, a vine-growing system, and dynamic simulations for fracturing and destroying objects. Houdini is a powerhouse for all realms of moving image creation; with these videos, it will be a significant addition to your motion graphics arsenal.

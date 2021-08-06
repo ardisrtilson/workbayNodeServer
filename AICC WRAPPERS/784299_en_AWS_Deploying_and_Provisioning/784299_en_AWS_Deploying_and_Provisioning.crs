@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Rich
+Course_ID=784299
+Course_System=linkedin.com
+Course_Title=AWS: Deploying and Provisioning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AWS is an exciting proposition for DevOps. Yes, it's amazing to be able to build a virtual data center with ease, but that's just the beginning: wait until you start using AWS to deploy software. Watch this course to learn how to use AWS tools to provision hosts and deploy apps that take advantage of its elastic, cost-effective, and scalable infrastructure. IT architect and instructor Brandon Rich shows how to start up new computing resources with EC2, provision them, and deploy applications in a fast, automated, and consistent way. Discover how to manage infrastructure as code with CloudFormation, rapidly build an app stack with Elastic Beanstalk, perform provisioning and deployment with OpsWorks, automate code pushes with CodeDeploy, and quickly set up your coding projects with CodeStar. This course is also part of a series designed to help you prepare for the AWS Certified SysOps Administrator – Associate certification exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=161801
+Course_System=linkedin.com
+Course_Title=Rhino and V-Ray: Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Before you can showcase your 3D designs, you need renders of your work that really pop. Learn how to render with Rhino and V-Ray in this course, which includes three fun sample projects: a penguin with glasses, a retro TV frame, and a funky birdhouse. First, author Dave Schultze shows how to install V-Ray and demystifies 3D concepts such as global illumination and raytrace rendering. He demonstrates techniques for rendering quickly with both Rhino's built-in rendering and V-Ray, and explains how to customize materials, enhance them with texture mapping, and add realistic surface textures using bump and displacement maps. Along the way, Dave shares insider tips and tricks on rendering, while showing how to get the right lighting for your scene, use color correction tools, and render with the V-Ray frame buffer.

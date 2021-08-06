@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joan Horvath, Rich Cameron
+Course_ID=2855006
+Course_System=linkedin.com
+Course_Title=3D Printing: Short-Run Production
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As an alternative to traditional manufacturing techniques such as injection molding, additive manufacturing becomes an attractive option at quantities as high as thousands of units. It can also function as a backup for making bridge parts before the regular ones are available in a manufacturing plant. This course discusses some of the key advantages of 3D printing, including part number reduction and thus reduced assembly time; increased reliability; backup capability in case of a part shortage; and possibly lower tooling costs. Instructors Rich Cameron and Joan Horvath also review some of the real-world manufacturing use cases where additive is cost effective and suggest which materials (filament, resin, or powder) might make the most sense for your company and product.

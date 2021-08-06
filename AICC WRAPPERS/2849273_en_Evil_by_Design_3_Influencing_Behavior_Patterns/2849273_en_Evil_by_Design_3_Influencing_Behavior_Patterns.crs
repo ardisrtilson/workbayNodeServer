@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=2849273
+Course_System=linkedin.com
+Course_Title=Evil by Design 3: Influencing Behavior Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, the third installment in the series based on his book Evil by Design, Chris Nodder provides an overview of how you can use persuasive design and dark patterns to influence a viewer's behavior, motivate specific goals, and the ethical implications of doing so. Chris shows you how to leverage emotional scenarios such as a need for closure, commitment, positive and negative reinforcement, and breakage into your designs to affect someone's capacity to change their behavior and act in certain ways. He also explores the moral ramifications of such emotional manipulation in user experience and design in general.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Lavanya Vijayan
+Course_ID=2861086
+Course_System=linkedin.com
+Course_Title=Python Data Science Mistakes to Avoid
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're a master in Python or you're still learning, chances are you're making simple mistakes that cost you time and productivity. In this course, learn about the most common mistakes that data scientists make while using Python, as well as how to avoid these missteps in your own work. Discover issues to avoid in the area of coding practices, such as giving objects vague names. Learn about mistakes that developers make when structuring code, including creating circular dependencies. Plus, explore common missteps developers make when handling data and working on machine learning projects. By the end of this course, you'll be equipped with a list of tools, strategies, and best practices to improve your effectiveness when working with data in Python.

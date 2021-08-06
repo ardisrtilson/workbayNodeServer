@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Taylor Hokanson
+Course_ID=2881063
+Course_System=linkedin.com
+Course_Title=Learning Fusion 360
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Autodesk Fusion 360, the cloud-based 3D computer-aided design (CAD), computer-aided manufacturing (CAM), and computer-aided engineering (CAE) application that unifies design, engineering, and manufacturing into a single platform. Instructor Taylor Hokanson gives an overview of the interface, then walks through the modeling, sculpting, and rendering workflows in Fusion 360. Taylor also shows how to import reference images, use the sketching tools, extrude 3D shapes, combine components into assemblies, and render animations that show designs in action. Plus, learn how to sculpt organic shapes by editing T-spline forms.

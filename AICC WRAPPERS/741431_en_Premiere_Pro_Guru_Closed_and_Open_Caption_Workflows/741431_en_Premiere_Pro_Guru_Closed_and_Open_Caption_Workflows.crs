@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff I. Greenberg
+Course_ID=741431
+Course_System=linkedin.com
+Course_Title=Premiere Pro Guru: Closed and Open Caption Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Closed captioning is a necessity for some types of content. Even when it's not a necessity, captioning video is beneficial because it allows the content to be seen in multiple locations and by more people. In this course, learn how to use Adobe Premiere Pro in your captioning workflow. First, learn about the different types of captions, including open and closed. Next, discover best practices you can follow to help make a transcription process go smoothly, whether you use a transcription service or generate transcripts on your own. Then, learn how to create and format caption tracks and leverage Transcriptive, a third-party plugin that you can use to transcribe your footage. Finally, learn how to export correctly, especially because not every format supports embedded captions.

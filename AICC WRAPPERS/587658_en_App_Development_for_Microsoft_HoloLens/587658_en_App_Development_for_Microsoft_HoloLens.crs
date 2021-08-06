@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Vroegop, James Ashley
+Course_ID=587658
+Course_System=linkedin.com
+Course_Title=App Development for Microsoft HoloLens
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Augmented reality (AR) is the next big frontier for app developers. The HoloLens is one of the first commercial devices available in AR. Luckily for developers, Visual Studio has built-in support for HoloLens, and the concepts and syntax are similar to developing for other Microsoft platforms. With Windows 10 Pro and a decent graphics card, you can start developing for mixed reality today. Join instructors Dennis Vroegop and James Ashley for this introduction for HoloLens app development. They show you how to set up your development environment, including Unity and the HoloToolkit; how to deploy to HoloLens and the HoloLens emulator; and how to build apps that accept user input via gazes, tapping, and speech. Then discover how to use spatial mapping to detect your surroundings and analyze your environment with spatial understanding. Learn how to implement spatial sound that adds to the user's existing environment, and synchronize data to create shared experiences. Along the way, learn how it all comes together in two simple 3D apps: a visualization for enterprise business and a platform game.

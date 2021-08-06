@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=161084
+Course_System=linkedin.com
+Course_Title=Designing a Sheet Metal Enclosure with SOLIDWORKS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Real-world projects are vital to mastering SOLIDWORKS, and sheet metal enclosures are a perfect example of a typical project. Sheet metal enclosures house and protect circuitry, wiring, and other sensitive electronic parts and frequently require customization by a professional CAD designer. So take a firsthand walk through designing a sheet metal enclosure for circuit boards and panel-mounted connectors, as well as fans, power cords, and switches, with SOLIDWORKS. Gabriel Corbett covers the key techniques for working with in-context parts and assemblies that dynamically adjust based on the master part model. He'll show you how to use equations to drive the size of the box and calculate vent holes, work with circuit boards, and download connector components. Plus, learn how to add decals before prepping the final drawings for manufacturing.

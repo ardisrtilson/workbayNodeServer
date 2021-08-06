@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Vincent van der Leun
+Course_ID=718659
+Course_System=linkedin.com
+Course_Title=Learning JVM Languages: JVM, Java, Scala
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Java virtual machine (JVM) interprets Java bytecode and translates it into action, enabling Java applications to be run on any computer. JVM apps can be written in Java or Scala—two object-oriented languages with their own feature and benefits. This course provides in-depth coverage of JVM and the basics of imperative, object-oriented, and functional programming in Java and Scala. Learn why you should develop on JVM and discover the tools, such as Eclipse and Gradle, that you need to start programming. Explore the Java Development Kit (JDK) and the toolkits and prebuilt classes included in the Java Class Library. Learn how to write Java code to implement classes and to create a simple web service, and then explore more complex topics in Scala, including the difference between functional and imperative programming. By the end of the course, you will have written multiple programs for JVM and will better understand the differences between the Java and Scala languages.

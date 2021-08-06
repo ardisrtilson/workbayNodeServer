@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Bogue
+Course_ID=424118
+Course_System=linkedin.com
+Course_Title=Developing SharePoint Full Trust Solutions for SharePoint 2013
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Full-trust farm solutions allow SharePoint administrators to build new features in solution packages (WSPs), upload them to the server environment, and deploy them to users without any restrictions, aka with full trust. This has been the standard way to get new web parts and custom code to SharePoint users since 2007. If you've wanted to learn how to develop custom solutions on SharePoint—or you've been told that you need to develop a solution that integrates with SharePoint—this is the training you need. It's quick, to the point, and effective at helping new developers work with SharePoint code. Robert Bogue shows how to create new web parts, access and update data in SharePoint, work with files, and create SharePoint artifacts: lists and libraries to store data, site-level features, files, etc. He also shows how to create sandbox solutions that do not affect the rest of the server environment, and discusses execution options for solutions, including in-page, quasi-page, and out-of-page execution.

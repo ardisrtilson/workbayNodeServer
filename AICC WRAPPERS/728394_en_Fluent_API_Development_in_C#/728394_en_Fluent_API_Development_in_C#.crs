@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=728394
+Course_System=linkedin.com
+Course_Title=Fluent API Development in C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fluent APIs use method chaining for maximum readability and flow. They may be slightly more complicated to write, but are much easier to understand and solve specific complex programming challenges that general-purpose languages can't. This training course teaches the what, why, and how of fluent API development using C#. Learn the history of fluent APIs, beginning with the coining of the phrase fluent by Martin Fowler. Next, learn how to decide if fluent APIs are right for your project, and how to go about designing them. Instructor Robby Millsap also reviews some popular fluent libraries such as LINQ and Azure Management. Lastly, he takes a simple console application and shows how to refactor it to use fluent prose.

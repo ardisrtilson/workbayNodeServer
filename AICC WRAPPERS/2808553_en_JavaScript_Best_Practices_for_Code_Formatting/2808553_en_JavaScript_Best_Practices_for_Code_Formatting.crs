@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2808553
+Course_System=linkedin.com
+Course_Title=JavaScript: Best Practices for Code Formatting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript offers developers tremendous power, but also a wide variety of code style choices. Its evolution over decades and shifts in audience and approach have left communities fragmented and impeded code sharing. In this course, longtime coder and teacher Sasha Vodnik provides a core set of practices for creating code that can be read by more people than its creators. Learn about formatting details like commenting, punctuation, and spacing to maximize your code's ability to travel and thrive.

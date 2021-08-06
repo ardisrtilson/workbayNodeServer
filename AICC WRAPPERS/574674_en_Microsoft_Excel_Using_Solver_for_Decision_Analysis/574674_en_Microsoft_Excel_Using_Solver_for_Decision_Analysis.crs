@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=574674
+Course_System=linkedin.com
+Course_Title=Microsoft Excel: Using Solver for Decision Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Solver—a Microsoft Office Excel add-in—can help you analyze your data more efficiently. In this course, learn how to leverage Solver to find optimal solutions to problems with multiple constraints. Curt Frye explains how to install Solver, organize worksheets to make the data and summary operations clear, and find a solution using Solver. He also takes you through how to optimize investment portfolios by setting rules that limit the risk you're willing to take on, as well as how to change a model's parameters to analyze various scenarios. Plus, Curt shares how to define decision trees, represent a tree in an Excel table, and calculate the probability of reaching a node in your decision tree.

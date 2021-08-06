@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2314074
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 4 Secure Software Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Work toward attaining a globally recognized credential from (ISC)2, the Certified Secure Software Lifecycle Professional (CSSLP) certification. This course, the fourth of an eight-part series, focuses on Domain 4: Secure Software Implementation. Get a comprehensive look at topics related to this domain, from securely declaring variables and reinforcing safe deployment to finding and fixing vulnerabilities, including the most significant web application security risks, the OWASP Top 10. This course can also help those working in IT or with software to improve the security of their organization’s applications.

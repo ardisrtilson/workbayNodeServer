@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2312494
+Course_System=linkedin.com
+Course_Title=Cybersecurity with Cloud Computing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+More and more companies are migrating their applications and infrastructure to the cloud, shifting operational aspects to service providers such as Microsoft and Amazon. However, cloud computing is a shared responsibility, especially when it comes to keeping your data, users, and systems safe. In this course, Malcolm Shore outlines the major forms of cloud technology, its benefits and risks, and the cybersecurity standards and body of knowledge required to mitigate those risks. He introduces concepts such as software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS) and the different deployment models available. He then reviews offerings from Microsoft Azure, Amazon Web Services, and Google Apps. Malcolm also shows the Security as a Service (SecaaS) capability of each platform, which can be used to identify unauthorized access and put cloud security defenses like encryption, logging, and monitoring into place.

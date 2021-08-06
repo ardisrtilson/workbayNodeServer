@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Valley
+Course_ID=2808537
+Course_System=linkedin.com
+Course_Title=Learning SAP MM (Materials Management)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To consistently deliver completed products on time, an organization needs an effective system for managing products, inventory, and purchased materials. SAP Material Management (MM), a key module in the SAP ERP suite, tracks all aspects of material management—from purchase through sale—for enterprise organizations. In this course, learn how to get up and running with SAP Material Management (MM). To begin, instructor Justin Valley provides a high-level look at the materials management process in SAP MM, as well as how it integrates with other SAP modules. Next, Justin shows how to create material master records and approach the purchasing, inventory management, and physical inventory processes (and run related reports).

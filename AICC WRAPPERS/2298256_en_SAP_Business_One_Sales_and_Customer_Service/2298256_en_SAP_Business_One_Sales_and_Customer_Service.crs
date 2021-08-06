@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=2298256
+Course_System=linkedin.com
+Course_Title=SAP Business One: Sales and Customer Service
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAP Business One is a turn-key solution for organizations needing an enterprise CRM system. In this course, you can learn how to leverage the Sales and Customer Service modules of SAP Business One for customer relationship management. Instructor Steve Lipton—CIO of a manufacturing company running SAP Business One—shows how to move prospects through the sales cycle, including billing and invoicing, as well as how to provide ongoing support to your existing customers by tracking their communication and handling their unique needs, from custom invoices to returns. Learn how to create new customer records, process sales orders, ship orders, send invoices, and generate meaningful reports. Everything you learn in this course will help you use SAP Business One tools to convert more leads into satisfied customers.

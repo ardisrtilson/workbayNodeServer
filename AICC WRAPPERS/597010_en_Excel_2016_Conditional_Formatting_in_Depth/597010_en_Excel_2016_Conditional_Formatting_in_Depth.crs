@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=597010
+Course_System=linkedin.com
+Course_Title=Excel 2016: Conditional Formatting in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel's conditional formatting feature allows you to highlight data based on cell contents, making it easy to spot trends and patterns and emphasize key results. Though this process can be quick and easy, many Excel users don't know how to use conditional formatting to its fullest potential. In this brief course, Excel trainer Dennis Taylor walks you through how to apply and customize conditional formatting to quickly pinpoint variances in your data. Dennis begins with a demonstration of how to format based on cell content or formulas. Next, he shows how to go beyond Excel's default formatting (cell highlighting) by using data bars, icon sets, and color scales. Lastly, Dennis shows how to apply conditional formatting across rows, including how to highlight PivotTable results and incorporate check boxes and data validation pick lists to create dynamic visual displays.

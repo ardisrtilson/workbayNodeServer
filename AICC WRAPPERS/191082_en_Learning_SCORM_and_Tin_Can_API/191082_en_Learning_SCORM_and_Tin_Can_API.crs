@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Rivers
+Course_ID=191082
+Course_System=linkedin.com
+Course_Title=Learning SCORM and Tin Can API
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SCORM, the Sharable Content Object Reference Model, integrates elearning content into learning management systems (LMSs), whether they're proprietary or purchased off the shelf, and is foundational knowledge for elearning creation. This course introduces the what, why, and how of SCORM, and the tools for creating SCORM-compliant content. Author David Rivers also covers the second generation of compliance integration, the Tin CAN API (aka the Experience API), which allows for learning events to be recorded and analyzed.

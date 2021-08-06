@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2241060
+Course_System=linkedin.com
+Course_Title=Building Tools with Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tools aren't the flashiest, most attention-grabbing type of software. But a great tool—one that successfully automates or enhances a repetitive process—gives valuable time back to your colleagues, allowing them to spend less time clicking buttons and more time on thoughtful projects. Tool development exists in a space between IT support and software engineering, and if you’re tasked with creating tools, there are some important principles to keep in mind. In this course, Scott Simpson discusses designing for end users, craftsmanship, and trust as they relate to building small software utilities. He surveys concepts related to tool development, and uses Python to explore ideas that you’ll want to keep in mind when developing tools for your users.

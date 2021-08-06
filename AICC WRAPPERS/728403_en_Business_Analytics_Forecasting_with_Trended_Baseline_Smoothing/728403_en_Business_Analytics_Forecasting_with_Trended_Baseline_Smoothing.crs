@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=728403
+Course_System=linkedin.com
+Course_Title=Business Analytics: Forecasting with Trended Baseline Smoothing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Simple exponential smoothing (SES) incorporates most of the elements used in the smoothing approach to forecasting, such as a level smoothing constant, self-correction, and the gradual weakening of the influence of older observations on new forecasts. But SES works poorly with baselines that display either trends or seasonality. The trended time series is one step up in complexity from the stationary time series analyzed by SES—its baseline trends up or down. The use of exponential smoothing with a trended baseline is often called Holt's method, and this course was designed to equip you with this technique. Here, instructor Conrad Carlberg explains how to use Holt's method to create forecasts in R that deal with trends in a baseline.

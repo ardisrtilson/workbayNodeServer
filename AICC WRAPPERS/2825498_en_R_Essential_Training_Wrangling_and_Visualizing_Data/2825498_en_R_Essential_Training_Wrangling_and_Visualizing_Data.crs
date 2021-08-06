@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=2825498
+Course_System=linkedin.com
+Course_Title=R Essential Training: Wrangling and Visualizing Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Trying to locate meaning and direction in big data is difficult. R can help you find your way. R is a statistical programming language to analyze and visualize the relationships between large amounts of data. This training series provides a thorough introduction to R, with detailed instruction for installing and navigating R and RStudio and hands-on examples, from exploratory graphics to neural networks. In part one, instructor Barton Poulson shows how to get R and popular R packages up and running and start importing, cleaning, and converting data for analysis. He also shows how to create visualizations such as bar charts, histograms, and scatterplots and transform categorical, qualitative, and outlier data to best meet your research questions and the requirements of your algorithms.

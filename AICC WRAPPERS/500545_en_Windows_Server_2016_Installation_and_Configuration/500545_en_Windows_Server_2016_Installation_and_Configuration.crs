@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=500545
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Installation and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Planning a Windows Server 2016 installation and configuration is an important skill for any system administrator. In this course, Scott Burrell walks through the planning phase, addressing features that are new to Server 2016 like Nano Server, and then goes into configuring interfaces, server roles, and storage in preparation for installing other services like Active Directory. Learn how to work with the command line, manage roles, configure the features businesses need most, and enable virtual storage.

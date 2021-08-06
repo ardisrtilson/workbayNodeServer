@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Franz Buscha
+Course_ID=2848256
+Course_System=linkedin.com
+Course_Title=11 Useful Tips for Regression Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you need to sort through information to gain insights or make data-driven decisions, regression analysis is a helpful tool in almost any circumstance. On the most basic level, regression analysis reveals relationships between a dependent variable and a collection of independent variables in a fixed dataset. This is crucial for predicting and forecasting, and also helpful for inferring causal relationships between variables. In this course, Franz Buscha moves beyond the basics, showcasing several prominent tips and tricks that will allow you to not only build better regression models, but also present your results in a more impactful way. Through use of practical examples, Franz covers topics like weighted regressions, polynomial variables, and how to deal with missing data in your regression models.

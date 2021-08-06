@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=681104
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Converting Synchronous Calls to Asynchronous
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Review key concepts that can help you gain a more practical understanding of asynchronous programming. Join instructor Reynald Adolphe as he covers how to switch from synchronous programming to asynchronous programming. Reynald explores the principles behind the await and async keywords, and provides synchronous and asynchronous demonstrations with a desktop app. He then goes over how to convert synchronous code to asynchronous code—and vice versa—in ASP.NET Core and Entity Framework Core, and explores how to test an application to confirm that the conversion was done successfully.

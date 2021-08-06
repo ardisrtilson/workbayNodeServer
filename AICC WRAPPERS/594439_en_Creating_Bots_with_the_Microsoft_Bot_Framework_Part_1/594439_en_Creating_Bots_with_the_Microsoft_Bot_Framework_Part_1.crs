@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=594439
+Course_System=linkedin.com
+Course_Title=Creating Bots with the Microsoft Bot Framework, Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Bot Framework provides the resources you need to build intelligent bots that interact naturally wherever your users are talking—from text and SMS to Skype, Slack, Office 365 mail, and other popular services. Get started building bots of your own with this introductory video from Scott J. Peterson. This is the first part of a two-part series. This first part covers installation, setup, connectors, activities, messages, states, authentication, and dialogs. Note: This course was created by Wintellect. We are honored to host this content in our library.

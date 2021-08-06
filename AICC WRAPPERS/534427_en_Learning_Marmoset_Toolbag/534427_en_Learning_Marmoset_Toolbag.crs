@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Bradley
+Course_ID=534427
+Course_System=linkedin.com
+Course_Title=Learning Marmoset Toolbag
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Marmoset Toolbag is a full-featured, real-time rendering toolkit and look-dev suite bundled in an easy-to-use package. This straightforward and robust software offers digital artists the ability to see their 3D models in real time. Marmoset Toolbag works seamlessly with other procedural-based software used by professional game and media developers, such as Substance Painter, Quixel, MARI, and 3D-Coat. In this course, Christian Bradley breaks down the rendering pipeline provided by Marmoset Toolbag 2. Follow Christian as he provides an overview of the program's interface and explains basic techniques such as importing models. He also explains how the various map types affect the materials created in the program, walks you through how to save presets, and shows how to render your creations.

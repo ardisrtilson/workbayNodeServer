@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Goforth
+Course_ID=2873342
+Course_System=linkedin.com
+Course_Title=C#: Design Patterns Part 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns in C# can save you a lot of time, as you don’t have to recreate code that has already been proven. In this course, instructor Richard Goforth explains what design patterns are and how you can recognize and implement five C# patterns: Observer, Builder, Command, Proxy, and Chain of Responsibility. For each pattern, Richard gives a definition, at least one example of how to implement or use it, any other explanations you may need, and a practice challenge. He concludes with some suggestions on where to continue your education in C# application design with patterns.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=475940
+Course_System=linkedin.com
+Course_Title=Unity: Cloud Build with Git
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity Cloud Build watches your source code and automatically compiles, deploys, and tests new changes. Git is a popular version control system that allows you to track changes to your project and revert them when needed. Together, they make the perfect toolset for speeding up Unity game development. In this course, Jesse Freeman introduces Unity Cloud Build and shows you how to set up Unity Cloud Build projects, tag builds, push changes via Git to Bitbucket, fix bugs, and manage project changes every step of the way. In chapter 5, he shows you how to optimize your workflow to get the most out of the toolset and compile games across multiple platforms: WebGL, desktop, and mobile.

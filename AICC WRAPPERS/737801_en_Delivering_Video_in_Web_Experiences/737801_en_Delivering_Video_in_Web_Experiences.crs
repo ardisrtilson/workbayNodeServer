@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=737801
+Course_System=linkedin.com
+Course_Title=Delivering Video in Web Experiences
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the evolution and best practices of video delivery on the web. In this course, Tom Green shows how to deliver rich video experiences with ease, going over key concepts that can help web publishers and designers keep their skills sharp. Tom begins by reviewing the somewhat unusual genesis of web video. Next, he reviews the most common video formats, including MP4 and 3GP; shares how to encode quality video that's optimized for online delivery; and goes over the HTML5 code that enables these experiences. Plus, he shares tips for playing around with video, including how to create and deploy full-screen background videos, make your videos accessible by adding captions, prepare videos for social media, and more.

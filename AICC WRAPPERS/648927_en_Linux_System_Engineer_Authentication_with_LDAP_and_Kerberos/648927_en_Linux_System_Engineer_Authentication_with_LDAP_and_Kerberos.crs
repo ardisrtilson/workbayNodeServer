@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=648927
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Authentication with LDAP and Kerberos
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the Red Hat Certified Engineer (RHCE) certification-the benchmark certification for Red Hat Enterprise Linux (RHEL)-demonstrates to both your current organization and potential employers that you possess expert-level competence with RHEL. This course covers authentication with LDAP and Kerberos as part of RHCE certification prep. Join instructor and Linux enthusiast Grant McWilliams as he discusses using Network Time Protocol (NTP) for authentication, as well as configuring an NTP server and client. Grant also explains how to set up a Lightweight Directory Access Protocol (LDAP) server and client, and how to configure Kerberos client authentication.

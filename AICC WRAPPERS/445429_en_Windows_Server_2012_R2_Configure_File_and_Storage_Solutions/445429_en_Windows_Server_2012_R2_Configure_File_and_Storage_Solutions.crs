@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=445429
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Configure File and Storage Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Efficient and secure storage is a key piece of any enterprise network. That's why IT managers look for admins that have mastered the ability to configure file and storage solutions on Windows Server. This training course is for current and future Windows administrators who need to set up and manage NFS and DFS, DAC, virtual storage, and RAIDs, and manage file permissions on Windows Server 2012 R2. Instructor Robert McMillen covers Windows storage pools, iSCSI targets and initiators, Distributed File System, and Windows System Resource Manager. Techniques such as configuring tiered storage and redundant storage, data deduplication, and setting up file shares are also covered in detail. These tutorials will help prepare MCSA and MCSE candidates for the Configuring Advanced Windows Server 2012 Services exam (70-412). The topics covered here map to the Configure File and Storage Solutions domain of the exam.

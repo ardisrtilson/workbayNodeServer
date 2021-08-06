@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=162708
+Course_System=linkedin.com
+Course_Title=3ds Max: UVW Mapping
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+UVW mapping allows you to take a mathematical, coordinate-based approach to mapping 2D textures to irregular 3D objects in 3ds Max. The tools might seem complex, but this course will help you master them and put UVW mapping to work in your own projects. Author Joel Bradley starts with the basics—defining UVW space and coordinates—and introduces the UVW Map modifier, the key to applying map coordinates and adjusting map placement. From there he looks at the source wrapping options in the bitmap and procedural map nodes, and at the differences when mapping to static and animated meshes. Chapter three covers the powerful Unwrap UVW modifier and its selection, peel-, and pelt-mapping tools. The course concludes with an overview of the options in the Edit UVW window.

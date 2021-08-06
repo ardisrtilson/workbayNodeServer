@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2833059
+Course_System=linkedin.com
+Course_Title=Learning Kali Linux
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kali Linux is targeted at digital forensics experts and penetration testers. It includes over 400 pen-testing programs, and it is the primary tool used by ethical hackers. Using Kali Linux, you can test networks to see if they're vulnerable to outside attacks. This course helps you explore Kali as well as the careers, techniques, and tools behind ethical hacking—one of the most competitive and sought-after IT security skills. Get a short overview of the tools in Kali as well as third-party solutions such as Deepmagic, Nikto, Burp Suite, nmap, and more. Cybersecurity expert Malcolm Shore shows how to set up a virtual environment for testing, configure Kali Linux, and install and use toolsets for information gathering, vulnerability scanning, password cracking, and target exploitation.

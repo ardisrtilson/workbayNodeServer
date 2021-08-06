@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul Tice
+Course_ID=2825126
+Course_System=linkedin.com
+Course_Title=Reality Capture Foundations for AEC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about reality capture, the process of documenting construction projects using a variety of cutting-edge technologies with the goal of providing all stakeholders with valuable data. Instructor Paul Tice discusses the technology and issues surrounding this AEC process. Explore techniques such as 2D and 3D photo reconstruction and 3D scanning, and discover how to integrate reality capture data into your workflows.

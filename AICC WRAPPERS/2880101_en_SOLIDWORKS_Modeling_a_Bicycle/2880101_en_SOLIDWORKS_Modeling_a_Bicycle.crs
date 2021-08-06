@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Johno Ellison
+Course_ID=2880101
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Modeling a Bicycle
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cycling is more popular than ever, and many people are opting to build their own frames. Whether you love bikes and you want to build your own frame, or if you just want to practice your own SOLIDWORKS skills in a fun and practical way, join design engineer and avid cyclist Johno Ellison as he shows how to create a rigid bike frame based on real-life frame geometry. He shows how to create the frame, identify off-the-shelf parts such as handlebars, combine them into an assembly, and prepare drawings for the final product. Throughout the course, Johno shows some of the more practical aspects of bike building, as well as how they relate to SOLIDWORKS and CAD in general, giving you a great way to apply your modeling skills.

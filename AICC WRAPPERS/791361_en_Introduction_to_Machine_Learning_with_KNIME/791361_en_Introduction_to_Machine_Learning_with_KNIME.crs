@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=791361
+Course_System=linkedin.com
+Course_Title=Introduction to Machine Learning with KNIME
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+KNIME is an open-source workbench-style tool for predictive analytics and machine learning. It is highly compatible with numerous data science technologies, including R, Python, Scala, and Spark. With KNIME, you can produce solutions that are virtually self-documenting and ready for use. These reasons and more make KNIME one of the most popular and fastest-growing analytics platforms around. In this course, expert Keith McCormick shows how KNIME supports all the phases of the Cross Industry Standard Process for Data Mining (CRISP-DM) in one platform. Get up and running quickly—in 15 minutes or less—or stick around for the more in-depth training covering merging and aggregation, modeling, and data scoring. Plus, learn how to increase the power of KNIME with extensions and integrate R and Python.

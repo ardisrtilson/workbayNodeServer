@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chanté Bright
+Course_ID=2828010
+Course_System=linkedin.com
+Course_Title=Revit: Parametric Furniture Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Parametric models are built on values. They allow you to design an object by modifying its parameters—such as those defined within a Revit family. This course teaches the basics concepts of parametric modeling for furniture in Revit: working with families, creating furniture elements from templates, and adding custom parameters. Instructor Chanté Bright explains the difference between host-based families and standalone families and shows how to select the best templates, how to adjust parameters to fit your design, how to edit existing families, and how to add furniture to an existing model. The exercise files feature examples such as cabinets, coat racks, and pendant lights, but the techniques can help you build custom furniture to fit any unique design. The end result is more professional, realistic, and engaging models to share with clients and colleagues.

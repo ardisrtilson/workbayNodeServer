@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Matthew Spencer
+Course_ID=647654
+Course_System=linkedin.com
+Course_Title=Salesforce: Working with Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to build apps for Salesforce and customize the CRM to the needs of your business—without programming a single line of code. In this course, Christopher Matthew Spencer shows how to use turnkey and custom Salesforce apps to streamline your business workflows. He reviews the pre-made apps, as well as techniques for building apps from scratch, integrating with data sets, and using apps for advanced analytics. Learn how to work with Visualforce components, set up quick actions, and upgrade apps to the latest form factor. Plus, get tips for testing apps for seamless deployment wherever your team members access Salesforce: desktop, tablet, or mobile devices.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=William Carney
+Course_ID=622068
+Course_System=linkedin.com
+Course_Title=Revit for Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With an increase in real-time rendering programs, architectural and engineering firms are utilizing more detailed modeling practices. In this course, learn about several methods of using Revit to create graphics to present a model, or graphically display information contained in a model. Instructor William Carney covers visibility settings, graphic display options, and material creation. Plus, he discusses the annotation of three-dimensional views, and techniques for quickly creating graphic presentation images that change the way a model looks without changing what is modeled.

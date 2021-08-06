@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043089
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Advanced Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere networking is a core VMware competency and is heavily represented in the VMware Certified Professional 6.5 - Data Center Virtualization (VCP6.5-DCV) exams. In this course, instructor Rick Crisci takes a deep dive into networking for VMware vSphere. Rick kicks off the course with virtual switch basics, going over how network traffic travels from the operating system of a VM and gets virtualized, as well as the major components of vSphere standard switches. He then builds to more complex topics, including distributed switches, physical networking, TCP/IP stacks, and private VLANs.

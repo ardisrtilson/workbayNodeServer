@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=713381
+Course_System=linkedin.com
+Course_Title=ReCap Workflow for Reality Capture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Reality capture allows architecture and construction professionals to put down the measuring tape and leverage technology to capture existing site conditions. ReCap—the powerful reality capture software from Autodesk—offers features that can help you efficiently measure and digitally recreate buildings and spaces. In this course, learn how to use ReCap to import and work with reality capture data from both laser scans and photos. Instructor Paul F. Aubin shows how to use ReCap to process data captures into point clouds and meshes that can be used in a variety of 3D design software packages.

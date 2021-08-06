@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=142069
+Course_System=linkedin.com
+Course_Title=Character Animation: Locomotion
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Getting characters to walk is one thing; adding character to a walk is another. But it's not impossible and it's not software specific. In fact, the locomotion techniques in this course apply to any style of animation: 2D or 3D, hand-drawn or digital. The only thing you need to bring is personality. George Maestri shows how to make your character walk, run, and skip with style, and subtly move the story along.

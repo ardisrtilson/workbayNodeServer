@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=5019811
+Course_System=linkedin.com
+Course_Title=Business Analytics: Understanding and Using Confidence Intervals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Confidence intervals are a family of statistical techniques that show up, often in unexpected guises, in your personal and professional lives. Whether you’re looking at reference ranges on blood tests or the range of risk you assume when you enter a new line of business, confidence intervals enable you to summarize data in a way that pinpoints an outcome, while also considering a range of other possibilities for context—so it's helpful to understand what they mean and how they work. In this course, Conrad Carlberg discusses just that, sharing basic techniques for constructing and interpreting confidence intervals. Conrad digs into the purpose of confidence intervals; how to calculate them (including how to do so using R and Excel); how to compare means using confidence intervals; and more.

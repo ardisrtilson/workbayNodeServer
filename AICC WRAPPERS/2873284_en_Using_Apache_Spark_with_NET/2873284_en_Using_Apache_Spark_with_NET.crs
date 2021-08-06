@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft .NET, Brigit Murtaugh
+Course_ID=2873284
+Course_System=linkedin.com
+Course_Title=Using Apache Spark with .NET
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kick-start your journey into big data analytics with this introductory course about .NET for Apache Spark. Instructor Brigit Murtaugh explains how .NET for Apache Spark will empower you to participate in the world of big data within the .NET ecosystem. She shows you how to create a simple .NET for Apache Spark word count application and run it on your local machine, then shows you how to write a batch processing app. Next, she steps you through a structured streaming app that processes words live as you type them into a terminal. Brigit covers how to leverage ML.NET in combination with .NET for Apache Spark to perform sentiment analysis on a set of online reviews. She teaches you how to deploy your .NET for Apache Spark app to Azure Databricks. Then she concludes by demonstrating how to deploy the .NET for Apache Spark app to Azure HDInsight. This course was created by Microsoft.NET. We are pleased to host this training in our library.

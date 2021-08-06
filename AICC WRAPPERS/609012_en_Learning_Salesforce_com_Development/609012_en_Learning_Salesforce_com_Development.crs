@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Duard Lynn Davis
+Course_ID=609012
+Course_System=linkedin.com
+Course_Title=Learning Salesforce.com Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Salesforce is arguably the best-known customer relationship management (CRM) tool on the market. With companies large and small turning to Salesforce, it's highly beneficial for developers to have Salesforce development skills in their toolkit. In this course, learn the basics of Salesforce.com development. Explore the Salesforce.com development environment, and get started with Apex programming—the object-oriented programming language for Salesforce. Learn about sets, lists, and maps, and review code examples for triggers, trigger handlers, and batch Apex.

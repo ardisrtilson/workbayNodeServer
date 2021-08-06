@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=2849043
+Course_System=linkedin.com
+Course_Title=Windows 10: Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Being able to administer a Windows machine is a key skill for any Windows administrator. Keep your skills sharp and up to date with this Windows 10 administration training. Martin Guidry takes a detailed look at the operating system, focusing on the administrative tasks necessary for keeping Windows 10 in tiptop shape. Martin first reviews the various desktop versions of Windows 10. This section covers the special features included with the Enterprise edition, as well as the hardware requirements for some of the new Windows 10 features. Martin also explains installing and updating drivers and configuring and optimizing the OS. Then it's a deep dive into Group Policy, including working with local groups and troubleshooting Group Policy. Martin also looks at Windows security—authentication and encryption—as well as the boot process, and concludes the course with a brief look at virtualization, networking, and backup and recovery.

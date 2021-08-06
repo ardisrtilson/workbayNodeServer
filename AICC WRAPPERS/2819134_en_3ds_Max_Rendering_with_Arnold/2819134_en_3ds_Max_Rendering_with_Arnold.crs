@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=2819134
+Course_System=linkedin.com
+Course_Title=3ds Max: Rendering with Arnold
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Arnold is the high-quality rendering engine in 3ds Max. Realistic rendering is easier than ever with this brute-force Monte Carlo ray tracer. The physically based rendering in Arnold accurately simulates light in the real world, but allows you to break physical laws to achieve artistic styles. This course is an overview of the core Arnold features for lighting, materials, and rendering in 3ds Max. Instructor Aaron F. Ross shows how to adjust render settings and object properties, add image-based and studio lighting, simulate natural daylight, customize and apply materials, and build a shading network. Finally, learn how to apply a variety of camera and rendering tools such as displacement, subdivision, and panoramas to get exactly the look you want.

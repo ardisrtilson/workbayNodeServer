@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Goforth
+Course_ID=2833058
+Course_System=linkedin.com
+Course_Title=Blazor: Getting Started
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with Microsoft Blazor, the framework for building rich web apps with C# and .NET. Learn how Blazor allows .NET code to run in the browser, allowing programmers to leverage their existing .NET skills for front-end development. Explore the Blazor component model, including topics such as routing, dependency injection, data binding, and layouts. Then discover the debugging and unit testing workflow for Blazor apps, and see how to validate form data. Instructor Richard Goforth—a senior software architect and consultant—also shows how to implement authentication and authorization and interact with JavaScript code. Plus, learn how to take advantage of Blazor component libraries to save time and create your own libraries in order to package and reuse code across projects.

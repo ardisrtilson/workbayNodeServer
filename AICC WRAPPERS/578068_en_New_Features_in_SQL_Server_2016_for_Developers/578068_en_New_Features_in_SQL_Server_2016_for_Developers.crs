@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anton Delsink
+Course_ID=578068
+Course_System=linkedin.com
+Course_Title=New Features in SQL Server 2016 for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you curious about upgrading to Microsoft SQL Server 2016, but aren't sure if it's worth it to make the switch? In this course, join Anton Delsink as he highlights his favorite new features for developers. Anton covers several different areas—including deploying SQL Server on Linux, using new functions such as STRING_SPLIT, and exploring the new JSON query syntax. While you can work through the entire course in order, you can also start with whichever video piques your interest, as each video stands on its own. Upon completion of this course, you'll know how to leverage new and enhanced features in SQL Server 2016 that can help you write less code and bring increased security, performance, and reliability to your applications.

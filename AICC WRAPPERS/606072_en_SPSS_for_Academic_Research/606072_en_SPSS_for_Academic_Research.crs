@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Yash Patel
+Course_ID=606072
+Course_System=linkedin.com
+Course_Title=SPSS for Academic Research
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore how to run tests for academic research with SPSS, the leading statistical software. In this course, Yash Patel dives into SPSS, focusing on how to run and interpret data for the most common types of quantitative tests. Topics include t-tests, analysis of variance (ANOVA), and understanding the statistical measurements behind academic research. Review the tenants of qualitative testing, including the central theorem, P values, and confidence intervals, and specific use cases for tests in SPSS. For each type, Yash provides some general guidelines and assumptions, along with a challenge and solution exercise to practice what you've learned.

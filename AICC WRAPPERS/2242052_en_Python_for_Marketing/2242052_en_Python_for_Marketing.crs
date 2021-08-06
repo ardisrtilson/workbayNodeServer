@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Nick Duddy
+Course_ID=2242052
+Course_System=linkedin.com
+Course_Title=Python for Marketing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your marketing analytics to the next level with Python. The features that make Python so useful for data scientists are the same ones that marketers can use to better understand their customers, product performance, competition, and marketplace. In this course from Madecraft, you can learn how to use Python to improve marketing at your business. Discover how to import and clean data from sources like Google Analytics and Facebook, merge data sets, create detailed visualizations, analyze time series data, and build custom metrics and alerts for your marketing activities. Instructor Nick Duddy shows how to combine these techniques—and helpful Python libraries like Pandas and Seaborn—to conduct market analysis, predict consumer behavior, assess the competition, monitor market trends, and more. This course was created by Madecraft. We are pleased to host this content in our library.

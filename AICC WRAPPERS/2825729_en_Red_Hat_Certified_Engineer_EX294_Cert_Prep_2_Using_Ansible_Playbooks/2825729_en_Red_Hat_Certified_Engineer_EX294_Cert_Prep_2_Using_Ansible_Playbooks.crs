@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2825729
+Course_System=linkedin.com
+Course_Title=Red Hat Certified Engineer (EX294) Cert Prep: 2 Using Ansible Playbooks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to earn the Red Hat Certified Engineer (RCHE) certification? In this course, the second installment in a three-part series, learn how to create and work with Ansible playbooks as you prepare to take—and ace—the RHCE (EX294) exam. Grant McWilliams shares tips for managing YAML files, explains how to work with variables to retrieve results after you run a command, and shows how to use Jinja2 template files. He goes over looping methods in Ansible, including how to loop with lists, dictionaries, and conditionals. He also demonstrates how to use blocks to group tasks, as well as how to manage errors. Tune into this course, as well as the other two installments in this series, to learn what you need to know to walk into the test center feeling confident.

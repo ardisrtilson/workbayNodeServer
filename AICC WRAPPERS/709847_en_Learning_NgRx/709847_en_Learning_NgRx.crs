@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alain R. Chautard
+Course_ID=709847
+Course_System=linkedin.com
+Course_Title=Learning NgRx
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you've worked with Angular awhile, you discover that the difficult part of architecting apps is making sure data flows and is refreshed in the UI in a consistent way. This process is called state management. NgRx has quickly become the go-to solution for state management in large Angular applications. In this training course, you can learn about Redux—the JavaScript library for managing application state—and how NgRx provides an Angular-specific implementation of Redux that supports lazy-loaded modules, observables, and asynchronous side effects. Instructor Alain Chautard teaches the principles of state management in the context of reactive programming, giving you a solid foundation for your Angular architecture. Learn how to react to and trigger state changes, dispatch actions, and work with effects, selectors, and entities. Plus, see to build a robust component architecture with NgRx.

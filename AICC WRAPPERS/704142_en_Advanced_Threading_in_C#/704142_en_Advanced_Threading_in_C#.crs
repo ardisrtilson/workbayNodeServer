@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chander Dhall
+Course_ID=704142
+Course_System=linkedin.com
+Course_Title=Advanced Threading in C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to write C# applications that perform multiple tasks concurrently-aka multithreaded applications. Programs that use multithreading are more responsive to user input because the user interface stays active as processor-intensive tasks execute on separate threads. Multithreading is also useful when you create scalable applications because you can add threads as the workload increases. In this course, Microsoft MVP Chander Dhall reviews the basics of threading and signaling, and then shows how to use the popular .NET library for parallel execution, TPL; the query syntax PLINQ; and the recommended asynchronous programming pattern, TAP. By the end of the course, he shows how to turn sequential code into a multithreaded application that runs five times faster than before.

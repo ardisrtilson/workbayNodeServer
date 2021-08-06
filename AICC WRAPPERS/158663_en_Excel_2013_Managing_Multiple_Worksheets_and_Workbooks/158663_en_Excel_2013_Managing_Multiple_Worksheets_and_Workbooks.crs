@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=158663
+Course_System=linkedin.com
+Course_Title=Excel 2013: Managing Multiple Worksheets and Workbooks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sometimes multiple worksheets or workbooks are the only solution to storing large amounts of data. But how do you analyze data that's spread out that way? In this course, author Dennis Taylor shows you how to move, copy, and analyze large amounts of data stored in multiple worksheets and workbooks in Excel 2013. Learn how to insert, delete, move, and copy data from multiple sheets; hide and un-hide sheets; and make global changes. Plus, discover how to create simple formulas that connect different worksheets, make super-efficient 3D formulas to calculate summary totals from multiple worksheets, and use PivotTables to summarize data from multiple workbooks.

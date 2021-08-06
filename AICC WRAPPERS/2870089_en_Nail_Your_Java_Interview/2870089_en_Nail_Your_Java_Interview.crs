@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=2870089
+Course_System=linkedin.com
+Course_Title=Nail Your Java Interview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you lined up an interview for a Java developer position? In this course, review critical Java concepts-and commonly-asked interview questions-to ensure that you approach your Java interviews with confidence. Instructor Kathryn Hodge dives into a discussion of key topics that might appear as questions in an interview, such as the difference between the Java Runtime Environment (JRE) and the Java Development Kit (JDK). She also goes over string manipulation, data structures, and essential object-oriented programming concepts. Throughout the course, Kathryn offers examples that lend a real-world context to the concepts she covers.

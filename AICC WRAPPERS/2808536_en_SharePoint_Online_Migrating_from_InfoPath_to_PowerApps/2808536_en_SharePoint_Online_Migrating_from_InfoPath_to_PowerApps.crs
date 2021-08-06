@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=2808536
+Course_System=linkedin.com
+Course_Title=SharePoint Online: Migrating from InfoPath to PowerApps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use SharePoint PowerApps to create forms, whether you’re looking to take your existing SharePoint forms to the next level or need a solution now that Microsoft is sunsetting InfoPath. Instructor Phil Gold walks you through creating custom list forms in PowerApps, referencing familiar touch points for InfoPath users. Explore how to change the look and feel of forms quickly to give your users the best experience as well as how to use more advanced features such as conditional formatting, validation, and building in automation.

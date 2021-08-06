@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Bartels
+Course_ID=187856
+Course_System=linkedin.com
+Course_Title=Civil 3D 2016 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Civil 3D is the industry standard for civil infrastructure projects, allowing engineers and planners to build and verify designs before ever breaking ground. In this course, author Jeff Bartels will take you through everything you need to know to be successful using Civil 3D. Learn how to manage design data and points, model existing surfaces, generate lot geometry, model roadways, incorporate utilities, and address common site grading challenges. Jeff also shows how to prepare designs for construction using Civil 3D's automated sheet creation tools.

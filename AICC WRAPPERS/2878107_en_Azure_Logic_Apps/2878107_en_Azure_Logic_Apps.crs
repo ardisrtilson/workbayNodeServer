@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Vishwas Lele
+Course_ID=2878107
+Course_System=linkedin.com
+Course_Title=Azure Logic Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Logic Apps simplify app integration, data integration, system integration, enterprise application integration (EAI), and business-to-business (B2B) communication, whether in the cloud, on premises, or both. In this course, instructor Vishwas Lele introduces you to Azure Logic Apps, shows you how to take apps from design to deployment, explains the Azure Event Grid, and offers some useful tips and tricks. Vishwas begins by explaining the role of Azure Logic Apps and how the serverless architecture of Logic Apps helps in better scaling and cut costs. He walks you through each step in designing, developing, building, and deploying your own logic apps. Vishwas goes over concepts for event-based logic apps as well as integration accounts. He concludes with useful tips and tricks on topics including connection limits, workflows, and many more.

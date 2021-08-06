@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Samuelson
+Course_ID=672264
+Course_System=linkedin.com
+Course_Title=Puppet Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Puppet helps to streamline the job of server administration by allowing administrators to standardize infrastructure and keep it in the desired state. In this course, join instructor Josh Samuelson as he takes a deep dive into this IT automation platform, covering both core concepts and advanced topics. Josh explains how to securely separate data from code using Hiera, test using rspec-puppet, automate tests using Travis CI, create a module, and more. Throughout the course, he includes practical exercises that can help you quickly get up to speed with this powerful set of tools.

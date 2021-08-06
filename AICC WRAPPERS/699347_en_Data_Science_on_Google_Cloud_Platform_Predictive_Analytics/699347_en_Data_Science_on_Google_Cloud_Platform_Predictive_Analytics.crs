@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=699347
+Course_System=linkedin.com
+Course_Title=Data Science on Google Cloud Platform: Predictive Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Predictive analytics use historic data to look forward, enabling organizations to make better decisions. However, making accurate predictions from big data can be an overwhelming task. Enter Google Cloud Platform (GCP), a suite of cloud-computing services that bring scalability, elasticity, and automated machine learning to predictive analytics. This course—one of a series by data scientist Kumaran Ponnambalam—shows how to apply the power of GCP to generate predictions for your business. Start off by exploring the different tools and features for predictive analytics in GCP, including Cloud Dataproc, Cloud ML Engine, and the machine learning APIs such as Cloud Translation, Cloud Vision, and Cloud Video Intelligence. Then explore learn how to build, train, and deploy models to create predictions. Plus, learn best practices for cost control, testing, and performance monitoring of predictive models.

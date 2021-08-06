@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dominique West
+Course_ID=2875060
+Course_System=linkedin.com
+Course_Title=Learning Google Cloud Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re new to cloud security, or if you’re an administrator looking to learn about best practices to create and manage data and assets in the cloud, join Dominique West in this course as she teaches the basics of properly securing your Google Cloud environment. Dominique starts with the basics of cloud computing and general security concepts, explaining the different services and terminologies as they relate to the Google Cloud platform. She covers topics like Identity and Access Management (IAM), infrastructure security, network security, and details the Google Cloud Security Command Center. By the end of this course, you’ll be well on your way toward becoming a cloud security guru.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Reilly
+Course_ID=2835074
+Course_System=linkedin.com
+Course_Title=Photogrammetry for Product Design and AEC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Photogrammetry is the process of creating a three-dimensional structure from a series of photographs. It harnesses computational power to align a series of 360-degree photos into a point cloud that can be used to create a mesh suitable for use in CAD software. In this course, instructor Chris Reilly shows you the fundamentals of photogrammetry, how to set up your photo session, how to photograph objects both large and small, and more. Chris walks you through how to choose a camera and lens and how to plan your photogrammetry captures. Next, Chris covers how to install Metashape photogrammetry software on your computer and how to import images. He steps you through how to align photo sets, generate dense point clouds, and build a polygon mesh in Metashape. Chris demonstrates several common post-processing operations that can help you get your best results and concludes by explaining how to export a watertight mesh in a format suitable for 3D printing.

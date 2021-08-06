@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=659281
+Course_System=linkedin.com
+Course_Title=Microsoft Graph for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Microsoft Graph API allows your custom applications to integrate with mail, calendar, contacts, documents, directory services, and much more. This course shows how to integrate Microsoft Graph in your custom apps in nearly any conceivable application. Instructor Sahil Malik explains how to register a web application in Azure AD for authentication purposes, and manage the appropriate tokens. He also discusses JavaScript single-page applications (SPA), native applications, web applications using application identity and delegated identity calling Graph, and more.

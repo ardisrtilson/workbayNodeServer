@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Barr
+Course_ID=608999
+Course_System=linkedin.com
+Course_Title=Unreal: Introduction to Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Materials in Unreal Engine can be deep and complex, but they don't have to be. Materials are simply the paint you apply to your model, determining its color, shininess, transparency, and more. This course provides a straightforward introduction to materials, so that you can quickly take advantage of the available power, whether you're using Unreal for game design, CAD, or virtual reality. Craig Barr covers creating basic materials, modifying materials with the Material Editor, integrating textures, creating realistic physically based rendering (PBR) materials, and the different effects and animations that can be achieved with materials.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rae Hoyt
+Course_ID=372543
+Course_System=linkedin.com
+Course_Title=Learning Arduino: Pulse Width Modulation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Pulse width modulation (PWM) is an essential skill for connecting Arduino microcontrollers to motors or lights, providing a way to approximate analog voltage levels with digital signals. Using PWM, you can control and program the brightness of lights and the speed of motors—bringing your projects to life. Join Rae Hoyt in this course and learn how to harness the power of PWM to drive digital circuits. She shows how to use the built-in PWM libraries and functions, troubleshoot code and hardware, and use analog input controls to drive servos, motors, and RGB LEDs. Take the practice challenges along the way to test your learning and see how far your Arduino skills are progressing.

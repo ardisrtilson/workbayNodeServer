@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=718672
+Course_System=linkedin.com
+Course_Title=Learning Stimulus
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript can add to your apps rather than run them. The creators of Basecamp—who are always on the lookout for simpler solutions—built the Stimulus framework to give developers a more lightweight option. This small JavaScript framework augments your HTML and lets you use simple JavaScript for decoration and interactions. In this course, explore the framework's core concepts and discover how Stimulus can help you quickly build small projects. Instructor Emmanuel Henri shows how you can take your HTML knowledge, mix in some basic JavaScript, and let Stimulus structure your interactions with users.

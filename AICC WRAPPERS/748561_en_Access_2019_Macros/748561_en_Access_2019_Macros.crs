@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=748561
+Course_System=linkedin.com
+Course_Title=Access 2019: Macros
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Macros are a great tool for developers who want to add functionality and interactivity to Access databases, without writing any additional code. With macros, you can take a list of time-consuming processes, such as launching a series of reports at startup, and run them automatically. This course covers how to build macros from the Access Actions catalog, adjust the execution and flow of macros with conditional logic and variables, and string together actions in multi-step sequences. Instructor Adam Wilbert also dives into macro security and show how to debug macros, gracefully handle noncritical errors, and leverage data macros to perform actions—such as logging and validation—when table data is changed.

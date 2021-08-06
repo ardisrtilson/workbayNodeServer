@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=576587
+Course_System=linkedin.com
+Course_Title=Excel 2016: Introduction to Formulas and Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Starting to build a spreadsheet from a blank worksheet is less intimidating if you are familiar with functions and how to create formulas in Excel. This course covers creating formulas, managing named ranges and tables, importing, exporting, validating data, and more. Learn how to maintain the integrity of your original data, audit your formulas for correctness, and adjust values to be able to calculate how to reach outcome goals.

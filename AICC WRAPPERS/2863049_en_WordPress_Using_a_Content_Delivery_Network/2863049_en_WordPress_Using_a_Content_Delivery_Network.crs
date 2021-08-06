@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=2863049
+Course_System=linkedin.com
+Course_Title=WordPress: Using a Content Delivery Network
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you have a WordPress site, you may have heard that you can benefit from using a content delivery network (CDN), but you might not understand the technology or how to use it. This course teaches what you need to know to confidently use a CDN with a WordPress site. CDNs are great, but they aren't necessary for every website. Instructor Carrie Dils explains what a CDN is, what types of sites benefit from a CDN, and what type of content a CDN serves. What if your web host already has a CDN, but you want to use your own? Carrie shows you how to proceed. A CDN is just one part of a larger strategy for optimizing your website for speed, and Carrie explains some other parts to consider. Carrie walks you through how to choose a CDN provider and reviews key features of several popular CDN providers. Once you’ve chosen a CDN provider, you’ll need to enable, configure, and integrate the CDN. Carrie shows you how to navigate that process successfully, including how to speed test your site.

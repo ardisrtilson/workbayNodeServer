@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Troy Miles
+Course_ID=645027
+Course_System=linkedin.com
+Course_Title=Developing AWS Lambda Functions with Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AWS Lambda lets developers build web services that run in the Amazon cloud—without worrying about configuring servers or paying expensive monthly fees. This course shows you how to create Lambda services, called functions, on AWS using Kotlin—the up-and-coming Java alternative. Speaker and author Troy Miles shows how to create and test a simple Lambda function, and start creating more complex, standalone Kotlin apps with the Spark framework. He also shows how to connect your service to AWS via the API Gateway, and read and write data from a MongoDB database. Plus, learn how to run, test, and debug your microservices locally. Troy also offers a series of challenges to test your new Lambda programming skills.

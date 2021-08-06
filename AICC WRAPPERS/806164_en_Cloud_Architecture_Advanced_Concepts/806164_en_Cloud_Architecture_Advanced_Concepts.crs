@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=806164
+Course_System=linkedin.com
+Course_Title=Cloud Architecture: Advanced Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+State-of-the-art technology is changing the way we design for the cloud. New architectural patterns and concepts are emerging as a result of breakthroughs such as microservices, containers, and serverless computing. Want to know how these advanced and emerging concepts may affect your cloud architecture? This platform and cloud-neutral course provides a broad overview for IT professionals who want to understand the impact of new technologies on their business. Learn how independently deployable, modular services—microservices—affect the structure of cloud-based architectures; how serverless and composite architectures free up engineers to focus on features, not infrastructure; and how new high-performance solutions allow you to lease computing storage and power. Instructor David Linthicum also discusses DevOps integration and advanced architecture strategies, such as isolating change and volatility in a single domain. Note: This course was revised for 2019.

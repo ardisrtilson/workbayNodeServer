@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=604238
+Course_System=linkedin.com
+Course_Title=Learning Firebase Cloud Messaging for Android
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Firebase Cloud Messaging (FCM) solution from Google gives you the ability to reliably send notification and data messages to clients. In this course, discover how to get started with FCM, and learn how to integrate this powerful cross-platform solution in your Android apps. Instructor Joe Marini begins by going over basic FCM concepts, and demonstrating how to add Firebase to an Android client app. He then shows how to send your first message via the Firebase console, and how your app can handle these messages. Plus, learn about sending messages from your app server, topic messaging, and more.

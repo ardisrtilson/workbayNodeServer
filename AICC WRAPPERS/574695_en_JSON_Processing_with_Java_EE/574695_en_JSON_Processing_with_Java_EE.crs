@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Theedom
+Course_ID=574695
+Course_System=linkedin.com
+Course_Title=JSON Processing with Java EE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JSON is a ubiquitous and lightweight data transfer format used for the storage and interchange of information in an organized and human-readable manner. It is commonly used as the data format of choice in microservices, RESTful APIs, and NoSQL data stores. Knowing how to manipulate JSON is crucial knowledge for any developer. In this course, discover how to use the Java Enterprise Edition (EE) JSON-Processing API. With its two programming models, JSON-Processing is one of the simplest ways to generate, query, and parse JSON data, and you'll find that implementing it in your projects is quick and easy. Join Alex Theedom as he covers an array of topics, including how to use both the object model and the streaming model, how to traverse a JSON structure, and how to parse JSON data using the extensive builder APIs. When you wrap up this course, you'll be ready to develop with this essential and powerful API.

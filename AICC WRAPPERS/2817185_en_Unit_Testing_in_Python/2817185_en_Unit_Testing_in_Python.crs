@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jasmine Omeke
+Course_ID=2817185
+Course_System=linkedin.com
+Course_Title=Unit Testing in Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unit testing—which involves testing small, isolatable pieces of code—can help you catch and fix bugs before they crop up in your final product. And by adopting test-driven development (TDD) and writing unit tests before production code, you can take even greater responsibility for your project's quality. Curious about how to best approach unit testing in your own Python projects? This course shows you how. Join instructor Jasmine Omeke as she goes over TDD techniques for Python projects using the pytest testing framework and a Docker container. Jasmine begins by providing a basic overview of both TDD and pytest as she shows how to write a basic test. She then delves into how to use pytest features to automatically run unit tests, as well as how to best organize your pytest projects. Then, see how to hop into an existing project and use pytest tests to figure out the core behavior of the source code, determine which source code functions still need to be tested, and add in more tests.

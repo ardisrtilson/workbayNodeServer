@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Nunez
+Course_ID=2814092
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Your First Project
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Curious about how to put DevOps principles into practice? This course can help. Join Carlos Nunez as he demonstrates how to apply DevOps principles to a sample app for a fictitious travel booking company. Throughout the course, Carlos shows how to leverage popular tools and methodologies to make updating, testing, and releasing the app a breeze. After explaining how to containerize the website with Docker and Docker Compose, he shows how to write unit and integration tests with RSpec, Capybara, and Selenium. He then steps through how to deploy your website into the cloud with Terraform and write a Jenkinsfile that will build, test, and deploy your app. Upon wrapping up this course, you'll know how to turn a slow and complex application development process into a fast and enjoyable one.

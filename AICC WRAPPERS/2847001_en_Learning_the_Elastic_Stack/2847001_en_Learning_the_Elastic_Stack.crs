@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Samuelson
+Course_ID=2847001
+Course_System=linkedin.com
+Course_Title=Learning the Elastic Stack
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Elastic Stack (formerly known as the ELK Stack) is a powerful set of open-source tools for managing and making sense of complex data. Using the Elastic stack, you more easily search, visualize, and process data, as well as centralize logging data to quickly root out issues. In this course, DevOps engineer Josh Samuelson helps you get up and running with the Elastic Stack so you can start benefiting from these tools. Instead of covering every feature, Josh focuses on what you need to know to get started, so that you can feel confident exploring the tools on your own. Discover why the Elastic Stack might be a smart addition to your environment, as well as how to approach a typical installation. Plus, learn about different elements of the stack, including Logstash, Beats, and Kibana.

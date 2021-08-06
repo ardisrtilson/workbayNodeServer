@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Smith
+Course_ID=791358
+Course_System=linkedin.com
+Course_Title=JMeter: Performance and Load Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in adding load testing to your professional tool kit? In this course, learn how to use Apache JMeter, a popular open-source performance testing tool, to create and execute load tests that help you highlight performance issues in your software. Instructor Mike Smith takes you through the installation and setup of JMeter and JRE on Windows, and then shows how to create and run your first load test. Mike also goes over how to improve your load test by adding timers and assertions, how to run your load test through the CLI, and how to view your results in different ways by creating an HTML dashboard at CLI runtime.

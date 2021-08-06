@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Julian Robichaux
+Course_ID=497779
+Course_System=linkedin.com
+Course_Title=Learning Java by Example
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you learn best by doing? Why not learn Java that way? Learn Java Concepts by Example is a Java cookbook that pairs four Java programming challenges with step-by-step solutions. Julian Robichaux shows how to create command-line applications to search text and access a relational database, a GUI app to display and resize images, and a Java API to access third-party webpage content. By practicing these examples, you'll learn concepts such as regular expressions, arrays, JDBC, JAR files, Swing, Java math, lambdas, and RESTful programming—all within the context of real-world applications.

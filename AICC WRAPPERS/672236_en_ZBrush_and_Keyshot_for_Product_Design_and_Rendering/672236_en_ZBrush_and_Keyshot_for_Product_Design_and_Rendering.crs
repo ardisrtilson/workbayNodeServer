@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=672236
+Course_System=linkedin.com
+Course_Title=ZBrush and Keyshot for Product Design and Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Starting from design sketches, this course covers the 3D sculpting and modeling of a product concept in ZBrush. Discover techniques and workflows that can help you design efficiently. Then, find out how to take 3D models from ZBrush to KeyShot, where photorealistic renderings can be made for presentation purposes. Learn the steps and processes for setting up materials, using shaders and lights, and configuring helpful render settings.

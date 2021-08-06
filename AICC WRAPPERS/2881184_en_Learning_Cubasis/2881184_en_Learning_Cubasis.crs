@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Struthers
+Course_ID=2881184
+Course_System=linkedin.com
+Course_Title=Learning Cubasis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want to learn more about Cubasis, the app for producing music on your iOS or Android device? In this course, instructor Mark Struthers gives an overview of Cubasis' powerful audio and MIDI features and walks you through the workflows needed to create, perform, record, and mix music. Mark shows you how a project is constructed in terms of the Cubasis UI and walks you through several useful project options. He points out some things to be aware of when you create new projects. Mark steps through some of the editors and effects that you can use, including how to access third-party AU effects. He shows you how to use EQ to achieve a clearer mix and goes over group tracks, the mixer, and automation. Mark concludes with a discussion of creative functions that you can find in Cubasis. Note: This course was created by Mark Struthers. We are pleased to host this training in our library.

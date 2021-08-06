@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=188676
+Course_System=linkedin.com
+Course_Title=Rhino: Animation with Bongo
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to take your design presentations to the next level by animating them with motion, using Rhino and the V-Ray and Bongo plugins. Whether you are interested in promoting products or architecture (both examples featured in the course), author Dave Schultze shows how to make your work far more compelling with simple and powerful animation techniques. First you'll learn how to do a simple product design turntable animation. Then you'll create a path-based walk through animation of an architectural design. After the animation work is done, Dave will demonstrate how to import the sequences into After Effects and edit them into a seamless video presentation with high-quality audio. The last few chapters focus on optimizing the final video for flawless playback on any computer or website and sharing and distributing your project.

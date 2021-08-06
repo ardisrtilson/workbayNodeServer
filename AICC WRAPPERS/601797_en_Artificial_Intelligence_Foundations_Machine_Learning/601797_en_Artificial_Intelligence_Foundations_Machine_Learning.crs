@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=601797
+Course_System=linkedin.com
+Course_Title=Artificial Intelligence Foundations: Machine Learning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Machine learning is one of the liveliest areas in artificial intelligence. Machine learning algorithms allow computers to learn new things without being programmed. They use statistics as a way to better understand the massive amounts of data that we create every day. These newer algorithms help machines classify images, sounds, and videos. They can answer our questions, discover new drugs, and even write songs. In this course, we review the definition and types of machine learning: supervised, unsupervised, and reinforcement. Then you can see how to use popular algorithms such as decision trees, clustering, and regression analysis to see patterns in your massive data sets. Finally you can learn about some of the pitfalls when starting out with machine learning.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=753906
+Course_System=linkedin.com
+Course_Title=Microsoft 365 Business Essential Training for SMBs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft 365 is an integrated IT solution that brings together the productivity of Office 365 with advanced security and device management capabilities. In this course, instructor Andrew Bettany covers the specifics of Microsoft 365 Business—a solution intended for small and medium-sized businesses (SMBs) with up to 300 users—to help IT administrators and business owners manage and safeguard their organization. Andrew kicks off the course with an introduction to Microsoft 365 Business, discussing its services and configuration. He then moves on to the specifics of managing user devices and deploying and securing Windows 10 with Windows Autopilot. He wraps up with best practices on how to secure your users and their data, providing practical demonstrations along the way.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joshua Rischin
+Course_ID=5016703
+Course_System=linkedin.com
+Course_Title=Excel: Power Pivot for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Power Pivot feature in Microsoft Excel for Windows allows you to import, merge, and analyze data from many sources. Many people assume Power Pivot is a complex feature reserved for advanced users. Not so! In this short course, instructor Josh Rischin debunks myths around Power Pivot, explaining what it is and the best way to use it. Josh walks you through building a basic data model by identifying your data sources and creating data relationships. Then he shows how to analyze the data and present your results using PivotTables and PivotCharts.

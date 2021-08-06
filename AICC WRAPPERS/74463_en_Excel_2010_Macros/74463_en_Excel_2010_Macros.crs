@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=74463
+Course_System=linkedin.com
+Course_Title=Excel 2010: Macros
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In Excel 2010: Macros in Depth, author Dennis Taylor explains how macros can be used to automate tasks in Excel and walks through the process of creating and running simple macros. This course also covers advanced topics such as making macros widely available through the Personal Macro Workbook, recording a macro in stages, absolute and relative recording, and using Visual Basic for Applications (VBA) for actions that can't be recorded. The course wraps up with a macro project that brings together each of the elements in a real-world scenario. Exercise files are included with the course.

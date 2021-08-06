@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2212267
+Course_System=linkedin.com
+Course_Title=Learning VPN
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtual private networks (VPNs) allow remote users to access resources on a protected network via an encrypted connection. While the technology is common, it’s helpful to understand the many protocols and platform-specific options that can be selected to best meet the needs of your organization. This course helps you understand VPN terms and technologies, so you can configure a custom VPN solution. Instructor Scott Simpson covers protocols such as PPTP, L2TP over IPSec, OpenVPN, SSTP, and WireGuard, and shows how to use SSH to secure data traveling between systems. He also shows how to set up and connect to two different VPN servers. Plus, learn about the factors to consider in your own VPN implementation, including mobile access and specialized VPN appliances.

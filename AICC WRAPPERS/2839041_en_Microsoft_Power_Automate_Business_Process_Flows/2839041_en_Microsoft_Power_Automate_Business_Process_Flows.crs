@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=2839041
+Course_System=linkedin.com
+Course_Title=Microsoft Power Automate: Business Process Flows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Business process flows are a great way to boost efficiency and save time for your organization. Learning how to create automated and directed flows results in more uniform and efficient workflows throughout the organization for both in-office and remote workforces. In this course, Phil Gold walks through the process of creating business process flows with ever-increasing levels of complexity and shows examples of how to leverage this advanced feature of Power Automate for your organization.

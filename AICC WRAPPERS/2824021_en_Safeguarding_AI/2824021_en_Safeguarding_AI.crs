@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Kemka
+Course_ID=2824021
+Course_System=linkedin.com
+Course_Title=Safeguarding AI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Massive computing power, research, and open-source code have made artificial intelligence (AI) accessible to everyone. But with great power comes great responsibility. As more businesses incorporate AI into their strategies, it’s critical for executives and analysts alike to ensure AI isn't being deployed for harmful purposes. This course is designed so that a general audience, ranging from business and institutional leaders to specialists working on data teams, can identify the proper application of AI and understand the ramifications of their decisions regarding its use. Instructor Martin Kemka provides a global perspective, reviewing the current policies and laws guiding image recognition, automation, and other AI-driven technologies, and explores what AI holds in store for our future.

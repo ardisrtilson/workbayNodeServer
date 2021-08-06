@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=645049
+Course_System=linkedin.com
+Course_Title=Machine Learning & AI Foundations: Linear Regression
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having a solid understanding of linear regression—a method of modeling the relationship between one dependent variable and one to several other variables—can help you solve a multitude of real-world problems. Applications areas involve predicting virtually any numeric value including housing values, customer spend, and stock prices. This course reveals the concepts behind the most important linear regression techniques and how to use them effectively. Throughout the course, instructor Keith McCormick uses IBM SPSS Statistics as he walks through each concept, so some exposure to that software is assumed. But the emphasis will be on understanding the concepts and not the mechanics of the software. SPSS users will have the added benefit of being exposed to virtually every regression feature in SPSS. Instructor Keith McCormick covers simple linear regression, explaining how to build effective scatter plots and calculate and interpret regression coefficients. He also dives into the challenges and assumptions of multiple regression and steps through three distinct regression strategies. To wrap up, he discusses some alternatives to regression, including regression trees and time series forecasting.

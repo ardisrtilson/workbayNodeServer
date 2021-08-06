@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Abbey
+Course_ID=700797
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS Simulation: Dynamic Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to perform dynamic analysis using SOLIDWORKS Simulation. The course starts by covering dynamics theory and normal modes analysis. Dynamic analysis concepts are covered, including damping, mass participation, modal methods, and direct methods. Next, transient analysis is explored, including modal transient response, direct transient response, and base motion in dynamic response. Then, frequency response analysis, followed by how to interpret results.

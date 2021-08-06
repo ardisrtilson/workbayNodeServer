@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=149119
+Course_System=linkedin.com
+Course_Title=Web Motion: Animate a CSS Sprite Sheet
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CSS sprite sheets have opened up another door for web motion, allowing you to efficiently animate a series of images—anything from button states to character poses. In this quick course, Tom Green shows you how to animate a character's walk cycle by creating a sprite sheet in Flash, editing in Fireworks, and putting it into motion (and into your HTML) with Edge Animate.

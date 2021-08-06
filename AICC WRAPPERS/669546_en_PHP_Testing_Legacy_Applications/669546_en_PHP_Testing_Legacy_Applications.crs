@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Hartjes
+Course_ID=669546
+Course_System=linkedin.com
+Course_Title=PHP: Testing Legacy Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Working with a legacy code base can be tricky. Developers who need to add new features or fix bugs often feel the need to tread lightly when working with older code, fearing that one wrong move might cause them to break something important. The same apprehension can affect developers who want to test legacy PHP applications. In this course, instructor Chris Hartjes guides PHP developers through the challenges of testing legacy applications, and steps through how to write tests for legacy PHP code bases. Chris begins by explaining the difference between test-driven development as a design pattern and writing tests after the code is already designed. Next, he shares some reasons why legacy code can be tough to test, including poor package management practices and hard-coded dependencies. He then covers how—and what—you should be testing, how to plan out testing scenarios, and how to refactor a test suite. Upon wrapping up this course, you'll have the skills you need to test your legacy PHP code with confidence.

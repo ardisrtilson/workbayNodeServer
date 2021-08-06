@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Selingo
+Course_ID=563464
+Course_System=linkedin.com
+Course_Title=Using Data Science to Hire Employees
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Jeff Selingo visits LinkedIn Studios to weigh in on the importance of using data when making hiring decisions, the complexity of today's job market, and the trends that data science is revealing.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2859038
+Course_System=linkedin.com
+Course_Title=Android Development: Data Binding
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android data binding architecture components make it easier to connect an application's data with application layouts. This eliminates an excess of boilerplate code and leads to more modular programs with greater separation of data and presentation. In this course, explore the benefits of data binding for Android developers, as well as how to enable data binding for your own app. Learn how to create a data model and add data binding support to your Android layout file. Discover how to use binding expressions to manipulate data values directly within an Android layout; bind to observable data sources to ensure that changes are automatically reflected in the layout; use binding adapters; and more.

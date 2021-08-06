@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Banks
+Course_ID=661805
+Course_System=linkedin.com
+Course_Title=Node.js: Design Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns encourage programming efficiency and code reuse. Learn how to use the same design patterns used in Java and C++ programming in JavaScript. This course is a look at 13 of the most popular object-oriented design patterns as applied to Node.js. Learn essential creational and structural patterns to help solve common coding challenges, while introducing best practices that will keep solutions consistent, complete, and correct. Instructor Alex Banks shows how to implement and improve these patterns so that they are optimized for the Node library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Monika Wahi
+Course_ID=628705
+Course_System=linkedin.com
+Course_Title=Designing Big Data Healthcare Studies, Part Two
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To perform accurate healthcare data analysis, you need to understand epidemiology and basic study design—covered in part one of this training series. But you also have to be able to conduct descriptive and regression analysis and defend your decisions regarding model selection, interpretation, and presentation. Part two of our series on Designing Big Data Healthcare Studies covers the logistics of planning and executing analysis on the analytic data set prepared in the previous course. Instructor Monika Wahi shows how to conduct the analysis and interpret the final model in context of your original hypothesis. Along the way, she teaches about best practices for code naming and arrangement, stepwise selection modeling, odd and prevalence ratios, and relative risk. Using these tutorials, you should be able to design great healthcare studies that take advantage of all that big data has to offer.

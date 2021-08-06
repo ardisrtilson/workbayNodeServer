@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=599611
+Course_System=linkedin.com
+Course_Title=Learning Unity 2D Sprites
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you new to Unity or making 2D games? If so, this course can help you get started with creating 2D games in Unity, the popular game development platform. The basics of working with sprites—individual graphics that can be animated or remain static in a 2D game—are covered in this course. Jesse Freeman walks though how to import sprites, create new sprite GameObjects in a scene, optimize sprite textures, and finally, how to create animations.

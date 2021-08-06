@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=624308
+Course_System=linkedin.com
+Course_Title=Amazon Web Services Machine Learning Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) offers a wealth of services and tools that help data scientists leverage machine learning to craft better, more intelligent solutions. In this course, learn about patterns, services, processes, and best practices for designing and implementing machine learning using AWS. Instructor Lynn Langit takes a look at general machine learning concepts, including key machine learning algorithm types. She also examines available service types, such as AWS Machine Learning, Lex, Polly, and Rekognition, which you can use to predict image and video labels. Plus, she steps through how to work with platforms like AWS SageMaker, which includes hosted Jupyter notebooks.

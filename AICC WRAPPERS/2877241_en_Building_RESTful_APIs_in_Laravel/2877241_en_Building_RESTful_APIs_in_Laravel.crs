@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zuzana Kunckova
+Course_ID=2877241
+Course_System=linkedin.com
+Course_Title=Building RESTful APIs in Laravel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+APIs serve as a bridge between different applications or systems, allowing us to efficiently share our data with the world. REST, an architectural style that defines how to build APIs, is popular, modern, and lightweight. In this course, discover how to create a RESTful API of your own. Join instructor Zuzana Kunckova as she demonstrates how to build a RESTful API using Laravel, the popular PHP framework. Learn how to set up your application, including how to create the database structure and set up RESTful API routes. Discover how to build your RESTful API and save, display, update, and delete resources Plus, explore how to use Postman to test your API and ensure that it works as expected.

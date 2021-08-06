@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Johnson
+Course_ID=609019
+Course_System=linkedin.com
+Course_Title=Data Analytics for Business Professionals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What can data analytics do for your business? Take a lesson from companies like Xerox and UPS. Data analytics can help cut costs, speed up delivery, generate forecasts, and make better decisions. In this introductory overview, economist and author John Johnson shows leaders and executives how to use analytics to make data-driven decisions and gain competitive advantage. First, see examples of real-life analytics in action. Then explore the differences between predictive and prescriptive analytics, and find out how to formulate questions—a process that can be almost as revealing as finding the answers. John then shows how to collect, clean, and aggregate data from different sources across your organization, and identify when data is flawed. Then learn how to plan and deploy an analytics strategy for your business, starting with a variety of simple techniques: averages, sampling, cherry picking, forecasting, and correlation and causality. Finally, John closes with some resources and next steps to advance your analytics knowledge.

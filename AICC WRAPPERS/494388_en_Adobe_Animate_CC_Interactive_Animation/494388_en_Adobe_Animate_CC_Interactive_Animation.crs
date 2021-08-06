@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=494388
+Course_System=linkedin.com
+Course_Title=Adobe Animate CC: Interactive Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the most efficient way to create interactive animations for web, mobile, and desktop projects with Adobe Animate CC, the newly relaunched version of Flash Professional. This project-based course features two assignments: an animated web banner that responds to mouse movement, touch input, and clicks, and a three-state interactive animation that plays like a game. Joseph Labrecque shows how to set up the Animate workspace, prepare the stage, use both keyframe and procedural-based workflows, create titles, and program interactions. Plus, learn how to integrate both completed animations into a self-contained responsive webpage.

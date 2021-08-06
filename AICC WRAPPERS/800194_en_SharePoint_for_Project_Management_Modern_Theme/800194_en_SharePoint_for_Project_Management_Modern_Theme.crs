@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=800194
+Course_System=linkedin.com
+Course_Title=SharePoint for Project Management (Modern Theme)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint can help you manage small projects and keep them running smoothly. In this course, Microsoft Certified Trainer Bill Kulterman reviews the features that make SharePoint an ideal project management tool for teams who already use it for collaboration and document management. Learn how to track tasks, use the timeline for visual insights into your project schedule, and leverage built-in and custom views to display exactly the right information. Bill also shows how to use the group calendar and create and add plans from Microsoft Planner to your SharePoint site. Note: This course focuses on modern SharePoint sites built with the Communication template, but anyone using a classic site will be able to follow along.

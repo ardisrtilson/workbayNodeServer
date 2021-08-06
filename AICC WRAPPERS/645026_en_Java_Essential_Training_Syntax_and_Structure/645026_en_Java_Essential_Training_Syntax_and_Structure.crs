@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=645026
+Course_System=linkedin.com
+Course_Title=Java Essential Training: Syntax and Structure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with Java, the popular object-oriented programming language. In this course—the first installment in the Java Essential Training series—start exploring this essential language, and learn about basic Java syntax and the Java platform's fundamental architecture. Instructor David Gassner goes over the history of the language, providing coverage of its principles, components, and syntax. David explains how to install Java on Windows and macOS, and how to create a project in IntelliJ IDEA. He also demonstrates how to work with primitive variables, create and parse String values, and manage program flow—including how to create reusable code.

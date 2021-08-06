@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris B. Smith
+Course_ID=696322
+Course_System=linkedin.com
+Course_Title=Excel: Creating Drop-Down Lists
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By including drop-down lists in an Excel spreadsheet, you can simplify work for yourself and your team and ensure that data is entered accurately. Many people assume that it takes advanced know-how to create drop-down lists in Excel—but they're actually simple to create. In this quick course, Excel expert Chris Smitty Smith shows how to quickly and easily work with drop-down lists. Smitty walks through organizing your list data, creating the drop-down list, and responding to any error messages you might encounter along the way.

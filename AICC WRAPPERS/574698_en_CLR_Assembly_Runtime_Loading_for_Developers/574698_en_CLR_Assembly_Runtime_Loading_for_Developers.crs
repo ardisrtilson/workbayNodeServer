@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ted Neward
+Course_ID=574698
+Course_System=linkedin.com
+Course_Title=CLR Assembly Runtime Loading for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn practical tips on how to use CLR (common language runtime) assemblies—the building blocks of .NET Framework applications. CLR and .NET developers can benefit from understanding how the CLR locates and loads assemblies, and how this impacts deployment, version control, reuse, activation, scoping, and working with security permissions. This course covers the assembly loading and resolution process including the application of policies, consulting the global assemble cache (GAC), examining codebase hints, conducting system probing, and handling both successful and failed resolutions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=758629
+Course_System=linkedin.com
+Course_Title=CISM Cert Prep: 2 Information Risk Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare to pass the Certified Information Security Manager (CISM) exam. In this course, Mike Chapple dives into the topic of information security risk management practices, helping you bolster your ability to identify, assess, and mitigate risks as you prepare for the Information Risk Management exam domain. Mike goes over the key steps of the risk assessment process, the possible risk management options, and frameworks and tools that can help you keep your organization safe. He also includes comprehensive coverage of the many cybersecurity threats facing modern organizations, including viruses, adware, and advanced persistent threats (APTs). Learn about business continuity, disaster recovery, legal and regulatory compliance, and more.

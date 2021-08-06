@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=740364
+Course_System=linkedin.com
+Course_Title=Introducing Rhino 6 (2018)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with Rhino, the powerful 3D modeling tool for product design and architecture. This one-hour quick start guide helps you get your system set up in the most productive way, make your way around the Rhino user interface, and explore the various types of curves, surfaces, and solids you can create. Instructor Dave Schultz also explains his favorite strategies for starting a model, introduces construction and workflow tips, and shows how to set up your viewport to see your model from all sides as you create it.

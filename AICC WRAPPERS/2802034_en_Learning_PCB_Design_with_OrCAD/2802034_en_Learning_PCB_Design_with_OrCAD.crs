@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kirsch Mackey
+Course_ID=2802034
+Course_System=linkedin.com
+Course_Title=Learning PCB Design with OrCAD
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing printed circuit boards (PCBs)—which help to power nearly all electronic devices—requires both sound reasoning and creative thinking. In this course, Kirsch Mackey steps through this process, demonstrating how to design and output a PCB using OrCAD (also known as Allegro), the industry-leading software used by many of the world's top electronic and consumer device manufacturers. Kirsch steps through how to work with both OrCAD Capture and PCB Editor to bring your project to the finish line, helping you become familiar with the electronic board development workflow along the way. Learn how to create electronic schematics, lay out your circuits on printed circuit boards, and generate manufacturing files and PCB documentation.

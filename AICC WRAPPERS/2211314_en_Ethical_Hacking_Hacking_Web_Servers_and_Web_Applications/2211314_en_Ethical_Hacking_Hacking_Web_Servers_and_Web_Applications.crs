@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2211314
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Hacking Web Servers and Web Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Websites and web applications are—by their very nature—accessible remotely, which puts them at high risk of cyberattacks. Knowing how to detect and prevent web attacks is a critical skill for developers and information security professionals alike. In this course, find out about existing and emerging web protocols and how to test your sites and applications for weaknesses. Cybersecurity expert Malcolm Shore examines the various parts of a web application and introduces the Open Web Application Security Project (OWASP), which provides documentation, tools, and forums for web developers and testers. He also provides an overview of popular testing tools, including Burp Suite and OWASP ZAP. Learn how to use these utilities to run basic and advanced tests, and protect sites against common attacks. Note: The Ethical Hacking series maps to the 20 parts of the EC-Council Certified Ethical Hacker (CEH) exam (312-50) version 11.

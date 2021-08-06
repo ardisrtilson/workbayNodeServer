@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kunal D Mehta
+Course_ID=2861084
+Course_System=linkedin.com
+Course_Title=Deploying Azure Active Directory
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to learn how to manage cloud identities in Azure Active Directory? You’re in the right place. This course provides in-depth instruction regarding the day-to-day tasks that Azure Active Directory administrators must perform after rolling out the enterprise identity service. Instructor Kunal D Mehta provides important considerations and hands-on demonstrations for each step. For users and groups, Kunal explains the various types of accounts and how to create, read, update, and delete user accounts and groups. He also presents the different methods of management used for hybrid versus native or on-premises users. Plus, discover three device management strategies, explore key concepts around planning a hybrid identity infrastructure, and review a checklist you can use while evaluating a hybrid strategy for your own organization.

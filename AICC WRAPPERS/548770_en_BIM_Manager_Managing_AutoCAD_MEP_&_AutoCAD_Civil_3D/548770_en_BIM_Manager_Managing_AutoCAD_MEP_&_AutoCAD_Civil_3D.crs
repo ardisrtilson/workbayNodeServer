@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=548770
+Course_System=linkedin.com
+Course_Title=BIM Manager: Managing AutoCAD MEP & AutoCAD Civil 3D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how building information modeling (BIM) managers set up AutoCAD MEP and AutoCAD Civil 3D in a shared environment. To begin, learn how to automate your startup with LISP and create variable settings. Next, explore how to create text, create dimension and multileader styles, and make custom palettes using the content browser. This course walks you through deployments, content development, system management, and more.

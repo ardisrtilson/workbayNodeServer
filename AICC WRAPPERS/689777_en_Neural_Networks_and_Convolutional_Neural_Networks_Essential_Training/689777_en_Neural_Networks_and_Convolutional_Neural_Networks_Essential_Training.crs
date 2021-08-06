@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=689777
+Course_System=linkedin.com
+Course_Title=Neural Networks and Convolutional Neural Networks Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a deep dive into neural networks and convolutional neural networks, two key concepts in the area of machine learning. In this hands-on course, instructor Jonathan Fernandes covers fundamental neural and convolutional neural network concepts. Jonathan begins by providing an introduction to the components of neural networks, discussing activation functions and backpropagation. He then looks at convolutional neural networks, explaining why they're particularly good at image recognition tasks. He also steps through how to build a neural network model using Keras. Plus, learn about VGG16, the history of the ImageNet challenge, and more.

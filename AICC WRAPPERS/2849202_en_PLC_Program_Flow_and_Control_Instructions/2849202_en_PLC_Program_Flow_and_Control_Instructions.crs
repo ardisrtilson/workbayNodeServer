@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=2849202
+Course_System=linkedin.com
+Course_Title=PLC Program Flow and Control Instructions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ladder logic is a common programming language used in industrial and manufacturing processes. The controller, using a programmable logic controller (PLC) program, specifies what action each device needs to perform. Many PLC operations follow linear sequences, but as you develop more complex applications, you also need to build more sophisticated logic into your projects. In this course, explore advanced PLC ladder logic programming instructions, including bit shift left, bit shift right, word shift operations, program flow control instructions, and subroutine instructions. Learn about first in, first out (FIFO) and last in, first out (LIFO) word shifting instructions, as well as other options (and how to choose from among them).

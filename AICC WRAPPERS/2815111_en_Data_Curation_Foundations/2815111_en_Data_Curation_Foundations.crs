@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Monika Wahi
+Course_ID=2815111
+Course_System=linkedin.com
+Course_Title=Data Curation Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data curation is quickly evolving as a required skill and job function in data teams and organizations. Creating and sharing data curation files can help you more efficiently and effectively manage the work of teams, and leverage their data for analytics and decision-making. In this course, Monika Wahi demonstrates how to develop curation files to document information about datasets and related business processes. Monika provides an overview of five categories of data curation files: files for back-end curation, different files for front-end curation, survey curation files, flow diagrams, and text-based curation files. She goes over a variety of curation files from each category, providing guidance as to how to develop them using Microsoft Word, Excel, or PowerPoint.

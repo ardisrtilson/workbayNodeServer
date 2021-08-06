@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=520535
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Implementing Group Policy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Group Policy is the key to consistent and secure Windows account configuration. It's a major part of Active Directory, and a featured topic of MCSA exam 70-742, Identity with Windows Server 2016. Learn how to configure and manage Group Policy in Windows Server 2016 and study for MCSA certification with this course from Windows expert Ed Liberman. Ed covers processing for Group Policy objects, which determines the order in which policies are read and applied, including the default order and exceptions like block inheritance and forced links. He reviews critical settings that every IT admin needs to be able to configure, including Administrative Template files, folder redirection, and scripts. Then learn how to quickly troubleshoot Group Policy issues and configure passwords and account lockout policies. By the end of the course, you'll have a thorough understanding of Group Policy and its role in Windows Server administration. Review the complete set of objectives for exam 70-742, Identity with Windows Server 2016, at https://www.microsoft.com/en-us/learning/exam-70-742.aspx.

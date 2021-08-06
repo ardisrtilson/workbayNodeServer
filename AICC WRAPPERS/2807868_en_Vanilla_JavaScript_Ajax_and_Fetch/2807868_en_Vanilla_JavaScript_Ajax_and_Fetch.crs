@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2807868
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Ajax and Fetch
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ajax is a building block of the modern web. Ajax helps you communicate between your app and the server, and incorporate new content without reloading webpages—resulting in more interactive and high-performance apps. This course introduces both modern and legacy approaches for requesting and handling data and modifying webpage content with Ajax and vanilla JavaScript. JS expert Sasha Vodnik shows how to work with the Fetch and XMLHttpRequest (XHR) APIs, so you can see how Ajax is implemented in different codebases. He also shows how to optimize Ajax requests and responses within the browser, modify webpage content through the DOM, and handle any errors that result. Plus, learn how to move your API keys out of front end code and onto a proxy server to keep them secure.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ami Levin
+Course_ID=2824360
+Course_System=linkedin.com
+Course_Title=Advanced  SQL – Window Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Window functions are one of the most radical, fundamental enhancements to modern SQL. They allow access to neighboring rows without using subqueries, thus enabling amazing opportunities for concise, elegant, high-performing solutions. This course teaches the foundations and intricacies of window function processing and how to use it to implement practical solutions to everyday challenges. You can learn how to use different constructs and advanced solution techniques and how to utilize the declarative and composable nature of SQL and its processing order. By the end of the course you’ll better understand the fundamental pros and cons of each method. This course was created by Ami Levin. We are pleased to offer this training in our library.

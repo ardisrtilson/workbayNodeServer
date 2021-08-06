@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2811356
+Course_System=linkedin.com
+Course_Title=Learning Play 2 Framework
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Play 2 Framework is an opinionated Java and Scala web application framework that allows you to build web apps quickly and efficiently. If you're comfortable with Java and curious about Play, then this hands-on course is for you. Join instructor Emmanuel Henri as he steps through the basics of using Play to build a web app. Emmanuel kicks off the course by introducing both the framework and the course project. He then shows how to approach routing, handle HTTP calls, and work with Twirl, a Scala-based template engine. To wrap up, he goes over key use cases for Play, including how to set up forms in an application using Play.

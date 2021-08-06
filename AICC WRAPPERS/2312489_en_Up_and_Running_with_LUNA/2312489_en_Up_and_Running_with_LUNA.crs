@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Hirsch
+Course_ID=2312489
+Course_System=linkedin.com
+Course_Title=Up and Running with LUNA
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with LUNA, the new recording system from Universal Audio (UA) for fast, powerful no-latency music production. Instructor Scott Hirsch helps you set up a project with LUNA and make your first recording, configure headphone cueing mixes, and record multiple channels simultaneously in LUNA. Then discover how to record and edit MIDI tracks; use inserts, sends, and buses; and make a comp out of multiple recording tracks. Finally, learn how to output your final mixdown and mix stems as well as export tracks to other DAWs, all using the analog processing emulations from UA.

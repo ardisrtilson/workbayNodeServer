@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=452749
+Course_System=linkedin.com
+Course_Title=Learning CakePHP 3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CakePHP is a registered trademark of Cake Software Foundation, Inc.. Cake Software Foundation, Inc. is not affiliated with Lynda.com, nor does it endorse, sponsor, or otherwise support Lynda.com services. CakePHP is a critical framework for PHP developers. It helps them build complex web applications faster and more efficiently. If you want to use CakePHP 3 (the latest version of the framework) in your own development workflow, this is the place to start. Justin Yost provides an overview of the underlying MVC pattern in CakePHP, and the installation and configuration process for Mac and Windows. He shows how to use the CakePHP shell to build your first basic CakePHP app, and then discusses each application element in depth: controllers, models, views, components, behaviors, helpers, and utilities. At each step, he discusses the relevant new features and enhancements in CakePHP 3, including new components; performance, session management, and ORM improvements; and localization. In later chapters, the course gets a little more advanced. Watch these tutorials to learn how to send email with CakePHP, extend CakePHP with plugins, and write unit tests to identify and eliminate bugs in your code. Justin also shows how to add security to your CakePHP apps with a basic user authentication system.

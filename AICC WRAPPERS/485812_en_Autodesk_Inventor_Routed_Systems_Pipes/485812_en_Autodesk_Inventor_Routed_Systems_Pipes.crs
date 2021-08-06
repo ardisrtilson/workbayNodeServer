@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=485812
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor Routed Systems: Pipes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing routed elements—including piping—has never been easier than with Autodesk Inventor. Inventor's rules-based routing tools select the appropriate fittings, and allow you to easily change to a different style. Inventor will repopulate the pipe run with the new fittings while adhering to any new design rules. Join Thom Tremblay as he shows how to use automated and manual routes to create piping systems through your assemblies. Learn how to edit members of a run; change pipe styles based on material, diameter, length, radius, and more; duplicate routes; and document your designs in detailed 2D drawings.

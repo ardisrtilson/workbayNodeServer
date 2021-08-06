@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=475942
+Course_System=linkedin.com
+Course_Title=AutoCAD Facilities Management: Space Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you have measured the available area in your facility, the next step in computer-aided facilities management (CAFM) is to develop it into specific spaces with assigned uses: offices, bathrooms, labs, electrical closets, etc. This course shows how to use AutoCAD, Autodesk's flagship CAD platform, for space management. Follow along with Shaun Bryant as he guides you step-by-step through a real-world CAFM project, allowing you to learn at your own pace, developing your skills as you go. He shows how to set up drawings, define spaces with polylines, set up space tables to house your data, and annotate drawings with that data. By the end of the course, you'll be able to export the space management information to applications such as Microsoft Excel, so you can analyze the data in a tabular format.

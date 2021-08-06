@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gerald Versluis
+Course_ID=743164
+Course_System=linkedin.com
+Course_Title=Building Serverless Xamarin Apps with Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Xamarin.Forms, it's easier than ever to write native, cross-platform apps based on the .NET ecosystem. In this course, learn how to leverage a serverless architecture to support your Xamarin mobile apps. Instructor Gerald Versluis demonstrates how to write your first Xamarin.Forms app and retrieve data from Azure Functions. He begins by defining what serverless means and why it's advantageous for developers, and then details how to set up your Azure account. He then covers how to create Azure functions, build a Xamarin.Forms app, and implement code that will consume Azure functions. Upon wrapping up this course, you'll be prepared to confidently start developing your own serverless Xamarin apps, leveraging a full end-to-end C# solution.

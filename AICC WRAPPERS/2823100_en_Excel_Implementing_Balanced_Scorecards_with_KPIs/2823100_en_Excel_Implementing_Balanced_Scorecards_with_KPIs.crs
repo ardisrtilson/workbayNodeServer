@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2823100
+Course_System=linkedin.com
+Course_Title=Excel: Implementing Balanced Scorecards with KPIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use Excel to create a balanced scorecard to measure business performance based on data available throughout your organization. This course shows intermediate Excel users how to capture metrics related to the financial, process, customer, and learning and growth aspects of their business and display them in an easy-to-understand visualization built entirely in Excel. Instructor Curt Frye provides an overview of balanced scorecards, including the four perspectives and related key performance indicators (KPIs). He then shows how to ingest data from various sources and levels of the organization into dashboards that summarize overall performance, using popular Excel features such as PivotTables and conditional formatting.

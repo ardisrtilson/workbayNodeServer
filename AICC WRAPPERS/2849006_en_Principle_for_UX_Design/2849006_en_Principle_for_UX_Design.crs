@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2849006
+Course_System=linkedin.com
+Course_Title=Principle for UX Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Principle for Mac is a Mac-based UX prototyping tool designed to bring your design ideas to life. In this course, join instructor Tom Green as he shows how to create interactive prototypes for smartphones, tablets, and desktop computers with Principle. The techniques go beyond static wireframes or blueprints; with Principle, your prototypes become more dynamic, with motion and interactivity. Along the way, learn how to import assets, crop and mask layers, and use the Principle timeline and drivers. The final chapter of the course includes examples of real-world prototyping projects, including a preloader animation, a card animation, a video player, and an Apple Watch UI.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=758630
+Course_System=linkedin.com
+Course_Title=Kali Linux on Windows 10 First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kali Linux is packed with penetration and analysis tools that can help you thoroughly test your systems for weaknesses. In this course, learn how to use Windows Subsystem for Linux to run this security-focused Linux distribution right on your Windows desktop—without the use of a virtual machine. Here, instructor Scott Simpson provides a quick overview of Kali Linux and steps through how to set it up on a Windows 10 machine. Plus, he goes over a few of the tools that Kali offers, shares how to set up a graphical user interface (GUI), and explores how to manage and reset the Kali environment.

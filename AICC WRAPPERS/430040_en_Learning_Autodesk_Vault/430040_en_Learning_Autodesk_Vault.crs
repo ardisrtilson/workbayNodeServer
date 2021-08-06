@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gordon Luckett
+Course_ID=430040
+Course_System=linkedin.com
+Course_Title=Learning Autodesk Vault
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Anyone who has an AutoCAD-based product can use Autodesk Vault for document and data management. With Vault, tracking the latest versions of a file or who last modified it is easy. Instead of complex naming conventions, Vault offers automatic version tracking. This course concentrates on the administrative side of Vault Basic. Gordon Luckett shows how to install a Vault server on a central Windows Server, and install the Vault Basic client on a computer with AutoCAD. The server and client are used to track how AutoCAD DWG and other non-CAD files are added, searched, and checked in and out of Vault. Gordon also covers autoloading files to Vault, and backing up and restoring the system. The final chapter covers the premium features in Vault Professional, such as categories, rules, and revisions.

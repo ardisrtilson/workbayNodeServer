@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2331283
+Course_System=linkedin.com
+Course_Title=Building a Headless WordPress Site with Gatsby
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+WordPress, the powerful publishing platform, powers much of the web. Gatsby allows developers to build performance-focused, modern websites and applications with React. In this course, discover how to combine this dynamic duo to get a web publishing powerhouse. Join instructor Morten Rand-Hendriksen as he explains how to use WordPress to populate a Gatsby site. He shows you the plugins you need to use WordPress data in a Gatsby site, then demonstrates how to connect WordPress and Gatsby. He covers how to create a variety of custom menus, including a nested menu and a footer menu. He demonstrates how Gatsby can be configured to generate new pages based on WordPress posts. Morten goes over how you can query categories and tags, as well as how to generate index pages for each category of the WordPress site. He walks you through how to access custom data through GraphQL and use it in your Gatsby site, then concludes by explaining how to deal with WordPress blocks when working in Gatsby.

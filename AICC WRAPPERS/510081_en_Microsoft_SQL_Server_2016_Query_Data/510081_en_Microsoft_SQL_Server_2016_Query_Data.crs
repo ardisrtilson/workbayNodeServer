@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gerry O'Brien
+Course_ID=510081
+Course_System=linkedin.com
+Course_Title=Microsoft SQL Server 2016: Query Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many of the world's most powerful programs and websites use SQL to manage the incredible amount of data they work with on a daily basis. As a result, understanding how to query data from platforms like Microsoft SQL Server 2016 is a highly valuable skill. In this course, Gerry O'Brien reviews the history of SQL and relational theory to help you understand exactly where this data manipulation language and the Microsoft seminal database program got their starts. Next, he shows how to query one or many different tables using SELECT statements, as well as how to filter, group, and sort the results. Then, he demonstrates how to work with special data types like dates, times, and characters. Gerry also covers advanced topics like subqueries, programming with Transact-SQL, and improving query performance.

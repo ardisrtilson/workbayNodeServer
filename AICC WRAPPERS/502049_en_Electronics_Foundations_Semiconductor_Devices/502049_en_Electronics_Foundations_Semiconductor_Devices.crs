@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=502049
+Course_System=linkedin.com
+Course_Title=Electronics Foundations: Semiconductor Devices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bolster your understanding of how to build electronic circuits by learning to work with semiconductor components. In this course, join electrical engineer Barron Stone as he walks through how to build circuits using three common types of semiconductor components: diodes, transistors, and operational amplifiers. Barron kicks off the course by explaining what diodes are, and how to use diodes to control the direction that current flows through a circuit. He shows you how to use diodes to protect your circuits from large amplitude signals, reverse current, and flyback voltage. He then moves on to working with transistors, demonstrating how they can be used to control the amount of current flowing through a circuit, and examining common types of transistors such as BJTs and MOSFETs. Barron wraps up the course by covering one of the most useful electronic components—operational amplifiers. He shows you how to use op-amps to supply dual voltages, compare two signals, amplify signals, filter signals, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=540501
+Course_System=linkedin.com
+Course_Title=AutoCAD: Annotation Scaling in Drawings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Annotation scaling allows you to scale objects in your layout to ensure that your designs are effectively communicated to the building contractor on the job site, the production team on the factory floor, or the interior designer at the office. As operative design communication is imperative for all AutoCAD users, annotation scaling is a fundamental part of your AutoCAD skillset. In this course, explore objects that can be annotatively scaled in your AutoCAD drawings. Learn about text, blocks, hatching, multileaders, and more.

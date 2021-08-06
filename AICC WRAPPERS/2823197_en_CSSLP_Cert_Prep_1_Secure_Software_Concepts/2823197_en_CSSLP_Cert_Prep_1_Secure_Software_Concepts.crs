@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2823197
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 1 Secure Software Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified Secure Software Lifecycle Professional (CSSLP) is a globally recognized certification from (ISC)², the organization that has certified well over 100,000 information security professionals. As a CSSLP holder, you can demonstrate to current or future employers that you understand how security can be embedded in the software development lifecycle (SDLC). This course, the first installment in the CSSLP Cert Prep series, prepares you to tackle the first domain in the CSSLP exam: Secure Software Concepts. Instructor Jerod Brennen discusses how application security fits within the broader context of information security. He also digs into core concepts, including availability and authorization; economy of mechanism, with a particular focus on single sign-on (SSO); and design considerations, such as resiliency and open design.

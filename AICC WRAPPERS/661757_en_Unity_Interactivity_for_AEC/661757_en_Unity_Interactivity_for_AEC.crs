@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=661757
+Course_System=linkedin.com
+Course_Title=Unity: Interactivity for AEC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interactivity is key to seeing how architecture, engineering, and construction (AEC) designs will perform in the real world. Unity provides a powerful toolset for adding interactivity and making AEC visualizations more dynamic. Join George Maestri in this course to learn how to use Unity scripting, animation, and UI tools to enhance the interactivity of your designs. Review the basics of scripting, including working with variables and functions. Learn to apply scripts directly to objects in your scene and trigger them with a single keystroke. Next, discover how to animate interactions, such as opening doors and drawers, and adjust how animations are triggered with colliders and proximity detection. Finally, George shows how to create a simple user interface for your scene, adding buttons, menus, and sliders that allow the viewer to control object visibility, lighting levels, and more.

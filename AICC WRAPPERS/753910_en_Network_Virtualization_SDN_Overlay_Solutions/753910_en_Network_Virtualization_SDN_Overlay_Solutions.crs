@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=753910
+Course_System=linkedin.com
+Course_Title=Network Virtualization: SDN Overlay Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software-defined networking (SDN) virtual networks are an emerging network topology that allows hardware and software components to be managed virtually. Join David Bombal as he introduces SDN overlay networks and shows you how to create a virtual network using virtual ports, switches, routers, firewalls, and more via a centralized user interface. Follow along with a demonstration of Nuage Networks Virtualized Services Platform (VSP), an overlay solution that increases network responsiveness and efficiency while avoiding vendor lock-in. Learn about spanning Layer 2 networks across data centers, navigating a broken underlay, creating and tearing down dynamic tunnels, and more. David also discusses advantages of VMware NSX, a network virtualization platform that allows networks to provision in minutes without having to modify the app.

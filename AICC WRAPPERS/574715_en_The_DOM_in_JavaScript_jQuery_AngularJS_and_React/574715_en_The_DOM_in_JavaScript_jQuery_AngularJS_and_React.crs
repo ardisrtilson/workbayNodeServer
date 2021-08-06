@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Hur
+Course_ID=574715
+Course_System=linkedin.com
+Course_Title=The DOM in JavaScript, jQuery, AngularJS, and React
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The HTML DOM (Document Object Model) opens up exciting new ways to create dynamic websites. Learn the different ways a developer can manipulate the DOM tree using common web technologies. Instructor Christian Hur introduces the DOM and shows how DOM elements are arranged and constructed. Next, he reviews the built-in web browser developer tools and uses them to quickly manipulate the DOM in a temporary virtual environment (stateless mode). Once the foundations are covered, you can explore the dramatically different approaches to DOM manipulation taken by libraries and frameworks like jQuery, Angular, and React. Exploring the similarities and differences will give you the confidence to choose and switch between tools.

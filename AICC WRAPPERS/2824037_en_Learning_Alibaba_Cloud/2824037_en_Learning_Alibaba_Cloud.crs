@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2824037
+Course_System=linkedin.com
+Course_Title=Learning Alibaba Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Alibaba Cloud is a rapidly growing cloud service provider, with a compelling service range on par with Amazon Web Services and Microsoft Azure. Services include compute with virtual machines (VMs), containers, and functions, and file and database services, such as object storage and managed relational and NoSQL databases. This course focuses on using these core infrastructure services, as well as the security and networking features in Alibaba Cloud, to support your applications. Instructor Lynn Langit shows you how to set up a new account, create VMs and container clusters, configure functions, and set up cloud storage with buckets and databases. Plus, learn how to use the built-in tools such as Alibaba Cloud Shell and the API Explorer to manage and automate resource deployment.

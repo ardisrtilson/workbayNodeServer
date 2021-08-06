@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=2823042
+Course_System=linkedin.com
+Course_Title=SketchUp: Rendering for Compositing in V-Ray Next
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn critical techniques for creating renders of your 3D visualizations in compositing applications such as Photoshop while using V-Ray Next with SketchUp. Instructor Brian Bradley reviews the available render elements in SketchUp, including the user interface, workflow, and output options. He then shows how to leverage elements like Global Illumination, Specular, and Refraction in an initial beauty pass—the main full-color rendering of your scene. Finally, learn how to render multiple, accurate mattes and textures; adjust the depth and sample rate of final output; and use those complex matte renders in programs like Photoshop to speed up compositing. This course was created by Brian Bradley. We are pleased to host this training in our library.

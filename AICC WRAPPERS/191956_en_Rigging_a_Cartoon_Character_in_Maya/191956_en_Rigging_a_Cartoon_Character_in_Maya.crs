@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=191956
+Course_System=linkedin.com
+Course_Title=Rigging a Cartoon Character in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cartoon characters are known for their exaggerated movement, often created by squashing and stretching the character. In this course, George Maestri shows how to add cartoony squash and stretch to a rig in Maya. He shows how to use Maya's rigging tools to create stretchy joints, flexible torsos, and exaggerated facial expressions. Follow along to learn how to replicate these techniques and bring your own characters to life.

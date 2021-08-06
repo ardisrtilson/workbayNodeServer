@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gary Grudzinskas
+Course_ID=5030989
+Course_System=linkedin.com
+Course_Title=Learning Azure Management Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Migrating your infrastructure to the cloud? To get the most value from Microsoft Azure, you need to know how to manage it. You should be able to deploy and configure resources in a quick and repeatable way. This course provides an introduction to the four key Azure management tools: the Azure portal, the Azure CLI, PowerShell, and JSON templates. This beginner-level course is ideal for IT pros who have some experience with Azure but are looking for hands-on guidance to explore each of these tools and the solutions they provide. It also covers content found in the AZ-900 Azure Foundations certification exam.

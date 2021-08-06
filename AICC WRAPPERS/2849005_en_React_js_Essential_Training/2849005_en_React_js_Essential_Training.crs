@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eve Porcello
+Course_ID=2849005
+Course_System=linkedin.com
+Course_Title=React.js Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied. In this course, Eve Porcello introduces the basics of the React library using the most modern syntax and best practices for creating React components. Along the way, learn how to set up Chrome tools for React; create new components; work with the built-in Hooks in React; and more. By the end of the course, you'll understand the essentials of React.js and be able to start building your own browser-based projects.

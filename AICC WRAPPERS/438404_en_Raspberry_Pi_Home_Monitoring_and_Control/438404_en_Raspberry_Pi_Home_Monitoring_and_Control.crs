@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Ross
+Course_ID=438404
+Course_System=linkedin.com
+Course_Title=Raspberry Pi: Home Monitoring and Control
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Help your home keep up with you—and stay connected to what's going on when you're away—with a custom home monitoring system built with a Raspberry Pi. With some inexpensive hardware and simple web services, you can monitor your house remotely via photo or video surveillance, detect motion, turn lights on and off, and send messages to your phone when different alarms are triggered. This DIY electronics project provides simple directions for getting your home monitoring system up and running. Author David Ross helps you select a power supply, camera, motion detector, enclosure, and other components and accessories, and make your system smart by connecting to web services frameworks such as Weaved and WebIOPi. Then he helps you program the logic to make your Pi camera take pictures and stream video, connect to home peripherals, and mount your alarm system. With this training, and a little elbow grease, you can create a fully autonomous system that helps you and your family feel more secure at home and away. Note: These instructions work with Raspberry Pi B, Raspberry Pi B+, and Raspberry Pi 2 models.

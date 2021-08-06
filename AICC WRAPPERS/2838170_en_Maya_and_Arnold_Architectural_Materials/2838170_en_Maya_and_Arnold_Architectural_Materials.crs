@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2838170
+Course_System=linkedin.com
+Course_Title=Maya and Arnold: Architectural Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create realistic materials for 3D architectural visualizations using Maya, Arnold, and Substance. In this course, instructor George Maestri explains how to use these popular tools to create your own custom materials for interior and exterior architectural renderings, including glass and other transparent surfaces, stucco, metal, foliage such as grass and groundcover, and more. Learn how to prepare your geometry for texturing via UV mapping and then dive into the standard and physically based rendering (PBR) materials available out of the box in Arnold and the Substance source library. George then shows how to create custom materials in Arnold, Substance Designer, and Substance Alchemist. At the end of each chapter, George shows how to import your new materials into Maya so they are ready to use in visualizations. By the end of this course, you'll have the skills and knowledge to take advantage of the best features in each program for your own material creation process.

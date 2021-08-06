@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Westerveld
+Course_ID=5016717
+Course_System=linkedin.com
+Course_Title=Software Testing: Exploratory Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How does tester stay relevant in the world of modern software development? The key is exploratory testing: unscripted testing that is both disciplined and flexible enough to be put into practice in any environment, from regulated industries to brand-new startups. This course teaches you how to use exploratory testing to immediately add value at any point in a product’s development. Instructor Dave Westerveld introduces some of the core terminology: things like heuristics, oracles, and models. He explains how to think like an explorer and apply structure to testing, so you can use your skills in any environment, including agile and DevOps. You can discover strategies and techniques that help you effectively pinpoint important information, keep your test ideas fresh, and reveal deep new information. Dave also explains how exploration ties to test automation and data analysis. Use the challenges along the way to apply the concepts and practice what you’ve learned.

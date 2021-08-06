@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=5016736
+Course_System=linkedin.com
+Course_Title=Learning Web Audio and Video
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to share video or audio on your sites, but dropping it on YouTube or a podcasting engine isn't an option? Native web technologies—HTML, CSS, and JavaScript—provide direct support for audio and video, letting you incorporate media and fully customize the playback experience. This introductory course with instructor Joseph Labrecque helps you build interactive audio and video into your websites and applications. First review the basics of HTML5 media elements and their attributes. Then discover how to embed media, support fallbacks, and adjust size, volume, and other important settings. Next, learn how to customize interfaces to standardize the look and functionality of your player across different browsers. Plus, find out how to make the user experience fully interactive with the HTML5 Media API.

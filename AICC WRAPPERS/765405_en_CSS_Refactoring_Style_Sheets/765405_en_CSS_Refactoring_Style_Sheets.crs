@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=765405
+Course_System=linkedin.com
+Course_Title=CSS: Refactoring Style Sheets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As sites and apps grow ever more intricate, stylesheets frequently grow by gradual accumulation—things get added and things get adjusted, resulting in stylesheets becoming unnecessarily complicated. Refactoring CSS is different from refactoring typical programming languages, with a different set of priorities and tools. In this course, learn how make stylesheets leaner while maintaining the stylesheet's power. Find out how to optimize new and legacy stylesheets. First, Morten Rand-Hendriksen explains the goal of refactoring—to rewrite CSS to simplify, improve, and optimize the code without changing its behavior. Then he covers tools like nmp, stylelint, Prettier, Visual Studio Code, Purgecss, and Gulp. He also shows a practical example of how to fix and reformat a stylesheet, followed by sharing best practices and demonstrating how to clean code via automation.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Putney
+Course_ID=360616
+Course_System=linkedin.com
+Course_Title=Creating HTML Layouts with InDesign
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Not only is HTML the language of the web, but it can also be used to create ebooks, mobile apps, and rich emails, and it can be embedded in other formats like DPS. This course will walk you through each of those options, help you decide which are right for your project, and show you best practices for successfully exporting your content and layouts to HTML so you can share it with the world. Author Justin Putney also introduces some inexpensive development options for mobile apps, and shows how to take your results from this course to the next level with CSS and JavaScript.

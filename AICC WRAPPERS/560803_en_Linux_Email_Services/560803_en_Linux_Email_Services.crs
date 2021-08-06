@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chaim Krause
+Course_ID=560803
+Course_System=linkedin.com
+Course_Title=Linux: Email Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For Linux administrators, effective email administration is a crucial skill. In this course, learn how to set up and configure a Linux email server. To begin, Chaim Krause walks through the path that an email takes as it travels from sender to receiver, and then explains how to set up Postfix as an SMTP server, send mail with Postfix both internally and externally, and configure TLS and SASL. Next, he dives into the role of a SQL database on a Linux email server, and explains how to set up a database. To wrap up, Chaim shares different protocols—namely, SPF, DKIM, DMARC, and DANE—that you can leverage to protect your users from spammers.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brett McLaughlin
+Course_ID=3107156
+Course_System=linkedin.com
+Course_Title=Creating a Serverless Application Using React in AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React is one of the key technologies that the new and modern web is being built upon. In this course, instructor Brett McLaughlin shows you how React and a complete web development ecosystem work together in building applications. Brett goes through all the steps in getting your React app set up, deployed, connected, and supported. Next, he steps you through creating React components to organize and display your content. Brett teaches you how to add cloud services like a database using JSON data and encourages you to ensure your code works on the cloud platform you're targeting. He covers how to interact with AWS and DynamoDB through the command line, then how to create and use a DynamoDB table. Next, Brett goes into how to create, load, and test a new role that can execute Lambda functions and interact with DynamoDB. He walks you through creating and deploying an API gateway. Brett concludes by showing you how to connect your React code to an API Gateway endpoint.

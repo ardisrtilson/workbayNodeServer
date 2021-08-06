@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David F Durand
+Course_ID=651184
+Course_System=linkedin.com
+Course_Title=Learning nCloth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+nCloth is a Maya toolkit that is used to simulate cloth and other dynamic surfaces for feature films and games. This course explores the fundamentals of nCloth and basic character visual effects. The instructor, David Feuillatre, is one of the early adopters of nCloth and uses it for his work on movies such as The Dark Knight. Follow along with David to learn about the history of visual effects, the technology of 3D simulation, and the basics of dynamics meshes, properties, and forces in nCloth. Learn how to set up collisions and add constraints, and master the nuances of nCloth design. In chapter four, David walks through a real-world project with nCloth: a physically realistic flag that flaps and flutters in the wind. The course closes with two challenge videos that allow you to practice your skills with nCloth, and compare David's solutions with your own. Note: This course used Maya 2018, but the cloth simulation principles and techniques shown apply to any software.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Elfassy
+Course_ID=2823491
+Course_System=linkedin.com
+Course_Title=Microsoft Azure: Networking Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A majority of Fortune 500 companies rely on Microsoft Azure for scalable, dependable cloud services. But it's not enough to create and host resources; you also need to be able to connect to and publish those resources on the web. That's where Azure networking services come in. To ensure your organization gets the most value from Azure, administrators need to be able to configure virtual networks and machines and monitor and manage their performance over time. Join David Elfassy and learn how to establish and secure high-availability connectivity using the basic and advanced networking tools in Azure, including Azure Virtual Network (vNET), ExpressRoute, Private Link, and Azure load balancers. Plus, find out how to create and manage Azure Firewall solutions to protect all your virtual resources.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Benkovich
+Course_ID=713390
+Course_System=linkedin.com
+Course_Title=Automation with Azure Powershell and ARM Templates
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about the automation services available to you when working with Azure Resource Manager (ARM) and PowerShell. Join Azure expert Mike Benkovich as he introduces you to ARM Templates, resource groups, and dashboard customization. He then takes you through the process of creating and deploying a demo application. He also provides a look at infrastructure, advanced functions, and more.

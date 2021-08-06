@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=177837
+Course_System=linkedin.com
+Course_Title=Introduction to Web Design and Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+New to web design? Start here first. Instructor James Williamson introduces the fundamental concepts, tools, and learning paths for web design. He explains what it means to be a web designer, the various areas of specialization, and whether web design is the right hobby or career for you. Along the way, he talks to five prominent designers and developers, who have each found success in a different corner of the web. If you want to get up and running fast, check out the chapter on getting online, choosing a domain name and web host, and getting around the backend of a standard website. Need to stock your tool chest? Learn what you'll need to build a brand new site, from web design software and content management systems, to testing and prototyping tools and development frameworks. Finally, James outlines learning paths for where to go next, touching on subjects such as standards and accessibility, responsive design, and the three core web technologies: HTML, CSS, and JavaScript.

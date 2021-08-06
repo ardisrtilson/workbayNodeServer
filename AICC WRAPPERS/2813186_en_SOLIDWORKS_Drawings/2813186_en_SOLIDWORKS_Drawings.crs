@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=2813186
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Drawings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS drawings are more than simple illustrations. Drawings are a critical tool for sharing your design intent with fabricators, clients, and other designers. In this course, you can go way beyond generating basic views of parts by learning how to create drawings from all the data and views available in a SOLIDWORKS model. Find out how to use standard views, add and delete views, derive more complex views such as auxiliary and crop views, and work with all the available dimensioning tools. Instructor David Antanavige also explains how to create and manage title blocks and revision blocks.

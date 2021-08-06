@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oliver Schinkten
+Course_ID=578069
+Course_System=linkedin.com
+Course_Title=Learning Moodle 3.3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to leverage Moodle—the popular open-source learning management system (LMS)—to set up online courses that help students both engage with the material and enhance their digital literacy skills. In this course, Oliver Schinkten demonstrates the features and functions of Moodle 3.3 by walking through how to set up and add a course. Oliver demonstrates how to add students, collect and grade assignments, quiz students, and add resources to the different sections of your course. He also shares best practices for getting the most out of this LMS.

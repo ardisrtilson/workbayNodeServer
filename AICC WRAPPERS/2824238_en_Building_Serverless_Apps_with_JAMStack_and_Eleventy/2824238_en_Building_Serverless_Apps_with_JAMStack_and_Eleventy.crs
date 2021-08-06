@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2824238
+Course_System=linkedin.com
+Course_Title=Building Serverless Apps with JAMStack and Eleventy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript, APIs, and prebuilt markup. It’s called the Jamstack and it's all you need to build a serverless app. The templating and clean basic architecture make it easier to build applications without reinventing the wheel, while retaining the flexibility you need to handle data from a wide variety of sources. Combined with the static site generator Eleventy you have an even more efficient way to create and deliver serverless apps and websites. In this course, instructor Ray Villalobos takes you through a step-by-step project built with the Jamstack and Eleventy. Learn how to build pages from Eleventy templates and layouts, connect to site data through APIs, use features like shortcodes and filters to inject and update content, and group content in collections. Plus, learn how to use pagination to regroup pages and add navigation with plugins.

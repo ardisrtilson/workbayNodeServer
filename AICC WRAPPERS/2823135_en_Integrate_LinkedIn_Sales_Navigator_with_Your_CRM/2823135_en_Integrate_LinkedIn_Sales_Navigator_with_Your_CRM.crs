@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2823135
+Course_System=linkedin.com
+Course_Title=Integrate LinkedIn Sales Navigator with Your CRM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about how to harness the power of LinkedIn Sales Navigator and the LinkedIn network directly from Salesforce or Microsoft Dynamics to more easily locate and connect to potential buyers, save time prospecting and qualifying leads, and ultimately find the right companies and people for your products and services. Instructor Gini von Courter demonstrates how LinkedIn Sales Navigator is connected with Salesforce and Microsoft Dynamics 365, and then shows how to use the integration from both the CRM and inside Sales Navigator. Discover how to sync content, email, notes, and leads across both the CRM and Sales Navigator.

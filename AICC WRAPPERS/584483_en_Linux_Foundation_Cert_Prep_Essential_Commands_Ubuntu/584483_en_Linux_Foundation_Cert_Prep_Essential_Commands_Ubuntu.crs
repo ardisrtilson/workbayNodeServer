@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=584483
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Essential Commands (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the essential commands involved in Linux administration, using Ubuntu. This course starts by exploring common filesystems and installing Linux. Next, working with the files in the terminal is covered. Then, important security steps are demonstrated. After covering these basics, you'll be ready to take on the Essential Commands section of the LFCS exam.

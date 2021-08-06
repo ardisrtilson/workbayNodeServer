@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Liberty
+Course_ID=734639
+Course_System=linkedin.com
+Course_Title=Developing with Visual Studio Code
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio Code is rapidly becoming one of the most popular programming editors around. Knowing how to use it well, right away, can save you a great deal of time and effort during development. This course is a comprehensive introduction to Visual Studio Code, including the basics you need to know to write, run, and debug code in a variety of languages. Learn how to use the features and menus, find errors in your code, make selections, use snippets, set user preferences and keybindings, and use the built-in support for version control. Instructor Jesse Liberty helps you get the most out of the editor, so you can get your next project up and running fast.

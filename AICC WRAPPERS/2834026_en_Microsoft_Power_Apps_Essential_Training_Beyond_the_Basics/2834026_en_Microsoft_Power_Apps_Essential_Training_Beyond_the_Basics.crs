@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=2834026
+Course_System=linkedin.com
+Course_Title=Microsoft Power Apps Essential Training: Beyond the Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Power Apps makes it possible for anyone to build robust, no-code mobile business apps using data from a variety of sources, including OneDrive, Excel, and SharePoint. The apps you create are easy to distribute throughout your organization, leading to increased productivity with minimal investment. In this course, Bill Kulterman explores how to quickly create and share business apps using Power Apps, leveraging advanced features such as templates and themes. Learn how to collect data through a Power App, access data in SharePoint lists and Excel spreadsheets, add and remove fields, incorporate additional data connections, add screens, create buttons and actions, and more. Bill helps you build surveys, budget trackers, and reporting apps, but with these lessons, the only limit in Power Apps is your own imagination.

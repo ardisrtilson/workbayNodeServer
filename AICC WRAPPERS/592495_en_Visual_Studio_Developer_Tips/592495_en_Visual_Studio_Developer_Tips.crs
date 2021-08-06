@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=592495
+Course_System=linkedin.com
+Course_Title=Visual Studio Developer Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover tips and techniques that can make working in Microsoft Visual Studio simpler, faster, and more interesting. In this series, Walt Ritscher shines a spotlight on helpful shortcuts for Visual Studio. He dives into a variety of topics, including code programming tips, keyboard secrets, application development suggestions, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Chadwick
+Course_ID=512728
+Course_System=linkedin.com
+Course_Title=Learning ASP.NET Core MVC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ASP.NET Core, the Microsoft web development framework, includes an optimized developer experience, better performing runtime, and cross-platform support for Windows, Mac, and Linux. In this course, Jess Chadwick introduces the basics to get you up and running with ASP.NET Core, and creating your own professional quality applications. He explores setup and installation, working with the ASP.NET Core framework, and the techniques you need to manage data, reuse code, construct web APIs, and secure your new applications. All of this is included along with industry-standard best practices such as dependency injection and the model-view-controller pattern for more modular code.

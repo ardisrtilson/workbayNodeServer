@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=487943
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 10 Protecting Your Code Base with Source Control Providers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A programmer's most valuable asset is his or her codebase. What are you doing to protect the integrity of your code? The source control options offered in Visual Studio, including Team Foundation, Team Services, GitHub, and Bitbucket, can help you work with team members more effectively, prevent accidental overwrites, enable rollbacks, and resolve bugs. In Visual Studio Essentials 10, Walt Ritscher shows how to connect Visual Studio to any online repository, create projects, add team members, and work with versions. He shows how to check code in and out, use CodeLens to examine changes in the Visual Studio editor, and use the History and Diff features to see who opened and updated projects.

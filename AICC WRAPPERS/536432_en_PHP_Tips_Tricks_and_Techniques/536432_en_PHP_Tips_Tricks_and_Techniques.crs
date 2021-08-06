@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=536432
+Course_System=linkedin.com
+Course_Title=PHP Tips, Tricks, and Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become a better PHP programmer, one tutorial at a time. The series brings you tips, tricks, and techniques to build your PHP skills. David Powers offers a new course to broaden your understanding of what PHP can do and to help you become a more productive developer. To follow along, you should have a thorough understanding of PHP basics, but if you're still a beginner, you can watch this series for a dose of inspiration, until you're ready to implement the techniques in your own projects. Note: The exercise files are free to all members. The code is commented to enhance your learning, but you will need database connectivity for some files to run as intended.

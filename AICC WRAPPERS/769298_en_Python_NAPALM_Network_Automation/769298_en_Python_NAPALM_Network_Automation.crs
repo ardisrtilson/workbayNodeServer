@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=769298
+Course_System=linkedin.com
+Course_Title=Python NAPALM Network Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network Automation and Programmability Abstraction Layer with Multivendor support (NAPALM) is a Python library that you can use to automate and interact with network devices and OSs using a unified API. As this library provides an abstraction layer, it makes it easier to configure multiple vendor devices. In this course, learn how to automate the configuration of network devices using NAPALM. Instructor David Bombal provides an overview of NAPALM, explaining how to use it for switch and BGP automation, as well as how to perform a device configuration audit.

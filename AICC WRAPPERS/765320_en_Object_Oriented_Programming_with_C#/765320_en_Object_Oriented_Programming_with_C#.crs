@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anton Delsink
+Course_ID=765320
+Course_System=linkedin.com
+Course_Title=Object Oriented Programming with C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use object-oriented programming (OOP) principles in C# to help simplify some of your more complex work. In this course, Anton Delsink explores the many features of C# that support object-oriented programming, including abstract classes, interfaces, and generic types. To help lend a real-world context to these concepts, Anton demonstrates how to use these features by example as he examines existing code and writes some new code. Throughout the course, he covers a wide range of scenarios—including examples from .NET, Windows UI, the web, and even board games—and discusses whether or not he adhered to OOP principles in different instances.

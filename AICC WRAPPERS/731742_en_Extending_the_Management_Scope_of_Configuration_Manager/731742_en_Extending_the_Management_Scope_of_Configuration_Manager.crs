@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=731742
+Course_System=linkedin.com
+Course_Title=Extending the Management Scope of Configuration Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft System Center Configuration Manager (SCCM) provides tools that can help system admins efficiently manage and deploy PCs, devices, and applications throughout an organization. In this course, Robert McMillen explains how to get more out of this powerful management application by setting up and extending its capabilities. Learn how SCCM can work with the cloud-based Microsoft Azure, as well as how to link the two by uploading management certificates and configuring cloud distribution points. Learn how to implement public key infrastructure (PKI) for site systems and clients, prepare for cloud integration, link to Microsoft Exchange Server, implement on-premises mobile device management, and more.

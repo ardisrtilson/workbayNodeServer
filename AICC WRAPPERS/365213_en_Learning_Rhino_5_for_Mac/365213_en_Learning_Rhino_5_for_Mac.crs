@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Reilly
+Course_ID=365213
+Course_System=linkedin.com
+Course_Title=Learning Rhino 5 for Mac
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino for Mac is here. While it doesn't have the exact same features as its Windows counterpart, Rhino for Mac offers a compelling 3D modeling experience for designers who prefer to work in the Mac environment. This short course covers the key differences between the Mac and Windows versions, basic interface navigation, 3D modeling, lighting, and rendering. Author Chris Reilly builds from viewing models to creating complex geometry from simple points and curves to extruding solid objects for 3D printing. No prior experience with Rhino is required! Simply start watching to get up and running with this powerful 3D modeling software.

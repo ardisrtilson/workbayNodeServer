@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=786408
+Course_System=linkedin.com
+Course_Title=Azure Media Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Build more complex and demanding media-driven applications using the power of Microsoft Azure and Azure Media Services. This course explains what Azure Media Services has to offer developers of media-rich websites and apps. Instructor Sahil Malik reviews the encoding and streaming solutions, as well as Azure Media Analytics, which offers video indexing, thumbnail generation, face detection, and other AI-based capabilities for generating deep insights into your media and your data.

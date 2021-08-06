@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jean Gorospe
+Course_ID=432035
+Course_System=linkedin.com
+Course_Title=Rhino: T-Splines
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Meet T-Splines, the Rhino plugin for flexible surface modeling. Designed by Autodesk, built for designers like you, T-Splines allows you to model very complex organic shapes much more quickly than what's possible with Rhino alone. In this introductory course, Jean Gorospe provides a comprehensive overview of how T-Splines works. Jean covers the essential tools for working with meshes, creating and editing a model from scratching, converting models to NURBS, and refining your work in Rhino. Chapter 4 focuses on a sample project featuring a model airplane, but you can easily follow along with your own assets.

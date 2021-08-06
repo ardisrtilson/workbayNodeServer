@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Benkovich
+Course_ID=2279219
+Course_System=linkedin.com
+Course_Title=Azure DevOps: Continuous Delivery with YAML Pipelines
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure pipelines can now be defined in YAML files, which can be managed and evolved to meet modern continuous delivery requirements. YAML pipelines are versioned with your code, allowing you to easily identify issues and roll back changes. A key skill for DevOps engineers, YAML pipelines are also a key topic on the Microsoft Azure DevOps Solutions (AZ-400) certification exam. In this course, Mike Benkovich covers the YAML pipeline development workflow in Azure, including creating and editing pipelines; adding jobs, tasks, and steps; customizing workflows with triggers and variables; and deploying jobs and stages. Plus, learn how to leverage templates, variable libraries, PowerShell and Bash scripts, and containers in your Azure pipelines for maximum efficiency and functionality.

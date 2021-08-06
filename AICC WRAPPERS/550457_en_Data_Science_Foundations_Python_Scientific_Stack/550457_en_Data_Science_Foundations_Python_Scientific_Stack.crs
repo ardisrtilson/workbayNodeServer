@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=550457
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Python Scientific Stack
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data science provides organizations with striking—and highly valuable—insights into human behavior. While data mining can seem a bit daunting, you don't need to be a highly-skilled programmer to process your own data. In this hands-on course, learn how to use the Python scientific stack to complete common data science tasks. Miki Tebeka covers the tools and concepts you need to effectively process data with the Python scientific stack, including Pandas for data crunching, matplotlib for data visualization, NumPy for numeric computation, and more.

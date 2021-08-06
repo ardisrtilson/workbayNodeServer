@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Michael Galarnyk
+Course_ID=2861087
+Course_System=linkedin.com
+Course_Title=Machine Learning with Scikit-Learn
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to apply machine learning algorithms is an important part of a data scientist’s skill set. scikit-learn is a popular open-source Python library that offers user-friendly and efficient versions of common machine learning algorithms. In this course, data scientist Michael Galarnyk explains how to use scikit-learn for supervised and unsupervised machine learning. Michael reviews the benefits of this easy-to-use API and then quickly segues to practical techniques, starting with linear and logistic regression, decision trees, and random forest models. In chapter three, he covers unsupervised learning techniques such as K-means clustering and principal component analysis (PCA). Plus, learn how to create scikit-learn pipelines to make your code cleaner and more resilient to bugs. By the end of the course, you'll be able to understand the strengths and weaknesses of each scikit-learn algorithm and build better, more efficient machine learning models. This course was created by Madecraft. We are pleased to host this content in our library.

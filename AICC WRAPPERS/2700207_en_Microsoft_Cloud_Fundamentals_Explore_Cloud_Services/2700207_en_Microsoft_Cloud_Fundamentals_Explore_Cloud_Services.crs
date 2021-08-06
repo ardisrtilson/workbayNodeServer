@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=2700207
+Course_System=linkedin.com
+Course_Title=Microsoft Cloud Fundamentals: Explore Cloud Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gain a new or enhanced understanding of cloud principles, service offerings, delivery mechanisms, and security requirements in the context of Microsoft cloud services. This course focuses on fundamental cloud concepts, as well as how to enable, configure, and manage Microsoft cloud services. Instructor Andrew Bettany covers selecting a cloud service plan; signing up for and configuring cloud services; leveraging Microsoft Intune for cloud-based device management; and more. The concepts covered in this course can serve as an introduction to Microsoft 365 and Azure fundamentals and can help IT professionals responsible for administering their company's cloud services approach their work with greater confidence.

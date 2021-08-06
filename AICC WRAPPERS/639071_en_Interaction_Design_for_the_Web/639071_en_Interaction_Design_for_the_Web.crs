@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=639071
+Course_System=linkedin.com
+Course_Title=Interaction Design for the Web
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While user behavior may often seem random, there are psychological reasons behind the choices individuals make as they navigate a user interface. In this course, learn about the psychological reasons why good UI design works, so that you can build websites and apps that work the way your users think. Instructor Chris Nodder helps you get started by discussing how brains work, and how to design around the limitations of the human brain. He also explains how to use perception principles to enhance the flow of your UI; leverage physical concepts to create a more intuitive UI; and smooth out your workflow. To wrap up the course, he explains how to fix small annoyances and make your interface pleasant to use.

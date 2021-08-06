@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5019841
+Course_System=linkedin.com
+Course_Title=Java EE: Packaging and Deploying an App
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Choosing a deployment option for your Java application can be hard. Learn how to pick the right strategy and get introduced to some of the most popular solutions, like Amazon Web Services (AWS) and Microsoft Azure, in this course with Emmanuel Henri. Emmanuel explains how to package your application correctly and reviews three different options: deployment to a local environment with glassfish, deploying to the cloud with Azure and AWS, and deploying to Docker containers. Learn about the typical uses and benefits of each option, so you can pick the best strategy for your workflow and your end user.

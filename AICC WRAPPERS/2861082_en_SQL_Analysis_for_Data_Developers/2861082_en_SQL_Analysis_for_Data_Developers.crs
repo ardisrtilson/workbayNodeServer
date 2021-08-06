@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nikiya Simpson
+Course_ID=2861082
+Course_System=linkedin.com
+Course_Title=SQL Analysis for Data Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re looking to get Structured Query Language into your application development, but your story is more prequel than SQL, you need to build a solid foundational knowledge of SQL analysis. In this course, instructor Nikiya Simpson starts with a quick review of SQL basics, then focuses on fundamental SQL queries used in beginning data analysis. Nikiya explains the importance of asking the right questions of your data, as well as how those questions translate into SQL. She also shows how these concepts can be used to derive quick insights from your data to help drive effective decision-making. Nikiya finishes the course by demonstrating how to incorporate queries into tools like Microsoft Power BI to help bring you data to life.

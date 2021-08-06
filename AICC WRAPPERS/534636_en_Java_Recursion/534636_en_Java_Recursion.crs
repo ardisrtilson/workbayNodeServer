@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=534636
+Course_System=linkedin.com
+Course_Title=Java: Recursion
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Recursion is used in programming when a solution requires performing an identical operation on a nested structure. For example, file directories often contain directories that contain directories. Navigating to the file at the innermost directory requires a recursive operation of opening a folder, then opening a folder, then opening a folder. Programmers involved in mathematical computations, such as mathematical induction, are probably the biggest users of recursion. You probably know some of the most common recursive problems; finding the factorial of a number and the Fibonacci series are both examples of recursive processes. In this course, staff instructor and Java expert Peggy Fisher explores programming solutions involving both of these problems. She reviews the concept of recursion, discusses approaches to solving problems using recursion, and examines some recursive examples.

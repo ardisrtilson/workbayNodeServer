@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jomarc Baquiran
+Course_ID=740362
+Course_System=linkedin.com
+Course_Title=Fusion 360: Animating Assemblies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By animating an assembly, you can clearly communicate instructions and details that might be missed in a 2D drawing. In this course, learn how to animate assemblies in Fusion 360. To begin, instructor Jomarc Baquiran goes over assembling components and applying the joints that connect them. Once your assembly is ready, you can start setting up your animation. Jomarc helps you learn your way around the animation workspace, and then shows how to create an animated exploded assembly. After that, discover how to export your animation to video and create a turntable and motion study animation.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=385697
+Course_System=linkedin.com
+Course_Title=MTA Database Fundamentals (98-364) Cert Prep: 2 Creating and Manipulating Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Brand new to database administration? Take it one step at a time with Database Fundamentals, a series designed to support a new career or lifelong journey in IT. This installment is devoted to data: getting it into and out of tables and databases. Adam Wilbert shows how to get the most out of each data type, including numbers, characters, and specialized types like spatial data. Next are queries. Learn how to write commands and invoke functions in the SQL Editor to select just the records you want. Finally, get comfortable inserting, updating, and deleting data with the SQL Server Management Studio (SSMS), a suite of graphical tools and rich editors that make working with databases much more intuitive. Do you want to test your knowledge? Watch the challenge videos to practice what you've learned along the way. Note: This course will also prepare certification candidates for the Microsoft Technology Associate Exam 98-364, Database Administration Fundamentals.

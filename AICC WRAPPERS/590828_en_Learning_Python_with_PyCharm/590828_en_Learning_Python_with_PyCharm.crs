@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bruce Van Horn
+Course_ID=590828
+Course_System=linkedin.com
+Course_Title=Learning Python with PyCharm
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn Python programming with PyCharm, the cross-platform IDE that takes care of the routine. Get your development environment set up correctly with instructor Bruce Van Horn's step-by-step guidance, and explore PyCharm's first-rate text editing tools. Learn how to improve your code quality with Lens Mode and Intentions, refactor and debug code, and perform unit testing with the PyCharm test runner. Then dive into working with SQL databases. Lastly, learn how to integrate Python with web projects that include HTML and JavaScript, and create a project with the Flask microframework.

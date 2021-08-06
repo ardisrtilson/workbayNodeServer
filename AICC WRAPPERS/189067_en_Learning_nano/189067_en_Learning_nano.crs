@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=189067
+Course_System=linkedin.com
+Course_Title=Learning nano
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Friendlier than vi, better for plain-text files than Word, nano is a lean text editor for command-line editing. Every system administrator should know how to use it. This quick course covers the basics to get up and running. Author Scott Simpson shows how to get the latest version of nano installed on Linux, Windows, and Mac, and create and edit basic text files. He also introduces a few helpful features that allow you to switch back and forth from the command line and customize nano to your liking.

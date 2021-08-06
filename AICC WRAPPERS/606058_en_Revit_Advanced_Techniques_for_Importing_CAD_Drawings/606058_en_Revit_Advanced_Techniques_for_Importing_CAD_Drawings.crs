@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=606058
+Course_System=linkedin.com
+Course_Title=Revit: Advanced Techniques for Importing CAD Drawings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Revit Architecture is an industry-leading software for 3D architectural conceptual modeling and BIM drafting and scheduling. In this course, Shaun Bryant takes you through how to work with AutoCAD drawings that are imported or linked into Revit Architecture, using the standards and settings that come through from AutoCAD into Revit. To help you grasp the advanced techniques covered in this course, Shaun starts with a blank Revit project, and demonstrates how to import and link a CAD drawing, and use the CAD data to begin developing your Revit model. Throughout the course, he shares tips and tricks for working with the dialog boxes that you use to link your CAD drawings.

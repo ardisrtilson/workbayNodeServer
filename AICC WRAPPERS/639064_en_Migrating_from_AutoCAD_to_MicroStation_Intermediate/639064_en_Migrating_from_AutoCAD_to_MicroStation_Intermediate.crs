@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeanne Aarhus
+Course_ID=639064
+Course_System=linkedin.com
+Course_Title=Migrating from AutoCAD to MicroStation Intermediate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While MicroStation and AutoCAD share some similar elements, there are enough differences to make transitioning from one CAD application to the other somewhat challenging. If you're planning on making the switch from AutoCAD to MicroStation, this course can help by illustrating how to leverage your existing AutoCAD knowledge to get up to speed with MicroStation. Jeanne Aarhus builds on the concepts covered in Migrating from AutoCAD to MicroStation, and provides a comparison between corresponding intermediate features in MicroStation V8i-SS4 and AutoCAD 2018. Jeanne covers additional draw commands, shares techniques for working with text and dimensions, explains how to use measure commands, and more.

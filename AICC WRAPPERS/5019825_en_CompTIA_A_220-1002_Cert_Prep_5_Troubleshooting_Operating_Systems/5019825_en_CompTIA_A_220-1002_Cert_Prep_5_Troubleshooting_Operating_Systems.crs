@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Meyers
+Course_ID=5019825
+Course_System=linkedin.com
+Course_Title=CompTIA A+ (220-1002): Cert Prep 5 Troubleshooting Operating Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Studying for the CompTIA A+ Core 2 (220-1002)? The eight-part CompTIA A+ (220-1002): Cert Prep series was designed to help you tackle this exam with confidence. In this installment, CompTIA expert Mike Meyers reviews how to diagnose and repair a variety of issues in operating systems, from boot problems to kernel panics. Mike goes over the Windows Recovery Environment (WinRE), a powerful toolset for the repair and recovery of Windows systems. He also reviews advanced startup options, steps through how to effectively troubleshoot at the GUI, and shares tips for resolving issues with applications. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

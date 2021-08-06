@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Wheeler
+Course_ID=737778
+Course_System=linkedin.com
+Course_Title=Salesforce Administrator Cert Prep: 3 Sales, Marketing and Service Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Salesforce Certified Administrator credential can help Salesforce developers, administrators, architects, and sales professionals jump-start their careers and deepen their understanding of the platform. To help you prepare for the exam, instructor Mike Wheeler has designed the Salesforce Administrator Cert Prep series, which covers its core objectives in detail. In this course—the third installment in the series—Mike shows how to administer and customize the sales, marketing, and service applications in the Salesforce ecosystem. Learn how to customize the sales process, enable the Lightning Experience path, add products to price books, configure rules and field mapping for lead management automation, and create and manage campaigns. Plus, learn how to use the Service Console to manage and administer cases and set up suggested solutions and Salesforce communities.

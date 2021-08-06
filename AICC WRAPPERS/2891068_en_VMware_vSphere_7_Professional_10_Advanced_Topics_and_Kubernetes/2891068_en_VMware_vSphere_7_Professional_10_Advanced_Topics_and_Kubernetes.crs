@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2891068
+Course_System=linkedin.com
+Course_Title=VMware vSphere 7 Professional: 10 Advanced Topics and Kubernetes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. To stay relevant, you must understand vSphere. Perhaps you’re also preparing to take the VMware Certified Professional Datacenter Virtualization (VCP-DCV) exam. In this series of courses, Rick Crisci, a VMware Certified Instructor, walks you through over 50 real life demos in a vSphere 7 environment using the HTML5 vSphere Client. This course focuses specifically on ten advanced topics, plus Kubernetes. Rick shows you how to take your VMware skills to the next level with multihoming, server profiles, dynamic DNS, cluster quickstart, and more. Then he goes into Kubernetes and microservice integration, including how to combine vSphere and Kubernetes in your deployment. Note: This course was created by Rick Crisci. We are pleased to host this training in our library.

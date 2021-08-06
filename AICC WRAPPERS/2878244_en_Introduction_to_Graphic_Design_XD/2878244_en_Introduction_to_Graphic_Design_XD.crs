@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Harmer
+Course_ID=2878244
+Course_System=linkedin.com
+Course_Title=Introduction to Graphic Design: XD
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Graphic designers must master many different skills and tools. In this installment of the Introduction to Graphic Design series, instructor Tony Harmer covers the essential Adobe XD skills you need to become a graphic designer. To help you grasp how to apply this powerful UI/UX design tool in real-world situations, he demonstrates each concept in the context of a sample project. Tony begins by explaining how to set up your project, including how to choose colors and fonts and test colors for accessibility. He then shows how to build your design in Adobe XD, including how to create a launch page and login screen, add UI components, and use Repeat Grid to create arrays with consistent spacing—both horizontally and vertically. To wrap up, he goes over how to write and test a prototype in Adobe XD to simulate interactions and experiences in an app.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=614306
+Course_System=linkedin.com
+Course_Title=Meta-analysis for Data Science and Business Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In a world where nearly everyone uses data to inform their business methodologies, an emerging consensus is that more emphasis needs to be placed on validating data; verifying that data-driven conclusions are accurate; and minimizing the risk that your conclusions are incorrect. Although most researchers know what meta-analysis is, few understand how to calculate an effect size from popular metrics such as risk ratios, or how the distinction between fixed and random effects can lead the meta-analyst astray. This advanced-level course for data science and statistics practitioners and researchers covers raw mean differences—specifically for experimental and comparison groups—and how to convert useful outcome measures such as relative risk and odds ratios to commensurate measures of effect size. Plus, learn about how confidence intervals are created for binary outcome measures.

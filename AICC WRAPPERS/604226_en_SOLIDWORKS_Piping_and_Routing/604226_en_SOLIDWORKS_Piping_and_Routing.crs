@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Erin Rochelle Winick
+Course_ID=604226
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Piping and Routing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The SOLIDWORKS Premium package contains more complex piping and routing features, which enable designers to integrate piping and tubing early on, ensuring operability and serviceability and avoiding extra costs. This course teaches how to use the SOLIDWORKS Premium routing tools for piping and tubing applications. Start by learning exactly what routing is and how it is used. Instructor Erin Winick then explores making routes, sketching pipes, auto-routing, and editing piping. She adds coverings and features such as weld gaps and valves, and creates pipe drawings. She also covers designing with flexible tubing, which is measured, assembled, and routed differently than pipes. After completion of this course, users should understand all basic functionality of piping and routing in SOLIDWORKS, including the related parts libraries.

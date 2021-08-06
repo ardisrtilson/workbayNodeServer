@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=450908
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Configure and Manage Active Directory
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Active Directory is the heart of Windows Server user management and permissions. It's a key skill for any IT administrator. This course covers how to configure and manage Active Directory in Windows Server 2012 R2, and walks through topics in the Active Directory domain of the MCSA exam Administering Windows Server 2012 (70-411). Ed Liberman shows how to configure service authentication, domain controllers, and account policies, and maintain Active Directory so that it remains stable and secure. He'll cover virtualizing domain controllers, Active Directory backup and recovery, password policy management, and Kerberos policies and delegation.

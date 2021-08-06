@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Simon Manning
+Course_ID=704132
+Course_System=linkedin.com
+Course_Title=Revit to Unreal for Architecture, Visualization, and VR
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Revit, 3ds Max, and Unreal are major players in the architecture, visualization, and virtual reality worlds. These technologies allow you to immerse yourself in designs—before you ever build them. Find out how to make these tools play well together to bring your own models to life. Instructor Simon Manning shows how to prepare your Revit projects for export, import them in Unreal, and use the Datasmith Product Viewer template to leverage prebuilt interactive elements such as furniture and lights. Then find out how to create and apply custom materials and adjust the lighting of your model. Simon also shows how to add interactions with Blueprint scripting and package your visualizations for display on VR headsets or mobile devices. Using these tutorials, you can polish your Revit models into interactive presentations that you can't wait to share with clients.

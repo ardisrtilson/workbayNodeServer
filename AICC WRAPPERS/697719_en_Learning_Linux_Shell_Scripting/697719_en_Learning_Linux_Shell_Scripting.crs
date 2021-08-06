@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Troy Miles
+Course_ID=697719
+Course_System=linkedin.com
+Course_Title=Learning Linux Shell Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux shell scripting is a useful tool for eliminating repetitive, boring tasks. Scripts make many jobs—from programming to system administration—easier, more predictable, and more fun. By the end of this course, even new users will be able to read and create scripts to automate many kinds of tasks in Linux. Instructor Troy Miles first covers the basics of scripting, such as printing to the console and defining variables. Then he shows how to write scripts that accept parameters, read and write files, and monitor other system processes. Plus, find out how to create interactive scripts and handle bad input data.

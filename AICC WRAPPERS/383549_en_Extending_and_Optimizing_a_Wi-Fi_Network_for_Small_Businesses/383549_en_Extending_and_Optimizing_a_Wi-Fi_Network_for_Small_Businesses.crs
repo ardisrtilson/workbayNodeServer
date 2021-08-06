@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brad Wheeler
+Course_ID=383549
+Course_System=linkedin.com
+Course_Title=Extending and Optimizing a Wi-Fi Network for Small Businesses
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make your Wi-Fi network better: faster, more secure, and more reliable. Brad Wheeler shows how to test your connection quality, throughput, and interference with site surveys, and use the results to diagnose common wireless problems. He'll also show viewers how to change both basic and hidden settings, upgrade existing firmware, and even download third-party firmware that can unlock hidden functionality. Plus, learn about hardware options such as extenders and access point types to optimize the range of your Wi-Fi network. Need a more substantial solution? Check out the last chapter on hardware and special security measures for enterprise networks.

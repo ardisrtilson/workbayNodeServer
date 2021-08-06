@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Julio Appling
+Course_ID=191089
+Course_System=linkedin.com
+Course_Title=Learning Wireless Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the right equipment, a wireless network is easy to set up. But how do you get maximum speed and reliability? In this course, Julio Appling shows how to set up reliable access to Wi-Fi in any home or office. He explores the different 802.11 wireless standards —and demonstrates how to position, test, and configure a router for best performance. Plus, get tips to extend the range and speed of an existing network.

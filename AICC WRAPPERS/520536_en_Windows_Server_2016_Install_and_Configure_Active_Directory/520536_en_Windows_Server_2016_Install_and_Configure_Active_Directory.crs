@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=520536
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Install and Configure Active Directory
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Active Directory is the foundation for user and group management, group policy, and security in a Windows Server 2016 environment. This course shows how to install and configure Active Directory Domain Services (AD DS) in Windows Server 2016. Learn how to deploy AD DS, install additional controllers, configure permissions, and manage AD DS objects, including user and computer accounts, groups, and organization units.

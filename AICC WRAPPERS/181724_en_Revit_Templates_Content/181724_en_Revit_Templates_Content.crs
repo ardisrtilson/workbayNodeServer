@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=181724
+Course_System=linkedin.com
+Course_Title=Revit Templates: Content
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating a robust collection of content is critical to any architectural design firm. This course considers the issue of content as it pertains to your project templates. Should content be preloaded in the templates, or should it be provided externally and loaded when needed? What goes into detail sheets? Which families should you include? How should line weights and object styles be set up? And what happens to your finalized template when you upgrade Revit? Author Paul F. Aubin explores these issues and many others in this course, where he discusses the role that a good content strategy plays in building your office's standard Revit project template file. Find more courses in the Creating Revit Templates series here.

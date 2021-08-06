@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2864003
+Course_System=linkedin.com
+Course_Title=Apache Kafka Essential Training: Building Scalable Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Scalable and distributed message queuing plays an important role in building real time big data pipelines. Asynchronous publisher/subscriber models are required to handle unpredictable loads in these pipelines. Apache Kafka is the leading technology today that provides these capabilities and is an essential skill for a big data professional. In this course, Kumaran Ponnambalam provides insights into the scalability and manageability aspects of Kafka and demonstrates how to build asynchronous applications with Kafka and Java. Kumaran starts by demonstrating how to set up a Kafka cluster and explores the basics of Java programming in Kafka. He then takes a deep dive into the various messaging and schema options available. Kumaran also goes over some best practices for designing Kafka applications before finishing with a use case project that applies the lessons covered in the course.

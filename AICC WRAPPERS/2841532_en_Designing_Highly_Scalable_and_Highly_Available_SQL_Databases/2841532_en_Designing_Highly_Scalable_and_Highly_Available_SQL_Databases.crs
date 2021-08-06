@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=2841532
+Course_System=linkedin.com
+Course_Title=Designing Highly Scalable and Highly Available SQL Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Online activities, mobile devices, and Internet of Things (IoT) sensors are generating immense volumes of data. Much of that data requires relational database capabilities, such as consistent reads/writes and complex transaction processing. In this course, get a holistic overview of the essential elements of designing and implementing highly scalable and available relational databases. Instructor Dan Sullivan helps developers and data modelers grasp essential architecture concepts and design patterns to ensure their databases can scale to the needs of their business. Dan goes over key requirements related to both specific functions and nonfunctional requirements, such as availability. He shows how to use your requirements to create data architectures and data models. Plus, he examines the problems of data ingestion at scale, describes design patterns to support a variety of ingestion patterns, discusses how to design for scalable querying, and more.

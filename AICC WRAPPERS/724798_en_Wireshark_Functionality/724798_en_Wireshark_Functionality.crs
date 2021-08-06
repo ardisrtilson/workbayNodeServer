@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=724798
+Course_System=linkedin.com
+Course_Title=Wireshark: Functionality
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Speed up your workflow and enhance your analysis by becoming better acquainted with the Wireshark interface and its core features. In this course, join Lisa Bock as she helps to familiarize you with this powerful protocol analysis tool. Lisa reviews the menu choices, explains each of the toolbars available, and shares tips for modifying the Wireshark interface to suit your needs. Discover capture options and understand the difference between capture and display filters. Learn how to efficiently find and mark packets, and fine-tune columns, fonts, and colors. Create configuration protocols and easily add comments to a single packet or to the entire capture, all with the goal of helping you navigate easier in Wireshark.

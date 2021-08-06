@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=622796
+Course_System=linkedin.com
+Course_Title=Unity: 3D Level Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity—the powerful interactive development tool for mobile and desktop games—boasts tools and features that allow you to build striking virtual worlds. In this course, Alan Thorn helps you enhance your Unity skill set by covering topics that can help you get up to speed with level design. Alan walks through the process of assembling a 3D environment with modular asset pieces, and explains how to create a Unity project and import and configure assets. He also discusses how to complete environment lighting, import Unity scripts, create timed behaviors, build an intelligent enemy character, and more. The concepts covered in this course can help to prepare you for the Unity Certified Developer exam.

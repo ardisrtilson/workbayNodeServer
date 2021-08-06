@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=2366898
+Course_System=linkedin.com
+Course_Title=CCSK Cert Prep: 1 Cloud Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many types of resources, including virtual machines, databases, and storage, can be deployed in a cloud computing environment. This course teaches you the skills necessary to design and deploy cloud solutions that meet business needs, through cloud-related concepts discussions and hands-on cloud service deployments. This course maps to the first domain in the CSA Certificate of Cloud Security Knowledge (CCSK) exam: Cloud Computing Concepts and Architecture. First, instructor Daniel Lachance defines cloud computing as IT services running on a provider equipment over a network. He clarifies several terms and concepts used in cloud computing. Next, Daniel examines the characteristics of cloud computing, including several NIST cloud computing characteristics. He explores a variety of cloud types that can be used for cloud computing delivery, depending on organizational requirements. In conclusion, Daniel makes sure you know how to define and deploy several cloud computing service models.

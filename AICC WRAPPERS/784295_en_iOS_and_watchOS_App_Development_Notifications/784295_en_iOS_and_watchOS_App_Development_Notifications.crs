@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=784295
+Course_System=linkedin.com
+Course_Title=iOS and watchOS App Development: Notifications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to add notifications to iOS and watchOS apps. Notifications can increase engagement and improve user experience, providing a simple and fast way to interact with your app. This course explains how to use features of the UserNotifications framework to send local notifications as well as push notifications from a remote server. iOS developer and LinkedIn Learning instructor Steve Lipton explains how to create static and dynamic content; manage pending and delivered notifications; and add interactive actions to your notifications. Plus, learn how to integrate images, audio, and video into notifications, and build notifications specifically for watchOS.

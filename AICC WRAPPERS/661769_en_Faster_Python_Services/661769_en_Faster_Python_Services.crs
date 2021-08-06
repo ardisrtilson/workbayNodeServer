@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=661769
+Course_System=linkedin.com
+Course_Title=Faster Python Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sometimes, the difference between a good Python application and a great one isn't found in the code; it's in the services that support your software. In this course, instructor Miki Tebeka introduces Python optimization tips and techniques to develop and run more efficient sites and applications. Learn how to find bottlenecks, stress test your code, use caching algorithms, cheat effectively, distribute work on one or more machines, and pick the right transport and encoding methods. He also introduces load balancers and powerful server frameworks for HTTP and TCP, and shows how to serve static content. Plus, learn how to monitor performance of your projects and set up alerts, so you'll know when a system or service fails.

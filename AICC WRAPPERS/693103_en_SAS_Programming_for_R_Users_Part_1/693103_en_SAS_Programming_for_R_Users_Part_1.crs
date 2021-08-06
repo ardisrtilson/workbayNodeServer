@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jordan Bakerman
+Course_ID=693103
+Course_System=linkedin.com
+Course_Title=SAS Programming for R Users, Part 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAS is a hugely popular data analytics platform with millions of users. R is the language of big data. In this course, enhance your programming skillset by learning how to apply your understanding of R in the SAS environment. Instructor Jordan Bakerman kicks off the course with an introduction to SAS and SAS Studio. He covers several essential concepts, including how to write a program in SAS Studio, use tasks and snippets, and call R from SAS. He also walks through importing and reporting data, and creating new variables, functions, and data tables. Note: You can visit the SAS site to obtain a copy of the software, and use the company's online data sets to do the course exercises.

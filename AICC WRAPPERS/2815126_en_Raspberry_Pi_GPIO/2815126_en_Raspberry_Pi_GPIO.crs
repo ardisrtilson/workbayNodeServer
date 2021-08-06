@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=2815126
+Course_System=linkedin.com
+Course_Title=Raspberry Pi: GPIO
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Raspberry Pi talks to the outside world through the general-purpose input/output device, known as the GPIO. In this course, instructor Mark Niemann-Ross describes these pins and explains how to use the GPIO to control lights and motors, read data from sensors, and interact with the Internet of Things. It combines some hardware basics—such as identifying pins—with some programming in a variety of different languages, including Python, Scratch C++, Java, and Wolfram. By learning how to control input and output through GPIO pins, you'll open up a whole new world of electronics.

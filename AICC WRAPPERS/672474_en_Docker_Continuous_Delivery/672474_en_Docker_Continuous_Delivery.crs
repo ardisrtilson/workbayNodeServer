@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Arthur Ulfeldt
+Course_ID=672474
+Course_System=linkedin.com
+Course_Title=Docker: Continuous Delivery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Continuous integration and continuous deployment (CI/CD) allow developers to work more collaboratively and catch bugs earlier in the development lifecycle. Docker—a leading software container platform—can greatly simplify continuous deployment by allowing for safer, more reliable deployment and testing environments. In this course, join Arthur Ulfeldt as he explains how to use Docker to build deployment systems. Arthur steps through how to build your CI/CD toolbox, including how to build a minimal Jenkins installation and build Docker images for CI. He also covers essential continuous deployment and integration concepts; shows how to build a simple example of continuous deployment with Docker; discusses integration testing; and more.

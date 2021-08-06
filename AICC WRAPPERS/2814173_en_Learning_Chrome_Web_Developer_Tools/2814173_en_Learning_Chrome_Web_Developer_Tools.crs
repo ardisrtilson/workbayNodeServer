@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2814173
+Course_System=linkedin.com
+Course_Title=Learning Chrome Web Developer Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+All major browsers offer tools to examine the code of a webpage or app and evaluate its performance. Chrome Developer Tools (DevTools) is the industry standard. In this course, you can explore how Chrome DevTools work in actual testing and debugging scenarios and how you can add this useful collection of utilities to your development workflow. Each chapter digs into a different tool, including the Console, Elements, Network, and Application panels. Instructor Sasha Vodnik helps you test webpages and apps in different device modes and emulators, explore the DOM, inspect and modify HTML and CSS, edit source files, identify bottlenecks in page loads, access and manipulate cookies, and more. Plus, learn useful tricks and shortcuts for speeding up common debugging tasks.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Meyer
+Course_ID=560063
+Course_System=linkedin.com
+Course_Title=Photoshop for UX Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Although you have a number of design tools available to you for your numerous UX projects, oftentimes, the tool you already have and the tool you already know is the best tool for the job. This course shows how to quickly create wireframes, flowcharts, and pixel-perfect mockups in Photoshop. Learn how to use artboards, guides, Creative Cloud libraries, and more to make layouts and generate exports that convey fluid app experiences. Join Dennis Meyer as he shows you how to set up your project, create a static wireframe, export your designs, and leverage UI kits to create pixel-perfect mockups.

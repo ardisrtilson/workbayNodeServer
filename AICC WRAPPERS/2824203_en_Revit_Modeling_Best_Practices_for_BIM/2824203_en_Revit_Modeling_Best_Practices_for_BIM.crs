@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Fanny Angeles
+Course_ID=2824203
+Course_System=linkedin.com
+Course_Title=Revit: Modeling Best Practices for BIM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore ways to leverage Revit in the building information modeling (BIM) process. Discover the value of developing a BIM Execution Plan and how it affects modeling in Revit. BIM expert Fanny Angeles shares best practices for naming and code conventions and covers how they impact a BIM model. She also explains how to optimize time and concentrate efforts by defining a level of development (LOD) and creating a responsibility matrix. Plus, learn about how to choose the most effective approach and tools for a project.

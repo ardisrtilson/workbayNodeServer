@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=366835
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor Professional: Stress Analysis Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the basics of conducting stress analysis tests of parts and assemblies with Inventor, and uncover the weak points of your designs. Author Thom Tremblay shows how to access the simulation tools, assign materials, define constraints, generate a mesh, and run your analysis. He also breaks down the particulars of analyzing parts and assemblies, such as adjusting constraint types and contact options. The course will not show how and why you perform stress analysis, but will provide a fundamental grasp of Inventor's toolset.

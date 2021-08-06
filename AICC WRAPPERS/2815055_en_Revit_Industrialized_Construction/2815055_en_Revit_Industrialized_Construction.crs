@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=2815055
+Course_System=linkedin.com
+Course_Title=Revit: Industrialized Construction
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For many, Revit represents a canonical manifestation of building information modeling (BIM), an end-to-end digitized representation of places, buildings, and other edifices. An inevitable consequence of such fully digitized representations is the rise of industrialized construction, in which manufacturing practices are applied to the construction process. In this course, learn how to use Revit to design for industrialized construction. Instructor Shaun Bryant covers essential concepts, including off-site construction, prefabricated components, and the workflows that connect these to the ultimate assembly of your project. Along the way, Shaun shows how these concepts function in the real world by applying them to a small Revit project.

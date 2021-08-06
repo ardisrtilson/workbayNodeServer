@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thanassis Pozantzis
+Course_ID=360736
+Course_System=linkedin.com
+Course_Title=Learning Bodypaint in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+BodyPaint is a subset of tools and layouts inside CINEMA 4D that allow artists to paint and texture their 3D models. These tutorials aim to teach CINEMA 4D users how to use BodyPaint to enhance your 3D pipeline. Author Thanassis Pozantzis covers a wide set of techniques, from material projections and generating UV maps to UV unwrapping, both for hard surface models (such as packaging and mechanical objects) to organic models (including humans, monsters, and animals). Start here to learn how to incorporate BodyPaint into your production workflow.

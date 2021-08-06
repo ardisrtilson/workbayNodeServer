@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043093
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Deploying VMs and Hosts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gain a complete understanding of the vSphere deployment process. Instructor Rick Crisci starts the course by demonstrating a simple deployment of a virtual machine from a template. Then he covers creating content libraries, saving and leveraging VMX files, configuring advanced settings, and using the vCenter Converter. He explains how to work with host profiles and use auto-deploy features. This course covers advanced deployment concepts, topics which are part of the VMware Certified Professional exam.

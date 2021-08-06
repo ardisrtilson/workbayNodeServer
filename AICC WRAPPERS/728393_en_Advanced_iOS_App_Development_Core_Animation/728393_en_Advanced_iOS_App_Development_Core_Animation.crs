@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harrison Ferrone
+Course_ID=728393
+Course_System=linkedin.com
+Course_Title=Advanced iOS App Development: Core Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating intricate, eye-catching animations for your iOS apps is key to delighting your users and making the interactive experience something they will remember. In this course you can explore the Core Animation API, from basic layer animations to custom view controller transitions and 3D animations. Instructor Harrison Ferrone shows how to build simple layer animations, debug layer trees for cleaner Swift code, group animations, and add easing, looping, and transitions—all the features you need to create professional-looking UI animation. Plus, learn how to animate gradient color shifts, shapes, and the position of objects along a path; develop custom actions and transactions; and build 3D effects, including particle emitters. By the end of the course you'll have the foundations to create complex and beautiful iOS animations entirely through code.

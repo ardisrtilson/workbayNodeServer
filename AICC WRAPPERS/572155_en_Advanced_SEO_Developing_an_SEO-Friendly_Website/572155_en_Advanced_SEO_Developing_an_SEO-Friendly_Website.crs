@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brad Batesole
+Course_ID=572155
+Course_System=linkedin.com
+Course_Title=Advanced SEO: Developing an SEO-Friendly Website
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Advanced SEO goes beyond keyword research and tagging. It goes to the very heart of your website: its architecture, code, and data. Learn advanced SEO techniques to build an SEO-friendly website from the ground up. Marketing expert Brad Batesole explains how to optimize your architecture to improve site indexing and crawling, understand the impact of canonical URLs and smart URL management strategies, build keywords into images and alt text, and use structured data to help search engines like Google understand your pages better. He introduces tools and resources to help you audit and improve the technical aspects of your site, such as the Screaming Frog SEO Spider, PageSpeed Insights, the Ryte TF*IDF analyzer, and Chrome Developer Tools extensions like Lighthouse. Plus, discover how to optimize site speed and rendering, and explore how the future of the web—technologies like HTTP/2 and progressive web apps—will impact SEO.

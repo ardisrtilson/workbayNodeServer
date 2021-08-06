@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=609027
+Course_System=linkedin.com
+Course_Title=UX Design for Developer Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're ready to design a dev tool, but aren't sure where to start, this course gets you on your way. Join Jesse Freeman as he explains the fundamentals of UI design and how to apply UX principles when designing interfaces. By taking a look at the design of the game engine Pixel Vision 8, he breaks down the logic behind the layout of standard components. He discusses design patterns, unification, user experience challenges, and more. Additionally, he helps you get your dev tool design started by helping you pursue the creation of toolbars, the selection of color palette, the addition of action bars, and more.

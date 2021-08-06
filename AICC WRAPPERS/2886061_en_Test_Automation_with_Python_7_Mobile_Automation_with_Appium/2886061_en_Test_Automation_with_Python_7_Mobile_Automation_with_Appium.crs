@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2886061
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 7 Mobile Automation with Appium
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This installment of the Test Automation with Python series covers native mobile app automation using Appium. The course includes a test app to run on both iOS and Android simulators, and starts with a rundown of the three main types of mobile apps, since the type of app—native, mobile, or hybrid—dictates the strategy used to start an Appium session for that app. Then, the basics of configuring and launching an Appium session are detailed before moving on to the actual strategy and testing of the app, including interacting with mobile elements, executing scripts, and dealing with touch actions on the mobile devices. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

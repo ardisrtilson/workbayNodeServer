@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=689772
+Course_System=linkedin.com
+Course_Title=SharePoint Framework for Developers: 4 Managing External Libraries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance your ability to work with the SharePoint Framework (SPFx), the development methodology for Office 365 and SharePoint on premises. This course demonstrates how you can leverage external third-party libraries in your SPFx solutions. Discover how to add third-party libraries into your project, and explore the out-of-the-box behavior for React, Knockout, Angular, and jQuery web parts. Plus, review some advanced scenarios, including how to download libraries programmatically and conditionally, integrate Bootstrap in SPFx, and externalize scripts using externalize and config.json.

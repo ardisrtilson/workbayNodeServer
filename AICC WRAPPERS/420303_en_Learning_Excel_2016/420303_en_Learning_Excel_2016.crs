@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Rivers
+Course_ID=420303
+Course_System=linkedin.com
+Course_Title=Learning Excel 2016
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This beginner-level course will introduce new users to Excel 2016. Author David Rivers covers the interface, creating and opening workbooks, entering text and numbers, working with formulas, basic formatting, inserting charts and graphics, and sharing and printing workbooks so that you have a great foundation in the world's most popular spreadsheet program.

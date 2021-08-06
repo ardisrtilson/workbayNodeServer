@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rachel Wright
+Course_ID=2848255
+Course_System=linkedin.com
+Course_Title=Learning Jira (Cloud Edition)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Jira was designed to help software development teams manage projects and track issues. But increasingly, other teams—such as marketing, legal, and finance—are adopting it as well. Want to leverage Jira to track your own work? Tune into this course to learn how to get up and running with the cloud edition of this powerful software. Rachel Wright, an Atlassian Certified Jira Administrator, steps through how to use Jira to manage your own daily tasks and help your organization plan their strategic initiatives. Rachel covers how to navigate Jira, work with projects and issues, change user preferences, and create filters, dashboards, and boards. Upon wrapping up this course, you'll have the core information you need to get started with Jira right away.

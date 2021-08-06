@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Petersen
+Course_ID=439414
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Open-Source Licensing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Open-source licensing is a way to give back to developer communities and help technology grow at an exponentially faster pace. Open-source licenses allow software to be freely used, modified, or shared, while respecting the original programmer's authorship and intent. Explore the world of open source, and discover how to choose a licensing model for your app, in this Foundations of Programming course with attorney and technologist John V. Petersen. This is not a coding course. Rather, it's an exploration of the legal and business aspects of open-source software licensing—including topics such as contributor agreements and patent licenses. The major open-source licenses (GPL, MIT, and Apache) are covered in depth, and John also provides an overview of establishing a business entity for your software project: a key factor in the ongoing success of many open-source communities.

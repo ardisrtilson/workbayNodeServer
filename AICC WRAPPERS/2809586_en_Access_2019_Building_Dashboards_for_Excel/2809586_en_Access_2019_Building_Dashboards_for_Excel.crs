@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Hunt
+Course_ID=2809586
+Course_System=linkedin.com
+Course_Title=Access 2019: Building Dashboards for Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your Excel and Access skills to the next level by learning how to create interactive dashboards users will find attractive and easy to use. Instructor Robin Hunt shows you how to use these two programs in combination to create queries, macros, slicers, and more. Learn how to generate charts, graphs, and other appealing data visualizations that can update in real time as the dashboards collect and display information, giving your users an experience they’ll appreciate.

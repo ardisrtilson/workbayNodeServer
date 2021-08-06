@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=724816
+Course_System=linkedin.com
+Course_Title=Prototyping UI Animation with Adobe Animate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore new possibilities in UX prototyping. Adobe Animate offers features to create sophisticated motion, such as smooth easing, stops and starts, and complex motion paths. This course shows how to use the motion curve and easing options in Adobe Animate to prototype your own UI animation. Instructor Joseph Labrecque shows how to create a new project, dial in the document settings, and employ different methods of animation, including keyframing and tweening. He also shows how to edit and manage easing properties for animated UI elements. Plus, learn how to use the tools in the Motion Editor—ease presets, anchor points, and control points—to build even more refined animations.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=3107158
+Course_System=linkedin.com
+Course_Title=Introducing App Development for iOS 14
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Got a brilliant idea for an iOS app? This course can help you take that concept from the drawing board to the finish line in the span of an afternoon. Join instructor Todd Perkins as he covers the code, tools, and practices needed to build apps with iOS 14. Todd steps through how to install and work with Xcode—an integrated development environment (IDE) used to develop Apple applications—and use a template to create an Xcode project. He goes over the fundamentals of working with SwiftUI, a UI tool kit that allows you to build user interfaces for your mobile app. Plus, he shares how to add the finishing touches to your project, including how to create your own app icon. Whether you're new to iOS or programming in general, this course can help you bring your very first iOS app to life.

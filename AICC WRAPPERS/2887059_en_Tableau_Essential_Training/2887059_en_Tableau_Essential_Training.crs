@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2887059
+Course_System=linkedin.com
+Course_Title=Tableau Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tableau is a powerful and versatile data analytics and visualization tool that many consider indispensable for data science work. Its drag-and-drop interface makes it easy to sort, compare, and analyze data from multiple sources, including Excel, SQL Server, and cloud-based data repositories. In this course, learn how to analyze and display data using Tableau 2021—and make better, more data-driven decisions for your company. Instructor Curt Frye shows how to install Tableau, connect to data sources, and sort and filter your data. Curt uses real-world examples to demonstrate how to create and manipulate data visualizations—including highlight tables, charts, scatter plots, histograms, maps, and dashboards—and shows how to share your visualizations.

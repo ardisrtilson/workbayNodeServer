@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=2811015
+Course_System=linkedin.com
+Course_Title=Maya and After Effects: Product Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D visualization is a crucial aspect of 21st-century product design, manufacturing, and marketing. Autodesk Maya is an ideal tool for bringing product designs to the screen and print media. The deep and powerful feature set of Maya provides almost limitless potential for effective and imaginative product visualization. This course illustrates a standard workflow for product viz, from importing a CAD model to rendering photorealistic imagery. Learn how to leverage the advanced tools of Maya and the Arnold renderer to bring product designs to life in the production phases of scene layout, materials, lighting, and rendering. See how to employ Adobe After Effects to composite and adjust render passes, giving you the ability to art-direct lighting without needing to re-render in 3D.

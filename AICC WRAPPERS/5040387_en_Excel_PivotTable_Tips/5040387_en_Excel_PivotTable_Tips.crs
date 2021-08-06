@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=5040387
+Course_System=linkedin.com
+Course_Title=Excel: PivotTable Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Go from beginner to power PivotTable user. Learn how to use Excel PivotTables and PivotCharts for powerful data analysis. Chris Dutton leads this practical guide, filled with lots of hands-on exercises and real-world use cases. He shows how to structure your data; change table layouts and styles; leverage design controls; perform sorting, filtering, and grouping; and create interactive dashboards. Use the PDF cheat sheets and the Excel solution file to follow along as you learn. Note: The instructor uses Office 365 ProPlus. Some features may not be available in all versions of Excel.

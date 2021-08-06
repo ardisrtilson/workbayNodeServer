@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=2280170
+Course_System=linkedin.com
+Course_Title=Data Ethics: Making Data-Driven Decisions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most companies have complex computer algorithms deciding who gets a bank loan, job interview, or health insurance. Do you have an ethical obligation to explain the decision-making back to your customer? How do you design systems that are free of gender or racial bias? These systems will define your organization. Yet many of these decisions aren’t happening in the boardroom. Instead they’re made in much smaller meetings with people just like you—project managers, business analysts, directors, and software developers. This course gives you the skills you need to make the best decisions. Instructor Doug Rose helps you consider the duties you have to your customer, think about the consequences of your algorithms’ decisions, and acting virtuously when wrestling with key data ethics challenges. This course was created by Doug Rose. We are pleased to offer this training in our library.

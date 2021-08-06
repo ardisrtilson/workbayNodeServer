@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=April Dunnam
+Course_ID=2801185
+Course_System=linkedin.com
+Course_Title=SharePoint: Migrating from Classic to Modern Sites
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The modern SharePoint experience was designed to amplify what the platform does best, making it even easier for users to create high-quality sites that enhance team collaboration. If you're looking to make the switch to the modern SharePoint experience, then this course is for you. Join Microsoft MVP April Dunnam as she highlights key differences between the classic and modern SharePoint experiences, as well as what it takes to migrate to modern SharePoint. April explains what's changed in the modern experience—going over differences in web parts, search, and permissions—and shares how to brand modern sites, work with themes, and even migrate existing sites to modern using the Migration Tool. Additional topics include setting up hub sites and customizing list forms.

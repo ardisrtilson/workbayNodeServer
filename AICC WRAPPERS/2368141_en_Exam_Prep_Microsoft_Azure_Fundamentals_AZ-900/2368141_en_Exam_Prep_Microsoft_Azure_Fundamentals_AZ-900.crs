@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2368141
+Course_System=linkedin.com
+Course_Title=Exam Prep: Microsoft Azure Fundamentals (AZ-900)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Experience with Microsoft Azure—one of the most prominent cloud platforms—is a highly sought-after skill for aspiring cloud administrators. The Microsoft Azure Fundamentals (AZ-900) exam is an ideal way to jump into Azure training at the ground level. In this course, Sharon Bennett covers the logistics of the AZ-900 exam: who it's for, what objectives exam takers should focus on, and which resources can be used to prepare. She then covers the concepts and skills included in the exam. Strengthen your grasp of general cloud concepts, explore core Azure services, and review key options and resources to enhance your ability to effectively plan and manage Azure costs.

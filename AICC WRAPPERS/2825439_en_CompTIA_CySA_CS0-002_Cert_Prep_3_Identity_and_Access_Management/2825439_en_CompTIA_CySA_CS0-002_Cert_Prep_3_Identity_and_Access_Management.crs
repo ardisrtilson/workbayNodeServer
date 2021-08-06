@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2825439
+Course_System=linkedin.com
+Course_Title=CompTIA CySA+ (CS0-002) Cert Prep: 3 Identity and Access Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Identity and access management systems help organizations accomplish several fundamental tasks: identifying users, authenticating them, and ensuring that they can access only the resources and information that they are privy to. In this course—the third installment in the CySA+ (CS0-002) Cert Prep series—instructor Mike Chapple delves into the identity access management portion of domain two of the CompTIA Cybersecurity Analyst (CySA+) (CS0-002) exam: Software and Systems Security. Mike discusses different means of verifying identity, including biometrics; key authentication techniques, systems, and protocols; authorization and privilege management; the identity management lifecycle; and how to address common security issues in the realm of identity management. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

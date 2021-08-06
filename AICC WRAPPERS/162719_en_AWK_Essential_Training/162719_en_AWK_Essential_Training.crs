@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David D. Levine
+Course_ID=162719
+Course_System=linkedin.com
+Course_Title=AWK Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+So you've got a large data set. New information is always coming in, and it's messy and inconsistent. Text files, Excel spreadsheets, web forms, email messages, and so on. You'd like to find a way to format it into something clean and consistent you can use in a database, and you'd like to automate that process as much as possible. Enter AWK, a command-line tool for Mac, Unix, and Linux that allows you to manipulate data in powerful ways. In this course, award-winning author and teacher David D. Levine shows you how to use AWK to read and write data in a variety of formats, produce reports, and automate repetitive tasks. He reviews the nuts and bolts of the language, such as field separators, pattern matching, variables, operators, expressions, and control structures; functions available for manipulating data; and integration with other programs like Excel.

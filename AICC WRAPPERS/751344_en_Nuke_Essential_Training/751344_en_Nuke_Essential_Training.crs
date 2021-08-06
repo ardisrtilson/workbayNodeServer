@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Wright
+Course_ID=751344
+Course_System=linkedin.com
+Course_Title=Nuke Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual effects (VFX) dominate at the box office, and Nuke is the compositing software that is used to create mind-blowing effects at the highest end studios. For a career in VFX, Nuke is essential. This course is an introduction that covers the entire program in just five hours. Upon completion, you should be able to perform basic 2D and 3D visual effects compositing with Nuke, and be prepared to tackle more advanced coursework and projects. VFX compositor and Nuke master trainer Steve Wright covers the user interface, including the Viewer, Timeline, Dope Sheet, and Curve Editor. In this section, you can learn about Nuke channels, node trees, and keyframe animation and get an overview of the compositing workflow. Chapter two introduces 2D compositing: image transformations, color correction, rotoscoping, keying, timing adjustments, and tracking. In chapter three, you can expand your skills into 3D: working with lights and cameras, transforming and deforming 3D geometry, applying materials and textures, and rendering. Each video comes with its own Nuke scripts and media, so you can easily follow along on your own machine.

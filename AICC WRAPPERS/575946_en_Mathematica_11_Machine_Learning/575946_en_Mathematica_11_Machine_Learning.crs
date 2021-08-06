@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=575946
+Course_System=linkedin.com
+Course_Title=Mathematica 11 Machine Learning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to analyze data using the machine learning capabilities built into Mathematica 11. In this course, Curt Frye provides an overview of machine learning tasks, explains how to separate training data from test data, and shows how to import data from a file. He also demonstrates how to prepare data for machine learning, including how to replace values near zero with zero and sort elements using a rule. Curt also covers determining functions that generate data and performing supervised machine learning tasks.

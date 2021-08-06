@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=90367
+Course_System=linkedin.com
+Course_Title=CSS: Styling Navigation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Join James Williamson, as he shows you how to create elegant menus, links, and buttons that help visitors navigate your site faster and more intuitively. The course covers creating structured navigation that is accessible and clean, styling links, and building horizontal and vertical menus with rollover effects. The last chapter reveals how to create stylish buttons with special effects and CSS sprites.

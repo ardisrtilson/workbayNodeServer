@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christina Truong
+Course_ID=688549
+Course_System=linkedin.com
+Course_Title=CSS: Design Systems and Architectures
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You'd never build a house without a blueprint, so why write CSS without a plan? A strong foundation makes CSS more scalable, reusable, and maintainable. Learn how to define a cohesive design system and robust architecture for your own CSS projects, in this course with Christina Truong. Christina shares strategies to help developers reimagine their workflow from the bottom up. Learn techniques for organizing and inventorying your styles, leveraging open-source frameworks such as Bootstrap, and storing UI patterns and components. Christina also shows how to architect CSS for reusability, using standardized formatting, classes, naming conventions, and templates. These techniques will help reduce the sprawl that seems endemic to web development, and help you become a more efficient, productive designer.

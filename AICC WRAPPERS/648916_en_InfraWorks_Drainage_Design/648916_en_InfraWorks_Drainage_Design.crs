@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=648916
+Course_System=linkedin.com
+Course_Title=InfraWorks: Drainage Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk InfraWorks is a design and engineering program that can help transportation planners and civil engineers better understand how their projects will function in the real world. In this course, learn how to use this powerful software to model watersheds, culverts, and drainage networks. Instructor Lynda Sharkey covers hydrology terms and methods, explains how to analyze a watershed, and shows how to troubleshoot your watershed model. She also demonstrates how to add culverts to a road both automatically and manually, modify culverts, and create and size drainage networks.

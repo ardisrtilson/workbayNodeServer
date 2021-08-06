@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Hu
+Course_ID=679627
+Course_System=linkedin.com
+Course_Title=IoT Foundations: Operating System Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in building applications for the Internet of Things? Smart devices surround us, and the app market is only getting bigger. Luckily, the operating systems designed for IoT—Ubuntu Core, Windows 10 IoT Core, and others—also have a number of built-in features for developing robust, full-featured IoT apps. An OS-based approach to development hands over tasks such as interoperability and security to the framework, so that developers can focus on features and functionality. This course provides a technical overview of IoT application components that can be outsourced to the OS: interactions with sensors and actuators, data management and processing, data transmission, edge computing, cloud computing, device management, security, and artificial intelligence and machine learning. IoT engineer and professor Ryan Hu provides numerous examples as well as exercise files that show how to implement each component in an actual IoT app.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett
+Course_ID=667367
+Course_System=linkedin.com
+Course_Title=DevSecOps: Automated Security Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security testing is a vital part of ensuring you deliver a complete, secure solution to your customers. Automating the process can ensure testing is always part of your software delivery workflow, and can help testing keep pace with continuous integration and delivery (CI/CD) pipelines. In this course, James Wickett introduces the core concepts behind application security testing, with hands-on demos of various open-source tools. He explains how security and DevOps fit together, and moves quickly from guidance to practice: setting up an attack lab with GauntIt. He reviews testing strategies for web applications, microservices, and APIs, as well as the specialized needs of CI/CD pipelines. By the end of the course, you'll have a better understanding of software security testing, as well as a reusable library of tests that you can immediately put into rotation.

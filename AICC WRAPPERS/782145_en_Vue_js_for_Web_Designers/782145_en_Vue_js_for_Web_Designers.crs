@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=782145
+Course_System=linkedin.com
+Course_Title=Vue.js for Web Designers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Vue.js is a popular JavaScript framework that can be used to build interactive components or entire single-page apps. It's a powerful and flexible framework for the modern web designer—whether you use a little of it or a lot. In this course, Joe Chellman offers practical ways to incorporate Vue.js in real-world web designs. He introduces three small projects that benefit from Vue: a real-time updating product customizer that shows how to manage data and respond to events with Vue; an employee directory using Vue forms and animation; and a status board that makes external API calls and uses a third-party Vue component. Each project demonstrates what makes Vue most interesting and useful to web designers and provides solutions for dealing with the few unique challenges.

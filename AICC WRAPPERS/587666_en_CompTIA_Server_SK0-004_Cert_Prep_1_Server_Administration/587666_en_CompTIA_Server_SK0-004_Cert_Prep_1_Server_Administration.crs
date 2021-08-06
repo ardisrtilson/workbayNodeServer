@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=587666
+Course_System=linkedin.com
+Course_Title=CompTIA Server+ (SK0-004) Cert Prep: 1 Server Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The CompTIA Server+ (SK0-004) Cert Prep series was designed to help you prepare for and pass the CompTIA Server+ (SK0-004) exam. In this installment of the series, Ed Liberman prepares you for the server administration portion of the exam. Ed goes into server operating system installation, discussing installation, server roles, and post-installation configuration. In addition, he covers access and control methods, server maintenance, and asset management. To wrap up the course, he provides an overview of virtualization. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

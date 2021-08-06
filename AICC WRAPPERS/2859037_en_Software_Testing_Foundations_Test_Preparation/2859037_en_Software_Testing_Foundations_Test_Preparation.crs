@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Fine
+Course_ID=2859037
+Course_System=linkedin.com
+Course_Title=Software Testing Foundations: Test Preparation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While spontaneity may be fun and valued in many instances in life, there are certainly areas where you don’t want to leave things up to chance or make an uninformed decision—buying a house, interviewing for a job, running a marathon. These are all things that require preparation, and doing them on the fly could produce disastrous results. As Mike Fine explains in this course, the same can be said for software testing. Join Mike as he teaches the many ways that your preparation for a test ends up impacting your overall results. He reviews the various phases of testing and the different ways to prepare for alpha, beta, and delta testing. Even if you’re an experienced quality tester, Mike shows the importance of reviewing the mundane details that you might do every day and rarely think about, where one small, missed item—an expired software license, for example—might cause your whole test to collapse.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joli Ballew
+Course_ID=5034176
+Course_System=linkedin.com
+Course_Title=Windows 10: Manage and Maintain Windows 10
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Extend the life of the Windows machines in your organization by learning how to perform basic management and maintenance of Windows 10. In this course, Joli Ballew shows how to configure updates, monitor events and performance, back up and restore files, recover the entire system, and secure Windows 10 by configuring different authorization and authentication options. She touches on Reliability Monitor, System Restore, Resource Monitor, and more obscure servicing options that can give you maximum control over your system. Plus, for power users, she introduces some easy-to-use PowerShell commands for automating administration tasks. This course covers key skills measured on Exam MD-100: Windows 10, a required exam for the Modern Desktop Administrator Associate certification.

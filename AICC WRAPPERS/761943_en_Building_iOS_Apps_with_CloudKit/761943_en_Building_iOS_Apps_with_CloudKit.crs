@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doron Katz
+Course_ID=761943
+Course_System=linkedin.com
+Course_Title=Building iOS Apps with CloudKit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CloudKit—the back-end solution from Apple—is easy to use and cost effective compared to its competitors. Leveraging CloudKit enables developers to securely store and sync data across multiple iOS apps and devices. This course covers all the concepts involved in creating a CloudKit-powered app. Instructor Doron Katz shows how to use the dashboard and work with storage objects such as containers, databases, zones, and records. Using a hands-on project, Doron shows how to design a database schema and read and write to the cloud, as well as create entity relationships and implement subscriptions to be notified when data changes. Plus, learn about CloudKit security, testing, and debugging, and advanced concepts such as offline caching and web integration.

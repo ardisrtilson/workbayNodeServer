@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim LaPier
+Course_ID=498712
+Course_System=linkedin.com
+Course_Title=AutoCAD 2017: Migrating from Windows to Mac
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+After a long hiatus, AutoCAD returned to the Mac platform in 2010. Many features were reimagined or entirely rewrote. Every year the product is improved, but Windows users can still find the Mac interface and toolset a bit jarring. This course compares the Mac and Windows versions of AutoCAD 2017, including interface differences, workflow changes, and feature relationships. Learn the nuances that affect your daily CAD usage, and get the most out of your existing knowledge. Jim LaPier shows how to manage and save files, work in 2D space, use external references, print sheets, model in 3D, and customize AutoCAD for Mac to fit your workflow.

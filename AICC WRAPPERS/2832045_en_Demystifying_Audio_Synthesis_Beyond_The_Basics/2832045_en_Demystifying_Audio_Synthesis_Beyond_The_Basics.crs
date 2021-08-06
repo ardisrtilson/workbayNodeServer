@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Hirsch
+Course_ID=2832045
+Course_System=linkedin.com
+Course_Title=Demystifying Audio Synthesis: Beyond The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Up your levels. Move beyond the basics of sound synthesis, in this course with musician Scott Hirsch. These advanced tutorials explore the inner workings of familiar synth programming techniques, as well as a few alternatives for pushing your sound further. Scott builds from modular-component synthesis to other types of synthesis, including frequency-modulation (FM) synthesis, modeling synthesis, and vocoding techniques. The course finishes up with a series of tutorials on creating new sounds, including a classic vocoder effect, big moving basslines, evocative percussion patterns, and rich synth pads. Note: Scott uses a combination of Ableton Live, Native Instruments software, and Logic Pro in this course, but you can easily recreate the techniques in the DAW of your choice. The specific synths used include Native Instruments Massive; Logic Pro Alchemy and the Sculpture plugin; and Collision in Abelton Live.

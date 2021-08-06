@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=765308
+Course_System=linkedin.com
+Course_Title=3ds Max: Substance to V-Ray Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to leverage the substance-based toolset from Allegorithmic to create photorealistic texture maps for your 3ds Max projects. In this course, you can explore the workflow for integrating Substance Designer, Substance Painter, and the Bitmap2Material (B2M) node with 3ds Max. Brian Bradley explains what substance-based tools are and how to use them within the 3ds Max application as well as the V-Ray rendering engine. He demonstrates how to create materials from photographic assets using the B2M node, how to work with substance materials from Substance Designer, and how to export bitmap textures from both Substance Designer and Substance Painter for use in 3ds Max and V-Ray.

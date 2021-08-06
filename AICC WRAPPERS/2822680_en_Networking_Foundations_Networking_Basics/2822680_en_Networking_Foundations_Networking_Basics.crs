@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2822680
+Course_System=linkedin.com
+Course_Title=Networking Foundations: Networking Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When someone begins to study networking, they’re challenged with knowing where to start. This is due to the wide spectrum of technologies falling under the umbrella of networking. This course provides an overview of the foundational topics any networking professional should know, as well as an introduction to emerging technologies. Instructor Kevin Wallace delves into the purpose of networks, as well as how networking technologies benefit us in both our personal and business lives. He covers network addresses, including the structures of Internet Protocol (IP) version 4 and version 6 addresses. Plus, learn about switches, routers, fiber-optic cabling, and other essential pieces and parts that make networks work; the OSI model; common network services; wireless networks; and more.

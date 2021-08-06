@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2874016
+Course_System=linkedin.com
+Course_Title=Learning Bash Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bash, or the Bourne Again Shell, is a widely popular command-line interpreter for administration and programming tasks. But Bash is different than most scripting languages. That's why Scott Simpson spends some time in this course running you through the syntax—introducing variables, numbers, and control structures—so you can start writing scripts right away. He shows you how to wrap up multiline operations in one file, implement flow control, and interact with users to get input. Plus, he offers challenges along the way that allow you to put what you've learned to the test.

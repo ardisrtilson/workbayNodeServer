@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Benjamin Muschko
+Course_ID=2835077
+Course_System=linkedin.com
+Course_Title=Certified Kubernetes Application Developer (CKAD) Cert Prep: Exam Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified Kubernetes Application Developer (CKAD) certification is a valuable credential for anyone interested in demonstrating proficiency with Kubernetes. The exam curriculum was tailored to touch on relevant topics important to developers who want to deploy, maintain, and monitor an application in a Kubernetes environment. And unlike other certification exams, the CKAD requires developers to demonstrate their understanding of the curriculum in a hands-on, command-line environment. If you're considering taking this test, then this course is for you. Join instructor Benjamin Muschko as he provides a high-level overview of the concepts covered on the test, shares study tips, and explains how becoming CKAD certified can help you take your career to the next level.

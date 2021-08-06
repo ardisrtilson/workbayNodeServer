@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2886175
+Course_System=linkedin.com
+Course_Title=Linux: Files and Permissions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When it comes to managing Linux servers securely, permissions and access control are crucial. In this course, computer science instructor and Linux enthusiast Grant McWilliams explains how to manage files and directories, create links, and set permissions in Enterprise Linux 8. Grant covers how to maintain access control to files through the standard Linux permission system and access control lists. He also shows how to grant or revoke access to files and directories for users and groups as well as how to set up special bits for privilege escalation, global writable directories, and permission inheritance.

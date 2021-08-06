@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=672260
+Course_System=linkedin.com
+Course_Title=SQL for Statistics Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Descriptive statistics help us understand the overall structure of data, and SQL is the most widely used language for manipulating it. Together, they can help data analysts derive better insights and make far-reaching predictions. This course provides an overview of basic descriptive statistics and the SQL commands you need to know to summarize data sets, find averages, and calculate variance and standard deviation. Instructor Dan Sullivan also introduces more detailed analysis techniques using discreet and continuous percentiles to help segment data, and correlations between variables to identify relationships. He concludes with an introduction to linear regression, a widely used predictive analytics technique.

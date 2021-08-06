@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=2823134
+Course_System=linkedin.com
+Course_Title=Substance Designer: Creating Nonphotorealistic (NPR) Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+See how to create a stylized, non-photoreal version—such as a cartoon outline—of an existing, realistic-looking material using Substance Designer, part of the Substance suite from Adobe. Instructor Joel Bradley walks through the material creation process from start to finish, beginning with choosing nodes that can achieve the level of control needed. He moves on to cover the details of stylizing the image, including outlining, shading, beveling, patterning, and more, all with an eye to maximizing usability.

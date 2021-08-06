@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bryan Lamb
+Course_ID=800201
+Course_System=linkedin.com
+Course_Title=Robot Framework Test Automation: Level 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn intermediate and advanced test automation techniques for Robot Framework. Once you've learned how to create simple tests with Robot Framework, most software testers and programmers want to be able to refine them: to randomize tests, build in automated logic, focus on specific elements, and perform data-driven testing. In this course, instructor Bryan Lamb helps you discover how you can create more potent, customized test scripts with Robot Framework. Learn how to create custom Robot Framework libraries, use web locators to test specific HTML and CSS elements, integrate conditionals and loops, perform advanced data management with dictionaries, and much more. Plus, get real-world scripting examples and tips to quickly turbocharge your Level 1 skills and keep your toolset up to date.

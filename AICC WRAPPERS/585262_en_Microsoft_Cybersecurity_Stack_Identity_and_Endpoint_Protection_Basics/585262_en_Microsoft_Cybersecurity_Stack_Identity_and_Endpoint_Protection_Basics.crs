@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=585262
+Course_System=linkedin.com
+Course_Title=Microsoft Cybersecurity Stack: Identity and Endpoint Protection Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The traditional model of the network perimeter is dead. The perimeter—where access and authorization are enforced—can be anywhere, on any device. With the evolution of Microsoft Enterprise Mobility + Security (EMS) and Azure, the Microsoft enterprise cybersecurity story is growing increasingly more exciting. The Microsoft Cybersecurity Stack series of courses provides IT pros with a holistic view of the Microsoft cybersecurity stack, and how to configure those components to strengthen an organization's security posture. These hands-on courses demonstrate how to configure EMS and Azure features, and how to combine them for greatest effect. In this course—the first in the series—Microsoft MVP Pete Zerger takes you through the basics of setting up endpoint protection. He begins by explaining how to set up Azure Active Directory Premium. Next, he goes into enabling multi-factor authentication, followed by setting conditions for secure access. To wrap up, Pete covers managing mobile devices with Intune, and publishing applications with Azure AD App Proxy.

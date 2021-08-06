@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kunal D Mehta
+Course_ID=5030991
+Course_System=linkedin.com
+Course_Title=Azure Active Directory: Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Active Directory (AD)— a cloud-based identity and access management service—powers much of the Microsoft cloud ecosystem. It provides secure access and identity protection to on-premises, cloud, and hybrid environments. For those looking to adopt a cloud-first approach to identity, getting familiar with Azure AD is a must. In this beginner-level course, instructor Kunal D Mehta helps you get up and running with Azure AD. Kunal explores the platform's place at the helm of all Microsoft cloud products, as well as why Azure AD is needed in today's IT landscape. He also digs into key features that set Azure AD apart from its competitors, provides information on which industry standards and compliance regulations it fulfills, and highlights the business objectives it can help you achieve.

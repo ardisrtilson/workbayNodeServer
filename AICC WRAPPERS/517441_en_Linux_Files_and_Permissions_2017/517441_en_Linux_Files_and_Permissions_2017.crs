@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=517441
+Course_System=linkedin.com
+Course_Title=Linux: Files and Permissions (2017)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When it comes to managing Linux servers securely, permissions and access control are crucial. In this course, follow computer science instructor and Linux enthusiast Grant McWilliams as he explains how to manage files and directories, create links, and set permissions in CentOS 7. Grant goes into Linux file types, shows how to manipulate files, and explains how to maintain access control to files through the standard Unix permission system and Access Control Lists. He covers how to grant or revoke access to files and directories for users and groups, as well as how to set up special file bits for privilege escalation and special directory bits for owner group inheritance.

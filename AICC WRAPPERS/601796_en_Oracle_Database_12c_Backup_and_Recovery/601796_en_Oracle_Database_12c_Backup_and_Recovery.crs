@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Yahalom
+Course_ID=601796
+Course_System=linkedin.com
+Course_Title=Oracle Database 12c: Backup and Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Keeping the information in an Oracle database safe from failure is one of the most important tasks of a successful Oracle DBA. In this course, Oracle instructor and consultant David Yahalom covers the theoretical concepts as well as the practical knowledge required to design and implement bulletproof Oracle backup and recovery strategies. Learn how human errors, hardware failures, and even storage loss can affect your database, and how you can leverage the technologies and features built into Oracle 12c to ensure you will never suffer any data loss. Discover how to use various Oracle tools and technologies, including RMAN, Data Pump, Flashback, and hot and cold backups, to protect your database from the inevitable crash.

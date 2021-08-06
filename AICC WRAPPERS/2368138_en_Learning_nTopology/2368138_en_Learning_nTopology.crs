@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Evan Pilz, nTopology
+Course_ID=2368138
+Course_System=linkedin.com
+Course_Title=Learning nTopology
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+nTopology works in conjunction with CAD packages to provide engineers and designers with high-performance, unbreakable geometry; a unique, field-driven design capability; and novel tools for workflow automation. Instructor Evan Pilz introduces the software and how to use it, including the block system, fields, lattices, and reusable workflows. First, Evan explains what prior skills and knowledge you’ll need for this course and what you can expect to learn. He shows why nTopology was created, how it is different from other software, and which industries use nTopology. He then walks you through the nTopology block system, building your first workflow, creating custom blocks that fit your current needs, and exporting parts from nTopology. Plus, learn how to use fields to drive your design and get useful tips, tricks, and best practices for working smarter with this software.

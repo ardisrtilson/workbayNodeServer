@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=782128
+Course_System=linkedin.com
+Course_Title=C++: Advanced Topics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to deepen your understanding of C++? In this course, explore some of the more complex aspects of this core programming language, from smart pointers to move semantics. Instructor Bill Weinman begins by diving deeper into the subject of classes and objects, including class inheritance. Next, Bill goes over smart pointers, which provide the functionality of a pointer with managed memory allocation. He also covers move semantics, including the copy-and-swap idiom; lambda functions; working with a unit test library; and creating a custom string library. As he wraps up the course, Bill shares practical applications of these concepts, helping you grasp how to leverage your new skills in your own C++ projects.

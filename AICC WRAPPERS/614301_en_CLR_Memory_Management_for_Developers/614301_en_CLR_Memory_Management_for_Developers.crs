@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ted Neward
+Course_ID=614301
+Course_System=linkedin.com
+Course_Title=CLR Memory Management for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Automatic memory management—known colloquially as garbage collection—makes programming the .NET platform a much more manageable task. But it carries with it its own share of issues. For example, it can't always know which objects to release if programmers don't know how the garbage collector determines which objects are currently in use. In addition, developers often make poor design decisions in the name of performance that actually creates more work for the garbage collector. In this course, instructor Ted Neward helps you avoid such pitfalls by helping to familiarize you with the core concepts of memory management. He also dives into some of the fundamental algorithms used by garbage collectors, before going into the details around the CLR itself.

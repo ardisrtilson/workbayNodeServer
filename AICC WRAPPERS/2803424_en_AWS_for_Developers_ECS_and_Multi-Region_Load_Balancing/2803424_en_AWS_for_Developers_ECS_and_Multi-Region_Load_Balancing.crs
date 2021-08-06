@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Villeneuve
+Course_ID=2803424
+Course_System=linkedin.com
+Course_Title=AWS for Developers: ECS and Multi-Region Load Balancing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As your application grows, you need to design for scalability and redundancy. Load balancing—splitting traffic among many servers—is key. Amazon Web Services (AWS) has tools for load balancing across multiple regions, so that users can experience the fastest response times with minimal downtime. This course explains how to set up multi-region load balancing with Amazon Route 53. Learn how to replicate data across multiple data centers using DynamoDB and set up continuous deployment across multiple regions with ECS and CodePipeline. Then discover how to use Route 53 to load balance between multiple regions, with policies for location-based routing and health checks to ensure that your traffic doesn’t go to a region that is suffering from a regional failure.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=2822349
+Course_System=linkedin.com
+Course_Title=Power Apps: Building Data-Driven Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Power Apps makes it easy to build user-friendly frontend applications on top of your existing data—without any code. This course explores how to use Power Apps and Excel to create robust business applications for the collection and visual display of data. Phil Gold walks through the basics of connecting one or more data sources in Power Apps, and shows you how to build a new application and deploy it to your organization. Discover how to customize the design to fit your brand, add images and buttons, validate user data, and auto-populate form fields. Plus, learn how to use the time-saving Power Apps templates and export app packages for distribution outside your organization’s Office 365 ecosystem.

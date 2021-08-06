@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=499763
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 11 Data Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Database connections separate rich, enterprise-level applications from the rest. If you're developing with Visual Studio, you have a variety of tools available for managing database connections, manipulating tables, querying data, and deploying projects. Plus, you have your choice of platform. Visual Studio 2015 supports SQL Express LocalDB and the full edition of SQL Server, as well as Azure cloud-based data services. Join Walt Ritscher as he walks through your integration options and tools for working with data in this powerful IDE. Learn how to manage connections with Server Explorer, manage individual database elements with the SQL Server Object Explorer, and create custom queries, views, and stored procedures within the Visual Studio environment. Plus, find out how to deploy projects to Azure and integrate Visual Studio with Entity Framework, an object relational mapper that enables .NET developers to work with relational data using domain-specific objects.

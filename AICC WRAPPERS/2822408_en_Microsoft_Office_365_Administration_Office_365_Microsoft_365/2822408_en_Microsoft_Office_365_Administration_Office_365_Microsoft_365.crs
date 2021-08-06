@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Elfassy
+Course_ID=2822408
+Course_System=linkedin.com
+Course_Title=Microsoft Office 365: Administration (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+More organizations are moving resources to the cloud—and for those organizations, Microsoft Office 365 is the solution of choice. It's a one-stop shop for user management, email services, real-time collaboration, and secure file storage. From managing global settings to configuring advanced security, this course details the process of successfully managing an enterprise implementation of Office 365. Learn how to adjust user and subscription settings, configure Exchange mailboxes and groups, set up SharePoint sites, manage Microsoft Teams, and perform advanced configurations, such as multifactor authentication and PowerShell scripting. Microsoft MVP David Elfassy guides you through everything you need to competently and confidently manage an Office 365 deployment at your organization.

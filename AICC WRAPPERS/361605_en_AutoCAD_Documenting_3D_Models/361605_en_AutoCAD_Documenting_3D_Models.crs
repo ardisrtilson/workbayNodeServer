@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=361605
+Course_System=linkedin.com
+Course_Title=AutoCAD: Documenting 3D Models
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD has several different methods available for projecting 2D drawings from 3D models. Join author Scott Onstott as he explores each of these methods, including projecting 2D drawings in model space and using viewports to view a model from various angles in paper space. The course's main focus is AutoCAD's advanced model-documentation features, which allow you to project plans, elevations, sections, and details from a 3D model directly onto layouts.

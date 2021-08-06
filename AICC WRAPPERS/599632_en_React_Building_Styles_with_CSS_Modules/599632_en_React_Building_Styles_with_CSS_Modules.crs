@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=599632
+Course_System=linkedin.com
+Course_Title=React: Building Styles with CSS Modules
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React styles and CSS styles haven't always agreed in the use of inline styling. As React development has grown, developers have figured out more and more ways of smoothly integrating and maintaining a style with their code. Whether you need to style a React-based user interface or want to create dramatic animation, this course gives you the keys you need to build attractive and maintainable style using React and CSS modules.

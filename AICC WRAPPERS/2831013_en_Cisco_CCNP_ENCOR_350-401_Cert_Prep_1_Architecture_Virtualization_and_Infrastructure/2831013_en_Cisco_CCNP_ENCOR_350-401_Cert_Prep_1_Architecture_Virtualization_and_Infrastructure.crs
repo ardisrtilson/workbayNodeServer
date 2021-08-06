@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2831013
+Course_System=linkedin.com
+Course_Title=Cisco CCNP ENCOR (350-401) Cert Prep: 1 Architecture, Virtualization, and Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Implementing Cisco Enterprise Network Core Technologies v1.0 (ENCOR 350-401) is a 120-minute professional-level exam associated with the CCNP and CCIE Enterprise Infrastructure certifications. The exam tests a candidate's knowledge of implementing core enterprise network technologies. This course helps candidates to prepare for the first three domains of this exam: Architecture, Virtualization, and Infrastructure. Instructors Kevin Wallace and Charles Judd show how to design enterprise architecture, including planning for all the necessary services and capacity. They also cover the various types of virtualization, from virtual machines and switches to entire virtual networks, and review the infrastructure technologies you typically see in enterprise networks, such as MSTP and RSTP, IPv4 and IPV6 routing, WLANs, Dynamic NAT, and more. This course was created by Kevin Wallace Training. We are pleased to offer this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aram Goganian
+Course_ID=2871253
+Course_System=linkedin.com
+Course_Title=Fusion 360: Sketch Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Aram Goganian introduces the fundamentals of sketching in Fusion 360. Aram begins with the tools you will use in Sketch for Fusion 360, including the line tool, circle tool, patterns tool, mirror tool, and many more. Next, Aram explains how to define, edit, and modify constraints and dimensions, as well as how to set up and use parameters. He walks you through inserting SVG, DXF, and image files into Sketch, then demonstrates how to use text within Sketch. Aram goes over the 3D sketch environment and shows you how to navigate the environment and how to take yourself from basic level through advanced 3D sketching. He steps through how to create solid bodies and surfaces from a sketch, shares useful tips and tricks, then concludes with a trio of practical use cases.

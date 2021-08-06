@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=2244038
+Course_System=linkedin.com
+Course_Title=Microsoft Power Automate: Advanced Business Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this advanced course, instructor Phil Gold explores how to create time-saving automations using Microsoft Power Automate (formerly known as Microsoft Flow) to simplify common repetitive tasks. The course focuses on using Power Automate for automation with SharePoint, Dynamics, and mobile devices. Phil covers creating routines that can be shared with others as well as routines for email, approval workflows, alerts, and more. He explores setting up processes to be triggered by an event, routines that run at a set time, and tasks that start when you click an app.

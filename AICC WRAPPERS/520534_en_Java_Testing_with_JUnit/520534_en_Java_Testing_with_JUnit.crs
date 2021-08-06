@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=520534
+Course_System=linkedin.com
+Course_Title=Java: Testing with JUnit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unit testing is a critical part of any software development process. JUnit is an open-source testing tool specialized for Java, and it should be part of every Java developer's toolbox. Join Peggy Fisher as she explores Java testing with JUnit. Learn how to integrate JUnit with popular tools and IDEs (Eclipse, NetBeans, IntelliJ, and Maven), and conduct a variety of tests, including exception handling and parameterized tests.

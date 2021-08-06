@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Carrasco López
+Course_ID=2818023
+Course_System=linkedin.com
+Course_Title=Azure Administration: Load Balancers and Application Gateways
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Load balancing is a crucial tool within a computing environment, allowing for high availability as traffic is distributed across servers. In this course, David Carrasco López covers key considerations for effectively implementing Azure load balancers and Azure Application Gateway for distributing web apps. Throughout the course, David provides hands-on demonstrations for creating and configuring load balancers using the Azure portal and PowerShell. He also covers how to configure health probes and rules, as well as how to configure a web application firewall. The concepts covered in this course can also help you prepare for the virtual networking portion of the Microsoft Azure Administrator exam (AZ-103).

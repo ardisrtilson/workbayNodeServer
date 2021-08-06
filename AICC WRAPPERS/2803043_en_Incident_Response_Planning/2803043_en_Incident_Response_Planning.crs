@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Dion
+Course_ID=2803043
+Course_System=linkedin.com
+Course_Title=Incident Response Planning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If your organization is the victim of a cyberattack, are you ready to respond? In this course, learn how to effectively create, provision, and operate a formal incident response capability within your organization to minimize the damage a cyberattack might cause. Instructor Jason Dion fully covers the guidance provided in NIST Special Publication 800-61, as well as recommendations based upon practical experience from the field. Learn about the different elements of policies, plans, and procedures; how to best guide your team; how to conduct a business impact analysis before, during, and after an incident; how to leverage various containment strategies; and other essential aspects of incident response at the management level.

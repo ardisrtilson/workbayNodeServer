@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eran Stern
+Course_ID=155267
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Physics Simulations in After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore how to create complex physical animations inside After Effects using Newton (a third-party plugin) and the Connect Layers (a free script). This project-based course covers a few specific and popular types of effects, such as letters suspended from strings and connected, randomized spheres. Artist Eran Stern shows how to connect any type of element together in a complex 3D array of strings and work with different dynamic simulations in order to create Dormant and Collision as well as Staggering and Kinematic animation types. These lessons are perfect for motion graphics artists who want to create earthy physics simulations and add realistic motion to their projects.

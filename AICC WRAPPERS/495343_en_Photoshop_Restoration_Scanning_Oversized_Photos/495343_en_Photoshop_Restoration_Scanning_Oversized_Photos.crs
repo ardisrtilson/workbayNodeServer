@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Rhodes
+Course_ID=495343
+Course_System=linkedin.com
+Course_Title=Photoshop Restoration: Scanning Oversized Photos
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Oversized prints present a unique challenge when it comes to photo restoration: They don't fit most home scanners. By scanning the photo in two or more passes and stitching the image back together, you can create a composite that accurately captures the dimensions of the original photograph. In this course, master restorationist Neil Rhodes shows how to evaluate an oversized photo, scan it in sections, and merge the resulting images with Photoshop's Photo Merge command. He then shows how to repair areas of damage, retouch any seams and tonal differences, and sharpen the final composite.

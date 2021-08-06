@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Meyers
+Course_ID=743176
+Course_System=linkedin.com
+Course_Title=CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the CompTIA Network+ certification can help to jump-start your career in IT by validating your understanding of how to configure, manage, and maintain networks. In this installment of the CompTIA Network+ Cert Prep series, instructor Mike Meyers covers key network security exam concepts as he explains how to secure TCP/IP. Mike explores symmetric and asymmetric encryption and goes over how cryptographic hashes work. He also discusses Kerberos, access control lists, single sign-on, and more. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=5026558
+Course_System=linkedin.com
+Course_Title=Try .NET First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Wish you could give learners a more hands-on experience with .NET as they peruse your documentation on the web? With Try .NET, an embeddable code runner from Microsoft, you can. Using this tool, you can bring the concepts in your articles to life by allowing your readers to try out .NET code in the browser. In this concise course, learn how to get up and running with Try .NET. Instructor Walt Ritscher provides a first look at this powerful tool as he steps through a project, showing you how to add sample code and Markdown to create interactive code examples for .NET documentation.

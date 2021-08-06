@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2883064
+Course_System=linkedin.com
+Course_Title=.NET Essentials: LINQ for XML
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The first explanation you typically hear about Microsoft LINQ is that it provides an in-language query tool to manipulate the contents of arrays and lists. Explore LINQ further and you’ll find it works with other popular data sources like XML files. In this course, instructor Walt Ritscher shows you how LINQ to XML uses LINQ extension methods to read, create, search, and manipulate XML in a simplified way. Walt walks you through LINQPad, the lightweight, powerful code editor and code runner that is used in this course, then explains how to load XML into different LINQ classes. He covers how you can get different elements and attributes from XML and some of the ways you can work with elements and attributes, after getting them. Walt describes a variety of query operators that you can use. He concludes with a discussion on how you can create and edit XML structure with LINQ.

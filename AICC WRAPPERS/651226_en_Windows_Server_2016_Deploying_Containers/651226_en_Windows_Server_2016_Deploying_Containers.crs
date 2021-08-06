@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=651226
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Deploying Containers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Server 2016 introduced a new feature—to accommodate the evolving needs of expansive DevOps platforms—which offers the benefits of containers to a variety of environments. This course introduces network administrators to containers and instructor Scott Burrell shows how to deploy Windows Containers in Windows Server 2016 environments. Scott covers host preparation, working with images, container management, and resource management. Admins can learn how to provide their developers with protected and agile application environments, offering both stability and flexibility.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Terezija Semenski
+Course_ID=2883235
+Course_System=linkedin.com
+Course_Title=Advanced Spring: Application Events
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Figuring out how to architect a new application is a big deal. Doing it the wrong way can lead to a huge headache later. Testing and refactoring can become nightmarish. But it doesn't have to be that way. In this course, instructor Terezija Semenski shows you powerful, easy-to-follow design techniques for Spring events that you can use to write clean, testable, maintainable code with flexible and loosely coupled architectural design. Terezija explains how to leverage Spring events by replacing traditional method calls, then describes a powerful set of Spring event features. She covers how to create and publish custom events and how to implement a new listener for events. Terezija concludes the course with discussions on asynchronous events, filter events, and transaction bound events.

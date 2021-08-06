@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft .NET, Shayne Boyer, Lisa Guthrie
+Course_ID=2877238
+Course_System=linkedin.com
+Course_Title=Using Docker and .NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Why use containers with your .NET Core applications? When you write an application, you have to consider the application code, frameworks, packages, and the underlying operating system itself. Using Docker allows you to encapsulate everything you need to run an application, with all its dependencies, in one nice, neat package that you can replicate on any machine or workstation, as many times as you need. In this course, Shayne Boyer and Lisa Guthrie start with the very basics of Docker, covering the concepts and practical uses, then move on to integrating Docker with Visual Studio to help you containerize your apps with just a few clicks. Finally, Shayne and Lisa show you a simple way to publish your containerized web app.

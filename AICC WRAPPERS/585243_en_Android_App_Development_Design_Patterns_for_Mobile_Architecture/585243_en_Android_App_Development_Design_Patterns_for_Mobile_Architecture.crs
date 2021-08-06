@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Bott
+Course_ID=585243
+Course_System=linkedin.com
+Course_Title=Android App Development: Design Patterns for Mobile Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers need to know how to manage an app's complexity. In this course, learn how to simplify your apps by applying simple architectural design patterns to your mobile code base. Discover how these design patterns can help you reduce bugs and maximize your development time by making your code easier to read and test. Jon Bott covers different architectural models such as MVC, MVP, and VIPER. In addition, he walks through the conversion process from MVC to a layered architecture, covering dependency injection, the coordinator pattern, and data binding.

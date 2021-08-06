@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=114004
+Course_System=linkedin.com
+Course_Title=Modeling Vehicles in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Ryan Kittleson models a fully detailed Shelby Cobra automobile using both polygon and NURBS modeling techniques. The body, wheels, and interior are all modeled from scratch using blueprints and reference photos. The course covers aspects of modeling useful for many types of objects that go beyond automobiles, such as modeling complex shapes, editing NURBs objects, and creating clean models from scan data.

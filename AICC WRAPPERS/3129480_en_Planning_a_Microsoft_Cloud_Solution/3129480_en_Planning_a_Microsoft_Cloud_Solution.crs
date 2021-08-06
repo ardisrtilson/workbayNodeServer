@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=3129480
+Course_System=linkedin.com
+Course_Title=Planning a Microsoft Cloud Solution
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're planning on moving your organization to the cloud, Azure—the popular cloud services platform from Microsoft—is worth a look. In this course, Sharon Bennett provides a thorough introduction to cloud computing, focusing on the various Azure technologies designed to help support and protect your company as it scales. Sharon explains how to build a base of operations with Azure resource groups, virtual networking, and storage—the foundations of your infrastructure—and ensure business continuity using out-of-the-box Azure Backup and Azure Site Recovery services. She covers how to set up virtual machines and manage users and access with Azure Active Directory. This introduction is a perfect primer for IT pros who want to move clients to the cloud, and business owners who are looking for more efficient alternatives to a traditional IT infrastructure.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Allen Holub
+Course_ID=779753
+Course_System=linkedin.com
+Course_Title=Software Architecture Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software architecture is not just putting together existing packages as if they were building blocks. It's a considered approach to design, which helps systems scale with your business and helps your team develop in a more agile way. This course explains what software architecture really is, how it can help you build better applications, and the relationship architecture has to implementation, design, and construction. Instructor Allen Holub discusses what the job looks like, whether you're a traditional or modern architect, and reviews the major theories and concepts you'll need to get started. He also covers Conway's law and domain-based thinking, the differences between system and enterprise architecture, and six of the most common architectural patterns, from monoliths to microservices.

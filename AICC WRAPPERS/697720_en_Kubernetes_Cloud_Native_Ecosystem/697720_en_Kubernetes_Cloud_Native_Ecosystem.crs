@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Karthik Gaekwad
+Course_ID=697720
+Course_System=linkedin.com
+Course_Title=Kubernetes: Cloud Native Ecosystem
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Cloud Native Computing Foundation (CNCF) provides professionals with an assortment of cutting-edge tools and platforms. If you're unfamiliar with CNCF tools and want to learn how they can help you, then this concise course is for you. Join Karthik Gaekwad as he covers many of the tools hosted by the Cloud Native Computing Foundation, with an emphasis on the problems they can solve. Karthik covers powerful tools such as Prometheus, Fluentd, and Jaeger. He explains how these tools work and dives into the mindset and engineering challenges involved in adopting cloud native architectures. He discusses management and orchestration; networking and runtime; and application observability, analysis, and security. Upon wrapping up this course, you'll have a better idea of which projects to use to build great cloud native applications with technologies that will scale with time.

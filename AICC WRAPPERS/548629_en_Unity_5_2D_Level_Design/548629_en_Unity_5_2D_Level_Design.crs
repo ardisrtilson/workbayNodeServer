@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=548629
+Course_System=linkedin.com
+Course_Title=Unity 5: 2D Level Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the basics of level design in Unity 5 2D. Exciting, engaging level designs are what make for great gameplay. This course focuses on designing levels that challenge your players by including puzzles, monsters, player flow, and balancing. Jesse Freeman shows how to build a basic level with multiple layers, and trick it out with doors and push blocks, switches, time limits, and enemies. You'll learn techniques to challenge the players and move them through the level in an organic way, and build tools that help you further your design. Use the exercise files included with the course to continue to build the game and make it your own.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Wenz
+Course_ID=2877132
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Health Checks and Logging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Logging and health checks in ASP.NET Core are vital for enterprise and commercial development. You need to understand what's happening on your site in order to find where problems have occurred, spot security issues, and discover optimization opportunities. In this course, instructor Christian Wenz shows you how to use the logging infrastructure that ASP.NET Core provides and then introduces you to the features that ASP.NET Core offers for health checks, including how to create, register, and customize them. Christian gives you a quick tour of the sample app that you will use in this course. Then he gets into the logging portion of the course, covering topics such as how to configure logging, log to files, log to Azure, use log scopes, and more. After a challenge to see how well you understand logging, Christian discusses ASP.NET Core health checks, including how to configure and add health checks, create a UI to work with health checks, and secure your health check endpoints.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Lester, Human Element LLC
+Course_ID=674595
+Course_System=linkedin.com
+Course_Title=CISA Cert Prep: 4 IT Operations, Maintenance, and Service Delivery for IS Auditors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning a CISA certification validates your ability to audit, control, and monitor information systems. Our test prep series tackles the exam one domain at a time, helping you acquire all the skills you need to confidently manage IT security audits. CISA Cert Prep: 4 teaches IT operations, maintenance, and service delivery. Get an overview of information system architectures, hardware, software, and networking, as well as details about wireless, cloud-based, and cloud-native technology and disaster recovery. Instructor Michael Lester wraps up with an overview of the auditing process for IT networks.

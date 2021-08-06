@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=2825162
+Course_System=linkedin.com
+Course_Title=Revit: Structural Analysis Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the fundamentals of structural analysis in a Building Information Modeling (BIM) workflow using Autodesk Revit for improving design accuracy, analyzing the effects of structural loads, and creating more resilient and sustainable designs. Instructor Eric Wing demonstrates how to set load cases and boundary conditions, and check a model for consistency. Eric also shows how to use Autodesk Robot to perform detailed analysis and explore the results.

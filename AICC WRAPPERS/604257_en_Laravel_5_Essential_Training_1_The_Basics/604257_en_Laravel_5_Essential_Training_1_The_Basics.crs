@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bernardo Pineda
+Course_ID=604257
+Course_System=linkedin.com
+Course_Title=Laravel 5 Essential Training: 1 The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Frameworks allow you to do more with less code. Laravel is the most popular MVC framework for PHP. This course covers the basics you need to know to build elegant applications of any scale with Laravel. Learn how to work with the MVC architecture, bootstrap components with service providers, and incorporate the ORM Eloquent for simplified database integration. Instructor Bernard Pineda also covers dependency injection, routing to controllers, views, Blade templates, form creation, and form validation. These tutorials provide the information you need to make a move to Laravel and build high-quality, scalable, and sound PHP applications.

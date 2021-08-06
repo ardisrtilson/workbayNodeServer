@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Karl Ots
+Course_ID=2972410
+Course_System=linkedin.com
+Course_Title=Azure for DevOps: Containers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Containers are becoming a ubiquitous format for packaging applications. They democratize the cloud, as containerized applications can be lifted and shifted more easily than traditional applications. This course explains how to leverage the container-based technologies in Microsoft Azure, including the popular Azure Kubernetes Service (AKS), and study for the container-specific objectives from the Azure for DevOps (AZ-400) certification exam. Learn how to build and run secure containerized applications in Dockerfiles, create an Azure Container Registry (ACR) to enable version control and build management, and host your containerized apps from an Azure Container Instance (ACI). In the fourth chapter, instructor Karl Ots—an Azure MVP and Microsoft Regional Director—explains how to deploy apps to Azure Kubernetes Services. Along the way, he introduces the security features for containerized apps in Azure, such as ACR security controls and secrets management for ACI and AKS. Learn more about the AZ-400 exam at https://docs.microsoft.com/en-us/learn/certifications/exams/az-400.

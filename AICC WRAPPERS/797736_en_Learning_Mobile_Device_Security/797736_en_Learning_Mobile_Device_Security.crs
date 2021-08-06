@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Spence
+Course_ID=797736
+Course_System=linkedin.com
+Course_Title=Learning Mobile Device Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mobile devices have become critical to the way we work and live. That's what makes them such an attractive target to hackers and cybercriminals. This course provides a practical, hands-on approach to securing your mobile device and protecting your hardware, apps, and data from theft and intrusion. Mobile device management expert Ryan Spence provides an overview of the risks and general security best practices, such as choosing and properly disposing of a mobile device and using password protection. He then covers specifics on Android and iOS security, including enrolling in a mobile device management program such as Apple Business Manager and Android Enterprise. Finally, learn how to secure the hardware itself: the camera, microphones, sensors, and radios.

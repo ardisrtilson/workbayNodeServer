@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Cris Ippolite
+Course_ID=2279213
+Course_System=linkedin.com
+Course_Title=FileMaker: Tips, Tricks, and Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're comfortable with FileMaker basics, then you're ready for the next step. Learn tips, tricks, and advanced techniques for Claris FileMaker 19—the latest version of the FileMaker platform used all around the world. FileMaker expert Cris Ippolite reveals solutions to maximize your efficiency and make your FileMaker apps more dynamic and sophisticated. Explore advanced techniques using scripts, calculations, reports, and layouts. In addition, you can explore important security tips and learn the publishing options offered by FileMaker Server, including FileMaker WebDirect and FileMaker Go for iOS. Cris also shows you how to connect to other databases and exchange data with APIs, as well as how to use JSON data and JavaScript in your custom apps.

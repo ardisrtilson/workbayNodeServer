@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Flett
+Course_ID=681094
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Animations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By bringing your designs to life with animation, you can communicate precisely how your product should move—and show off how your product works in general. SOLIDWORKS offers tools and functions that can help engineering, design, and product teams generate animations of existing designs. In this course, learn what you need to know to create animations with this powerful 3D CAD software. Instructor Justin Flett steps through how to generate simple animations with the Animation Wizard, as well as how to create more complex animations using manual techniques and motion drivers. Plus, learn about basic physics-based motion and walkthrough animations.

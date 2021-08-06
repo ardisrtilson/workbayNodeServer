@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark W. Gray
+Course_ID=585271
+Course_System=linkedin.com
+Course_Title=Learning Video Live Streaming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using little more than a smartphone, it's now possible to produce a live broadcast that can be viewed by anyone with a connected device. In this course, learn tools and techniques for live streaming video content on the internet. Mark W. Gray provides a detailed walk-through of how to set up and start a live webcast using a variety of inexpensive software solutions, including Wirecast Go, Periscope, and Open Broadcaster. Plus, he shares best practices for both mobile and desktop streaming, and discusses strategies for connecting with a live audience.

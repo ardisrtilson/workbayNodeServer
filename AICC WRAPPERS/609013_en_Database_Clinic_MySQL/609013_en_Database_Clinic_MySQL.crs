@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brad Wheeler
+Course_ID=609013
+Course_System=linkedin.com
+Course_Title=Database Clinic: MySQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Database Clinic series pits experts and their databases of choice against a series of the same challenges, to highlight the unique capabilities of each database. In this installment of the series, Brad Wheeler demonstrates how MySQL—one of the most widely-used database programs—would rise to meet each task. After going over the strengths and weaknesses of MySQL, Brad shows how to create a database, and quickly load data into MySQL. He also explains how to join data sets; how to search, transform, and perform calculations with your data; and how to use external programming tools to interact with MySQL.

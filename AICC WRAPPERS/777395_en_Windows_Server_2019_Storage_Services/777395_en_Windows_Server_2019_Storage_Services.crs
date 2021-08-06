@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=777395
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Storage Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Efficient and secure storage is a key piece of any enterprise network. That's why IT managers look for admins that have mastered the ability to configure file and storage solutions on Windows Server 2019. In this course, Robert McMillen shows current and future Windows administrators how to approach NFS, storage pools, virtual storage, RAID, and more in Windows Server 2019. He covers basics such as volumes, disks, and the command-line utilities you need to format disks and edit files. He also explores advanced file services, data deduplication, virtual storage with Hyper-V, and working with alternative solutions such as RAID storage.

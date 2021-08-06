@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Kasperowski
+Course_ID=5028637
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Extreme Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Agility is a necessity in modern software development. Extreme programming (XP) helps teams achieve agility, with higher quality, fewer bugs, and greater flexibility. XP uses ideas from other project management methodologies and takes them to an “extreme” level in order to achieve maximum impact. This course introduces the basic tenets of XP, for software developers, team leads, agile coaches, and others who want to start integrating XP at their organizations. Learn about the history, values, and mindset of XP, and dive into specifics such as user stories, release and iteration planning, test-driven development, pair programming, refactoring, and continuous integration. Each lesson helps you understand the core concepts of XP, so you can start building it into the foundation of your development cycle.

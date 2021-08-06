@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Hubbert Smith
+Course_ID=616733
+Course_System=linkedin.com
+Course_Title=Cert Prep: SNCP Foundations (S10-110)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the SNIA Storage Networking Certified Professional (SNCP) credential demonstrates that you have a solid understanding of the basic components of storage networks, storage protocols, and disaster recovery. In this course, learn about foundational storage administration concepts, and prepare for the SNIA Storage Networking Foundation (S10-110) exam—the test you must pass in order to earn the SNCP credential. Instructor Hubbert Smith discusses storage administration as a career, and goes into the value of certification. He also covers consolidation and service level agreements, storage performance, RAID and storage networks, Block IO and File IO, putting a SAN together, and more.

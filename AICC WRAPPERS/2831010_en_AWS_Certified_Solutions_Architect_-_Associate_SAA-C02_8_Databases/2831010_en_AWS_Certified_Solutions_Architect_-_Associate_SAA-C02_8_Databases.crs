@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2831010
+Course_System=linkedin.com
+Course_Title=AWS Certified Solutions Architect - Associate (SAA-C02): 8 Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the essentials of database design, implementation, and management in AWS. This course is part of a nine-part series to help you prepare for the 2020 version of the AWS Certified Solutions Architect - Associate (SAA-C02) exam. Instructor Tom Carpenter goes over key concepts and terminology, including different database types, database hosting methods, high-availability solutions for databases in AWS, and database security considerations, as well as key database solutions such as Aurora, Redshift, and DynamoDB. He then steps through an AWS database deployment, discussing how to create, configure, back up, restore, and monitor an AWS RDS database. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

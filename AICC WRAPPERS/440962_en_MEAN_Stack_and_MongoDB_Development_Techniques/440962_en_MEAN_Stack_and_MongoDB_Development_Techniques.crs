@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=440962
+Course_System=linkedin.com
+Course_Title=MEAN Stack and MongoDB: Development Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MEAN combines MongoDB, Express.js, AngularJS, and Node.js into a single, full­stack solution for JavaScript development. This course introduces development techniques that capitalize on the strengths of every layer in the MEAN stack, using a simple discussion board project that exchanges data between a browser­based client and an API service using JWT or token authentication to register users and to provide access to secure service resources. Learn how to create a form for users to post topics and replies, process the submissions on the back end, and store and display the data. Author Alexander Zanfir also shows how to create registration and login components to authenticate users. These techniques can be reused and recombined in your own MEAN­based web applications.

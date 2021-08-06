@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=2873198
+Course_System=linkedin.com
+Course_Title=iOS 14 Development Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Todd Perkins helps you get started developing applications for iOS devices. Xcode is the official Apple tool for developing iOS applications. Todd explains where you can download it, what templates and settings to use, how to customize the Xcode interface, and how to get your app running in the Xcode Simulator. Next, Todd goes into storyboards, which are the standard for creating iOS layouts. Todd covers the basics of working with storyboards, including how to connect a user interface object to your code, how to respond to a button press, how to capture and use data from a text field, and more. SwiftUI, like storyboards, is used to create iOS layouts. SwiftUI uses a Swift language-based declarative syntax for creating user interfaces. Todd explains the basics of working with stacks in SwiftUI, then covers attributes, images, and binding. He describes how to use list views, detail views, and popover views in SwiftUI, then concludes with next steps.

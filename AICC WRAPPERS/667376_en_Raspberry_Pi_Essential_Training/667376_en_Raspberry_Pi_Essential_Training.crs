@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=667376
+Course_System=linkedin.com
+Course_Title=Raspberry Pi Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Raspberry Pi is a tiny, inexpensive computer that can unlock big possibilities. In this course, kick-start your journey into the world of physical computing by learning how to set up, configure, and experiment with a Raspberry Pi. Mark Niemann-Ross discusses the equipment required to run your Pi, sharing how to select a monitor, memory card, and keyboard, among other accessories. He discusses how to boot up your Pi, touches on the benefits of Virtual Network Computing (VPN), and shares how to make your Pi play sounds. Plus, explore basic electronics with the different General Purpose Input-Output (GPIO) pins and learn how to set up and work with the Raspberry Pi Camera Module.

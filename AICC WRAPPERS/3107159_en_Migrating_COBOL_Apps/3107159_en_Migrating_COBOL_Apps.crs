@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=3107159
+Course_System=linkedin.com
+Course_Title=Migrating COBOL Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Despite the arrival of myriad new and modern languages, COBOL still rules many government and legacy computing systems. Many of these systems are due to be retired, and the organization's applications must be migrated to a modern environment. In this course, learn about the ways in which developers can migrate legacy COBOL applications, the challenges in doing so, and techniques and tips for succeeding in a smooth transition. Discover various techniques and tools you can use to analyze legacy COBOL source code. Explore how to use visualization to better understand legacy code; how to extract code into a subprogram; how to effectively refactor code; and more. Get insight into some automated migration tools that streamline the process. Plus, instructor Malcolm Shore steps through the process of migrating some legacy-style COBOL application demonstrating key tools and processes along the way.

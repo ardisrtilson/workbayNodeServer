@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=622080
+Course_System=linkedin.com
+Course_Title=Exchange 2016: Coexistence, Hybrid Scenarios, Migration, and Federation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance your understanding of the coexistence features of Microsoft Exchange Server 2016. This course maps to the sixth domain of Exam 70-345, Designing and Deploying Microsoft Exchange Server 2016—implement and manage coexistence, hybrid scenarios, migration, and federation. Scott Burrell covers Office 365 hybrid configuration, Exchange federation, and coexistence with earlier versions of Exchange. Plus, he discusses the paths to migrate supported versions of Exchange to Exchange 2016, how mailboxes and legacy public folders are migrated, and more.

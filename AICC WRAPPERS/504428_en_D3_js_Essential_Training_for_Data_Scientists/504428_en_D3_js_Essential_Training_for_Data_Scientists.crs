@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emma Saunders
+Course_ID=504428
+Course_System=linkedin.com
+Course_Title=D3.js Essential Training for Data Scientists
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your visualizations beyond boring charts. D3.js enables you to create spatial maps, tree diagrams, stack charts, and more, all with a web browser and a few lines of code. There's something for everyone in data science: statisticians, scientists, mathematicians, and analysts. D3.js Essential Training for Data Scientists unlocks the keys to this versatile approach. Follow along with data consultant Emma Saunders as she shows how to build beautiful and interactive data visualizations with D3. Start off with a review of HTML, CSS, and JavaScript—some basic coding skills you need to use the D3 library. Then learn how to make a simple bar chart and create basic shapes and text. Emma also introduces the path function and the power of generators for drawing more complex shapes. Then find out how to pull in JSON, XML, and CSV files to create more complex graphics such as tree and Voronoi diagrams, and manipulate your data for advanced graphics using map, stack, and nest functions. The course wraps up with tips for adding interactivity and picking the right graphic for your data.

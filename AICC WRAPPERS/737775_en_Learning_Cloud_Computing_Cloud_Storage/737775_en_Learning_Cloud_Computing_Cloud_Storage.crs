@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=737775
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Cloud Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Storage is one of the most widely utilized cloud-computing services. Companies are eager to take advantage of object-based storage with unlimited scalability—and IT professionals are the ones who need to make it work. This course covers the basics of cloud storage, including storage planning, budgeting, and security. Instructor David Linthicum demos account creation and management with Amazon Web Services, but the lessons are high level and applicable to almost any cloud solution. Learn about file, block, and object storage; explore planning and requirements gathering; and review three practical use cases for cloud storage, including one featuring logging and other storage management subsystems.

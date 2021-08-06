@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2887136
+Course_System=linkedin.com
+Course_Title=Database Foundations: Application Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While learning about the individual components of a software development stack like databases, programming languages, and interfaces is important, combining multiple technologies that each contribute a piece to the whole is where all the knowledge really comes together. In this fifth and final course of his Database Foundations series, database expert Adam Wilbert explores the role of relational databases in the larger landscape of application development. He examines the architecture of modern apps and how databases integrate with presentation and logic, and how all these building blocks of software development fit together. To do so, Adam shows two different approaches of how to integrate a database with a web server and details the components that allow you to build custom interfaces for your data, in order to provide end users access to your databases from any web browser.

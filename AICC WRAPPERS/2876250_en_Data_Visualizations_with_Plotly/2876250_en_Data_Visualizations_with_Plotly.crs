@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Brett Vanderblock
+Course_ID=2876250
+Course_System=linkedin.com
+Course_Title=Data Visualizations with Plotly
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Plotly, you can make charts and share graphs, so that your colleagues and friends can see your work. In this course, instructor Brett Vanderblock shows you how to evaluate what graph types to use in various situations, deploy Plotly for your own initiatives, and develop your own interactive graphs. Plotly is a data visualization library. Brett walks you through its key attributes and how to start using it. Creating charts is easy with Plotly, and Brett introduces you to basic charts, statistical charts, 3D plotting, mapping, and more. He shows you how to add interactive dropdowns and buttons to your charts and graphs, as well as how to create subplots and create a dashboard to combine visualizations. This course was created by Madecraft. We are pleased to host this training in our library.

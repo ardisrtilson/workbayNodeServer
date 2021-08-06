@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Greg Sowell
+Course_ID=421804
+Course_System=linkedin.com
+Course_Title=Networking Foundations: Network Media (LANs)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to connect and secure a LAN (local area network), WAN (wide area network), or wireless area network. LANs and WANs are necessary to connect the computers in an organization: to each other, to printers and servers, to the Internet, and to the world. Whether you need to set up a simple LAN at your home or a complicated cable system for an entire office, this course will provide the training you need to set up different kinds of networks. Author Greg Sowell introduces the various network cables and connectors, from coaxial to Cat 5, and discusses how to set up a wireless network, including coverage of the 802.11 standards and security considerations. Need to go long? The course concludes with coverage of fiber-optic media, which improves data transmission over long distances.

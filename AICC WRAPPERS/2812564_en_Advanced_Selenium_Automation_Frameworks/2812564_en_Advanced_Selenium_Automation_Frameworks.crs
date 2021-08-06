@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jain Waldrip
+Course_ID=2812564
+Course_System=linkedin.com
+Course_Title=Advanced Selenium: Automation Frameworks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Automation is about three things: balance, timing, and reaction. Selenium is the automation tool that allows you to combine all three aspects into testing. By integrating Selenium with popular languages like Java, Ruby, and Node.js, you can develop a custom test automation framework suitable for testing the most complex web and mobile apps. In this course, instructor Jain Waldrip walks you through the creation of a simple automation framework with each of these three languages. Learn how to install the necessary tools—including the dependency manager, unit test framework, and libraries for each language—and start writing tests. The end result is a viable MVP you can use to evaluate your options or develop into your own custom solution.

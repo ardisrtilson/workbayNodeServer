@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charbel Nemnom
+Course_ID=2880177
+Course_System=linkedin.com
+Course_Title=Azure Storage Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Storage is a Microsoft cloud storage solution for modern data storage scenarios. Azure Storage offers a massively scalable object store for data objects, a file system service for the cloud, a messaging store for reliable messaging, and a NoSQL store. This course gives a broad level of knowledge on the overall landscape of Azure Storage, as well as an introduction to all the concepts. Instructor Charbel Nemnom focuses on providing hands-on knowledge to employ and manage data storage strategies on Azure effectively, and the latest and greatest features of Azure storage has to offer for IT professionals and developers. In particular, you can explore Azure Blob Storage, Azure Files, and Azure Queues, as well as security, import and export, and backup services for Azure Storage. By the end of the course, you’ll have everything you need to build and manage your own Azure Storage solutions.

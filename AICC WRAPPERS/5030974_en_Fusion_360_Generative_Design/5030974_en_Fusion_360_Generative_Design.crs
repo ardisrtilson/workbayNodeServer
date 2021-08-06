@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=5030974
+Course_System=linkedin.com
+Course_Title=Fusion 360: Generative Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Generative design technology gives engineers and designers an artificial intelligence copilot that presents solution options to engineering problems. In this course, learn when and how to leverage the generative design capabilities in Fusion 360. Instructor Thom Tremblay shows how to prepare a generative study for a model, define all the parameters for it, and generate a solution set. He then shows how to assess the study's results, adjust your design, and examine the new design using finite element analysis (FEA). Plus, learn about a few advanced generative design workflows, including how to clone an existing study and use it as a starting point for future studies with different values.

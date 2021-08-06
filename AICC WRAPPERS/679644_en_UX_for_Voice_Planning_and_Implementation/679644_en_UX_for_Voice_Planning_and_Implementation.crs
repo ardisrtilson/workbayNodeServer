@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=679644
+Course_System=linkedin.com
+Course_Title=UX for Voice: Planning and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The number of voice-controlled apps and devices is growing by leaps and bounds. To build successful user experiences for voice, you need to focus on understanding, accuracy of response, and ease of conversation. Join Emmanuel Henri for this introduction to UX design for voice-directed AI. Learn how machines comprehend audio instructions and explore the frameworks and tools available to UX designers and developers. Discover how understanding, personality, and accuracy affect the quality of the user experience, and find out how to engineer more successful interactions with voice-activated systems.

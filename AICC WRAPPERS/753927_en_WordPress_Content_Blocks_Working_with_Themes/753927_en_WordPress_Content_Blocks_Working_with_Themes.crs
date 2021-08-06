@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=753927
+Course_System=linkedin.com
+Course_Title=WordPress Content Blocks: Working with Themes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building and styling WordPress sites has changed drastically with the introduction of Gutenberg, the block editor. New and older WordPress themes can be updated and integrated with the block editor to create unique and customized user experiences for content creators and visitors alike. This course demonstrates how to add block editor support to themes and customize the new block styles in a safe way. Join Morten Rand-Hendriksen as he shows how to add support and styles for wide alignment, theme-specific colors and fonts, and features such as responsive embedding. Plus, learn how to extend block styles with CSS and add style variations to individual block elements.

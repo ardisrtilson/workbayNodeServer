@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Geller
+Course_ID=122927
+Course_System=linkedin.com
+Course_Title=Drupal 8 Essential Training: 2 Building Out Your Website
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Your Drupal site is built. Now what? Web design doesn't stop once the website is launched. Learn how to build out your Drupal site to better fit your visitors' needs. In these tutorials, Tom Geller helps new Drupal designers change the layout and design elements of their sites, control visitor interactions (including comments), arrange content in user-friendly views, and expand the site's capabilities beyond what's available in core Drupal with Drupal modules. In all the steps you'll learn best practices to ensure your sites remain streamlined, secure, and up to date. If you want to start from the beginning and create your Drupal site from scratch, check out Drupal 8 Essentials 1: Getting Started.

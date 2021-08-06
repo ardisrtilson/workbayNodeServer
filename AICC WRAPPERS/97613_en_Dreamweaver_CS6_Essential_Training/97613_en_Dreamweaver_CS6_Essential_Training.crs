@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=97613
+Course_System=linkedin.com
+Course_Title=Dreamweaver CS6 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to build web sites, prototypes, and more in this course on Adobe Dreamweaver CS6. Author James Williamson shows designers how to take control of their site by properly naming and structuring files and folders; how to create new documents and web pages from scratch or with starter pages; and how to add content such as text, images, tables, and links. James also provides a background on the languages that power projects built in Dreamweaver—HTML and CSS—and introduces the programming features in the application, for developers who want to dig right into the code. The last chapter shows how to finesse your project with interactive content such as CSS3 transitions and Spry widgets.

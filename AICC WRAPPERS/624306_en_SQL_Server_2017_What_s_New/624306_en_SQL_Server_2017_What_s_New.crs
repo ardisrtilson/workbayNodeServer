@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=624306
+Course_System=linkedin.com
+Course_Title=SQL Server 2017: What's New
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server 2017 is the start of the new annual release strategy by Microsoft. SQL developers no longer have to wait two or three years for enhancements. See what's new and notable in the 2017 release, in this overview with Adam Wilbert. See the new Linux compatibility in action, as Adam shows how to install SQL Server on Ubuntu, and learn how to use the machine learning services package, which includes R and Python scripting. Then find out how to use graph databases to model many-to-many relationships as nodes and edges. Adam also reviews the smaller enhancements like automatic query performance tuning and the new dynamic management views.

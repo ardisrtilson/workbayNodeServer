@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=681087
+Course_System=linkedin.com
+Course_Title=3ds Max: Substance to Arnold
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Substance tools are now an industry standard when it comes to texturing 3D geometry in all areas of 3D. As Autodesk now includes the Arnold renderer as part of the base 3ds Max package, understanding how to use these two toolsets together is a must. In this course, discover how to use the substance-based toolset from Allegorithmic in conjunction with the Arnold renderer in 3ds Max. Instructor Brian Bradley explores the various workflow requirements and options for using the Substance Bitmap2Material and Designer applications with 3ds Max and Arnold.

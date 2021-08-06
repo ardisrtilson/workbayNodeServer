@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eran Stern
+Course_ID=155266
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Shape Animation in After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are some big advantages to using shape layers in After Effects: precise, fast rendering; compatibility with Illustrator; and smaller file sizes. Their vector quality means the artwork can be scaled to any size while remaining crisp and sharp. And they work with third-party effects and support layer styles. Take a deep dive and explore how to use the shape tools to communicate ideas in an uncluttered way and make complex animations simple. Eran Stern shows how to create custom wipe animations, use mathematical operations to animate shapes and paint them in over time, and morph between vector shapes.

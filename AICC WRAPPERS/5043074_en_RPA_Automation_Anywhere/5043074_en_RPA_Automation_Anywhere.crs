@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Automation Anywhere
+Course_ID=5043074
+Course_System=linkedin.com
+Course_Title=RPA: Automation Anywhere
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Robotic process automation (RPA) is revolutionizing business processes everywhere. Automation Anywhere is enterprise-grade RPA software that puts automation in the hands of your workers—without sacrificing reliability or security. This course introduces learners to the potential for automating repetitive tasks using Automation Anywhere. Review the components of Automation Anywhere architecture, and then discover how to create a bot step by step. You can study the three case studies included with the course to better understand how the automation process can be customized for your business.

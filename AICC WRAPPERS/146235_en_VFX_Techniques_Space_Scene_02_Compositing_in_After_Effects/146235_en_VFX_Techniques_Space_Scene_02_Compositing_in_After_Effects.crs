@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=146235
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Space Scene 02 Compositing in After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What makes a 3D space battle even more spectacular? Compositing in Adobe After Effects. Learn to take the render-pass sequences of the spaceship versus asteroid scene you created in part 1 of this series, VFX Techniques: Space Scene 01: Maya Animation and Dynamic Simulation and recombine them in After Effects. Author Lee Lanier shows how to integrate shading and color in your render passes, animate the flames emitting from the spaceship, and create a particle simulation that makes the asteroid explosion seem more realistic. You'll also learn to replicate glows, lens flares, film grain, and camera motion along the way.

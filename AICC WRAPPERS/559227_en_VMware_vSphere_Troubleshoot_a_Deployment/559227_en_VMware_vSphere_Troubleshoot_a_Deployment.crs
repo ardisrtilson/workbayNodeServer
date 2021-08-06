@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=559227
+Course_System=linkedin.com
+Course_Title=VMware vSphere: Troubleshoot a Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+System admins who have a background in vSphere know that setup and configuration is just the beginning. Beyond that is deployment, implementation, and troubleshooting. This course covers troubleshooting vSphere and deploying virtual machines and resources. Learn how to troubleshoot issues related to virtual machine performance, virtual networking, and shared storage. Get techniques you can use for working with vCenter, virtual machines, ESXi, clusters, and more. This course is an exam preparation resource, as it maps to the VCP6-DCV exam section: Troubleshoot a vSphere Deployment.

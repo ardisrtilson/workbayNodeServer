@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2807864
+Course_System=linkedin.com
+Course_Title=Learning System Center Configuration Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+System Center Configuration Manager (SCCM) allows system admins to manage large groups of operating systems. In addition, it provides remote control, patch management, software distribution, operating system deployment, network access protection, and hardware and software inventory. In this course, instructor Robert McMillen goes over the basics of the 2019 release of SCCM. Robert highlights new features in SCCM 2019, covers the prerequisites for SCCM installation, and shows how to configure boundaries, boundary groups, and users. He demonstrates how to deploy operating systems (including Windows 10) and packages, as well as how to manage clients through the SCCM console. Plus, he shows how to use SCCM for inventory, set up a compliance baseline, and monitor distributions.

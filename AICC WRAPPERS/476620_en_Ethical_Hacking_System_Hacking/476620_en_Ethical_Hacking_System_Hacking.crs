@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=476620
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: System Hacking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+System hacking is the way hackers get access to individual computers on a network. Ethical hackers learn system hacking to detect, prevent, and counter these types of attacks. This course explains the main methods of system hacking—password cracking, privilege escalation, spyware installation, and keylogging—and the countermeasures IT security professionals can take to fight these attacks. Security expert Lisa Bock also covers steganography, spyware on a cell phone, and tactics for hiding files and tools. These tutorials, along with the other courses featured in the Ethical Hacking series, will prepare students to pass the Certified Ethical Hacker exam and start a career in this in-demand field. Find out more about the exam at https://www.eccouncil.org/programs/certified-ethical-hacker-ceh.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=679643
+Course_System=linkedin.com
+Course_Title=Angular: Building on Azure Microservices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular and .NET might seem like an unlikely pair, but using the best features of each framework, you can build smart, sleek applications and APIs. With the addition of Microsoft Azure, you have a robust and easy-to-use hosting option for your projects. In this course Robby Millsap shows how to develop secure .NET services with Angular and Azure. In the first part, he builds an Angular app on top of .NET; in the second, he constructs an API using .NET Core. Along the way, he shows how to secure your apps with Auth0, and deploy them using a continuous integration workflow with Visual Studio Team Services and GitHub. Plus, learn how to test your applications from front to back, and access libraries that will make your job that much easier. At the end of the course, you'll have skills to connect the popular Angular framework to key services in Microsoft ecosystem.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=OSTraining, Rod Martin
+Course_ID=2877317
+Course_System=linkedin.com
+Course_Title=Drupal 9 Essential Training: 2 Content and Fields
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While content and fields don’t sound like the most exciting part of a website, these are absolutely core to the entire understanding of how to use a content management system like Drupal. In this course, Rod Martin gives an introduction to the idea of structured content and content types in Drupal. Rod demonstrates the importance of categorization by creating a number of different types, then adds fields that will hold the data for each content type. He also introduces the WYSIWYG editor, shows how to configure text formats, and highlights the importance of planning out your content types to ensure the completion of all the tasks you set out to complete. At the end, he shows how to quickly test the content created throughout the course. Note: This course was created by OSTraining. We are pleased to host this training in our library.

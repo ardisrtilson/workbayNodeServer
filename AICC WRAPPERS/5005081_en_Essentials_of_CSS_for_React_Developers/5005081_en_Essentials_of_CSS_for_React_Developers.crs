@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Greene
+Course_ID=5005081
+Course_System=linkedin.com
+Course_Title=Essentials of CSS for React Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the essentials of using CSS in React. In this course—part of a larger series on CSS for React developers—instructor Eric Greene acquaints programmers with the fundamentals of this essential stylesheet language, and how you can use it to create more stylish apps. After providing a general overview of CSS, Eric demonstrates how to set up a development environment, discusses styling HTML and React elements, and shows how to move your CSS to an external file and incorporate that into your project. Plus, he covers how to use CSS with webpack and goes over basic selectors and styles. Note: This course was created by Wintellect. We are pleased to host this training in our library.

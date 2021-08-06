@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David D. Levine
+Course_ID=170336
+Course_System=linkedin.com
+Course_Title=Learning vi
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Although other text editors may be easier to use, vi is built into all Unix systems (including Linux and Mac OS). Knowing a few basic vi commands guarantees you'll be able to work with these systems when no other editor is installed. In this course, David D. Levine shows you how to get in and out of vi, switch modes, and start editing files in place. Learn how to change text within a file, use commands like undo and yank, find and replace text, and invoke more advanced Unix commands. Although it may be arcane, vi is still the standard text editor for all Unix systems. Start learning it now and run your systems more smoothly in the future.

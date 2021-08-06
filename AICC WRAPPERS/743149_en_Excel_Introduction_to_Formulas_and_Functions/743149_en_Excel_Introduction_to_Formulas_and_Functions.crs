@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=743149
+Course_System=linkedin.com
+Course_Title=Excel: Introduction to Formulas and Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To unlock the power of Excel, you need to use formulas and functions. These calculation tools help you bring information to the surface and make better decisions. Excel: Introduction to Formulas and Functions shows beginner-level users how to summarize and analyze data with these powerful data analysis features. Instructor Curt Frye shows how to create formulas with mathematical operations such as addition, subtraction, multiplication, and division, and how to use cell references in your formulas. He explains how to summarize data with functions like SUM and AVERAGE, and work with data in named ranges and Excel tables. Curt also covers procedures to ensure data integrity, such as data validation, and demonstrates auditing techniques to ensure formulas are correct. Plus, get an introduction to the What-If Analysis toolset, in an example that combines scenarios, data tables, and Goal Seek to generate accurate revenue projections. Note: This course was recorded on Excel for Office 365. Most of the course contents will also be useful to those working with the most recent standalone versions of Office, including Office 2019 and 2016.

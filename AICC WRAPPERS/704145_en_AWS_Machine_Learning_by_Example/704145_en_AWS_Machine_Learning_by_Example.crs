@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=704145
+Course_System=linkedin.com
+Course_Title=AWS Machine Learning by Example
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a deeper dive into machine learning with Amazon Web Services (AWS). In this practical course, instructor Jonathan Fernandes helps to familiarize you with common machine learning tasks, demonstrating how to approach each one using key techniques: binary classification, multiclass classification, and regression. Throughout the course, he walks through several examples, using Kaggle datasets for hands-on exploration. Plus, he reviews some essential machine learning concepts and helps to familiarize you with other AWS capabilities, including SageMaker and Deep Learning AMIs.

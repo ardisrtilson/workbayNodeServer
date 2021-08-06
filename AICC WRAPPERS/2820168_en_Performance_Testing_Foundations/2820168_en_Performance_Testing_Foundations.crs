@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Westerveld
+Course_ID=2820168
+Course_System=linkedin.com
+Course_Title=Performance Testing Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Slow loading times can drive users away from even the most elegant website or application. But how can you pinpoint where your product's performance issues lie? In this course, join Dave Westerveld as he details the fundamentals of performance testing, including when and how to use the different types of tests and tools at your disposal. Discover how to determine what to measure and how to monitor the results of your tests. Explore the different types of performance testing—including load, stress, and scalability tests—and the contexts in which it's appropriate to use each of them. Plus, learn about a broad set of tools and how to pick the right one for the work you need to do.

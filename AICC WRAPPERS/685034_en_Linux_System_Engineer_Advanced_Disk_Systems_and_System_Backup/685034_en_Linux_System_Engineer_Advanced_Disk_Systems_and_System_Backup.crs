@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=685034
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Advanced Disk Systems and System Backup
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Master disk systems and system backup techniques for Red Hat Enterprise Linux (RHEL)—one of the most popular Linux distributions. Computer science instructor and Linux enthusiast Grant McWilliams covers creating and resizing BIOS and GPT partitions, optimizing and repairing EXT and XFS file systems, and reaping the advantages of volume management using LVM. Learn how to increase or shrink existing logical volumes as well as replace physical drives in volume groups. Grant also shows how to create RAID 0 and RAID 5 arrays, and use snapshots to back up and restore a Linux system. He also uses merge snapshots to roll back a system disk image. Plus, learn alternate backup methods with tar, the xz compressor, and dump and restore commands. Note: This course also helps you study to pass the Red Hat Certified Engineer (RHCE) exam—the benchmark certification for Red Hat Enterprise Linux.

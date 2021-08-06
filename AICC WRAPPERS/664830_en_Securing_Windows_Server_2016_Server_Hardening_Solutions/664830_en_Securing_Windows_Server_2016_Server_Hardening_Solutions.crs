@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=664830
+Course_System=linkedin.com
+Course_Title=Securing Windows Server 2016: Server Hardening Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Maintaining a secure server environment is one of the most crucial tasks for professionals charged with administering enterprise networks. In this course, learn about server hardening solutions for Windows Server 2016. Ed Liberman explains how to configure file and disk encryption, as well as how to configure patches and updates. Plus, he covers implementing antimalware.

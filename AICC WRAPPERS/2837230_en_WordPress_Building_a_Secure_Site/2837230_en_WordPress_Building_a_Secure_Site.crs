@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Allie Nimmons
+Course_ID=2837230
+Course_System=linkedin.com
+Course_Title=WordPress: Building a Secure Site
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building a secure website is a required skill for anyone who develops websites. In this course, instructor Allie Nimmons walks you through how to build and launch a secure website with WordPress. Allie explains what to look for when you are shopping for a secure hosting provider for your website. She points out what practices are most important to protect your site from WordPress vulnerabilities, then goes into tools to secure WordPress user accounts and login screens. Allie covers all the basics about SSL certificates and discusses best practices for keeping WordPress plugins and themes secure. She tells you why spam comments pose a threat to WordPress sites and explains how to prevent and remove them. Allie steps through best practices for making backups, as well as tools for setting up a WordPress firewall. She concludes with steps you can take to make your ecommerce site and your WordPress files more secure.

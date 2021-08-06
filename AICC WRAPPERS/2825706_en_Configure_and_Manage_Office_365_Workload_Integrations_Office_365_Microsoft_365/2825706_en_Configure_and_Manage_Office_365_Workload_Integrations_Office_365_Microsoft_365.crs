@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2825706
+Course_System=linkedin.com
+Course_Title=Configure and Manage Office 365 Workload Integrations (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+On their own, Office 365 tools such as Teams and Power Apps can help organizations boost collaboration and productivity. In this course, discover how to make these Microsoft tools and services even more powerful by effectively configuring and managing Office 365 workload integrations. Instructor Ed Liberman provides IT pros with an overview of integration points with apps and services such as Power Automate (formerly Flow), Yammer, Stream, and Teams, explaining what it takes to make one app integrate data from another Office 365 app. These workloads focus on efficient and effective collaboration and adoption across these team communication and collaboration tools.

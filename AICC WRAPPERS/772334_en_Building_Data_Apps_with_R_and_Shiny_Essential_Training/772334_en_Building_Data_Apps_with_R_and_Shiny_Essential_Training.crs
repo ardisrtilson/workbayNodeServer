@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charlie Joey Hadley
+Course_ID=772334
+Course_System=linkedin.com
+Course_Title=Building Data Apps with R and Shiny: Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Shiny allows R data science teams to build interactive data-driven web apps without needing to learn HTML, CSS, or JavaScript. It is a powerful and versatile tool that is often used for R&D, data analysis, and even external marketing purposes. If you have a good understanding of the R language and know how to separate client-side code from server-side, you are ready to dive into this course and build a Shiny app. Martin John Hadley covers organizing single and split-file apps, managing data tables, using APIs to get data into an app, adding data controls, deploying an app, and more.

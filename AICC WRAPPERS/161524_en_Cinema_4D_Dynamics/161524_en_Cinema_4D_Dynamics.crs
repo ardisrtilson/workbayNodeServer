@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thanassis Pozantzis
+Course_ID=161524
+Course_System=linkedin.com
+Course_Title=Cinema 4D: Dynamics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CINEMA 4D dynamics are powerful, but easy to understand and fun to play with. In this course, Thanassis Pozantzis shows you how to use dynamics to create physically accurate object animations, using real-world physics like gravity, collisions, and bounces. Learn how to work with forces like initial velocity, create more complex objects like hierarchies and static objects, and use dynamics with MoGraph clones and particle systems. You'll also get a look at eight of the major physical properties, learn how to connect your simulation to keyframe-animated objects, and trigger dynamics. After the completion of this course, you should be able to create complex dynamic simulations setups. The possibilities are limited only by your imagination. This course was created by Thanassis Pozantzis. We're honored to host this training in our library.

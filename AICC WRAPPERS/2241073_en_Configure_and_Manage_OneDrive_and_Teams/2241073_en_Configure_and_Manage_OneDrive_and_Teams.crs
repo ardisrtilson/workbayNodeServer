@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2241073
+Course_System=linkedin.com
+Course_Title=Configure and Manage OneDrive and Teams
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft OneDrive and Teams are significant components of Microsoft 365 teamwork solutions. OneDrive is a cloud storage platform that allows users to easily store, sync, and share files, and Teams is a communication platform that makes it easy for teams around the world to connect. In this course, join Ed Liberman as he shows how to configure and manage OneDrive and Teams. Learn about the key features of both OneDrive for Business and Teams, how to prepare for a Teams deployment, how to configure and manage Teams, and more.

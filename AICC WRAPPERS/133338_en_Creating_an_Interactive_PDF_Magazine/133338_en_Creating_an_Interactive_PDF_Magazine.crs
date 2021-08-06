@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Rankin
+Course_ID=133338
+Course_System=linkedin.com
+Course_Title=Creating an Interactive PDF Magazine
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to take a magazine originally designed as a static Adobe InDesign document and convert it to an interactive PDF. Of all the ways to create a digital magazine, PDF is a great choice because it fully preserves the look of your print design and requires no coding to create. Author Mike Rankin walks you through 12 quick steps to transform a print magazine into a digital one, with hyperlinks, buttons, and bookmarks for navigating to content inside the catalog and out on the web. Plus, learn to add video, slideshows, and forms that can be submitted via email. Mike also shows you how to recognize and fix some real-world problems with interactive PDFs from InDesign.

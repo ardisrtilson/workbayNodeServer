@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kacie Hultgren
+Course_ID=612183
+Course_System=linkedin.com
+Course_Title=3D Scanning with a Camera
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+New consumer-grade 3D sensors make scanning objects easy. And with 3D printers, you can turn those scans into miniature replicas. In this course, Kacie Hultgren guides you through the process of creating a 3D scan that's ready for printing. Kacie shows you how to take photos of your subject and process those images using ReCap and ReMake. She uses the free software Meshmixer to demonstrate how to repair and enhance scans. Then, she takes you through the steps of 3D printing, whether you are using MakerBot to print or ordering from 3D-printing service like Shapeways. Kacie also walks through using Photoshop for full color processing of scans.

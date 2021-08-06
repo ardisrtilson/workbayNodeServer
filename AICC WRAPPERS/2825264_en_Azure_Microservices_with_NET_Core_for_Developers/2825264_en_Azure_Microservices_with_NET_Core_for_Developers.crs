@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rodrigo Díaz Concha
+Course_ID=2825264
+Course_System=linkedin.com
+Course_Title=Azure Microservices with .NET Core for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud native architectures, such as microservices, are becoming the de facto standard in the software industry—and, in today's developer environment, it's no longer only architects who need to understand its benefits and challenges. By leveraging this popular architectural pattern, developers and other key application stakeholders can enhance the availability, reliability, and scalability of their software solutions. In this course, instructor Rodrigo Díaz Concha provides an overview of microservices, as well as how to use .NET Core 3.1 to create microservices that can be deployed in Azure. Rodrigo covers key topics such as microservices pros and cons; writing unit tests; microservices containerization with Docker; microservices deployment on top of an orchestrator, such as Azure Service Fabric; and synchronous communication between microservices.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=808678
+Course_System=linkedin.com
+Course_Title=Azure Data Studio Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Azure Data Studio is a lightweight, cross-platform front end for working with SQL Server instances. It brings the power of databases to a wider audience. With Azure Data Studio, Windows, macOS, and Linux users have access to a robust GUI for managing and developing databases on SQL Server and in the cloud on Azure SQL Database. This course introduces the key features and workflows of Azure Data Studio. This includes the integrated T-SQL editor, server connection manager, built-in terminal, version control support, and more. Instructor Adam Wilbert shows you how to connect to a database server, create and edit data tables, and use the code editor to output data for Excel. Plus, learn how to work with sidebars and insight widgets and customize Azure Data Studio to meet your organization's needs.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Julianne Thouin
+Course_ID=2864257
+Course_System=linkedin.com
+Course_Title=SQL for Non-Programmers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want to learn about SQL but aren’t sure where to start? In this beginner-level course, instructor Julianne Thouin covers basic concepts of relational database design and explains how to write simple SELECT statements using joins and proper filtering. Julianne explains what SQL Server is and what it is used for. Next, she shows how tables in a relational database relate to one another through surrogate, primary, and foreign keys. Julianne teaches you how to tackle the most basic query possible. She explains how AND and OR logic applies to filtering queries on more than one data point, then discusses INNER joins and OUTER joins. Julianne covers how to use subqueries for filtering your results. She walks you through some commonly used examples of built-in functions. In conclusion, Julianne shows you how aggregate functions work using the GROUP BY and HAVING clauses.

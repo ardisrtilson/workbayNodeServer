@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Lowery
+Course_ID=114886
+Course_System=linkedin.com
+Course_Title=CSS: Formatting Visual Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having a complete toolbox at your disposal to properly structure and display data is critically important to a successful web design. In this course, author Joseph Lowery covers basic styling for numbered, bulleted, and definition lists, plus structuring and formatting tables with CSS. He also includes instructions on creating charts and graphs with the HTML5 Canvas element. Each section of the course highlights advanced CSS, HTML5, and JavaScript techniques that increase interactivity, yield responsive designs, and heighten the user experience.

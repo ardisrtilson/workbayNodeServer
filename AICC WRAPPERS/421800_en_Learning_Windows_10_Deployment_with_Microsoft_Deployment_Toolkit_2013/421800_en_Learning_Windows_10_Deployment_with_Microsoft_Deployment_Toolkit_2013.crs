@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Hester
+Course_ID=421800
+Course_System=linkedin.com
+Course_Title=Learning Windows 10 Deployment with Microsoft Deployment Toolkit 2013
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to deploy Windows 10 with Microsoft Deployment Toolkit 2013. Author and Microsoft evangelist Matt Hester provides an in-depth overview of installing and deploying Windows 10 at medium-sized organizations. He discusses the Windows deployment options, as well as the upgrade paths from Windows 8/8.1 and older version of Windows. He also covers some of the tools used to deploy Windows, including Microsoft Assessment and Planning (MAP) Toolkit, Windows Deployment Services (WDS), Microsoft Deployment Toolkit (MDT), and System Center Configuration Manager (SCCM). The course wraps up with an example of a start-to-finish organization-wide Windows deployment using MDT.

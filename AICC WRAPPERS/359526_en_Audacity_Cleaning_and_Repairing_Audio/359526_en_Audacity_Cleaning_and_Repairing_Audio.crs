@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Garrick Chow
+Course_ID=359526
+Course_System=linkedin.com
+Course_Title=Audacity: Cleaning and Repairing Audio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to improve the sounds of your audio recordings, fast? In these short tutorials, Garrick Chow shows how to clean and repair audio using Audacity's built-in tools and effects. He covers removing short clicks and pops and persistent background noise, reducing the effects of clipping and distortion, and improving your overall sound with compression, EQ, and normalization. Plus, get an inside look at a few plugins that can take Audacity (and your audio) even further.

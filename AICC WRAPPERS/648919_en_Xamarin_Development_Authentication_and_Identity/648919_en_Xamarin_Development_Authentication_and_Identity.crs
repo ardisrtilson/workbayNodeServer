@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Milner
+Course_ID=648919
+Course_System=linkedin.com
+Course_Title=Xamarin Development: Authentication and Identity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use the Xamarin.Auth library to authenticate mobile users and restrict or allow access to resources and functionality in your C# applications. This course reviews the components involved in authentication, including identity providers, OAuth, tokens, and claims, and then dives straight into working with Xamarin.Auth, from installing the necessary packages to authenticating and storing user credentials. Then learn how to centralize claims with an identity management service such as Azure Active Directory B2C, and access claims from authentication tokens in order to authorize users and personalize the user experience in your apps.

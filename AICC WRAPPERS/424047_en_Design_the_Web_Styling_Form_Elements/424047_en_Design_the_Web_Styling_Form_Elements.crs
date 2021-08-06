@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=424047
+Course_System=linkedin.com
+Course_Title=Design the Web: Styling Form Elements
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Add your own style to HTML forms with CSS. This short course from Chris Converse's Design the Web series covers the basics of styling the color, font, and focus area of different form fields, as well as adding custom graphics to form layouts. Different browsers have their own artwork and indicators, but you can make a more consistent, personalized design in just a few steps. Download the free exercise files and start watching to learn how.

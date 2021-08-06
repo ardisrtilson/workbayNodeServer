@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2823097
+Course_System=linkedin.com
+Course_Title=ABAP for SAP Users
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you a functional SAP specialist looking for technical training to improve your overall skills? Have you considered ABAP? Advanced Business Application Programming (ABAP) is a programming language for creating business applications in SAP. This introductory course helps you as a business user take the first steps into the world of ABAP. Review the structure of ABAP code. Then use ABAP to explore the database tables that lay behind SAP transactions and check their contents. Plus, discover how to stop and watch running transactions with ABAP commands. This course was created by Michael Management. We are pleased to offer this training in our library.

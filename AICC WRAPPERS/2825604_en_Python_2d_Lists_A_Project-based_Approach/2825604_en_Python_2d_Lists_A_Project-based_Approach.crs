@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Andrews
+Course_ID=2825604
+Course_System=linkedin.com
+Course_Title=Python 2d Lists: A Project-based Approach
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+2D lists are an essential data structure in programming. In this practical course, learn how to create and work with 2D lists in Python as you build a full-fledged memory game. Instructor Robin Andrews begins with the basics, explaining what 2D lists are and how to put them to work in Python. Robin quickly moves from the theoretical to the practical, delving into the specifics of creating a simple memory game based on card matching. He explains how to import modules, write functions that support the operations of your game, and validate user input. Plus, he shares strategies for refining your project. Upon wrapping up this course, you'll have a working game that serves as a testament to your enhanced understanding of 2D lists in Python.

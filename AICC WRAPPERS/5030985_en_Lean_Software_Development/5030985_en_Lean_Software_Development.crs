@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Julia Wester
+Course_ID=5030985
+Course_System=linkedin.com
+Course_Title=Lean Software Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The concept behind lean software development is simple: understand what customers want and figure out the most optimal way to deliver it quickly and sustainably. There are seven principles in lean software development to guide this optimization quest. Each principle acts as a unique lens through which you can look at the process of delivering software and see new ways to improve. In this course, instructor Julia Wester will take you through key principles from the practitioner point of view, highlighting techniques to help you jump start your lean software development journey. Learn how to identify customer needs and business goals, eliminate waste, build in quality from the start, create and share knowledge, deliver quickly, and create a culture of mutual respect. Using these principles, you can deliver better products—without sacrificing capability or quality for speed.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Walter
+Course_ID=761962
+Course_System=linkedin.com
+Course_Title=Building a Personal Portfolio with Django
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Django—an open-source web framework that's designed on top of Python—can help you quickly bring your website ideas to life. In this course, learn the basics of Django for web development by building your own website—a personal portfolio—from the ground up. Instructor Nick Walter steps through how to create a database, design the layout for your website, and add and update URL paths. Learn how to connect your Django project to Postgres, add static files and URLs, and more.

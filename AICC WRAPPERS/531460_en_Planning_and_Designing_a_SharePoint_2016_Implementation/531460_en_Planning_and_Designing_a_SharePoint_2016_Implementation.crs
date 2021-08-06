@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=CA Callahan
+Course_ID=531460
+Course_System=linkedin.com
+Course_Title=Planning and Designing a SharePoint 2016 Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint is a product that can be installed and configured over a weekend, but it won't necessarily be successful that way! SharePoint requires considerable understanding and preparation to be properly implemented and consistently adopted by users. This course covers what an admin needs to consider when planning a SharePoint 2016 implementation. First, get an overview of SharePoint, including on-premises, online, and hybrid models, and then learn about establishing hardware, software, and business requirements; designing the information, logical, and physical architecture; and planning for governance. The material in this course directly maps to exam objectives for the Managing Microsoft SharePoint Server 2016 exam (70-339), and is a great starting point for your learning path as a SharePoint administrator.

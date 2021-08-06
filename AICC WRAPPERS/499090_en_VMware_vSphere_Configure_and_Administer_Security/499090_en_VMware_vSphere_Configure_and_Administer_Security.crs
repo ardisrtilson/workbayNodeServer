@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=499090
+Course_System=linkedin.com
+Course_Title=VMware vSphere: Configure and Administer Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware is the market leader in virtualization. Their cloud­-based virtualization platform, vSphere, is the software of choice for organizations looking to go virtual. This course, by VMware Certified Instructor Rick Crisci, shows what it takes to configure and manage security in a VMware vSphere environment—a key skill for any systems administrator or virtualization pro. Rick covers managing vCenter roles and permissions, as well as local ESXi permissions and authentication. Plus, learn how to secure and harden the vSphere environment, including virtual machines, switches, services, and firewalls, and enable single sign­-on for your users. Note: This course maps to the Configure and Administer vSphere 6.x Security domain of the VMware Certified Professional 6—Data Center Virtualization (VCP6­DCV) exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=YK Sugi
+Course_ID=576698
+Course_System=linkedin.com
+Course_Title=Get Ready for Your Coding Interview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you've nabbed an interview for a software development position, it's likely that you'll have to face a common hurdle—the coding interview. If you're not sure what to expect, or you'd like to brush up on the essential topics that candidates are often tested on, then this course is for you. Follow YK Sugishita as he explains what to keep in mind as you prepare for coding interviews. YK covers useful concepts that can help you master your interview, followed by practice problems that test what you know. YK reviews key concepts such as two-dimensional arrays, time complexity, Big-O notation, and hash tables. To wrap up, he shares a few tips for acing your interview, such as how to come up with an optimal solution. Even if you're not prepping for an upcoming job interview, tackling the coding problems covered in this course is a great way to sharpen your programming skills.

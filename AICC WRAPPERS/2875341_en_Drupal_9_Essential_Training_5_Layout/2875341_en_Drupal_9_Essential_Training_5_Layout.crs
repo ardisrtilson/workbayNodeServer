@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=OSTraining, Rod Martin
+Course_ID=2875341
+Course_System=linkedin.com
+Course_Title=Drupal 9 Essential Training: 5 Layout
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a detailed look at the custom layouts you can create for your Drupal installation. In this course, instructor Rod Martin steps you through the full process, from a basic layout to customizing navigation menus. Rod begins with a look at a basic layout, then explores how to arrange displays. He explains how you can use block types. Rod shows you how to install the layout builder tool and create landing pages. He gives you an overview of views in Drupal and covers how to add a news section to your Drupal site. Rod walks you through several different views, then closes by explaining how to modify existing menus and create new ones. Note: This course was created by OSTraining. We are pleased to host this training in our library.

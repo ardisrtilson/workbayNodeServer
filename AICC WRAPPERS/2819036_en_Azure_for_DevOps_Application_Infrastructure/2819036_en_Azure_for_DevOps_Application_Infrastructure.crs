@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gurinder Singh Mann
+Course_ID=2819036
+Course_System=linkedin.com
+Course_Title=Azure for DevOps: Application Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Application infrastructure is a core tenant of DevOps, enabling teams to rapidly evolve scalable systems. App infrastructure is also a core component of the AZ-400 Microsoft Azure DevOps Solutions certification exam—and the focus of this course. Here Gurinder Singh Mann reviews the strategies, tools, and processes necessary to manage application infrastructure using the Azure DevOps tool and service set. Discover strategies for managing drift, leveraging infrastructure automation with Kubernetes, implementing infrastructure as code with Terraform, and deploying resources in a secure and compliant manner. Invest time learning these key Azure skills. The more successful your organization is developing your application infrastructure, the more performant and scalable your applications will be.

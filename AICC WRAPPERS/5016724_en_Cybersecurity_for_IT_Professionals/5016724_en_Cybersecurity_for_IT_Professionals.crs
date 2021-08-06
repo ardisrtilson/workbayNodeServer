@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=5016724
+Course_System=linkedin.com
+Course_Title=Cybersecurity for IT Professionals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Protect your network from cyberattacks. In this course, Malcolm Shore shows how to use the latest tools to discourage and combat hackers, phishers, and snoops attempting to infiltrate your Windows and Linux systems. Learn what forms cyberattacks can take, as well as the two most common types of protection you can build into your system: antivirus protection and firewalls. Then, learn how to scan your network for suspicious files, detect intruders with Netcat, and identify vulnerabilities at the host level with Nessus scans. Malcolm also shows how to combat application-level threats and monitor packet-level activity on your network.

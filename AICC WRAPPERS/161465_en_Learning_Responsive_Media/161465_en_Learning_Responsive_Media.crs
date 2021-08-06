@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Schmitt
+Course_ID=161465
+Course_System=linkedin.com
+Course_Title=Learning Responsive Media
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Why restrict yourself to inline images and static text, especially in our multidevice, multiplatform era? Responsive media allows you to share more content with more people. Learn what you need to know to build image- and typography-rich pages (with HTML5 video!) that display correctly on a wide variety of devices. Christopher Schmitt will also show you how to convert fixed-width layouts into fluid grid layouts that adapt to different screen sizes, use media queries to deliver custom design experiences, and prepare and retrieve PNG, JPEG, and SVG images so that they look their best.

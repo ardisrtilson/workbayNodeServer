@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marchela Bozhilova
+Course_ID=5016718
+Course_System=linkedin.com
+Course_Title=Introducing Blue Prism
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With robotic process automation (RPA), businesses can use software-based robotics to automate a spectrum of processes, from routine administrative tasks to more complex, decision-based core and high-value transactions. This, in turn, saves companies countless hours, enabling them to grant their employees more time to challenge themselves with more complex assignments. In this course, learn how to leverage the power of automation in your organization with Blue Prism, an industry-leading RPA tool. Marchela Bozhilova acquaints you with the tool’s key components, explaining why they’re essential to the construction of an automated process. She also discusses how to build process layers using interactions with web apps, Excel, and email; apply exception handling; and create and monitor a queue.

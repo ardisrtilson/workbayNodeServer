@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Duffy
+Course_ID=2976145
+Course_System=linkedin.com
+Course_Title=Exam Tips: Microsoft Azure Architect Design (AZ-304)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Microsoft Azure Architect: Design (AZ-304) exam tests your understanding of how to build an effective Azure strategy for an organization. It is one of two required exams for becoming a certified Azure Solutions Architect Expert. In this course, instructor and Microsoft trainer Scott Duffy provides insights into the structure of the exam, recommended prerequisites, and skills tested. Explore the main objectives in the five domains—design monitoring, design identity and security, design data storage, design business continuity, and design infrastructure—and get study tips for maximizing your performance on exam day.

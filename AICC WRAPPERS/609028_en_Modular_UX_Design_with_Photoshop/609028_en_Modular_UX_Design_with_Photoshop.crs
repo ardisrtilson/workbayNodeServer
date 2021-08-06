@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=609028
+Course_System=linkedin.com
+Course_Title=Modular UX Design with Photoshop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Photoshop offers some incredible tools for creating Photoshop Document (PSD) designs that are modular and easy to update. In this course, learn how to optimize your UX design work by leveraging a few Photoshop features—namely, Smart Objects and linked files—to create reusable elements across multiple PSDs. Join Jesse Freeman as he explains how to export and nest Smart Objects, create PSD templates, build your first modular file, reuse Smart Objects across PSDs, and more. Plus, he shares tips and tricks for keeping your design elements up to date throughout the creation process.

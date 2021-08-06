@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=2824054
+Course_System=linkedin.com
+Course_Title=Installing Apache, MySQL, and PHP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course describes how to install and configure Apache HTTP Server, MySQL database server, and PHP, known collectively as the AMP stack, on a local development computer. David Gassner covers different installation approaches, including installing the components separately on Windows, macOS, and Linux and installing the prepackaged WampServer and MAMP bundles. Plus, learn how to troubleshoot port conflicts and other AMP-related issues.

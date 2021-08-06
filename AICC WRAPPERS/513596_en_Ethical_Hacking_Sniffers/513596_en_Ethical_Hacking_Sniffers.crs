@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=513596
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Sniffers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ethical hackers: Get an inside look into the tools the black hat hackers use to sniff network traffic, and discover how to countermeasure such attacks. Security ambassador Lisa Bock explains what a sniffer is, and how hackers use it to intercept network traffic. She reviews the seven-layer OSI model, active vs. passive attacks, and the different types of protocol attacks, including MAC and macof attacks, DNS caching and forgery, DHCP denial-of-service attacks, and ARP cache poisoning. Learn how ethical hackers have an arsenal of tools to emulate these attacks and techniques, from examining headers and URLs to capturing images. Lisa relies on Wireshark, a network protocol analyzer for Unix and Windows, but also introduces other sniffing tools, including TShark, tcpdump, and CloudShark. Note: The topics in this course will prepare you for key objectives on the Certified Ethical Hacker exam. Find an overview of the certification and the exam handbook at https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/.

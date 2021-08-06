@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=5022349
+Course_System=linkedin.com
+Course_Title=Transfer Learning for Images Using PyTorch: Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+After its debut in 2017, PyTorch quickly became the tool of choice for many deep learning researchers. In this course, Jonathan Fernandes shows you how to leverage this popular machine learning framework for a similarly buzzworthy technique: transfer learning. Using a hands-on approach, Jonathan explains the basics of transfer learning, which enables you to leverage the pretrained parameters of an existing deep-learning model for other tasks. He then shows how to implement transfer learning for images using PyTorch, including how to create a fixed feature extractor and freeze neural network layers. Plus, find out about using learning rates and differential learning rates.

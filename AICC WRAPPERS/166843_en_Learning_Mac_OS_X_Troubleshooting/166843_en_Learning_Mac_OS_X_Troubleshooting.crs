@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Soldo
+Course_ID=166843
+Course_System=linkedin.com
+Course_Title=Learning Mac OS X Troubleshooting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mac OS X is famously user-friendly and largely trouble-free, but issues can still crop up now and then. That's why John Soldo has prepared a set of quick tips for troubleshooting common OS X problems. He'll cover issues that can occur during startup and when trying to connect to networks, and explain what to do when it seems like your Mac is completely bogged down. These quick and easy tips will have you back to loving your Mac, maybe even more than ever.

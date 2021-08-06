@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2834020
+Course_System=linkedin.com
+Course_Title=Learning Microsoft Power Virtual Agents
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power Virtual Agents, a new tool in the Microsoft Power Platform, allows users to create AI-based chatbots to add to their websites and applications. These agents can be programed with various actions, and also track back-end metrics for interactions with customers. Virtual Agents can easily be implemented as a part of a help desk, to aid in online sales, or even to collect prospective customer information—along with a whole lot more. And better yet, users don't need any coding or AI expertise to get started. In this course, join Gini von Courter as she details how to create powerful chatbots with Power Virtual Agents, using a no-code graphical interface. Discover how to create a bot, create and edit topics, work with conversation paths (a flow of the interactions between a bot and a user), view analytics for your bot, and more.

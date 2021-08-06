@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=518697
+Course_System=linkedin.com
+Course_Title=Windows Presentation Foundation: 1 Build Dramatic Desktop Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Presentation Foundation (WPF) in Visual Studio 2015 provides developers with a unified programming model for building rich, modern desktop applications on Windows. In this course, expert developer Walt Ritscher steps you through the details of how to create dramatic Windows user experiences using WPF and XAML. Learn the fundamentals of the framework while you follow along with Walt, building a sample app that showcases all of its most interesting features. Learn to lay out the user interface, add images and custom user controls, work with data binding and data templates, and style content. Plus, get a look at the attention-grabbing 3D and UI effects you can add with Windows Presentation Foundation.

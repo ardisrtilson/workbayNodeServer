@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Erin Allard
+Course_ID=5007864
+Course_System=linkedin.com
+Course_Title=Nail Your Python Interview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interviewing for Python programming jobs? In this course, learn what you need to know to ace your next technical interview. Instructor Erin Allard digs into the personal characteristics, nontechnical skills, and programming knowledge you need to demonstrate to land your dream gig as a Python developer. She highlights the personality traits and soft skills—such as collaboration and the ability to understand assumptions—that technical interviewers are looking for. Then, she highlights common steps in the technical interview process and covers the programming concepts you need to be able to implement for interviewers.

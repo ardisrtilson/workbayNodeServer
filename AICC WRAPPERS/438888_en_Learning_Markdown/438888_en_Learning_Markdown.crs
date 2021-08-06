@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=438888
+Course_System=linkedin.com
+Course_Title=Learning Markdown
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Markdown is a lightweight text format that allows you to create documents, rich text, or HTML markup using any plain text editor. It's easy to read, easy to write, and easy to convert into formats like PDF, Word, or HTML. It's fast becoming a standard for writers who want to focus on creating documents—not worrying about proprietary document formats. In this course, Ray Villalobos shows how to write common markdown syntax to create headlines, lists, tables, links, images, and block quotes. Then explore some of the different implementations of the language, including GitHub Flavored Markdown, MultiMarkdown, R Markdown, CommonMark, and Babelmark.

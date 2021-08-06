@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=534630
+Course_System=linkedin.com
+Course_Title=Learning C++ Pointers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Pointers are a type of variable that holds a memory address as its value. They are used to control memory allocation in resource-constrained applications. Pointers are surprisingly simple and incredibly valuable to developers who want to create smart, memory-efficient programs. Join staff instructor Peggy Fisher in these tutorials as she explores C++ pointers in depth. Learn how pointers differ from addresses and arrays, and how they are used to allocate memory both at program execution and as the program runs. Find out how to pass pointers as arguments to functions, and use the new and delete operators to assign memory dynamically. By the end of the course, you'll have a much better understanding of how to put C++ pointers to practical use in your own applications.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=139985
+Course_System=linkedin.com
+Course_Title=Revit MEP 2014 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Revit MEP is a module in Revit streamlined for MEP trades and processes—putting the right tools right at your fingertips whether you're working on mechanical, electrical, or plumbing documents. This course teaches you how to set up your first project in Revit MEP, import structural and architectural detail from other models, and start designing your systems. Author Eric Wing breaks down the techniques specific to each trade—mechanical, electrical, plumbing, and fire protection. Learn everything from creating circuits to sizing ductwork, adding pipes, and modeling sprinklers. The final chapter provides an overview of Revit workflow details like creating schedules, working with dimensions, and printing sheets.

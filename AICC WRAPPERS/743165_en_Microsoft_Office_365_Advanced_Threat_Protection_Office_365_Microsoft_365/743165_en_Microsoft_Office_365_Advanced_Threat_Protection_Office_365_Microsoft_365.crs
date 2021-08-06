@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=743165
+Course_System=linkedin.com
+Course_Title=Microsoft Office 365: Advanced Threat Protection (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Office 365 Advanced Threat Protection (ATP) is a comprehensive solution for protecting your environment against malware, viruses, spoofing, and phishing attacks. In this course, instructor Andrew Bettany helps IT administrators use ATP to its fullest, explaining how to define key polices and leverage reporting options. Andrew begins by providing administrators with guidance on licensing, walking through the threat management console, and showing how to configure security roles. Next, he goes over key features, including ATP Safe Attachments, Safe Links, and anti-spam policies. Using the Attack Simulator, Andrew provides guidance on how to perform vulnerability testing of your Office 365 environment to help you improve security and awareness. He wraps up with a discussion of ATP reporting, including the Security & Compliance Center security status reports and trending malware reporting.

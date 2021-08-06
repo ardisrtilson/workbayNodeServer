@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=2841518
+Course_System=linkedin.com
+Course_Title=Excel: Lookup Functions in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Excel offers a variety of powerful lookup functions that allow you to easily retrieve information across spreadsheets. In this course, Excel expert Dennis Taylor demystifies some of the most significant lookup functions. Tune in to learn how to use the new XLOOKUP function, which can handle all the capabilities of the widely used VLOOKUP and HLOOKUP functions, in addition to providing more power and flexibility. Explore uses of the MATCH function and the newer, more robust XMATCH function to match up data, and learn how to extract data using the INDEX function. Discover how to restructure the lists being searched to ensure that you're using each function efficiently, and learn about dynamic array lookup functions like UNIQUE, SORT, SORTBY, and FILTER. Along the way, Dennis shares practical examples that help you grasp how to implement these functions in your workflow.

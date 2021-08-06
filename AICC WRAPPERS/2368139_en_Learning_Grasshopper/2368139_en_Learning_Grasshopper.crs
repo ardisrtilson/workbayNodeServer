@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Reilly
+Course_ID=2368139
+Course_System=linkedin.com
+Course_Title=Learning Grasshopper
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Grasshopper offers new ways to expand and control the 3D design and modeling processes. These ways include automating repetitive processes; generating geometry through mathematical functions; quickly making changes to complex models; and creating complex forms through repetitions of simple geometry. Grasshopper requires no programming or scripting knowledge and allows designers a high degree of flexibility. In this course, instructor Chris Reilly shows you how to get up and running with Grasshopper, fast. Chris explains the algorithms that you need to get the most out of Grasshopper and walks you through the Grasshopper interface. Chris covers how to speed up your workflow with shortcuts in Grasshopper. He goes into data matching, Fibonacci sequences, vectors, and many more math and logic functions. Chris discusses curves, surfaces, transformations, data trees, and so much more. He concludes with a series of example projects that illustrate what you’ve learned in the course.

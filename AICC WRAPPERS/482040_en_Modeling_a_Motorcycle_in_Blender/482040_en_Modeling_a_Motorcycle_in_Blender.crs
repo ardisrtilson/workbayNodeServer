@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=482040
+Course_System=linkedin.com
+Course_Title=Modeling a Motorcycle in Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn production techniques for hard-surface modeling a realistic motorcycle in Blender. Author Darrin Lile guides you through the process of creating a Harley-Davidson Fat Boy with proper scale and proportions. These techniques can be used to replicate any other vehicle or man-made machined parts in Blender. Darrin begins by creating the frame of the motorcycle using curves. He then builds up the motorcycle piece by piece, creating the exhaust pipes, fenders, handlebars, engine components, and brakes. These lessons capitalize on the Path tool and modifiers like Solidify and Booleans. Finally, Darrin uses Blender's Cycles render engine to create the materials and lighting for the scene, and UV maps the textures to key pieces of the bike. In the end, you will have a greater understanding of Blender's modeling tools and production processes so that you can create vehicles and other hard-surface projects of your own.

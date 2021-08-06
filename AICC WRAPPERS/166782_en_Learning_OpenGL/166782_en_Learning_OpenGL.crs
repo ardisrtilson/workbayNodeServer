@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pablo Colapinto
+Course_ID=166782
+Course_System=linkedin.com
+Course_Title=Learning OpenGL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ready to take your graphics to the next level? Get up and running with OpenGL, the cross-language, multiplatform API for rendering 2D and 3D computer graphics. OpenGL is widely used in CAD, virtual reality, scientific visualization, and video games, where it is particularly useful for game developers who benefit from its hardware-accelerated rendering and advanced programmable pipeline. In this course, Pablo Colapinto will show you how to render real-time content, starting with building a window for your graphics with the GFLW library. Then he'll focus on drawing in 2D and 3D with both the legacy immediate mode and the more modern method of using buffer objects. Plus, learn about texturing and lighting with the GLSL shading language, and accepting keyboard and mouse input for increased interactivity. Start accelerating your graphics with OpenGL today.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=704113
+Course_System=linkedin.com
+Course_Title=Learning Infowise for SharePoint
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Infowise ULTIMATEforms is a popular SharePoint extension to create and manage forms, automate and enforce business logic, and generate reports. This course shows how to use Infowise to supplement SharePoint Online and make working with SharePoint more efficient and fun. Phil Gold shows you how to set alerts to let users know when data has been added, deleted, or changed; build actions to automate common SharePoint tasks; and modify views for lists and libraries. He also explains how to customize input forms and configure list and library columns, including adding default values, data validation, dynamic rules, and security. The course wraps up with some tips for importing, exporting, and printing SharePoint data using Infowise.

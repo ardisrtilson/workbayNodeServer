@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=2891094
+Course_System=linkedin.com
+Course_Title=Microsoft 365 Security Administration (MS-500) Cert Prep: 2 Implement and Manage Threat Protection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is earning the Microsoft 365 Security Administrator Associate certification the next milestone in your cybersecurity career? If so, then this course can help you get there. Join Microsoft MVP Pete Zerger as he prepares you for the Microsoft 365 Security Administration exam (MS-500)—the required exam for the Security Administrator Associate certification. Pete dives into key topics such as how to install, configure, monitor, and manage Microsoft Defender for Identity; plan a Microsoft Defender for Endpoint deployment; plan for device and app protection with Microsoft Intune; use Azure Sentinel to monitor and respond to threats in Microsoft 365; and more. By the end of this course, you'll be ready to confidently tackle exam questions drawn from the second domain of the MS-500 exam: Implement and Manage Threat Protection.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Theedom
+Course_ID=574687
+Course_System=linkedin.com
+Course_Title=Java EE: RESTful Service with JAX-RS 2.0
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to successfully build a RESTful web service is an essential skill in today's Internet-dominated industry. In this course, learn how to develop a RESTful client and server application using the Java Enterprise Edition implementation of the REST architectural style, JAX-RS API 2.0. This powerful and fully-featured API enshrines industry best practices as it integrates seamlessly with other essential APIs such as Bean Validation and JSON Processing. Join Alex Theedom as he guides you through a wide range of topics, including how to define resource endpoints, how to add dynamism to your application with hypermedia, how to maintain data integrity with Bean Validation, and how to process messages with the JSON Processing API. Once you have completed this course, you'll be ready to develop your own client and server RESTful APIs.

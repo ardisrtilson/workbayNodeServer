@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kesha Williams
+Course_ID=753923
+Course_System=linkedin.com
+Course_Title=Java EE 7: Web Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+RESTful and SOAP-based web services are an important part of working with Java EE. They enable Java applications to securely and efficiently transfer data across the web, using standard internet protocols. This course teaches you how to build web services with two Java APIs: JAX-WS, for SOAP-based services, and JAX-RS, for RESTful services. Follow along with instructor Kesha Williams, as she builds web services to create, update, delete, and query data from the sample project: a bug tracking database that logs tickets for users of many different applications. Along the way, she explains how to implement top-level searching, handle errors, and test your web services for defects. You can also learn how to leverage the latest features in Java EE 7, such as the JAX-RS Client API for accessing REST resources.

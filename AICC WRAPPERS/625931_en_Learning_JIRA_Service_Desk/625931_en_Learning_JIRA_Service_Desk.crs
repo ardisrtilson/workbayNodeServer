@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Anthony
+Course_ID=625931
+Course_System=linkedin.com
+Course_Title=Learning JIRA Service Desk
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JIRA Service Desk adds an additional layer to a standard JIRA project, allowing for features like an external customer portal to log requests—which don't require additional licenses—and SLA tracking. In this course, instructor Robert Anthony shows JIRA administrators not only how to use these features, but how to customize options for the needs of their organization and structure, be it DevOps, manufacturing, or software development. Learn about portal design, configuring customer notifications and permissions, measuring success with SLAs, setting up automated workflows, and advanced reporting.

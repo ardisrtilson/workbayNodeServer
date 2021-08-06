@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=628702
+Course_System=linkedin.com
+Course_Title=Penetration Testing Essential Training (2017)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You've secured your systems, you've trained your users, and you've fortified your network. Think you're ready to handle a cybersecurity threat? Penetration testing is one of the best ways to see if your security will hold. It puts testers in the role of attackers, looking for vulnerabilities in your networks, computers, applications, email, and even your users. This course provides an introduction to the key knowledge and skills to start a program of professional penetration testing at your organization. Cybersecurity expert Malcolm Shore reviews popular pen testing tools, as well as the Bash and Python scripting skills required to be able to acquire, modify, and re-use exploit code. He also provides a refresher on Kali Linux and introduces techniques for testing web services. At the end of this course, you'll be prepared to take more advanced training, and to pursue the popular Offensive Security Certified Professional (OSCP) certification.

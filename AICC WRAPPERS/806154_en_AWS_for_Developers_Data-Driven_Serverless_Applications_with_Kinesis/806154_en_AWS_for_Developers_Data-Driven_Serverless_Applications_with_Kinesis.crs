@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marcia Villalba
+Course_ID=806154
+Course_System=linkedin.com
+Course_Title=AWS for Developers: Data-Driven Serverless Applications with Kinesis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data-driven applications have their application flow governed by the data, and the serverless framework can serve as the web framework to create this kind of application. In this course, join instructor Marcia Villalba as she takes you through an overview of serverless applications and Kinesis. Learn how to design an event-driven application, how to integrate AWS Lambda and Kinesis streams, and how to set up necessary permissions. Also, discover how to leverage CloudFormation, API Gateway, SES, SNS, and SQS, and more.

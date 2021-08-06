@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ron Friedman
+Course_ID=365285
+Course_System=linkedin.com
+Course_Title=Rigging a Humanoid Character with Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blender is a powerful and free 3D animation and rendering package; one of its best uses is the rigging of characters. In this lesson, Ron Friedman shows us how to create the basic bones in a human skeleton and set up inverse kinematics to keep the movement of our character realistic—keeping the feet on the ground as you move the body, for example. He'll also show us how to add controller shapes to make selections easier to perform and the bones' purposes easier to understand. Then, Ron will duplicate the left-side bones over onto the right side in order to create a complete skeleton (with half the work!) and attach the mesh to the bones. By the end of the course, you'll be able to give your character the rigging that it needs to be animated however you choose.

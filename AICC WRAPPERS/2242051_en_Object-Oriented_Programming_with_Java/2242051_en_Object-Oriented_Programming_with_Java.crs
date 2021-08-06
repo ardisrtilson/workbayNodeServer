@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, June Clarke
+Course_ID=2242051
+Course_System=linkedin.com
+Course_Title=Object-Oriented Programming with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+It’s not too hard to write functional code in Java. But to take advantage of its object-oriented features, it requires a leap in understanding. If you're ready to take your Java skills to the next level, join engineer and Java expert June Clark in this course. Brush up on the details of objects, and then how to leverage advanced concepts such as inheritance, polymorphism, and encapsulation to build more sophisticated and efficient web projects. June reviews getters and setters and static methods, and shows how to document your code with UML. By the end of this course, you’ll have the confidence and skills to go build great things with Java. This course was created by Madecraft. We are pleased to host this content in our library.

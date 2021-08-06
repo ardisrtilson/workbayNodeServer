@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Milner
+Course_ID=704141
+Course_System=linkedin.com
+Course_Title=Xamarin Essential Training: Create Your First App
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create your first app using Xamarin, a cross-platform development solution that helps simplifies the development process by letting developers use C# to create iOS, Android, and Universal Windows apps. Matt Milner starts the course by walking through the setup process. Then, he demonstrates how to develop remotely and leverage libraries. Next, he goes through how to provision devices and test applications on real and simulated hardware. He also covers how to apply layouts, create views, and more.

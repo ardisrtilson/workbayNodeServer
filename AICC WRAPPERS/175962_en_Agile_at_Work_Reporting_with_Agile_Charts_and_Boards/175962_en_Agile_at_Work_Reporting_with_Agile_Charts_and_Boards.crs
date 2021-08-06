@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=175962
+Course_System=linkedin.com
+Course_Title=Agile at Work: Reporting with Agile Charts and Boards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Agile teams need a lightweight way to report their progress. Agile reports should be simple and easy to read, and radiate information across the room to the entire team. In this course, agile expert Doug Rose outlines a process for reporting on the progress of your agile project. He shows how to establish priorities using product backlogs, show daily progress using taskboards, burn down a sprint using sprint burndown charts, and burn down a release by creating a release burndown chart. He also highlights common pitfalls, such as retrofitting.

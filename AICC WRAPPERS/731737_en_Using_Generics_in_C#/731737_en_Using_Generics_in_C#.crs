@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=731737
+Course_System=linkedin.com
+Course_Title=Using Generics in C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Generics were introduced to C# 2.0 in 2005. They allow programmers to write general-purpose code that is type safe, without writing a tedious amount of type-specific data structures. Similar to C++ templates, generics reduce the amount of type checking required to build reusable code and make you a much more productive C# programmer. This course is designed to introduce the beginning programmer to the concept of generics and show how to use them for greater reusability in popular design patterns. Instructor Robby Millsap covers the history and purpose of generics, as well as concepts such as type scoping, constraints, and collections. In chapter two, he demonstrates how to incorporate generics into actual architecture, following design patterns such as service locator, visitor, and observer.

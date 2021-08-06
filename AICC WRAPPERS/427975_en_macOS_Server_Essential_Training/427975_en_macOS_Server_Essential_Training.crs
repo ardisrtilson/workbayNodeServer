@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=427975
+Course_System=linkedin.com
+Course_Title=macOS Server Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn what you've been missing! Find out how OS X Server 5.0, El Capitan, can increase your productivity. This course shows how to set up OS X Server to ensure years of reliable service and to reap the benefits of enhanced services, like the caching server for iCloud data. Sean Colins, Apple Certified Trainer and owner of CoreQuick, an Apple Professional Services for Education provider, explains how to set up OS X Server's most requested services. He starts with the fundamentals of server administration—that apply to any kind of server—and then looks deeply into server setup, network configuration, file sharing, and caching. Sean also shows how Apple provides a fully functional reference system on which to learn mobile device management with Profile Manager, giving you the power to manage Apple devices by centrally controlling their settings and deploying apps with device-based MDM enrollment. Since collaboration and communication are key features of OS X Server, Sean covers setting up your own email server, collaboration wikis, and even website hosting for Dreamweaver and HTML5 designers. The course concludes with a chapter on OS X Server security and backup procedures to ensure all your hard work is safely secured.

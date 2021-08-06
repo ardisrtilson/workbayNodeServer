@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bryan Lamb
+Course_ID=5002840
+Course_System=linkedin.com
+Course_Title=UiPath: Robotic Process Automation (RPA)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with UiPath, a leading robotic process automation (RPA) tool. This course offers a hands-on guide to automating a variety of software-controllable process using this popular tool. Instructor Bryan Lamb helps to acquaint you with the main capabilities of UiPath and demonstrates how to use key features to automate business processes against a variety of target systems, including Excel spreadsheets. He also shows how to work with flowcharts to document enterprise processes, how to handle errors, how to schedule and manage your software robots with Orchestrator, and more.

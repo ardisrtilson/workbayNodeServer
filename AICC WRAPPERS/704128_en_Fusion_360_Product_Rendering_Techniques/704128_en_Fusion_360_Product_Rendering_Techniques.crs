@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jomarc Baquiran
+Course_ID=704128
+Course_System=linkedin.com
+Course_Title=Fusion 360: Product Rendering Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Fusion 360 is a powerful modeling tool for product designers. This course shows how to render your models for presentations, use in packaging design, or for immersive viewing. Discover how to model liquids, text, and labels; insert a reference image; insert decals; and set up a rendering scene. From there, learn how to render your models locally and using cloud resources.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=135354
+Course_System=linkedin.com
+Course_Title=Maya: 3D Printing with Shapeways
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D printing allows your digital creations to emerge in the real world, but you don't need a 3D printer to bring them to life. Learn how to prepare your models in Maya and then send them for 3D printing on Shapeways, an online service that ships reproductions straight to your door. Author Ryan Kittleson shows how to hollow out models, define an object's thickness, and work with texture maps for full-color prints. He shows you how to export the model, upload it to Shapeways, and view the finished result. Once you have mastered the basics, Ryan invites you to test your skills in a series of challenge videos.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Tonsoni
+Course_ID=549088
+Course_System=linkedin.com
+Course_Title=Bracketology Club: Using March Madness to Learn Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When one pictures the group who bested over 100 sports experts to win the 2016 Bracket Matrix—an online March Madness bracket competition—a classroom full of small-town high school students might not be the first image that comes to mind. It certainly wasn't what social studies teacher Brian Tonsoni expected when started Delphi Bracketology—a high school club that uses data science to predict which teams the NCAA will select for the Division I Men's Basketball Tournament. But what began as an informal gathering of sports fans soon grew into a collection of champions. In this short film, meet some of the members of this remarkable team, and learn how Tonsoni's informal, project-based approach to learning helped these young bracketologists acquire the kinds of key skills—data science, public speaking, and more—that every teacher hopes to instill in their students.

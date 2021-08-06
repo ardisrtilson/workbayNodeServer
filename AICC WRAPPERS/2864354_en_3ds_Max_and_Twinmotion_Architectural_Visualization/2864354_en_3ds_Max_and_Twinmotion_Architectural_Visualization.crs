@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2864354
+Course_System=linkedin.com
+Course_Title=3ds Max and Twinmotion: Architectural Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Twinmotion is a real-time visualization tool for the AEC and product design world that enables photo-realistic, real-time renders for a variety of platforms. In this course, George Maestri shows the workflow between Twinmotion and 3ds Max for creating architectural visualizations. He starts with the basics of Twinmotion, detailing the interface and setting up preferences, and then shows how to export a project from 3ds Max into Twinmotion. He explains how to add materials and objects, along with details like vegetation. He also covers working with lights, cameras, and weather, before showing how to export the scenes as images, videos, and presentations.

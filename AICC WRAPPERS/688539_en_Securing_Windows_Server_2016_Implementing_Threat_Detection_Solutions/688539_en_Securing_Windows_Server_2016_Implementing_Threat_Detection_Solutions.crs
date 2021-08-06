@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=688539
+Course_System=linkedin.com
+Course_Title=Securing Windows Server 2016: Implementing Threat Detection Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get practical and up-to-date information on implementing threat detection in Windows Server 2016. This course shows how to maintain a secure server environment—and study for topics from the Securing Windows Server elective for MCSE certification. Learn how an audit policy can help an administrator keep track of the who, what, where, and when of things taking place within an enterprise network. Discover how to configure advanced audit policies, view audit events, and manage audit policies on an ongoing basic. Instructor Ed Liberman also covers threat detection features in Advanced Threat Analytics (ATA) and Microsoft Operations Management Suite (OMS).

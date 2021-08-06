@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2814068
+Course_System=linkedin.com
+Course_Title=Cloud Complexity Management for Multicloud Deployments
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many modern companies are spending most of their time and money migrating applications and data to the cloud. This is making the IT infrastructure such as storage and platforms—open- and cloud-based systems—more complex for administrators, developers, and ultimately end users. Legacy systems still have to run, and IT leaders now have public and private cloud-based systems to deal with as well. In this conceptual course, instructor David Linthicum dives into the topic of cloud complexity management (CCM). David covers best practices for dealing with the intricacies of cloud transformation, including how to deal with data and services (and create abstractions and automations to simplify both).

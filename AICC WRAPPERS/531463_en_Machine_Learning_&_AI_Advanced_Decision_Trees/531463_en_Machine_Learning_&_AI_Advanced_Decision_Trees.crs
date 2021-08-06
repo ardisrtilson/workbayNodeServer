@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=531463
+Course_System=linkedin.com
+Course_Title=Machine Learning & AI: Advanced Decision Trees
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're working towards an understanding of machine learning, it's important to know how to work with decision trees. In this course, explore advanced concepts and details of decision tree algorithms. Learn about the QUEST algorithm and how it handles nominal variables, ordinal and continuous variables, and missing data. Explore the C5.0 algorithm and review some of its key features such as global pruning and winnowing. Plus, dive into a few advanced topics that apply to all decision trees, such as boosting and bagging.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2813261
+Course_System=linkedin.com
+Course_Title=Apache Flink: Real-Time Data Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+From an engineering perspective, scalability is one of the most pressing challenges in data science. Apache Flink, the powerful and popular stream-processing platform, offers features and functionality that can help developers tackle this challenge. In this course, learn how to build a real-time stream processing pipeline with Apache Flink. Instructor Kumaran Ponnambalam begins by reviewing key streaming concepts and features of Apache Flink. He then takes a deeper look at the DataStream API and explores various capabilities available for real-time stream processing, including windowing and joins. After delving into the platform's event-time processing and state management features, he provides a use case project that allows you to put your new skills to the test.

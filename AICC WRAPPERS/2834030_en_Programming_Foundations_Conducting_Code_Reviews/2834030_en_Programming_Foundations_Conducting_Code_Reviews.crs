@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=2834030
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Conducting Code Reviews
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software is written by humans—and humans can make mistakes. Before suggested changes are integrated into a codebase, they are often reviewed and approved by other programmers. A large amount of developers' time is spent on code reviews. However, this skill is rarely taught. This course remedies that oversight, starting with the what, who, and why of code reviews. It then explores the how, showing how to thoroughly review everything from implementation details to maintainability and design aspects of code. Instructor Kathryn Hodge also introduces best practices for reviewing code on the cloud and implementing and committing changes to a codebase. In the last chapter, you can explore how to submit your own code for review and respond to comments. Take the challenges issued along the way to practice your new skills. By the end of the course, you'll have the knowledge needed to become a great code reviewer, saving valuable resources and influencing future design changes at your organization.

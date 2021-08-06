@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2802471
+Course_System=linkedin.com
+Course_Title=Visual Studio Tools for Azure DevOps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DevOps culture has become increasingly more prevalent in modern companies. In response to this trend, Microsoft has developed a suite of modern dev services that support the DevOps workflow: Azure DevOps. In this course, learn how to work with the built-in Azure DevOps tools in the Visual Studio IDE. Instructor Walt Ritscher steps through the full workflow of creating, continuously integrating, and continuously deploying web apps in Azure. Discover how to work with Azure Repos, which provides unlimited, private Git repos for your project; Azure Boards, a hub for project planning and work assignment; and Azure Pipelines, a set of services that automate your builds and deployments.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aviv Ben-Yosef
+Course_ID=571616
+Course_System=linkedin.com
+Course_Title=Upgrading to Angular 1.6
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you have an app that you'd like to revamp, but don't have the time to rewrite everything? Or, would you like to prep your app for a future migration to Angular 2? If so, then this course is for you. Learn how to update an existing Angular 1.x app to Angular 1.6. By making this upgrade, you can reap the benefits of using a solid and stable framework without needing to relearn and rewrite your existing app in a newer framework. Aviv Ben-Yosef kicks off the course by explaining what's different in Angular 1.6, as well the different motives for upgrading. Next, he walks through how to safely upgrade an existing app. He covers going from controllers to directives, as well as component lifecycle hooks. He also goes into the architectural changes in Angular, such as one-way data flow and immutability. To wrap up, he discusses how to properly test components.

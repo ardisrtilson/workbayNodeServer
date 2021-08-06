@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ketkee Aryamane
+Course_ID=697737
+Course_System=linkedin.com
+Course_Title=Java EE 8: JSON-B
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JSON is the most popular format for data exchange. JSON-B is a standard binding layer for converting Java objects to and from JSON messages. It comes bundled with Java Enterprise Edition—containing all the features of third-party libraries without any of the integration effort. JSON-B defines a default mapping algorithm for converting existing Java classes to JSON, while enabling developers to customize the mapping process through the use of Java annotations. Learn default and customized mappings for JSON-B and see it in action in a JAX-RS web application, in this course with instructor and developer Ketkee Aryamane. Ketkee reviews all the features of JSON-B, including adapters and serializers, showing them in practice in real-world Java applications.

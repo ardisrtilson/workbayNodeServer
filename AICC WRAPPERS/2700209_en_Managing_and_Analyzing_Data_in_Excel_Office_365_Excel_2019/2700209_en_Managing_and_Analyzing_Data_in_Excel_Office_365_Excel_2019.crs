@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=2700209
+Course_System=linkedin.com
+Course_Title=Managing and Analyzing Data in Excel (Office 365/Excel 2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Large amounts of data can become unmanageable fast. But with the data management and analysis features in Excel, you can keep the largest spreadsheets under control. In this course, Dennis Taylor shares easy-to-use commands, features, and functions for maintaining large lists of data in Excel 2019 and Excel for Office 365. He covers sorting, adding subtotals, filtering, eliminating duplicate data, working with tables, and using functions to isolate and analyze data. With these techniques, you'll be able to better manage your lists and extract the most important information from them, in the shortest amount of time.

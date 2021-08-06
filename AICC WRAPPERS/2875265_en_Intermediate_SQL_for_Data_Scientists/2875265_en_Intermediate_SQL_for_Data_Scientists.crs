@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=2875265
+Course_System=linkedin.com
+Course_Title=Intermediate SQL for Data Scientists
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There is an increasing need for data scientists and analysts to understand relational data stores. Organizations have long used SQL databases to store transactional data as well as business intelligence related data. This course was designed for data scientists who need to work with SQL databases. Specifically, it was designed to help these professionals learn how to perform common data science tasks, including exploration and extraction of data within relational databases. Instructor Dan Sullivan kicks off the course with a brief overview of SQL data manipulation and data definition commands. He then focuses on how to use SQL queries to prepare data for analysis; leverage statistical functions to better understand that data; and work with aggregates, window operations, and more.

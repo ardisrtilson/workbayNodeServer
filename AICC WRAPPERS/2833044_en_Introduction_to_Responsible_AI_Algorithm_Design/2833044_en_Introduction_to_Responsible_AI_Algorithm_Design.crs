@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Kemka
+Course_ID=2833044
+Course_System=linkedin.com
+Course_Title=Introduction to Responsible AI Algorithm Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What does it mean to design responsible AI algorithms? Instructor Martin Kemka introduces important basics, like defining AI and knowing what it means to be responsible in developing them. Learn how algorithms are deployed and how you can track their use and abuse. Martin also explains the risks of being irresponsible with AI. Find out how an algorithm is created and how you can monitor it. Examine the decision side of the system. Hear about global policies and best practices. Learn how policies differ from one country to another, explore open-source software solutions, and more.

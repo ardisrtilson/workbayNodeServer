@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joli Ballew
+Course_ID=5034170
+Course_System=linkedin.com
+Course_Title=Windows 10: Configure and Support Core Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network discovery, name resolution, and other key aspects of Windows 10 installations aren't always intuitive. This course illuminates the installation process, exploring various ways to configure many of the services included in a Windows 10 default installation. Follow Joli Ballew as she covers networking, storage, data access and usage, and Remote Management. Plus, Joli shares how to implement Microsoft Store apps and Microsoft Store for Business, as well as the Windows Assessment and Deployment Kit, which you'll want to get familiar with if your job involves deploying Windows 10. This course covers key skills measured on Exam MD-100: Windows 10, a required exam for the Modern Desktop Administrator Associate certification.

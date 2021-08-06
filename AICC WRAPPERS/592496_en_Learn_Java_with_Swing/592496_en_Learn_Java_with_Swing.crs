@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=592496
+Course_System=linkedin.com
+Course_Title=Learn Java with Swing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use Swing—a graphical user interface (GUI) builder for Java applications—to create a GUI in Java. In this course, Peggy Fisher helps to familiarize you with the basics of Swing, and shares what you need to know to create a GUI in Java. She discusses fundamental concepts, such as MVC architecture and using a WYSIWYG editor. In addition, she covers containers, Swing components, layouts, and handling events—which occur when a user interacts with the interface.

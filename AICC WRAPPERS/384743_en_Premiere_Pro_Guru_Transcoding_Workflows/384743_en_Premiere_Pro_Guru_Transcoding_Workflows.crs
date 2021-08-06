@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Osder
+Course_ID=384743
+Course_System=linkedin.com
+Course_Title=Premiere Pro Guru: Transcoding Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Adobe Premiere Pro made waves when it started supporting native editing of compressed and raw file formats. It's usually the best decision to edit natively. However, there are still advantages of transcoding or changing the format of the video to facilitate the editing process. Do you know your choices if you do choose a transcoded workflow? Premiere Pro Guru: Transcoding Workflows explores all the relevant tools and techniques to help you decide when and how to transcode. Post-production pro Jason Osder helps you understand the pros and cons of transcoding, and introduces different transcoding workflows for Premiere Pro, Adobe Media Encoder, and Prelude: transcoding at the very beginning, in the middle while you're working, or at the end during output.

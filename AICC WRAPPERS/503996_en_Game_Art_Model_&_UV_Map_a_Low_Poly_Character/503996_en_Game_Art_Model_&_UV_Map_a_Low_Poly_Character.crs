@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=503996
+Course_System=linkedin.com
+Course_Title=Game Art: Model & UV Map a Low Poly Character
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Expand your game artistry know-how by becoming skilled in low-polygon modeling. Joel Bradley shows how to model and UV map low-poly assets in this course. Joel takes you through the process—using 3ds Max—of modeling a low-poly asset for use in in a game engine. He starts by providing an overview of tools and options to get you ready to set up a scene. Then he dives into the building and creation process, which includes shaping and using guide objects. Once the forms are established, Joel demonstrates how to detail, refine, and unwrap the finished model. He concludes the course by showing how to export the model and bake normal maps to get it ready for texturing.

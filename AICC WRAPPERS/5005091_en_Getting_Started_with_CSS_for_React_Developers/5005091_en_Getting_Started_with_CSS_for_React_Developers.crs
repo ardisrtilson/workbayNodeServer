@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Greene
+Course_ID=5005091
+Course_System=linkedin.com
+Course_Title=Getting Started with CSS for React Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CSS, along with HTML and JavaScript, plays a pivotal role in the creation of an app's user interface. Still, many React developers never attain mastery in this essential stylesheet language. In this course—an installment in a larger series on CSS for React developers—instructor Eric Greene covers the basics of using CSS and PostCSS to create elegant React apps. Eric shows how to use a custom React scripts package, configure PostCSS—a tool that powers more than 200 diverse JavaScript plugins—and make a few changes to it, and work with CSSNext and PostCSS. Plus, learn how to add additional PostCSS plugins and test your CSS in Microsoft web browsers. Note: This course was created by Wintellect. We are pleased to host this training in our library.

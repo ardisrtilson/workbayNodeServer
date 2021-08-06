@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=572782
+Course_System=linkedin.com
+Course_Title=Learning Sinatra
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sinatra is a lightweight web application library and domain-specific language that provides a faster and simpler alternative to Ruby frameworks such as Ruby on Rails. In this course, discover how to quickly build web applications with Sinatra. Kevin Skoglund walks through how to define routes, render templates containing dynamic data, and use partial templates and layouts to create reusable code. Plus, he explains how to use cookies, sessions, and filters, and shares useful techniques which you can leverage in your own Sinatra projects.

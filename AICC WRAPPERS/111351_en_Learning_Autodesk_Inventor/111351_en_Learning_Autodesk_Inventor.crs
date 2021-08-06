@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Helfen
+Course_ID=111351
+Course_System=linkedin.com
+Course_Title=Learning Autodesk Inventor
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course introduces you to the interface and key processes of Inventor, the parametric design system from Autodesk. Author John Helfen covers sketching, part modeling, assemblies, and drawings. These tasks work in conjunction, allowing you to create parts and assemblies and document them in a way so that the manufacturing process proceeds faster and more efficiently.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Siegel
+Course_ID=758624
+Course_System=linkedin.com
+Course_Title=Dynamo 2.x Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Dynamo allows Revit users to solve modeling challenges in smarter, faster ways. You can read and analyze data from outside sources, create new geometry, and edit the geometry in existing Revit files—all using Dynamo's node-based visual language. This training course helps you understand the basic concepts behind visual programming with Dynamo and apply them to architectural modeling in Revit. Instructor Ian Siegel shows how to construct data-driven geometry, analyze relationships between Revit elements, and import data from multiple non-Revit sources and formats, including Excel and digital images. Plus, learn techniques to optimize common design tasks in Revit: placing families and components, adjusting parameter values, and creating new views and sheets.

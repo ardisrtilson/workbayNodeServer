@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=636107
+Course_System=linkedin.com
+Course_Title=Excel: Scenario Planning and Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A multitude of factors can affect the trajectory of your business. Learning how to document, summarize, and present projected business scenarios can help provide a basis for insightful business analysis, and help you evaluate the impact of various choices on your organization. In this course, explore techniques for analyzing a series of business scenarios using the flexible and powerful capabilities built into Excel. The course starts with a chapter on the art and craft of scenario planning before turning to the technical capabilities of Excel. Tools covered include row grouping to show and hide detail, PivotTables, and functions for using the normal distribution.

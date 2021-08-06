@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Smith
+Course_ID=2243051
+Course_System=linkedin.com
+Course_Title=Software Testing Tips Weekly
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a software tester, it's your job to ensure that your organization ships high-quality, working software to customers. But how can you best communicate the issues you spot to developers and other members of your organization? And what's the best way to approach bug reporting in general? In this weekly series, get fresh insights to enhance both your technical and interpersonal skills as a software tester. Instructor Michael Smith shares best practices for communicating effectively with software developers, as well as how to maximize your presence on your own team. He also shares tips for better bug reports, using personas for testing, working with test data, and more. Tune in each week for a new tip. Note: Because this is an ongoing series, viewers will not receive a certificate of completion.

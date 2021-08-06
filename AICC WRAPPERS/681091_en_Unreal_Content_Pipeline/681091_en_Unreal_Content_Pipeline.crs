@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=681091
+Course_System=linkedin.com
+Course_Title=Unreal: Content Pipeline
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unreal Engine 4—a suite of powerful creation tools—can be leveraged by professionals in a variety of different industries to create unique visualization projects. In this course, get a solid foundation of the content pipeline for Unreal, and discover how to get assets and geometry from different applications into Unreal. Instructor Scott Pagano covers how to work with geometry, including how to import FBX models and animated models into Unreal. He also shares how to import textures, refine materials, work with cameras, and more. Throughout the course, Scott demonstrates how to work with several key pieces of software, including Revit and Maya. Upon wrapping up this course, you'll have the knowledge you need to bridge the gap between 3D content creation software and the leading visualization engine.

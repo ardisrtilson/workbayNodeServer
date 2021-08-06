@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=550568
+Course_System=linkedin.com
+Course_Title=Apache Spark Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Spark is a powerful platform that provides users with new ways to store and make use of big data. In this course, get up to speed with Spark, and discover how to leverage this popular processing engine to deliver effective and comprehensive insights into your data. Instructor Ben Sullins provides an overview of the platform, going into the different components that make up Apache Spark. He shows how to analyze data in Spark using PySpark and Spark SQL, explores running machine learning algorithms using MLib, demonstrates how to create a streaming analytics application using Spark Streaming, and more.

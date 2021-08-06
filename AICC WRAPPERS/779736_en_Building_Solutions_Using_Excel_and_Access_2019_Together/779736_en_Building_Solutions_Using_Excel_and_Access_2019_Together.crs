@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Hunt
+Course_ID=779736
+Course_System=linkedin.com
+Course_Title=Building Solutions Using Excel and Access 2019 Together
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By combining the powers of Microsoft Excel and Access 2019, you can automate repetitive Excel tasks and boost your personal productivity. In this course, learn strategies and techniques that can help you work smarter with Excel and Access, and avoid needing to manually rebuild each time you run reports by building solutions. Discover how to most effectively leverage these two programs, and get the most out of both tools working together. Robin kicks off the course by reviewing how Excel and Access can be used together, and explaining how to build tables and calculate data in these two programs. She also demonstrates how to work with imports and exports, automate using macros and the AutoExec, build forms and reports, and more.

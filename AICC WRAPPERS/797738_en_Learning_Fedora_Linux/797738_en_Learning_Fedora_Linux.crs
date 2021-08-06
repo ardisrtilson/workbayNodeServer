@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=797738
+Course_System=linkedin.com
+Course_Title=Learning Fedora Linux
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using Fedora, you’ll stay on the cutting edge of new software releases in the Linux world. Fedora is used by over a million people, ranging from software developers, to system administrators, to Linux enthusiasts. In this course, learn about the philosophy of Fedora and how to install it. Explore the GNOME desktop environment and discover how to use some of the apps that come with it. Plus, learn how to manage the system settings, users, and software both in the GUI and at the command line.

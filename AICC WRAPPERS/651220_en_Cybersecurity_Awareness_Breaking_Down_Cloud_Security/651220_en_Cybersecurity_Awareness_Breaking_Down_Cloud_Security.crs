@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Hogg
+Course_ID=651220
+Course_System=linkedin.com
+Course_Title=Cybersecurity Awareness: Breaking Down Cloud Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud computing has made the sharing of information and resources significantly easier—but it has also brought about some unique security concerns. In this entry-level course, instructor Scott Hogg provides an introduction to cloud security, including common terminology and vocabulary. Throughout the course, Scott covers the topic of cloud security in a down-to-earth manner, and provides realistic security measures you can put into practice right away. He reviews the current industry-standard guidelines for cloud security. He also goes into several popular cloud service provider (CSP) security models and security controls. This course was created and produced by Mentor Source, Inc. We are pleased to host this training in our library.

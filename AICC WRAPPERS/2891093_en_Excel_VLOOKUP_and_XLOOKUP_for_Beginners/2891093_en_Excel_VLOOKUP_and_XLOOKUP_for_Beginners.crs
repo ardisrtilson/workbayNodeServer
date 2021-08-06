@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Stratton
+Course_ID=2891093
+Course_System=linkedin.com
+Course_Title=Excel: VLOOKUP and XLOOKUP for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many Excel users hear “VLOOKUP” and envision a complicated function reserved only for power users. Not so! VLOOKUP—and XLOOKUP, the newer version for 365 subscribers—are among Excel’s most powerful functions, yet you can master them with a few simple steps. In this mini-course, Jess Stratton walks you step-by-step through creating a simple lookup in Excel using both VLOOKUP and XLOOKUP, then shows you how to error-proof your formulas. Supercharge your Excel skills and save time with these powerful lookup functions.

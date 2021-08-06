@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Roger Miller
+Course_ID=5005047
+Course_System=linkedin.com
+Course_Title=Unity: AR Visualization 02 Basic Interactivity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Add practical functionality and interactivity to your augmented reality (AR) applications with Unity. This course builds on instructor Roger Miller’s previous training, by adding more advanced functionality to the AR mobile application: a parts manager that allows users to view and interact with 3D parts in the real world. Here, you can learn how to build 3D interface elements, menu systems, and options and implement features such as virtual object manipulation. Plus, learn how to save dynamic data back to the application. This course is ideal for Unity engineers that want to expand their scripting and programming skills and break into the AR development space.

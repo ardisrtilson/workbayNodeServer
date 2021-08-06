@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2825607
+Course_System=linkedin.com
+Course_Title=CompTIA CySA+ (CS0-002) Cert Prep: 5 Security Operations and Monitoring
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Professionals looking to earn the CompTIA Cybersecurity Analyst (CySA+) certification must have a robust understanding of how to keep the security and overall health of their systems in check. In this installment of the CySA+ (CS0-002) Cert Prep series, instructor Mike Chapple covers key security techniques and best practices as he prepares you for the Security Operations and Monitoring domain of the CySA+ (CS0-002) exam. Mike covers log monitoring, network traffic analysis, intrusion detection and prevention, examining email for malicious content, network access control, endpoint security techniques, automating threat intelligence, and more. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

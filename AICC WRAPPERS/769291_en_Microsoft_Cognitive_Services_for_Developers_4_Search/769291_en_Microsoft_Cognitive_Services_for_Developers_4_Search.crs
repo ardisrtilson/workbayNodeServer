@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=769291
+Course_System=linkedin.com
+Course_Title=Microsoft Cognitive Services for Developers: 4 Search
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Cognitive Services opens up artificial intelligence to every developer. Search is a core pillar of Cognitive Services, allowing your application to tap into an ad-free, internet-scale search engine—Microsoft Bing—with access to billions of webpages, images, videos, and news results. This course shows how to use the search APIs in Cognitive Services to execute simple text-based, image, and video searches. Plus, explore the Bing Autosuggest API, which allows you to submit a query and return a list of suggested terms that other users have entered, and Bing Custom Search, which restricts search results to the domains, sites, and webpages that you choose.

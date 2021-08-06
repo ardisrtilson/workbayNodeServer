@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2811718
+Course_System=linkedin.com
+Course_Title=AWS for Developers: PayPal Payment Processing with Lambdas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In many cases payment processing can require a server-side piece, which can be difficult and confusing. AWS provides Lambdas which can solve many of the problems by removing the server configuration and maintenance while still providing the necessary functionality. This course contains the straightforward steps involved in implementing PayPal payment processing using Lambdas. Bear Cahill covers setting up resources, leveraging a local Ruby script with Braintree, creating a Lambda from a Ruby script, calling from an API gateway, handling client payments, and more.

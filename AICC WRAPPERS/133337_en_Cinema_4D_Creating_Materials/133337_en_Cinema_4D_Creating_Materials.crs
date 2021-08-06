@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Donovan Keith
+Course_ID=133337
+Course_System=linkedin.com
+Course_Title=Cinema 4D: Creating Materials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Materials are one of the key tools in CINEMA 4D for adding realism and character to your 3D models and projects. Learn how to use the CINEMA 4D toolset for creating and applying materials that add color, texture, shading, transparency, and reflectivity. Author Donovan Keith walks you through a library of prebuilt textures that you can put to use right away, and then shows how to analyze and re-create common real-world materials like metal and glass from scratch. Plus, learn how to use photographs as the basis for complex layered surfaces.

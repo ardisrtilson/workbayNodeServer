@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Meyer
+Course_ID=193806
+Course_System=linkedin.com
+Course_Title=Localization for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Localization is more than translation; localizing software also requires research, sensitivity to local standards, and UI adaptations. These localization tips and techniques will help you adapt your applications to foreign markets and prep new products for international release. Author Dennis Meyer reviews common challenges developers encounter when internationalizing content (both text and media) and interfaces, and explores options when it comes to translation, including machine translation, translation memory, and crowdsourcing. Plus, learn how to adapt your quality-assurance strategy for different locales and platforms.

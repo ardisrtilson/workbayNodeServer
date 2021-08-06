@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=382572
+Course_System=linkedin.com
+Course_Title=PHP: Managing Persistent Sessions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PHP persistent sessions allow for communication between the server and client. This allows web applications to remember the identities of visitors as well as any variables or other data. This practical and challenging project-based course will help developers take the data that PHP normally stores in plain text files and write them into a more secure database, where the records can be read and destroyed as needed. Author David Powers helps you set up a SQL database, define classes to open and close sessions, read and write variables, destroy sessions, and manage out-of-date records. The lessons culminate in a short project that uses tokens to recognize returning users in an auto-login scenario.

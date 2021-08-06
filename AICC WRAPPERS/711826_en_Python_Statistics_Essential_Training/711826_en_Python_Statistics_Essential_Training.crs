@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michele Vallisneri
+Course_ID=711826
+Course_System=linkedin.com
+Course_Title=Python Statistics Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With this course, gain insight into key statistical concepts and build practical analytics skills using Python and powerful third-party libraries. Instructor Michele Vallisneri covers several major skills: cleaning, visualizing, and describing data, statistical inference, and statistical modeling. All concepts are introduced by analyzing intriguing real-world datasets and discussed from a machine-learning perspective—which assumes that powerful computation can replace complex mathematics.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=5043098
+Course_System=linkedin.com
+Course_Title=Laravel 5 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Laravel is the most popular MVC framework for PHP. It builds on PHP standards and conventions, making it easy to create completely customizable, full-featured apps. This course covers the basics you need to know to build elegant applications of any scale with Laravel 5. Learn how to work with the MVC architecture, build and populate a simple database, and create the controllers, routes, and views for the example project: a hotel reservation system. Instructor Justin Yost also shows how to add the create, read, update, and delete (CRUD) functionality that users will need to manage the reservations. Plus, find out how to set up authentication and incorporate Eloquent ORM for simplified database integration. These tutorials provide the information you need to make a move to Laravel and build high-quality, scalable, and sound PHP applications.

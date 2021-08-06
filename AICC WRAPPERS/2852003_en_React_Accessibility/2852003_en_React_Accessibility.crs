@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kiara Contreras
+Course_ID=2852003
+Course_System=linkedin.com
+Course_Title=React: Accessibility
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Perhaps the greatest thing about the world wide web is that it makes so much information available to so many people. However, is this available information accessible to everyone? In this course, Kiara Contreras illustrates why accessibility is important and why it’s necessary to focus on it when you build single-page applications with React, one of the most popular JavaScript front-end frameworks. Kiara covers important topics like testing your application to ensure optimal accessibility, practicing using semantic HTML, updating elements to include focus control, and ensuring mouse events are available through the keyboard. Throughout the course, Kiara stresses the importance of keeping in mind the diversity of your users when building websites, and that creating an accessible website allows for a better experience for more people.

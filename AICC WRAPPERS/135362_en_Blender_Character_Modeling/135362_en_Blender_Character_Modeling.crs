@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=135362
+Course_System=linkedin.com
+Course_Title=Blender: Character Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to model a professional character design with topology that deforms properly when it is animated, using Blender, the free, powerful 3D modeling toolset that rivals many more costly packages. Ryan Kittleson starts with a mesh based on a reference image, blocking out basic shapes, and then shows how to sculpt the body, appendages, and head as well as complex details like clothing and hair. He also covers the new Dyntopo sculpting interface for shaping and subdividing meshes at the very same time. A series of challenge and solution videos near the end of the chapters allow you to test yourself on the material.

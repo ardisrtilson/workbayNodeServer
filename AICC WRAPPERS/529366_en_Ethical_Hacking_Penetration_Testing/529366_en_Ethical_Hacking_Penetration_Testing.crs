@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=529366
+Course_System=linkedin.com
+Course_Title=Ethical Hacking: Penetration Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You've done everything you can to logically secure your systems, along with layering in user education and providing physical security. However, the only way to know if your defenses will hold is to test them. This course looks at one of the most important skills of any IT security professional: penetration testing. Penetration testing is the process to check if a computer, system, network, or web application has any vulnerabilities. Cybersecurity expert Lisa Bock reviews the steps involved in performing a worthwhile penetration test, including auditing systems, listing and prioritizing vulnerabilities, and mapping out attack points a hacker might target. She also defines the various types of pen tests—such as black, grey, and white box; announced vs. unannounced; and automated vs. manual testing—and the techniques and blueprints a pen tester should use to test everything from Wi-Fi to VoIP. Finally, she discusses how to choose and work with an outsourced pen-testing organization, which can bring a valuable outsider's perspective to your IT security efforts.

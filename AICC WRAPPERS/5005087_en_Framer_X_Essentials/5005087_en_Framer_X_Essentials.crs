@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5005087
+Course_System=linkedin.com
+Course_Title=Framer X Essentials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Looking to get up and running with Framer X? If so, then this course is for you. Join instructor Emmanuel Henri as he steps through how to design and build creative interactions with this powerful UX prototyping and front-end development tool, as well as how to work with components in Framer X. Discover how to use the layout and drawing tools, build transitions, and add scrolling animation. Plus, see how to add components from code, leverage advanced features such as overrides, and export your prototype to share it with stakeholders.

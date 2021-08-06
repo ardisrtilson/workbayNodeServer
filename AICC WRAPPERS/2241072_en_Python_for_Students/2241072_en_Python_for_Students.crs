@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Julie Nisbet
+Course_ID=2241072
+Course_System=linkedin.com
+Course_Title=Python for Students
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There is no better time to learn Python than when you are young. Python is a powerful language for automation, game development, and web programming, and a great choice if you’re just starting to learn how to write code. The skills you learn in Python can translate C++, Ruby, and JavaScript. In this course—designed specifically for high-school and college-age students—you can learn how to use Python at an introductory level. Explore variables and functions, calculations, if-else statements, loops, and lists, and then build a complete Python project. Plus, find out where to go to learn more and how to join the Python community. This course was created by Madecraft. We are pleased to host this content in our library.

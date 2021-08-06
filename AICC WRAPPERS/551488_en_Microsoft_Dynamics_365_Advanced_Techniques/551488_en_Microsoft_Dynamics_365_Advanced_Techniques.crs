@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=551488
+Course_System=linkedin.com
+Course_Title=Microsoft Dynamics 365: Advanced Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you ready to take your Microsoft Dynamics 365 skills to the next level? In this course, Gini von Courter walks through how to personalize Dynamics to support your work by customizing reports, templates, and dashboards. Gini begins by showing how to create, modify, and share custom reports. She then explains how to build custom charts, and then create dashboards that incorporate those charts. Plus, she shares how to create custom templates in Microsoft Word and Excel.

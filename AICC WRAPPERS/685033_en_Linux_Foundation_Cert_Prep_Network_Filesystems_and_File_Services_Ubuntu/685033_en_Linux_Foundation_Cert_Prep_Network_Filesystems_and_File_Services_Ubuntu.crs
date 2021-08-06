@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=685033
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Network Filesystems and File Services (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having a solid understanding of file storage is crucial for any system administrator, and essential for professionals working towards the Linux Foundation Certified Engineer (LFCE) certification. In this course, explore different ways to make storage available on a network. Instructor Scott Simpson explains how to provide Server Message Block (SMB) or Common Internet File System (CIFS) shares to clients using Samba, how to configure a Network File System (NFS) server and client, and how to configure and connect to remote block storage using iSCSI. After covering these concepts, you'll be ready to take on the network filesystems and file services section of the LFCE exam.

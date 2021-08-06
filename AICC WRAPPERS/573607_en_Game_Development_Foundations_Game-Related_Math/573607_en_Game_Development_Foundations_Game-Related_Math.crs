@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=573607
+Course_System=linkedin.com
+Course_Title=Game Development Foundations: Game-Related Math
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're a game developer, you can overcome many common programming hurdles by knowing just a few commonly used math techniques. In this course, learn about the concepts of grids and collision detection, as well as useful formulas you can apply to a variety of problems. Throughout the course, Jesse Freeman focuses on beginner-level game math and uses JavaScript in his examples. He covers three main topics—layout, collision, and formulas—beginning with layout, where he goes into centering objects and working with grids. Next, he discusses collisions, where he takes you through point collisions, rectangle collisions, and how to tell the distance between two points. Finally, he covers formulas for calculating health and experience. By the time you wrap up this course, you'll have some basic math skills that you can apply to any game.

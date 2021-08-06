@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2870077
+Course_System=linkedin.com
+Course_Title=Cert Prep: Unity Certified Associate Game Developer Materials and Lighting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become Unity certified and show employers you have the Unity skills they are looking for. Improve your chances of landing that dream job doing what you love most—making games, architectural visualizations, or films. This course helps you study for the lighting and materials portion of the Unity Certified Associate: Game Developer exam. Instructor Alan Thorn discusses the basics of creating materials, exploring the main render pipelines in Unity 2020, as well as how to work with both URP and HDRP materials. He also helps you get started with lighting, exploring standard and area lights. Then find out how to boost the performance and efficiency of your Unity projects with light mapping, light probes, and occlusion culling. Plus, learn how to apply post-processing effects such as blur, depth of field, and color correction.

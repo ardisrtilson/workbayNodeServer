@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=504000
+Course_System=linkedin.com
+Course_Title=Maya: Tips, Tricks & Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Even 3D masters sometimes hit a wall with Maya. This series is designed to give you tips, tricks, and techniques to solve the most common issues Maya artists encounter when using the program in a live production environment—and provide a dose of inspiration to kick-start your next creation. George Maestri shows how to use features like Camera Match and the Arnold renderer and create unique models and textures, such as rope and pulley assemblies and squashy/stretchy cartoon eyes. Tune in for a new Maya trick to speed up your modeling, texturing, rendering, animation, or VFX workflow.

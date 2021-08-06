@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ketkee Aryamane
+Course_ID=2804074
+Course_System=linkedin.com
+Course_Title=Spring: Spring MVC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dive deep into Spring MVC, an essential web framework for Java developers who work on enterprise-level projects. Throughout this practical course, instructor Ketkee Aryamane steps through fundamental aspects of this framework, where she explains controllers, models, and views in Spring MVC. She also discusses the benefits of learning Spring MVC; explores exception handling, themes, implementing asynchronous execution flows, and extending your Spring MVC application to serve REST requests; and provides exercises that can help you strengthen your understanding of key concepts. Upon completing this course, you'll have the knowledge you need to build robust MVC web applications with Spring MVC.

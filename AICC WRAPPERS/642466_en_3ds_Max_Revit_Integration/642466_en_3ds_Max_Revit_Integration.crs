@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Crespi
+Course_ID=642466
+Course_System=linkedin.com
+Course_Title=3ds Max: Revit Integration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to efficiently take a model from Autodesk Revit into Autodesk 3ds Max. In this course, Adam Crespi goes beyond basic exporting and importing to show a streamlined workflow that optimizes Revit models for flexibility in rendering and design with 3ds Max. As part of this workflow, Adam covers optimizing a Revit model for export, breaking up large meshes, and best practices for export. In 3ds Max, he discusses importing a Revit model, applying smoothing groups, adjusting UV coordinates, integrating substances, fine-tuning materials, and creating test renderings.

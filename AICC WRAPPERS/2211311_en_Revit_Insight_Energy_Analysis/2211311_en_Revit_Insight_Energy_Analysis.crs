@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim Cowan
+Course_ID=2211311
+Course_System=linkedin.com
+Course_Title=Revit Insight: Energy Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Buildings consume the lion's share of all of the energy produced in the US. With construction projects ramping up over the next several years, it's critical that architects and engineers take pains to prioritize energy performance in their designs. Insight, the powerful building performance analysis software from Autodesk, can help. This powerful package allows BIM professionals to integrate energy, lighting, and solar analysis into their workflow and leverage sophisticated simulation engines that empower them to make smart, data-driven design choices. In this course, join instructor Jim Cowan as he shows how to use Insight to analyze the solar impact of an apartment complex, starting with simple masses and adding key details to improve the simulation.

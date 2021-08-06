@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrea Goulet
+Course_ID=5005058
+Course_System=linkedin.com
+Course_Title=Agile Software Development: Remote Teams
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software teams are increasingly going remote—and for good reason. Remote workers often boast greater autonomy and productivity than their in-office counterparts. Going remote can also help organizations save on resources by allowing them to invest less in physical infrastructure. Curious about how to help your software team make the switch to remote work? In this course, Andrea Goulet shows you how, stepping through how to roll out an agile-based remote working strategy for your software team. Along the way, she shares distributed development practices that can benefit both fully remote and co-located teams. Get tips for leveraging top tools for distributed teams, maintaining technical excellence, interviewing and hiring, adapting standup meetings for remote workers, and more.

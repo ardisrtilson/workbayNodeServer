@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=432564
+Course_System=linkedin.com
+Course_Title=AutoCAD: Plotting & Publishing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When it comes to CAD, plotting refers to everything around printing and page setup, while publishing refers to electronic output. These techniques are intertwined in AutoCAD. The goal of both is to clearly communicate design intent to the contractors, architects, and engineers involved in the project. Watch this course to learn how to plot and publish your own drawings effectively, using the appropriate tools and settings within AutoCAD 2016. Shaun Bryant covers scaling views, customizing page setups for layouts, and assigning plot styles to change the appearance of your drawings when they go to plot or publish. He also shows how to adjust individual settings in the Plot and Publish dialogs, so that you end up with smart, readable printouts, DWFs, and PDFs.

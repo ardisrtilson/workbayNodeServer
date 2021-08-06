@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bob Bryla
+Course_ID=2281183
+Course_System=linkedin.com
+Course_Title=Oracle Database 19c: Advanced SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mastering SQL is an essential skill for any Oracle Database professional. If you feel like you’ve got a firm handle on the basics and want to take your skills up a notch, this course is for you. Join Oracle Database administrator Bob Bryla as he covers the advanced features of Oracle SQL in an Oracle 19c Database environment. Bob explains advanced topics like database concurrency and isolation levels, Oracle-specific schema objects, data types, data models, and many more features you need to understand to become an Oracle SQL expert. At the end of this course, if you’re still hungry for more, Bob provides a list of resources to help you continue your learning.

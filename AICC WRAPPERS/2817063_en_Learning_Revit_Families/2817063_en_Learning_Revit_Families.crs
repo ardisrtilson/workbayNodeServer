@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=2817063
+Course_System=linkedin.com
+Course_Title=Learning Revit Families
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you've used Revit, you've probably noticed that the entire model is based on the families you have in place. If you don't know how to make families, then this course from veteran instructor Eric Wing is for you. Throughout this course, Eric demonstrates the process of creating a family and adding parameters, 3D elements, symbolic lines, and materials. Along the way, he covers template selection, reference planes, line-based families, arrays in families, Yes/No functions, if statements, generic families, and more.

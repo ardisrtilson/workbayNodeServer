@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=197596
+Course_System=linkedin.com
+Course_Title=Revit: Managing Location Coordinates
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you are new to Revit (particularly if you are coming from an AutoCAD background), the approach Revit takes to coordinates, positioning, and origin points can be a little baffling. The trick is that coordinates, movements, and measurements in Revit are always relative to something else. In this course, you'll explore the Revit coordinate system and see how files relate to one another when linked. Author Paul F. Aubin also shows you how to set up shared coordinates, link files with shared coordinates, and maintain the relationship as the project progresses. If you have let the Revit approach to coordinates intimidate you, this course will give you the tools you need to begin using them with confidence.

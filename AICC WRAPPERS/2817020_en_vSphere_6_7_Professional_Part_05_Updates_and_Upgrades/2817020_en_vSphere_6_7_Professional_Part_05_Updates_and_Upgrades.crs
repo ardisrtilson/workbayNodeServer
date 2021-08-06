@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2817020
+Course_System=linkedin.com
+Course_Title=vSphere 6.7 Professional Part 05:  Updates and Upgrades
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is an integral part of any modern networking environment. vSphere offers a virtualized data center that helps administrators scale infrastructure to meet business needs. This course is the fifth in a nine-part series designed to teach you all the essentials of configuring, managing, securing, and troubleshooting a vSphere 6.7 environment with the new HTML5 vSphere Client. In this course, instructor Rick Crisci reviews the foundations of updating and upgrading vSphere and related tools. Learn how to use Update Manager to install and apply updates to ESXi hosts and vCenter, as well as apply license keys, update VM hardware, migrate vCenter Server, and more. Note: This series is also designed to prepare candidates for the VMware Certified Professional - Data Center Virtualization 2019 (VCP-DCV 2019) exam. This course was created by Rick Crisci. We are pleased to host this training in our library.

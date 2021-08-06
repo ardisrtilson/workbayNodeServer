@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=590831
+Course_System=linkedin.com
+Course_Title=Mobile App Analytics for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How is your app actually used? Do users like some features more than others? In which countries do your users live? Which zones monetize the best? By leveraging analytics in your application, you can find out the answers to these questions, and generally learn more about how your app is being used in the real world. In this course, discover how to implement basic analytics, collect data, and analyze your results to determine which features to build, and how to best deliver those features to your users. Instructor Joe Marini makes a case for why you might want to use analytics in your app. He then explains how to work with Google Analytics for Firebase—a cross-platform analytics package—to measure the usage of an app, dives into event collection, and shows how to analyze your data.

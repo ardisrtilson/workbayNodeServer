@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Iftach Bar
+Course_ID=603869
+Course_System=linkedin.com
+Course_Title=AngularJS: Scope and Digest
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Scope is at the heart of the AngularJS data-binding story, weaving together the controller (JavaScript) and the view (HTML) of a web application. The digest cycle is the scope's monitor, which watches for changes and updates the view. The way you edit the scope and call the digest cycle—using functions such as $watch(), $digest(), and $apply()—can make a huge difference in the reliability and performance of large applications. Companies are looking for AngularJS developers who can understand, execute, and troubleshoot these functions. This advanced AngularJS course helps you explore the connected worlds of $scope and the digest cycle. Instructor Iftach Bar explains scope and inheritance, goes behind the scenes of the digest loop, and teaches both manual and automatic data binding approaches. Plus, learn how to integrate external libraries, diagnose performance issues, and debug your applications.

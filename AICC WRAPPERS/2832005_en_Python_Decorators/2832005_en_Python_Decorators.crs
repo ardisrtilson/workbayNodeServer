@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=2832005
+Course_System=linkedin.com
+Course_Title=Python: Decorators
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Decorators are an increasingly important feature in Python. They add functionality to an existing object without permanently modifying it. Being able to use decorators effectively is critical to working with larger Python projects and frameworks. In this course, Jonathan Fernandes explains what decorators are and why they are used so extensively in production projects. He explains how to solve common challenges associated with decorators, such as debugging; how to chain decorators; how to use decorators with classes; and how to access the arguments passed into decorated functions. Plus, find out how to use and debug decorators in the real world by examining decorators' role in the source code for the Flask microplatform.

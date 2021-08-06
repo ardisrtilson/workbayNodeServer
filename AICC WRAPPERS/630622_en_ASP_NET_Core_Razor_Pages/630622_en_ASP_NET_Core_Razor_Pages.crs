@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jess Chadwick
+Course_ID=630622
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Razor Pages
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Razor Pages is an exciting new product released with ASP.NET Core 2, which makes building webpages without an MVC framework quick and easy. You can use it alone or in combination with ASP.NET MVC. In this course with Microsoft MVP Jess Chadwick, learn how to create a Razor Pages application, use the page model, manage dependencies, and secure your app. Jess helps you get your first dynamically rendered page up and running with Razor Pages. He demonstrates the use of layouts and classes to optimize pages for maintainability, and shows how to create simple HTML forms, validate and process user input, and lock down sections of your app for maximum security.

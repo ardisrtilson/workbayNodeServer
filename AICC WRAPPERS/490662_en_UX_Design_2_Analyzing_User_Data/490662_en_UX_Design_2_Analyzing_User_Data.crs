@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Nodder
+Course_ID=490662
+Course_System=linkedin.com
+Course_Title=UX Design: 2 Analyzing User Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Who are your users? What are their challenges? How can your design solve their needs? UX research can help you answer these questions, and many more. In this installment of UX Design Techniques, Chris Nodder walks through the process of acquiring user data and transforming that data into actionable project ideas. Learn how to observe users interacting with a prototype or simply performing tasks, build experience maps that depict those interactions, analyze the data, and extract ideas for new products and features.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Graham
+Course_ID=740363
+Course_System=linkedin.com
+Course_Title=Revit: Creating C# Plugins
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Revit is a powerful BIM platform, but it can be automated, customized, and expanded even further with plugins. With the Revit application programming interface (API) and an understanding of C#, any motivated Revit user, BIM manager, architect, or engineer can create their own custom plugins. This training course starts with an overview of the plugin development workflow, using a simple example that retrieves an element ID. Once you know how to create commands and compile and debug the plugin code, instructor Jeremy Graham shows you how to work with elements (aka Revit families). Learn how to create elements, filter elements, and get and set element parameters. Then find out how to edit element geometry through code—binding intersections and projecting arrays—and automate common tasks related to views and sheets. Finally, Jeremy shows an advanced way to execute your commands with custom user interfaces known as external applications.

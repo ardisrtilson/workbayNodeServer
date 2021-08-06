@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2211319
+Course_System=linkedin.com
+Course_Title=Git for System Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Git was designed with software developers in mind. But this popular distributed version control system—which makes it easy for individuals in different locations to manage changes to source code and text files—can also be useful in the world of system administration. In this course, discover how to use Git to better manage change and centralize system administration. Instructor Grant McWilliams shows how to install Git on several different operating systems. He then covers how to create local and remote repositories, create and analyze commits, and roll back to previous versions of files. To wrap up, he shares real-world strategies for managing system files using version control, as well as how to leverage third-party tools that extend the system's capabilities.

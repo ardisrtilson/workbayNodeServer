@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Hester
+Course_ID=421801
+Course_System=linkedin.com
+Course_Title=Learning Windows 10 Deployment for Small Businesses
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Small businesses may not deploy same number of Windows installations as large businesses, but they can encounter just as many problems. To deploy Windows 10 successfully, it's critical to identify the correct method for rollout. In this course, author Matt Hester will cover high touch options for deployment of Windows 10—the best choices for organizations that don't have a dedicated IT staff or a lot of resources. Concentrating on the most common scenarios, an upgrade and a fresh install, Matt will review performing a manual installation via a DVD, creating your own install DVD or USB with the media creation tool, and building custom Windows 10 images with the Microsoft Deployment Tookit (MDT).

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043088
+Course_System=linkedin.com
+Course_Title=VMware Horizon View 7.5 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware Horizon View provides organizations with a streamlined, cost-effective approach for delivering and managing virtual desktops and applications. In this course, learn what you need to know to administer a VMware Horizon View 7.5 environment. Instructor Rick Crisci covers basic Horizon View architecture concepts and goes over the different display protocol options. He also shows how to create full-clone, linked-clone, and instant-clone desktop pools; manage printers and applications; and leverage the basic functions of the Unified Access Gateway. This course can also help you prepare for the VMware Certified Professional 7 – Desktop and Mobility (VCP7-DTM) exam.

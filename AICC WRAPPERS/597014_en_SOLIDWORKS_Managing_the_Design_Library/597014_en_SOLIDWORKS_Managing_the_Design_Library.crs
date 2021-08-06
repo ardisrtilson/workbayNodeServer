@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Elise Moss
+Course_ID=597014
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Managing the Design Library
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The SOLIDWORKS Design Library makes it easy to locate and reuse your sketches, notes, and favorite features—preventing you from having to complete the same work twice. In this course, discover how to increase your SOLIDWORKS productivity by storing commonly used elements in the Design Library. Elise Moss helps you get started by showing how to add a folder that contains your Design Library elements to SOLIDWORKS, and then link that folder to the Design Library. She then demonstrates how to use this helpful tool to manage features, patterns, annotations, forming tools for sheet metal, and other elements that you'll likely use more than once.

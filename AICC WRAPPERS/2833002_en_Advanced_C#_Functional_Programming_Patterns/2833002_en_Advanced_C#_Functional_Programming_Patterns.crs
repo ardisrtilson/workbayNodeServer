@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2833002
+Course_System=linkedin.com
+Course_Title=Advanced C#: Functional Programming Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Functional programming offers developers a straightforward way to tackle modern software problems like massive scale, distributed systems, and multiple threaded runtimes. Curious about how to work functional programming patterns into your .NET applications? In this course, Walt Ritscher shows you how. Discover how to leverage the functional programming features in C# to transform your code. Walt covers key topics such as immutability, higher-order functions, and why expressions are better for functional programs. Plus, learn how to compose function flow in C# using pipelining; work with functional programming concepts like map, filter and bind in LINQ; and more.

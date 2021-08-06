@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=2241071
+Course_System=linkedin.com
+Course_Title=Introduction to Quantum Cryptography
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The frequency and severity of hacking and other attacks on our information systems are increasing. Despite remarkable progress in cybersecurity innovation, too many vulnerabilities continue to exist, and the threats are increasingly sophisticated. Quantum cryptography may offer some optimism in the long term. By leveraging the fundamentals of quantum mechanics, this set of emerging technologies allows information to be protected in novel new ways. Consequently, it's poised to shake up the world of information security. In this course, Jonathan Reichental lays out what quantum cryptography is, as well as the journey ahead to operationally realize quantum-based encrypted communications.

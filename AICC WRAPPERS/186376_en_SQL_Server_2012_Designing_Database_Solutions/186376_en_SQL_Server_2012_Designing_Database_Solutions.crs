@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=186376
+Course_System=linkedin.com
+Course_Title=SQL Server 2012: Designing Database Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to design databases, secure databases, and keep them in tip-top shape, with SQL Server 2012. Join Martin Guidry in this course, as he reviews each step in the process: from designing the infrastructure, a logical schema, and execution plan for the physical hardware, to using indexes to fine-tune performance and implementing policy-based management. He explains best practices for database design, shows where developers can bend the rules, and introduces techniques to manage your database throughout its lifecycle with PowerShell and other monitoring tools.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Favro
+Course_ID=576695
+Course_System=linkedin.com
+Course_Title=iOS App Development: Accessibility
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Millions of users rely on assistive technologies to help them make phone calls, send text messages, and access apps on their mobile devices. By leveraging the various accessibility technologies built into iOS when developing your app, you can help to ensure that everyone—regardless of their needs and abilities—can enjoy the app that you've created. In this course, explore the different accessibility technologies that are built into iOS, and learn how to build apps that all users can access. Follow Kevin Favro as he explains how to audit your app for accessibility problems, and explores various iOS technologies—including VoiceOver, a screen reader that lets you use phone even if you don't see the screen—and other considerations that might prevent someone from effectively using your app.

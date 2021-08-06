@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=731738
+Course_System=linkedin.com
+Course_Title=Configuration Manager: Maintain Inventory and Operating Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+System Center Configuration Manager (SCCM) can help enterprise desktop administrators more efficiently manage and deploy PCs, mobile devices, and servers. In this course, instructor Robert McMillen steps through the maintenance of inventory and operating systems, diving into topics that can help you prepare for Microsoft certification exam 70-703: Administering Microsoft System Center Configuration Manager and Cloud Services Integration. Learn how to deploy and manage the Configuration Manager client, configure and manage hardware inventory, and review Asset Intelligence reports. Plus, learn how to create a task sequence, configure automatic deployment rules, and more.

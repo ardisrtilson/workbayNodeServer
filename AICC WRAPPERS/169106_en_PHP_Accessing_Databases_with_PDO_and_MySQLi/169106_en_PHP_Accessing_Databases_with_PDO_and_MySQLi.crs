@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=169106
+Course_System=linkedin.com
+Course_Title=PHP: Accessing Databases with PDO and MySQLi
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Now that PHP has true object-oriented capabilities, it's best practice to access databases using PDO (PHP Data Objects) and MySQLi. These methods produce database-neutral code that works with over a dozen systems, including MySQL, SQL Server, PostgreSQL, and SQLite. Learn how to use PDO and MySQLi to perform basic select, insert, update, and delete operations; improve security with prepared statements; and use transactions to execute multiple queries simultaneously. Author David Powers also covers advanced topics like instantiating custom objects, and compares PDO to MySQLi so you can decide which method is right for you.

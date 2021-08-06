@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Károly Nyisztor
+Course_ID=753903
+Course_System=linkedin.com
+Course_Title=iOS Development: Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Our mobile devices store our most intimate conversations and photos, the payments we make, and an array of other sensitive personal data. App developers that gain access to devices are charged with protecting the security of all that information. In this course, seasoned developer Károly Nyisztor dives into the topic of iOS security, reviewing the means Apple provides to develop secure apps that are safeguarded from current and future threats. Károly goes over fundamental security concepts, including secure boot, sandboxing, and secure networking. He also explains how to secure devices using Touch ID and Face ID, leverage keychain services, perform asymmetric encryption and decryption, and much more.

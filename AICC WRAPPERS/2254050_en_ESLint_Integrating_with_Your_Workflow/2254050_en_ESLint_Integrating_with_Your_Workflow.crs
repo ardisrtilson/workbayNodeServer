@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2254050
+Course_System=linkedin.com
+Course_Title=ESLint: Integrating with Your Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Errors crop up in even the most experienced JavaScript developer's code. ESLint can help you catch these issues early and often; it gives you a heads-up when your JavaScript code might work, but isn't quite right. This popular tool highlights errors as you're coding and allows you to write and enforce custom rules. In this concise course—the first in the ESLint series—learn how to integrate ESLint into your workflow to customize automatic error checking. Instructor Sasha Vodnik steps through how to add ESLint to a project and configure it to examine code style and automatically populate your configuration with rules from a style guide. Plus, learn how to configure and use the ESLint extension for your code editor.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Dankwardt
+Course_ID=504429
+Course_System=linkedin.com
+Course_Title=Linux: Bash Shell and Scripts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bash scripting can help you automate routine tasks and save valuable time, whether you're a Linux user, sys admin, or software developer. Kevin Dankwardt has written thousands of bash scripts, short and long. Here he teaches you how to read and write scripts, and provides a series of scripting challenges to help you test your new skills. Learn about the bash environment, local variables, functions, loops, case statements, string operations, and coprocesses. Plus, learn how to use the text processing utilities sed and AWK to read and edit data in text files. The topics covered in this course are vital for Linux administration, and required for many Linux certifications.

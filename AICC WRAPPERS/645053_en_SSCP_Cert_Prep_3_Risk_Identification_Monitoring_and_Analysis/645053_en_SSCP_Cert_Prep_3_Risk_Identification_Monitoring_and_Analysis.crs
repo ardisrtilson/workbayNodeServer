@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=645053
+Course_System=linkedin.com
+Course_Title=SSCP Cert Prep: 3 Risk Identification, Monitoring, and Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Jump start your career in IT by earning the (ISC)2 Systems Security Certified Practitioner (SSCP) certification. In this installment of the SSCP Cert Prep series, instructor Mike Chapple covers the objectives of Risk Identification, Monitoring, and Analysis, the third domain of the SSCP exam. Topics include quantitative risk assessment, risk visibility and reporting, vulnerability assessment tools, and security assessment techniques. In addition, learn about security information and event management (SIEM) systems, visualization and reporting, software testing, and more.

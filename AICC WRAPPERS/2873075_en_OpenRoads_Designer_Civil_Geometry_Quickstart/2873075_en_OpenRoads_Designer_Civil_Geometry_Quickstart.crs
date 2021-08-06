@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Urbas, Bentley Systems
+Course_ID=2873075
+Course_System=linkedin.com
+Course_Title=OpenRoads Designer: Civil Geometry Quickstart
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you have a roadway project and don’t know where to start? Or do you want to learn the basics of roadway design? In this course, instructor Scott Urbas shows you how to use the OpenRoads Designer civil geometry tools to create horizontal and vertical geometry for a simple roadway project. Scott demonstrates how to utilize the civil geometry tools to create, edit, annotate, and review civil geometry elements. He also shows you how to attach an existing terrain model and aerial imagery, as well as define 2D and 3D views. After completing this course, you will be able to successfully utilize the civil geometry tools to create civil geometry for your own roadway project.

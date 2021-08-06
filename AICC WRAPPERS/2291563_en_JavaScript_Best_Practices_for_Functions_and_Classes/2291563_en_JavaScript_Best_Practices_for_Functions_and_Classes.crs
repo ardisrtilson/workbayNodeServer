@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=2291563
+Course_System=linkedin.com
+Course_Title=JavaScript: Best Practices for Functions and Classes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript uses C-based syntax, but the structures at its core, namely functions and classes, behave very differently than C behaves. Leveraging recommended techniques can help you develop JavaScript code that is more consistent and easier to maintain. In this course, explore best practices for architecting your programs. Consider ways that details can take paths that differ from other programming languages. Learn about creating well-built, organized, modular, and high-quality code by using a style guide, modern deployment tools, and strict mode. Discover how to carefully construct functions using more predictable expressions over declarations and by avoiding the modification of parameter values. Examine the dos—and don’ts—of “this” values and learn about which JavaScript features to avoid.

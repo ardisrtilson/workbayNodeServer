@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=674603
+Course_System=linkedin.com
+Course_Title=Prototyping AR User Experiences with Framer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The possibilities for augmented reality (AR) are nearly endless. Developers and designers can leverage this technology to create lively experiences that educate and entertain users. In this course, join instructor Emmanuel Henri as he steps through the conception and creation of an AR-based app prototype using Framer. He begins the course by providing a brief overview of AR and demonstrating how to set up a project in Framer. He then shows how to build AR elements in Framer, explaining how to use modules, add 3D elements into a scene, insert UI elements, and add a few interactions. To wrap up, he shares how to insert a video background to simulate a full AR experience.

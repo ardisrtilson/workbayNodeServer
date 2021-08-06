@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=688525
+Course_System=linkedin.com
+Course_Title=SharePoint Framework for Developers:  1 Understanding the Toolchain
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint Framework (SPFx) allows developers to extend SharePoint Online and SharePoint on premises, via web parts or extensions. Before diving into SPFx, you need to master the toolchain—technologies such as Node.js, npm, Gulp, TypeScript, webpack, Yeoman, Sass, and more. Instructor Sahil Malik uses this introductory course to explore the toolchain. He shows how to write basic Node.js code; bundle images, CSS, and apps with webpack; use Yeoman generators; and integrate TypeScript and Sass. Developers who are already familiar with these tools can jump to the end of the course, where Sahil shows how to set up a complete SPFx development environment.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2253164
+Course_System=linkedin.com
+Course_Title=Configure and Manage SharePoint On-Premises
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In today’s complex computing environment, where many users and teams are working remotely, you need more than simple on-premises toolsets. Microsoft 365 hybrid solutions—such as SharePoint Server—can help extend your local environment. This course shows how to configure and manage SharePoint on-premises while leveraging some of the best features of SharePoint Online. Instructor Ed Liberman explains how to plan and configure site collections, set up SharePoint farms, configure managed metadata, create user profiles and search service apps, and secure, monitor, and maintain SharePoint. These techniques help you create a solid and secure on-premises environment, while capitalizing on all the benefits of the cloud.

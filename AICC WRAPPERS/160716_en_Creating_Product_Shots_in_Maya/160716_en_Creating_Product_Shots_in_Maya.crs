@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=160716
+Course_System=linkedin.com
+Course_Title=Creating Product Shots in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating virtual product shots reduces the need for photography. But those shots need to be accurately shaded, lighted, and rendered to seem realistic. That's when you turn to Maya. Its toolset for materials and lighting is almost limitless. In this course, you'll learn to shade, light, and render a product shot in Maya. Aaron F. Ross is your guide through the entire production workflow, starting with a prebuilt CAD model. Aaron uses mental ray's mia_material_x shader, constructs several different lighting setups, renders to separate passes, and color corrects in Adobe After Effects. Let Maya's power help you present product renderings in their best light. Want to learn how to create the same effect with 3ds Max? Check out Creating Product Shots in 3ds Max.

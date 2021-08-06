@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=679616
+Course_System=linkedin.com
+Course_Title=Dynamics for Power Users: Reports, Charts, and Dashboards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to work smarter in Microsoft Dynamics 365. In this advanced course, instructor Gini von Courter dives into using reports, charts, and dashboards to influence business workflows and share the data story inside Dynamics. Gini steps through how to create, modify, manage, and share reports. She also discusses how to create and modify charts and dashboards, use a system template, create Excel templates for Dynamics, and more.

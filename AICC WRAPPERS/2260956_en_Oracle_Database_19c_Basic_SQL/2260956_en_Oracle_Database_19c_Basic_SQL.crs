@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bob Bryla
+Course_ID=2260956
+Course_System=linkedin.com
+Course_Title=Oracle Database 19c: Basic SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mastering SQL is an essential skill for any Oracle professional and the first step in becoming a true Oracle expert. In this course, Bob Bryla covers the basics required to code using SQL in an Oracle 19c Database environment. Bob covers what you need to know to get data in and out of your database tables, as well as how to modify data. He explains how to leverage SELECT statements, filter and sort rows, use both single- and multiple-row functions, and join tables. He delves into the Oracle data dictionary—a set of tables that provide information about a database—and shows how to query it. Plus, he demonstrates how to efficiently delete data using DML statements. Upon wrapping up this course, you'll have the fundamental skills you need to work with SQL in this popular relational database management system.

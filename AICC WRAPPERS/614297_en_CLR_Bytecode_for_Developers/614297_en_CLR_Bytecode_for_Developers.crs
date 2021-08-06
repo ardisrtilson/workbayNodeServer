@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ted Neward
+Course_ID=614297
+Course_System=linkedin.com
+Course_Title=CLR Bytecode for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you know how to speak intermediate language (IL), you have a window into the world as the .NET runtime sees it. In this course, learn about using Common Language Runtime (CLR) bytecode to manage virtual machines in Windows applications, and discover how to speak IL like a pro. Instructor Ted Neward helps to familiarize you with the basics of IL, and walks through this assembly language's syntax. Ted dives into working with ILDasm and ILasm, discusses classes, CIL opcodes and operands, and more.

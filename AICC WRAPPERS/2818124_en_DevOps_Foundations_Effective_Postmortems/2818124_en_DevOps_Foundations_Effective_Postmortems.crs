@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ernest Mueller
+Course_ID=2818124
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Effective Postmortems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What comes to mind when you think about incident postmortems in the tech space? If you picture a catastrophic incident, a scramble to pinpoint the root cause, and some sort of fix, you're not alone; this was an established way of dealing with security crises for years. But since the buildup of small, unresolved problems—both in your code and with your team—can end up causing bigger issues than any one showstopper, this manner of investigation isn't productive. In this course, Ernest Mueller shows how to approach incident investigations the DevOps way, explaining how to conduct a formal, blameless postmortem. Discover how to clearly communicate an incident's scope, pinpoint the proper corrective actions, continuously improve your resiliency using incremental retrospectives, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=622088
+Course_System=linkedin.com
+Course_Title=CSS: Advanced Layouts with Grid
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CSS layouts are becoming less of a puzzle. After decades of hacking CSS to make multicolumn layouts, the CSS Grid Layout module makes page layout predictable. In this course, take a step back from traditional layout models, and learn how to take full advantage of the new capabilities of CSS Grid to build interfaces that are attractive, accessible, and responsive. Join Morten Rand-Hendriksen as he walks through how to create full-bleed layouts, multicolumn layouts, and advanced card-based layouts. He demonstrates how to create dynamic responsive grids that adjust to their available viewport space.

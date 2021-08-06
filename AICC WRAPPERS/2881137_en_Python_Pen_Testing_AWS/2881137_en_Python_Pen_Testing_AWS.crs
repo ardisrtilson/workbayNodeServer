@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2881137
+Course_System=linkedin.com
+Course_Title=Python: Pen Testing AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Pen testing is a standard technique for on-site systems, but the way testing is carried out in the cloud is different. This course explores the different types of vulnerabilities in the cloud, the techniques used to test cloud deployments, and key open-source tools for testing Amazon Web Service deployments: CloudGoat, the AWS CLI, and the AWS Python Software Development Kit, known as boto3. Instructor Malcolm Shore shows how to set up your test environment and then use Python to enumerate policies, programmatically create users, manage secrets, list EC2 and RDS instances, and more. He also shows how to get a quick summary of the resources in your AWS account with the PATE tool and use other Python-based testing tools such as PACU. The skills you learn in this course will help you test your AWS deployments for the weaknesses that others will exploit and design your own customs scripts for testing.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=651201
+Course_System=linkedin.com
+Course_Title=Learning C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C# is the language at the heart of many Windows applications, including Windows Phone and Windows Store apps. It is the principle programming language for Microsoft and required knowledge for developers in this area. Learn the fundamentals of C# version 7, including basic language syntax and object-oriented programming techniques, in this training course with instructor Alexander Zanfir. Explore variables and data types; controlling program flow with conditions and loops; and building functions. Learn how to implement object-oriented programming such as encapsulation and inheritance in C#, and find out how to debug your code. Alexander then explores advanced concepts such as enumerators, ref parameters, interfaces, events, and abstract classes. In the last two chapters, he covers the top features introduced in the last several versions of C#, including lambda expressions and string interpolation.

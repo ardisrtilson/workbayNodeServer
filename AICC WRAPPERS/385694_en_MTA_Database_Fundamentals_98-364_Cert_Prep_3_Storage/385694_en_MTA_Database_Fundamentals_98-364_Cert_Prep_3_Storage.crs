@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=385694
+Course_System=linkedin.com
+Course_Title=MTA Database Fundamentals (98-364) Cert Prep: 3 Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Storage is a database's full-time job. Yet many IT professionals never really learn how it's done. This course is designed to change that, providing a baseline understanding of databases and their mechanics. Adam Wilbert covers normalization, a table structuring technique that reduces data redundancy; primary, foreign, and composite keys—features supporting the table relationships that underlie relational databases; and indexing, which helps speed up data retrieval. Along the way, Adam will provide tips for working with SQL Server Management Studio and some challenges to help you practice what you've learned. Note: This course will also prepare certification candidates for the Understanding data storage domain of the Microsoft Technology Associate (MTA) Exam 98-364, Database Administration Fundamentals. Find out more at https://www.microsoft.com/learning/en-us/exam-98-364.aspx.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=758646
+Course_System=linkedin.com
+Course_Title=Ethical Hacking with JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web applications combine complexity and exposure to networks. JavaScript and the web offer great power, but also many opportunities to leave doors open to hackers. Ethical hacking lets you find those open doors before they can be exploited, and ensure that your sites and applications stay safe. This course was designed to equip JavaScript developers with ethical hacking techniques and tools that can help them boost the security of their JavaScript code. Instructor Emmanuel Henri shows how to put together an attack strategy and do some reconnaissance work using key tools, including Snyk, which automates finding and fixing vulnerabilities in projects. He also dives into some of the most common security threats out there, explaining what they are and how to spot them.

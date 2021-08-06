@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=555797
+Course_System=linkedin.com
+Course_Title=Cloud Computing: Private Cloud Platforms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most leading private clouds provide similar features. So, how can you select the right solution for your organization? This course examines industry-leading private cloud platforms and compares the services offered. Learn the fundamentals of cloud computing using a private cloud, consider reasons why you might choose a private cloud solution for your business, and discover the features and services offered by several providers—from security to integration and compatibility features.

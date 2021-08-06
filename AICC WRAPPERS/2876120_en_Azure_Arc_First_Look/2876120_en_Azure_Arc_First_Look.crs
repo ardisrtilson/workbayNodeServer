@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=2876120
+Course_System=linkedin.com
+Course_Title=Azure Arc First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Arc enables you to project your on-premises and cloud resources, such as virtual or physical servers and Kubernetes clusters, into Azure Resource Manager. This extends Azure management to any infrastructure, enabling you to manage your resources as if they’re running in Azure. In this course, instructor Brien Posey presents a first look at Azure Arc and, specifically, Azure Arc-enabled servers. Brien explains what Azure Arc is and why it can benefit your organization. He goes into various use cases for Azure Arc. Through hands-on demos, he covers how to connect to Azure Arc, how to work with policies, and how to monitor virtual machines (VMs).

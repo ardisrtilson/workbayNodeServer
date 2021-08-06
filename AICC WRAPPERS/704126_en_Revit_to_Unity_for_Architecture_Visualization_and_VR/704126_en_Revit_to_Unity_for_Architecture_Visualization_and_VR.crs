@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Logan Smith
+Course_ID=704126
+Course_System=linkedin.com
+Course_Title=Revit to Unity for Architecture, Visualization, and VR
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you underutilizing your 3D models? Would you like to showcase architecture and engineering by transforming your Revit files into virtual reality experiences? Join Logan Smith and explore strategic export methods for Revit files. Logan covers how to get Revit files ready for export, use the export views, link to a model, and reassign mapping. Then he shows how to import files into Unity and set up scenes. He also demonstrates how to begin visualization processes and prepare for more advanced Unity work that is covered in other courses.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Raghavendra Dixit
+Course_ID=656821
+Course_System=linkedin.com
+Course_Title=Introduction to Data Structures & Algorithms in Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance your programming skill set by learning about some of the most commonly-used data structures and algorithms. In this course, instructor Raghavendra Dixit walks through how to use Java to write code to implement data structures and algorithms. After explaining why it's advantageous to study these topics, he goes over the analysis of algorithms and discusses arrays—a data structure found in most programming languages. He also explains how to implement linked lists in Java, and covers stacks, queues, recursion, binary search trees, heaps, and more. Note: This course was created by Packt Publishing. We are pleased to host this training in our library.

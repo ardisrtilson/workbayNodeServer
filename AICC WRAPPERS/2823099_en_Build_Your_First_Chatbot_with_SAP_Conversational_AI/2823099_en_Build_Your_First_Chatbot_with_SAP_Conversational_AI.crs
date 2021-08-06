@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2823099
+Course_System=linkedin.com
+Course_Title=Build Your First Chatbot with SAP Conversational AI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the rise of digital assistants like Alexa and Siri, voice-based interactions are becoming commonplace. SAP provides its own bot-building framework for creating chatbots that can access and work with SAP systems and data. This course provides a general overview of chatbots, including common use cases and terms, and explains the various stages of bot development using SAP Conversation AI. Learn how to use bot elements such as intents and skills to add logic and functionality to your bot, and test and monitor the bot’s interactions. Plus, discover how to integrate external AIs and embed your bot in different channels, such as webpages, Alexa, and the SAP assistant, CoPilot, using the Bot Connector API. This course was created by Michael Management. We are pleased to offer this training in our library.

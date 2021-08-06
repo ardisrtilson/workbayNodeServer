@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=2874330
+Course_System=linkedin.com
+Course_Title=CCSK Cert Prep: 3 Managing Cloud Security and Risk
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Outsourcing IT services to public cloud providers introduces and changes IT-related risks to an organization. Instructor Daniel Lachance goes over risk management, compliance, and security monitoring in the cloud. Daniel shows you how to identify assets such as virtual machines, cloud storage, and web apps, then goes over ways to manage the risks associated with the assets, including the Cloud Controls Matrix (CCM), Consensus Assessments Initiative Questionnaire (CAIQ), and the Security Trust Assurance and Risk (STAR) registry. He explains that data privacy is a primary concern for all businesses, so compliance with all applicable regulations and standards for securing data is key. Daniel covers how you can monitor cloud security using cloud service logs, cloud auditing, alerts, notifications, and more.

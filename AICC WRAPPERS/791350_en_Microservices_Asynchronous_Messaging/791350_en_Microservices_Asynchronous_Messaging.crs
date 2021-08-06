@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=791350
+Course_System=linkedin.com
+Course_Title=Microservices: Asynchronous Messaging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to get work done more efficiently with asynchronous messaging, an alternative way of handling communication in a microservices architecture. In this course, Frank Moley shows software developers charged with building large applications how to go beyond RESTful API calls over HTTP and leverage asynchronous messaging when architecting and building microservices. Frank digs into the gains and tradeoffs you must accept when using asynchronous patterns. He also discusses interservice communication patterns, event-driven microservices patterns, using asynchronous messaging to solve for data migration when moving to microservices architectures, and more.

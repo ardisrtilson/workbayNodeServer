@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2885063
+Course_System=linkedin.com
+Course_Title=Visual Studio Tips and Techniques for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover tips and techniques that can make working in Microsoft Visual Studio simpler, faster, and more interesting. In this course designed for .NET developers, Walt Ritscher shines a spotlight on helpful shortcuts and productivity boosters for Visual Studio. He dives into a variety of topics, including filtering views, using custom keyboard commands, grouping files with tabs, duplicating code, and previewing files. Plus, learn about helpful extensions that augment the power of Visual Studio.

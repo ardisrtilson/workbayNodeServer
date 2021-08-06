@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2835078
+Course_System=linkedin.com
+Course_Title=Azure Administration: Identities and Governance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure identity and governance services help you secure access to your resources. In this course, instructor Sharon Bennett delves into this essential topic, showing Azure administrators what they need to know to ensure that the right people can access the right resources. Sharon steps through how to manage device settings and create users and groups. She also discusses important security considerations around role-based access controls, Azure policies, subscriptions, and resource groups. Plus, you can use this course to prep for the Manage Azure Identities and Governance domain in the Microsoft Azure Administrator exam (AZ-104).

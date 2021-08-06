@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lazaro Diaz
+Course_ID=183460
+Course_System=linkedin.com
+Course_Title=Advanced Cisco Routing: RIPv2, EIGRP, and OSPF
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Routing dictates how your organization's information (and the rest of the world's) gets from point A to point B. And it's the responsibility of network professionals to get routing right. So join Lazaro Diaz, as he takes you through advanced topics and techniques in Cisco routing, from configuring RIPv2 routes for smaller networks, to EIGRP, advanced distance routing, and OSPF, a more complex protocol that brings many more features and greater flexibility to your network. You'll be able to practice configuring all of these protocols using the Packet Tracer demo environment and Lazaro's detailed tutorials.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Arun Gupta
+Course_ID=576584
+Course_System=linkedin.com
+Course_Title=Docker for Java Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Docker—a leading software container platform—can simplify the overall application delivery experience by providing a common platform for collaboration. Docker integrates seamlessly with existing tool chains, making it easier to deliver software rapidly. In this course, discover how to get started with Docker, and learn tips and tricks tailored for Java developers working with the platform. Arun Gupta explains how to run containers and build images, as well as how to deploy multi-container applications on multiple hosts. Arun also covers Docker clustering, demonstrates how to run stateful containers, shares strategies on how to persist the state of stateful containers, and goes into monitoring Docker containers.

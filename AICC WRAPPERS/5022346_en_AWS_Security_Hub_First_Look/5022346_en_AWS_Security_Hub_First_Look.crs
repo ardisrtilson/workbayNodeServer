@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=5022346
+Course_System=linkedin.com
+Course_Title=AWS Security Hub First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AWS Security Hub—a security dashboard and insights tool from Amazon—provides users with a one-stop dashboard from which they can monitor their deployment for common security issues, including vulnerable services and publicly available S3 buckets. Security Hub provides a convenient and flexible search tool to filter issue types, and identifies fixes that need to be applied to resources. Amazon is currently allowing users to take this powerful tool out for a spin as a preview. In this course, Scott Simpson provides a first look at Security Hub, helping to acquaint you with the tool before it officially joins the AWS suite. Learn about the main features of Security Hub, as well as how it can help you gain new insights and resolve security problems.

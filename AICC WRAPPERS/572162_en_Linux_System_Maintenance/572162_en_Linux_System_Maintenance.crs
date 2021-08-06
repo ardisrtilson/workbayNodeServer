@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=572162
+Course_System=linkedin.com
+Course_Title=Linux: System Maintenance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+It can be tempting to skimp on regular system maintenance once your computer is up and running. That said, it's essential to keep tabs on your machine, and check to see if there are any security problems you should address, and whether your computer is keeping up with its tasks. In this course, dive into the basics of Linux system maintenance. Instructor Scott Simpson explains how to approach any Linux system, to help you get your bearings if a system looks unfamiliar. He also covers system and security logs, troubleshooting the boot process, upgrading software, freeing disk space, and automating reports with scripting.

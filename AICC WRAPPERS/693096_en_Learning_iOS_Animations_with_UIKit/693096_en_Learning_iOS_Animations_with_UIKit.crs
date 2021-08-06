@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Harrison Ferrone
+Course_ID=693096
+Course_System=linkedin.com
+Course_Title=Learning iOS Animations with UIKit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The visuals of a mobile application often determine its success. Being able to create visually appealing, customized animations in your apps will attract users, and keep them coming back again and again. In this course, join Harrison Ferrone as he dives into the fundamentals of UIKit, from basic animations and transitions all the way to animating auto layout constraints. By the end of this course, you'll have a solid foundation to start bringing your apps to life.

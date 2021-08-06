@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=688537
+Course_System=linkedin.com
+Course_Title=Cisco Network Security: Intrusion Detection and Prevention
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A network must be able to quickly recognize threats. Intrusion detection and intrusion prevention systems (IDS/IPS) provide organizations with a proactive approach to monitoring their network, enabling them to take action against possible threats. In this course, join security ambassador Lisa Bock as she provides an overview of intrusion detection and intrusion prevention systems and explains how they detect and mitigate common attacks. She covers detection and signature engines, triggering actions and responses, and deploying an IOS-based IPS. In addition, she goes over some practical applications of these systems, including honeypot-based intrusion detection and the EINSTEIN system from the Department of Homeland Security.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Trader, Mike Danseglio
+Course_ID=184161
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 Active Directory: Network Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this Windows Server 2012 course, Mike Danseglio and Rick Trader cover installation, configuration, and troubleshooting of Windows Distributed File System (DFS). Learn how to provide services and resources to the users across your organization and how to plan, install, implement, and troubleshoot DHCP. Plus, explore topics like fault tolerance, DHCP clustering, and DNS.

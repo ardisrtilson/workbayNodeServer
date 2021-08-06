@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tim Chase
+Course_ID=2805570
+Course_System=linkedin.com
+Course_Title=DevSecOps: Continuous Application Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With DevOps continuing to grow in prominence, modern businesses expect applications to be built with greater speed and efficiency than ever before. Even so, the importance of application security cannot be downplayed for the sake of a pressing deadline. In this course, learn how to build a continuous application security process that meshes with the faster-paced world of DevOps. Instructor Tim Chase describes DevSecOps and its impact on application security. Tim then explores tools and strategies for testing apps in an automated fashion, explaining how key tools can integrate with the DevOps workflow. He covers interactive application security testing, the different aspects of container security (and how they can be automated), continuous secret scanning, and more.

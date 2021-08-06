@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=124077
+Course_System=linkedin.com
+Course_Title=Learning eDrawings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+eDrawings is a free design-review tool for viewing 2D drawings and complex 3D CAD models and assemblies in a compact format. And it's not just for engineers; eDrawings is designed for anyone who needs to review designs and doesn't have access to CAD software. In this course, Gabriel Corbett shows you how to view, print, and review files with eDrawings. Learn how to create and work with views, which give you better insights into your model; add annotations like notes, measurements, and shapes; and view and reply to comments from reviewers. Plus learn to view and share drawings on mobile devices with the eDrawings app for mobile devices.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2819179
+Course_System=linkedin.com
+Course_Title=Unity Medical Visualization: 02 Animation and Coding
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity isn’t just for games. The powerful 3D engine can be used to created educational assets, like the medical visualization featured in this three-part series: an animated 3D human heart. In the second course of the series, instructor Alan Thorn covers animation and coding—the elements that bring the visualization to life. Learn how to set up the object hierarchy, create playback controls for the blood flow, add morph animations to simulate the heartbeats, and create interactive isolations with C# code. Plus, find out how to insert UI text such as messages and pop-ups to annotate the visualization and assist with learning.

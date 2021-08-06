@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=782147
+Course_System=linkedin.com
+Course_Title=Learning Framer X
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a quick start to using Framer X, the UX prototyping and front-end development tool. Learn how to lay out, prototype, iterate, and publish your designs using Framer tools and React component integration. Explore the differences between Framer Studio and Framer X, and build your layout with the easy-to-use drawing and design tools. Then learn how to make your design more engaging with click and scroll interactions. Instructor Emmanuel Henri—a Framer fan since its very first release—also shows how to incorporate React components into Framer for faster design and maximum reusability.

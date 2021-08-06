@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=2849041
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Security Technologies (AZ-500) Cert Prep: 2 Implement Platform Protection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With cyberattacks on the rise, professionals who can keep an organization's networks, applications, and data safe are in high demand. The Microsoft Azure Security Technologies (AZ-500) exam is the perfect opportunity for IT professionals to demonstrate their cybersecurity skills to current and future employers. In this course, Pete Zerger helps you deepen your knowledge of Azure security as you study for the Implement Platform Protection domain of the AZ-500 exam. Pete demonstrates how to implement advanced network security, including how to create and configure Microsoft Azure Firewall and implement service endpoints. Plus, he covers how to configure container security, explaining how to configure security for different types of containers, implement Azure Disk Encryption, and more. Along the way, he provides hands-on demonstrations that show how to apply these concepts in the real world.

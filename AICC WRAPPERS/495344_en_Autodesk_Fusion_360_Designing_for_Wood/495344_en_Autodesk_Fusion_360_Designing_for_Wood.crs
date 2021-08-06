@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thom Tremblay
+Course_ID=495344
+Course_System=linkedin.com
+Course_Title=Autodesk Fusion 360: Designing for Wood
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fusion 360 offers traditional 3D modeling tools in a flexible environment that's ideally suited to anyone interested in furniture design. This course will show how to use the fundamental tools in Fusion 360 to design 3D components using sketching and leveraging primitive solids, and joining them into an assembly of a complete flat-stack furniture design. Once modeled, the design can be rendered and used to develop detailed drawings and output data that can be sent to a routing table to create the real furniture.

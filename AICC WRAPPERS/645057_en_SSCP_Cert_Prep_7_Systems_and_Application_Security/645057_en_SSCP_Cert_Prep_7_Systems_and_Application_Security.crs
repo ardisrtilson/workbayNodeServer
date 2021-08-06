@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=645057
+Course_System=linkedin.com
+Course_Title=SSCP Cert Prep: 7 Systems and Application Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Systems Security Certified Practitioner (SSCP) certification is an excellent entry point to a career in IT security. To help you prepare for the SSCP exam, instructor Mike Chapple has designed a series of courses covering each domain. In the final installment, Mike covers the objectives of Systems and Application Security, Domain 7, which comprises 17% of the questions on the exam. Topics include malware, systems and application attack types, social engineering, and mobile and cloud security. Plus, learn techniques to secure your site and application code, harden virtual machines and appliances, and secure big data systems. To join one of Mike's free study groups for access to bonus tips and practice questions, visit certmike.com.

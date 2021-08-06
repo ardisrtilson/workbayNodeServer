@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2890060
+Course_System=linkedin.com
+Course_Title=SAP Business Rule Framework (BRF+) Introduction
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course covers the basics of the SAP in-house Rapid Application Development tool, Business Rule Framework (BRF+). The course starts with the basics of Rapid Application Development (RAD), then provides an introduction to the concepts and strengths of BRF+. Also covered are the differences between waterfall and agile project management, and details on how to integrate BRF+ into each workflow. Note: This course was created by Michael Management. We are pleased to host this training in our library

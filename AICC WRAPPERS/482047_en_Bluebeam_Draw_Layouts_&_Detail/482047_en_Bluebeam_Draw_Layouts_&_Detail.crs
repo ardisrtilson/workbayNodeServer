@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim Rogers
+Course_ID=482047
+Course_System=linkedin.com
+Course_Title=Bluebeam: Draw Layouts & Detail
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the AEC industry, there are many of us who do not have full-blown CAD skills. Superintendents, project managers, estimators, and sales staff may all need to create drawings, but rarely own a copy of a program like AutoCAD. More often than not, we end up sketching proposed layouts and details by hand. Not only is this tedious work, but the end product is not easily edited, it's hard to store and distribute, and it doesn't look quite as professional as a digital drawing. Using features contained in Bluebeam Revu, including templates, Sketch Tools, scale calibration, and length and area measurements, we can generate more accurate and professional drawings. In this course, Jim Rogers shows how to generate electronic layouts that can be distributed as PDFs, printed, or sent to a Bluebeam Studio Project folder. The techniques rely on the Sketch Tools markup feature, which allows us to sketch to scale and record length and area values as we draw. Jim also shows how to save and share our drawings with clients and colleagues, and extract quantities to generate cost estimates.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=772342
+Course_System=linkedin.com
+Course_Title=Angular: Material Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Angular Material is a UI component framework and a reference implementation of Material Design, a unified system created by Google designers for crafting high-quality digital experiences. In this project-based course, learn how to get started with Angular Material. Instructor Robby Millsap helps to familiarize you with Material Design by covering the core concepts behind it, as well as walking through how to install Angular Material. He also shows how to work with layouts, components, and theming features to give a project a user experience overhaul.

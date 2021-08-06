@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mohammad Azam
+Course_ID=779750
+Course_System=linkedin.com
+Course_Title=Blockchain Programming in iOS Using Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blockchain enables decentralized encryption of sensitive data. Once the domain of the dark web, the power of the blockchain can now be harnessed by everyday developers. This training course explains how to implement blockchain-based storage and encryption in the iOS framework using Swift. Instructor Mohammad Azam begins with the very basics, explaining all the details related to blockchain technology: cryptocurrency like bitcoin, distributed ledgers, keys, and mining. He shows how to implement the core elements of blockchain—models, keys, and blocks—and then builds smart contracts as well as a web API that exchanges data securely with the blockchain. Plus, learn how to decentralize blockchain even further using node-based processing and mining.

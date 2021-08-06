@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Taylor
+Course_ID=2882047
+Course_System=linkedin.com
+Course_Title=Advanced Facebook Advertising
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Facebook is a key advertising platform for businesses of all sizes. This course showcases advanced techniques to help marketers accomplish their advertising and engagement goals. Instructor Michael Taylor first shows how to efficiently create and manage large ad volumes as well as ad campaigns across different ad accounts and pages. You can also learn to use the Business Manager tool to allow multiple users with different permission levels manage ad campaigns. He introduces time-saving techniques for bulk uploading ads, using custom audiences, duplicating ads with different targeting and imagery, split testing ads, and adjusting ads for Instagram and other placements. Next, learn marketing attribution and optimization techniques, such as mix modeling, funnel event targeting, and advanced conversion tracking with the Facebook Ads Conversions API. Finally, discover how to automate your ads at scale using the Facebook Business API and let AI-based tools generate ads for you.

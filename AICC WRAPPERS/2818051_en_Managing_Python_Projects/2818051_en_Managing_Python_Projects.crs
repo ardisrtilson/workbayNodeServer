@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=2818051
+Course_System=linkedin.com
+Course_Title=Managing Python Projects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While the work of coding can be a solitary endeavor, software developers don't work in a vacuum. In order to successfully bring their projects to the finish line, they must spend their days coordinating effectively with other developers. In this course, join Miki Tebeka as he shares best practices and tips for efficiently managing Python projects. Miki covers the essential non-coding tasks around Python programming, including how to best approach the directory structure for a project, tackle challenges related to dependency management, and determine what (and how much) to test. Plus, get general strategies for handling the development process, including how to use source control and issue tracking systems effectively.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=559181
+Course_System=linkedin.com
+Course_Title=Cassandra Data Modeling Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Cassandra is a NoSQL database capable of handling large amounts of data that change rapidly. In this course, learn about the architecture of this popular database, and discover how to design Cassandra data models that support scalable applications. Dan Sullivan highlights the differences between Cassandra and relational databases, discusses the Cassandra Query Language (CQL), and shows techniques for modeling based on application query requirements. He also dives into Cassandra implementation details that impact data modeling choices, to help you reason through other design decisions while taking into account the database's architecture and limitations.

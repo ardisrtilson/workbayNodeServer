@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=5030979
+Course_System=linkedin.com
+Course_Title=Building Intelligent Chatbots on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Voice control and interaction is becoming more common—and more expected from our apps. Amazon Lex provides speech recognition and natural language understanding, allowing developers to build their own custom logic around it. This course introduces a specific use case for Lex: intelligent chatbots that can respond to and redirect customer inquiries. Discover how to use the Lex API and CLI, build and test your bot, and configure the prompts and responses that will make your bot seem trustworthy and useful. Instructor Bear Cahill also explains how to publish your bot to the Amazon cloud and leverage lambdas—serverless functions—for user data validation and intent fulfillment. By the end of the course, you’ll know how to build smart, sophisticated chatbots and use Lex to do all the heavy lifting.

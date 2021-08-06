@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=769299
+Course_System=linkedin.com
+Course_Title=Python Network Programmability: Scaling Scripts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The days of configuring networks with only the CLI are drawing to a close. Python extends the capabilities of network programming, allowing you to build complex scripts that can easily scale to fit the needs of your network. This training course shows how to use Netmiko—a Python library for SSH management of network hardware—to write scripts to perform a number of network configurations. Instructor David Bombal shows how to configure Cisco routers and switches by iterating from a simple script with one connection and one command. He shows how to grow and improve the code over time, building into a powerful script that can read multiple commands and multiple IPs from a file, prompt for user credentials, handle errors, and find specific devices. He also shows how to scale scripts with encrypted passwords and multithreading, which allows you to execute several commands simultaneously.

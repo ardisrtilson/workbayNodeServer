@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Deepa Muralidhar
+Course_ID=2823571
+Course_System=linkedin.com
+Course_Title=Python Data Structures: Dictionaries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dictionaries are a common data structure in Python programming, designed to hold a sequence of key-value pairs. Dictionaries are dynamic, can be nested, and are preferable to lists in situations where you would want to search for and retrieve data with the same key. Being able to use dictionaries effectively is critical to mastering Python and create more efficient code. In this course, Deepa Muralidhar reviews the syntax and real-world use cases for dictionaries. Discover how to create a simple dictionary, iterate through the data, incorporate operations and comparators, and compare dictionaries to other common data structures such as lists, sets, and tuples. Plus, find out how to use dictionary comprehension to automate dictionary generation by merging lists or arrays.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joan Horvath, Rich Cameron
+Course_ID=2808541
+Course_System=linkedin.com
+Course_Title=Additive Manufacturing: Resin 3D Printing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Resin 3D printers use light to harden liquid resin layer by layer. Resin printers offer higher resolution than most filament-based printing, and are used in everything from moldmaking to dental applications. Now, access to affordable and reliable resin 3D printers has created new opportunities in additive manufacturing. In this course, you can learn all about the capabilities these tools have to offer and discover how to tune your workflow to get the most out of your machine. Instructor Joan Horvath and Rich Cameron show how to resolve the unique design and fabrication challenges when working with resin printers, helping you get a good print every time.

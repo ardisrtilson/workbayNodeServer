@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Danil Nagy
+Course_ID=5030972
+Course_System=linkedin.com
+Course_Title=Generative Design Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Generative design leverages artificial intelligence and increasing computational capacity to automate aspects of the design process, allowing designers to focus on the most creative parts of design while the computer works out the details. This course introduces this emerging technology for architecture, engineering, urban planning, and industrial design. Designer Danil Nagy explains the four key pillars of generative design: creating a parametric design space, evaluating performance using computer simulation, automatically generating design solutions through optimization, and evaluating the results to discover the best design options. He then introduces the tools and software you need to start integrating generative design into your workflows today.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=5010660
+Course_System=linkedin.com
+Course_Title=Microsoft SQL Server 2019: New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server 2019 offers a number of performance enhancements and new features, including support for big data clusters and machine learning services. In this course, Adam Wilbert helps you get up to speed with the latest and greatest in the powerful relational database management system. Learn about database engine enhancements, including improvements to persistent memory and UTF-8 support. Adam also goes over table virtualization with PolyBase, training and creating machine learning models, how Apache Spark and the Hadoop Distributed File System (HDFS) now work together in SQL Server, and other changes that are coming with the 2019 release.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Assam
+Course_ID=791352
+Course_System=linkedin.com
+Course_Title=Learning to Build Alexa Skills
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Alexa is one of the most popular virtual assistants. Using simple voice commands, you can ask Alexa to find and read news, play music, order pizza, or control other smart home devices, from your lighting to your door locks. Alexa also offers a tremendous opportunity for developers with basic programming experience to build their own Alexa functionality, called skills. In this course, instructor Lee Assam shows how to build custom voice commands for Alexa devices using the Alexa Skills Kit and Node.js. Explore the Alexa ecosystem and the components that make up a custom Alexa skill. Learn how to configure your skill in the Amazon Developer Portal and create, code, and deploy it using Node.js, Lambda functions, and Amazon Web Services. Plus, discover how to test your skill in the browser and on an actual Alexa device, and submit a skill for certification so you can share it with other Alexa users.

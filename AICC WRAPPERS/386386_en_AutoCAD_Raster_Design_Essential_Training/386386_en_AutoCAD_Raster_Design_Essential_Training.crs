@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=386386
+Course_System=linkedin.com
+Course_Title=AutoCAD Raster Design Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You don't have to leave AutoCAD to optimize and vectorize raster data. Use AutoCAD Raster Design to write and process raster images and avoid many of the most tedious redrawing tasks. Join Eric Wing as he shows how to use AutoCAD Raster Design to insert and scale images in your drawings, create masks, rubbersheet images, manage images, clean up and merge images, and define regions and primitives to manipulate raster data. Plus, find out how to vectorize text using Optical Character Recognition technology built into AutoCAD Raster Design.

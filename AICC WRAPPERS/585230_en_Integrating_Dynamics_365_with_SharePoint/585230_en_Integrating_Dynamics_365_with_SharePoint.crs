@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiffany Songvilay
+Course_ID=585230
+Course_System=linkedin.com
+Course_Title=Integrating Dynamics 365 with SharePoint
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dynamics is a powerful customer relationship manager (CRM). When combined with SharePoint, it can also manage documents and data, becoming a comprehensive enterprise management solution. In this course, Tiffany Songvilay explores how to integrate the document and content management system of SharePoint with the customer relationship management tool Dynamics 365 to more effectively share information with your colleagues. Tiffany covers adding, editing, and managing documents inside of Dynamics 365, viewing documents in SharePoint, and working with content types. Plus, she explains how to install and integrate with other apps, such as OneNote and Yammer.

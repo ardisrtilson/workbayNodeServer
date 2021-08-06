@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=500542
+Course_System=linkedin.com
+Course_Title=Windows Performance Toolkit: Spyware Detection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Is your PC running slow? The answer might be more nefarious than you think. Spyware such as keyloggers can often go undetected by antivirus software. Windows Performance Toolkit offers two powerful tools for identifying and gathering evidence of keyloggers: the Recorder, used to record system events, and the Analyzer, used to inspect those events. Join Thomas Pantels as he explains what a keylogger is and demonstrates how it functions and hides in plain sight. Using Windows Performance Toolkit, he shows how to set up a profiling environment to gather evidence and find the keylogger hooks. Once you've traced the keylogger, you can delete the application and get your computer back on track.

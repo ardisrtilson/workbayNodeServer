@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tayo Koleoso
+Course_ID=699351
+Course_System=linkedin.com
+Course_Title=Learning PrimeFaces
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PrimeFaces—the popular open-source UI framework for JavaServer Faces (JSF)—boasts features that allow developers to apply themes to their apps, leverage over 100 easy-to-use components, and more. In this course, learn how to use PrimeFaces in your Java Enterprise Edition (EE) web application. Instructor Eyitayo Koleoso helps you get started by explaining how PrimeFaces differs from standard JSF. He also shares how to set up and configure PrimeFaces and goes over the broad categories of PrimeFaces components. He then dives into theming, sharing how to configure your PrimeFaces theme and switch themes dynamically. He also covers how to display data with PrimeFaces, discussing Ajax exception handling and how to execute JavaScript from the server side. To wrap up, he goes over how to troubleshoot Ajax issues and shares PrimeFaces best practices.

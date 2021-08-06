@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2884196
+Course_System=linkedin.com
+Course_Title=WordPress: Understanding the New Paradigm
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+WordPress is the dominant CMS on the web, and one of the reasons for its popularity is its consistency. From its inception in 2003 until very recently, the functionality of WordPress stayed the same. But with the introduction of the block editor in 2018, WordPress started a shift to a new paradigm. Understandably, many people were and are still resistant to move on from the CMS they know and love. In this course, Morten Rand-Hendriksen makes the case for embracing the new vision of WordPress (besides the fact that the Classic Editor plugin won’t be maintained after 2022), covering the new opportunities as well as the new challenges. Step into the future with Morten as he teaches you how to migrate your pages to blocks, gives you a preview of full site editing, shares key terminology to know in the new WordPress, talks about the future of themes, and explains how to be a part of the WordPress community and have a say about the future of the application.

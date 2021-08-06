@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2811721
+Course_System=linkedin.com
+Course_Title=Relational Databases Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In today’s big-data world, understanding how to model phenomena with a relational database is an invaluable skill. A variety of different users—from government agency employees to gamers—rely on relational databases for everyday operations. In this course, join Adam Wilbert as he covers the fundamentals of the relational model for creating databases of real-world situations. Adam goes over concepts that are applicable to a wide variety of platforms, including SQL Server, Oracle, Access, MySQL, and PostgreSQL. Learn the basics of data storage, review the structure of a data table, and learn how to plan your relational database using an entity-relationship design tool. Plus, explore data integrity and validation, table relationships, writing queries, and more.

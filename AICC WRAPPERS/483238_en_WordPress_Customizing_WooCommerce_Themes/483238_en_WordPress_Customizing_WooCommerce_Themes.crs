@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Rauland
+Course_ID=483238
+Course_System=linkedin.com
+Course_Title=WordPress: Customizing WooCommerce Themes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+WooCommerce is one of the most popular and trusted ecommerce solutions around. Not just for WordPress but also for anyone who wants to set up a store. Making your theme match the rest of your WooCommerce website can help you create a more professional and trustworthy shopping experience and extend your brand online. This course covers the fundamentals of building custom WooCommerce themes. Learn about using WooCommerce hooks, template overrides, PHP, and CSS to style the different store pages, and add custom imagery and icons to fit your branding. Author Patrick Rauland also introduces UX design techniques that encourage customers to buy, such as highlighting savings and adding social media icons for sharing.

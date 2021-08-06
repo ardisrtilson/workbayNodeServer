@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=774921
+Course_System=linkedin.com
+Course_Title=Learning Atom
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Atom was built by web developers, for web developers. This powerful text editor provides an open-source, completely hackable coding environment. It's easy to customize with common web technologies (CSS and JavaScript) and since it's built by the same team, integration with GitHub is a snap. In this course, Ray Villalobos shows how to use and customize Atom for web, front-end, stack, or any other kind of development. Learn how to write and edit text, use selections, move around code folders, and use the powerful Find and Replace feature. Then find out how to customize the interface and editing experience with Atom themes, packages, and snippets. Plus, discover how to collaborate with other developers using code pairing and integrate with Git and GitHub for version control and publishing.

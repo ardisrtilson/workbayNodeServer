@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Francis
+Course_ID=772331
+Course_System=linkedin.com
+Course_Title=Cleaning, Transforming and Prepping Your Data With Tableau Prep
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Very rarely is data perfectly ready for visualization. Tableau Prep is a visual data preparation tool that allows you to get to data analysis faster by enabling the quick cleaning, reshaping, and prepping of data—using the same drag-and-drop paradigm as Tableau Desktop. This course shows exactly how to use Tableau Prep for data preparation. Instructor Matt Francis show how to connect to multiple data sources and combine them into a single source of data using joins and unions. Then learn how to filter, split, and rename data and how to pivot data to convert wide data into the tall data that Tableau Desktop prefers. Matt also shows how to sample data, adjust sampling size, and preview and share your final output with Tableau Desktop. The training wraps up with some example flows that show Tableau Prep in action. By the end of the course, you will have learned the skills to make Tableau Prep an essential part of your Tableau data viz process.

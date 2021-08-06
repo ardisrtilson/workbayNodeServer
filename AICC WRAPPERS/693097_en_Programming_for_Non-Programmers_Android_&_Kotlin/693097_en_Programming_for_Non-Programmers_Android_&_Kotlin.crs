@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=693097
+Course_System=linkedin.com
+Course_Title=Programming for Non-Programmers: Android & Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Anyone can learn programming with the right tools and training. Android is a great place to start. It's free and easy to adopt and the programming language, Kotlin, is built on the world's most popular language, Java. Join Todd Perkins for this training course, which teaches the most important concepts about Android app development in a visual way that people of any background can understand. You can build a functional app in a few hours and figure out if programming is right for you, without a lengthy time commitment. By the end, you'll have a basic understanding of the building blocks of the Kotlin development language, including variables, methods, and control flow, and the essentials of good interface design. You'll also put together a complete real-world app—a usable calculator—that can run on any Android device.

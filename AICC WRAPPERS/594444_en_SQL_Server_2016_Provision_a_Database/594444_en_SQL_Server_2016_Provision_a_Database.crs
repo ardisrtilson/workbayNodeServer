@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=594444
+Course_System=linkedin.com
+Course_Title=SQL Server 2016: Provision a Database
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the key skills you need to provision SQL Server instances both on premises and using the cloud-based Azure service. In this course, Adam Wilbert reviews several ways of getting a SQL database up and running, helping you see the benefits and trade-offs of each option. He begins by explaining how to get started with Azure SQL Database, demonstrating how to deploy a database and choose the right service tier for you. He also shows how to deploy a virtual Windows Server machine, and migrate on-premises SQL Server databases to a SQL Server instance hosted on an Azure virtual machine. This course is also ideal for anybody preparing for the Provisioning SQL Databases (70-765) exam, one of two exams necessary to earn an MCSA: SQL 2016 Database Administration certification.

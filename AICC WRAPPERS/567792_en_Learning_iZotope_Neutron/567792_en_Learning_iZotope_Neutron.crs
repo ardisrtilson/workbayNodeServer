@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nate Mars
+Course_ID=567792
+Course_System=linkedin.com
+Course_Title=Learning iZotope Neutron
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+iZotope Neutron is a powerful mixing plugin that combines top-notch audio processing with the latest innovations in metering and analysis. In this course, discover how to incorporate this mixing and mastering tool in your digital audio workstation (DAW) workflow. Follow Nate Mars as he walks through how to use the modules available in Neutron—including EQ, Exciter, and Transient Shaper—and shows how to identify and fix masking issues with the Masking Meter. Nate also explains how to use the Learn function to pinpoint areas where you should apply processing. Plus, he dives into one of most exciting features offered in Neutron, Track Assistant, which listens to your audio and suggests preset settings tailored to your track.

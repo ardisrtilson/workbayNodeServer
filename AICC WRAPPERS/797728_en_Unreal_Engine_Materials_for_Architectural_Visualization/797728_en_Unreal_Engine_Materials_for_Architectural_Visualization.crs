@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=797728
+Course_System=linkedin.com
+Course_Title=Unreal Engine: Materials for Architectural Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create and optimize materials for architectural visualization in Unreal Engine. In this course, join instructor Joel Bradley as he explores the benefits and drawbacks of some of the most popular visualization workflows, sharing techniques that can help you make your projects look their best. Learn all about the Unreal Material Editor, including how and when to use it. See how to build a base material with the Material Editor that you can reuse on your projects when needed. Plus, discover how to save time by leveraging resources in Substance Source and Substance Share; how to put the Bitmap2Material (B2M) application to good use; and how to create textures procedurally.

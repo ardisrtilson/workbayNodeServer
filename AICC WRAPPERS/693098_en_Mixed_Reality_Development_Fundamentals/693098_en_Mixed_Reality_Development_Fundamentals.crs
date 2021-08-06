@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Roodyn
+Course_ID=693098
+Course_System=linkedin.com
+Course_Title=Mixed Reality Development Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to develop immersive mixed reality (MR) applications using popular tools, including Unity. This course starts by covering headset selection and basic development techniques. Downloading, installation, and setup steps are covered, followed by a tour of the interface. Then, learn how to set up scenes and begin using the camera and gaze features to integrate movement. Next, find out how to configure the speech and audio features. Finish the course by learning about optimizing and debugging an app using Visual Studio 2017, then deploying to the Windows Online Store.

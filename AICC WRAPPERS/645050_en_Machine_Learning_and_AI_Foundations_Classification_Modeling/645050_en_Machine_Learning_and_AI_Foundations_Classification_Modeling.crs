@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=645050
+Course_System=linkedin.com
+Course_Title=Machine Learning and AI Foundations: Classification Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One type of problem absolutely dominates machine learning and artificial intelligence: classification. Binary classification, the predominant method, sorts data into one of two categories: purchase or not, fraud or not, ill or not, etc. Machine learning and AI-based solutions need accurate, well-chosen algorithms in order to perform classification correctly. This course explains why predictive analytics projects are ultimately classification problems, and how data scientists can choose the right strategy (or strategies) for their projects. Instructor Keith McCormick draws on techniques from both traditional statistics and modern machine learning, revealing their strengths and weaknesses. Keith explains how to define your classification strategy, making it clear that the right choice is often a combination of approaches. Then, he demonstrates 11 different algorithms for building out your model, from discriminant analysis to logistic regression to artificial neural networks. Finally, learn how to overcome challenges such as dealing with missing data and performing data reduction. Note: These tutorials are focused on the theory and practical application of binary classification algorithms. No software is required to follow along with the course.

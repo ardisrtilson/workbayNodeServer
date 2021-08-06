@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2819183
+Course_System=linkedin.com
+Course_Title=Learning Regular Expressions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Regular expressions, or regexes, can help you speed up tedious tasks and streamline your workflow. Regexes can be used in most modern programming languages, including Java, JavaScript, Perl, Python, ActionScript, and C#. In this course, learn how to use regexes to define complex text patterns which can be used for powerful search and replace techniques. Instructor Kevin Skoglund covers the basic syntax of regexes, shows how to create flexible matching patterns, and demonstrates how the regular expression engine parses text to find matches. Learn how to write regexes using character sets, grouping, alternation, start and end anchors, word boundaries; and more.

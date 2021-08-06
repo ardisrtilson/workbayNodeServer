@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David M. Franklyn
+Course_ID=659286
+Course_System=linkedin.com
+Course_Title=Microsoft Azure: Management and Security Essentials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Operations Management Suite (OMS) can be used to defend an organization's heterogeneous environments, respond proactively to changing business requirements, and simplify IT management—all from a single portal, without requiring you to maintain a complex infrastructure locally. In this course, learn how to get started with OMS. Instructor David M. Franklyn begins by explaining what OMS is, what it can offer your organization, and how to deploy and configure this collection of management services. He also shows how OMS can deliver immediate, actionable insights into log data by providing a cost-effective, all-in-one cloud management solution. To wrap up the course, he discusses how to use OMS to monitor an on-premises environment.

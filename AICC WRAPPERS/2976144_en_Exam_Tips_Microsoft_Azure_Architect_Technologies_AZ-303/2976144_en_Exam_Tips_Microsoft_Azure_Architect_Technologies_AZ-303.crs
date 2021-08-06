@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Duffy
+Course_ID=2976144
+Course_System=linkedin.com
+Course_Title=Exam Tips: Microsoft Azure Architect Technologies (AZ-303)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the Microsoft Azure Solutions Architect Expert certification shows potential employers that you can design and implement high-quality solutions that run on Azure. To earn this certification, you need to pass two exams, including the Microsoft Azure Architect Technologies (AZ-303) exam. In this course, get insights into the structure of exam AZ-303, the prerequisites, and each of the exam domains. Instructor Scott Duffy provides an overview of each of the skills tested on the exam, including how to implement and monitor an Azure infrastructure, implement management and security solutions, and implement solutions for apps. After wrapping up this course, you'll have an understanding of what you need to know to walk into the test center feeling confident.

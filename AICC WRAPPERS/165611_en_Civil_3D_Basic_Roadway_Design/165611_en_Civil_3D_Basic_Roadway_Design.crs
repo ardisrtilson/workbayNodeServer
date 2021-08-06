@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chappell
+Course_ID=165611
+Course_System=linkedin.com
+Course_Title=Civil 3D: Basic Roadway Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Roadway design is one of the most powerful capabilities of Civil 3D and one of the most common design tasks performed with it. It requires the use of several major Civil 3D features—alignments, profiles, and corridors—and an understanding of how they fit together in a complete road-design model. Eric Chappell shows you how to use these features to establish the path of your road, specify elevations, and define the makeup and cross-sectional elements of your design. The final chapter contains bonus tutorials on designing intersections—complex traffic junctions that Civil 3D makes surprisingly simple to design.

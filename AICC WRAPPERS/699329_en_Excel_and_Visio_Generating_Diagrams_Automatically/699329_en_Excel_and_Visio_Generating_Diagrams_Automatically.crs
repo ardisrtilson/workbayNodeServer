@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Helmers
+Course_ID=699329
+Course_System=linkedin.com
+Course_Title=Excel and Visio: Generating Diagrams Automatically
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create Visio diagrams automatically from your Excel data. Follow along with Visio MVP Scott Helmers as he shows how to leverage Data Visualizer, a Visio feature that automates the creation of Visio diagrams. You supply the Excel data and Visio does the rest. Scott begins the course by demonstrating how to locate the Excel Data Visualizer templates—whether you're working in Visio or Excel—and use them to create flowcharts and swimlane diagrams. He demonstrates that the resulting diagrams are linked to the data so that changes to one are synchronized to the other. He then shows how to build your own data source, create other types of diagrams, and package data and a diagram into a template package that can be shared with other people.

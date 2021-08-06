@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=530461
+Course_System=linkedin.com
+Course_Title=Linux: Web Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux runs the majority of the world's websites. Get web services up and running on your own Linux machine with this course. Scott Simpson explains how to install and configure web services in CentOS 7 using Apache, including configuring virtual hosts, adding modules, and securing your site with SSL. Plus, get some additional techniques for protecting and monitoring your site and a tour of other popular web servers.

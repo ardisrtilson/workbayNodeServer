@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=630612
+Course_System=linkedin.com
+Course_Title=The Data Science of Government and Political Science, with Barton Poulson
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you interested in enhancing your understanding of how government and politics actually function? If so, this brief course can help by exploring the profound ways in which data science affects how our government and political process works. Data scientist and professor Barton Poulson provides a nontechnical overview of how data science functions in the public sector. He discusses how predictive analytics can be used to help you understand political representation; explores how data science affects matters of national security, privacy, and social justice; and more.

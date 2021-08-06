@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Brett Vanderblock
+Course_ID=2861044
+Course_System=linkedin.com
+Course_Title=Mistakes to Avoid in Machine Learning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building machine learning models can be an exciting process. But oftentimes, data scientists find themselves dealing with errors, bad output, and a host of other issues that can slow their progress. In this fast-paced course, get expert tips on how to avoid some of the most common mistakes data scientists make when building machine learning models. Instructor Brett Vanderblock, the lead data scientist at Patagonia, shares his expertise to help you fine-tune your machine learning workflow. From working with bad data, to overfitting, to not getting feedback, there's lots to learn. This course was created by Madecraft. We are pleased to host this training in our library.

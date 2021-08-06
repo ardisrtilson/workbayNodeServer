@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=2819035
+Course_System=linkedin.com
+Course_Title=AWS for DevOps: Performance Optimization Best Practices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Performance optimization is critical to the success of your business application. It's also a balance between cost, speed, and resources. In this course, instructor Carlos Rivas shares tips and tricks for optimizing performance as an AWS DevOps engineer. Carlos explains how to measure your application's current performance and effectively optimize through traffic, compute (EC2), and storage services. Learn how to visualize metrics using CloudWatch, choose the right EC2 instance for your workload, optimize network traffic using VPC endpoints, and more.

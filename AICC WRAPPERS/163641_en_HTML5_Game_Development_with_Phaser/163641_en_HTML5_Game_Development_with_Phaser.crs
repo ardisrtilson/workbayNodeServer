@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=163641
+Course_System=linkedin.com
+Course_Title=HTML5 Game Development with Phaser
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Phaser is a cross-platform game development framework for both mobile and desktop games. This fast, fun, and free framework supports both JavaScript and TypeScript, targeting the open web via HTML5 Canvas. This course shows you how to put Phaser to work: creating a multistate game that can be played on both desktop browsers and mobile devices. After you gather your assets, author Joseph Labrecque will help you start a new game project with the Brackets code editor, create a basic preloader and menu states, and then start building game entities and layering in functionality with Phaser's sprites, groups, animations, tweens, emitters, and physics. He'll also show you how to provide feedback to the player and add sound effects for a more immersive gaming experience. When you're done, Joseph shows you how to prep the game for a mobile launch.

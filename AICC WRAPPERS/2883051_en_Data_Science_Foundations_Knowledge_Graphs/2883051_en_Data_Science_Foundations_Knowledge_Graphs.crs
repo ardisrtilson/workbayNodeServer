@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Burgwinkel
+Course_ID=2883051
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Knowledge Graphs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The term “knowledge graph” describes a semantic search based on the systematic compilation and processing of data and was first coined by Google. Leading internet companies have been using knowledge graphs for several years to present information that is tailored to customers’ needs. You can also use knowledge graphs to map your company’s internal knowledge and improve search results. Knowledge graphs can also improve the results of AI or machine learning systems. In this course, blockchain technology leader Daniel Burgwinkel explains what knowledge graphs are, offers examples and use cases, gives you practical recommendations on how to implement knowledge graphs, and shows you how to build a knowledge base. This course is aimed at data stewards, digital transformation managers, and data scientists who are responsible for data stocks and knowledge management.

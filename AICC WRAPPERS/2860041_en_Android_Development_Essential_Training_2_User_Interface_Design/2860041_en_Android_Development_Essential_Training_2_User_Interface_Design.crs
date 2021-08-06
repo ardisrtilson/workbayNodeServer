@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Annyce Davis
+Course_ID=2860041
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: 2 User Interface Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android is the most popular mobile operating system in the world, holding 85% of global market share. That makes Android the natural starting point for new app developers. This series of courses teaches the basics needed to develop, design, manage, and distribute your own native Android application using the Kotlin programming language and the Android SDK. Part 2 explains how to build a simple yet responsive user interface with built-in Android components, themes, and styles. Instructor Annyce Davis also explains how to collect and display user-entered text; display system messages; and localize your app interface. Plus, find out how to load and display images, including web resources, SVG-like images called vector drawables, and app icons, to enhance the user experience of your app. Make sure to take the challenges throughout the course to practice your new skills.

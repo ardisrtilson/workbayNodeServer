@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=TeachMeGIS with Jennifer Harrison
+Course_ID=711825
+Course_System=linkedin.com
+Course_Title=Learning ArcGIS Python Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever needed to find all the broken links in a set of map documents? Or convert units before loading map data? Python is the gateway for automating common GIS tasks like these. Python scripts can be used to manipulate maps, execute commands, and even read and write data from files. Learn how to produce faster, deeper insights into your GIS data by adding Python scripting to ArcGIS Desktop. This course starts with the basics, including strings, variables, and conditional statements. Jennifer Harrison—founder of TeachMeGIS—gets you comfortable writing scripts in IDLE, the integrated development environment for Python, and ramps up to writing output to the screen, passing command-line arguments into scripts, and reading from and writing to a log file. She also introduces the ArcGIS arcpy module for creating map documents and shows how to integrate customized scripting tools into ArcMap.

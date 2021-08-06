@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=791359
+Course_System=linkedin.com
+Course_Title=Kubernetes: Continuous Delivery with Spinnaker
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Spinnaker is an open-source, multicloud continuous delivery platform for releasing software changes with high velocity and confidence. It boasts a flexible service model and a solid set of integration options, and also works particularly well with cloud native environments—particularly Kubernetes. In this course, learn how to use Spinnaker to enable continuous delivery with Kubernetes. Instructor Robert Starmer shows how to deploy Spinnaker, add a container app, and develop a pipeline for an application to get it properly deployed into a production environment. Plus, learn how Spinnaker supports scaling and rollbacks, making the process rather straightforward.

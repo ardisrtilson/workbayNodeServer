@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Francis
+Course_ID=476621
+Course_System=linkedin.com
+Course_Title=Tableau 10 for Data Scientists
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tableau is designed for data science! Move beyond the basics and delve deeper into the power of this data visualization software. Learn how to deal with messy or badly formatted data, use Tableau to answer key data analytics questions, and visualize your results with maps and dashboards. Tableau-certified Zen Master Matt Francis will show you how to use parameters to enhance visualizations, create cross-source filters, use data extracts to optimize slow connections, and much more. The training starts with one of the most important features in Tableau: the difference between the green and blue pills (discrete and continuous data) and how this affects every single action Tableau performs. Then find out how to add new maps and create more effective dashboards that maximize screen real estate. Discover how actions can link together sheets and provide greater levels of interactivity and performance, and how formatting can make an ordinary dashboard demand attention. Plus, get some bonus tips on performing date and time calculations in Tableau. This course deep-dives into the practical, applicable, and essential skills that anyone doing data visualization and analytics in a professional setting needs to have.

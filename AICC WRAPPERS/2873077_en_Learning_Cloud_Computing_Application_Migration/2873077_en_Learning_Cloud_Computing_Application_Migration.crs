@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2873077
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Application Migration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For IT professionals, knowing how to efficiently handle application migration to the cloud is critical. In this course, cloud computing expert David Linthicum provides an approach and methodology for moving applications to the cloud. He begins by considering the business case for moving to the cloud, highlighting the risks involved, and providing an overview of public and private cloud migration. Next, he explains how to select the right workloads for migration; pick the right target platform whether it be public, private, or multicloud; use cloud-based tools from AWS and Microsoft; establish a process; get to a high scale when moving workloads; and understand security.

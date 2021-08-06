@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Xian Ke
+Course_ID=5035806
+Course_System=linkedin.com
+Course_Title=Choosing a Cloud Platform for Developers: AWS, Azure, and GCP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Migrating your applications to the cloud? Review the benefits and challenges of developing in the cloud with the top three cloud service providers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Instructor Xian Ke helps you choose the right provider for your product and technology needs. Learn how to establish the goals and timeline for your cloud migration. Review how concepts such as artificial intelligence, serverless, and containers apply to the cloud. Then take a look at the current offerings from AWS, Azure, and GCP and the baseline functionality in each platform. Xian also explains how to evaluate your team’s skill set, your security posture and compliance needs, and your processes. Plus, find out how to prototype your implementation and ensure your systems are adaptable to new requirements and capabilities as your business scales.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=3129491
+Course_System=linkedin.com
+Course_Title=Developing for Web Performance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Performance matters! Faster websites have been shown to increase visitor retention, loyalty, and satisfaction, especially on mobile. In this course, discover how to develop websites and applications with performance in mind. Since the cause of most slowdowns is the communication between the browser and the server—the realm of HTTP—senior staff instructor Morten Rand-Hendriksen goes over the HTTP/2 protocol, which offers web developers huge performance enhancements. Morten then covers how to keep your team focused on performance by creating a realistic performance budget. He explains how to optimize images (one of the biggest resource hogs), code, and file caching, as well as server delivery and browser handling. Plus, learn how to optimize CSS and JavaScript and use a content delivery network to speed up download times. Upon wrapping up this course, you'll have the basic knowledge you need to develop websites and apps that thrive in the age of the lightning-fast web.

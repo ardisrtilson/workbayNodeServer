@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eduardo Corpeño
+Course_ID=756297
+Course_System=linkedin.com
+Course_Title=C Standard Library
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up to speed with the C standard library, the standardized library of functions available for the C programming language. This course covers over 60 of the most useful and popular functions, as grouped in the header files stdio.h, stdlib.h, stdint.h, string.h, and math.h. Instructor Eduardo Corpeño starts by reviewing the library's organization and familiarizing you with the header files and syntax. Then he shows how to accomplish a variety of tasks with the library: processing input and output, managing application memory, generating random numbers, sorting and searching for data, manipulating text strings, and performing math. Each chapter includes numerous examples that show the functions in practice, along with programming challenges that allow you to test your new knowledge and skills.

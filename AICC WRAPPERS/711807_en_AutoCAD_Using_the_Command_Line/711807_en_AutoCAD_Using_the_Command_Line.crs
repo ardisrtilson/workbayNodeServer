@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=711807
+Course_System=linkedin.com
+Course_Title=AutoCAD: Using the Command Line
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Find out more about the command line: the Windows-specific AutoCAD feature that helps you draw and navigate more efficiently in AutoCAD. This course provides you with the knowledge you need to leverage the command line at the bottom of the AutoCAD screen. Starting with basic concepts, instructor Shaun Bryant guides you step by step through each topic, allowing you to learn at your own pace and develop your skills as you go. Shaun shows how to position the command line, customize its settings, and start using commands in your AutoCAD workflow. Upon wrapping up this course, you'll have the knowledge you need to customize the command line on your own, working quickly and productively on the world's most well-known CAD platform.

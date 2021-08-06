@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2825057
+Course_System=linkedin.com
+Course_Title=Leveraging Cloud Computing for IoT
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet of Things (IoT) and cloud-based providers are bound at the hip; however, most people don’t understand how, why, or what it all means. For anyone looking to move into the world of IoT and procure information about what's working (and what's not) in the relationship between IoT and various cloud providers, this course is a great place to start. Instructor David Linthicum provides an overview of what IoT is and explains how it's related to cloud computing. He also explores specific IoT-related tools, including those from AWS and Azure, and walks through the development of an IoT-based cloud solution.

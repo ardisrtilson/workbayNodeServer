@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=532189
+Course_System=linkedin.com
+Course_Title=Data-Driven Network Security Essentials
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore essential concepts, skills, and techniques for managing network security and forensics. In this course, Jungwoo Ryoo explains how to improve network security and forensics by leveraging data. He begins by reviewing essentials such as firewalls, VPNs, and vulnerability management systems. Next, he explores different data sources, and explains how the data from diverse sources can be a powerful tool to enhance your network security. Jungwoo also covers network data collection techniques and tools, and machine learning and visualization to process network data and detect anomalies.

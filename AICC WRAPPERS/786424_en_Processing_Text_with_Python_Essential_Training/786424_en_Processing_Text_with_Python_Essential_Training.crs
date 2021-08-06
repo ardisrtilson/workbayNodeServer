@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=786424
+Course_System=linkedin.com
+Course_Title=Processing Text with Python Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the world of big data, more and more information is consumed and analyzed in text form. Websites, social media, emails, and chats have become the key sources for data and insights. If you work with data, then understanding how to deal with unstructured text data is essential. In this course, instructor Kumaran Ponnambalam helps you build your text mining skill set, covering key techniques for extracting, cleansing, and processing text in Python. Kumaran reviews key text processing concepts like tokenization and stemming. He also looks at techniques for converting text into analytics-ready form, including n-grams and TF-IDF. Along the way, he provides examples of these techniques using Python and the NLTK library.

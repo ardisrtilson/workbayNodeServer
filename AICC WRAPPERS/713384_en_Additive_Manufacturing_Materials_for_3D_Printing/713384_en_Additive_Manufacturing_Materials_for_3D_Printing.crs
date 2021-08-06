@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joan Horvath, Rich Cameron
+Course_ID=713384
+Course_System=linkedin.com
+Course_Title=Additive Manufacturing: Materials for 3D Printing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you want to print functional 3D parts or products, it's critical to select the right material for each job. You need to look at the requirements of your design, evaluating criteria such as strength, surface finish, color, and cost. Joan Horvath and Rich Cameron—founders of maker tech consulting company Nonscriptum LLC—show how to choose the correct material based on your design and printing method, surveying materials that are commonly available for use with desktop 3D printers (filament and resin) along with an intro to industrial materials like nylon and metal powders. They review the workflow for each type of material, and teach ways to optimize throughput and turnaround time. Plus, get an inside look at a few applications that use 3D printing as a cost-effective solution for short-run manufacturing.

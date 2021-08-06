@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=518690
+Course_System=linkedin.com
+Course_Title=Microsoft XAML: 3 Type Converters and Resources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+XAML is one of the primary languages used to create user interfaces for .NET and Windows 10. To develop apps with this framework, you need to be able to map relationships between .NET types and XAML objects and to work with reusable resources. This course, the third in our Microsoft XAML Fundamentals series, shows how to use type convertors and markup extensions to convert XAML properties to .NET properties, and how to create, organize, and consume XAML resources. Instructor Walt Ritscher also explains how to enable XAML styles, templates, and shared colors and brushes via resources, and load external resource files with merged dictionaries.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=2825744
+Course_System=linkedin.com
+Course_Title=Advanced SQL for Application Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many applications require a relational database. But poorly designed data architecture and poorly written SQL can result in subpar performance, unreliable services, and difficulty scaling. This course includes hands-on examples and lessons that show how to build scalable and resilient databases to support any application. Learn how to write optimized SQL for transaction processing, use indexes to reduce read latency, partition data to improve scalability, and use established design patterns. Instructor Dan Sullivan also explores object relational mapping and shows how to respond to database errors such as query timeouts and refused connections. After completing this course, you will be able to design robust database applications that can scale to meet increasingly demanding workloads.

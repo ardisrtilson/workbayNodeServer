@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=609021
+Course_System=linkedin.com
+Course_Title=AWS for DevOps: High Availability and Elasticity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Lynn Langit teaches learners how to use AWS design patterns, tools, and best practices for high availability (HA) and effective application scaling (elasticity). This includes the use of AWS patterns for HA and scaling in both serverless and server-based applications, along with approaches for front-end, middle, and database application tiers. Plus, learn to use the core scripting tool—the AWS CLI—to write and run scripts for automation, and scale your solutions up, down, in, and out.

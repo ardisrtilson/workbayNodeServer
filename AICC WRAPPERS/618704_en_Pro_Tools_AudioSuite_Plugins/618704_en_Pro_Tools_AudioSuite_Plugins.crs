@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Garrick Chow
+Course_ID=618704
+Course_System=linkedin.com
+Course_Title=Pro Tools: AudioSuite Plugins
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Real-time plugins can be an important part of a modern Pro Tools workflow—but there are still times when AudioSuite plugins are the optimal choice. In this course, take a deep dive into working with AudioSuite plugins in Pro Tools. Author Garrick Chow explains how to determine when to go with AudioSuite plugins, and then takes you through the basic AudioSuite workflow. He covers some key AudioSuite plugins, including Pitch II and Vari-Fi. He also goes over modulation and harmonics plugins, highlighting the phase shift, flange, and chorus modulation effects available in the AudioSuite menu, as well as Harmonic AudioSuite effects which provide modelers of classic guitar amps and stompboxes. Plus, he shows how to leverage the AudioSuite Gain, Invert, and Normalize plugins, as well as other utility plugins.

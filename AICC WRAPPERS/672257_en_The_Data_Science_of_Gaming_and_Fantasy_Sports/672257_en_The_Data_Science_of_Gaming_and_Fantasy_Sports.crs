@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=672257
+Course_System=linkedin.com
+Course_Title=The Data Science of Gaming and Fantasy Sports
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to know how casinos calculate odds and turn a profit? Curious how fantasy sports leagues keep track of stats across the season? Get a fast-paced, fun, and non-technical overview of how the gambling and fantasy sports industries structure their offerings. Curt Frye uses data science to examine how casinos make money, design their games, offer comps to customers, and expand their revenue streams through dining, golf, entertainment, and other attractions. He also reviews fantasy sports, comparing low-stakes leagues such as the NCAA tournament bracket to daily competitions where players gamble real money.

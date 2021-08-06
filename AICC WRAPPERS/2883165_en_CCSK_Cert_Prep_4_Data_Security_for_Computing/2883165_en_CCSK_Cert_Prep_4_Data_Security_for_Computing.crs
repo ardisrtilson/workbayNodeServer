@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=2883165
+Course_System=linkedin.com
+Course_Title=CCSK Cert Prep: 4 Data Security for Computing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data privacy is vitally important, and with the growth of cloud adoption and reported data breaches, organizations must take careful steps to protect sensitive data. In this course, instructor Daniel Lachance helps you prepare for the data security portion of the CCSK exam and build your understanding of data privacy and protection. Daniel begins with the data security lifecycle, showing you how it applies both on-premises and in the cloud. He explains cloud storage solutions, cloud encryption solutions, and the Cloud Controls Matrix (CCM). Next, Daniel goes over tools and techniques to help you keep your cloud storage secure. He discusses ways that cloud databases can support secure cloud solutions and ways that you can keep your cloud databases secure. Daniel concludes with useful details on encryption keys, including how to deploy a Microsoft Azure key vault, how to encrypt managed disks, and how to protect data transfers with SSH public key authentication.

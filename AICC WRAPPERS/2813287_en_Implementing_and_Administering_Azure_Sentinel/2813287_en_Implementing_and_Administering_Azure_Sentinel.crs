@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=2813287
+Course_System=linkedin.com
+Course_Title=Implementing and Administering Azure Sentinel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Sentinel is a next-generation, cloud-native security event and information management (SEIM) system that provides real-time analysis of security alerts generated for your cloud and on-premises resources. By leveraging built-in machine learning from the security analytics experts at Microsoft, Sentinel effectively detects threats while automating threat response using orchestration and built-in or custom security playbooks. In this course, join Pete Zerger as he guides you through the implementation and configuration of Azure Sentinel. Discover how to connect key services and threat intelligence resources to Sentinel; investigate cases; create security playbooks to set automated threat responses to issues; and leverage search and query tools to hunt for threats.

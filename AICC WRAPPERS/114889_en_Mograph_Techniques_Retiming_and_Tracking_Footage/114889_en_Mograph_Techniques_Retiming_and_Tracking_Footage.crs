@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=114889
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Retiming and Tracking Footage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to add motion graphics and color effects to your footage, and retime the results. Author Ian Robinson starts with isolating and building the base composition and tracking the footage with mocha AE, and then integrates motion graphics that reinforce the narration. He also shows how to color correct and retime your composite, whether it includes media shot at normal frame rates or over and undercranked footage.

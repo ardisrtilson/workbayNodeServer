@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=540537
+Course_System=linkedin.com
+Course_Title=Learning Web Components
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you realize it or not, you are already using web components when you develop. Elements like forms, HTML tags, and more are all web components native to web browsers. Beyond these standard elements, you can also create custom web components to further simplify the process of building and maintaining web applications. This course explains how to make custom encapsulations, imports, templates, and built-in elements by using web component specifications and following web standards. Joe Marini starts the course by going into HTML templates, which provide a browser-native way to declare sections of HTML markup that will be used frequently in your app. Next, he covers HTML imports, explaining how to use them and create reusable modules. Then, he takes you through working with custom elements. To wrap up the course, he discusses Shadow DOM and how to create Shadow DOM to define custom element structure and rendering within a page.

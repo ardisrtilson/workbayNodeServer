@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, John David Ariansen
+Course_ID=2875310
+Course_System=linkedin.com
+Course_Title=Power BI Mistakes to Avoid
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a data expert using Microsoft Power BI, your goal is to always be growing your skills. In this course, instructor John David Ariansen helps grow your skills by learning mistakes to avoid. First, John introduces you to a few challenges of Power BI. He shows you how to become a systems thinker, improve your analysis skills, and use visualization effectively. He emphasizes the importance of pulling in the right amount of data, eliminating extra steps, profiling your data sources, and removing unnecessary data. John teaches you how to use lookup tables and a star schema. Then he goes over why you need to eliminate two-way relationships when modeling and what you should do instead. He discusses creating visualizations from time series data and how to use groups, slicers, and custom tooltips effectively. He steps you through conducting a Top-N analysis, then concludes by explaining how to use the right amount of color. This course was created by Madecraft. We are pleased to host this training in our library.

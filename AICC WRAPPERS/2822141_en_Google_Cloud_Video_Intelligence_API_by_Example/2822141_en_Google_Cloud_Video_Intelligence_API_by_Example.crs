@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=2822141
+Course_System=linkedin.com
+Course_Title=Google Cloud Video Intelligence API by Example
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud Video Intelligence API allows developers to leverage the power of machine learning to work smarter, not harder. Instead of poring over your footage to find a particular shot, you can leverage pretrained machine learning models to quickly detect the objects you're looking for. Video Intelligence API also offers useful features such as the ability to moderate content and perform speech-to-text transcription. In this course, Jonathan Fernandes helps you get started with Video Intelligence API, demonstrating how to make calls to the API with Python and use machine learning models to glean insights from videos. Along the way, Jonathan provides hands-on exercises that enable you to apply the concepts you're learning.

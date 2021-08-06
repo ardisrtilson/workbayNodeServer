@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=503812
+Course_System=linkedin.com
+Course_Title=Houdini: Particles
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore the massively powerful particle system in Houdini. In this course, join Scott Pagano as he walks through how to use particle systems in Houdini. Scott takes you through four different projects that help you understand how to use particles with sprites and geometry instancing, and how to create trails and impacts. He shares how to create some emission off of a moving object and then create a smoky particle effect, how to create geometric trails streaming off an object, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=786416
+Course_System=linkedin.com
+Course_Title=Python Standard Library Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python is a concise, elegant language. And part of what makes it so accessible and fun to use is the library of pre-built code—known as the Python standard library—that’s distributed along with the language. In this course, learn how to leverage the modules in the Python standard library to make building applications with Python even easier. Discover how the Python standard library can help you solve common coding challenges and make it easier to process text, manipulate data, and work with files and directories. Plus, see how the library can help you work with numbers, calculate and format dates and times, parse HTML, and more.

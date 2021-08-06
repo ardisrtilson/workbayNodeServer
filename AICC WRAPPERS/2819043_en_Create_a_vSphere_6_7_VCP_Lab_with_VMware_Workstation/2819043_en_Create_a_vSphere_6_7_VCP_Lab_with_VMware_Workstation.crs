@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2819043
+Course_System=linkedin.com
+Course_Title=Create a vSphere 6.7 VCP Lab with VMware Workstation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having a vSphere home lab is a valuable resource for testing and training. This course walks you through the process of creating a vSphere 6.7 lab on your own computer. You can learn how to use VMware Workstation 15 and vSphere 6.7 and get hands-on practice creating multiple virtual machines. When you’re done, you will have a completely functional vSphere 6.7 lab environment, complete with a router, domain controller, virtual NAS device, and multiple ESXi hosts. With vCenter deployed, you will be able to practice launching the vSphere Client and manage your environment. These skills are valuable for any aspiring network administrator without access to expensive hardware, as well as those preparing for the VMware Certified Professional (VCP), vSphere Foundations, or VMware Certified Associate (VCA) exams. Note: The course is about an hour in length, but if you are following along at home the process to completely build your home lab should take two to three hours. This course was created by Rick Crisci. We are pleased to offer this training in our library.

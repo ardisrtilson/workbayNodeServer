@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=452748
+Course_System=linkedin.com
+Course_Title=PHP: Email with Swift Mailer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sending emails programmatically is a common task for developers. Although you can use PHP's native mail() function, it's not very efficient or secure. And there's no easy way to send attachments or HTML email with mail(). If you're looking for an alternative, then Swift Mailer is the tool for you. Swift Mailer is free and feature-rich, and it integrates into any web app written in PHP 5 or 7. Swift Mailer offers a flexible and elegant object-oriented approach to sending emails, including HTML email and bulk email. This PHP tutorial guides developers through the process of installing and loading Swift Mailer, and sending emails using SMTP and encrypted SMTP connections. David Powers teaches secure methods that protect users and support MIME standards. He also introduces advanced techniques for sending attachments, personalizing email, and limiting the send rate. Want to see how Swift Mailer solves a real-world programming challenge? Chapter 6 is a case study that shows how to use Swift Mailer to send an email registration form.

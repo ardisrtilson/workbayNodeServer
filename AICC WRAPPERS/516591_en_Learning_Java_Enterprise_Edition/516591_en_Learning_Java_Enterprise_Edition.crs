@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Theedom
+Course_ID=516591
+Course_System=linkedin.com
+Course_Title=Learning Java Enterprise Edition
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Java Enterprise Edition (EE) platform is built on Java Standard Edition (SE) to provide a powerful enterprise computing solution. It runs hundreds of thousands of the most dynamic and powerful sites on the web—everything from your favorite small business to Fortune 500 systems. Watch this introduction to learn the essentials of Java EE 7 and start developing with this exciting platform. Alex Theedom provides a high-level view of the Java EE ecosystem, covering the 12 most important APIs. Learn how to use JavaServer Faces to construct interactive views, implement Java Message Service to decouple your application, ensure data integrity with Bean Validation, create dynamic sites with WebSocket, and much more.

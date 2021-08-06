@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Scarpino
+Course_ID=704156
+Course_System=linkedin.com
+Course_Title=WebAssembly: Accessing C and C++ in Web Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Accelerate web applications with native code using WebAssembly. WebAssembly is a new, revolutionary technology that allows developers to program webpages using popular high-level languages like C, C++, Rust, and Python. Code is then compiled to WebAssembly bytecode and implemented by the JavaScript engine built into all web browsers. You gain flexibility and functionality without sacrificing performance. This course focuses on the practical uses of the technology: converting C and C++ code to WebAssembly and executing WebAssembly in JavaScript. Programmer and engineer Matt Scarpino demonstrates the power of the WebAssembly, implementing quick sort and matrix multiplication algorithms. He also reviews advanced features, such as debugging and the WebAssembly text format. By the end of the course, you'll understand the massive potential WebAssembly represents and be ready to implement it in your next web project.

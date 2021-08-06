@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2864333
+Course_System=linkedin.com
+Course_Title=Troubleshooting IT Remote Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While setting up, administrating, and troubleshooting remote users’ technical problems were always part of the job for any IT administrator, the rise in remote work has turned issues you may have never even considered into everyday problems. How do you go about solving these new and numerous issues? In this course, Robert McMillen shows how to best support corporate and organizational remote workers, and covers a whole host of issues related to remote access, printing, file access, VPN and more. Besides tips on troubleshooting, he also covers a variety of preventative measures you can use to lessen the likelihood of these issues popping up in the first place.

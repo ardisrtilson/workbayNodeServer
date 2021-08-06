@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2811345
+Course_System=linkedin.com
+Course_Title=Introduction to 3D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+No matter what software you use or final product you create, all 3D modeling and rendering packages share the same underlying concepts. In this course, expert George Maestri provides a broad overview of these concepts and the techniques that apply to all types of 3D artwork: character designs, product shots, animation, visual effects, and more. He starts with navigating 3D space and manipulating existing objects, reviews geometry and modeling, and shows how to apply color and texture to surfaces. Finally, George goes over basic rendering theory, covering features found in most commercial rendering engines.

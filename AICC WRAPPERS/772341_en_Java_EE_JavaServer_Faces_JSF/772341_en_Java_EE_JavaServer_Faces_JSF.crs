@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tayo Koleoso
+Course_ID=772341
+Course_System=linkedin.com
+Course_Title=Java EE: JavaServer Faces JSF
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Java EE specification is the industry standard for building enterprise-level web applications. In this course, instructor Eyitayo Koleoso focuses on JSF and shows Java programmers how to use this platform to build robust, secure Java EE web applications. Discover how to set up a JSF project, build a JSF page using Facelets, use Ajax support in JSF, secure your JSF web app, combine JSF with other frameworks, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Patrick Rauland
+Course_ID=5028667
+Course_System=linkedin.com
+Course_Title=WordPress: Building Child Themes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning how to create a child theme is the first step to becoming a WordPress developer. Child themes are a great entry point, as they’re built on top of an existing theme with a properly coded foundation. The skills you use during development are the same ones you leverage for writing brand-new themes and plugins. Learn how to use child themes to create your own custom, stylish new WordPress sites—without the advanced knowledge of a web developer. Instructor Patrick Rauland explains how to get started picking a parent theme, updating the CSS, creating a new template for your child theme, and updating its functionality. By the end of this practical, project-based course, you should have a functioning child theme and the skills to quickly customize your next WordPress site.

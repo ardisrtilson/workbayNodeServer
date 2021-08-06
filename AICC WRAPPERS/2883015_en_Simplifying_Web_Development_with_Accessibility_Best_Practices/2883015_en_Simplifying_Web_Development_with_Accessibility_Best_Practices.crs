@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2883015
+Course_System=linkedin.com
+Course_Title=Simplifying Web Development with Accessibility Best Practices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Too often in the world of web development, accessibility is given a low level of priority in the development stage of a site and is often relegated to experts for later implementation. But why spend the time and money hiring an outside consultant when you can set up a website for proper accessibility at the build stage? In this course, Morten Rand-Hendriksen shows the benefits of taking this approach, and how simple it is to do so. As Morten explains, all that’s needed is a basic understanding of why these elements are so important, how they work, and how good coding practices and modern web standards can get you there with little extra work. He tackles accessibility from all sides, starting with the origins of some of the most common accessibility issues and how to address them, then covers key topics like accessible design, hiding and showing visual content, handling graphics and media, and the semantic elements that can help make your designs more accessible.

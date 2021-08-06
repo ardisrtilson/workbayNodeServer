@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=716053
+Course_System=linkedin.com
+Course_Title=Infraworks: Visualization Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk InfraWorks boasts features and settings that can help you craft stunning visual outputs without compromising the performance of your model. In this course, learn how to leverage powerful—often overlooked and underutilized—visualization and performance options in InfraWorks to tune and optimize your models, and balance visual quality with speed and model performance. Instructor Lynda Sharkey covers working with different visualization settings and discusses how to adjust sun, wind, and cloud settings to produce a range of atmospheric effects. She also discusses how to create and share presentations, including how to work with storyboards.

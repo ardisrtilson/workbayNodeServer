@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2822473
+Course_System=linkedin.com
+Course_Title=vSphere 6.7 Foundations: Using vMotion to Migrate vSphere 6.7 VMs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. Nonvirtualized data centers are a thing of the past; in order to stay relevant—and scale infrastructure to meet business needs—you must understand vSphere. vSphere 6.7 Foundations is an eight-part series designed for anyone who wants to learn vSphere, including absolute beginners, and develop the knowledge to pass the VMware vSphere 6.7 Foundations exam (2V0-01.19). In this course, instructor Rick Crisci explains how to use vMotion to migrate vSphere virtual machines to different clusters or servers—with no downtime for the VM or service disruption for end users. Follow along with hands-on demos, as Rick shows how to configure vMotion, perform manual and scheduled migrations, change the formatting of virtual disks, and migrate workloads across environments without shared storage. This course was created by Rick Crisci. We are pleased to host this training in our library.

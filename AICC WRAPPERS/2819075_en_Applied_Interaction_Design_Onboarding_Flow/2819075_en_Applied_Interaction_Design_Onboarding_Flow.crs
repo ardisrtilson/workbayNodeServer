@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2819075
+Course_System=linkedin.com
+Course_Title=Applied Interaction Design: Onboarding Flow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to build and prototype the onboarding flow of a mobile application in just three steps, using Adobe Sketch and Adobe XD. Instructor Tom Green shows how to prepare the animation sequence in Sketch, assemble it in Adobe XD, and then add the interactivity you need to make your design accurately represent the user experience. Along the way, you can explore the fundamentals of interaction design, user interface (UI) transitions, and animations.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brad Wheeler
+Course_ID=485651
+Course_System=linkedin.com
+Course_Title=Build a Raspberry Pi Media Server
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The most popular use of Raspberry Pi is for custom media servers. All you need is a Pi that has access to your entertainment system and a copy of OSMC, an open-source media center built for the people, by the people. In these tutorials, Brad Wheeler shows how to download, install, and configure OSMC to run on Raspberry Pi and set it up to play content from local and remote sources, as well as third-party services like YouTube. He also shows how to control your media server using a USB keyboard, the Chorus web UI, or an infrared (IR) remote and an IR sensor connected to your Raspberry Pi's GPIO. Note: These instructions work with the Raspberry Pi 1, 2, and 3 models. OSMC does not support Netflix, Hulu, or HBO Go.

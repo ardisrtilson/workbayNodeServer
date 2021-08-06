@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Morse
+Course_ID=408408
+Course_System=linkedin.com
+Course_Title=SynthEyes Essential Training (2015)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+3D tracking is the foundation for advanced visual effects in films and commercials seen all over the world. SynthEyes is one of the most popular software packages for 3D tracking, capable of complex camera moves and object tracking. Join Brian Morse as he reviews essential tools and techniques in SynthEyes, beginning with a quick start guide to help you create accurate 3D solves quickly. He shows how to analyze a shot, compensate for lens distortion, and use both the manual and automatic features in SynthEyes to help you get the best solve for your camera. Plus, learn about more advanced techniques, like object tracking with a moving camera. The course closes with a look at exporting to a variety of animation packages: After Effects, NUKE, Maya, and CINEMA 4D.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=175074
+Course_System=linkedin.com
+Course_Title=Agile at Work: Planning with Agile User Stories
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Agile project teams create short user stories as a way to plan out the work for upcoming sprints. In this course, agile expert Doug Rose shows how to write these user stories and prioritize them in the product backlog. He also shows how to avoid the most common pitfalls with agile project planning.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=642477
+Course_System=linkedin.com
+Course_Title=Building a Note-Taking App for iOS 11 with Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Create your first iPhone app while you learn the basics of Swift and Xcode. In this course, Todd Perkins shows how to create iOS 11 apps using the Swift programming language and the Apple integrated development environment, Xcode 9. First, learn how to build a simple user interface from a table view controller and connect the view to a data source. Find out how to build the functionality to allow users to delete, edit, and save notes, and discover how to transition between different views in your app. Todd also shows you how to display an on-screen keyboard and dynamically control the size of text. By the end of the course, you'll have built a fully functional iPhone app and developed the skills to build out your own app ideas.

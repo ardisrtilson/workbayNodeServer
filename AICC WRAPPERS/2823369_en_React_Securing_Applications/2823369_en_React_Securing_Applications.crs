@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2823369
+Course_System=linkedin.com
+Course_Title=React: Securing Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You've built an application around React, using it and other libraries to create a smooth and attractive application. Everything works—but does it work securely? Applications that look great and perform well can still be at risk of attack. This course provides clear, focused steps you can take to reinforce your React applications and authentication methods to defend against common threats. First, instructor Emmanuel Henri explains how common attacks work and gets you started setting up solutions that can protect your applications. Next, he shows how to improve the security of your authentication methods using Auth0, followed by how to secure your API endpoint by leveraging other features from Auth0. By the end of this course, you'll be equipped with the best practices you need to safeguard your files, code, data, routes, servers, and users.

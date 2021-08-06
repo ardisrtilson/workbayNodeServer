@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2841538
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Communication Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you looking to add an email service to your ASP.NET Core application in order to send, receive, and even track emails? In this course, instructor Ervis Trupja shows you how, explaining how to use services such as SendGrid, a reliable cloud-based email service, to send and track emails and help build your business. Discover why it's important to use email services in your app, as well as why sending regular emails to customers can help you grow your business. Discover how to set up a SendGrid development environment and start sending emails and attachments to recipients. Learn how to set up event webhooks in SendGrid, create an API endpoint in an ASP.NET Core application, and use it to update the email status in real time. Plus, get insights on how to construct a dashboard to get insights on your email activity.

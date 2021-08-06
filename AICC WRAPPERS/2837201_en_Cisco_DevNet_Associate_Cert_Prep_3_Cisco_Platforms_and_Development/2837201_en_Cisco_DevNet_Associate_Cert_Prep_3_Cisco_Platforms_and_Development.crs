@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chou
+Course_ID=2837201
+Course_System=linkedin.com
+Course_Title=Cisco DevNet Associate Cert Prep 3: Cisco Platforms and Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare for the Cisco Platforms and Development domain of the new Cisco Certified DevNet Associate exam. Learn about the different capabilities and software development options for Cisco platforms as you garner the information you need to pass the exam and become certified. Discover how to use the Cisco SDK and its documentation. Learn about the implementation of different APIs for Cisco network management, compute management, security, and collaboration platforms. Along the way, strengthen your grasp of Cisco foundations in network engineering and software development.

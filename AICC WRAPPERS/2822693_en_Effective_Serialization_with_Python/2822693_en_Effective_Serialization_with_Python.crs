@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=2822693
+Course_System=linkedin.com
+Course_Title=Effective Serialization with Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you're making calls between different services, you can use serialization to move data around in a predictable manner for easy encoding and decoding. In this course, instructor Miki Tebeka takes a deep dive into the subject of serialization with Python, exploring key serialization formats, how to work with each format, and how to pick the right one for your Python project. He covers Python-specific serialization formats such as marshal and pickle; how to serialize and deserialize using JSON; how to encode and decode messages and serialize using protocol buffers; how to use msgpack; and more. Along the way, he shares challenges that allow you to put your new knowledge to the test.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeanne Aarhus
+Course_ID=624298
+Course_System=linkedin.com
+Course_Title=Microstation: AccuDraw
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to work efficiently with AccuDraw, a collection of aids for positioning and drawing precisely in MicroStation V8i. In this course, learn your way around this essential MicroStation feature, and discover how to leverage it for a more productive workflow. Explore how to use AccuSnap for precise placement and use basic AccuDraw features for working in 2D and 3D. Plus, this course covers custom shortcuts, advanced techniques, and how to configure AccuDraw to suit your unique needs.

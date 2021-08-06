@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=797739
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: File Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ensuring that your file services environments remain efficient is an essential aspect of enterprise computing. In this course, see how to work with file services in Windows Server 2019 to keep your data accessible and secure. Ed Liberman explains how to work with File Server Resource Manager—a capacity management tool—and Distributed File System, which helps you provide fault tolerance and redundancy to your data. Ed also shows several ways to help keep your data secure, including encrypting files using the Encrypting File System and auditing file access.

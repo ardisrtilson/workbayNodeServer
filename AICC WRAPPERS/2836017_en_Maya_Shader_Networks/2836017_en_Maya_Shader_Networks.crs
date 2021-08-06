@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=2836017
+Course_System=linkedin.com
+Course_Title=Maya: Shader Networks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Maya is one of the most popular 3D packages available, and it particularly excels in the area of complex materials. In this course, you can learn to harness the power of Maya to design more interesting shader networks. By combining and manipulating maps, materials, and UVs, you can construct an infinite variety of shader trees. Whether the goal is photorealism or a stylized render effect, Maya has all of the tools you need to create impressive and unique materials. The course concludes with a chapter on interoperability, so you can export your Maya work to other applications such as game engines.

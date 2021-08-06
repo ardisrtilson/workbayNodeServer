@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=699336
+Course_System=linkedin.com
+Course_Title=Learning Eclipse
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Eclipse is an essential tool for developers—it's not only an integrated development environment (IDE), but also an extensible platform for developing digital tools and applications. While it's primarily associated with Java, you can also use it with other languages, including C, C++, and PHP. In this course, Reynald Adolphe helps you get started with this powerful IDE, sharing practical examples and tips using Java. Learn how to work with the Eclipse interface, create and manage Java projects, and debug your code. Reynald also shares tips and tricks that can help you work smarter with Eclipse.

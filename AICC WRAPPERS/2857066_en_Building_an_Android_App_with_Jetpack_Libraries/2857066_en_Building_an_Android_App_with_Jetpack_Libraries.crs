@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=2857066
+Course_System=linkedin.com
+Course_Title=Building an Android App with Jetpack Libraries
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android Jetpack lets you create stable, maintainable apps with well-thought-out architectures. Jetpack libraries help developers focus on best practices, reduce repetition, and write code that runs on all supported Android versions and devices. In this course, instructor David Gassner introduces his favorite Jetpack libraries and functionality using a practical, hands-on project: building a new Android app from scratch. Discover how to display a list of data, create a screen for editing, manage data in memory, add data to persistent storage, and edit and update records. Along the way, you can learn how to leverage the Navigation, Room, and other libraries, as well as features such as RecyclerViews, fragments, and adapter and type converter classes, in your own Android apps. You'll be surprised by how much you can do with such a small amount of code—and how much faster and scalable your development workflow can be—with the addition of Jetpack libraries.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=89811
+Course_System=linkedin.com
+Course_Title=Revit Architecture: Advanced Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Advanced Modeling in Revit Architecture elaborates on the basics of core elements in Revit, such as walls, floors, roofs, and curtain walls, and digs into specialized features such as in-place families, adaptive components, and the massing environment. Author Paul F. Aubin guides designers into thinking both in and out of the box, through discovering and applying industry standard best practices, employing creative and sometimes unconventional techniques and procedures, and finding ways to make models serve multiple concurrent project goals.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2841294
+Course_System=linkedin.com
+Course_Title=Data-Driven Presentations with Excel and PowerPoint (365/2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create high-impact, data-rich presentations using PowerPoint and Excel together. Follow along with Gini von Courter as she shows how to create presentations that are easy to use, easy to understand, and—best of all—easy to update. It all starts in Excel. Gini begins with an example spreadsheet featuring typical business data. She uses conditional formatting to highlight important information, PivotTables to summarize data, and sparklines and charts to create illustrations. She also shows how to use several different methods, including copying and pasting, linking, and embedding, to import your work into PowerPoint. She then demonstrates how to use PowerPoint animation features to animate Excel charts and tables and focus the viewer's attention. If you've wondered how to create expressive but low-maintenance presentations to showcase your data—no matter how often it changes—this course is for you.

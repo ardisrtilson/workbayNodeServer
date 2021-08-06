@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bhoomika Agarwal
+Course_ID=651196
+Course_System=linkedin.com
+Course_Title=Python Automation and Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you spend too much time manually testing your user interfaces? Automation is the answer. Python and Selenium offer a simple but powerful framework to script any testing. Here, instructor Bhoomika Agarwal shows how to use the combination of Selenium WebDriver and Python code to automate web UI tests. Follow along and learn how to locate elements, navigate pages, test user interactions with forms and drag-and-drop elements, and use waits to control test timing and execution. The lessons are practical and can be immediately applied to your development workflow. Take the challenges included along the way to practice your new skills.

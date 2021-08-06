@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharif Nijim
+Course_ID=2841540
+Course_System=linkedin.com
+Course_Title=AWS: High Availability
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building out a resilient application takes knowledge, effort, and the right toolset. Businesses increasingly turn to cloud-based platforms like Amazon Web Services for access to modern, scalable solutions, including compute, database, and storage options. This course covers basic high availability (HA) concepts as well as practical techniques for setting up a strong and highly available environment for your real-world applications in AWS. Follow along with instructor Sharif Nijim as he explains how to create highly available DNS routes in Route 53; distribute workloads across resources with Amazon Machine Images, the Application and Network Load Balancers, and AWS Auto Scaling; and build out a highly available database with Dynamic DB, RDS, Neptune, and ElastiCache. Plus, learn about the high availability storage options such as S3, Elastic Block Storage (EBS), Elastic File System, and FSx. Note: This course is also part of a series designed to help you prepare for the AWS Certified SysOps Administrator – Associate certification exam.

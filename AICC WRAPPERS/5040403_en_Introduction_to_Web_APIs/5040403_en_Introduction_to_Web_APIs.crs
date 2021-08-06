@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Probert
+Course_ID=5040403
+Course_System=linkedin.com
+Course_Title=Introduction to Web APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The term API, much like “the cloud, is often thrown around in casual technical conversation. If you're familiar with the term—but a bit fuzzy on the specifics of how application programming interfaces (APIs) work—then this course is for you. In plain language, instructor Andrew Probert covers the essentials of this core piece of modern web development, explaining what APIs are and how to use them to quickly incorporate data into your websites. Throughout the course, Andrew focuses on consuming and getting data from APIs. He also goes over the basics of associated technologies and skills, such as JSON and object-oriented programming, and shows how to handle errors you might encounter when trying to get data from an API.

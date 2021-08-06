@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Greene
+Course_ID=5005086
+Course_System=linkedin.com
+Course_Title=CSS Selectors for React Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the world of CSS, selectors are key. They allow developers to target specific content that they want to style. By learning the basics of how to work with selectors, you can write more efficient CSS that's easier to maintain. In this course—the first installment in a two-part series on CSS selectors—learn how to work with CSS selectors as a React developer. Instructor Eric Greene demonstrates how to use universal selectors, attribute selectors, and pseudo-class selectors. To wrap up, Eric details how to use selectors in JavaScript. Note: This course was created by Wintellect. We are pleased to host this training in our library.

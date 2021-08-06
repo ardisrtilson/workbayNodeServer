@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=140780
+Course_System=linkedin.com
+Course_Title=JavaScript: Events
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about the different types of JavaScript events available to use in your applications, including traditional events like mouse, form, and window events, plus events that allow you to manage the DOM and HTML5 events that deal with media. Author Ray Villalobos shows how to propagate and register events during the capturing and bubbling phases, cancel an event or default behavior, and respond to clicks, mouse-overs, right-clicks, following the mouse, and loading images. Plus, Ray demos an audio jukebox project and a drag-and-drop game that shows JavaScript desktop and touch events in action.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=782141
+Course_System=linkedin.com
+Course_Title=Wireshark: VoIP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Voice over IP (VoIP) is a technology that sends voice data in packets using the IP network—allowing you to make calls using an internet connection instead of a traditional phone line. In this course, join Lisa Bock as she takes an in-depth look at VoIP protocols and components, as well as how to troubleshoot VoIP calls. Lisa begins with an overview of VoIP, discussing its uses, codecs, and components. She then reviews the protocols that make VoIP possible, including TCP/IP, Skinny Client Control Protocol (SCCP) and the H.323 family. She provides a review of media gateways and network operations, including quality of service and DNS, that are critical to the success of VoIP. To wrap up, Lisa dives into Wireshark statistics, showing how to leverage these statistics to troubleshoot VoIP.

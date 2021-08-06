@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=2885201
+Course_System=linkedin.com
+Course_Title=Building a WordPress Membership Site: Getting Started
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you want to build a membership site with WordPress? Learn how, as instructor Carrie Dils walks you through building a membership site with WordPress and a membership plugin. Carrie explains what a membership site is and what types of membership plugins you can use to build them. She goes over different types of membership plugins and what factors you should consider in finding the best plugin for your needs. Carrie explains the costs of maintaining a membership site, different pricing models, and considerations for billing. She concludes with useful tips on ways to learn more.

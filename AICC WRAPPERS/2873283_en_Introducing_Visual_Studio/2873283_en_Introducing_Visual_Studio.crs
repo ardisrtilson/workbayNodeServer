@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kendra Havens, Microsoft .NET
+Course_ID=2873283
+Course_System=linkedin.com
+Course_Title=Introducing Visual Studio
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructors Kendra Havens and Scott Hanselman introduce you to installing, setting up, and using Visual Studio. First, they offer a quick look at the best features Visual Studio has to offer. Next, they walk you through installing a free copy of Visual Studio on your machine to create your first C# app, compile the app, and debug it. They give you a whirlwind tour of .NET features that developers love. They conclude by showing you the lively open-source communities that .NET and Visual Studio have, ranging from in-person meetups to live streams to conferences. This course was created by Microsoft.NET. We are pleased to host this training in our library.

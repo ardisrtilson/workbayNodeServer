@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=2805908
+Course_System=linkedin.com
+Course_Title=Data Science Foundations: Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data science is driving a world-wide revolution that touches everything from business automation to social interaction. It’s also one of the fastest growing, most rewarding careers, employing analysts and engineers around the globe. This course provides an accessible, nontechnical overview of the field, covering the vocabulary, skills, jobs, tools, and techniques of data science. Instructor Barton Poulson defines the relationships to other data-saturated fields such as machine learning and artificial intelligence. He reviews the primary practices: gathering and analyzing data, formulating rules for classification and decision-making, and drawing actionable insights. He also discusses ethics and accountability and provides direction to learn more. By the end, you’ll see how data science can help you make better decisions, gain deeper insights, and make your work more effective and efficient.

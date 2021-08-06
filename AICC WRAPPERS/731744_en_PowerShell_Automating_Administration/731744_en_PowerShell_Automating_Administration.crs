@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=731744
+Course_System=linkedin.com
+Course_Title=PowerShell: Automating Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Simplify Windows network administration with PowerShell. Learn how to automate routine tasks and free up more time for complex troubleshooting and innovation. This course, part of the PowerShell learning path, covers next-level scripting using prebuilt PowerShell modules, conditional logic, and loops. Instructor Scott Burrell also shows how to handle errors, enable delegated and remote administration, and run jobs in the background of Windows Server 2016. Plus, learn how to schedule tasks and jobs so you don't have to sit around waiting for an activity to complete. Using these tips and best practices, you can administer an entire network of workstations and servers—without ever having to leave your office.

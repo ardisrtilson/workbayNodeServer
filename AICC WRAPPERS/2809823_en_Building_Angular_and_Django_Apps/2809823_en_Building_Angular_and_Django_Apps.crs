@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rudolf Olah
+Course_ID=2809823
+Course_System=linkedin.com
+Course_Title=Building Angular and Django Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Put your Angular and Django REST knowledge to the test. In this course, join Rudolf Olah as he delves into the intricacies of pairing the two frameworks to build dynamic web applications. Throughout the course, Rudolf demonstrates how to wire together the two frameworks, add pagination, secure, and test your applications. Discover how to prepare your Angular code for production, communicate between the front-end and back-end servers using the built-in Angular HttpClient, and use the Angular Material UI component framework to display pop-up dialog boxes and data in tables. Plus, learn how to set up authentication with the Django OAuth Toolkit, implement filtering with Django and Angular, and use unit and end-to-end testing to ensure that your app is ready for production.

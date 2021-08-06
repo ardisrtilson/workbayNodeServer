@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Neill
+Course_ID=463026
+Course_System=linkedin.com
+Course_Title=VMware vSphere: Configure and Manage Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+vSphere is a leading virtualization platform. Knowing how to configure a virtual network with vSphere is an important skill for any VMware administrator. Join Brandon Neill in this course for an overview of vSphere networking, covering the basic concepts of virtualized networking, VMkernel networking, and vSphere standard switches. Along the way, Brandon touches on ESXi components, vSphere traffic shaping, network interface controllers (NICs), and virtual network security.

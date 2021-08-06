@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Shostack
+Course_ID=2810167
+Course_System=linkedin.com
+Course_Title=Threat Modeling: Tampering in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Threat modeling allows security pros and software developers to proactively address the inevitable—hackers trying to compromise a system—early on in a project's life cycle. In this course, Adam Shostack covers tampering, the second stage in the STRIDE threat modeling framework. Tampering can compromise the integrity of a variety of systems and tools, from debuggers to Iocal storage. Throughout this course, Adam describes how different tampering threats work, as well as what you can do about them. Learn how attackers can tamper with libraries, IoT devices, cloud services, and more.

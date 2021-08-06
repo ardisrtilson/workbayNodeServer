@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=761938
+Course_System=linkedin.com
+Course_Title=AutoCAD: Advanced 3D Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You can model almost any form imaginable with the AutoCAD 3D toolsets. In this project-based course, Scott Onstott teaches you the techniques required to solve complex modeling challenges in AutoCAD, while focusing on an innovative ebike design. Learn how to create each 3D component of the bicycle model, including its frame, belt-tensioner mechanism, drivetrain, power components, brakes, wheels, axels, hubs, spokes, handlebars, and even the bicycle seat. The techniques (which can be applied to other mechanical models) cover extruding profiles, lofting 2D cross sections, revolving profiles around an axis, filleting edges, smoothing mesh objects, sculpting complex NURBS surfaces, and much more.

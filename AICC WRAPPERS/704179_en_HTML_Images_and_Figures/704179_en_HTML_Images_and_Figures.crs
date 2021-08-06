@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=J. David Eisenberg
+Course_ID=704179
+Course_System=linkedin.com
+Course_Title=HTML: Images and Figures
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The web offers more and more ways to make your graphics accessible, reliably placed, and a smooth fit for a variety of different screens. It's not just IMG anymore. In this course, join J. David Eisenberg as he provides a comprehensive exploration of the many ways to present graphics on web pages. Learn about different image formats—including GIF, PNG, and JPEG—and discover how to adjust and style images using CSS. Plus, learn about the principles of responsive design, how to use the figure and figcaption elements to caption images, and more.

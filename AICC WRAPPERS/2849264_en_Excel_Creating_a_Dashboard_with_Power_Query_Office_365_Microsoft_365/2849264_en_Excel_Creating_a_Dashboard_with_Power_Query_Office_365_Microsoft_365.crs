@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Leila Gharani
+Course_ID=2849264
+Course_System=linkedin.com
+Course_Title=Excel: Creating a Dashboard with Power Query (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating an Excel dashboard from scratch can feel overwhelming. How do you start? What if you have a lot of data? How do you set up the calculations? In this course, follow along with Excel MVP Leila Gharani as she shows you how to design an interactive Excel dashboard from scratch. Learn to use Power Query, the Excel Data Model, and PivotTables to get it all set up fast. Discover how to import and create a connection to the data and refresh it with one click using Power Query. Leila also shows how to use Power Query to clean data and set up calculation logic. Then, with the Data Model, you can create relationships between the data sets. Finally, learn how to extract the information you need using PivotTables and display it with linked shapes and pictures and PivotCharts. You can discover dozens of useful Excel dashboard tips and tricks along the way. Start creating your own data-rich dashboards today. This course was created by Leila Gharani. We are pleased to offer this training in our library.

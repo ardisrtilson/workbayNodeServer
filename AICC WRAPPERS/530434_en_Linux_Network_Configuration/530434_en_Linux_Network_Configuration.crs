@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=530434
+Course_System=linkedin.com
+Course_Title=Linux: Network Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Networking is an essential part of a Linux administrator's skill set. Effective networks help users communicate, share resources, and get things done. Learn how to configure network interfaces and client-side services on Linux in this course with instructor Scott Simpson. He covers DHCP, DNS, Wi-Fi, and firewall configuration, working with both the CLI and the GUI (NetworkManager). Plus, learn how to route traffic between networks and troubleshoot your setup. Note: This course concentrates on the CentOS distribution of Linux, but there are separate lessons on configuring networking for Ubuntu/Debian.

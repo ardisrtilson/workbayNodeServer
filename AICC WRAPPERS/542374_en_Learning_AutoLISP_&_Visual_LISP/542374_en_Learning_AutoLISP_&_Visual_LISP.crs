@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Modglin
+Course_ID=542374
+Course_System=linkedin.com
+Course_Title=Learning AutoLISP & Visual LISP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Due to its relative simplicity and historical integration within the AutoCAD environment, LISP is a natural first programming language for CAD managers. In this course, Josh Modglin walks through the fundamentals of LISP for AutoCAD, so that you can start using this language to simplify tedious tasks and ease the implementation of standardization. Josh explains what LISP is, the differences between AutoLISP and Visual LISP, how to write it, as well as how to create objects and store information that you can use later. Plus, throughout the course, he shares coding best practices that can help you work efficiently with this functional language.

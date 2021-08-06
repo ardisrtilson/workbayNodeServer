@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Winnie
+Course_ID=454673
+Course_System=linkedin.com
+Course_Title=Computer Science Principles: Digital Information
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Computers, at their most basic level, store information in bits—a series of on and off states represented by ones and zeroes. Using this binary language, the information in images, audio, video, text, and other files can be saved and shared. This principle is the basis of all computing, including programming. Here Doug Winnie explains the basics of binary: how digital information is represented, encoded, stored, and communicated between computers. This course is the first in our Computer Science Principles series, designed around the AP Computer Science Principles (CSP) curriculum. It is a great foundation for anyone, at any age, to prepare for careers in technology and computer science. Lessons in this segment cover the building blocks of computing: binary logic, number systems, text and image encoding, compression, and simple communication protocols. Understanding these basics will help you understand the interplay between hardware, software, data, networks, and the people that use them.

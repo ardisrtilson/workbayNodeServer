@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tony Abbey
+Course_ID=779744
+Course_System=linkedin.com
+Course_Title=Autodesk Nastran In-CAD: Dynamic Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Originally developed by NASA, NASTRAN is a finite element analysis (FEA) system used for structural analysis in the automotive, aerospace, and marine industries. Now you can leverage the power of NASTRAN for product design and manufacturing with Nastran In-CAD, the FEA toolset embedded in Autodesk Inventor. This course teaches the fundamentals of dynamics analysis with Nastran In-CAD. With fully worked examples and numerous hints and tips, the course helps you assess your CAD models for critical resonant frequencies. Instructor Tony Abbey also explains how to perform transient and frequency response analysis, and how to qualify your models under these dynamic operating conditions.

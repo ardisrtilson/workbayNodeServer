@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2426612
+Course_System=linkedin.com
+Course_Title=Joomla! 4 First Look
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When Joomla! 3.0 was released in 2012, the web was a much different place—Bootstrap 2 was new, HTML 5 wasn’t finalized, and mobile websites were just starting to take over the world. After nearly nine years with the same interface, the Joomla! 4.0 release candidate is here with some new looks that reflect the way the web and mobile web work now. In this course, Jen Kramer gives you a tour of the major features of Joomla! 4.0, ahead of its final release. She starts with a look at Cassiopeia and Atum, the latest website and administrator templates in Joomla. Jen also gives an overview of the built-in components, modules, and plug-ins, and their capabilities. Finally, she looks at one of the major new features in Joomla! 4.0, the workflow feature, which allows you to vet content within Joomla before publication. (Note: This course was recorded using Joomla! 4.0 release candidate 2. If you are using a different version, you may see slight variations between release candidates.)

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=150001
+Course_System=linkedin.com
+Course_Title=Cinematography: Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While Maya's cameras offer you a tremendous amount of creative freedom (even more than real-world cameras), their controls can be complex. This course helps you learn how to expertly adjust them. Aaron F. Ross covers viewport display, controlling orthographic cameras, framing shots, editing with the Camera Sequencer, simple and compound camera moves, and many different special effects. Start now and learn how to expertly position and animate cameras in your Maya projects and give your audience a window into your 3D world.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rachel Wright
+Course_ID=2975170
+Course_System=linkedin.com
+Course_Title=Learning Jira (Server Edition)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Jira is a tool for issue tracking and project management. Already the industry standard for software development, Jira is quickly being adopted by many other teams like marketing, legal, IT, and finance. By learning Jira, you can easily manage your own daily tasks, help your organization plan strategic initiatives, and keep track of progress with the easy-to-use, real-time reporting tools. This course teaches you everything you need to get started with the server edition of Jira. Instructor Rachel Wright introduces you to the software and explains some of the differences between the versions and types of Jira. Then you can learn how to navigate the dashboard, view your project list, and drill down for details. Next, see how to create and edit issues, estimate the time and effort needed to complete them, and search for issues. Rachel also shows how to generate useful reports by customizing filters, dashboards, and boards, and adjust preferences so that Jira works best for you.

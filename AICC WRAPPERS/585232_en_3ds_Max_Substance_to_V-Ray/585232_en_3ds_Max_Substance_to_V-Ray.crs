@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=585232
+Course_System=linkedin.com
+Course_Title=3ds Max: Substance to V-Ray
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to leverage the substance-based toolset from Allegorithmic with V-Ray in 3ds Max. In this course, explore the various workflow requirements and options that are available when using the Substance Designer, Substance Painter, and Bitmap2Material applications with 3ds Max and V-Ray. Brian Bradley explains what substance-based tools are, and how to use them with the 3ds Max application. He also demonstrates how to create materials from photographic assets, how to work with substances and maps from Substance Designer, and how to export maps from Substance Painter.

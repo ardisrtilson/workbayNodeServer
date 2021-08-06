@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Emmerich
+Course_ID=645066
+Course_System=linkedin.com
+Course_Title=Learning Package Management with Yarn
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with Yarn, the enterprise-scale JavaScript package manager from the developers at Facebook and Google. Yarn is a npm replacement that provides better performance via caching and parallel execution. In this course, instructor Steven Emmerich explores the core differences between Yarn and npm and shows how to create a brand-new Yarn project. Find out how to set up a testing workflow and integrate code analysis and version control with tools like Code Climate and GitHub. Learn how to package your library with Rollup, and use Yarn with Circle CI, the continuous integration and delivery platform. Finally, discover how to publish packages to npm and share your project with the world.

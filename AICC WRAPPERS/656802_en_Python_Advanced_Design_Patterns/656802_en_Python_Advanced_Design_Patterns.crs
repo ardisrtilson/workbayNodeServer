@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=656802
+Course_System=linkedin.com
+Course_Title=Python: Advanced Design Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns encourage clean programming. In this course, take a look at some advanced design patterns as applied to Python. Instructor Jungwoo Ryoo begins by looking at why-or why not-use design patterns in the first place. Jungwoo then steps through some design best practices, going over topics such as quality attributes and domain-specific patterns. He also introduces some practical design patterns described by the Gang of Four, including Command, Interpreter, and Memento. Plus, he helps you grasp how these patterns actually work at the code level by walking through sample scripts.

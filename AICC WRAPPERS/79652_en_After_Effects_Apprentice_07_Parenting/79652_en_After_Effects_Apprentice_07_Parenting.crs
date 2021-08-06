@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Trish Meyer, Chris Meyer
+Course_ID=79652
+Course_System=linkedin.com
+Course_Title=After Effects Apprentice: 07 Parenting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Parenting is a way to group multiple layers within the same composition inside After Effects. In this course, Chris Meyer shows how to set up a parenting chain, discusses what makes a good parent, and demonstrates several techniques using parenting, such as creating a title animation with a minimal number of keyframes, building a geometric construct, and bringing an anthropomorphic robot arm to life. Sidebar topics include avoiding a scaling gotcha with parenting and creating abstract backgrounds using the Fractal Noise effect. The After Effects Apprentice series was created by Trish and Chris Meyer. These tutorials are designed for After Effects CS4 through CC, and can be used on their own or as a companion to the Meyer's book, After Effects Apprentice.

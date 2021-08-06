@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=518698
+Course_System=linkedin.com
+Course_Title=Windows Presentation Foundation: 2 Layout
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows Presentation Foundation (WPF) in Visual Studio 2015 provides developers with a unified programming model for building modern applications on Windows. In this course, expert developer Walt Ritscher steps you through the details of how to create rich Windows user experiences using WPF's layout panels: basic UI containers used to position and arrange elements in XAML and other code. Explore the six prebuilt layout panels available, including stack, dock, and grid panels, and learn how to add rows, columns, and child elements; size and position content; and create a custom layout panel of your own, for more precise control of your interface designs.

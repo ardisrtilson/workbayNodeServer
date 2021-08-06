@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=157226
+Course_System=linkedin.com
+Course_Title=Deploying Icon Fonts for the Web
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Icon fonts are a fast, effective way to feature scalable vector artwork on websites. James Williamson shows you how to properly deploy icon fonts on your own site in this short course. Learn how to find an icon font that's right for you and style it so it appears exactly the way you want. Then learn about deployment options that will make your icons accessible and display consistently across multiple browsers and devices. James also introduces advanced styling options such as animated and multicolored glyphs. Want to create your own icon fonts? Check out James' companion course, Creating Icon Fonts for the Web.

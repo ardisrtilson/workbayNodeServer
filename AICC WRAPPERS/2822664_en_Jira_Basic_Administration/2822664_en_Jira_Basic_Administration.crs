@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rachel Wright
+Course_ID=2822664
+Course_System=linkedin.com
+Course_Title=Jira: Basic Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Every company needs software to track their work and report progress on their strategic initiatives. Jira, the powerful project management tool from Atlassian, is one of the most popular tools for such efforts. But for every software application, there's an administrator that needs to correctly configure the settings, manage users, complete customization requests, and ensure the instance supports growth and change in an organization. This course was designed to guide basic Jira users down the path to successful Jira administration, helping them master the tools and best practices that make a Jira instance robust and efficient. Instructor Rachel Wright covers the basic skills and processes needed to successfully administer and customize a Jira instance. Learn how to manage users, roles, and groups; create projects; build new workflows from scratch; manage notifications to your users; and more.

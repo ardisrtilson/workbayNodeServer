@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Villeneuve
+Course_ID=2814040
+Course_System=linkedin.com
+Course_Title=AWS DevOps: Continuous Docker Deployment to AWS Fargate from GitLab
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fargate makes it easy to host and scale your Docker containers on AWS; GitLab can quickly deploy your containers to Fargate so you can release early and often. Learn how to combine these two tools into an automated, continuous DevOps pipeline that makes deploying and scaling your container-based applications a quick and easy endeavor. Instructor Jeremy “JV” Villeneuve first shows how to install and configure GitLab using the official Docker image, and maintain GitLab through regular automated backups and upgrades. Then he explains how to create ECS clusters to run containers on Fargate via the ECS Fargate command-line interface (CLI). Finally, learn how to script deployment of new containers from GitLab to Fargate and test your setup to ensure everything works as planned.

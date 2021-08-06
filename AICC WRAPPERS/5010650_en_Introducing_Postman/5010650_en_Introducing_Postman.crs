@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Fancher
+Course_ID=5010650
+Course_System=linkedin.com
+Course_Title=Introducing Postman
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Postman is essentially like a graphical cURL. But if you’re only using it as such, then you’re missing out on some of the API development environment’s most interesting and useful features. In this course, instructor Dave Fancher highlights some of this key functionality as he shares how to best leverage Postman to enhance your API development experience. Dave shows how to work with a sample API to compose and authenticate requests, how to view and publish documentation, how to manage environments and variables, and more.

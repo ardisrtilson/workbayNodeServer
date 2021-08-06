@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Donovan Keith
+Course_ID=150002
+Course_System=linkedin.com
+Course_Title=Primitive and Spline Modeling in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The primitive and spline modeling tools are universal across all levels of CINEMA 4D (including C4D Lite) and they're some of the best ways to model mechanical objects and other complex objects made of simpler parts. In this course, Donovan Keith shows you how to take a reference photograph and create a model from its shapes and pieces. You'll learn to prep your primitive components and move them into position with the snapping tools. Then you'll deform and combine shapes, duplicating and reusing elements to increase your efficiency, and create a more consistent model. Last, you'll work with splines—extruding objects to give them depth, creating models around an axis with lathes, and stretching surfaces over splines with lofts.

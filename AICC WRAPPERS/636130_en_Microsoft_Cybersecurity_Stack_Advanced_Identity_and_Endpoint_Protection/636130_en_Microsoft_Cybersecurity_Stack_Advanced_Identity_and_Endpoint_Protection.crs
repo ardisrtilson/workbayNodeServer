@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=636130
+Course_System=linkedin.com
+Course_Title=Microsoft Cybersecurity Stack: Advanced Identity and Endpoint Protection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the rise of the cloud, the traditional model of the network perimeter is dead—identity is the new control plane. This course offers advanced techniques for identity and endpoint security with the Microsoft cybersecurity stack: Enterprise Mobility + Security (EMS) and Azure Active Directory Premium. Instructor Peter Zerger shows how to set up secure access to resources in any app, on any cloud, and from any device. Learn how to configure virtual-based security with Windows Defender Device Guard and Credential Guard, secure email with Exchange Online ATP, control what happens after a breach with Advanced Threat Analytics, and protect the cloud with Azure Active Directory. Plus, find out how to use Windows Defender ATP and manage access to secure Azure resources using privileged access.

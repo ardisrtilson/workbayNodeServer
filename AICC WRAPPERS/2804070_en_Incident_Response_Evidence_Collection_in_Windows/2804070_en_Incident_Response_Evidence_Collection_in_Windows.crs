@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Dion
+Course_ID=2804070
+Course_System=linkedin.com
+Course_Title=Incident Response: Evidence Collection in Windows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If your organization is the victim of a cyberattack, will you be ready to respond? An incident responder or digital forensics technician has to be prepared to properly collect digital evidence as soon as an event is reported. This course teaches you how to quickly triage affected systems, securely collect digital evidence, and create your collection report for further forensic analysis. Digital forensic examiner (DFE) Jason Dion explains how to build a portable toolkit of trusted tools, both proprietary and open source, to collect evidence from Windows machines: volatile data from workstations, non-volatile data from hard drives and USBs, and disk images. Jason also shows how to deal with encryption challenges, document your collection efforts, and build a finalized collection report.

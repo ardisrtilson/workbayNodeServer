@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eduardo Corpeño
+Course_ID=794136
+Course_System=linkedin.com
+Course_Title=Learning FPGA Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Field-programmable gate arrays (FPGAs) straddle the boundary between hardware and software. They are customizable circuits that can be updated by customers or designers after manufacturing or deployment in the field. Rather than programming the chip with a series of instructions, FPGA developers create a logic structure from the gates inside the chip, establishing pathways for future data. A low-cost option for electronics prototyping and experimentation, FPGAs programming is a great entry point to digital systems design. This course provides an orientation to FPGAs, exploring the anatomy of the development boards and proprietary hardware description languages, the possibilities for implementation, and a comparison of the two major competing platforms, Xilinx and Intel. Instructor Eduardo Corpeño also provides demos that show a real application working on both platforms.

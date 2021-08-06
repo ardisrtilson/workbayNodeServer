@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=560206
+Course_System=linkedin.com
+Course_Title=React Native Ecosystem and Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React Native makes it easy to develop applications and then deploy them natively to multiple mobile platforms. That said, building a complete app means looking beyond React Native to the different options that can help you customize your workflow. In this course, Emmanuel Henri takes you on a tour of some of the most commonly used React Native features. To begin, he shines a spotlight on some of the React Native UI libraries. Next, he reviews development resources and shows a few different backend options for your project. To wrap up, he provides an overview of the different testing and deployment options available to you.

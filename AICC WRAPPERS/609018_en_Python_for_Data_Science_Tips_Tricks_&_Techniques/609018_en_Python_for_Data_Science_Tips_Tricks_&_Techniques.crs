@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=609018
+Course_System=linkedin.com
+Course_Title=Python for Data Science Tips, Tricks, & Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modern work in data science requires skilled professionals versed in analysis workflows and using powerful tools. Python can play an integral role in nearly every aspect of working with data—from ingest, to querying, to extracting and visualizing. This course highlights twelve tips and tricks you can put into practice to improve your skills in Python. These techniques are readily applied and in common data management tasks and include the following: how to ingest data using CSV, JSON, and TXT files; how to explore data using libraries like Pandas; how to organize and join data using DataFrames; how to create charts and graphic representations of data using ggplot in Python; and more.

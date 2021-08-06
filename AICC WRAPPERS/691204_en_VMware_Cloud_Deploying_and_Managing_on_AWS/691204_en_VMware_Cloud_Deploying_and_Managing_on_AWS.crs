@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Holbrook
+Course_ID=691204
+Course_System=linkedin.com
+Course_Title=VMware Cloud: Deploying and Managing on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware Cloud on AWS allows admins to migrate vSphere-based environments to the Amazon cloud—using the same management tools, the same policies, and the same application code. Learn how to leverage VMware Cloud on AWS to structure hybrid cloud environments and access the full range of AWS services. Instructor Joseph Holbrook starts the course with an explanation the requirements, costs, and use cases for VMware Cloud on AWS. He reviews the product architecture, including its core, the Software-Defined Data Center (SDDC)—which integrates vSphere, the distributed shared data store vSAN, and the network virtualization solution NXS—and Hybrid Linked Mode, which connects your on-premises and cloud resources. Then learn how to configure SDDC, use the compute and management gateways, and explore connectivity options such as VPN and Direct Connect. Last, review the additional capabilities of VMware Cloud on AWS, such as content libraries, Site Recovery Manager, Developer Center, and vRealize Automation for automating deployment on VMware Cloud on AWS.

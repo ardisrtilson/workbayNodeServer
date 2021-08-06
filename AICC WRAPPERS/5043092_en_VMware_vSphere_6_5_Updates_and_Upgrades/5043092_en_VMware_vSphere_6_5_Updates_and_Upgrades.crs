@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043092
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Updates and Upgrades
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Update Manager in vSphere is a central location for configuring and performing updates. Instructor Rick Crisci starts the course with a complete tour of Update Manager. Learn how to perform patches and install new extensions. Find out configure settings for notifications, remediation, rollback, and cluster settings using vCenter Server Appliance. See how to scan a host to identify missing updates of a host, then perform maintenance. Watch how to perform individual and mass upgrades of virtual hardware using VMware Tools. VM updates, server updates, and database instance management are also discussed. This course covers advanced vSphere concepts that are part of the VMware Certified Professional exam.

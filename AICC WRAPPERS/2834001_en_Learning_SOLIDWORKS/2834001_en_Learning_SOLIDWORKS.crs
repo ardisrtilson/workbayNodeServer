@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=2834001
+Course_System=linkedin.com
+Course_Title=Learning SOLIDWORKS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Master the basics of SOLIDWORKS, the industry-leading CAD software, with this introductory course. Instructor Gabriel Corbett helps you quickly get up to speed with the software's most essential tools. He covers sketching 2D parts, basic 3D part modeling with the Extrude and Revolve tools, trimming and extending geometry, building reference planes, and adding fillets and chamfers to parts. Plus, learn about building assemblies and creating detailed drawing documentation for manufacturers. Tune in to get just what you need to start designing your own basic parts, assemblies, and drawings.

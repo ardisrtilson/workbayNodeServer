@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Beck
+Course_ID=585256
+Course_System=linkedin.com
+Course_Title=Learning Chef
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You can transform infrastructure into code using Chef—a powerful platform that provides automation solutions, a development kit, and more. This course explains how to use Chef architecture and tools to simplify and automate configuration management. Learn how to install Chef, configure settings, and more. Join Robin Beck as he shows you how to leverage recipes and cookbooks, deploy a Chef server, and take your infrastructure full scale by managing multiple nodes and resolving dependencies.

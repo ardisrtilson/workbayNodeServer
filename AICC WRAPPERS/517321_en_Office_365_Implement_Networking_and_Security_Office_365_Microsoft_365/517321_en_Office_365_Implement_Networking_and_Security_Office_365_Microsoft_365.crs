@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Culp
+Course_ID=517321
+Course_System=linkedin.com
+Course_Title=Office 365: Implement Networking and Security (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the essentials of networking and security for an Office 365 subscription, as outlined in the corresponding domain of Microsoft Exam 70-346, Managing Office 365 Identities and Requirements. Brian Culp breaks down the techniques into four sections. First, learn how to configure DNS records for Office 365 services. Then learn how to enable connectivity and administer Azure Rights Management, the policy-based security solution for Office 365. Last but not least, Brian shows how to create and manage administrative roles using the admin center as well as PowerShell scripting. This course is ideal for any network administrator working with Office 365 and will serve as a valuable prep course for administrators wishing to learn the skills necessary to pass the exam.

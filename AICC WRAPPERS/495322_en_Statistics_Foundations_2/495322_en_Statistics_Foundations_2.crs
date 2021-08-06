@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eddie Davila
+Course_ID=495322
+Course_System=linkedin.com
+Course_Title=Statistics Foundations: 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Statistics are a core skill for many careers. Basic stats are critical for making decisions, new discoveries, investments, and even predictions. But sometimes you need to move beyond the basics. Statistics Fundamentals – Part 2 takes business users and data science mavens into practical, example-based learning of the intermediate skills associated with statistics: samples and sampling, confidence intervals, and hypothesis testing. Eddie Davila first provides a bridge from Part 1, reviewing introductory concepts such as data and probability, and then moves into the topics of sampling, random samples, sample sizes, sampling error and trustworthiness, the central unit theorem, t-distribution, confidence intervals (including explaining unexpected outcomes), and hypothesis testing. This course is a must for those working in data science, business, and business analytics—or anyone else who wants to go beyond means and medians and gain a deeper understanding of how statistics work in the real world.

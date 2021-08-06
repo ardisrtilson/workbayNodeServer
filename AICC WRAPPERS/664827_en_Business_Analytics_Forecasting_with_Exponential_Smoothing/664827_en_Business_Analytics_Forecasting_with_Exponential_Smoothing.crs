@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=664827
+Course_System=linkedin.com
+Course_Title=Business Analytics: Forecasting with Exponential Smoothing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Exponential smoothing is a term for a set of straightforward forecasting procedures that apply self-correction. Each forecast comprises two components. It's a weighted average of the prior forecast, plus an adjustment that would have made the prior forecast more accurate. Smoothing—like most credible approaches to forecasting—requires a baseline of observations, in sequence, to work properly. Weekly revenues and daily hospital admissions are typical examples. Several versions of exponential smoothing exist, each corresponding to a type of baseline. In this course, Conrad Carlberg provides an introduction to simple exponential smoothing, diving into the basic idea behind it, and explaining how to assemble the forecast equation and optimize forecasts.

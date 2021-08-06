@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=594450
+Course_System=linkedin.com
+Course_Title=PHP: Performance Optimization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+User retention and sales conversion is directly impacted by a site's speed. However, enhancing the performance of a large website can be tricky, and requires a mix of art and science. In this course, learn about a variety of tools and techniques for developing high-performing PHP software. Instructor Justin Yost discusses how to think about performance optimization, measure the performance of your PHP software, test to ensure you're not losing users to a slow page load, optimize your database queries, and more.

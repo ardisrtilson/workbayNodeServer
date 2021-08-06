@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Laura Brady
+Course_ID=751319
+Course_System=linkedin.com
+Course_Title=EPUB Accessibility Using InDesign
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As digital books aren't constrained to the printed page, they're a great deal more malleable than traditional publications. Ebooks—which are essentially HTML and CSS in an EPUB wrapper—can be output or altered to meet the needs of readers who use assistive technology or have a situational disability. In this course, learn how to create cleaner, more accessible ebooks using Adobe InDesign. Instructor Laura Brady provides a throrough introduction to EPUB accessibility, going over key principles, techniques, and tools that can help you manipulate InDesign to boost a book's accessibility. Laura covers how to separate style and content, improve the navigation and structure of your content, and clearly describe images. Plus, learn about making pagelists and working with tools like the Ace accessibility checker.

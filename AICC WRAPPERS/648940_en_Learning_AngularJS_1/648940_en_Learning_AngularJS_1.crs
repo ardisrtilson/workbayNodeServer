@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=648940
+Course_System=linkedin.com
+Course_Title=Learning AngularJS 1
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google designed the AngularJS framework to help developers build web applications with advanced features like declarative templates, data binding, deep linking, and dependency injection. While Angular 2 is now available, many existing applications are built on the first, more mature iteration of the framework. Learning AngularJS is still important for anyone who wants to work in front-end web development. In this short, practical course, Ray Villalobos uses AngularJS to build a searchable directory—a project you can use as the basis for your own employee or user directory. He explains the MVC architecture underlying AngularJS, and the differences you can expect to encounter in Angular 2. Then he shows how to control the display of DOM elements and data; use services like $http and $routeProvider; modify content with filters; add two-way data binding; and work with routes and templates. Start watching, and learn the simple way to build your own complex web application with AngularJS.

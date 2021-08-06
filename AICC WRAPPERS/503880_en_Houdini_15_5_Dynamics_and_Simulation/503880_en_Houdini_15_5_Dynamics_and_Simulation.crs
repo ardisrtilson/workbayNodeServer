@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=503880
+Course_System=linkedin.com
+Course_Title=Houdini 15.5: Dynamics and Simulation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Scott Pagano explores Houdini and shows how to use its massively powerful dynamics system to create a range of simulations. Scott provides an overview of the dynamics context, and moves on to a range of project-based examples that illustrate how to use an array of simulation types. Starting with rigid body dynamics, he explores how to properly prepare geometry for destruction and build a destruction simulation system, as well as how to create a soft body organic dynamic simulation with Wire and Finite Element solvers. He then shows how to wrap up your object destruction system as a Houdini digital asset for use in Maya and CINEMA 4D.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2815156
+Course_System=linkedin.com
+Course_Title=Leveraging Cloud-Based Machine Learning on AWS: Real-World Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The cost and efficiency of the cloud puts machine learning and artificial intelligence (AI) within the grasp of enterprises big and small. Help your organization tap into their power with Amazon Web Services. This course is a practical approach to leveraging AWS for AI-based applications across a variety of industries, including healthcare, finance, law enforcement, manufacturing, and education. Instructor David Linthicum introduces SageMaker, Amazon’s AI platform, and presents a variety of use cases that demonstrate current best practices, tools, and techniques. He shows how to build and train machine learning models with SageMaker, and integrate them into real-world apps. David also dispels some concerns around AI, such as cost and security, by showcasing real AWS solutions.

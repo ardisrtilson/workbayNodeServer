@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645033
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 2 Basic Controls and Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Controls play a critical role in app development, as they control what a user can see and do in an application. The Universal Windows Platform (UWP) ships with almost 50 controls to help you build stellar user experiences on any device and any screen size. In this course, instructor Scott Peterson introduces some of these controls, as well as control patterns created from them. He also goes into templates and control templates—two fundamentally important concepts that play a role in virtually every real-world UWP app. Note: This course was created by Wintellect. We are pleased to host this training in our library.

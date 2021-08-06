@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=141156
+Course_System=linkedin.com
+Course_Title=UX Foundations: Logic and Content
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Foundations of UX: Logic and Content looks at how designers, developers, and content creators can use the ancient art of logic and reasoning to improve user experiences and facilitate communication. Morten Rand-Hendriksen looks at the principles of logic, how computer logic and human logic differ, and how these differences can be used to improve communication. The core idea of logic is to create a system in which communication is clear, precise, and unambiguous, which is (or at least should be) the goal of any website or other communication.

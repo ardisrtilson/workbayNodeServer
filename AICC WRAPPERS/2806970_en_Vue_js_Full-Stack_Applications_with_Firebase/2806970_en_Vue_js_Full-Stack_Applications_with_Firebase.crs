@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2806970
+Course_System=linkedin.com
+Course_Title=Vue.js: Full-Stack Applications with Firebase
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Front-end developers can quickly assemble useful applications by combining the Vue.js front-end framework with the easily accessible power of the Firebase server engine from Google. In this course, join Ray Villalobos as he demonstrates how to create a working single-page app using the Vue.js framework layered on the Firebase cloud platform. Ray goes beyond the basics, demonstrating how to build an app with features like user registration and authentication. Plus, learn how to allow multiple users to engage with your project both on and offline, program random user selection, create security rules, and more.

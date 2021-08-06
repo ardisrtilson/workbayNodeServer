@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Liam Cleary
+Course_ID=2871171
+Course_System=linkedin.com
+Course_Title=PowerShell 7 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PowerShell is a great tool for managing core infrastructure, general server and client administration, specific Windows services, and even elements of Azure. Jump-start your career and your IT environment by learning to use the latest version, PowerShell 7. Instructor Liam Cleary shows you how to ensure you’re using the administrator option in PowerShell, how to modify the PowerShell console, and how to choose a development environment. He introduces new features in PowerShell 7 and walks you through how to use PowerShell modules. Liam explains how to choose and execute commands, how to use variables, and how to create and manage objects. He steps you through how to enable the execution of scripts, how to create a reusable script, and how to create parameters. Liam covers different commands to use and how to execute them, then goes into when to use JavaScript Object Notation (JSON) and how to import it. In conclusion, he discusses when to use remoting and the implications of doing so.

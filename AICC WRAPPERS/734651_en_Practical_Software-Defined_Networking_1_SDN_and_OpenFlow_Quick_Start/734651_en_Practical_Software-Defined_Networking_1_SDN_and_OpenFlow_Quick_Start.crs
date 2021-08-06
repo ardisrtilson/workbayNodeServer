@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=734651
+Course_System=linkedin.com
+Course_Title=Practical Software-Defined Networking: 1 SDN and OpenFlow Quick Start
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a quick introduction to software-defined networking (SDN) and OpenFlow, the SDN communications protocol. This quick-start guide was created for cloud administrators that don't have a lot of time, but who want to leverage an SDN to centralize and automate network provisioning and maintenance. Instructor David Bombal introduces SDN terms and definitions, and reviews core related technologies such as Docker, Open vSwitch (OVS), and OpenDaylight (ODL). David also walks you through a number of hands-on examples: using OpenFlow controllers as programmable patch panels, incorporating an HP Enterprise VAN SDN controller and OVS, working with Linux and Docker containers, and managing OpenFlow packet capture with Wireshark. Note: This course uses GNS3 for all demonstrations.

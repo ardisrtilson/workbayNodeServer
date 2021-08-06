@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2822364
+Course_System=linkedin.com
+Course_Title=Visual Studio Step-by-Step
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to work smarter with Visual Studio? This series of tips and tricks are each less than a minute long, so you can transform your Visual Studio workflow in your spare moments. Learn how to use Tabify and Untabify to fix inconsistent spacing, use multiple carets to select and edit text, and rename classes and namespaces to match file and folder names. Discover how to refactor If statements and get a file path from the editor tab. Plus, see how to clone the Solution Explorer window to quickly do a side-by-side comparison of project structures across projects.

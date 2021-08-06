@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=756318
+Course_System=linkedin.com
+Course_Title=Security Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security isn't just a concern for the tech savvy among us. It matters to everyone with a digital footprint. In this course, instructor Scott Simpson shares practical tips that can help anyone broaden their knowledge of security—no technical pedigree required. Scott dives into topics ranging from password managers to phishing emails, sharing strategies and tools that can help you become more aware of your own security and how to keep your information safe.

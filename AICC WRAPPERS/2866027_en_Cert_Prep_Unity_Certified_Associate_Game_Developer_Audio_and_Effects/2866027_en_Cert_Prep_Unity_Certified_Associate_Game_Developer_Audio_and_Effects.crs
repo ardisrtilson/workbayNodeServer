@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2866027
+Course_System=linkedin.com
+Course_Title=Cert Prep: Unity Certified Associate Game Developer Audio and Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Become Unity certified and show employers you have the skills they are looking for. Improve your chances of landing your dream job—making games, architectural visualizations, or films. This course helps you study for questions from the sections of the Unity Certified Associate: Game Developer exam that deal with audio and particle systems. Instructor Alan Thorn explains how to import audio and trigger playback of 2D and 3D sounds. He also explains how to control volume and add audio effects like pitch adjustments with mixers. In chapter five, Alan reviews particle systems, the tools for generating effects like rain, fog, explosions, fire, and more. He teaches you how to use the built-in particle effects package and generate systems from scratch, as well as configure particle collisions. Each topic maps to a related question on the exam, and will help you enhance the believability and quality of your Unity projects. Find out more about the Unity Certified Associate: Game Developer exam at https://unity.com/products/unity-certifications/associate-game-developer.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Kloski
+Course_ID=2823550
+Course_System=linkedin.com
+Course_Title=3D Scanning: From Mesh to Model
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in learning the basics of reverse engineering? In this course, instructor Nick Kloski helps you get up to speed, covering the fundamentals of reverse engineering using 3D scan data as a basis. As he details key concepts, Nick steps through how to go from a 3D scan to an optimized model that fits into nearly any product design workflow. He reviews the technologies available for 3D scanning, including photogrammetry and structured light. Using Artec structured light scanners as an example of capture technology, Nick goes into a workflow using inexpensive or free software to perform a complete reverse engineering workflow. See how to convert the scan (a mesh) into an optimized form, and bring it through Fusion 360 to create a solid model that can be flexibly incorporated into product design workflows. This course was recorded and produced by HoneyPoint3D. We are pleased to host this training in our library.

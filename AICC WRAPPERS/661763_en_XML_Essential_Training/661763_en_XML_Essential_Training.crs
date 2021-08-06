@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=661763
+Course_System=linkedin.com
+Course_Title=XML Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Extensible Markup Language (XML) was designed to make information sharing and data interpretation easier. Having a solid grasp of what XML is and how to work with it is essential for any developer. In this course, Joe Marini takes you through the basic rules of XML, explains its syntax, and covers more advanced topics such as styling your XML with CSS and manipulating XML content using XPath and XSLT. From integrating XML into your site to using document type definitions and XML schema, this course covers what you need to know to not only get started with XML, but also master it.

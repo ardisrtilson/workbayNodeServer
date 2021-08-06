@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chander Dhall
+Course_ID=677174
+Course_System=linkedin.com
+Course_Title=Threading in C#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Threading is a powerful tool for developers, and having a solid grasp of how it works is key to creating high-performing applications. Threading—or multithreading—can help you create scalable applications that are more responsive to user input. In this course, learn from Microsoft MVP Chander Dhall how to write applications that perform multiple tasks at the same time. Chander covers basic threading concepts, including context switching and exception handling. He also discusses how to synchronize code, use a mutex and a semaphore, and more.

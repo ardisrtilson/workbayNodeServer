@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=734634
+Course_System=linkedin.com
+Course_Title=Unreal Engine: Product Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visualizing products before building provides the opportunity to design, iterate, and sell without the cost and commitment of creating a physical object. In this course Joel Bradley shares best practices and techniques for using Unreal Engine to create and manipulate visualization in real time, so creators and companies can collaborate. First, Joel shows how to import your existing geometry into Unreal. Next, demonstrates lighting setup, including how to work with key lights, rim lights, fill lights, and daylight options. Then, he walks though how to adjust lighting options, addressing the smoothness, quality, and resolution. He also covers how to create interactive materials and how to generate cinematic media of the visualization.

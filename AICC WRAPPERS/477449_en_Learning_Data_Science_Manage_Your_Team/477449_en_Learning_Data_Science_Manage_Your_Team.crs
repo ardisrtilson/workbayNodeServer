@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=477449
+Course_System=linkedin.com
+Course_Title=Learning Data Science: Manage Your Team
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+More companies are adding data science teams to their organization. To be effective, it's crucial to understand how to build and manage these teams. Business coach and author Doug Rose lays out the secrets of building effective data science teams. You'll see how to take advantage of existing talent or how you might hire new team members. You'll also see how to train these teams to create the unique chemistry that fosters better collaboration and keener discussions. Learn the holistic approach to building teams and deploying data science across disciplines. Identify the key roles and responsibilities, including research lead, data analyst, and project manager. Find out how to define areas of responsibility, foster effective communication, and build compelling reports and visualizations. Then see how to avoid the pitfalls of losing focus and arriving at false consensus. These techniques help you build highly skilled teams that produce deeper insights than you'll find from relying on data scientists alone.

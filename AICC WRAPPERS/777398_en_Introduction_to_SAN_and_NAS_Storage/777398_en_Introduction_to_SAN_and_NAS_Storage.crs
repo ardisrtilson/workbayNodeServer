@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neil Anderson
+Course_ID=777398
+Course_System=linkedin.com
+Course_Title=Introduction to SAN and NAS Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+It's no longer possible to get by as an IT professional by knowing only servers, or networking, or storage. You need an understanding of all three for your career to thrive. Centralized storage technologies—NAS and SAN—combine these capabilities and will test all your skills. This training course provides the knowledge you need to understand and work with SAN and NAS storage. Learn about the types of storage, the benefits, and the strengths of SAN vs. NAS. Instructor Neil Anderson introduces the NAS and SAN protocols—SMB, CIFS, NFS, Fibre Channel, FCoE, iSCSI, and NVMeOF—and shows how to configure a storage system and connect from the client, in featured hands-on lab demonstrations.

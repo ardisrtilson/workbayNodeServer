@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Meyer
+Course_ID=573129
+Course_System=linkedin.com
+Course_Title=Learning Modular Synthesis: Moog Mother-32 Semimodular Synth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Moog Mother-32 is a very popular starter instrument for those looking to get into modular synthesis. It contains a capable one-oscillator synthesizer voice with a Moog design filter, as well as surprisingly full-featured step sequencer. Best of all, it's a semimodular synth in that all of its components are already wired together and able to create sounds right out of the box. But it also contains a Patch panel, allowing you to override its internal wiring as well as connect it to external synthesizer modules. Synth designer Chris Meyer gives you a quick-start introduction to all three of these sections of the Moog Mother-32, including how to mount the Mother-32 into a Eurorack-format case, plus important advice on the first external modules you might want to add to it.

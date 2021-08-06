@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=571627
+Course_System=linkedin.com
+Course_Title=Houdini Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There's a multitude of tools for 3D content creation on the market, and each has its own advantages and merits. Houdini—a leading package for 3D content creation—offers a procedural workflow that allows for powerful experimentation, system reusability, and overall process efficiency in building an array of assets and animations. While known for its VFX strengths, Houdini has powerful tools for end-to-end 3D production for projects ranging from photorealistic visual effects to stylized motion graphics. In this course, Scott Pagano starts from the ground up to provide you with a solid foundation in Houdini. First, he takes you through the interface, covering topics such as global animation options, nomenclature, and viewport and display nodes. Next, he covers core geometry and animation concepts, followed by lighting, shading, and rendering techniques using the Houdini Mantra renderer. Once you have those primary 3D skills under your belt, Scott moves on to particles and volumes—some of the package's most lauded strengths. He wraps up with an overview of the package's compositing context, where you can create procedural imagery useful for processes across all contexts.

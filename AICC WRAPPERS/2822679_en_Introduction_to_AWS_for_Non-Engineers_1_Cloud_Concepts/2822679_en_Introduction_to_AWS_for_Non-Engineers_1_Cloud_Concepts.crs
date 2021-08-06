@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Hiroko Nishimura
+Course_ID=2822679
+Course_System=linkedin.com
+Course_Title=Introduction to AWS for Non-Engineers: 1 Cloud Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS)—and cloud computing in general—can be difficult for people without technical backgrounds to decipher. This introductory course is a bridge between non-engineers and the cloud. It is the first in a four-part series designed to help professionals in non-technical roles, including finance teams, project managers, and marketers, make the best use of AWS. Instructor Hiroko Nishimura—founder of Intro to AWS for Newbies—provides a brief history of cloud computing, an overview of cloud deployment models, and a summary of cloud design principles. She then shows how to create an account and start using the AWS Free Tier to gain hands-on experience with AWS products and services. Plus, get exam tips and learn about resources for professionals studying for the AWS Certified Cloud Practitioner exam. Note: This course also maps to the first domain of the AWS Certified Cloud Practitioner exam. Taking all four courses in the Introduction to AWS for Non-Engineers series will help you prepare for the exam.

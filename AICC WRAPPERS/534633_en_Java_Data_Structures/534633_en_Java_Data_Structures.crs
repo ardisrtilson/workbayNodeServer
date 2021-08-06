@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=534633
+Course_System=linkedin.com
+Course_Title=Java: Data Structures
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data structures provide a means to store and manage large amounts of data efficiently. Along with storing data, these structures support operations for accessing and manipulating the data they contain. Choosing the right data structure for a task is key to developing top-notch software. In this course, explore data structures in the Java language. Follow Peggy Fisher as she introduces you to several types of commonly-used data structures in Java. Peggy explores ArrayLists and LinkedLists, both of which implement the List interface, which extends the Collection interface and allows you to access list elements in a specific order. She also goes into the Vector, Stack, and Queue collection classes. To help you better understand these new concepts, Peggy wraps up the course with a challenge—creating a grocery list—and provides a solution for that challenge.

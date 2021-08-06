@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=418266
+Course_System=linkedin.com
+Course_Title=Developing Secure Software
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software developers are constantly told to use secure coding practices. Luckily, with today's tools, secure code doesn't take a lot of time or effort. There are security frameworks (authentication, authorization, etc.) developers can use as their own. There are also static and dynamic code analysis tools to test code. Plus, with security patterns that can be implemented at the design level—before coding ever begins—you can make sure you're not reinventing the wheel. Jungwoo Ryoo is a faculty member teaching cybersecurity and information technology at Penn State. In this course, he introduces secure software development tools and frameworks and teaches secure coding practices such as input validation, separation of concerns, and single access point. He also shows how to recognize different kinds of security threats and fortify your code. Plus, he helps you put a system in place to test your software for any overlooked vulnerabilities.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiago Costa
+Course_ID=782130
+Course_System=linkedin.com
+Course_Title=Scaling Applications with Microsoft Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A key benefit of cloud services is the ability to scale to meet changing demands. In Microsoft Azure, developers need to understand autoscaling through roles, configurations, and appropriate code for various instances. In this course, instructor Tiago Costa introduces key autoscaling concepts and prepares developers for optimal configurations and coding, sharing best practices along the way. He explores scaling options in Microsoft Azure; demonstrates how to configure and write code for autoscale; and explains how to configure and develop code to implement Azure CDN.

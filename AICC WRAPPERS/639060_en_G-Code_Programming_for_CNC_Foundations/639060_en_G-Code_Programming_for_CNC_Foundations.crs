@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=639060
+Course_System=linkedin.com
+Course_Title=G-Code Programming for CNC Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+G-Code is the code that controls CNC machining centers, CNC lathes, CNC routers, and most 3D printers. This course teaches the fundamentals of G-Code to the programmers, engineers, and designers that need to write, read, and edit it. It also takes you to the Haas factory floor to see how the code works on a real HAAS VF3 SS machining center. Instructor Gabriel Corbett reviews the most popular G-codes for movement, positioning, selection, drilling, and tapping, as well as M-codes for tool changes, spindle starting and stopping, and control of coolant. At the end of the course, Gabriel machines a complete part at the HAAS factory on a high-speed CNC machining center. The G-code routines used include advanced adaptive contouring routines for outside roughing, pocketing, drilling, tapping, and so much more.

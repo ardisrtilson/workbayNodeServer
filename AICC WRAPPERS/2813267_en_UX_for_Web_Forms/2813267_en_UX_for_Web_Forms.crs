@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emily Kay
+Course_ID=2813267
+Course_System=linkedin.com
+Course_Title=UX for Web Forms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore ways to design web forms that excel in usability, and learn about techniques for creating forms that are visually appealing and simple to use. Instructor Emily Kay begins with an explanation of why form design is important, describing the ways that specific form elements can influence results. Discover how user expectations impact design, and how to make a form accessible so people using screen readers can more easily identify and understand form controls. Find out how to organize a form to keep users focused for optimal results, and how to overcome common design challenges. Learn ways to help circumvent scams and malicious submissions to a form, and methods to handle errors and validation.

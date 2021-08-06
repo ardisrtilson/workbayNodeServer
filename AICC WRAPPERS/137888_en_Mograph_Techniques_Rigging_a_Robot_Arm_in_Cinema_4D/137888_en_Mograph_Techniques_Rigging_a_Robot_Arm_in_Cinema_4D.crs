@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=EJ Hassenfratz
+Course_ID=137888
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Rigging a Robot Arm in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to rig and animate a 3D robotic arm in CINEMA 4D. EJ Hassenfratz leads this project-based learning experience, which relies on C4D's inverse kinematics (IK) tools. First, you'll prepare the model hierarchy for animation, before adding joints and applying an IK tag that transforms your joint system into an IK chain. Then you'll animate the entire rig and use constraints tags and Xpresso data to control all the moving parts in the arm. Last, EJ shows you how to render the project and import it into After Effects for further refinement.

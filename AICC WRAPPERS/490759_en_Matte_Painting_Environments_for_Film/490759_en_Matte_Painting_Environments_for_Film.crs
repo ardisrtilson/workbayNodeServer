@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Danny Janevski
+Course_ID=490759
+Course_System=linkedin.com
+Course_Title=Matte Painting: Environments for Film
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modern matte painting is a multidiscipline art. Matte painters need to know how to create 3D geometry, extend worlds with nodes and macros, create detailed materials and shaders, digitally paint convincing detail, and composite the many layers together into a final render worthy of the big screen. Danny Janevski, matte painting supervisor for DreamWorks, shows how to master these techniques using software such as Clarisse, ZBrush, World Machine, Photoshop, and NUKE. He covers a wide variety of current industry techniques used in creating feature films, including layout and set breakup, top-down renders, environment and terrain generation, painting, and final render.

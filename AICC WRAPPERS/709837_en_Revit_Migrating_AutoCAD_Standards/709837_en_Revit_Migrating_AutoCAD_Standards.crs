@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=709837
+Course_System=linkedin.com
+Course_Title=Revit: Migrating AutoCAD Standards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Architects around the world use Autodesk Revit—a leader in architectural modeling—for their designs. In this course, Shaun Bryant takes you through the various methods available in Revit that allow you to migrate your AutoCAD standards into your Revit projects. Learn how to set up your Revit project with AutoCAD standard settings, including linetypes, lineweights, and colors. Shaun also shows how to develop standard details from your AutoCAD detail drawings and set them up as drafting views in your Revit projects, so that you can reuse them for similar projects.

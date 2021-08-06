@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=580648
+Course_System=linkedin.com
+Course_Title=C# Object-Oriented Programming Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Composition and code architecture are the cornerstones within all types of applications—from simple command line tools to large-scale enterprise applications. Understanding these concepts is useful when learning about the three pillars of object-oriented programming—encapsulation, inheritance, and polymorphism. This course demonstrates techniques you can apply when programming in C# to improve how you work with properties, classes, methods, modifiers, constructors, and more.

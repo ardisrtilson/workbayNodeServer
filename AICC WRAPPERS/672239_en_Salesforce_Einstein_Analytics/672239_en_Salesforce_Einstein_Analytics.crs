@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christine Volden
+Course_ID=672239
+Course_System=linkedin.com
+Course_Title=Salesforce: Einstein Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Salesforce Einstein is a set of AI technologies that allow Salesforce users to use algorithms to analyze data inside Salesforce. Einstein can be used to automate reports, pinpoint workflow needs, and even analyze the effectiveness of teams. In this course, learn how to work with Einstein in Salesforce. Discover precisely what this powerful solution has to offer, so that you can determine if it meshes with your organization's needs. Discover how Einstein can help you work smarter in Sales Cloud, the Marketing Cloud, communities, and more.

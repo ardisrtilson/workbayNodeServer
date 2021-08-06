@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=609020
+Course_System=linkedin.com
+Course_Title=AWS for DevOps: Continuous Delivery and Process Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) has several powerful features and services that support processes automation and continuous delivery. Learn how to leverage several core services, including CodeCommit, CodeBuild, CodeDeploy and CodePipeline. See how to use the AWS command line interface to write and run scripts for automations. Discover best practices you can follow, and third-party tools you can use, to successfully set up automated processes and implement continuous delivery, and find out how to effectively manage application updates. This course can also be used as an exam preparation resource, as it covers the topics in the first domain of the AWS Certified DevOps Engineer exam: Continuous Delivery and Process Automation.

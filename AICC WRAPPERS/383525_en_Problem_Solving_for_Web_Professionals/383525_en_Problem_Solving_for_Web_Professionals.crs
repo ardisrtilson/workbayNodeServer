@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Putney
+Course_ID=383525
+Course_System=linkedin.com
+Course_Title=Problem Solving for Web Professionals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The project isn't over when the design is complete. The website also has to reach its users, which means tackling the inevitable issues that crop up on the way to a beautiful, working site. Make yourself invaluable by solving the problems no one else can, with this toolkit of solution-oriented techniques. Learn to turn your web browser into a code inspector, cope with browser incompatibilities, perform cross-platform testing, and more. Justin Putney gives you the skills you need to address the unique problems in each new project—and ensure the quality of your design and your code.

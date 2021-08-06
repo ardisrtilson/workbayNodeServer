@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Beane
+Course_ID=622047
+Course_System=linkedin.com
+Course_Title=Maya: Advanced Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance your Maya skill set by learning about advanced techniques and tools that can help you approach modeling nearly any shape with confidence. In this course, instructor Andy Beane dives deep into modeling with Maya. He starts with an overview of modeling basics, before moving on to creating some specific models of a leather chair, a side table, and several other small room objects like walls, floors, books, bookshelves, and picture frames. Finally, he puts the whole room together by cleaning up all the files, importing the individual files into a single file, and adding the final camera shot.

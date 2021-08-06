@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Andrade
+Course_ID=5002834
+Course_System=linkedin.com
+Course_Title=Blender 2.8 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blender is a powerful open-source solution for 2D and 3D modeling, animation, compositing, and post-production. Get a beginner-level introduction to the toolset in Blender 2.8, in this introductory course with David Andrade. David provides a thorough overview of the Blender feature set, as well as practical production techniques that combine know-how with a healthy dose of how-to. He dives into specific techniques, such as scene layout and modeling, sculpting, texturing and shading, 2D and 3D animation, dynamic simulations, rendering, and video effects (VFX). Plus, get performance-boosting tricks to get Blender to render your creations even faster. Each lesson helps you gain the control and skill you need to create professional artwork for multiple platforms: games, movies, and animation.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tam Black
+Course_ID=5019801
+Course_System=linkedin.com
+Course_Title=Laser Cutting: Design for Fabrication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Find out how to design files for laser cutting, the growing technique used in manufacturing and modeling to create precise sheet parts and surface designs, both 2D and 3D. In this course, learn how to format design files for laser manufacturing. Get an overview of laser cutting terminology, machine settings, and the basics of laser safety. Learn which materials are best suited for laser cutting and which materials are unsafe to cut. The course also covers various project types, including interlocking parts for 3D designs, paper folding, engraved work, and architectural models.

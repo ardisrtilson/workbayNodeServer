@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=713394
+Course_System=linkedin.com
+Course_Title=Jenkins Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Continuous integration, deployment, and delivery pipelines can be built from many tools, but Jenkins is one of the most popular, for its open-source extensibility and ease of use. Jenkins Essential Training covers the fundamentals of the platform, including automating builds and testing and securing deployments. Learn how to create jobs, trigger builds, and distribute those builds to multiple environments. Instructor Robert Starmer also shows how to add notifications to alert you to build state changes and failures and extend Jenkins with plugins, shared libraries, and APIs. He also explains how to secure deployments and access to your Jenkins environment, and store artifacts from the build process for safekeeping. Plus, learn how to combine multiple stages of the CI/CD process into a single automated pipeline. The course includes advanced use cases, best practices, and customization tips, designed to give even the first-time user the skills to become a capable Jenkins engineer.

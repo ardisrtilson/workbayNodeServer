@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=624307
+Course_System=linkedin.com
+Course_Title=Amazon Web Services: Data Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many modern organizations have a wealth of data that they can draw from to inform their decisions. But all of this information can't truly benefit a business unless the professionals working with that data can efficiently extract meaningful insights from it. Amazon Web Services (AWS) offers data scientists an array of tools and services that they can leverage to analyze data. In this course, learn about best practices, patterns, and tools for designing and implementing data analytics using AWS. Explore key analytics concepts, common methods of approaching analytics challenges, and how to work with services such as Athena, RDS, and QuickSight. Plus, discover how to visualize text-based data in a more visually intuitive way, use partner solutions for analytics from the AWS Marketplace, and more.

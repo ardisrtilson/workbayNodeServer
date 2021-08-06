@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bruce Van Horn
+Course_ID=772327
+Course_System=linkedin.com
+Course_Title=Visual Studio for Mac
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C# on a Mac? Yes, with Visual Studio for Mac, C# programming is possible on macOS. While there are many differences from the classic Visual Studio, Visual Studio for Mac is as fast, expressive, and capable as its Windows counterpart. This training course provides a basic introduction to the C# syntax and Visual Studio for Mac IDE, in project-based lessons that help you create re-usable code libraries, and then use them to build command-line and desktop applications. Instructor Bruce Van Horn shows how to install Visual Studio for Mac and introduces the core elements of C#—classes, variables, methods, namespace, auto properties, encapsulation, and constructors—while building a reusable class library. He imports the library into a .NET Core command-line app, and then shows how to use arrays, lists, loops, and random numbers to enhance the application. In the final chapter, Bruce uses the same library to build a native macOS desktop app, creating a UI with the Xcode Interface Builder and wiring event handlers from the UI to classes in the library. Each project builds on the last, resulting in a fun and user-friendly Dungeons and Dragons-style character generator.

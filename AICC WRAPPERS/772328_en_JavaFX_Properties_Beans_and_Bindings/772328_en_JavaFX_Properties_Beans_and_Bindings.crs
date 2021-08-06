@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Neelam Dwivedi
+Course_ID=772328
+Course_System=linkedin.com
+Course_Title=JavaFX: Properties, Beans, and Bindings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to develop more dynamic, responsive applications with JavaFX, the next generation of GUI development for Java. In this course, instructor Neelam Dwivedi goes over the kinds of applications that JavaFX properties, JavaBeans, and bindings can help you construct, demonstrating how the MVC pattern can be implemented with data that changes dynamically with the UI. Using the javafx.beans library, Neelam shows how to create two applications: a BMI calculator and a shopping cart program. As she steps through the development of these simple apps, she lends a real-world context to the key concepts covered in this course.

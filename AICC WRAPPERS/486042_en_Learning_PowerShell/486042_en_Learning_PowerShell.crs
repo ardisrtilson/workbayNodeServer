@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Hester
+Course_ID=486042
+Course_System=linkedin.com
+Course_Title=Learning PowerShell
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What is PowerShell? PowerShell is a powerful language used for scripting and automation for your IT Infrastructure. In this short course, author Matt Hester provides an overview of the most current release, PowerShell 5.0, including how to read the PowerShell language and scripts, get help, and use cmdlets. Matt then dives into PowerShell's functions and What If statements, working with output, and coding in the Integrated Scripting Environment (ISE). The course wraps up with some tips on using PowerShell for both on-premises and cloud deployments involving Office 365 and Azure.

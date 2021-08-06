@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=440958
+Course_System=linkedin.com
+Course_Title=Java Design Patterns and APIs for Android
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programming Android apps with Java? Take your skills to the next level with some of the most popular design patterns and APIs for the Android SDK. David Gassner explains how to call and implement callback methods, save instance states and global data, and wrap asynchronous tasks to create a smooth user experience during app configuration changes. Plus, learn how to use Java packages (APIs) to store data, read text, display graphics, play audio, and work with information from device sensors like the accelerometer. Watch these Java tutorials to learn smarter, more efficient methods for Android app development.

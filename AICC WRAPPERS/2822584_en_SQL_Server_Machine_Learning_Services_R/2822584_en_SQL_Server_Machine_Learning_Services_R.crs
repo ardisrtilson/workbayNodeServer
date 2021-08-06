@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2822584
+Course_System=linkedin.com
+Course_Title=SQL Server Machine Learning Services: R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server now includes support for direct execution of R code. This integration allows complex data science analyses to be performed quickly in a secure environment, without having to export data sets first. In this course, database expert Adam Wilbert walks through the steps of enabling the required components—including Machine Learning Services for R—and writing basic R scripts. He also shows how to retrieve and work with data stored in SQL Server tables, create data visualizations with external R libraries, and package scripts as stored procedures. At the end of the course, traditional SQL Server users will be able to dive deeper into using R and traditional R developers will be able to take advantage of using SQL Server as the source of data to create higher-performing analyses.

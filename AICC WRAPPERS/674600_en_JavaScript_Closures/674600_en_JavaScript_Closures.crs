@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=674600
+Course_System=linkedin.com
+Course_Title=JavaScript: Closures
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Closures—a core concept for intermediate and advanced JavaScript developers—can be challenging for many developers to wrap their heads around. In this concise course, Sasha Vodnik breaks down this essential concept, explaining what closures are and how to use them in JavaScript. Sasha steps through the building blocks of closures and identifies what they look like in code. He also shares how to avoid unintended closures, use JavaScript features in place of closures, and implement the module pattern.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2885200
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Manage User Identity and Roles
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Identity management is a key element of Microsoft 365 enterprise administration. A successful Microsoft 365 administrator will need to know how to plan, implement, and manage user identities and roles with Azure Active Directory (AD) features such as AD Connect and role-based access control (RBAC). This course shows you how. Instructor Ed Liberman explains how to design an identity strategy, plan and manage identity synchronization, manage Azure AD identities, and manage user and admin roles. The lessons can be used as a guidebook to identity synchronization, management, and authentication in Microsoft 365, and to prepare for the associated domain of the Microsoft 365 Identity and Services (MS-100) certification exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Crespi
+Course_ID=802829
+Course_System=linkedin.com
+Course_Title=Substance Designer for Architectural Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating procedural materials is an important part of a modern visualization workflow, for both real-time and rendered applications. In this course, learn how to quickly create a variety of architectural materials in Allegorithmic Substance Designer, for application in design-visualization projects. Structured as a series of case studies on common material types such as carpet, vinyl flooring, and ceiling tile, this course incorporates techniques for crafting custom materials as needed for a design while staying true to the manufacturer's intentions. Discover how to create height, normal, and ambient occlusion maps for your substances, mask pattern components to simulate custom material blending such as mixed tile, and more.

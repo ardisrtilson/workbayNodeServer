@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2893065
+Course_System=linkedin.com
+Course_Title=VMware vSphere 7 Professional: 01 Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. In order to stay relevant, you must understand vSphere. Perhaps you’re also preparing to take the VMware Certified Professional Datacenter Virtualization (VCP-DCV) exam. In this series of courses, Rick Crisci, a VMware Certified Instructor, walks you through over 50 real-world demos in a vSphere 7 environment using the HTML5 vSphere Client. This course focuses specifically on vSphere networking. Rick reviews the foundations of virtual networking, then goes into standard switches, distributed switches, distributed port groups, and how to integrate vSphere 7 with NSX-T 3.0. He shows you how to configure security settings, NIC teaming and failover policies, and traffic shaping for distributed port groups. Rick steps through migrating VMs to a vSphere 7 distributed switch and verifying your network configuration. He concludes with detailed looks at Network IO, private VLANs, port mirroring, and netflow. Note: This course was created by Rick Crisci. We are pleased to host this training in our library.

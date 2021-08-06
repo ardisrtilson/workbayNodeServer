@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=772337
+Course_System=linkedin.com
+Course_Title=Python Theory for Network Engineers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python allows you to build scripts to automate complex network configuration. It is the most widely used programming language for software-defined networking, and is a critical skill for new network engineers. This course teaches the very basics of network programming with Python—the theoretical building blocks that will lead to better scripts. Learn the fundamentals of the language, including objects and variables, strings, loops, and functions. Discover how to use lists, tuples, and dictionaries, and integrate specialized Python libraries and modules such as Netmiko and telnetlib. Skip ahead to concentrate on the topics of relevance to you, or watch the entire course from beginning to end to build your core skills. Instructor David Bombal doesn't make you wait before you can start automating networks. Along the way, he shows how to quickly and easily build basic functional scripts to configure routers and switches using GNS3, Cisco IOS, and Python, so that you can put your new skills to immediate use.

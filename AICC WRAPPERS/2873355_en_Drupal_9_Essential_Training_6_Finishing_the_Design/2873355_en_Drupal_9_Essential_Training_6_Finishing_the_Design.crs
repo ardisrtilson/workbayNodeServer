@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=OSTraining, Rod Martin
+Course_ID=2873355
+Course_System=linkedin.com
+Course_Title=Drupal 9 Essential Training: 6 Finishing the Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Rod Martin ties together what you have learned from the previous courses in this series and shows you how to finish the Drupal site you have been building. Rod begins by showing you how to add your logo. He walks you through updating and customizing your front page. Rod covers how to use a free Drupal module to add a three-column media block to your site, then steps through how to update Drupal and synchronize between servers. He concludes with bonus content on adding a digital asset management system to your site, to keep your media files organized and easy to search. Note: This course was created by OSTraining. We are pleased to host this training in our library.

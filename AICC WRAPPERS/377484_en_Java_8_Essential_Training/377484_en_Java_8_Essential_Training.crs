@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=377484
+Course_System=linkedin.com
+Course_Title=Java 8 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you want to build applications for mobile devices, desktop computers, or the web, you need to know Java. This course provides the foundation for learning Java SE (Standard Edition), so you can build your first apps or start exploring the language on your own. Author David Gassner shows how to install Java and the IntelliJ IDEA IDE, and start working with variables, data types, keywords, and other critical language components. He also helps you control program flow with conditional logic and loops, store data with the Java Collections Framework, and understand how Java implements object-oriented coding principles such as inheritance and polymorphism.

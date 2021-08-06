@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2856085
+Course_System=linkedin.com
+Course_Title=LINQPad Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a lightweight, powerful code editor and code runner, LINQPad can save a lot of time in your development workflow. Instructor Walt Ritscher walks you through installing and setting up LINQPad. Then start learning LINQPad basics such as adding course files, exploring the editors that LINQPad offers, running queries, and adding references. Walt goes into more detail on the dump tool, explaining topics like the dump helper, excluding and including columns, and changing output to grid control. Next, examine LINQ query examples. See how to format the output. Learn how to display the difference between two objects, snapshot the state of an object, and cache data between query runs. Walt also demonstrates how to use LINQPad as a code scratchpad. Then study how to debug query code in LINQPad. Learn how to find content in files, how to add visualizations to the result windows, and how to use the uncapsulate method.

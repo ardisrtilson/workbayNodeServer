@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett, Ernest Mueller
+Course_ID=606079
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Continuous Delivery/Continuous Integration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Continuous delivery is one of the major DevOps practice areas. By continuously building, testing, and delivering your code, you can reap huge stability, speed, and flexibility benefits. In this course, learn about continuous integration and continuous delivery (CI/CD), and see how these concepts work in practice by constructing your own build pipeline. Throughout the course, instructors James Wickett and Ernest Mueller discuss elements of the pipeline as they show how to take an app written in the Go programming language from development to production. They walk through version control, building artifacts, unit testing, and deployment, demonstrating common practices and tools along the way.

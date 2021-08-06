@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charlie Joey Hadley
+Course_ID=586672
+Course_System=linkedin.com
+Course_Title=Learning the R Tidyverse
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+R is an incredibly powerful and widely used programming language for statistical analysis and data science. The tidyverse collects some of the most versatile R packages: ggplot2, dplyr, tidyr, readr, purrr, and tibble. The packages work in harmony to clean, process, model, and visualize data. This course introduces the core concepts of the tidyverse as compared to the traditional base R. It focuses on the novice user and those unfamiliar with the pipe (%>%) operator. After covering these R basics, instructor Martin Hadley progresses to importing and filtering data from Excel, CSV, and SPSS files, and summarizing and tabulating data in the tidyverse. Then learn how to identify if data is too wide or long and convert it if necessary, and conduct nonstandard evaluation. By the end of the course, you should be able to integrate the tidyverse into your R workflow and leverage a variety of new tools for importing, filtering, visualizing, and modeling research and statistical data.

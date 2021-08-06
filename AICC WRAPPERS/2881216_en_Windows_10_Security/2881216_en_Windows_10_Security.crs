@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=2881216
+Course_System=linkedin.com
+Course_Title=Windows 10: Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you are upgrading or starting with a new operating system out of the box, give yourself the peace of mind that your system will be secure by taking a few necessary actions. In this course, Martin Guidry guides you through each essential security step. Martin takes you through familiar ground, such as standard account setup with accounts, authorization, user groups, and permissions. He also takes you through unfamiliar territory like enhanced features and new products, examining BitLocker, Encrypting File System (EFS), Windows Defender, IPsec, and VPN. Martin shows you how to protect your computer from a network attack, apply security policies in Group Policy, use remote desktop, and more. He gives you step-by-step walkthroughs, in addition to best practice discussions.

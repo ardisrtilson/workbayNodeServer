@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=794110
+Course_System=linkedin.com
+Course_Title=Microsoft PowerApps Essential Training: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft PowerApps helps you create custom business applications for mobile devices and web browsers. You can replace manual forms and processes with digital experiences that can be accessed from anywhere—without writing a single line of code. In this course, Gini von Courter provides the foundational knowledge you need to use PowerApps to create web-based and mobile applications. She explores the structure of a PowerApp and shows how to create apps from the built-in templates or from scratch. She also explains how to connect to a variety of data sources, including SharePoint and Excel, and customize the layout and theme. Along the way, Gini explores a few ideas of how to leverage PowerApps in the workplace: to log service calls, take inventory, or survey employees and customers. Plus, learn how to use mobile features like geolocation data and the camera to make your apps even richer and more interactive.

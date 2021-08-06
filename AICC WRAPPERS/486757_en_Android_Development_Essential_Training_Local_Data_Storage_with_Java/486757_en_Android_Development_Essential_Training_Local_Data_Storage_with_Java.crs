@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=486757
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: Local Data Storage with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android developers who need to manage and present data have many tools available to them in the application framework of Android. This course covers a variety of data persistence techniques, including storing data in shared preferences—key-value pairs—in JSON-formatted text files, and in relational databases with SQLite. Join David Gassner as he demonstrates these data management techniques. He also explains how to use relevant design patterns to model data with Java classes, and how to present data to the user with the Android SDK's ListView and RecyclerView components.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christine Volden
+Course_ID=604215
+Course_System=linkedin.com
+Course_Title=Salesforce for Customer Service
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore how to leverage the cloud-based help desk solution from Salesforce, Service Cloud, to manage customer service interactions. Increase customer satisfaction by accessing detailed Salesforce data and use Service Cloud's automation and knowledge base features to streamline interactions and find resolutions more quickly. Christine Pereira covers topics such as creating and managing cases, adding assignment rules, building a team of customer service reps, and finding and using knowledge articles to respond to cases. Plus, learn how to run reports to review statistics such as total cases created, case duration, solutions listed, etc., and discover how to customize reports to suit your needs.

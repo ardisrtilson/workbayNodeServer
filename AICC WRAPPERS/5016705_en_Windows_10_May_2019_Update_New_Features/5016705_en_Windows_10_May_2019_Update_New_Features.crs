@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Brazzi
+Course_ID=5016705
+Course_System=linkedin.com
+Course_Title=Windows 10 May 2019 Update New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about all the cool new features in Windows. Explore new tools and enhancements in the May 2019 update to Windows 10. Instructor Nick Brazzi introduces general system improvements, such as light and dark modes, easy-to-configure quick actions, drag-and-drop font installation, and the Sandbox environment for testing new apps and other system changes. Then learn how to use the new Search tool—now separate from Cortana. Finally, learn how to uninstall the apps that come automatically bundled with Windows 10, and use the free Office app to read files from Word, Excel, PowerPoint, and other Microsoft applications—even if you don’t have a license.

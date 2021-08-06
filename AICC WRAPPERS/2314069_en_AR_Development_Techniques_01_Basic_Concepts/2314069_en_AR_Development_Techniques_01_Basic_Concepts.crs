@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Parth Anand
+Course_ID=2314069
+Course_System=linkedin.com
+Course_Title=AR Development Techniques 01: Basic Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course, the first in a four-part series, teaches you about the basic techniques of AR application development using Unity and AR Foundation. First, instructor Parth Anand teaches you what augmented reality is, a little bit about its history, and some examples of popular AR apps. He explains the differences among augmented, virtual, and mixed reality, then discusses how AR benefits different industries such as education and architecture. Parth walks you through how to use Unity Hub to download a specific Unity version and install the most important Unity packages, as well as how to set up development environments for iOS and Android. He shows you all the main windows in Unity, then goes into 3D models and their properties. He covers how to create a user interface for your app, how to create simple animations for game objects, how to write a script in Unity, and how to use prefabs. Last, Parth walks you step by step through building your first AR app using Unity and AR Foundation. Note: The fourth installment in this series will be released in January 2021.

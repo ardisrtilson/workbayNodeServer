@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Cris Ippolite
+Course_ID=569332
+Course_System=linkedin.com
+Course_Title=FileMaker 16 Platform: Advanced Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're comfortable with the basics of FileMaker Pro, you're ready to expand your skillset and tackle advanced FileMaker 16 development techniques. In this course, FileMaker database expert Cris Ippolite dives into advanced features that can help you take your custom apps to the next level. Cris kicks off the course by exploring uses of the calculation dialog, the concept of query relationships, and some advanced reporting tricks. He also discusses securing your custom apps and sharing some of them with FileMaker Server, making your custom apps communicate with other apps on iOS devices, and working with JSON. To wrap up, he takes you through some of the new features in FileMaker 16.

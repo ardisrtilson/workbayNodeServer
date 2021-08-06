@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=737803
+Course_System=linkedin.com
+Course_Title=Designing for Neural Networks and AI Interfaces
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how generate dynamically customized user experiences by leveraging artificial intelligence (AI) and neural networks. Instructor Emmanuel Henri starts the course by explaining AI, machine learning, and deep learning. Next, he shares how neural networks can enhance a user experience. He discusses the design process—identifying a problem and exploring the inputs and data sets that could be leveraged to address the problem. Then, he covers how to work with neurons, features, and models. Additionally, he shows the steps involved in designing a custom neural network.

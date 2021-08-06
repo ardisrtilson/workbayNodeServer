@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joshua Rischin
+Course_ID=2841519
+Course_System=linkedin.com
+Course_Title=Power BI: Dashboards for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a short and simple beginner's guide to Power BI. In this quick course, Joshua Rischin demystifies the process of building dashboards in Power BI, the powerful business analytics and data visualization tool from Microsoft. Joshua begins with a quick primer on how Power BI dashboards work, including the building blocks of a dashboard. Next, he shows how to select the right data and connect it to your dashboard. You can then learn how to prepare and adjust the dashboard’s layout, select and configure a chart type, apply dashboard filters, and enhance the dashboard in a number of useful ways. These lessons make it easy even for novice users to turn raw data into a powerful story that can help drive better business decisions.

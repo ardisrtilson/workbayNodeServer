@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sam Sharkawi
+Course_ID=2823164
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Design Study and Optimization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing a part or component is just the first step. How will it stand up in the real world? You could fabricate your design and test it under real-world stresses, but each time you learn something new, you'd have to modify your design, make it again, and retest. Although real-world testing is important, you can use the Design Study tool built into SOLIDWORKS to harness computing power to simulate how an object will stand up to real-world stresses. In this course, instructor Sam Sharkawi steps through how to create variables and sensors, set up a design table, and run a design study. Then, he shows how to run a simulation and use what you learn to improve your design.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=585258
+Course_System=linkedin.com
+Course_Title=Exchange 2016: Mailbox Databases
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a clear understanding of mailbox databases in Microsoft Exchange Server 2016. This course maps to the first domain of Exam 70-345, Designing and Deploying Microsoft Exchange Server 2016—Plan, deploy, manage, and troubleshoot mailbox databases. Learn about the administration of mailbox databases in Exchange Server 2016. Scott Burrell covers high availability mailbox databases, failure domains, SLA requirements, monitoring, and troubleshooting database replication. Plus, he walks through backup and recovery solutions, such as recovering public folders from a database backup.

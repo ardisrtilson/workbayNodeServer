@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=681098
+Course_System=linkedin.com
+Course_Title=Docker Essential Training: 3 Image Creation, Management, and Registry
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Images are the foundation of Docker containers. They are key to building robust container-based applications—and passing the Docker Certified Associate (DCA) exam. This course covers Docker image creation and management, Docker registries, and important tips to prepare for the DCA exam. Instructor David Davis explains exactly what Docker images are and how they help you. He shows how to use Dockerfiles to build images, how to store and distribute images with Docker registries, and how to use tagging to describe images and implement version control. As you learn, you can practice topics from domain two of the DCA certification exam: Image Creation, Management, and Registry.

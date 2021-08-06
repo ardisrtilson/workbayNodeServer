@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Deke McClelland
+Course_ID=91587
+Course_System=linkedin.com
+Course_Title=Advanced Photoshop: Blending, Masking, and Compositing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Advanced Blending is the second installment in Deke McClelland's series on making photorealistic compositions in Photoshop. The course explores blending options and shows how to use them to create sophisticated effects and seamless compositions, often without masking. Beginning with the basics of blending layered images, the course sheds light on the formulas behind the Photoshop blend modes and shows how to comp scanned line art, create double-exposure effects, correct skin tones, and work with the luminance sliders.

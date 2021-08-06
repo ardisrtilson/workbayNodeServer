@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=385695
+Course_System=linkedin.com
+Course_Title=MTA Database Fundamentals (98-364) Cert Prep: 4 Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ongoing, regular administration is critical to the security and performance of databases such as Oracle and SQL Server. It's also a key topic of the Microsoft Technology Associate (MTA) Exam. Whether you're studying to pass the test or simply to keep your admin skills up to date, this course will cover the most current techniques and best practices for administering a database. Adam Wilbert covers the core concepts, including securing the server with user authentication and roles, assigning object-level permissions, and performing a backup and restore. Along the way, he'll provide tips for working with SQL Server Management Studio and some challenges to help you practice what you've learned. Note: This course will also prepare certification candidates for the Administer a database domain of the Microsoft Technology Associate (MTA) Exam 98-364, Database Administration Fundamentals.

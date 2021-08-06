@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=5022348
+Course_System=linkedin.com
+Course_Title=PyTorch Essential Training: Deep Learning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PyTorch is quickly becoming one of the most popular deep learning frameworks around, as well as a must-have skill in your artificial intelligence tool kit. It's gained admiration from industry leaders due to its deep integration with Python; its integration with top cloud platforms, including Amazon SageMaker and Google Cloud Platform; and its computational graphs that can be defined on the fly. In this course, join Jonathan Fernandes as he dives into the basics of deep learning using PyTorch. Starting with a working image recognition model, he shows how the different components fit and work in tandem—from tensors, loss functions, and autograd all the way to troubleshooting a PyTorch network.

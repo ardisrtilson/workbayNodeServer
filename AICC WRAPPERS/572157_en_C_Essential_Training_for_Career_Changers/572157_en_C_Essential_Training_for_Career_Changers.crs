@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=572157
+Course_System=linkedin.com
+Course_Title=C++ Essential Training for Career Changers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you interested in adding programming skills to your professional toolkit? If so, whether you're a student kicking off your career, a mid-level manager who's always wanted to learn programming, or even a seasoned developer interested in tackling a new language, then this course is for you. Follow Peggy Fisher as she explains how to get started with C++, a core programming language. Using C++ 11, Peggy covers the basics such as how to compile and run C++ programs, and how to create variables. She also dives into working with data, as well as decision statements, creating functions, and using arrays. To help you grasp the material, she challenges you to write programs that include the aforementioned features.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=136359
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Fractured 3D Type
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Clients want dynamic type that shatters, glows, and smokes. Type that explodes and knocks over the camera! Learn how to create this dynamic effect by combining CINEMA 4D render passes with some fine-tuning in After Effects. Ian Robinson shows how to model your type in C4D, fracture the text with the Random effector, shatter the letters with MoDynamics, and use the render passes to create glows in After Effects—without the use of global illumination. Plus, you'll learn how to use particle animation to make your text smoke.

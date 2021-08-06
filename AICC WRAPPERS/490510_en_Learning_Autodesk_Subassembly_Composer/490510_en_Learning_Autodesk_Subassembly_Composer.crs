@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Roberts
+Course_ID=490510
+Course_System=linkedin.com
+Course_Title=Learning Autodesk Subassembly Composer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Subassemblies are the building blocks of corridor design, crucial for the development of roads, highways, and railways. AutoCAD Civil 3D users can compose complex subassemblies visually, using a powerful yet easy-to-use Subassembly Composer, which installs directly with Civil 3D. Learn how to use the Subassembly Composer to create subassemblies that meet your specific design requirements, in this course with Christopher Roberts, PE. Follow along as Christopher shows how to define a custom subassembly and add parameters, points, links, and shapes. See a preview of the subassembly geometry, and test how the subassembly behaves with different target values and conditions. Then find out how to make your subassemblies even more powerful with Visual Basic code. Christopher provides a cookbook of recipes for adding decision making, enumerations, switches, and variables to subassemblies, for more complex logic and automation. Last but not least, get some additional resources for working with the built-in PKT files, style guides, and the geometric looping function new in 2016.

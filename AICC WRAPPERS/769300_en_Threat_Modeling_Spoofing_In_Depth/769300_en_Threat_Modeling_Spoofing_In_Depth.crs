@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Shostack
+Course_ID=769300
+Course_System=linkedin.com
+Course_Title=Threat Modeling: Spoofing In Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Threat modeling is a framework for thinking about what goes wrong. Security pros and software developers should learn to threat model early in their careers, because it shapes every system they build and defend. Spoofing, pretending to be someone or something you're not, is one of the key threats to systems. This course teaches you many of the ways in which spoofing happens, including spoofing of people, machines, file systems, and processes. As instructor Adam Shostack explains, spoofing entails many factors: what you know, who you are, where you are, who you know, and more. There's spoofing of people and spoofing of roles, spoofing of processes or file spaces on a system, and spoofing of machine, IP, name, and TLS identities. Learning how and where these attacks take place will help you excel in your career and deliver more secure products and services.

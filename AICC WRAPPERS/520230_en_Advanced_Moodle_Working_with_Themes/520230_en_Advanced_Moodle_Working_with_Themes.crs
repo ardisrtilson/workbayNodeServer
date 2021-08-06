@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Mattia
+Course_ID=520230
+Course_System=linkedin.com
+Course_Title=Advanced Moodle: Working with Themes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning management systems aren't known to be the best-looking pages on the Internet. In fact, they're somewhat notorious for appearing clunky and dated. In this course, instructor Chris Mattia explains how to leverage themes in Moodle, one of the world's leading LMSs, to polish your site's user interface, and in turn, enhance your students' user experience. To begin, Chris provides an overview of Moodle themes and explains how to tackle basic branding for your site. Next, he shows you how to install a custom theme that enhances the look and feel of your Moodle site. Finally, Chris goes over how to create your own custom theme.

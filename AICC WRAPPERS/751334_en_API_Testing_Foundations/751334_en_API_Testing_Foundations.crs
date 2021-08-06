@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Westerveld
+Course_ID=751334
+Course_System=linkedin.com
+Course_Title=API Testing Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As software companies continue to shift towards cloud computing, mobile apps, and microservice architectures, the ability to quickly and effectively test APIs has become a critical skill for software testers. In this course, instructor Dave Westerveld covers the basics of API testing, sharing how to work with several robust tools for testing APIs at scale in an organization. After providing a primer on web services and important API terminology, Dave shows how to use Postman for some basic API exploration. He then goes over some basic approaches and methodologies used in testing GET, POST, PUT, and DELETE requests; shows how to approach performance testing using SoapUI, a popular automated API testing tool; and more.

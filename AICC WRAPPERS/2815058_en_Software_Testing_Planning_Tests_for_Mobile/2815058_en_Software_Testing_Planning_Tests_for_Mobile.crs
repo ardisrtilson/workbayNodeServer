@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Fine
+Course_ID=2815058
+Course_System=linkedin.com
+Course_Title=Software Testing: Planning Tests for Mobile
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Delivering mobile apps requires a high-quality system and strategy for effective testing. In this course, instructor Mike Fine walks through the different stages of testing and preparing a mobile app for market. He begins by going over how to plan and execute your alpha test, which includes identifying key hardware for testing and avoiding common problems. Next, he covers how to prepare a beta test plan, including how to establish a timeline for the project, identify good test candidates, and focus on integrating customer validation as part of the assessment process. To wrap up, Mike addresses release management and overall strategies for continued improvements into both of these processes.

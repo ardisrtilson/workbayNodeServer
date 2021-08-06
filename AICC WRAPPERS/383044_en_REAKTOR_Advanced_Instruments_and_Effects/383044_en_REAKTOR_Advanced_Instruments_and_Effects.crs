@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Evan Sutton
+Course_ID=383044
+Course_System=linkedin.com
+Course_Title=REAKTOR: Advanced Instruments and Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Everyone uses Native Instruments virtual instruments in their productions, regardless of their DAW. This course will show how to take advantage of the advanced instruments and effects in REAKTOR, including MONARK, PRISM, and THE FINGER. Your guide, Evan Sutton, provides an overview of synthesizer history (and which synthesizers of the past have been resurrected in REAKTOR), and reviews new approaches to effects and live performance and programming in REAKTOR.

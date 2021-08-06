@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645023
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 4 Networking and Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Regardless of the type of application you're building, it's highly likely that your app will need to access resources on other devices, servers, or the cloud. In addition, your app will probably need to access and store files locally and remotely. If you want to build great Universal Windows Platform (UWP) apps, you need to know how to connect to web services; perform file uploads and downloads in the background; use file pickers; leverage local storage as well as roaming storage; and more. In this course, Scott Peterson introduces these and other important concepts as he lays another brick in the wall of UWP understanding. Note: This course was created by Wintellect. We are pleased to host this training in our library.

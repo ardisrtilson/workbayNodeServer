@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=740410
+Course_System=linkedin.com
+Course_Title=Windows 10: Advanced Troubleshooting for IT Support
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Expand your troubleshooting skill set by learning how to resolve some of the more difficult issues you might encounter when supporting Windows 10. This course covers advanced troubleshooting concepts for experienced IT support professionals in an enterprise environment. Instructor Andrew Bettany dives into a wide range of topics, including hardware devices and network and remote connectivity. Throughout the course, Andrew provides practical demonstrations and examples that can help you confidently tackle challenging situations. Discover how to troubleshoot group policy issues, solve BitLocker lock out issues, use a shim to resolve app compatibility problems, and much more.

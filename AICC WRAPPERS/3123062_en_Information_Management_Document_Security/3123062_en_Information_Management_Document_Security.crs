@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=3123062
+Course_System=linkedin.com
+Course_Title=Information Management: Document Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to balance the need for cloud-based collaboration with document security best practices. In this course, Phil Gold explores how to structure an enterprise content management solution that ensures that documents are both collaborative and safe. Phil begins by reviewing basic server and security concepts, including different server structures, multilevel authentication layers, and data retention policies. He then discusses how to set security levels that don't negatively impact productivity, provide access for remote employees, and manage permissions. To wrap up, he shares best practices that can empower users to keep their documents secure.

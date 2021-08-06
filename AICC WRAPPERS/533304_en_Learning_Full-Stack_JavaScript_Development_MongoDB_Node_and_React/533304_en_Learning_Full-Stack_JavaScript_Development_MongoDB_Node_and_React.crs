@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Samer Buna
+Course_ID=533304
+Course_System=linkedin.com
+Course_Title=Learning Full-Stack JavaScript Development: MongoDB, Node, and React
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn by doing! Learn full-stack JavaScript development by building a web application with MongoDB, Node.js, and React.js. Learn how to use Node as a web server and an API server, how to consume data and build user interfaces with React, and how to read and write data with a MongoDB database. React allows you to build full-featured, data-driven applications faster and more efficiently than what is possible with JavaScript alone. Samer Buna introduces modern JavaScript programming concepts, with an emphasis on functional methods and open-source tools. The lessons are almost completely hands-on, with live coding demonstrations that bring the concepts home.

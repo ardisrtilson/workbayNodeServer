@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Villeneuve
+Course_ID=806157
+Course_System=linkedin.com
+Course_Title=AWS for Developers: Simple Email Service (SES)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon SES is one of the most cost-effective solutions for reliably delivering email. SES eliminates the hassle of managing outgoing SMTP servers and Amazon maintains relationships with all the large email providers, which will improve your reputation as an email sender and increase your delivery rate. To learn more about using SES for email delivery, join Jeremy JV Villeneuve in this hands-on, introductory training course. JV explains how to configure your domain for SES and set up your credentials so you can start sending email with SES using SMTP. He then walks through a practical example that shows how to send email from a WordPress site. In chapter three, JV explains how to monitor your sender reputation and reduce the number of bounces and complaints you receive, so your account avoids the risk of probation. Plus, learn how you can automatically remove bounced email addresses from your lists using customized Lambda functions.

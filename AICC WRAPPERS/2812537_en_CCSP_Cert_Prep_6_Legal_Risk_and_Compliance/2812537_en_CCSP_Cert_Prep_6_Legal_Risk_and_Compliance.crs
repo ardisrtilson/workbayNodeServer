@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2812537
+Course_System=linkedin.com
+Course_Title=CCSP Cert Prep: 6 Legal, Risk, and Compliance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Demonstrate that you have the skills needed to help businesses secure information and systems in the cloud by earning the Certified Cloud Security Professional (CCSP) certification. In this course, learn about legal, risk, and compliance issues in the world of cloud computing as you prepare for the CCSP exam. This course covers the sixth domain of the exam: Legal, Risk and Compliance. Mike Chapple demonstrates how to conduct risk assessments, articulate legal requirements, and understand the audit processes, methodologies, and adaptations required in a cloud environment. Note: This course is designed to cover the most recent version of the CCSP exam, released in August 2019.

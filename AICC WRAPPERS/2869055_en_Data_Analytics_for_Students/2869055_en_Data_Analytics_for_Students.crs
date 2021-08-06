@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, John David Ariansen
+Course_ID=2869055
+Course_System=linkedin.com
+Course_Title=Data Analytics for Students
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Analytics is such a broad topic that it's hard to know where to get started. In this course designed for students, explore how to use data analytics to make informed decisions, and build core analytics skills that can prepare you to enter into the business or data science landscape. Learn about the basics of analytics, how data is typically captured, and how it impacts the day-to-day of a business. This course also provides an introduction to common tools used in analytics, as well as stories designed to help students get an overview of careers that require strong analytical skills.

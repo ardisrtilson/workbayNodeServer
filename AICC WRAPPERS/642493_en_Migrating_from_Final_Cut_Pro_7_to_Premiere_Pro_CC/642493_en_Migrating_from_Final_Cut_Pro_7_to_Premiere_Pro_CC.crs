@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff I. Greenberg
+Course_ID=642493
+Course_System=linkedin.com
+Course_Title=Migrating from Final Cut Pro 7 to Premiere Pro CC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many post-production studios are migrating from Final Cut Pro to Premiere Pro. This course shows video editors what to expect when making the switch, focusing on the key differences in the editing workflow in Premiere Pro CC vs. FCP 7. It compares the two programs' interfaces, data structures, concepts, tools, and techniques. Author Jeff Greenberg walks through each step of the workflow: project setup, media import, editing and trimming, audio enhancement, transitions and effects, and export. The final chapter covers a few project management features that will help you transition seamlessly to Premiere Pro.

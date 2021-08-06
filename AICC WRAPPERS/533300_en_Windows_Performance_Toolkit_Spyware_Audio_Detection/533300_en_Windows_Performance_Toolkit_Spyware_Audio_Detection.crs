@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=533300
+Course_System=linkedin.com
+Course_Title=Windows Performance Toolkit: Spyware Audio Detection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Thomas Pantels examines a keylogger that's undetected by antivirus and antimalware programs. This spyware can record an entire room conversation inside your home and extract information from private calls. Follow Thomas as he shows how to use two powerful performance monitoring tools included in the Windows Performance Toolkit—the Windows Performance Recorder and Windows Performance Analyzer—to find spyware that could be lurking on your computer because it's undetected by antivirus software. He examines the source code for a keylogger to see how this malicious spyware ticks, and how to detect odd behavior in your system at a very low level. He shows how to determine if your private conversations are actually being recorded by inspecting the processes using the Windows audio stream.

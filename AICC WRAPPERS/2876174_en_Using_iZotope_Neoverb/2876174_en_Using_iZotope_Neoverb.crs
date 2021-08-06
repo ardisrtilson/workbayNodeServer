@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Struthers
+Course_ID=2876174
+Course_System=linkedin.com
+Course_Title=Using iZotope Neoverb
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Mark Struthers gives an overview of the Neoverb interface, including an explanation of how it is a different type of reverb plugin and examples of Neoverb in use. Mark explains the Pre-delay and Smooth functions found in the general editing area. He shows you an example of Reverb Assistant in action, then shares illustrations of the available presets. Mark goes into how Auto Cut works to create a Pre-EQ curve that removes potential frequency issues. He discusses how to use the advanced option parameters Time and Size with the Reflections engine. He examines the Attack, Crossover, and Damping functions, then takes a look at the general modulation function. Mark concludes by exploring the masking option in the Reverb EQ view.

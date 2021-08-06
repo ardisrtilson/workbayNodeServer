@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Blatner
+Course_ID=143323
+Course_System=linkedin.com
+Course_Title=InDesign: Data Merge and Database Publishing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When faced with large amounts of information, the designer's challenge is to make it clear and easy to understand. Adobe InDesign can help. With its Data Merge command, you can take raw data from spreadsheets or databases and quickly apply formatting with an InDesign template. In this course, author David Blatner takes you through the data merge capabilities of InDesign, two example projects (name tags and a catalog), and some third-party solutions that extend InDesign's data handling power.

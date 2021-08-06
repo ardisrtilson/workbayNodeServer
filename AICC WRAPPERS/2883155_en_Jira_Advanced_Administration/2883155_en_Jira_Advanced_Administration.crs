@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rachel Wright
+Course_ID=2883155
+Course_System=linkedin.com
+Course_Title=Jira: Advanced Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Jira is the industry standard for tracking work, tasks, and strategic company initiatives. The software is extremely flexible and customizable, which is both a blessing and a curse. Jira administrators need to be able to configure application settings to support the needs of the organization, which requires an intimate understanding of the capabilities, global options, and scheme configurations in Jira. In this course, Rachel Wright details the most important configuration options like general settings and global permissions. She also covers key topics like how schemes work together to power Jira projects; how to create custom projects; issue types, workflows, screens, and custom fields; and how to manage project-specific settings like components and versions. User management, including access restriction and sharing information with permissions, is also discussed. Rachel ends the course with a look at advanced Jira features like importing data, adding custom events, and automation.

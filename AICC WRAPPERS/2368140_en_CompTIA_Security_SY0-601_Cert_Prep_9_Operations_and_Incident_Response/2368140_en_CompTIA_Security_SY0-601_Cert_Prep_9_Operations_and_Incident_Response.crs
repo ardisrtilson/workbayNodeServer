@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2368140
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 9 Operations and Incident Response
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course covers cybersecurity operations and incident response to prepare for the Security+ exam, an entry-level exam for cybersecurity professionals. Instructor Mike Chapple covers topics such as designing an incident response program, conducting incident investigations, and using digital forensic techniques. Mike explains how to develop a solid foundation for an organization's information security incident response program. He goes over the process of selecting and training a diverse incident response team and incident communications plan. He details incident identification, escalation, and notification, then goes into how to mitigate and recover from incidents. Mike discusses attack frameworks such as the MITRE ATT&CK framework, the Diamond Model of Intrusion Analysis, and cyber kill chain analysis. He walks through all the steps of incident investigation, then introduces you to a variety of forensic techniques you may use in investigations. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Mitchell
+Course_ID=2848331
+Course_System=linkedin.com
+Course_Title=Web Scraping with Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Instructor Ryan Mitchell teaches the practice of web scraping using the Python programming language. Ryan helps you understand how a human browsing the web is different from a web scraper. She introduces the Chrome developer tools and how to use them to examine network calls. Ryan shows you how to install Scrapy with pip and how to write some Hello, World code to scrape a simple web page. She covers how to use the Scrapy LinkExtractor to find internal links on a web page, then demonstrates how to configure Scrapy and the ItemPipeline to write data to various file formats. Ryan walks you through best practices for organizing your projects, writing reusable parsers, and future-proofing your spiders. She explains how APIs work and how they can be used to retrieve data directly. Ryan explores headers and cookies, then goes into browser automation and how to integrate Selenium with Scrapy. In conclusion, she offers ideas to continue your studies in computer science and think creatively about automation.

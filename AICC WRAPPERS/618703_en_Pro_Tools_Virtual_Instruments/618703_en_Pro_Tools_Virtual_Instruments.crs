@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Evan Sutton
+Course_ID=618703
+Course_System=linkedin.com
+Course_Title=Pro Tools: Virtual Instruments
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Pro Tools is an industry-leading software for professional-grade music creation, and the virtual instruments inside Pro Tools are some of the main tools used for creating that music. In this course, instructor Evan Sutton explores the virtual instruments in Pro Tools. He starts with the Boom drum machine, and then covers vintage keyboards, explaining how to work with the DB-33 Tonewheel Organ and the Mini Grand virtual piano instrument. Next, he dives into the sampler, Structure Free. Evan also covers XPand!2 and Vacuum, an analog modeled synth.

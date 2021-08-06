@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kacie Hultgren
+Course_ID=164026
+Course_System=linkedin.com
+Course_Title=Designing a Replacement Part using 3D printing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating replacement parts for household appliances and furniture (like a broken oven knob or draw pull) is a great use of desktop 3D printers. In this short project course, author Kacie Hultgren takes us through the four steps needed to design and ultimately print a replacement part with your 3D printer: sketching your ideas on paper, translating notes into a digital design with a CAD program, testing the print, and then revising and improving on your model. Start now and learn to create replacement parts that are almost as good as the original.

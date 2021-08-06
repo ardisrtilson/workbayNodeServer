@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=93388
+Course_System=linkedin.com
+Course_Title=View Source
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This series offers 10-minute projects on intermediate and advanced web design topics, covering technologies such as HTML, PHP, jQuery, and CSS, as well as content management solutions like WordPress and integration with Twitter, YouTube, and more. Each video in the course is self-contained and shows how to accomplish an interesting effect and/or technique. Example projects include creating datepickers and custom photo galleries, and mapping and geotagging with Google Maps.

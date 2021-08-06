@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=2823163
+Course_System=linkedin.com
+Course_Title=Designing a Healthcare Facility with Revit and BIM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A building's interior defines many interconnected spaces, and the design of the building affects the way things move through each space. You must consider how air, gases, contaminants, and fire will behave in the building. In this course, instructor Eric Wing shows how to design a BIM model of a healthcare facility, taking into consideration the latest safety requirements in our new normal. Eric leverages his 20+ years of experience in architecture to clearly and succinctly step through the BIM process, explaining how to work with Revit and Navisworks to create a facility designed to keep people safe in uncertain times. Learn how to create coding information such as wall type fire ratings, as well as add air terminals with HEPA filters. Discover how to create safe distancing zones around people. Plus, see how to add global settings to a facility in Revit—which allow you to treat an entire model as a family—as well as export your models to Navisworks and add animation.

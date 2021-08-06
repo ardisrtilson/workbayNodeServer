@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=606075
+Course_System=linkedin.com
+Course_Title=CompTIA Server+ (SK0-004) Cert Prep: 4 Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the CompTIA Server+ certification signals to potential employers that you have a robust understanding of server management. It's a vendor-neutral certification that ensures administrators can manage a variety of systems, including web servers, virtual servers, mail servers, and more. Our series, CompTIA Server+ Cert Prep, is designed to help you prepare for and pass the exam. In this course, Ed Liberman helps you study for the security objectives. Review the three major layers of security—server, network, and data—as well as concepts such as multifactor authentication, logical access control, and environmental security. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

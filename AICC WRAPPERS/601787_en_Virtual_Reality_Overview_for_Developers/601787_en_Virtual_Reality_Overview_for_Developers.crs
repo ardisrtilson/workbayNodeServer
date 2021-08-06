@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael House
+Course_ID=601787
+Course_System=linkedin.com
+Course_Title=Virtual Reality Overview for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtual reality and augmented reality are popular concepts that excite many technical professionals with the array of creative possibilities they present—but how do programmers actually approach these abilities? What tools do they need? What languages do they use? In this course, learn how to start developing for VR. Michael House equips you with the knowledge and skills you need to tackle a number of different VR projects using Google VR for Android. He explains how to set up your development environment by installing Unity, JDK, and Android SDK. He also shows how to use cameras to view VR environments, and work with the different inputs available to interact with your virtual world.

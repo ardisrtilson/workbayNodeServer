@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeanne Aarhus
+Course_ID=577356
+Course_System=linkedin.com
+Course_Title=Migrating from MicroStation V8i to CONNECT
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The MicroStation CONNECT Edition from Bentley boasts changes and new features that can help you model and visualize your projects more efficiently. In this course, learn how to migrate from MicroStation V8i to MicroStation CONNECT. Jeanne Aarhus shows how to navigate the new interface and work with the changes in existing commands. In addition, she helps to familiarize you with new features such as display rules and item types, and explains how to customize the interface and use enhanced annotation.

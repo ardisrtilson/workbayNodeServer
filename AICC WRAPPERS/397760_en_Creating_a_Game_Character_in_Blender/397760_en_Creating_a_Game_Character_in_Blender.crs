@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Bradley
+Course_ID=397760
+Course_System=linkedin.com
+Course_Title=Creating a Game Character in Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blender has a lot of complex menus, nodes, and processes. But when you combine these with a little imagination, you can create realistic game characters straight out of another world. This course shows how to build a character with Blender's free 3D toolset, while you develop your modeling, sculpting, and texturing skills. Christian Bradley shows how to create a base mesh, sculpt the character, and bake it down into a low-poly version suitable for game play. He also shows how to UV unwrap the figure, apply normal maps, and paint in base colors and other details with Blender's Texture Paint mode.

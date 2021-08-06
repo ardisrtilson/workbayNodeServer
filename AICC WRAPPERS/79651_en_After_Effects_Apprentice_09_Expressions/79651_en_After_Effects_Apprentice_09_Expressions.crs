@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Trish Meyer, Chris Meyer
+Course_ID=79651
+Course_System=linkedin.com
+Course_Title=After Effects Apprentice: 09 Expressions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Expressions are one of the most powerful but underused features in After Effects. They can be used to animate layer properties with code, as compared to explicitly keyframing every value in the Timeline, and have multiple parameters and layers that follow the lead of a master layer or controller effect, making it much easier to coordinate complex animations and quickly accommodate client changes. In this introduction, Chris Meyer shows how to let After Effects do most of the work by creating simple but very useful expressions that can be put to work on a wide variety of jobs. The After Effects Apprentice series was created by Trish and Chris Meyer. These tutorials are designed for After Effects CS4 through CC, and can be used on their own or as a companion to the Meyer's book, After Effects Apprentice.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Julio Appling
+Course_ID=2802039
+Course_System=linkedin.com
+Course_Title=Learning Google Workspace (2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+G Suite is a popular cloud-based productivity platform for enterprise document management and email. To have a great Google experience, administrators need to be able to choose and deploy the right services. This course helps you launch G Suite at your organization. Julio Appling provides an overview of G Suite plans and explains how to choose the right one. He shows administrators how to create an account and migrate email, calendar, and contact data to G Suite. He walks through the Admin homepage, where you create a company profile, choose services, add users, manage user privileges, and create groups. Since G Suite also works well on mobile, Julio shows how to set up Android, iOS, and Google Chrome devices. He also covers activity reports, audit reports, and advanced security options.

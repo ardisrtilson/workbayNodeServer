@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=534632
+Course_System=linkedin.com
+Course_Title=Create Interfaces with FXML and JavaFX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+FXML is an XML-based language that, in conjunction with the JavaFX framework, allows developers to build user interfaces separate from the application logic. FXML is ideal for rapid prototyping and other scenarios where you need to change the interface without affecting the underlying code. Understand how FXML relates to JavaFX and MVC development, and the benefits of incorporating FXML into your workflow, in this introductory course with staff instructor Peggy Fisher. Learn how to structure basic FXML files, add UI components, react to events, define controllers, and fill out the controller file with methods and FXCollections. Take the challenge exercises issued along the way to test your knowledge and put FXML to practical use.

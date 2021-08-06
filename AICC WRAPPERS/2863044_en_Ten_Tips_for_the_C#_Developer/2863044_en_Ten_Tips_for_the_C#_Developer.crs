@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2863044
+Course_System=linkedin.com
+Course_Title=Ten Tips for the C# Developer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C# and .NET are deep areas. Even if you’ve been a developer for years, there are bound to be features you don’t even know exist. In this course, take a look at some of the hidden or interesting methods that can help you write better code in this multifaceted programming language. Hear tips for improving your everyday workflows in C# development including a method to help avoid race conditions when working with a dictionary. Learn how to use pattern matching to create more expressive and readable code branches. Explore the new C# 8 slice operators and how and when to flatten a one-many relationship. Discover fresh tactics like how to and engage another programmer’s technique, use the DebuggerDisplay attribute to specify what information is shown, and more.

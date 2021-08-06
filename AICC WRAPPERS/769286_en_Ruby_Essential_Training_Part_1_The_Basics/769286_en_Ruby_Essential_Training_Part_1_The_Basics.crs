@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=769286
+Course_System=linkedin.com
+Course_Title=Ruby Essential Training Part 1: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the fundamentals of Ruby, the popular object-oriented open-source programming language. Ruby is a great place to start learning programming or web development. It can be used to write interactive programs or build scripts to speed up common tasks. This course provides the basics that new and experienced developers need to know to start coding with Ruby. Instructor Kevin Skoglund begins by walking through the core object types: numbers, strings, symbols, booleans, and more. He demonstrate Ruby's control structures, including conditionals, loops, and iterators. He explains scripting best practices and shows the power of using enumerables and code blocks. By the end of the course, you should be able to use Ruby to define your own custom methods with loops and conditional logic.

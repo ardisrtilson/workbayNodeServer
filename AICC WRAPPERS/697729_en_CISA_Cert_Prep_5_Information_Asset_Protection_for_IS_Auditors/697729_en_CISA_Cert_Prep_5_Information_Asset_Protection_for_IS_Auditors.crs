@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Lester, Human Element LLC
+Course_ID=697729
+Course_System=linkedin.com
+Course_Title=CISA Cert Prep: 5 Information Asset Protection for IS Auditors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning a CISA certification validates your ability to audit, control, and monitor information systems. Our test prep series tackles the exam one domain at a time, helping you acquire all the skills you need to confidently manage IT security audits. CISA Cert Prep: 5 covers the fifth domain: asset protection. This is a vital area of information security, which protects a company's data and intellectual property. Get an overview of information security basics, and then review the different types of security controls: authorization and authentication, network security, cryptography, PBX and VOIP security, wireless security, and more. Instructor Michael Lester wraps up with an overview of the different cyberattacks and countermeasures, and the attestation audits you can use to evaluate the effectiveness of your organization's policies, procedures, and controls.

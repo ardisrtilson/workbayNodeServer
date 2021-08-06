@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=728401
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understanding the ins and outs of networking—how it works, how it interacts with your existing enterprise network, and how to work with different networking services—is crucial in the world of cloud computing. In this course, explore the fundamentals of cloud networking, and learn about the networking services available for the top three cloud platforms: AWS, Azure, and Google. Cloud computing expert David Linthicum kicks off the course by covering the basics of networking, including internal and external networks, moving networking to the cloud, and troubleshooting a network. He then dives into a deeper exploration of networking within AWS, Azure, and Google, and takes you through a demo of a couple of the top networking services. To wrap up, David provides guidance for selecting a networking solution and planning and testing a network.

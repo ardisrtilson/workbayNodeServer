@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Andrews
+Course_ID=2875238
+Course_System=linkedin.com
+Course_Title=Python: Recursion
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Recursion is part of the very fabric of computer science and software development, and whether you rarely use it or if it’s a key part of your development, there’s a good chance recursion is happening behind the scenes. Recursion is a powerful tool in breaking down complex problems into more manageable segments, and knowledge of recursion is a desirable trait that employers look for in developer positions. In this course, Robin Andrews takes a deep dive into the concepts, techniques, and applications of recursion using Python. He starts with some real-world examples of recursion, and then shows how it pertains to software development. He covers classic recursive algorithms like factorials and Fibonacci numbers, before showing how to write recursive algorithms in Python through practice exercises. After completing this course, you will have a better idea of how to use recursive algorithms to solve a wide range of software development issues.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Carpenter
+Course_ID=2828015
+Course_System=linkedin.com
+Course_Title=AWS Certified Solutions Architect - Associate (SAA-C02): 7 Application Deployment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To build effective solutions, architects need an in-depth knowledge of the application and deployment services on Amazon Web Services (AWS). This course helps you design more cost efficient, consistent, reliable, elastic, and scalable solutions by taking advantage of all that AWS has to offer. It’s also part of a nine-part series designed to help prepare you to pass the updated 2020 AWS Certified Solutions Architect – Associate (SAA-C02) certification exam. Find out how to execute code in the cloud—without server infrastructure—with Lambda, analyze data on the fly with Kinesis, optimize the performance of web applications with CloudFront, perform cloud-based operations management with OpsWorks, launch template-based solutions with CloudFormation—and much more. This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing. This course was created by Total Seminars. We are pleased to offer this training in our library.

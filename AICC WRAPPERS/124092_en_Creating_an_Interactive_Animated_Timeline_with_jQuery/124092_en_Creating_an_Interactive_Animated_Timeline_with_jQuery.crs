@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=124092
+Course_System=linkedin.com
+Course_Title=Creating an Interactive Animated Timeline with jQuery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create an engaging, interactive, and animated timeline with jQuery. In this course, Chris Converse shows you how to create a sliding timeline, with date markers and associated content. Tell your story, or that of your organization, with a graphically rich, interactive timeline.

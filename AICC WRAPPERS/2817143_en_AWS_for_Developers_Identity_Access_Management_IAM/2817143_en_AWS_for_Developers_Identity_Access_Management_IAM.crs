@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2817143
+Course_System=linkedin.com
+Course_Title=AWS for Developers: Identity Access Management (IAM)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A variety of people and services—from employees to applications running on Amazon EC2 making requests to AWS—require access to your AWS resources. With AWS Identity and Access Management (IAM), you can securely control access to these resources in one place. In this course, instructor Bear Cahill helps you get up and running with IAM, explaining how to use the web service to efficiently create and manage user accounts, groups, roles, and permissions. To begin, Bear covers essential IAM concepts, including how to create a user account. He then dives into configuring password settings for users, modifying policies, grouping users, adding roles for services, and more.

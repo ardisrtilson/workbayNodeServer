@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2829008
+Course_System=linkedin.com
+Course_Title=GitHub Quick Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GitHub is the heart of many development workflows. These 30 tips and tricks help you exercise the full power of this versatile software development platform. LinkedIn staff instructor Ray Villalobos shows how to customize GitHub by building out your project homepages, turning repositories into reusable templates, adding collaborators, and enhancing security with secret keys and branch protection. Then discover how to be more efficient in the interface, from searching to creating permalinks for frequently accessed files. Next, dive into power tips for repos, including deleting and restoring branches. Finally, Ray reviews the specialized tools such as wikis, metrics, the GitHub CLI, and custom code snippets called gists. Each tip makes you a more efficient developer and GitHub contributor.

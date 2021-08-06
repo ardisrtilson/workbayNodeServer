@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=441833
+Course_System=linkedin.com
+Course_Title=Microsoft SQL Server 2014: Backup and Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Being able to perform a database backup—and recover data when something goes wrong—is a key skill any database administrator should have. In this focused course, author Martin Guidry covers the key topics necessary to master backup and recovery of a SQL Server 2014 database. Learn about the different types of backups— full, differential, and transaction log backups—and how to use the command line or the GUI tool, Management Studio, to back up and restore SQL Server. Martin also shows how to back up SQL Server to the cloud and automate backups with maintenance plans.

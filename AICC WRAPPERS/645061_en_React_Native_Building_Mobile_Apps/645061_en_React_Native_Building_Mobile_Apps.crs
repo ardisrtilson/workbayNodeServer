@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Emmerich
+Course_ID=645061
+Course_System=linkedin.com
+Course_Title=React Native: Building Mobile Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Companies like Facebook, use React Native to create native mobile apps—with native performance—for a variety of platforms. You too can harness the power of React Native to build your own native projects, using JavaScript and the familiar React.js framework. This course provides a complete introduction, starting with using the React Native command-line interface (CLI) to create a new project. Instructor Steve Emmerich goes from this setup step through complete application, using Firebase for authentication and storage and MobX for state management. Follow along and learn how to create scenes, set up navigation, store and manipulate data in databases and files with Firebase, interact with the device camera, and use MobX to manage application states.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jamie Pittman
+Course_ID=2864011
+Course_System=linkedin.com
+Course_Title=JavaScript: Arrays
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programming language arrays store collections of data in a single variable, and you can use them as lists, as stacks, as collections, and more. They also have built-in properties and methods that allow you to utilize them as needed. JavaScript arrays may sound simple, but they offer many more features than arrays in other programming languages. In this course, Jamie Pittman covers how to integrate several JavaScript array methods into daily practice. She first focuses on the concept of arrays in general, then covers situations where using array methods makes sense, how to use them, and recent updates to arrays. This course encourages you to step up your JavaScript skills, and once you learn how to use arrays to their greatest potential, you can write cleaner, more succinct code, reach solutions much more quickly, and take data you've been provided and transform it to fit your needs.

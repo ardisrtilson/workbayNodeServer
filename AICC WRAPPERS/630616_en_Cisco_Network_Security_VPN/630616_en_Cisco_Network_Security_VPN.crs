@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=630616
+Course_System=linkedin.com
+Course_Title=Cisco Network Security: VPN
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gain the specialized knowledge needed to secure Cisco networks. In this course, join Lisa Bock as she covers essential VPN concepts, as well as strategies for using VPNs to secure a network. Lisa goes over different types of VPNs, VPN topologies, and VPN components. She covers how to work with the Cisco Adaptive Security Appliance, which offers functions to secure a network that include firewall features, malware defense, intrusion prevention, and content monitoring. She also dives into the IPsec framework, VPN configuration, and how to prepare your site for an IPsec VPN.

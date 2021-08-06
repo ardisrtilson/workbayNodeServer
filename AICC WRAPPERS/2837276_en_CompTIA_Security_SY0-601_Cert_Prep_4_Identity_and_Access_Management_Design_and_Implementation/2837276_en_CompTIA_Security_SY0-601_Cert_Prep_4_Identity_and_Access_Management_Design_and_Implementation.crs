@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2837276
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 4 Identity and Access Management Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+At a basic level, organizations must be able to grant access to legitimate users—and block requests from those who lack the right permissions—in order to operate safely and securely. As a security professional, you're charged with creating and implementing the identity and access management systems that make this happen. In this course, the fourth installment in the CompTIA Security+ (SY0-601) Cert Prep series, explore the world of identification, authentication, and authorization as you prepare for the Security+ exam. Instructor Mike Chapple covers key authentication concepts, including multifactor authentication, single sign-on, and federation. He also goes over mandatory access controls, discretionary access controls, the basic principles of account and privilege management, and more. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2837275
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 3 Cryptography Design and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prepare for the CompTIA Security+ exam, the leading certification for a career in information security. The latest version, SY0-601, expands coverage of cybersecurity threats, risk management, and IoT threats. This course prepares exam candidates for the third domain of the exam, Cryptography Design and Implementation. Topics include encryption, symmetric and asymmetric cryptography, and key management. Instructor Mike Chapple—an experienced IT leader—also dives into digital signatures, cryptanalytic attacks, and cryptographic applications. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

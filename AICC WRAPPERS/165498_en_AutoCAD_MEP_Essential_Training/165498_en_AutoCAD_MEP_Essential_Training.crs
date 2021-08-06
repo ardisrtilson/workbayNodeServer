@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=165498
+Course_System=linkedin.com
+Course_Title=AutoCAD MEP Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+AutoCAD MEP helps you build the systems—mechanical, electrical, and plumbing—that connect buildings to the outside world. This course will help you draft, design, and document these systems using MEP's powerful toolset. Author Eric Wing touches on project setup, as well as external referencing and display configurations, before diving into individual modeling scenarios. In one chapter, he'll show how to create electrical power plans and lighting plans with receptacles and lighting fixtures. In the next, it's a mechanical plan, with rooftop units, VAV boxes, ducts, and diffusers. Last, you'll work on a plumbing plan and system. Then he ties the drawings together with smart tags and schedules, and creates section and elevation versions of your plans. Dive in now and learn to eliminate tedious drawing tasks while creating more accurate documentation with MEP.

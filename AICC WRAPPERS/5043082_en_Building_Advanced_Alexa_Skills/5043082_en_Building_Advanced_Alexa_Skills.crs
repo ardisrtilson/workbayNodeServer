@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Assam
+Course_ID=5043082
+Course_System=linkedin.com
+Course_Title=Building Advanced Alexa Skills
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You've created a basic Alexa skill—but now it's time to build something for the real world, using some of the cloud-based voice service's more potent capabilities. In this course, learn how to leverage the developer tooling provided by Amazon to build advanced Alexa skills. Instructor Lee Assam begins by explaining how to work with the Alexa Skills Kit Command Line Interface (ASK CLI). Lee then shows how to build and deploy a skill with the Skill Flow Builder development suite and create an Alexa Presentation Language (APL) skill. Along the way, he demonstrates how to build a choose-your-adventure skill game and a trivia game. These processes are all focused on enhancing the features that you can provide to users when they interact with skills, resulting in a richer user experience.

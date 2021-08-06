@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mary Ellen Bowman
+Course_ID=580662
+Course_System=linkedin.com
+Course_Title=Spring: Spring Data 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Coding to databases—which often involves the use of boilerplate code that's difficult to maintain and debug—can be tedious work. Upgrading applications to a different kind of data storage is similarly challenging, as it usually involves massive code rewrites. Spring Data addresses these issues by abstracting data store interactions into a common repository API and eliminating boilerplate code. In this course, learn how to easily implement JPA-based repositories using Spring Data JPA. Mary Ellen Bowman describes the Spring Data umbrella project, and helps you understand JPA for object-relational mapping. She also covers querying, and dives into other Spring Data Commons features such as QueryDSL and auditing.

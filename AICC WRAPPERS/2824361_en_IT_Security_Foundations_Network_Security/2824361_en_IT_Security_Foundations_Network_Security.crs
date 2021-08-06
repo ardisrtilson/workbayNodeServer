@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=2824361
+Course_System=linkedin.com
+Course_Title=IT Security Foundations: Network Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network security is an important component of the Microsoft Technology Associate (MTA), Security Fundamentals exam (98-367). In this course, Lisa Bock covers one of the main topics of the exam: securing an organization's network, to keep interconnected systems and data safe. The course introduces security devices such as firewalls and honeypots. In addition, she reviews the importance of isolating networks with VLANS and NAT addressing, along with a review of common security protocols. She also provides overviews of how to protect clients with antivirus software, encrypt folders and files, and implement software restriction policies. Finally, she looks at the often-overlooked topic of physical security, which includes securing a building's perimeter and the hardware within. Note: Learn more about the Microsoft Technology Associate (MTA) Security Fundamentals exam (98-367) at https://www.microsoft.com/learning/en-us/exam-98-367.aspx.

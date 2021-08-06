@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2818088
+Course_System=linkedin.com
+Course_Title=Vue.js: Working with APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modern apps are shifting to a model where APIs provide the data and interactivity. Front-end developers decide how to present the information and interactions, and the APIs power the rest. Vue.js was built with these challenges in mind; it’s a view-only framework specifically designed to integrate elegantly with other libraries. Join instructor Ray Villalobos in this hands-on course, where he introduces a quick project that will help you understand how to access and use different APIs using Vue.js. Learn how to build a simple music player using the HTML audio element and libraries like Bootstrap and Font Awesome—which both come with their own APIs. He then shows how to work with local and remote data with the Fetch, Axios, and Vuex APIs, and integrate Google Firebase for real-time multi-user features.

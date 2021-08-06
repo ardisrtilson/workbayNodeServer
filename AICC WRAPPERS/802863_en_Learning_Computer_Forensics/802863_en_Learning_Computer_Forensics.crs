@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=802863
+Course_System=linkedin.com
+Course_Title=Learning Computer Forensics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Computer forensics is used to find legal evidence in computers, mobile devices, or data storage units. Although this course won't teach you everything you need to know to become a digital forensics detective, it does cover all the essentials of this growing (and exciting) technical field. Jungwoo Ryoo reviews the basics: the goals of computer forensics, the types of investigations it's used for, and the different specializations within the field. Then, he shows how to prepare for an investigation; acquire data; make sure data is kept in its original state with software and hardware write blockers; analyze the data; and generate a report. He uses a combination of open-source and commercial software, so you'll be able to uncover the information you need with tools that are in your budget.

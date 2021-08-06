@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joey D'Antoni
+Course_ID=753904
+Course_System=linkedin.com
+Course_Title=Scaling Your SQL Server Application
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Can your applications handle the load? In this one-hour class, you can learn about techniques to scale your SQL Server application as both your data volume and userbase grow. Instructor Joey D'Antoni introduces techniques you can use when designing a new application as well as techniques to fix an existing application—balancing security and performance concerns. Learn how to leverage built-in SQL Server features such as columnstore indexing, read-only routing, and portioning, and design a tenancy model that meets the demands of your application. Plus, find out how to use a caching tier and integrate Microsoft Azure for cloud-based storage that automatically scales as your needs grow.

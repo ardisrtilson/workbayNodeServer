@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Bott
+Course_ID=585241
+Course_System=linkedin.com
+Course_Title=iOS App Development: Design Patterns for Mobile Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers need to know how to minimize app complexity and maximize scalability. Good architectural planning—founded on established design patterns—is the key to solid code. This course provides an overview of the different architectural models and design patterns used to simplify enterprise applications. Learn how to audit an app and transition from MVC to a layered architecture, using models such as MVP, MVVM, VIPER, and MVA (minimum viable architecture). Instructor Jon Bott introduces the dependency injection pattern (for decoupling layers), the coordinator pattern (for managing application flow), and data binding with RxSwift.

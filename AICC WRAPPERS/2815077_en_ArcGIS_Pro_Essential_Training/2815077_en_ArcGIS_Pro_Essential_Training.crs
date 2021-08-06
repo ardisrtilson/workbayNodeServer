@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gordon Luckett
+Course_ID=2815077
+Course_System=linkedin.com
+Course_Title=ArcGIS Pro Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+ArcGIS Pro is a popular geographic information system (GIS) that combines the power of 2D and 3D mapping with cloud-based sharing and collaboration features—and version 2.4 contains visualization and editing enhancements that make it more powerful than ever. This course teaches you the essentials of working with ArcGIS Pro 2.4. Instructor Gordon Luckett shows how to navigate maps and create new projects from the variety of ArcGIS templates. He demonstrates how to select and edit individual map elements, and connect to advanced geospatial data sources. He explains the finer points of working with vector vs. raster data, and then shows how to style and label your maps. Plus, learn how to publish your projects to ArcGIS Online for sharing and collaboration.

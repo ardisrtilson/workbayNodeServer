@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=2825499
+Course_System=linkedin.com
+Course_Title=Predictive Analytics Essential Training for Executives
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Organizations in nearly every industry are seeking and hiring data scientists, but many of these professionals don’t remain at their posts for long. Even though data analytics skills are highly valued, individuals with this skill set can't make an impact unless middle and senior management know how to leverage analytics for the long-term benefit of their organization. The challenge is that most of the people overseeing advanced analytics don’t have backgrounds in data science themselves. In this course, Keith McCormick shows executives who aren't fluent in data analytics how to hire data science professionals, manage data science teams, and transform their business with effectively deployed advanced analytics. Keith details how to hire a well-rounded team, including how to identify top-performing data scientists. Plus, he shares how to navigate the different analytics and machine learning software options on the market, fit data science into your organizational structure, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2881243
+Course_System=linkedin.com
+Course_Title=CRISC Cert Prep: 1 IT Risk Identification
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Certified in Risk and Information Control (CRISC) certification is an established, well-recognized credential from ISACA, the organization that has issued over 200,000 certifications to cybersecurity professionals in 188 countries. A CRISC certification shows employers that you understand how to identify and manage IT risk in an enterprise and that you’re capable of implementing and maintaining the controls necessary to address risks. This series of courses provides you with insights and content around the four IT risk management domains. In this first course of the series, instructor Jerod Brennen focuses on the first CRISC domain: IT Risk Identification. Jerod goes over some basic definitions and information for IT risks, then covers several threats and vulnerabilities and how you can protect your organization’s people, processes, and technology. He addresses enterprise risk context and shows you techniques to engage your stakeholders and improve your risk posture.

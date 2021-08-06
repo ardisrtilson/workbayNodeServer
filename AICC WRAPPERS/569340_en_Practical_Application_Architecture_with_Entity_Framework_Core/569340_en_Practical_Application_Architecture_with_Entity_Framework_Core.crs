@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Goforth
+Course_ID=569340
+Course_System=linkedin.com
+Course_Title=Practical Application Architecture with Entity Framework Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To get the most out of Entity Framework Core—a cross-platform way to access data from an application—it's important to know how to make sound architectural choices. In this course, learn how to choose an application architecture to use with Entity Framework Core for several different scenarios. Richard Goforth covers why all of this architecture is necessary, and dives into design patterns with Entity Framework Core, discussing topics such as data access layers, DTOs, and exposing the queryable interface from Entity Framework Core. He also goes into error handling strategies, architectural strategies for using Entity Framework Core within ASP.NET, unit testing, and mistakes to avoid when architecting software with Entity Framework Core.

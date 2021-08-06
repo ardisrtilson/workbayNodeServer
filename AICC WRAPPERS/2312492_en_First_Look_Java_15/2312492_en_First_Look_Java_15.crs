@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=2312492
+Course_System=linkedin.com
+Course_Title=First Look: Java 15
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a first look at Java 15. In this course, instructor David Gassner provides an overview of this non-long-term-support release of Java Standard Edition (SE), highlighting changes that developers, build engineers, and software development managers should consider when evaluating whether to upgrade to Java 15. Learn about new features for the Java virtual machine, including support for hidden classes, which help developers protect generated classes from being used by the bytecode of other classes. Plus, learn about changes to the programming language, including how to use text blocks, a feature that eliminates the need for many escape sequences and generally makes it easier to write and format strings that span several lines of code.

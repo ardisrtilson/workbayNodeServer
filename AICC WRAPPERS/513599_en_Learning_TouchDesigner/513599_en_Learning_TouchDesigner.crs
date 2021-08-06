@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=513599
+Course_System=linkedin.com
+Course_Title=Learning TouchDesigner
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Used by studios around the world to create a wide range of experiential projects, TouchDesigner has become a standard platform of choice for projection mapping, interactive installation, and experiential content development. In this course, explore the real-time, procedural 3D and 2D graphics powerhouse that is TouchDesigner. Starting with the fundamentals, explore the TouchDesigner interface and get an overview of important nodes in each of the six TouchDesigner contexts. Through a series of project-based examples, look at real-time 2D image processing, real-time 3D scene rendering, real-time interactive control, and using TouchDesigner for VR. This course provides a starting point for any 2D or 3D artist wanting to expand their skillset in a rapidly growing field that ties into experiential design, interactive installation, and virtual reality.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiago Costa
+Course_ID=2211312
+Course_System=linkedin.com
+Course_Title=Azure for Developers: Implementing and Developing Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Functions is an event-driven, serverless compute platform that enables on-demand code generation. If you want to build serverless solutions using Microsoft Azure—or you're just curious about how Azure Functions works—then this course is for you. Join instructor Tiago Costa as he provides a comprehensive overview of Azure Functions and shares real-world scenarios for integration with other Azure cloud services. Throughout the course, Tiago covers basic concepts such as the main trigger types, as well as more advanced features, including how to implement a continuous integration and continuous delivery (CI/CD) pipeline with Azure Functions. To wrap up, he shares real-world examples of how Azure Functions can be used to address customer requests.

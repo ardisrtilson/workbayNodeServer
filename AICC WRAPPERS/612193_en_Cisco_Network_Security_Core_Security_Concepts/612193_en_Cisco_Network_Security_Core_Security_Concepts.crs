@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=612193
+Course_System=linkedin.com
+Course_Title=Cisco Network Security: Core Security Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Protect your network from common security threats. In this course, instructor Lisa Bock helps equip network administrators with a foundational understanding of security concepts in relationship to Cisco networks. Lisa covers essential security terms and discusses common security threats such as active and passive attacks, social engineering, and malware. She reviews cryptographic techniques such as encryption and digital signatures, and describes various network topologies such as campus area networks, wide area networks, and data centers. This course corresponds to the security fundaments portion of the 200-301 CCNA exam.

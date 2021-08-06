@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Thorn
+Course_ID=2835085
+Course_System=linkedin.com
+Course_Title=Unity for Architectural Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unity isn't just for video games. Its rich 3D feature set makes it a great tool for creating architectural visualizations. This course explores an easy-to-follow, step-by-step workflow for building professional visualizations for interior environments like offices, hotels, homes, and more. Instructor Alan Thorn explains how to set up your project, import existing models and other assets, and build scenes from prefabs and reusable blocks. He shows how to customize the scene with furniture and props, backgrounds, cameras, and post-process effects and configure collision data for physical interactions. Next, learn how to build and assign materials and add realistic environmental lighting—the details that bring your scenes to life. Finally, learn how to add camera animation and enable first-person explorations of your visualizations. By the end of the course, you'll have the skills to build, refine, and render compelling visualizations of any architectural interior.

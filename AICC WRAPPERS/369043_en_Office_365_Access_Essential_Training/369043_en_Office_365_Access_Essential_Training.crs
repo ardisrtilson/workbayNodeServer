@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=369043
+Course_System=linkedin.com
+Course_Title=Office 365: Access Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to build databases to store and retrieve your data more efficiently in the Office 365 version of Access. Adam Wilbert shows how to use the powerful program to wrangle your data and create your first table, and he highlights smart strategies to edit and modify fields and records. The course also shows you how to build queries and action queries, create and design forms, use macros, integrate Access with the rest of the Office 365 suite, and maintain your databases over time.

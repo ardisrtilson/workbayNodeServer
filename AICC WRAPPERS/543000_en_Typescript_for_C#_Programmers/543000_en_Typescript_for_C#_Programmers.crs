@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Liberty
+Course_ID=543000
+Course_System=linkedin.com
+Course_Title=Typescript for C# Programmers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TypeScript brings object-oriented programming to JavaScript, giving developers a scalable, feature-rich language that compiles into super clean code. While TypeScript is traditionally taught from the perspective of JavaScript, C# is a great entry point, since it features some of the same constructs, abstractions, and syntax. Combining your existing C# skills with TypeScript's cross-platform capabilities means the programming possibilities are almost endless. In this course, Jesse Liberty reviews the fundamentals of TypeScript for the C# developer, including the built-in types, flow controls, and functions. He covers default, optional, and rest parameters; lambda functions; object literals; and the creation and use of custom classes. Plus, learn about other object-oriented features such as inheritance and interfaces. By the end of the course, C# developers should be well on their way to incorporating this flexible and powerful web programming language into their app development workflow.

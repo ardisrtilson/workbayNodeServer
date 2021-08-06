@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Oz du Soleil
+Course_ID=2873072
+Course_System=linkedin.com
+Course_Title=Excel: Macros and VBA for Beginners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re a frequent user of Excel, chances are you have Excel tasks that you need to repeat often. Fortunately, you can automate these tasks by creating macros. Many people assume macros are complicated and reserved only for Excel power users. Not so! In this short course, Excel MVP Oz du Soleil first explains the best times to use a macro, and then how to use Visual Basic for Applications (VBA) to set up a basic macro in Excel to record your mouse clicks and keystrokes. Learn how to set up macros in Excel now, saving time later.

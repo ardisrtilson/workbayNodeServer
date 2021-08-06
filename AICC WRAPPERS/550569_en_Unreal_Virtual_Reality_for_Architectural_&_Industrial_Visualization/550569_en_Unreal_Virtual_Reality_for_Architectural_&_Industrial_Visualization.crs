@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Barr
+Course_ID=550569
+Course_System=linkedin.com
+Course_Title=Unreal: Virtual Reality for Architectural & Industrial Visualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In an industry known for constant change and innovation, virtual reality (VR) stands out as a uniquely fascinating way to view content. Learn how to take your Unreal Engine 4 (UE4) visualizations to a new level with VR. Before you take this course, you might want to check out 3D Content Creation for Virtual Reality; this provides you with a solid understanding of VR principles before you dive into working with VR in a UE4 scene. In this course, examine how an existing project must adhere to specific rules in order to be convincing in VR space. Plus, learn solutions for potential problems with 3D content and VR, like motion sickness, as well as scene navigation options.

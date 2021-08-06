@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Erin Colvin
+Course_ID=667369
+Course_System=linkedin.com
+Course_Title=Programming Foundations: Fuzzy Logic
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most modern programming is based on exact logic: black or white, yes or no, true or false, 0 or 1. However, we live in a world of partial truths and shades of grey. Fuzzy logic is designed to handle this ambiguity, and help computers more closely approximate human reasoning. In this course, Dr. Erin Colvin introduces fuzzy logic, its benefits, and its contributions to fields such as artificial intelligence and machine learning. Learn about related concepts such as fuzzy set theory and fuzzy inference, with practical examples from real-world applications of the technology.

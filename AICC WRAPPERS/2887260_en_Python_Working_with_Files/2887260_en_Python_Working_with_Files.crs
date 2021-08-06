@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=2887260
+Course_System=linkedin.com
+Course_Title=Python: Working with Files
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you’re working with files of any kind, nothing saves time like automation. No one wants to spend a day manually editing or renaming 1000 files. In this course, Kathryn Hodge shows you how to use Python to automate operating system tasks, aggregate data across multiple sources, save results to files, and level up your Python applications. Kathryn starts by introducing the idea of the file system with absolute versus relative paths, directory structures, and more. From there, she explores how to use tools from the Python Standard Library to retrieve metadata about the files and paths located on your machine. Once you know how to navigate to the appropriate files you want to work with, she shows how to process files with Python, parsing data not only in text formats, but also JSON and CSV. Finally, Kathryn looks at writing data to different file types and explains how to store that data within an archive well as with temporary files.

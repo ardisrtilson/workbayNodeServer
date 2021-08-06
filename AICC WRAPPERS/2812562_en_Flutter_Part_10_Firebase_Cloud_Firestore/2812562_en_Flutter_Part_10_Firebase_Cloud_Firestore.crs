@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2812562
+Course_System=linkedin.com
+Course_Title=Flutter: Part 10 Firebase Cloud Firestore
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to build and deploy interactive Flutter apps for iOS and Android with Google Firebase. This project-based course is an advanced use case for Flutter that helps developers build a fully functioning messaging app that can be deployed directly to app stores. Instructor Angela Lu starts by helping you prepare the app screens and classes and add custom interactive animation. Then she shows how to create new Firebase projects for both Android and iOS, integrating user authentication and a Firestore database. She also shows how to stream the messaging data and complete the styling of the app in anticipation of launch. This practical assignment helps illustrate the lessons learned and gives you a fun project to add to your Flutter portfolio. This course was created by London App Brewery. We are pleased to host this content in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=772317
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: The User Interface with Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A stylish, compelling user interface can quickly turn new users into fans. In this installment of the Android Development Essential Training series, jump-start your Android development journey by learning how to design a simple user interface in a native Android application. Android developer and instructor David Gassner shares tips and tricks he picked up in his own career, covering how to define screens with layout files, use ViewGroup components, and define visual styles and themes. Plus, he shares a variety of techniques you can leverage to display images, ensure that your app looks great on a variety of different devices, and more.

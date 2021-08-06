@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=124090
+Course_System=linkedin.com
+Course_Title=Design the Web: Animated Loading GIFs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you ever needed an animated GIF to spice up a webpage or signal data is being downloaded? Learn to create custom animated graphics for your websites, mobile applications, and other interactive projects in Adobe Photoshop, with these quick and practical techniques from Chris Converse. Chris shows how to transform artwork into Smart Objects, animate layer effects with the Photoshop tween capabilities, and move and resize existing animations. Plus, CS6 users can find out how to keyframe animations with the advanced video-based Timeline panel.

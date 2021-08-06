@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2873105
+Course_System=linkedin.com
+Course_Title=First Look: .NET 5
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+.NET 5 is the unifying release of the cross-platform, open-source framework from Microsoft. In this course, instructor Walt Ritscher gives you a first look at .NET 5, presenting a broad view of the features included in this release. He explores the .NET versions and changes to the .NET name. He examines the .NET pieces included in the release. He shows you init-only properties, the C# Record type, and top-level statements, then goes into container, JSON, and deployment improvements. Walt looks at the Visual Studio 2019 updates, improved Git integration, JavaScript debugging tools, and XAML hot reload. He discusses Blazor, a front-end (UI) framework that lets you build interactive web UIs using C# instead of JavaScript. In closing, Walt goes over Entity Framework Core, a lightweight, extensible, open-source, cross-platform version of the popular Entity Framework data access technology.

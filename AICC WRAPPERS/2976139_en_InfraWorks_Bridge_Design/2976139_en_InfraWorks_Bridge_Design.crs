@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynda Sharkey
+Course_ID=2976139
+Course_System=linkedin.com
+Course_Title=InfraWorks: Bridge Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk InfraWorks boasts an array of powerful tools that can help you craft and visualize preliminary designs in 3D. In this course, instructor Lynda Sharkey shines a spotlight on one key aspect of an infrastructure design project: bridges. Discover how to leverage this design and engineering program to model and design bridges using real-world data and components in the context of a larger project. Discover how to prepare a road for parametric bridge design, modify a bridge in InfraWorks, add bridge decorations, and share a bridge with Revit. Plus, learn about advanced capabilities such as line girder analysis.

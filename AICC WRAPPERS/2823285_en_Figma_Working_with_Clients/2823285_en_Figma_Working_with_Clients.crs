@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2823285
+Course_System=linkedin.com
+Course_Title=Figma: Working with Clients
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore an effective client workflow with Figma, the team-oriented design tool. Learn about the best ways to structure a Figma project for client interaction, how to use Figma to create an experience from static designs, and ways to use Figma to iterate a design project alongside developers and clients. Plus, see how to present Figma designs, experiences, and prototypes.

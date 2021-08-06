@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tim Grey
+Course_ID=123558
+Course_System=linkedin.com
+Course_Title=Learning HDR Efex Pro 2.0
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this workshop Tim Grey teaches how to use Nik Software's HDR Efex Pro 2.0 to create great high-dynamic-range (HDR) images. After showing you the basics of HDR Efex Pro—including configuring the interface and settings, using presets, and evaluating your image—Tim introduces the various adjustment options. Learn how to make overall tonal and color adjustments, use control points to apply selective adjustments, and reset adjustments or go back in the history. Plus, get tips on applying finishing touches to your images and saving the final processed image.

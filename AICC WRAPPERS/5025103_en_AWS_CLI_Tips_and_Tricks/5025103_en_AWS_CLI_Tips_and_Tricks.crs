@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=TechSnips, LLC
+Course_ID=5025103
+Course_System=linkedin.com
+Course_Title=AWS CLI: Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get quick tips for carrying out common tasks in Amazon Web Services (AWS) using PowerShell and the command-line interfaces (CLIs) available from Amazon. This course is a collection of standalone videos created by the subject matter experts at TechSnips—an IT career development platform. Each video covers an important CLI-related task for AWS administrators, including managing CloudWatch and Elastic Beanstalk, working with Lambda and PowerShell, and backing up and restoring Amazon RDS databases. You can also explore how to perform identity and access management, MySQL deployments, and EC2 and S3 management, all through the command line. Start watching to learn how to leverage these powerful scripting tools to reduce your overhead, speed up routine administration, and troubleshoot your AWS systems and services.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2825370
+Course_System=linkedin.com
+Course_Title=Ruby on Rails 6 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get up and running with Ruby on Rails 6? This course shows you how to create full-featured, object-oriented web applications with the latest version of the open-source framework. Instructor Kevin Skoglund covers the essential features of Ruby on Rails 6, along with best practices and real-world development techniques, to create web applications with dynamic, database-driven content. Using a content management system as an example project, Kevin explains how to route incoming requests; render pages with dynamic content; build database-driven, object-oriented models; work with form data; and more. By the end of the course, you should be able to use Ruby on Rails to build robust web applications that are both easy to scale and maintain.

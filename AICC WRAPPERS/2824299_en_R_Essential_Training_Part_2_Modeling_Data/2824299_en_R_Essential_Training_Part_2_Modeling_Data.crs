@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=2824299
+Course_System=linkedin.com
+Course_Title=R Essential Training Part 2: Modeling Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Trying to locate meaning and direction in big data is difficult. R can help you find your way. R is a statistical programming language to analyze and visualize the relationships between large amounts of data. It's one of the most important tools available for data analysis, machine learning, and data science. This training series provides a thorough introduction to R, with detailed instruction for working with R and RStudio and hands-on examples, from exploratory graphics to neural networks. In part two, Modeling Data, instructor Barton Poulson shows how to compute statistics, analyze data, predict outcomes, and group and classify cases. These are the fundamental techniques you need to generate meaningful insights for your organization.

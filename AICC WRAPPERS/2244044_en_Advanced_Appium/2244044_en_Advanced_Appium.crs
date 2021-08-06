@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Lipps
+Course_ID=2244044
+Course_System=linkedin.com
+Course_Title=Advanced Appium
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Appium is the global standard in mobile app test automation. But it can do so much more. You can automate hybrid apps, work with files on devices, and call functions within your app’s code to save time. Take your Appium skills to the next level with this advanced course. Jonathan Lipps, project lead at Appium, shows how to automate web views for hybrid apps, automate real Android and iOS devices, use the Appium File API, simulate phone calls and text messages, and manage app installation and removal from Appium. He also introduces three different techniques for reducing the wait time for app state. This course can help QA professionals, testers, and mobile developers alike make their test automation even faster and more effective.

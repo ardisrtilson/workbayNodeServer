@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2887178
+Course_System=linkedin.com
+Course_Title=Microsoft Power Apps: Using the Dataverse (Formerly the Common Data Service)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Microsoft Dataverse is a customizable universe of table and column definitions developed by Microsoft as part of an open data initiative with Adobe and SAP, aimed at creating a collection of standard business entities. Formerly called the Common Data Service, the Dataverse provides consistency when developing applications, storing data within an organization, managing data transfers between organizations, and makes it easier to develop business applications. In this course, Gini von Courter shows how to use the Dataverse to create data-rich applications for Dynamics, SharePoint, and Office 365. She covers topics like how to set up Dataverse, create data flows between applications, and create basic apps using Power Apps. As Gini shows, using a Dataverse database means you don't need to spend as much time designing a data structure, and instead can focus on building applications and workflows.

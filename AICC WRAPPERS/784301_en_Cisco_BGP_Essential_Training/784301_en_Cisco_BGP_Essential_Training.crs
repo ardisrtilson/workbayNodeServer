@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Bryant
+Course_ID=784301
+Course_System=linkedin.com
+Course_Title=Cisco BGP Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the fundamentals of Border Gateway Protocol (BGP), an essential internet routing protocol that provides loop-free routing. In this course, instructor Chris Bryant breaks down BGP, helping you master each facet of this complex topic. Learn about external BGP peering, iBGP and eBGP peering and loopback interfaces, the multi-exit discriminator (MED), route reflectors, and much more. The topics covered in this course can also help network technicians and engineers prepare for two of the required exams for the Cisco Certified Network Professional (CCNP) Routing and Switching certification: 300-101 ROUTE and 300-135 TSHOOT.

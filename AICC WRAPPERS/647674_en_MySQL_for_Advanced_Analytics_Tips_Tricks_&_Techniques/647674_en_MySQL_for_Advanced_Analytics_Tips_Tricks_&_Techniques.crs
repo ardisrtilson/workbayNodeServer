@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=647674
+Course_System=linkedin.com
+Course_Title=MySQL for Advanced Analytics: Tips, Tricks, & Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MySQL is an excellent database for advanced analytics, but few analysts use it that way because they aren't fully aware of its capabilities in this area. Analysts end up writing code to perform common tasks—which can be time-consuming—rather than using MySQL to do the same work. In this course, learn tips and techniques for using MySQL for advanced data analytics. Kumaran Ponnambalam walks through the different stages of analytics, from data ingestion and transformation to generating statistics. In each stage, Kumaran focuses on letting MySQL do the heavy lifting rather than writing code in Java or Python. Discover how to perform data cleansing through MySQL update commands, find peak usage of any resource, perform centering and scaling of data to prepare for machine learning, and more. Plus, Kumaran shows how you can link MySQL with Microsoft Excel to get the best of both worlds.

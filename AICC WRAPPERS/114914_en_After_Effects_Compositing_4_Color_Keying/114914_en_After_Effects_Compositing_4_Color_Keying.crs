@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Christiansen
+Course_ID=114914
+Course_System=linkedin.com
+Course_Title=After Effects Compositing: 4 Color Keying
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Color keying, also known as chroma keying, lets you shoot a foreground scene and insert it into virtually any background; this can save you money and allow you to create shots that are impossible or highly dangerous to take as a single shot. For it to be effective, the key is in the details. In this course, Mark Christiansen shows how to produce feature-film-quality keys in After Effects that fit well within their new scenes, while retaining the subtle details—be they strands of hair or soft or translucent edges—that make the results believable. Beginning with a brief explanation of the keying process, Mark takes you through the steps involved in creating a perfect green-screen key: generating a rough matte, eliminating color spill and matte lines, and refining problematic edges. He shows how to work with Keylight and Primatte—two indispensable keying tools in After Effects—and explains when to use one over the other. And for times when green screen won't work, he shows how to generate high-contrast mattes, or luma keys, based on the luminance data in your footage. Last, learn about compression and how to prep a shot for keying.

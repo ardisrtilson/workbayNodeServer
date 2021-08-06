@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ugo Lopez
+Course_ID=2839083
+Course_System=linkedin.com
+Course_Title=Microsoft 365 Security Administration (MS-500) Cert Prep: Implement and Manage Information Protection
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud computing is playing an increasingly important role in how both organizations and individuals work. Consequently, it's essential to know how to keep data safe when working with this essential technology. In this course, Microsoft Certified Trainer Ugo Lopez goes over the security capabilities of Microsoft 365—focusing on the area of information protection—as he helps you prepare for the Microsoft 365 Security Administration exam (MS-500). Ugo covers email and document encryption, working with Secure/Multipurpose Internet Mail Extensions (S/MIME), and leveraging Office 365 Message Encryption (OME) features. Plus, he goes over Azure Information Protection (AIP) options, how to implement Windows Information Protection (WIP) in your enterprise, and essential data loss prevention (DLP) and cloud application security concepts. Note: This course is aligned with the objectives in the Implement and Manage Information Protection domain of the Microsoft 365 Security Administration exam (MS-500).

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Glenn Block
+Course_ID=664823
+Course_System=linkedin.com
+Course_Title=API Development in .NET with GraphQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GraphQL—a query language for APIs that was originally built by Facebook—helps developers build queryable APIs that drive data-driven apps. In this course, Glenn Block demonstrates how to use the GraphQL.NET framework to build a fully functional GraphQL endpoint. Glenn takes you through the entire process, explaining how to create a new GraphQL project, enable querying, configure the schema, allow updates through mutations, create subscriptions, and more. After completing this course, you'll have a better understanding of how to leverage your existing .NET skills—and the GraphQL.NET framework—to build efficient, modern apps.

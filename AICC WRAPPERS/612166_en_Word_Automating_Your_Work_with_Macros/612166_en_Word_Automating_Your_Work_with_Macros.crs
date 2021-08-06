@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=612166
+Course_System=linkedin.com
+Course_Title=Word: Automating Your Work with Macros
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to cut time spent on repetitive and complex tasks in Microsoft Word. With macros, you can record a sequence of steps and perform them with the click of a button. Macros are driven by Visual Basic, but you don't need to be a programmer to create them. Instructor Gini von Courter begins this course by showing you the easiest way to set up a basic macro in Word. She explains the basics of macro security, and shows how to view the macro code in the Visual Basic Editor. Next, Gini shows how to build more complex macros by incorporating Word building blocks. Then learn how to export and import macro modules. Finally, Gini demonstrates how to manage your macros and add them to your Word toolbar or ribbon.

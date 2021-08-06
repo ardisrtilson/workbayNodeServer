@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2812141
+Course_System=linkedin.com
+Course_Title=Developing Plug-Ins and Extensions for Adobe XD
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create plugins and extensions using the Adobe XD API to extend the features and functionality of Adobe XD, and how plugins can be used to enhance your prototypes and applications. In this course, learn what the Adobe XD API offers and how plugins and extensions can amplify the functionality of Adobe XD. Then walk through the steps of creating your first plugin using JavaScript, HTML, and CSS code.

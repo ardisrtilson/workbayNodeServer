@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joseph Labrecque
+Course_ID=2887139
+Course_System=linkedin.com
+Course_Title=Designing Interactive Infographics with Adobe Animate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Adobe Animate to design a fully interactive, animated infographic for use on the native web. This course explores document and layer management, instantiation of infographic assets, and the creation of additional vector shape data and text to create a full infographic layout. Following this, instructor Joseph Labrecque shows how to add motion to various portions of internal symbol timelines to augment user interactions like hovers, clicks, detail reveals, and more. Finally, he reviews how to add interactive elements to the infographic—tying together the layout, internal motion, and info detail reveals into a smooth package to be published for use on the native web.

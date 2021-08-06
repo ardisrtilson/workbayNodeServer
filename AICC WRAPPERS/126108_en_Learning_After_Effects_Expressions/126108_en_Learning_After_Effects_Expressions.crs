@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Angie Taylor
+Course_ID=126108
+Course_System=linkedin.com
+Course_Title=Learning After Effects Expressions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Even if you're not comfortable with scripting or coding, you may still want to take a look at expressions. They are like little scripts that trigger changes to layer properties, and they can save you time, make your work more flexible, and open up new creative possibilities. In this course, motion graphic designer Angie Taylor shows you how to make Adobe After Effects expressions work for you, starting with building expressions with the pick whip. Then she introduces JavaScript-based math expressions, which allow you to adjust timing and movement, and her favorite no brainer expressions, such as property linking and connecting camera focus to layers. Plus, discover how to react to sound, play with color, format text, and link 2D and 3D properties.

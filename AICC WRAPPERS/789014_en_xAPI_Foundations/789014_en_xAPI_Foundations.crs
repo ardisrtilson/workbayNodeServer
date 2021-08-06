@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anthony Altieri
+Course_ID=789014
+Course_System=linkedin.com
+Course_Title=xAPI Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Online training makes learning accessible to everyone. But how do you know that students are engaged and the instruction is effective? Experience API (xAPI) is a tool for gaining insight into how learners are using, navigating, consuming, and completing learning activities. In this course, Anthony Altieri provides an in-depth look at using xAPI for learning projects, including practical examples that show xAPI in action. Anthony breaks down the anatomy of an xAPI statement, including elements and extensions. He shows how to set up a learning record store (LRS), craft and submit xAPI statements, and monitor activity on quizzes and even web video. In chapter four, he shows how to generate reports from the LRS, examine trends, and use xAPI to build dynamic webpages for adaptive learning. By the end of the course, you will understand how to use xAPI to effectively measure learning activity and impact and improve your overall training.

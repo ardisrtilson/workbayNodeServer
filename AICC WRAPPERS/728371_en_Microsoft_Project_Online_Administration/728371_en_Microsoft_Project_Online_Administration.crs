@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Riopel
+Course_ID=728371
+Course_System=linkedin.com
+Course_Title=Microsoft Project Online: Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to administer Microsoft Project Online and help your organization more effectively manage projects. Follow along with project management expert John Riopel, PMP, as he walks through the many features and settings that can be customized in Microsoft Project Online. John shows how to manage licenses and subscriptions, adjust your organization's security settings, and create custom fields, templates, and workflows to address your team's unique needs. He also shows how to customize the end user interface and adjust time and task settings. Plus, learn how to work directly with the Project database, from managing enterprise objects to understanding the queue process.

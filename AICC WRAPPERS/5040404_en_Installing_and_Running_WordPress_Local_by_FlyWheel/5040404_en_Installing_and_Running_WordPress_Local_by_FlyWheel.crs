@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=5040404
+Course_System=linkedin.com
+Course_Title=Installing and Running WordPress: Local by FlyWheel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you’re just learning to use WordPress or busy developing new WordPress websites and themes, having a local version is essential. Installing WordPress on your computer gives you full control for experimentation, development, and testing. You see the changes you make immediately—no need to upload and download files. Local by FlyWheel is a free application that makes it easy to get a local WordPress environment up and running fast. In this course, instructor Morten Rand-Hendriksen helps you install and run WordPress locally on both Windows and Mac using Local. He then shows how to take advantage of all its benefits, including Live Link, local file access, cloning, and Blueprints, a special Local feature that makes launching your next WordPress site even easier.

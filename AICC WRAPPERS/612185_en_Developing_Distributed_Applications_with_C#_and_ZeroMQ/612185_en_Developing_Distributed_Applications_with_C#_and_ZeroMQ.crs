@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul Blasucci
+Course_ID=612185
+Course_System=linkedin.com
+Course_Title=Developing Distributed Applications with C# and ZeroMQ
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Distributed applications run on multiple computers on the same network at once—which means they often have to run on multiple operating systems and integrate with the cloud. But you don't need a lot of middleware or advanced configuration to build them. Today, it's possible to build robust software with lightweight tools. Enter ZeroMQ, a flexible, open-source messaging stack. ZeroMQ can be run on Windows, OS X, and Linux, and can be implemented with C, C++, C#, Java, Python, and more. Learn how to use ZeroMQ to simplify development of distributed .NET applications. Follow along with this project-focused course, as instructor Paul Blasucci shows how to build a simple group messaging app—with one-way and two-way communication channels and direct messaging—using ZeroMQ and C#.

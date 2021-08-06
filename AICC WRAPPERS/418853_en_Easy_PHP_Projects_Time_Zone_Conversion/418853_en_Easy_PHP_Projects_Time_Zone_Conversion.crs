@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=418853
+Course_System=linkedin.com
+Course_Title=Easy PHP Projects: Time Zone Conversion
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Follow along with Easy PHP Projects to practice your PHP skills while solving real-world programming challenges. This project focuses on converting dates and times between time zones using PHP's built-in functions. Kevin Skoglund explains the history and purpose of time zones, along with quirks like daylight saving time, and then shows how to design location-sensitive webpages and to build a PHP-driven time zone calculator. Each tutorial offers practical PHP techniques suitable for any developer, including PHP beginners.

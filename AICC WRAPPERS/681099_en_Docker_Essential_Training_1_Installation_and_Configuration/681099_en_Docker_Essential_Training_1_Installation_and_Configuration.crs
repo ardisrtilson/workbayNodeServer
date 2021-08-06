@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Davis
+Course_ID=681099
+Course_System=linkedin.com
+Course_Title=Docker Essential Training: 1 Installation and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Docker is the world's most popular container storage solution. This course covers everything you need to know to install and configure Docker on Mac, Windows, and Linux, as well as cloud-based environments such as Amazon Web Services. It also helps Docker Certified Associate (DCA) candidates prepare for the certification exam. In this course, virtualization expert David Davis shows how to install Docker, set up a repository, configure logging, manage users, understand namespaces, and protect your data. He also covers features that ship with Docker Enterprise, including the Universal Control Plane and Trusted Registry. Plus, get important tips you'll need to prepare for the Docker Certified Associate (DCA) exam.

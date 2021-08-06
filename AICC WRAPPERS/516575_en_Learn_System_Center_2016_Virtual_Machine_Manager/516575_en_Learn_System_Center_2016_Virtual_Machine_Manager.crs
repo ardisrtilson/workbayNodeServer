@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=516575
+Course_System=linkedin.com
+Course_Title=Learn System Center 2016: Virtual Machine Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtual Machine Manager (VMM) in Microsoft System Center 2016 allows system admins to deploy and control hosts and storage within a virtualized datacenter. In this course, learn how to create and manage virtual machines using VMM. Robert McMillen provides an overview of VMM, covering its history, features, and fabric, as well as how to install VMM. He explains how to work with VMM host groups, configure virtual networking and load balancing, add clustered storage, work with the VMM library, and deploy private clouds.

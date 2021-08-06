@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Caleb Smith
+Course_ID=498718
+Course_System=linkedin.com
+Course_Title=Code Clinic: Clojure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Successful programmers know more than how to code. They also know how to think about solving problems. Code Clinic is a series where our authors solve the same problems using different languages. Here Caleb Smith works with Clojure, a Lisp-based programming language. Caleb introduces a series of challenges and then provides overviews of his solutions in Clojure. Challenges include performing statistical analysis, searching directories for images, and accessing peripheral devices. When you're done, visit other courses in the series to see how to solve the same challenges in languages like C++, C#, JavaScript, PHP, Python, R, Ruby, Go, and Swift. By comparing and contrasting the results, you can better understand the architecture of each language and its strengths and weaknesses.

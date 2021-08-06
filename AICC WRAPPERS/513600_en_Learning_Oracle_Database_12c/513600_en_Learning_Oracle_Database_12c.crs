@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bob Bryla
+Course_ID=513600
+Course_System=linkedin.com
+Course_Title=Learning Oracle Database 12c
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Oracle expert and author Bob Bryla goes beyond the fundamentals of administering an Oracle database, and dives deep into the skills an Oracle power user needs to know. Bob reviews the database architecture and shows how a database administrator (DBA) can more effectively manage and configure an Oracle database. At the same time, he explains the database's features that enable a business intelligence (BI) developer to effectively write applications using Oracle Database 12c.

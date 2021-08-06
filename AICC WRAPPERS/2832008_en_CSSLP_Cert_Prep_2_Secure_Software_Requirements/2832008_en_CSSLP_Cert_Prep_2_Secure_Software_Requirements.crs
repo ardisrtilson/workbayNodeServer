@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2832008
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 2 Secure Software Requirements 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Specific, achievable security requirements are critical ingredients in the creation of any application. In this course, the second installment in the CSSLP Cert Prep series, instructor Jerod Brennen dives into the subject of security requirements to prepare you for the second domain of the Certified Secure Software Lifecycle Professional (CSSLP) exam: Secure Software Requirements. Jerod discusses how to properly define what an app must be and do in order to remain secure. He covers how to approach security, privacy, and data classification requirements for applications. Plus, he goes over how to validate your requirements, including how to use a security requirement traceability matrix (SRTM) to determine how well an app adheres to your security requirements.

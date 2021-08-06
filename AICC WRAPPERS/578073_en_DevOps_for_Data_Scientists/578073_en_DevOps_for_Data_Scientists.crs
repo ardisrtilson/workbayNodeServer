@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=578073
+Course_System=linkedin.com
+Course_Title=DevOps for Data Scientists
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data scientists create data models that need to run in production environments. Many DevOps practices are relevant to production-oriented data science applications, but these practices are often overlooked in data science training. In addition, data science and machine learning have distinct requirements, such as the need to revise models while in use. This course was designed for data scientists who need to support their models in production, as well as for DevOps professionals who are tasked with supporting data science and machine learning applications. Learn about key data science development practices, including the testing and validation of data science models. This course also covers how to use the Predictive Model Markup Language (PMML), monitor models in production, work with Docker containers, and more.

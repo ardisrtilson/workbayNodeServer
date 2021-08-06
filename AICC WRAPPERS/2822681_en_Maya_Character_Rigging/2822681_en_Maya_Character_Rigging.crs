@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2822681
+Course_System=linkedin.com
+Course_Title=Maya: Character Rigging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rigging is a crucial step in character development and animation. A rig is the interface for your character, dictating how the character moves. Learn how to rig a character from scratch in Maya by following along with instructor George Maestri. George introduces the rules of rigging—good geometry, organization, and controls—and shows how to create joints, constraints, and connections. He then dives into a real-world project, taking a model and building out the skeleton and the leg, foot, body, and hand controls required for effective animation. He also devotes a chapter to FK/IK switching for finer control over arm movement. Finally, learn how to attach a character mesh to your skeleton with the skinning tools in Maya—and take your skills up a notch with a time-saving mirroring technique.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Albert Padin
+Course_ID=2831008
+Course_System=linkedin.com
+Course_Title=Google Cloud Platform (GCP) Essential Training for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developing and deploying software in the cloud is the new normal for the tech industry and Google Cloud Platform (GCP) is one of the major cloud providers. Google provides a multitude of cloud computing services that can make developing much easier. In this course, discover how to design, build, and maintain applications in GCP. Learn best practices for deploying and configuring optimized, secure, and scalable settings in App Engine and for setting up Cloud SQL application architecture. See how to manage distributed queues in Cloud Tasks, a managed service for executing background tasks and processes. And finally, explore Cloud Logging and other GCP tools you can use to optimize your application when it goes live.

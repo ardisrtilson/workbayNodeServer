@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=3129479
+Course_System=linkedin.com
+Course_Title=Microsoft 365 Security Administration (MS-500) Cert Prep: 4 Manage Governance and Compliance Features in Microsoft 365
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cybersecurity skills are in high demand, and the Microsoft 365 Security Administration (MS-500) exam is the perfect opportunity for IT professionals to demonstrate their skills to current and future employers. In this course, instructor and Microsoft MVP Pete Zerger gives you the tools to prep for the Manage Governance and Compliance Features in Microsoft 365 domain of the MS-500 exam. Pete covers important topics like configuring and analyzing security reporting, managing audit logs and reports, and data privacy and regulation compliance. By the end of the course, you will be better positioned on the path to earning your Microsoft 365 Security Administrator Associate certification.

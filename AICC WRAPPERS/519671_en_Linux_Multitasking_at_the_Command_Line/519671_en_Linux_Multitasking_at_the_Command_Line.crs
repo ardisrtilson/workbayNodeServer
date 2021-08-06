@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=519671
+Course_System=linkedin.com
+Course_Title=Linux: Multitasking at the Command Line
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you're working at the Linux command line, you don't have to give up the multitasking flexibility you're accustomed to in a graphical user interface. Have a long-running copy operation preventing you from editing a configuration file? Send it to the background and reclaim your time! In this short course, author Scott Simpson shows you how to switch tasks to the background and bring them back to the foreground. He also demonstrates screen and tmux, two very popular utilities for creating working environments that persist between connections.

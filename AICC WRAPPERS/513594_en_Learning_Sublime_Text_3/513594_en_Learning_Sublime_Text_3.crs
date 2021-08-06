@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Yank
+Course_ID=513594
+Course_System=linkedin.com
+Course_Title=Learning Sublime Text 3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sublime Text 3 is an innovative text and code editor for OS X and Windows with a thriving ecosystem of add-on packages. But some of its best features are difficult to discover. Instructor Kevin Yank takes students through the basic, not-so-basic, and downright hidden features of the editor, demonstrating how to use each tool and command to become more productive. Find out how to find and replace sections of code, bookmark your position, leverage helpful shortcuts, edit multiple lines of code simultaneously, and automate some of your work with autocompletion, snippets, and macros. Plus, learn how to tweak the appearance and configuration to make Sublime Text work best for you.

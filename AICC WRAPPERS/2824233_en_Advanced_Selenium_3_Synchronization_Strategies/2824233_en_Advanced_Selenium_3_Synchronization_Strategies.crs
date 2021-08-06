@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Richardson
+Course_ID=2824233
+Course_System=linkedin.com
+Course_Title=Advanced Selenium: 3 Synchronization Strategies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most common issues associated with automating GUI applications is flakiness: when sometimes a test works, but sometimes it fails—even though neither the application nor the test changed. One of the most common causes of intermittent execution is a failure to synchronize effectively. In this course, learn how to avoid flaky tests by effectively synchronizing your test code with the application state using Selenium WebDriver. Instructor Alan Richardson shares fixes to common problems and discusses the range of solutions available to help make WebDriver test automation robust and reliable. Discover how to use built-in WebDriver classes such as WebDriverWait, as well as external libraries like Awaitility. Plus, learn how to use JavascriptExecutor to run JavaScript as part of your WebDriver code; this can help you create workarounds and synchronize against internal application state.

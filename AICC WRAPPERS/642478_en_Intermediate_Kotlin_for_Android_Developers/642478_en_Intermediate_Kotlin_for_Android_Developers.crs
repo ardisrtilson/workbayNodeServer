@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Annyce Davis
+Course_ID=642478
+Course_System=linkedin.com
+Course_Title=Intermediate Kotlin for Android Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kotlin is now officially supported by Google as an Android development language. If you're an intermediate developer interested in learning more about Kotlin, this course can help you get acquainted with this concise, fun language by learning about its efficiencies and power in Android development. The course begins with a general overview of what Kotlin has to offer, and then dives into a discussion of extension functions and properties, including how to leverage the Kotlin Android Extensions plugin. It also explains how to work with Anko, and provides an overview of some of the library's main artifacts: commons, layouts, and coroutines. To wrap up, the course covers how to work with collections.

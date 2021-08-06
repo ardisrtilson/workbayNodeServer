@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2874014
+Course_System=linkedin.com
+Course_Title=CISSP Cert Prep (2021): 3 Security Architecture and Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Certified Information Systems Security Professional (CISSP) is the gold standard in IT security certification. Prepare for domain three of the exam—Security Architecture and Engineering—in this installment of CISSP Cert Prep. Security engineering ensures systems are designed to deal with all sorts of risks and disruptions, from hackers and database meltdowns to electrical outages. In this course, security expert Mike Chapple covers everything you need to know to balance business needs with security risks and design more secure systems. He covers cloud computing, as well as hardware and web security; server vulnerabilities; smart device security; and physical security, such as site design and monitoring. Plus, get a deep dive into cryptography, one of the most powerful tools that IT pros can use to secure data and accounts. Find the companion study books at the Sybex test prep site and review the complete CISSP Body of Knowledge at https://www.isc2.org/cissp-domains/default.aspx. You can also join Mike's free study group at certmike.com.

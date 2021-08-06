@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=677168
+Course_System=linkedin.com
+Course_Title=SketchUp: Modeling Exteriors from Photos
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course takes you step-by-step through how to use SketchUp to create a texture-mapped 3D model of building exteriors using photos. Learn how to leverage photo-matching features to enhance and evolve a model from several vantage points. Scott Onstott demonstrates how to rough in building volumes and roof slopes, handle complex roof scenarios, adjust the model to match perspectives, work with textures, use a library of materials and more.

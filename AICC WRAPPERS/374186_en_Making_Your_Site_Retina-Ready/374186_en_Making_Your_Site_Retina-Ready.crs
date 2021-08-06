@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=374186
+Course_System=linkedin.com
+Course_Title=Making Your Site Retina-Ready
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With stunning new screens like the Apple Retina display coming onto the market, many designers want to learn how to make their sites retina-ready. This course provides several options for optimizing graphics and other content so that it looks great on retina (or HiDPI) and non-retina displays alike. Author Brian Wood covers incorporating icon fonts and favicons, optimizing SVG and inline images, and displaying responsive images using CSS, JavaScript, and the PictureFill polyfill solution.

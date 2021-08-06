@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walter Zesk
+Course_ID=797729
+Course_System=linkedin.com
+Course_Title=Grasshopper: Generative Design for Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Generative design is a set of technologies that give you a computerized copilot for your design process, helping you engage the power of computation and algorithms to create designs. In this course, learn how to use the Grasshopper visual programming plugin with Rhino to create designs that would have been impossible in the past. Instructor Walter Zesk explains how to use physics solvers and evolutionary solvers to set goals and constraints for your designs, as well as how to use computation to meet those goals and work within your constraints. Plus, he covers how to use LunchBoxML to apply machine learning to your projects and unleash the full power of artificial intelligence to create designs.

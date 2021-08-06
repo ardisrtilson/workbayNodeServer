@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5016735
+Course_System=linkedin.com
+Course_Title=UXPin: Developer Workflow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to use UXPin for a developer workflow. Learn how to design and iterate through ideas for apps and interactions. In this course, Emmanuel Henri introduces the UXPin tools specifically for developers and shows how to leverage them in a day-to-day workflow. You can learn how to import assets from other design tools; build and finalize screens; create design systems that other designers and developers can leverage; and create documentation and design specs for implementation. Plus, learn how to create iterations that incorporate changes from the review process.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2881078
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 6 Elements and Selectors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Used correctly, Appium and Selenium can be a powerful force for testing web and mobile apps. This course is part of a series from HeadSpin University that walks you through fundamental concepts of software testing, programming, and ultimately UI automation with Appium and Selenium. This course explains how to work with elements and selectors. It begins with how you can start a session and find the web elements that you want to interact with. The course shows you how you can use the browser’s developer tools to determine element selectors and offers useful advice on waiting for and interacting with web elements. Not every interaction you would want to automate involves an element, though. The course concludes with a discussion of some non-element interactions. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

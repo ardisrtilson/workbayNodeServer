@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jordan Bakerman
+Course_ID=693104
+Course_System=linkedin.com
+Course_Title=SAS Programming for R Users, Part 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAS Programming for R Users explores how you can apply your understanding of R—the language of big data—in the SAS environment. In this course, Jordan Bakerman walks through essential SAS programming concepts. To begin, he discusses random number generation and plotting, including how to create standard R plots and enhance the plot. He then dives into a discussion of descriptive procedures, Output Delivery System (ODS), and macros, sharing how to create data tables with ODS, create macro programs with macro statements, and more. To get the most from this course, make sure to watch SAS Programming for R Users, Part 1. Note: You can visit the SAS site to obtain a copy of the software, and use the company's online data sets to do the course exercises.

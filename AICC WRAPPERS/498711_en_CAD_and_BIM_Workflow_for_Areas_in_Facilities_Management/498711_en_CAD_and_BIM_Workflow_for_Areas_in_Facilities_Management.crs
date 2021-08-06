@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=498711
+Course_System=linkedin.com
+Course_Title=CAD and BIM: Workflow for Areas in Facilities Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Revit offers a workflow that’s uniquely suited to facilities management, particularly room and area design. Creating an area plan can help you understand the available square footage and the relationships between spaces in your building. Designers can break down areas in different ways, for example, isolating the areas used by a particular team. In this course, you can learn how to create area plans and schedules from CAD models using Revit. Discover how to create the basic plan, tag areas, and work with gross and rentable areas. Instructor Shaun Bryant also shows how to generate legends to display areas on documentation and create area schedules.

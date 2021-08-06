@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=2814133
+Course_System=linkedin.com
+Course_Title=PLC Ladder Logic Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programmable logic controllers (PLCs) are essential to the industrial automation industry—and ladder logic is one of the most popular languages for programming major PLC devices, including Allen Bradley, Siemens, and OMRON. This course introduces you to the essentials of PLC programming with ladder logic. Learn how to convert data for input and output, perform calculations with math instructions, compare and test data with comparison instructions, and transfer data with MOV instructions. Instructor Zahraa Khalil also provides an introduction to sequence logic, which allows you to apply order, conditions, and repetition to your processes, and state diagrams. Each chapter is full of step-by-step solutions and examples in popular simulation software like LogixPro.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=806169
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Network Bonding, IPv6, Routing, and Virtual Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Study to pass the Red Hat Certified Engineer (RHCE) exam—the benchmark certification for Red Hat Enterprise Linux. This installment of Grant McWilliam's comprehensive series teaches the fundamentals of building Linux Kernel Virtual Machine (KVM) virtual systems in Red Hat Enterprise Linux 7. Learn how to create private networks and storage pools for the virtual machines and install Enterprise Linux using a DVD and a network repository. Plus, explore more advanced networking techniques, including IPv6 addressing, network interface teaming and bonding, and static routing.

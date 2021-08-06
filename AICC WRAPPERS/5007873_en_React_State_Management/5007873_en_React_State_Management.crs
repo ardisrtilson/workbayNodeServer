@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sravanti Tekumalla
+Course_ID=5007873
+Course_System=linkedin.com
+Course_Title=React: State Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Choosing the right state management solution can be tricky. Developers need to evaluate a variety of options—each with their own trade-offs—and select the right approach for their needs. In this course, instructor Sravanti Tekumalla helps you navigate this process, exploring the guiding principles behind state management for React applications. Sravanti digs into various state management solutions, as well as common issues you may encounter as your React application grows more complex. Throughout the course, she lends these concepts a real-world context by showing how to modify a simple book application. She also covers how to integrate React with state management systems like Redux and explores alternatives to Redux, such as MobX, and why they might be appealing.

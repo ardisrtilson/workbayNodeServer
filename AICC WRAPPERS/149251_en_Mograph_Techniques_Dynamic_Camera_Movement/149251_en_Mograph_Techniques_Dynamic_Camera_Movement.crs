@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=149251
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Dynamic Camera Movement
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take a round-trip tour through the cameras in After Effects, CINEMA 4D, and C4D Lite. Ian Robinson shows you how to gain control over the different types of cameras in these three powerhouse motion graphics programs, and generate even more dynamic, interesting effects. First, he shows how to create and animate a simple camera rig in After Effects, and then jumps to C4D Lite to introduce 3D elements into the animation. Next, Ian uses CINEMA 4D's more robust toolset to further refine the camera positioning and movement. The last chapter takes you back to where it all began in After Effects, where you tie all the comps and graphics together, add transitions, and render the final project.

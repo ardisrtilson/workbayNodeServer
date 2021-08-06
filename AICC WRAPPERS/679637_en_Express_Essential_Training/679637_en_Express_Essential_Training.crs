@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=679637
+Course_System=linkedin.com
+Course_Title=Express Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Express is a flexible, minimalist framework that sits on top of Node.js and allows you to build powerful websites and web applications. In this course, learn how to get started with this popular framework. Instructor Emmanuel Henri explains how to set up Express and build an application with the Express application generator. He also covers essential routing concepts, explores how to work with middleware, and dives into a few advanced topics, including how to debug an Express application and use Express behind a proxy.

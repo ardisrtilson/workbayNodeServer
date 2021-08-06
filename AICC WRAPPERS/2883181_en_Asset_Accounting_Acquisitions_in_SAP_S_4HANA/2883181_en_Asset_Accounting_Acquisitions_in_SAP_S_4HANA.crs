@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2883181
+Course_System=linkedin.com
+Course_Title=Asset Accounting: Acquisitions in SAP S/4HANA
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to perform large-scale asset accounting—with an emphasis on asset acquisition—in SAP S/4HANA using the SAP Fiori apps. In this Michael Management course, you can learn how to use the Fiori apps to manage asset master data, perform asset acquisitions, and run related reports. The lessons are conducted in the S/4HANA on-premises 1809 system, but most apply to other versions of S/4HANA as well. Learn about the structure of asset accounting, how to create fixed asset master records, how to post acquisition values to assets, and more. Follow along with the step-by-step demos to see first-hand how to manage different types of assets and common acquisition operations in SAP, including post capitalization and data corrections. This course was created by Michael Management. We are pleased to host this training in our library.

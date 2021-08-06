@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Kittleson
+Course_ID=704112
+Course_System=linkedin.com
+Course_Title=Maya: Retopology for Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Retopology is a fun combination of artistry and technique. Characters that are sculpted in programs like ZBrush or Mudbox are usually too dense to animate correctly. Retopology takes an existing sculpted model or 3D scan and optimizes the mesh for efficient geometry and more natural animation. Instructor Ryan Kittleson shows how to import the original model, plan the refined edge flow, and create new geometry, and modify the polygon mesh. By the end of the course, you should be able to apply the same theory to prepare any character for rigging and animation.

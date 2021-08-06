@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brett McLaughlin
+Course_ID=2974333
+Course_System=linkedin.com
+Course_Title=Managing User Profiles with DynamoDB in Serverless Web Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in learning how to create and develop with NoSQL databases? Tune into this course to learn how to set up a NoSQL database using DynamoDB, the popular managed NoSQL database service, as well as create Lambda functions that allow you to insert data into and retrieve data about users from DynamoDB. Instructor Brett McLaughlin begins by delving into what DynamoDB offers, as well as the meaning behind several essential database acronyms. He then shows how to create a new DynamoDB database, build and test a Lambda function, set up a new web form that lets you create users through your Lambda and an API gateway, and retrieve user data from DynamoDB.

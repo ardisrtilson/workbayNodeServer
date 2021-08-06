@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Derek Jedamski
+Course_ID=806167
+Course_System=linkedin.com
+Course_Title=Applied Machine Learning: Algorithms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the first installment of the Applied Machine Learning series, instructor Derek Jedamski covered foundational concepts, providing you with a general recipe to follow to attack any machine learning problem in a pragmatic, thorough manner. In this course—the second and final installment in the series—Derek builds on top of that architecture by exploring a variety of algorithms, from logistic regression to gradient boosting, and showing how to set a structure that guides you through picking the best one for the problem at hand. Each algorithm has its pros and cons, making each one the preferred choice for certain types of problems. Understanding what actually drives each algorithm, as well as their benefits and drawbacks, can give you a significant competitive advantage as a data scientist.

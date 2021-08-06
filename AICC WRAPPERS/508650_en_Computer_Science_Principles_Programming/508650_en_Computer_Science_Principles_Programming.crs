@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Winnie
+Course_ID=508650
+Course_System=linkedin.com
+Course_Title=Computer Science Principles: Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Programming is what allows us to make computers, devices, and the Internet perform amazing tasks, entertain us, and simplify our lives. While programming seems complicated, every programming challenge can be broken down into sections of code that you can define, control, and even reuse. You can learn the basic concepts of coding without needing to know a specific programming language. Join Doug Winnie as he explains the principles of programming and helps you connect to core concepts by exploring three ways that programmers perform their jobs. Doug starts by sharing the history of coding and then dives into functions, values, variables, and parameters used to define actions. He covers capturing input from users, creating conditional tests, using loops with arrays, and object-oriented programming basics. He also takes you beyond programming, into processes like debugging, refactoring, and building iteratively.

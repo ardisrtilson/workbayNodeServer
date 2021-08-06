@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aater Suleman
+Course_ID=585264
+Course_System=linkedin.com
+Course_Title=Learning AWS CloudFormation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CloudFormation automates provisioning of networking, security, and other Amazon Web Services. CloudFormation is an integral part of automated infrastructure delivery with AWS, and a must-have for DevOps who want to speed up IT deployments. This course provides the knowledge necessary to start working with this important tool. Explore the anatomy of CloudFormation and the structure of templates, and then find out how to create your own templates to deploy resources such as S3 buckets and EC2 web servers. Instructor Aater Suleman also explores advanced scenarios, such as using parameters and mapping in templates, supporting a continuous integration/continuous delivery pipeline, and conditionally including resources, and provides tips for using CloudFormation in teams.

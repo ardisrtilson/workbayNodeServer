@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=2884139
+Course_System=linkedin.com
+Course_Title=Semantic HTML and CSS Code Challenges
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To fully realize what you know about topics like HTML and CSS, it sometimes helps to challenge yourself with small projects. That’s what this course does for you. Over the course’s twelve challenges, instructor Jen Kramer walks you through building a full webpage from scratch, using HTML and CSS. The first group of four challenges involves building a portion of the webpage using a Flexbox-based layout. The second group of four challenges focuses on building a horizontal navigation bar with a CSS-powered hamburger button. The final four challenges step through creating a grid-based layout and combining work completed across challenges to create a beautiful, responsive webpage.

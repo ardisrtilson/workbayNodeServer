@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=5022345
+Course_System=linkedin.com
+Course_Title=IT Security Foundations: Core Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Computing and internet security are everyone's business, but it's especially critical for information technology specialists. Learning the core concepts of operating-system and network-level security helps avoid ongoing threats and eliminate system vulnerabilities. These topics are also key components of the Microsoft Technology Associate (MTA) Security Fundamentals exam (98-367). This beginner-level, Windows-based course covers core security concepts and introduces risks such as social engineering, malware, and spyware as it prepares you for exam 98-367. IT Security Foundations series creator Lisa Bock also goes over some basic wireless security best practices, tips for beefing up browser security, and techniques for implementing encryption.

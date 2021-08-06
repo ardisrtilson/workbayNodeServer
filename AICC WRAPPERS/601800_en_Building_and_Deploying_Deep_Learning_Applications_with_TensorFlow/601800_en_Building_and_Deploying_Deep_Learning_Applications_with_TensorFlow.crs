@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Geitgey
+Course_ID=601800
+Course_System=linkedin.com
+Course_Title=Building and Deploying Deep Learning Applications with TensorFlow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+TensorFlow is one of the most popular deep learning frameworks available. It's used for everything from cutting-edge machine learning research to building new features for the hottest start-ups in Silicon Valley. In this course, learn how to install TensorFlow and use it to build a simple deep learning model. After he shows how to get TensorFlow up and running, instructor Adam Geitgey demonstrates how to create and train a machine learning model, as well as how to leverage visualization tools to analyze and improve your model. Finally, he explains how to deploy models locally or in the cloud. When you wrap up this course, you'll be ready to start building and deploying your own models with TensorFlow.

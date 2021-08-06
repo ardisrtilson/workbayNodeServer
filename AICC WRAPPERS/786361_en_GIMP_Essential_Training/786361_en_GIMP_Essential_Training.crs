@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Rankin
+Course_ID=786361
+Course_System=linkedin.com
+Course_Title=GIMP Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GIMP is a popular open-source image editor for Mac, Windows, and Linux that has evolved to become a credible option for image editing. In this course, Mike Rankin shows how to use GIMP 2.10 to work with images. After he tours the GIMP interface and familiarizes you with the program's preferences and tools, he takes you through working with selections, layers, layer masks, and paths. He also explains how to adjust canvas and print size, use brushes to edit masks, work with color, retouch photos, work with filters and text, print GIMP documents, and export images for web and print.

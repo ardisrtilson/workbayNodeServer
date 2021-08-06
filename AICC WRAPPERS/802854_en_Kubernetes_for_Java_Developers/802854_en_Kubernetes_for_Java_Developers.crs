@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Arun Gupta
+Course_ID=802854
+Course_System=linkedin.com
+Course_Title=Kubernetes for Java Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kubernetes is one of the most popular container orchestration engines available. More and more employers are looking for developers with Kubernetes experience. As a Java developer, learning Kubernetes deployment techniques is an easy way to extend your existing skills and employability. This course provides a step-by-step guide to help you deploy existing applications with Kubernetes and Amazon Web Services. Learn how to package your applications, create Kubernetes manifests, and deploy them to Kubernetes clusters, both locally and in the Amazon cloud. Instructor Arun Gupta, a professional Java programmer for over two decades, also shows how to configure an Istio service mesh for routing, load balancing, logging, and security and create deployment pipelines that allow you to shift your focus back to building applications.

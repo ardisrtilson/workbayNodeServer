@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=806161
+Course_System=linkedin.com
+Course_Title=Learning Azure Kubernetes Service (AKS)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kubernetes is quickly becoming the standard for containerized infrastructure. In this course, learn how to use this popular open-source container orchestration engine with Microsoft Azure by leveraging Azure Kubernetes Service (AKS). Instructor Robert Starmer reviews the top options for getting AKS deployed, focusing on deploying the Managed Master model provided by AKS via the 'az' command line client, including integration with the Azure Container registry for more efficient application deployments. He then discusses how to scale AKS workers, create storage classes, and manage AKS deployments, including how to enable aggregate statistics using Azure Monitor.

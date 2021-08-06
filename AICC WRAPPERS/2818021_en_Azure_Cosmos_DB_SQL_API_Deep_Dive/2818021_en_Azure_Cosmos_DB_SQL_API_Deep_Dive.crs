@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sidney Andrews
+Course_ID=2818021
+Course_System=linkedin.com
+Course_Title=Azure Cosmos DB: SQL API Deep Dive
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The SQL API is considered the core API for Azure Cosmos DB. It allows developers to query and manage the data they have stored in Cosmos using a familiar programming language. Explore the SQL API more deeply in this course with Microsoft Certified Trainer and Azure MVP Sidney Andrews. Sidney explores the data model and software development kits in SQL API, and then dives straight into writing code to perform common operations in Cosmos DB, such as managing and querying documents. Then he investigates the server side of SQL API, exploring its JavaScript integration and features such as stored procedures. Finally, explore the advanced features of SQL API, such as GeoJSON support for geospatial data and the optimistic concurrency control for resolving server-side conflicts.

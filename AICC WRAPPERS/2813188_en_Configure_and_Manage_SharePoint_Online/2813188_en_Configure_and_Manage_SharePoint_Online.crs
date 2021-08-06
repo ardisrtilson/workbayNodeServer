@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=2813188
+Course_System=linkedin.com
+Course_Title=Configure and Manage SharePoint Online
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft SharePoint Online is a significant component of Microsoft 365 teamwork solutions. In this course, Ed Liberman shows how to configure and manage SharePoint Online, including how to plan and configure site collections and apps. Ed also demonstrates how to customize sites within SharePoint using apps, manage user profiles, create relevant search results for users, and monitor and maintain the SharePoint Online service.

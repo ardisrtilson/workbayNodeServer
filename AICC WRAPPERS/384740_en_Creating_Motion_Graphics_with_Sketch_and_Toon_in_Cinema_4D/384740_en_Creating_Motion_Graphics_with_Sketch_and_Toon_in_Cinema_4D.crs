@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=EJ Hassenfratz
+Course_ID=384740
+Course_System=linkedin.com
+Course_Title=Creating Motion Graphics with Sketch and Toon in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Not everything you create in CINEMA 4D has to be photorealistic. Sometimes you want a line art look. Sketch and Toon is the C4D module that allows you to apply flat shading to 3D artwork and create 2D-style, cel-shaded motion graphics with a click of a button. These tutorials introduce Sketch and Toon to 3D mograph artists who want to emulate this 2D style. EJ Hassenfratz follows a real-world workflow, from applying a 2D look to 3D objects, to animating the objects and strokes, to completing a final render. Along the way, he'll dive deeper into line types, the Cel Shader, and Sketch Style tags—features that help mograph artists achieve just the results they want from this fun and creative module.

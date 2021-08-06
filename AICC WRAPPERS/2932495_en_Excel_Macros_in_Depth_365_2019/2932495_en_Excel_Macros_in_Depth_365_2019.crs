@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=2932495
+Course_System=linkedin.com
+Course_Title=Excel: Macros in Depth (365/2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about how to use macros to automate tasks in Excel and see how to create simple macros of your own. Veteran Excel trainer Dennis Taylor shows how to record a macro in stages, share macros between workbooks, set up keyboard shortcuts to run macros quickly, and use Visual Basic for Applications (VBA) to code macros that can't be recorded. The course wraps up with a macro project that brings together each of the elements in a real-world scenario: converting a mailing list into a database-friendly format.

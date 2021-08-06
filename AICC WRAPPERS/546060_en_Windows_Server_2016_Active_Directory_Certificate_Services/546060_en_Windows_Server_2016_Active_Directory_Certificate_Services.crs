@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=546060
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Active Directory Certificate Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Don't go to third-party certificate authorities. Active Directory Certificate Services (AD CS) allows organizations to build their own public key infrastructures (PKI) to provide certificate-based authentication, digital signatures, email encryption, and more. With AD CS, you can leverage your existing Active Directory and Group Policy settings, and set up certificates more efficiently and nimbly. Join Scott Burrell in this course, which covers planning, installing, and troubleshooting AD CS in Windows Server 2016. Learn how to create a hierarchy of certificate authorities; issue, manage, and revoke certificates; automate certificate generation and renewal; and improve login security by using certificates in combination with smart cards. These topics map to the Certificate Services domain of the Microsoft exam 70-742, so you'll also be able to use this course to prepare for MCSA certification.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=5028618
+Course_System=linkedin.com
+Course_Title=Microsoft Dynamics 365 and the Power Platform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Flow, Power BI, and PowerApps make up the Power Platform, and are designed to integrate with the cloud-based functions of Dynamics 365. In this course, learn how to leverage the power of Dynamics 365 as a cloud-based enterprise resource planning (ERP) solution, along with the business automation and data analysis capabilities of the Power Platform. Instructor Gini von Courter covers how to build complete business solutions that use data to make business decisions. Discover how to create apps using PowerApps and the Common Data Service, automate tasks with Microsoft Flow, and visualize data with Power BI—all from Dynamics 365.

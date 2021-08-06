@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=2841391
+Course_System=linkedin.com
+Course_Title=C Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C is as essential as ever. This powerful language lies at the heart of JavaScript and Objective-C and is a popular language for developing embedded systems. This course teaches the fundamentals of programming in C, covering four introductory aspects: code structure, data, program flow, and functions. Instructor Dan Gookin dissects the anatomy of C, shows how data is stored in variables and values, and demonstrates how to use operators to perform math, modify variable values, evaluate expressions, and more. Then you can see how these basic elements fit together in control structures like loops—where the real logic comes into play. Finally, you can learn to use and write functions, the workhorse of the C language, which help accomplish basic and complex tasks in the code, eliminate repetition, and make code more readable. Make sure to take the challenges issued throughout the course to test your new programming skills and compare your solutions with the instructor's.

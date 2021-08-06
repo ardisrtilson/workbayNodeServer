@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2815105
+Course_System=linkedin.com
+Course_Title=Unreal: AR Visualization 02 Basic Interactivity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore Unreal Engine and get an overview of augmented reality (AR) basics by walking through a real-world project. In this course, the second in a three-part series, instructor Emmanuel Henri continues the project, adding more advanced functionality and interactivity to the AR game. Learn how to add 3D objects to a scene and use hit testing to track whether a user touches real-world or in-game objects. Plus, learn how to deploy your scene to Android and iOS to share it with the world.

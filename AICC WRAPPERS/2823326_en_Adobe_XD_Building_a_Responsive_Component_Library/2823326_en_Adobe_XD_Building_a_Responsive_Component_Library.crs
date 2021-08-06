@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dani Beaumont
+Course_ID=2823326
+Course_System=linkedin.com
+Course_Title=Adobe XD: Building a Responsive Component Library
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore using Adobe XD to build out a component library that can be easily adapted and updated from project to project. Instructor Dani Beaumont covers efficiently designing for multiple screen resolutions, correcting hierarchy and responsive resize behavior to mimic real-world scenarios, creating and managing states (sprites), and more. Plus, Dani shares a variety of tips and tricks along the way.

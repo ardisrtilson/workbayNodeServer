@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=689776
+Course_System=linkedin.com
+Course_Title=The Data Science of Nonprofit Service Organizations, with Barton Poulson
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use data science to do good. Data science can be a huge help to nonprofits that are struggling to identify donors, understand their communities, evaluate their impact, and be more productive. In this course, instructor, data scientist, and entrepreneur Barton Poulson discusses how some of the common concerns of nonprofit service organizations can be addressed using new sources of data—including social media and web analytics—and how methods like predictive analytics, machine learning, and data visualization can make organizations more productive and efficient. He also covers career opportunities for data scientists who want to put their civic-minded ambitions to the best use.

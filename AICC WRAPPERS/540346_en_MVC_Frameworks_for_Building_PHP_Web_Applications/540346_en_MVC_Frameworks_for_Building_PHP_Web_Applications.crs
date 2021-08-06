@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Drew Falkman
+Course_ID=540346
+Course_System=linkedin.com
+Course_Title=MVC Frameworks for Building PHP Web Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PHP developers have a choice: they can design their own architecture or they can use a framework. Frameworks speed up development, enhance collaboration, and help keep code organized. In this course, Drew Falkman introduces the six most popular Model-View-Controller frameworks: Zend, Symfony, CodeIgniter, CakePHP, Yii, and Laravel. Drew describes the advantages of each framework and shows how to get and install the software. Then, he demonstrates how to get the default pages for each framework up and running, so you can see how the code is structured. In the final chapter, Drew compares all the frameworks and provides resources to move forward with each one. Since your choice of framework affects the success of your project, this course is designed to provide the information you need to make the right decision.

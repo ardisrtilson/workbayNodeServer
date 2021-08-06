@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rudolf Olah
+Course_ID=802873
+Course_System=linkedin.com
+Course_Title=Building RESTful Web APIs with Django
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+APIs are a crucial technology for delivering data to applications—from front-end ecommerce sites to iOS and Android apps. The Django REST framework is the natural choice for Python and Django developers who want to create their own RESTful back-end APIs. In addition to its rapid prototyping tools, the framework includes authentication schemes, serialization for parsing complex data into Python-friendly types, and automatic URL routing. This course shows how to use the Django Rest framework to create a simple RESTful web API. Instructor Rudolf Olah explains how to create serializers, renderers, filtering and pagination, and routers with viewsets that consumers can use to access the API. He also shows how to unit test your code to ensure your API works as expected. By the end of the course, you’ll know how to use this powerful and flexible toolkit to build you own data-driven web experiences.

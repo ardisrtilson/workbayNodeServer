@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=2804072
+Course_System=linkedin.com
+Course_Title=Microsoft Managing Modern Desktop (MD-101) Cert Prep: 2 Windows Devices, Apps, and Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to manage and secure devices and applications in an increasingly mobile workforce is an essential skill for any IT administrator. Microsoft offers cloud-based management solutions that make protecting and maintaining devices easier and less costly. In this course, instructor Andrew Bettany shows you how to leverage these tools to manage and secure your devices with greater agility in a Windows 10 environment. Andrew covers security tools with Windows Defender, mobile device management tools with Intune, and monitoring tools. Plus, learn how to manage application deployment and secure data on a variety of devices. This course closely aligns to the third and fourth domains of exam MD-101: Managing Modern Desktops—Manage and protect devices and Manage apps and data.

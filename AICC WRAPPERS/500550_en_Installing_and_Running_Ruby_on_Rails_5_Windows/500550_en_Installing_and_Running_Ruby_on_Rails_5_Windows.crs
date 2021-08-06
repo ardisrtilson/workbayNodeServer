@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=500550
+Course_System=linkedin.com
+Course_Title=Installing and Running Ruby on Rails 5: Windows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to install the software necessary for developing projects in Ruby on Rails, the popular web application framework. This course is designed for developers and other users who want to install and configure Ruby on Rails 5 on their Windows PCs. Kevin Skoglund shows how to set up a complete development environment, including Ruby DevKit, RubyGems, and MySQL. Then he demonstrates how to select an appropriate text editor and get started creating and launching new Ruby on Rails projects.

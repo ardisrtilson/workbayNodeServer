@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett
+Course_ID=2817017
+Course_System=linkedin.com
+Course_Title=DevSecOps: Burning Questions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DevSecOps is a growing part of software delivery, and it's disrupting the status quo security approach. But organizations trying to bridge DevOps and security often leave the experience with a litany of unanswered questions. In this course, James Wickett lends clarity to this process, providing practical takes on some of the most burning questions surrounding DevSecOps. Each Q&A-style video delves into a common question that professionals have when integrating security into DevOps. Do security professionals really need to learn to code? Can auditors be part of software delivery? Is it possible for security to add value in an organization rather than just being seen as a drain on resources? Find answers to these and more in this fun, fast-paced course.

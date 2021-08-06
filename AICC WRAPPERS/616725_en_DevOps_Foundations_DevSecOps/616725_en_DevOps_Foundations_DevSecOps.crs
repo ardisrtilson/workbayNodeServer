@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tim Chase
+Course_ID=616725
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: DevSecOps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security is a major concern in the DevOps world. There is a constant push for companies to move more quickly, and security teams struggle to keep up with testing. This has led to the rise of a new field: DevSecOps. This course introduces the concept of DevSecOps and explains how an organization can build out a DevSecOps program that helps teams integrate security into the application development pipeline. Learn about the role of APIs, containers, and automation, and how a continuous integration and delivery framework can help your organization run security tests as often as developers want. Instructor Tim Chase also introduces some free tools and resources for starting your DevSecOps journey.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=808681
+Course_System=linkedin.com
+Course_Title=Linux System Engineer: Bash Shell Scripting for Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use bash scripting to automate common tasks on Red Hat Enterprise Linux (RHEL)—one of the most popular Linux distributions. This course covers the foundations of creating and debugging bash scripts, including scripts that accept input via positional arguments, pipes, and file parsing. Plus, learn how to get data out of bash scripts and set up conditional and looping code blocks. Grant also solves some real-world problems, using bash to monitor user space and CPU usage. Note: This course also helps you study to pass the Red Hat Certified Engineer (RHCE) exam—the benchmark certification for Red Hat Enterprise Linux.

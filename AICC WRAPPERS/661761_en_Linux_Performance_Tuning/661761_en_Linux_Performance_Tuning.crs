@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Dankwardt
+Course_ID=661761
+Course_System=linkedin.com
+Course_Title=Linux Performance Tuning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DevOps pros, system admins, and software developers all benefit from knowing how to determine bottlenecks, find resource usage information, and improve the performance of Linux systems. Linux performance tuning makes sure you're getting the most from your machines. This training course demonstrates a variety of tools and techniques to help you diagnose and repair problems related to resource usage and allocation. Learn how to identify bottlenecks in memory, CPU, and disk, by using tools such as perf, sar, top, htop, atop, Performance Co-Pilot, and many more. Explore the proc filesystem, and concepts such as swapping, paging, and page faults. Instructor Kevin Dankwardt also discusses Linux process scheduling, and relates topics to objectives covered by the Red Hat Certificate of Expertise in Performance Tuning exam (EX442).

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Craig Barr
+Course_ID=609003
+Course_System=linkedin.com
+Course_Title=Unreal: Introduction to Lighting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started lighting your projects in Unreal Engine. Examine the types of lighting in Unreal and learn how to effectively light a scene. This course gets you up and running by covering lighting basics, working with shadows, and using lighting effects. Join Craig Barr as he demonstrates how to create lights, place lights, work with shadows, add reflections, accommodate various shapes, and more.

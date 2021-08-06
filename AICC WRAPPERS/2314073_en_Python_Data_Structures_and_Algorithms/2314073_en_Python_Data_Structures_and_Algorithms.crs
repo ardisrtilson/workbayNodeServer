@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Andrews
+Course_ID=2314073
+Course_System=linkedin.com
+Course_Title=Python Data Structures and Algorithms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software developers know that efficient underlying architecture is essential to the technologies we use every day. Knowledge of data structures and the algorithms which they support helps developers choose the most suitable solution for a given context, making them better programmers who stand out to their company, clients, or prospective employers. In this course, leveraging the Python programming language, instructor Robin Andrews uses a combo of visual, theoretical, and hands-on programming approaches to explain concepts in a fun and accessible way. Robin explains some of the most important data structures such as stacks, queues, and priority queues, and how these are used by search algorithms such as depth-first search, breadth-first search, and the A-star (A*) algorithm. He shows how to trace the execution of algorithms. Along the way, he provides challenges that allow you to test your new skills.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Peck
+Course_ID=164983
+Course_System=linkedin.com
+Course_Title=Apache Web Server: Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Quickly learn how to manage and configure an Apache web server. This course is designed for IT professionals, office managers, and anyone who's been saddled with an Apache server without any idea of where to start. Author Jon Peck describes what the Apache HTTP Server is and what it's used for, and provides practical information on configuration and logging. Then discover how to troubleshoot common problems and control the server, and learn what questions you should be asking when determining whether to delegate this responsibility to a third party.

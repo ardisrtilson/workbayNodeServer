@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=434063
+Course_System=linkedin.com
+Course_Title=Learning Windows 10 Universal App and Cross-Platform Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Windows 10 is a great platform for developers. But in case you aren't convinced, we have 15 videos to change your mind. In this course, Walt Ritscher introduces Universal Windows, a platform for writing a single codebase to serve all Windows-enabled hardware: Xbox, tablets, smartphones, desktops, and embedded devices. He also covers all the built-in help for cross-platform app development in Xamarin and Cordova and conversion to iOS or Android with the Windows Bridges. Watch and learn how to take your existing skills to a whole new platform with Windows 10.

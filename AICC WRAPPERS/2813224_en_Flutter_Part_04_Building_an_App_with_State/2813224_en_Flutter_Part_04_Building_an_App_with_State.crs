@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2813224
+Course_System=linkedin.com
+Course_Title=Flutter: Part 04 Building an App with State
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you have mastered Flutter basics, it’s time to learn state management—techniques used to manage all the information stored in an app’s memory, such as active UI elements, user preferences, notifications, and more. There are several different methods for managing state in Flutter and this course introduces you to the basics. Discover how to create more flexible layouts, use functions to streamline your code, incorporate variables and data types, and leverage Stateful and Stateless widgets. Instructor Angela Yu also issues three different challenges to test your new Flutter skills. Each lesson is illustrated using a fun, real-world project—a dice game app—that you can build, customize, and add to your Flutter portfolio. This course was created by London App Brewery. We are pleased to host this content in our library.

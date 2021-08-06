@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Irene Radcliffe
+Course_ID=595947
+Course_System=linkedin.com
+Course_Title=AutoCAD Plant 3D Essential Training: Admin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you interested in learning how to oversee and maintain project files in AutoCAD Plant 3D? If so, this course can help by covering the basics of how to set up, customize, and maintain projects in Plant 3D. Irene Radcliffe demonstrates how to create new projects using out-of-the-box settings and templates, and she reviews essential project settings. She also explains how to create custom project and drawing properties, customize the data manager, import existing models into your project, customize your drawings, use the Report Creator tool to run engineering reports, and more.

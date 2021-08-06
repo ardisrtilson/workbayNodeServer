@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=2822057
+Course_System=linkedin.com
+Course_Title=SPSS Statistics Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SPSS Statistics is a statistics and data analysis program for businesses, governments, research institutes, and academic organizations. In this course, Barton Poulson takes a practical, visual, and non-mathematical approach to SPSS Statistics, explaining how to use the popular program to analyze data in ways that are difficult or impossible in spreadsheets, but which don't require you to master programming languages like Python or R. From importing spreadsheets, to making data visualizations, to calculating descriptive statistics, Barton covers all the basics, with an emphasis on clarity, interpretation, communicability, and application. This course is ideal for first-time researchers and those who want to make the most of data in their professional and academic work.

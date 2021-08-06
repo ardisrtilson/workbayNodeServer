@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=2849187
+Course_System=linkedin.com
+Course_Title=Maya: Natural Environments
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Representing the natural world in a 3D program can be a daunting task. Autodesk Maya comes to the rescue with an incredible array of tools for world-building. In this course, learn how to command the powers of Maya to model, sculpt, and shade scenes of nature. Terrains can be imported as heightmaps, generated with procedural texture patterns, sculpted by hand, or art directed with any combination of those methods. With tools such as XGen and Paint Effects, you can easily populate a scene with plants and other objects. The layout requirements for exteriors often include special visual effects such as image planes and camera constraints. Volumetric clouds and atmospheric perspective complete the illusion of reality for a photorealistic natural setting. This course even touches on real-time workflows, rendering a cubic environment map in Maya and loading it into Unity. Get ready to tame the wilderness and design realistic exterior settings in Maya.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=2877177
+Course_System=linkedin.com
+Course_Title=PLC Memory Organization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You've made PLCs do simple things, but now you need to optimize processes based on data you're collecting. Where does the data go? How can you access that data from memory efficiently? In this course, instructor Zahraa Khalil explains the details of data storage, how it interacts with input and output (I/O), and how you can approach memory structures. Zahraa introduces you to the different software and PLC controllers from Rockwell automation, as well as two different memory structures: rack based systems and tag based systems. She goes into more detail on rack based systems, including details on how these systems handle data files, a demo of LogixPro, and information on I/O address format. Zahraa concludes with more detailed information on tag based systems, including global and local tags, the address format you need to use in tag based systems, base and alias tags, and more.

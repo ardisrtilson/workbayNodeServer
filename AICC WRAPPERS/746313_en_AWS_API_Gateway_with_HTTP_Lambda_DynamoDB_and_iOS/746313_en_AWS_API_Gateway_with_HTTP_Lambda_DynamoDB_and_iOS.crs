@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=746313
+Course_System=linkedin.com
+Course_Title=AWS API Gateway with HTTP, Lambda, DynamoDB, and iOS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create RESTful APIs the easy way with Amazon Web Services (AWS). The AWS API Gateway allows developers to create custom RESTful APIs with whatever logic, endpoints, format, and code they choose, along with an SDK for the client of choice, such as iOS. You can even wrap another API or call code to return data. In this course, instructor Bear Cahill shows how to create RESTful APIs with the API Gateway, using HTTP requests and AWS Lambda functions to read and write to an AWS DynamoDB. Plus, learn how to use the generated API to create the source code for the client project—an iOS app—with Swagger.

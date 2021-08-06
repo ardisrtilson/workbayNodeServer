@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Chiu Stone, Barron Stone
+Course_ID=2800335
+Course_System=linkedin.com
+Course_Title=Parallel and Concurrent Programming with Java 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With parallel computing, you can leverage multiple compute resources to tackle larger problems in a shorter amount of time. In this course, the second in the Parallel and Concurrent Programming with Java series, take a deeper dive into the key mechanisms for writing concurrent and parallel programs. Instructors Olivia and Barron Stone make these (often abstract) concepts down-to-earth, demonstrating key ideas using common kitchen activities. Learn all about synchronization, thread pools, asynchronous tasks, evaluating parallel performance, designing parallel programs, and more. Upon wrapping up this course, you'll have a solid understanding of how to parallelize a sequential program.

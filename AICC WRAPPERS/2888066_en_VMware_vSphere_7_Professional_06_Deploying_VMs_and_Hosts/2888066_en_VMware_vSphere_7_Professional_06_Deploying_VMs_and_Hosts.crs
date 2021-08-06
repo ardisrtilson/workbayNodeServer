@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2888066
+Course_System=linkedin.com
+Course_Title=VMware vSphere 7 Professional: 06 Deploying VMs and Hosts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. In order to stay relevant, you must understand vSphere. Perhaps you’re also preparing to take the VMware Certified Professional Datacenter Virtualization (VCP-DCV) exam. In this series of courses, Rick Crisci, a VMware Certified Instructor, walks you through over 50 real-world demos in a vSphere 7 environment using the HTML5 vSphere Client. This course focuses specifically on deploying VMs and hosts. Rick covers all the steps you need to set up your VM deployments, including advanced configuration options for virtual machines, how to remove VMs from inventory and reregister them, and how to install and use vCenter Converter to deploy a VM. He also takes a look at how assignable hardware works in vSphere 7, and shows how to automatically deploy ESXi hosts. Note: This course was created by Rick Crisci. We are pleased to host this training in our library.

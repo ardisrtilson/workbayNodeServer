@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=614321
+Course_System=linkedin.com
+Course_Title=Advanced Animations and Interactions with Framer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Stretch your interactive design skills by learning new techniques and features that can help you enhance your prototypes even further. In this course, learn how to create advanced animated states and interaction models in Framer, and improve your prototyping process for mobile apps. Emmanuel Henri walks through how to set up design files in Sketch and import files into Framer, and then demonstrates how to use advanced animation features. He also shows how to create complex interactions, and add sound, videos, and SVG animations to a Framer prototype.

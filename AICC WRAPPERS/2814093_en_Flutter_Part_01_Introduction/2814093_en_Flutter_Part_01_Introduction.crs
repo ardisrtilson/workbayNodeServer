@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2814093
+Course_System=linkedin.com
+Course_Title=Flutter: Part 01 Introduction
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With all the different screen sizes and resolutions available, it's difficult to build an app that works well on all devices. With Flutter, you can design beautiful, compatible apps with minimal effort. This course introduces developers to the benefits and basic anatomy of Flutter, so you can leverage this cross-platform mobile development framework to create your own elegant, natively compiled apps. Discover how to install the Flutter SDK and the tools you’ll need to develop and test Android and iOS apps—on Mac and Windows. Instructor Angela Yu also explains how to configure Android Studio to work seamlessly with Flutter. This course was created by London App Brewery. We are pleased to host this content in our library.

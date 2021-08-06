@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=450073
+Course_System=linkedin.com
+Course_Title=Architectural Site & Envelope in Rhino
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Advance your Rhino modeling and workflow skills with this short course on architectural exterior design. Dave Schultze shows how to first create the topography of a site with lofting and contours. He then creates the building envelope with walls and a foundation, and later with floors and stairs. Using a fun, retro space-age design, he shows quick ways to build glass curtain walls and even move openings like doors and windows on the fly. He also provides his patented tips and tricks for a faster, more efficient workflow in Rhino.

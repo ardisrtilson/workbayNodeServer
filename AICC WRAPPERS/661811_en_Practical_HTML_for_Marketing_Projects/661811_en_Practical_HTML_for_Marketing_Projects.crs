@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=661811
+Course_System=linkedin.com
+Course_Title=Practical HTML for Marketing Projects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+HTML is an essential programming language that's highly useful for structuring documents for the web. In this course, learn the basics of HTML markup code as they apply to common marketing projects. Instructor Jen Kramer explains what HTML is, exactly, and goes over techniques and concepts that can help you confidently approach marketing tasks such as formatting email newsletters and making simple updates to a website. She covers head and body tags, lists, implementing images, creating tables, editing raw HTML in MailChimp, and more.

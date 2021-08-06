@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=560052
+Course_System=linkedin.com
+Course_Title=AngularJS 1: Adding Registration to Your Application
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Registration is a fundamental part of any web application, but it can be notoriously difficult to implement. In this short course, we'll create a simple and straightforward registration system that allows users to log in and log out of an application. The techniques use AngularJS and Google Firebase, a mobile development platform that makes registration easy and secure. In the process, you'll explore the basics of AngularJS MVC architecture and the steps to storing custom user information in the Firebase NoSQL database. Learn how to create basic routes to load different content depending on the target URL, and create basic controllers to tie templates to code. At the end of the course, you'll have a great template that you can use as a starting point for a registration system in any of your own web applications.

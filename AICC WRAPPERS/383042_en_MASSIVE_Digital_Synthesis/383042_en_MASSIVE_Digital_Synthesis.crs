@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Evan Sutton
+Course_ID=383042
+Course_System=linkedin.com
+Course_Title=MASSIVE: Digital Synthesis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MASSIVE is Native Instruments' flagship digital synth; musicians all over the world use it to create music in the studio and on the stage. In this course, author Evan Sutton will dive deep into the instrument, including its flexible and powerful filters and routing, audio processing, and modulation features. He covers the basic signal flow and shows how to use MASSIVE's wavetable system to create unique sounds. After processing those sounds with filters and modulators, Evan uses audio effects to sweeten and brighten the mix, and then brings the entire sound to life with MASSIVE's macro controls and automation.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=136357
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Creating a Product Endpage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this installment of Mograph Techniques, Ian Robinson shows how to mix live-action footage with 3D elements to create a product endpage for a commercial. First, Ian shows how to use After Effect's Camera Tracker to re-create the camera move on the backplate with a 3D camera. Then he jumps to CINEMA 4D to model, texture, and light the product. Ian demonstrates a multipass workflow in C4D that allows for more flexibility once the renders are brought back into AE. Finally, back in AE, you'll learn to composite the footage and add editable type and effects to the scene.

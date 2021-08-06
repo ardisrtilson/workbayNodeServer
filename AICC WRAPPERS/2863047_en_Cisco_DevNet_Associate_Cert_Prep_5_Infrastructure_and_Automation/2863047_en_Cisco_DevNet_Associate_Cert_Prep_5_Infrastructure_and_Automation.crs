@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chou
+Course_ID=2863047
+Course_System=linkedin.com
+Course_Title=Cisco DevNet Associate Cert Prep 5: Infrastructure and Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Infrastructure automation is one of the hottest topics in network engineering. In this course, instructor Eric Chou provides a comprehensive overview of the different infrastructure automation frameworks, tools, and workflows. Eric covers topics like the difference between controller-level and device-level management, the value of model-driven programmability, and network simulation and testing tools. This course is also helpful to anyone looking to obtain knowledge required to pass the Cisco DevNet Associate certification exam. In particular, this course provides an overview of how to treat infrastructure as code, use the CI/CD pipeline, and work with different automation frameworks. Whether you’re a network engineer who wants to learn about software development, or a developer who wants to learn about network engineering, this course provides foundational knowledge in the important topic of infrastructure automation.

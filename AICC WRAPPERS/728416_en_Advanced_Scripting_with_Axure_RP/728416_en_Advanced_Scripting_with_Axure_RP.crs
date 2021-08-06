@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shauna Bybee
+Course_ID=728416
+Course_System=linkedin.com
+Course_Title=Advanced Scripting with Axure RP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+On the journey from initial idea to development, you may find that your UX designs end up appearing and responding differently than you expected. Prototypes—particularly realistic, high-fidelity ones—can prevent such situations by allowing you to see how your design ideas feel and interact earlier in the process. In this course, learn how to create more dynamic prototypes with Axure RP. Instructor Shauna Bybee steps through some of the most common ways to use variables and functions in Axure RP. Learn about string methods, how to format dates and times, how to work with window properties, and much more. Throughout the course, Shauna shares examples that lend a real-world context to the concepts she covers.

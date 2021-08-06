@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=5035813
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Cloud Governance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud governance is the process of applying specific policies or principles to cloud computing services for the purpose of securing applications and data. In this course, explore the fundamentals of cloud governance—one of the most important aspects of cloud computing—and its relation to security. Cloud computing expert David Linthicum explores different governance tools, showing how to identify their requirements and select the tools that will best meet your needs. To help you see how these tools work, he includes a governance tool demo. In addition, he explains how to approach cloud governance, sharing a process for deploying cloud governance within your own projects.

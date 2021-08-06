@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Denise Allen-Hoyt
+Course_ID=370500
+Course_System=linkedin.com
+Course_Title=Learning Cisco CLI Switch Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to configure a Cisco switch to connect and control resources on your network. Join Denise Allen-Hoyt in this course, as she explores the Cisco command-line interface using an out-of-band connection with a cable and terminal program. Denise shows how to access the switch's three modes—user EXEC, privileged EXEC, and global configuration—and use commands to configure essential settings. After addressing the switch and configuring a default gateway, Denise explains how to modify individual port modes, secure those ports, and create and manage virtual LANs (VLANs). In the final chapter, she shows how to verify your settings and reset the switch if necessary.

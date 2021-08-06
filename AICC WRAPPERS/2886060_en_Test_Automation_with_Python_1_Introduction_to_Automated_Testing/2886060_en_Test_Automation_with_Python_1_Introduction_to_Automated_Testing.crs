@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2886060
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 1 Introduction to Automated Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Test Automation with Python series from Headspin University is designed to teach automation skills and tools for testing applications in Appium and Selenium, the world's most popular UI automation tools. But before getting into the automation itself, this first course delves into the concept of testing, from the etymology of the word, to how to design useful tests for your software. While using software as it is meant to be run seems like an obvious test, it’s also helpful and necessary to imagine conditions for the software that its developers might not have thought about. The history of automation is also covered, highlighting the fact that most software is in fact a form of automation. After this course, you’ll have a solid foundation of automated testing and be ready to move on to the next course in the series. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Pultorak
+Course_ID=661766
+Course_System=linkedin.com
+Course_Title=Putting ITIL® into Practice: DevOps for ITIL® Practitioners
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This installment of the Putting ITIL® into Practice series helps ITIL® Foundation certified professionals get a practical start at applying DevOps concepts within their ITIL®-driven enterprise IT organizations as they move from traditional IT towards cloud and mobile on their journey of digital transformation. Throughout this course, instructor David Pultorak examines where DevOps and ITIL® Foundation concepts intersect in an enterprise setting. He begins by introducing DevOps for ITIL®-driven shops, including a discussion of what cloud-native DevOps and enterprise IT shops do and do not have in common. He then covers ideas on how to adapt DevOps values, principles, methods, practices, and tools to accommodate enterprise IT challenges; how to adapt each of the aspects of ITIL®-driven shops to accommodate DevOps values, principles, methods, practices, and tools.

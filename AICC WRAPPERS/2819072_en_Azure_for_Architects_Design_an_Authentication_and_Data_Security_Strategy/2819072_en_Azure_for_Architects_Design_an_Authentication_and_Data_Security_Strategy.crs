@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2819072
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Design an Authentication and Data Security Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In order to create secure and reliable solutions in Azure, organizations must have strong identity and security designs. In this course, instructor Sharon Bennett covers the concepts you need to know to effectively design a strategy around user authentication and data security across a system. Sharon covers several key topics, including OAuth 2.0 authentication, managed identities for Azure resources, SQL database encryption, and the Key Vault API. In addition to being vital to anyone charged with architecting a secure Azure environment, the concepts covered in this course can help you prepare for the Microsoft Azure Architect Technologies exam (AZ-300), a required exam for the Azure Solutions Architect Expert certification.

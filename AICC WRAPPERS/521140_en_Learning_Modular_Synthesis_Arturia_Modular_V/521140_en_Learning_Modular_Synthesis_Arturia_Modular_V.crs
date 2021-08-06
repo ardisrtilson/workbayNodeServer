@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Meyer
+Course_ID=521140
+Course_System=linkedin.com
+Course_Title=Learning Modular Synthesis: Arturia Modular V
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most exciting areas of music creation is modular synthesis, where you get to interconnect the fundamental building blocks of a synthesizer to create your own instrument. In this course, music industry veteran and synth designer Chris Meyer uses the Arturia Modular V software—a realistic emulation of the original Moog modular synths of the 1960s and 1970s—to teach you how to patch a modular synth to create your own sounds. Chris starts with the fundamentals of how harmonics and sound work, as well as how to connect the modules together. He then goes through the main modules individually, explaining the differences between oscillator waveshapes, filter types, and more, while demonstrating how to use them in a musical context. The third chapter teaches advanced techniques such as frequency and amplitude modulation, as well as using the effects and advanced filters in Arturia Modular V.

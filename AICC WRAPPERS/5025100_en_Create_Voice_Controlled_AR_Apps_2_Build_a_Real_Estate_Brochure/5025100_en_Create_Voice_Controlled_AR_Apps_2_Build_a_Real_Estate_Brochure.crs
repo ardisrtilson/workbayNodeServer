@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Diego Herrera
+Course_ID=5025100
+Course_System=linkedin.com
+Course_Title=Create Voice Controlled AR Apps 2: Build a Real Estate Brochure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Continue bolstering your augmented reality (AR) app development toolkit. In this course, the second in a series, see how to use AR creation tools from Vuforia and the Unity game engine to create another real-world commercial AR application—this time, for the real estate industry. Instructor Diego Herrera steps through the creation of a stylish real estate brochure, which could serve as an impressive addition to a developer's portfolio. Diego explains how to set up the project, add virtual buttons, and allow users to use first-person controllers to walk around inside the advertised property.

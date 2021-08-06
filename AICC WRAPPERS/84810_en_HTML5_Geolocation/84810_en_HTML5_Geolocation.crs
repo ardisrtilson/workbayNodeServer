@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=84810
+Course_System=linkedin.com
+Course_Title=HTML5: Geolocation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course shows how to add location tracking to a web application with a combination of JavaScript, CSS and HTML5. First, author and HTML5 expert Bill Weinman provides a thorough explanation of the geolocation API, including considerations every developer should take into account, such as data dependability, power usage, and privacy concerns. The course then covers how to detect support for geolocation, retrieve coordinates from a device (whether once or continuously), handle errors, and integrate the results with Google Maps to create a location-aware web application that will run on many mobile browsers.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2860043
+Course_System=linkedin.com
+Course_Title=Red Hat Certified System Administrator (EX200) Cert Prep: 1 Deploy, Configure, and Manage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get prepared to pursue the sought-after Red Hat Certified System Administrator (RHCSA) certification! This course walks you through the skills addressed in the first half of the RHCSA exam. Instructor Grant McWilliams introduces what you should know about the Red Hat EX200 certification, then explains how to deploy systems, with steps like creating a bootable CentOS8 live USB drive and using kickstart files to automate installs. Next, he explains system config and services, including the Linux boot process, Systemd services, and one-time and recurring user jobs. Grant then goes through essential tools, such as input-output redirection, compressing files and archives, and copying files and directories. Plus, he shows you how to manage the system software.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=2834044
+Course_System=linkedin.com
+Course_Title=Apple watchOS 7 App Development Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Apple Watch has continually dominated the smart watch market. It accounts for a majority of all smart watch sales, and its sales numbers have even eclipsed those of its analog competitors. In this course, learn how to develop and deploy a native application for this hugely popular smart watch using watchOS 7 and SwiftUI. Instructor Steven Lipton steps through how to build a simple iOS project, putting key concepts in context along the way. Discover how to create a storyboard-based standalone app without a phone base. Learn how to work with SwiftUI to create an app project from an existing phone project. Plus, see how to add navigation, lists, complications, notifications, a custom user interface from the digital crown (the primary hardware input for Apple Watch), and more.

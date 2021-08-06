@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645039
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 10 Voice, Speech, and Cortana
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Of all of the elements of the user experience, voice and speech can provide some of the most immediate and demonstrable benefits. In this course, learn how to make Universal Windows Platform (UWP) apps richer by incorporating voice and speech. Plus, learn how to make your apps smarter by leveraging Cortana. Instructor Scott Peterson covers integrating speech recognition, Cortana logic flow, personal assistant actions, and more. Note: This course was created by Wintellect. We are pleased to host this training in our library.

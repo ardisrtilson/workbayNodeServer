@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=2830016
+Course_System=linkedin.com
+Course_Title=Cinema 4D R23 Essential Training: VFX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cinema 4D has become an essential tool in the production pipeline and offers a fantastic set of features for building visual effects (VFX). In this course, you can explore the Cinema 4D workflow for creating VFX and integrating them into live action shots. Instructor Andy Needham starts with an overview of VFX, including inspiring examples you may have seen in major Hollywood films. He discusses the importance of motion tracking and gets hands on, showing how to track and solve a shot using the C4D Motion Tracker. He also covers exporting and importing data in various industry-standard formats, creating materials, and lighting 3D shots. Plus, Andy shows how to break apart objects with Voronoi Fracture and set up and composite multipass renders. When you’re ready, you can take the challenge at the end of the course to test your new skills.

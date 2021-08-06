@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2823407
+Course_System=linkedin.com
+Course_Title=Amazon EC2 Load Balancers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Elastic Compute Cloud (EC2) provides secure, resizable compute capacity in the cloud. To run highly available applications on EC2, load balancing is critical. That way if one instance fails, service isn't interrupted. Elastic Load Balancing is the tool Amazon provides to manage your EC2 environment and distribute incoming traffic to multiple targets. This course—completely revised for 2020—explains how to configure the three major types of ELB load balancers: classic, application, and network load balancers. Instructor Shyam Raj shows how to add instances, configure security, set up virtual Windows and Linux servers, and configure features such as sticky sessions and health checks. Plus, learn how to use Auto Scaling to maintain the required capacity to handle your workloads. This course was created by Shyam Raj. We are pleased to offer this training in our library.

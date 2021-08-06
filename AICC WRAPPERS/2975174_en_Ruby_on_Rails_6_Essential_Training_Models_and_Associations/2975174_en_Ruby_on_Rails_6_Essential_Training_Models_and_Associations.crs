@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2975174
+Course_System=linkedin.com
+Course_Title=Ruby on Rails 6 Essential Training: Models and Associations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ruby on Rails can speed up and improve your development of full-featured web applications because it provides powerful tools that give structure and automate common data tasks. In this course, learn about the built-in features of models and associations in Rails. Apply named scopes, validations, callbacks, and associations to a sample project. Find out how to build smarter models by adding attributes not in the database and leveraging efficient queries. Walk through the use of available validation methods and helpers. Learn how to implement custom validations and to write and add automatic actions, known as callbacks. Explore effective use of Active Record associations, investigate belongs-to-many relationships and rich associations, and learn how to write queries that span several tables.

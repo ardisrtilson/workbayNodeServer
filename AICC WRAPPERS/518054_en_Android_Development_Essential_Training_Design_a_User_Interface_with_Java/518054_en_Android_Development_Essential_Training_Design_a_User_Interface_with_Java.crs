@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=518054
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: Design a User Interface with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Create a user interface (UI) for a mobile app built with the Android SDK. David Gassner shows you how, in this course. David starts by exploring layout options, including views, components, measurement units, and loading layouts at runtime. Then he moves on to using ViewGroup components, showing you how to align interface elements with the new ConstraintLayout, and how to use the LinearLayout and RelativeLayout components. Next, he covers text, demonstrating how to display strings and collect information from the user with input fields. Finally, he shows how to create themes, use styles, and display images.

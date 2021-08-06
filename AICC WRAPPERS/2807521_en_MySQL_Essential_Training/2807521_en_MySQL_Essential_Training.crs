@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=2807521
+Course_System=linkedin.com
+Course_Title=MySQL Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+MySQL is one of the most popular database management systems for small- to medium-sized web projects. In this course, Bill Weinman provides clear, concise tutorials that guide you through creating and maintaining a MySQL database of your own. Bill explores the basic syntax, using SQL statements to insert, update, and delete data from your tables. He also covers creating a new database from scratch, as well as working with data types, operators, and string and mathematical functions. Plus, learn about the key differences between standard SQL and SQL as implemented by MySQL.

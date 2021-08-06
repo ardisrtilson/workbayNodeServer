@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=5043087
+Course_System=linkedin.com
+Course_Title=Learning IP Addressing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the fundamentals of IP addressing from a nonmathematical perspective. Instructor Kevin Wallace delves into the purpose of IP addresses—both IPv4 and IPv6—in today's networks, explores the formats and characteristics of these addresses, and shows how to configure and verify an IP address. Kevin covers how these addresses can be statically or dynamically assigned. Plus, he digs into the role played by Domain Name System (DNS) servers.

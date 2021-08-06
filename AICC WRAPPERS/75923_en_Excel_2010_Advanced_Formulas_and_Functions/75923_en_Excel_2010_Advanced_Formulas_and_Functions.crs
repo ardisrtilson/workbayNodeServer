@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=75923
+Course_System=linkedin.com
+Course_Title=Excel 2010: Advanced Formulas and Functions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In Excel 2010: Advanced Formulas and Functions, author Dennis Taylor demystifies formulas and some of the most challenging of the nearly 400 functions in Excel and shows how to put them to their best use. The course reviews the building-block functions, along with a few critical keyboard shortcuts that will speed up working with Excel data. It also covers how to perform advanced searching and data retrieval with LOOKUP functions, tabulate data with counting, statistical, and math functions, reformat data with text functions, and work with financial data using advanced formulas. Exercise files accompany the course.

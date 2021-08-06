@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eve Porcello
+Course_ID=2833017
+Course_System=linkedin.com
+Course_Title=Learning React.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. In this course, Eve Porcello guides you through the foundations of React development, including the use of React hooks—a new feature starting in React 16.8 that allows developers to add functionality to components without writing classes. Eve shows how to create components, display dynamic data with properties, and render components using JSX syntax. Eve also manages the state of components with hooks; uses powerful React enhancements, such as the useEffect hook for loading remote data; and leverages cloud deployment options for apps created with create-react-app. This course was created by Eve Porcello. We are pleased to offer this training in our library.

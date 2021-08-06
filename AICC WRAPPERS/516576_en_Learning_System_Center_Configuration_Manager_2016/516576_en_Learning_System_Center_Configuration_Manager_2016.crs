@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=516576
+Course_System=linkedin.com
+Course_Title=Learning System Center Configuration Manager (2016)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft's System Center Configuration Manager (SCCM) allows system admins to manage large groups of client operating systems. In addition, it provides remote control, patch management, software distribution, operating system deployment, network access protection, and hardware and software inventory. Want to learn the basics to use SCCM in your own IT team? In this course, author Robert McMillen shows how to install and configure the latest release (1601), providing an overview of new and not-to-miss features. He also shows how to deploy operating systems (including Windows 10), distribute software, and use SCCM for mobile device management. The course concludes with instructions for using SCCM for asset inventory, and to monitor software and application distributions.

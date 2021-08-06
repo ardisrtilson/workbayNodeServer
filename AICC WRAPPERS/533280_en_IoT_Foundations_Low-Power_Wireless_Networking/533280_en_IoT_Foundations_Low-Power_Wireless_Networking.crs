@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Hu
+Course_ID=533280
+Course_System=linkedin.com
+Course_Title=IoT Foundations: Low-Power Wireless Networking
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet of Things (IoT) has been significantly driven by the increasing number of networked devices with ubiquitous wireless connectivity. Low-power wireless networking is one of the most important connectivity technologies required by today's IoT systems, ranging from smart home appliances to smart city systems. In this course, explore the key technologies and foundations of low-power wireless networking for IoT. Ryan Hu begins by introducing wireless networking for IoT, and going over the basics of wireless communication and wireless networking. Next, he presents and compares the underlying wireless networking technologies in terms of system architectures, communication paradigms, performance, and use cases. Then, he explains how to integrate various networking technologies into an IoT system. To wrap up, Ryan discusses the use of low-power wireless networking in a typical lighting control system for both smart home and smart city environments.

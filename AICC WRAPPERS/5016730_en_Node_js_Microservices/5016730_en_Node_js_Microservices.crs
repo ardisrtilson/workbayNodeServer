@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Khan
+Course_ID=5016730
+Course_System=linkedin.com
+Course_Title=Node.js: Microservices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In organizations large and small, Node.js is often the platform of choice for building microservices architectures. In this course, instructor Daniel Khan takes basic microservices concepts and puts them into practical action in a Node.js context, showing you how to use Node.js to build out a microservices architecture from scratch. Throughout the course, Daniel digs into essential concepts like service discovery and resilience. To provide you with a more practical understanding of these concepts, he explores a common use case in which you have an existing monolithic app that you want to split into individual services. This course was designed to give you the knowledge to build out more complex projects based on the microservices infrastructure created during the lessons.

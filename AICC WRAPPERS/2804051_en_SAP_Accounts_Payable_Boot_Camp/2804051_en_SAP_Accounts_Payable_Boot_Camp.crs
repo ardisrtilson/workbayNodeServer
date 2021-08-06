@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2804051
+Course_System=linkedin.com
+Course_Title=SAP Accounts Payable Boot Camp
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Quickly learn how to manage accounts payable (AP) tasks in the SAP suite of enterprise software. Get acquainted with the entry and review of non-purchase order and purchase order invoices in SAP. Learn the fundamentals of basic AP reporting, including how to run an open item age analysis report. Plus, discover how to enter manual payments, review and audit posted invoices, and tackle the processing of automatic payments. This course was created by Michael Management. We are pleased to offer this training in our library.

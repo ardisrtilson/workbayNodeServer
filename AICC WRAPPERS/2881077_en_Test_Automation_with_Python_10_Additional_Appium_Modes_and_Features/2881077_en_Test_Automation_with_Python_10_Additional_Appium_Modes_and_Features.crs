@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2881077
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 10 Additional Appium Modes and Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This installment of the Test Automation with Python takes a look at scaling your test suite so that you can run multiple tests at a time. Eventually your test suite will grow large enough that waiting for tests to complete one by one just doesn’t make sense. This course covers the complications that come with running multiple tests in parallel and details what you need to successfully run your test suite. And while running your tests in an isolated environment is an important part of the process, this course demonstrates the importance of testing them out in a continuous integration environment as well. The course finishes with techniques for debugging your tests, along with best practices for speed, reliability, and maintainability in your test suite. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

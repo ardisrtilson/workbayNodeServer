@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joli Ballew
+Course_ID=5016727
+Course_System=linkedin.com
+Course_Title=Windows 10: Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The new Microsoft Desktop Administrator Associate certification validates a candidate’s ability to deploy and secure Windows 10, configure connectivity, and manage and protect devices. This course covers the key concepts of Windows 10 implementation for IT professionals who hope to pass exam MD-100: Windows 10, one of two required exams for this certification. Learn how to choose between an upgrade and a clean install, create installation media, migrate to Windows 10, and configure and manage device drivers. Instructor Joli Ballew also helps you configure key settings and applications your clients will need, including the Start menu preferences, notifications, Cortana, and Hyper-V. She also explores enterprise-level solutions such as Active Directory-based activation of Windows.

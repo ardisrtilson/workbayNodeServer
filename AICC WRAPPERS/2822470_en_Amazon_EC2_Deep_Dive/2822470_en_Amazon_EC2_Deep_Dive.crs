@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2822470
+Course_System=linkedin.com
+Course_Title=Amazon EC2 Deep Dive
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Elastic Compute Cloud (EC2) provides secure, resizable compute capacity in the cloud. You can quickly increase or decrease capacity as your requirements change—only paying for the capacity you need now. In this course, instructor Shyam Raj helps you deepen your understanding of Amazon EC2. Learn how to attach Elastic Block Store (EBS) volumes to your instances and enable features such as encryption and snapshots, which help you back up the data on your volumes. Shyam also provides coverage of Amazon Machine Images (AMI) and explores the key features, working mechanism, and use cases for T2 and T3 instances. Plus, discover the options for Amazon EC2 networking and explore purchasing options, such as on-demand versus reserved and spot instances, that help you maximize your budget without sacrificing power. This course was created by Shyam Raj. We are pleased to offer this training in our library.

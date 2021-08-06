@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=J. Scott Giaquinta
+Course_ID=197194
+Course_System=linkedin.com
+Course_Title=Learning BATTERY 4
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this quick Up and Running course, author and producer J. Scott G. demonstrates the power of BATTERY, Native Instruments's drum sampler for drum sculpting, signal routing, and effects. He provides a brief overview of BATTERY's built-in kits, and then shows how to create your own kits from scratch. Then he demonstrates how to edit cells, route audio in BATTERY or into another DAW, create automation, and utilize effects like reverb and delay.

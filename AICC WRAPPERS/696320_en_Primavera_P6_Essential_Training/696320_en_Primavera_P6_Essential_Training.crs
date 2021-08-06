@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Seyi Kukoyi
+Course_ID=696320
+Course_System=linkedin.com
+Course_Title=Primavera P6 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to use Primavera P6 to manage mid-size and large-scale projects successfully and efficiently. In this course Seyi Kuks introduces the Primavera P6 user interface and shows how to plan projects, including how to create filters, layouts, and baselines, and how to print reports. He demonstrates how to create and assign roles and resources, update an un-resourced project, control projects with resources and costs, set up a database, and administer the database. This course also covers other essential features such as importing and exporting projects, using the level of effort (LOE) activity, managing multiple projects, and adding notes in the details form.

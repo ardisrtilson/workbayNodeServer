@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2975173
+Course_System=linkedin.com
+Course_Title=CompTIA Security+ (SY0-601) Cert Prep: 1 Threats, Attacks, and Vulnerabilities
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The CompTIA Security+ exam is an excellent entry point for a career in information security. The latest version, SY0-601, expands coverage of cybersecurity threats, risk management, and IoT threats. This course prepares exam candidates for the first domain of the exam, Threats, Attacks, and Vulnerabilities. By learning about malware, networking and application security exploitations, and social engineering, you'll be prepared to answer questions from the exam—and strengthen your own organization's systems and defenses. Instructor Mike Chapple, an IT leader with over 17 years of experience, also covers the processes for discovering and mitigating threats and attacks, automating threat intelligence, scanning for vulnerabilities, and conducting penetration testing. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

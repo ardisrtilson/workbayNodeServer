@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=685035
+Course_System=linkedin.com
+Course_Title=Securing Windows Server 2016: Securing Network Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to secure network infrastructure in Windows Server 2016. In this short training course, instructor Ed Liberman shows how to configure Windows Firewall and Datacenter Firewall, secure communications protocols like IPsec and DNSSEC, and shielding and guarded fabric for virtual machines. These simple, practical steps will enable you to secure your network data, traffic, and virtual resources.

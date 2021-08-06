@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Jenkins
+Course_ID=677177
+Course_System=linkedin.com
+Course_Title=Learning Jenkins
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Meet Jenkins, the open-source automation tool for software development and system administration. With Jenkins, you can automate build management, continuous integration and deployment, testing, resource management, monitoring and reporting, and much more. This introduction helps you use Jenkins to release and deploy software more quickly and reliably. First, learn how to set up Jenkins on Mac, Windows, Linux, or inside a Docker container, and find out how Jenkins plugins are used to extend its functionality. Next, configure your first job step by step, leading up to the requisite Hello, World output, and learn to make your jobs more useful and portable with parameters. Then explore job scheduling, and Jenkins's convenient aliases for running jobs at regular intervals. The course wraps up with tips for organizing jobs in folders and views and a brief look into pipelines as code-which enable you to execute a series of jobs in stages. By the end of the training, you should be able to install Jenkins locally or on a virtual machine, create a Jenkins jobs that can be triggered manually or on a schedule, and install and configure plugins to extend the Jenkins framework.

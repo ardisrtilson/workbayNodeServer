@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=559207
+Course_System=linkedin.com
+Course_Title=Consuming RESTful APIs in PHP with Guzzle
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Guzzle—a PHP HTTP client—provides a simple interface for sending HTTP requests and receiving responses. In this course, learn how to write code using Guzzle to consume RESTful APIs. Instructor Justin Yost shows how to install Guzzle, send basic, asynchronous, and concurrent requests, and process responses, headers, and exceptions. He also shows how Guzzle works with PSR-7, the PHP community-provided specification that defines interfaces for HTTP messages. Plus, Justin shows how to test basic and advanced Guzzle mock responses.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=123001
+Course_System=linkedin.com
+Course_Title=Design the Web: Simulating Web Text
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Simulate the look of anti-aliased web fonts in your next website mockup. In this concise course, Chris Converse teaches you how to use paragraph and character styles in Adobe Photoshop to mimic the look of headings, body text, and hyperlinks and adjust for the anti-aliasing treatment applied by different web browsers.

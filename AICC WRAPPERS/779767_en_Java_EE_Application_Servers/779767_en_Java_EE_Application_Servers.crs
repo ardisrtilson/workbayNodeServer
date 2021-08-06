@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael D. Rodgers, Jr
+Course_ID=779767
+Course_System=linkedin.com
+Course_Title=Java EE: Application Servers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Choose the right server for your Java EE application and learn the pros and cons of some of the most popular options. In this course, instructor Michael Rogers compares and contrasts the top four: Apache Tomcat, Oracle WebLogic, WildFly, and Payara, an app server derived from Glassfish. Learn how to install each solution, deploy your WAR files, prepare and add database drivers, and configure clustering for Java EE apps that run in containers. Michael also helps you troubleshoot your migration and avoid common pitfalls encountered when deploying JDBC libraries that are not fully supported on your server. By the end of the training, you’ll have the knowledge necessary to select the application server that fits the needs of you and your organization.

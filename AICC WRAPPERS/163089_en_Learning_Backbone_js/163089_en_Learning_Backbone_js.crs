@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kai Gittens
+Course_ID=163089
+Course_System=linkedin.com
+Course_Title=Learning Backbone.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Backbone.js is the key to keeping your JavaScript code neat, and separating your markup from the data powering your web applications. Although it has fantastic server-side capabilities, this course focuses on the most relevant features for front-end developers and web designers that want to learn how to build out their web pages and keep their code organized, move away from the DOM, and use Backbone's useful JavaScript library. Start here and learn how to use models and collections to manage your data, and display it on your web page with views. Then use events and routers to create navigational logic in your web app. Author Kai Gittens shows you just what you need to get up and running with Backbone.js and get the job done.

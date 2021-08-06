@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=181725
+Course_System=linkedin.com
+Course_Title=Revit Templates: System Settings
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you are trying to achieve a consistent starting point in all of your Revit projects, then customizing the project template is a good place to start. In this course, Paul F. Aubin shows how to adjust system settings and create a consistent collection of object types, including wall, floor, roof, and ceiling types. He covers moving the file origin, customizing the materials library, assigning naming conventions for object types, loading and managing profiles, and preconfiguring location and sun settings. Watch these tutorials and get off on the right foot right away with a well-conceived project template. Find more courses in this series on Paul's author page.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=616715
+Course_System=linkedin.com
+Course_Title=Mastering Xamarin.Forms Development: 6 Data and Storage Strategies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to store, access, and synchronize data across multiple devices—including phones, desktops, and tablets—is crucial to a high-quality user experience. Xamarin.Forms can help you address this need by making it easier to work with different platforms that have dissimilar concepts of local storage. In this installment of the nine-part Mastering Xamarin.Forms Development series, Scott Peterson tackles data storage in cross-platform apps built with Xamarin.Forms. Here, he discusses three common storage strategies in detail: local storage using dependency services to abstract platform differences, local database storage using SQLite, and offline storage and synchronization.

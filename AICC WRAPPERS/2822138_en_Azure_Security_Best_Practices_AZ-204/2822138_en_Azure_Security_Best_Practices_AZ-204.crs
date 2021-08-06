@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Karl Ots
+Course_ID=2822138
+Course_System=linkedin.com
+Course_Title=Azure: Security Best Practices (AZ-204)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the rise of cloud computing, and especially platform as a service (PaaS) solutions, developer productivity has reached new heights. A single developer can now be responsible for the design and even configuration of databases, web servers, and application deployment. But with this new power comes a new set of security concerns. In this course, learn how to secure your applications by leveraging key Azure tools and best practices. This course can also prepare you for the Implement Azure security portion of the Developing Solutions for Microsoft Azure (AZ-203) exam. Instructor Karl Ots covers how to control access to the Azure development environment, securely authenticate end users, and securely connect application logic to Azure data services.

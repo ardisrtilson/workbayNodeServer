@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=373089
+Course_System=linkedin.com
+Course_Title=Solving Optimization and Scheduling Problems in Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Solver, a free Excel add-in, to find optimal solutions to problems with multiple constraints, including linear and nonlinear mixtures, transportation problems, and scheduling conflicts. Along the way, author Curt Frye shows how to organize Excel worksheets for use with Solver, add and swap data, and set each problem's criteria in Solver. In the final chapter, you'll learn how to analyze Solver's results, create scenarios, and change parameters by hand.

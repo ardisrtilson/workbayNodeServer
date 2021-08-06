@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Graham
+Course_ID=779745
+Course_System=linkedin.com
+Course_Title=Dynamo for Revit: Python Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Can't find the Dynamo node you need? Python allows you to create powerful custom nodes that extend the functionality of Dynamo and solve your Revit modeling challenges in smarter, faster ways. This course introduces the Python programming language to designers who want to do more with Dynamo. First, learn the basics of Python, including data types, conditionals, and loops, while interacting directly with Dynamo Geometry library. Then find out how to extend the functionality with Dynamo with libraries such as the Revit API. In chapter four, you put your new skills to work. Instructor and BIM expert Jeremy Graham shows how to use Python and the Revit API to filter elements, access parameters, and create custom views. Note: This course uses Dynamo 2.0.1 and Revit 2019. For best results, it helps to have the same versions of the software.

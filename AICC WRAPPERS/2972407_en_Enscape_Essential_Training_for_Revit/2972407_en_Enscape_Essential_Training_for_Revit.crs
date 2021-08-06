@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Myers
+Course_ID=2972407
+Course_System=linkedin.com
+Course_Title=Enscape Essential Training for Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you're facing a looming deadline or an urgent meeting with a client, rendering directly from the modeling environment isn't always feasible. Enscape, a real-time rendering plugin for Revit, SketchUp, Rhino, and other AEC applications, is an affordable and user-friendly option that allows you to quickly produce client-ready visualizations. In this course, you can learn the essential tools and techniques for rendering 3D designs with Enscape and Revit. Instructor Brian Myers covers the basics, explaining how to start Enscape from Revit and use the navigation tools. He also covers creating scenes, videos, and panoramas; adjusting general render settings such as depth of field, field of view, and motion blur; adding special effects such as fog, wind, and clouds; and customizing your preferences and performance settings. By the end of the course, you'll know how to tune Enscape to fit your rendering workflow and communicate your designs faster and more effortlessly than ever before.

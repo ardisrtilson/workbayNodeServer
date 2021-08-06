@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=560047
+Course_System=linkedin.com
+Course_Title=Twelve Myths About Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Ben Sullins debunks 12 common misconceptions within the field of data science. Busy engineers, data miners, programmers, and other systems specialists who want to bolster their skills can benefit from Ben's succinct, practical insights. Separate data science fact from fiction, and learn what big data actually is, and why—contrary to what media coverage often suggests—it's not a singular thing. Ben also explains why big data can't instantly yield great insights, how to make analytics clearer, when to replace your relational databases, and more.

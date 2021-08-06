@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David M. Franklyn
+Course_ID=590834
+Course_System=linkedin.com
+Course_Title=Microsoft System Center Configuration Manager Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft System Center Configuration Manager is used to centrally manage one's datacenter, user devices, and infrastructure. In this course, learn how to get started with System Center Configuration Manager. Discover how to deploy Configuration Manager in a central site, and then deploy a multisite environment including secondary sites. Explore content management, replicating data stores, resource discovery, and how to assign clients. To wrap up, learn how to integrate Configuration Manager with Microsoft Intune and provide advanced security features, how to maintain and monitor Configuration Manager using various tools, and how to upgrade to a more current branch.

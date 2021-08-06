@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5016721
+Course_System=linkedin.com
+Course_Title=Android App Development: Working with Widgets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to develop widgets—miniature application views—for your Android app. Widgets allow users to access and view the most important functions in your app, from the home screen or even another app. In this course, Emmanuel Henri shows how to use Android Studio and the AppWidgetProvider class and its built-in functions to build a simple app widget in less than an hour. He provides an in-depth review of widget capabilities and limitations as well as the Android design guidelines informing their layout and functionality. Then go hands on, as Emmanuel shows how to create and style the widget and add interactivity with the AppWidgetProvider functions. Plus, find out how to implement pinning and access further resources to build your own widget host and collections.

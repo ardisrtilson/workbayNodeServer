@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=693101
+Course_System=linkedin.com
+Course_Title=Achieving GDPR Compliance with Microsoft Technologies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Starting from May 25, 2018, all European individuals are protected by the new General Data Protection Regulation (GDPR). All businesses and their trading partners, including all foreign companies processing data of EU residents, have to adhere to GDPR. This course shows IT professionals how to comply with GDPR within a Microsoft environment. Instructor Andrew Bettany provides a thorough review of GDPR and the key areas it impacts: data and device protection, data separation, data leak protection, and sharing protection. He shows how Microsoft 365 can help with compliance, providing demos of solutions such as Microsoft Cloud App Security, and Azure Information Protection. Follow along and learn how to implement data loss prevention policies, secure data, prevent data leakage, and monitor and manage information protection events. The course wraps up with coverage of the Compliance Manager dashboard, which provides assessments and tools to help you track the regulatory compliance status of your deployed cloud solutions.

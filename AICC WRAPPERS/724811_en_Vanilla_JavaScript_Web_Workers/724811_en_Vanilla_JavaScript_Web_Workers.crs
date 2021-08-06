@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Maximiliano Firtman
+Course_ID=724811
+Course_System=linkedin.com
+Course_Title=Vanilla JavaScript: Web Workers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web Workers is one of the most underrated APIs on the web. It brings multithreading—the ability to execute multiple tasks simultaneously—to JavaScript. Multithreading with web workers can enhance the performance of complex apps with resource-intense code. This course show how to run parallel tasks with web workers and communicate those threads back to the main UI thread. Instructor Maximiliano Firtman explores the APIs for dedicated web workers and shared web workers, which allow you to share threads between browser tabs. The majority of the lessons use Vanilla JavaScript, which allows you to explore the full potential of the technology, but in the final chapter, Maximiliano also introduces some libraries and frameworks specifically designed for developing with web workers.

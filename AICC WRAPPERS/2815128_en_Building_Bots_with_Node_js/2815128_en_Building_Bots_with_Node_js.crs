@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Khan
+Course_ID=2815128
+Course_System=linkedin.com
+Course_Title=Building Bots with Node.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bots are the hot new development trend. Bots are interactive solutions, based on artificial intelligence frameworks, that fit an ever-growing number of user cases, from customer service to marketing, sales, and IT. With today’s cloud-based cognitive services, all you need to get starting building your own bots is your existing Node.js skills. This course shows how to build custom bots using Node.js and popular natural language processing (NLP) services such as Google Dialogflow and Alexa Skills Kit. Instructor Daniel Khan shows you how to set up the infrastructure, work with NLP services and APIs, and connect the bot back-end to front-end services like Slack and Alexa. The bots you create will be able to conduct natural and realistic conversations by responding to text or voice commands.

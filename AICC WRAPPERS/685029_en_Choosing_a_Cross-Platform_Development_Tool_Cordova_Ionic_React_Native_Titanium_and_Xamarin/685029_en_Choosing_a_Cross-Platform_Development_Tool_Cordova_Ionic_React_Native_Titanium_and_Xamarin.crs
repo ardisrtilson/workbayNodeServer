@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Duffy
+Course_ID=685029
+Course_System=linkedin.com
+Course_Title=Choosing a Cross-Platform Development Tool: Cordova, Ionic, React Native, Titanium, and Xamarin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are many cross-platform mobile development tools available. Knowing which to choose is almost harder than learning the platform itself. Each toolset comes with pros and cons. In this course, Tom Duffy reviews five of the most popular options—Cordova, Ionic, React Native, Titanium, and Xamarin—and explains their benefits and tradeoffs. He builds a simple user-input app with each tool, highlighting exceptional features and workflow steps.

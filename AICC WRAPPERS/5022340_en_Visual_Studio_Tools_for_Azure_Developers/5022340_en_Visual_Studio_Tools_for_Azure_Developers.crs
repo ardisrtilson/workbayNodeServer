@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=5022340
+Course_System=linkedin.com
+Course_Title=Visual Studio Tools for Azure Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With the Azure-specific tools in Visual Studio, Microsoft has made it even easier for developers to transition to the cloud. In this course, instructor Walt Ritscher explains how to connect to Azure, access cloud data, and write and debug your cloud-enable code, all from within Visual Studio’s integrated development environment. Learn how to create new projects with Azure App Service, connect to data sources such as Azure SQL Server and Cosmos DB, create resource groups to manage Azure resources, build Azure functions for serverless execution of code, and monitor and debug your Azure projects.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=604243
+Course_System=linkedin.com
+Course_Title=Mastering Xamarin.Forms Development: 1 Pages, Layout, and Navigation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating truly cross-platform applications used to require expertise in several different programing languages. By leveraging Xamarin.Forms—a cross-platform UI toolkit—you can create native apps on iOS, Android, and Windows from a single shared code base. Mastering Xamarin.Forms Development is a nine-part series explaining how to build cross-platform mobile apps with Xamarin.Forms. In this course—the first in the series—Scott Peterson introduces platform basics such as layout and navigation, and begins building a news reader that he'll continue to develop throughout the series.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Kulterman
+Course_ID=685019
+Course_System=linkedin.com
+Course_Title=SharePoint Advanced: Optimizing e-discovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Optimizing search and navigation in SharePoint can make finding content easier when you're dealing with large lists and libraries. In this advanced course, Bill Kulterman explores how to leverage some of the search tools and features of SharePoint to optimize content for eDiscovery. Bill shares how to assign eDiscovery permissions and use content holds to protect information from being altered or destroyed. He also covers how to create a search of specific locations in an organization by using keywords and conditions; how to run Express analysis and view the results; and how to close, reopen, and delete a case.

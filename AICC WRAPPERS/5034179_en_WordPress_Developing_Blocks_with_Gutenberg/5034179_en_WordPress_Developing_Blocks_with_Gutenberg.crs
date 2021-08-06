@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=5034179
+Course_System=linkedin.com
+Course_Title=WordPress: Developing Blocks with Gutenberg
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gutenberg, the block-based editing environment introduced in WordPress 5.0, gives designers a more streamlined editing experience. By putting every piece of content in its own block (each with its own unique properties) WordPress has made it easier for users to create flexible, unique layouts. And—with some JavaScript, CSS, and PHP—you can take even more control over the editing and publishing experience by creating custom blocks. In this course, Morten Rand-Hendriksen shows you how to do just that. After going over the basics of block building, he shows how to use and extend block features, including how to add style variations to custom blocks. Plus, he shows how to create dynamic blocks, which use the WordPress REST API to pull content from a database and display it within a block.

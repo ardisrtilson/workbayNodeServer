@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Trader, Mike Danseglio
+Course_ID=184163
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 Active Directory: Management and Implementation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to administer an Active Directory environment across multiple locations, and replicate across the domain. Dive into group policies and explore advanced tools such as PowerShell. Mike Danseglio and Rick Trader teach you everything you need to know about Windows Server 2012 Active Directory management and implementation.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=674601
+Course_System=linkedin.com
+Course_Title=JavaScript: Prototypes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The JavaScript approach to object-oriented programming feels alien to many developers. While prototypes are core tools for intermediate and advanced programming, even experienced developers may not understand how they work. This course explains how to write more efficient JavaScript code using the prototype chain. Learn fundamental concepts underlying prototypes, such as object literals and constructors, and discover how prototypes can reduce memory usage, improve code organization, and help you cascade changes site-wide with a single update. Instructor Sasha Vodnik also explains how to use ES6 classes to build prototypes with less code and more features.

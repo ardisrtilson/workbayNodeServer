@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2813262
+Course_System=linkedin.com
+Course_Title=Building RESTful APIs with Node.js and Express
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to create a simple, RESTful web API with Node.js—the popular JavaScript runtime environment—and the Express web framework. Emmanuel Henri demonstrates how to set up the project, including the Express server and testing environment, and create the endpoints needed to add, update, and delete data from a MongoDB database. At the end of the course, he shows how to serve static files such as images with your new API, and explores additional libraries that can help streamline API development, such as Koa and LoopBack.

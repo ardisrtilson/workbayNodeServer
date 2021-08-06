@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Karthik Gaekwad
+Course_ID=5025099
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Going Cloud Native
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud native is one of the fastest growing trends in cloud computing. However, making the switch to cloud native while maintaining a large enterprise’s existing applications, architectures, and assets can be difficult. Discover a roadmap to bring the cloud-native paradigm to your organization, with minimal disruption. Engineer and instructor Karthik Gaekwad presents the information senior executives—CTOs, vice presidents, and chief architects—need to know to embrace cloud native. Explore the benefits and challenges of cloud-native platforms like Kubernetes and find out how to take the first step towards transformation: assessing your current infrastructure and planning for the future. Learn the high-level strategies that will help you succeed, and find how to prioritize efforts like DevOps, continuous integration, continuous delivery, microservices, security, and organizational alignment. Plus, get Karthik’s recommendations for aligning all the pieces of the cloud-native puzzle, so you can hit the ground running.

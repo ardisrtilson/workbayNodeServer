@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=439682
+Course_System=linkedin.com
+Course_Title=Unreal Engine 4: Realtime Motion Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unreal bridges the gap between 3D motion graphics and the processing power of real-time game engines. You can create content in familiar tools (CINEMA 4D and Maya) and use Unreal to animate and render those assets. This workflow allows for the creation of gorgeous imagery while bypassing the traditional time-consuming rendering process of traditional 3D tools. This course offers mograph designers a quick-start guide to real-time motion graphics in Unreal Engine 4 (UE4). Scott Pagano shows how to prep and import both static and animated geometry and animate objects and cameras with the Matinee Editor. He shows how to flesh out your scenes with Unreal's lighting and shading tools, and export video files and image sequences for further refinement in software such as After Effects. Following the quick-start chapter are three real-world projects that demonstrate the power of the workflow. This forward-thinking approach to motion graphics leaves antiquated processes behind and presents modern, efficient, and fun ways to create 3D imagery. Once you have a grasp of how to import, animate, and make your content look great in UE4, the doors are open to dive into worlds of virtual reality, gaming, and interactive content. Check out more of our Unreal training here.

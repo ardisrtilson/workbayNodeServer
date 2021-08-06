@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=518694
+Course_System=linkedin.com
+Course_Title=Office 365: Plan for Exchange Online and Skype for Business Online (Office 365/Microsoft 365)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Email, calendar, contacts, and videoconferencing are some of the most important services in Office 365. How can you roll them out to your users in the most seamless and secure way possible? Take these lessons from Microsoft Certified Trainer Sharon Bennett and learn how to plan your Exchange Online and Skype for Business Online deployments—and pass the corresponding domain of Microsoft Exam 70-347: Enabling Office 365 Services. Learn how to create effective anti-malware and anti-spam policies that reduce malicious email. Discover how to migrate mailboxes to Office 365 using one of five recommended methods. Find out how to plan for a secure Exchange Online environment, by configuring archiving, permissions, and data loss prevention. Finally, Sharon demonstrates how to manage Skype services for external and internal video and audio communications.

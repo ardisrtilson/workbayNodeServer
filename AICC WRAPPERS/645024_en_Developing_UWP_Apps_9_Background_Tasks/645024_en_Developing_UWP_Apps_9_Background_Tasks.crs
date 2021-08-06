@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645024
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 9 Background Tasks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Universal Windows Platform (UWP) background task API allows apps to execute code periodically, execute code in response to certain events such as incoming push notifications or the acquisition of an internet connection, and more—even when the apps aren't running. In this course, learn how to use the Universal Windows Platform (UWP) background task API in development. Instructor Scott Peterson introduces background tasks, triggers, and conditions. In addition, he shows examples of how and when these background tasks should be used. Note: This course was created by Wintellect. We are pleased to host this training in our library.

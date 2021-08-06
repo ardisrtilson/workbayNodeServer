@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Cannon
+Course_ID=728406
+Course_System=linkedin.com
+Course_Title=Linux Security and Hardening Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to tighten up the security on any Linux system. This course covers foundational security concepts and guidelines that can help Linux system administrators keep their Linux servers safe. It also takes you step-by-step though hardening measures. Explore some of the security weaknesses of the Linux operating system, and learn how to protect against those weaknesses. Instructor Jason Cannon goes over security concepts that apply to information security as a whole, while focusing on the Linux-specific issues that require special consideration. Learn about ways to prevent attackers from breaking into your systems when they have physical access to your machine. Plus, learn how to secure the various account types on a Linux system, enforce strong passwords, configure the firewall in Linux, and more.

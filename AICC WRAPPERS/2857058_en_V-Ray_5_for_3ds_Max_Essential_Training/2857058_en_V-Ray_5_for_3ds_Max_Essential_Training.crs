@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=2857058
+Course_System=linkedin.com
+Course_Title=V-Ray 5 for 3ds Max Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with the V-Ray 5 rendering engine inside 3ds Max. In this course, instructor Brian Bradley shows how to extend the range of 3ds Max using the many state-of-the-art tools and features found in this, the fifth version of the powerful rendering solution. Brian kicks off the course by covering several new tools included in V-Ray 5, including the Lighting Analysis tool and the Viewport IPR. He then dives into critical V-Ray concepts, including materials, image sampling, maps, and lighting, as well as how to create in-camera effects such as depth of field and motion blur. Brian also shows how to easily add lifelike effects to your 3D models using FX tools such as VRayFur.

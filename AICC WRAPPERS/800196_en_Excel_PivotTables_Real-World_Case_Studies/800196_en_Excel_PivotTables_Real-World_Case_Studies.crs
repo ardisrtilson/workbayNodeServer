@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=800196
+Course_System=linkedin.com
+Course_Title=Excel PivotTables: Real-World Case Studies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you grasp the basics of Excel PivotTables, you're ready to see how this powerful data analysis tool can add value in real-world situations. In this course— the final installment in a two-part series—instructor Chris Dutton dives into ten real-world case studies that showcase how PivotTables can be leveraged to explore and analyze data in a variety of situations. While the previous installment in this series dove into theory and the general ins and outs of PivotTables, this course helps expand your knowledge by looking at practical applications of the tool. Chris covers case studies on San Diego burrito ratings, historical shark attack records, major league baseball statistics, stock market data, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=5035816
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Monitoring and Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you want to keep track of the health, performance, and security of your entire stack running in the cloud, you'll need a monitoring and operations solution—and there are several robust options to choose from. This course explores the features and uses of leading cloud monitoring solutions so you can compare them against the needs of your infrastructure and organization. The first chapter covers the basics of cloud monitoring, including a discussion of governance, short-term analytics, long-term analytics, and cost. Then, instructor David Linthicum previews the latest tools and provides demonstrations of a few notable solutions. He wraps up with a practical set of guidelines and steps you can use to select and plan for the implementation of a cloud monitoring and operations solution.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2822404
+Course_System=linkedin.com
+Course_Title=SQL Server Machine Learning Services: Python
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to analyze SQL Server data with Python. Database expert Adam Wilbert shows how to use a powerful combination of tools, including high-performance Python libraries and the Machine Learning Services add-on, directly inside SQL Server to streamline analysis. Adam shows how to use Python scripts to perform statistical analysis, generate graphics such as scatterplots and bar charts, and process tabular data. He also explains how to turn a Python script into a stored procedure and set up standalone ML services to execute scripts without impacting SQL Server performance.

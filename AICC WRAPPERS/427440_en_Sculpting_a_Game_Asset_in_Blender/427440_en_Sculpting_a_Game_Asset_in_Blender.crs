@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=427440
+Course_System=linkedin.com
+Course_Title=Sculpting a Game Asset in Blender
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blender's sculpting tools are great for modeling, but they also can be used to create fine-detail textures for your 3D models, whether for animations or games. In this course, Darrin Lile demonstrates how to use Blender's Multiresolution modifier and sculpting tools to create texture maps that simulate high-poly sculpt information. He reviews the process of baking these textures out to normal and ambient occlusion texture maps, and then shows how to apply them to your 3D game assets in Unity.

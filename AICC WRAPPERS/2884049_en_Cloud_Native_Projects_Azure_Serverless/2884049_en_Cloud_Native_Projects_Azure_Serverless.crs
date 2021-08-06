@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2884049
+Course_System=linkedin.com
+Course_Title=Cloud Native Projects: Azure Serverless
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you are new to cloud native serverless programming, you may be wondering about what tools are out there for your use and what types of projects you can complete with them. In this series of courses, instructor Frank P Moley III walks you through a variety of cloud native projects. This course focuses specifically on Azure Functions as a serverless framework. Frank introduces Azure Functions, shows you some of the benefits and risks of a serverless-based system, and explains the most common use cases for serverless. He covers Python-based Azure Functions and how you can deploy and run an Azure Function written in Python. Frank goes into Java-based Azure functions and how you can deploy and execute Azure Functions written in Java. He also gives you challenges and possible solutions for both Python and Java.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=622045
+Course_System=linkedin.com
+Course_Title=Learning Cinema 4D R19
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with Cinema 4D R19. In this course, explore the core techniques you need to know to create 3D models and animation with the latest version of C4D. Andy Needham goes over concepts that are essential to understanding how the software functions, and explores different artists' work to help you visualize what can be created with C4D. He then demonstrates how to plan a C4D project, and shows how to animate the camera, add lighting, create and apply materials, organize and render the project, and more.

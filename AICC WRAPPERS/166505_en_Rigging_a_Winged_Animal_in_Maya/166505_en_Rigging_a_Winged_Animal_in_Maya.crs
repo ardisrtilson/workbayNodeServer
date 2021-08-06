@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Baskin
+Course_ID=166505
+Course_System=linkedin.com
+Course_Title=Rigging a Winged Animal in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to rig an entire bird character from start to finish in Maya. Jason Baskin takes you through the complete process, starting with a virtual skeleton—positioning joints and orienting them so that they behave predictably. You'll add controls so an animator can later keyframe and pose the character, concentrating on the wings and then moving to the feet and back. Then you'll establish the feather behavior, adding controls and attributes that allow the wing to be shaped for flight or rest. Jason even shows how to create squash, stretch, and bend deformations for more cartoonish animation styles. Finally, you'll bind the mesh to the skeleton and take your bird for a test flight.

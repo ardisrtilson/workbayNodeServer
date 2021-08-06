@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=718671
+Course_System=linkedin.com
+Course_Title=MERN Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Curious about how MongoDB, Express, React, and Node.js, or MERN, work together, and how to build a full-stack application with the MERN stack? In this course, instructor Emmanuel Henri shows you how. Using practical examples, he shines a spotlight on each step of the process. Learn how to set up your initial Node.js and Express server; set up your Mongo database; define the needed endpoints; create a React front end; and add a form to present data to users.

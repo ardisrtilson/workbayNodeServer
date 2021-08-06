@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2856084
+Course_System=linkedin.com
+Course_Title=Secure Coding in Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The enduring popularity of Java makes it a target for bad actors. And its prevalence in internal enterprise applications—which are vulnerable to attacks from employees with insider knowledge—renders secure coding practices even more critical. In this course, instructor Frank Moley helps advanced Java developers kick-start their secure coding journey, providing a high-level look at common attacks against Java applications, as well as how to prevent and defend against those threats. Frank discusses how to prevent SQL injection attacks, identify places where sensitive data is stored and avoid exposing it to the outside world, write code that protects the integrity of the system, and more. Along the way, he provides challenges that allow you to put your new skills to the test.

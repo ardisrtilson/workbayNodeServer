@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=417076
+Course_System=linkedin.com
+Course_Title=Rhino: Designing for Consumer Electronics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Improve your Rhino modeling and workflow skills while you build a handheld game controller. Author Dave Schultze shares some of his killer tips to build parts quickly and intelligently, so you get results fast and have maximum flexibility for changes. The final product will have joysticks, buttons, triggers, and a D-pad—just like the real thing. Want to build a matching console? Check out Rhino Projects: Building a Gaming Console.

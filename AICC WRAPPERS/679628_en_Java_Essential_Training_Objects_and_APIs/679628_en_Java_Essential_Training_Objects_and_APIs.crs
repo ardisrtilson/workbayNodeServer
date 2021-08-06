@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=679628
+Course_System=linkedin.com
+Course_Title=Java Essential Training: Objects and APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you want to build applications for mobile devices, desktop computers, or the web, you need to know Java—and keep your knowledge up to date as the language evolves. Java 9 is changing quite a few important aspects of the programming workflow, particularly the handling of objects and APIs. This course is the second in the Java Essential Training series, which provides the foundation for learning Java 9. Instructor David Gassner starts by showing how to debug Java code in IntelliJ IDEA, and handle any exceptions that occur. He explains how to create custom classes and understand how Java implements inheritance, a core principle of object-oriented programming. Plus, learn how to store data in memory with the Java Collections Framework, extend Java with popular APIs, make network requests, and package your applications for deployment in JAR files.

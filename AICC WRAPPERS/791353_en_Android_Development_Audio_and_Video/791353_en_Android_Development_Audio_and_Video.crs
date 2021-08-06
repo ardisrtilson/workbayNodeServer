@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Moore
+Course_ID=791353
+Course_System=linkedin.com
+Course_Title=Android Development: Audio and Video
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to incorporate video and audio into your Android app? If so, then this course is for you. Join instructor Kevin Moore as he shows how to support video and audio playback using either the system widgets or ExoPlayer. Kevin begins by covering the Android multimedia framework, explaining how to work with AudioManager to control audio focus and volume, as well as how to play audio with MediaPlayer. Plus, learn how to work with the SoundPool class for preloading and playing audio, create a media-rich project with ExoPlayer—an application-level media player from Google—and more. Follow the coding examples throughout the course for hands-on learning.

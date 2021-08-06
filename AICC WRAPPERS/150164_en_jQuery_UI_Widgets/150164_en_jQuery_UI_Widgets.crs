@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=150164
+Course_System=linkedin.com
+Course_Title=jQuery: UI Widgets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Despite the possibilities offered in HTML5, there's still a call for customizable widgets that can be used in websites and web apps. jQuery UI, a popular plugin for jQuery, is here to answer that call. Joe Chellman shows how to install the plugin, use the accordion and date picker widgets, and add behaviors that change how existing page elements respond to user input. Finally, you'll apply the concepts you've learned to a typical project you might see coming from a client—a survey form. This course is a short companion piece to jQuery for Web Designers. See that course for information about building your core jQuery skill set.

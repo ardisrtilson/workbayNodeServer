@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2825443
+Course_System=linkedin.com
+Course_Title=Angular: Creating and Hosting a Full-Stack Site
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You've learned Angular and can create amazing front-end interfaces—but deploying them requires more than just Angular. You need logic running on the server, and a place to put that logic. If you want to apply your Angular skills to a broader range of projects—but you're not very familiar with server-side development—then this course is for you. Join instructor Shaun Wassell as he steps through how to build a full-stack, Angular-powered website from scratch. Shaun demonstrates how to create an Angular 9 front end and write a back end in Node.js using hapi. He then shows how to add MySQL to your back end, connect the front and back ends, add Firebase Authentication to your project, and move your full-stack application to the cloud.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Japikse
+Course_ID=765404
+Course_System=linkedin.com
+Course_Title=ASP.NET Core New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Navigating all of the new features in each release of ASP.NET Core can be challenging. In this project-based course, Phil Japikse helps to simplify this process by laying out the new features in ASP.NET Core 1.0, 1.1, 2.0, and 2.1, and acquainting you with the benefits of each. Phil begins by providing a general overview of .NET Core and discussing migration considerations. He then dives into ASP.NET Core 1.0, discussing the updated project structure, new environmental awareness, view components, and other new features. He then moves on to discuss ASP.NET Core 1.1, 2.0, and 2.1, diving into helpful new features and functionality present in each iteration of the web framework.

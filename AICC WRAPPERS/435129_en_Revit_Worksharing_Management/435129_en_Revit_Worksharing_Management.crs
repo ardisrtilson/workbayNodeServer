@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=435129
+Course_System=linkedin.com
+Course_Title=Revit Worksharing: Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Our three-part series, Revit Worksharing, explores the ways that you can collaborate with other users on a Revit project using worksharing. If you are a CAD/BIM manager or the person responsible for the creation, setup, and maintenance of a workshare-enabled project, then this is the course for you. Paul F. Aubin teaches you the skills you need to create your central model, configure worksharing settings, and perform ongoing maintenance as the project progresses. Learn how to move a central file, update links, upgrade projects, open local copies in detached mode, and archive the project when it's done. Plus, find out how to monitor sharing and user activity. This course covers all the skills you need to manage worksharing projects from start to finish. Need to train your users? Have them watch the companion course, Revit Worksharing: Users, which covers the details of creating, editing, and syncing local files.

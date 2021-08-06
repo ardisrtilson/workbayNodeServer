@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aaron F. Ross
+Course_ID=365284
+Course_System=linkedin.com
+Course_Title=Learning RealFlow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+RealFlow is the motion picture industry's standard tool for liquid simulations. It's a standalone application that offers robust interoperability with most popular 3D programs. In this introductory course, you'll explore the powerful features of the RealFlow core application, and see how RealFlow is integrated into Maya and 3ds Max. You'll learn how to create small-scale effects with standard particles, create free-flowing water effects with the Hybrido solver, and simulate open bodies of water such as oceans and ponds with RealWave. Author Aaron F. Ross also shows how to control interactions between objects and fluids with Caronte, the rigid- and soft-body physics engine included with RealFlow.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Angie Taylor
+Course_ID=429033
+Course_System=linkedin.com
+Course_Title=After Effects: Character Animation Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how easy it is to bring your characters to life in Adobe After Effects. Join Angie Taylor as she shares tips and tricks for animating within this powerful motion graphics and compositing application. Learn how to set up anchor points, link the different parts of your characters together in a parental hierarchy, and create a simple character rigging system. Get tips for using the Puppet tool, including how to create a sense of depth in your animations and fix glitches with Starch pins. Plus, discover how to link master properties to your Puppet tool rig; leverage RubberHose, a rigging script for After Effects; and easily automate a lip-sync animation.

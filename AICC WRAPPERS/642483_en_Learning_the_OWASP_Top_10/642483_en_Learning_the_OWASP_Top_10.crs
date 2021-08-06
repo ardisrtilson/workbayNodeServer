@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Caroline Wong
+Course_ID=642483
+Course_System=linkedin.com
+Course_Title=Learning the OWASP Top 10
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+It seems like there is a security-related incident in the news every day. What makes systems—and the software that runs them—vulnerable to attack? The Open Web Application Security Project (OWASP) was formed to provide the public with the resources to understand and improve software security. The OWASP Top 10 list describes the ten biggest vulnerabilities. In this course, application security expert Caroline Wong provides an overview of the 2017 OWASP Top 10, presenting information about each vulnerability category, its prevalence, and its impact. Though aimed at IT security professionals and developers, anyone who uses web applications will benefit from an understanding of these risks. Note: More information about the OWASP Top 10 list can be found on the Cobalt website.

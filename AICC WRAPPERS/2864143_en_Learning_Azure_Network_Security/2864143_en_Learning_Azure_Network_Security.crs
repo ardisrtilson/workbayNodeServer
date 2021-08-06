@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2864143
+Course_System=linkedin.com
+Course_Title=Learning Azure Network Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft lists over 600 services offered by Azure, its popular cloud computing service. A key component across the hundreds of Azure services is, of course, security. In this course, Instructor Shyam Raj provides foundational coverage of the security features offered by Azure. Starting with topics like managed firewall services and protection against DDoS attacks, Shyam also covers Azure identity services, including key elements like authentication, authorization, and Azure Active Directory, and details use cases for the Azure Security Center. If you’re new to Azure, are an IT professional exploring the Azure services, or just want a deeper look at the security piece of the AZ-900 Azure Fundamentals exam, this course is for you.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=594443
+Course_System=linkedin.com
+Course_Title=SQL Server 2016: Administer a Database Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server comes with many features for monitoring, securing, optimizing, and supporting your database infrastructure. Learn how to use these features to administer your SQL Server instances, and prepare for the Microsoft MCSA Administering a SQL Database Infrastructure (70-764) certification exam. Adam Wilbert covers four main skill areas required of SQL Server 2016 administrators: configuring access to data, managing backups, monitoring performance, and implementing the high-availability features of the product. Learn about data encryption, access control, role-level security, and dynamic data masking. Use SQL Server auditing to gain insights into the health and performance of your system, and determine upgrade paths. Discover how to back up SQL Server and perform full or partial restores, and monitor activity. Explore indexing and query execution plan management. Plus, learn to configure availability groups to mitigate hardware failure.

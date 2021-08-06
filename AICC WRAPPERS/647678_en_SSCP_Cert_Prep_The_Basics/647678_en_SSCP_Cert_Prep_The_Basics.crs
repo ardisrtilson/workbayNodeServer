@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=647678
+Course_System=linkedin.com
+Course_Title=SSCP Cert Prep: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The (ISC)2 Systems Security Certified Practitioner (SSCP) certification is an excellent entry point to a career in IT security. In this course, Mike Chapple provides a big-picture perspective of the SSCP exam, including an overview of the seven domain topics, what to expect from the questions, and how to best prepare for the exam. The course is the introduction to the SSCP Cert Prep series, which goes over each domain in more depth. Mike also includes additional resources for study and a discussion of the SSCP continuing education requirements.

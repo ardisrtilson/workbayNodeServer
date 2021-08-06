@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kacie Hultgren
+Course_ID=609006
+Course_System=linkedin.com
+Course_Title=Design for Additive Manufacturing: FDM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fused deposition modeling (FDM), also known as fused filament fabrication (FFF), is a common type of 3D printing. Whether you are using FDM for prototyping or producing end-use parts, a design for manufacturing process will ensure your parts are easy to manufacture on FDM printers. Join Kacie Hultgren for a comprehensive overview of FDM design principles. Optimize your parts by understanding key concepts like orientation, tolerance, and support material. Learn how to use programs such as Cura and MakerBot Print to visualize your design before 3D printing, and achieve accuracy, fit, and strength. In chapter eight, Kacie uses Fusion 360 to take you step by step through a sample project—a hinged box—that puts these design strategies into action.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2803425
+Course_System=linkedin.com
+Course_Title=Online Application Security Testing Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building security testing into the software development life cycle is the best way to protect your app and your end users. This course identifies tools and techniques that developers can use to minimize the cost and impact of security testing—while maximizing its impact and effectiveness. In this course, instructor Jerod Brennen focuses on online testing, using security scanning, penetration testing, and vulnerability testing to validate code and uncover vulnerabilities. He explains the difference between positive and negative, manual and automated, and production and nonproduction testing, so you can choose the right kind for your workflow. The hands-on sections—with demos of popular tools such as Fiddler, Burp Suite, and OWASP OWTF—prepare you to apply the lessons in the real world.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kathryn Hodge
+Course_ID=2833043
+Course_System=linkedin.com
+Course_Title=Learning Infrastructure for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many software developers write features and merge them into QA without any insight into their application’s infrastructure. If you're a developer who's curious about the infrastructure that helps serve your application to customers—as well the decisions that must be made to keep your app working smoothly—then this course is for you. Join instructor Kathryn Hodge as she delves into the topic of infrastructure, explaining how the code you write fits into the rest of the technology stack. Get an overview of how the internet works, and discover how you can run your code locally with localhost. Learn how to build a remote computer on the cloud and access it using the SSH protocol. Discover how to determine where your servers live, balance traffic using load balancers, and push your code to the internet. Plus, explore advanced topics that are important to building high-availability applications, such as blue-green deployments, traffic flow, and scaling vertically or horizontally.

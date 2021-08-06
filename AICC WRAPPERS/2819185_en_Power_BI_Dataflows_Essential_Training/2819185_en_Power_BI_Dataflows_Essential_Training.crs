@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Helen Wall
+Course_ID=2819185
+Course_System=linkedin.com
+Course_Title=Power BI Dataflows Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power BI offers a wide variety of capabilities, ranging from custom data connectors to custom dashboard visuals. In this course, instructor Helen Wall shines a spotlight on one of its most powerful and practical features: dataflows. Using dataflows in Power BI, you can easily ingest, transform, integrate, and enrich data from a wide variety of sources. Using practical examples, Helen explains how to boost efficiency and eliminate duplicate work by using dataflows to scale the extract, transform, and load (ETL) process across many users of Power BI data and dashboards. She demonstrates how to connect to various data sources within the Power BI cloud platform; leverage Power Query Online to transform data into useable data sets accessible to users; connect a Power BI Desktop file to a Power BI dataflow in the cloud; share dataflows to ensure that several users can connect to the same ETL process; schedule refresh schedules for those dataflows; and more.

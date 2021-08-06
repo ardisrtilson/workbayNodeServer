@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett, Ernest Mueller
+Course_ID=574705
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Infrastructure as Code
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By automating configuration management, you can make your organization's systems more reliable, processes more repeatable, and server provisioning more efficient. In this course, learn the basics of infrastructure as code, including how to keep your configuration in a source repository and have it built and deployed like an application. Discover how to approach converting your systems over to becoming fully automated—from server configuration to application installation to runtime orchestration. Well-known DevOps practitioners Ernest Mueller and James Wickett dive into key concepts, and use a wide variety of tools to illustrate those concepts, including Chef, CloudFormation, Docker, Kubernetes, Lambda, and Rundeck. After you wrap up this course, you'll have the knowledge you need to start implementing an infrastructure as code strategy.

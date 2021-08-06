@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Laura Stone
+Course_ID=806153
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Microservices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microservices—a technique where software is structured as a set of loosely coupled services—improve the composability and maintainability of code. They help engineering teams ship high-quality code faster. Once you are aware of their benefits, you may want to know how to operate microservices in an actual production environment. This course focuses on the tools, processes, and strategies you need to successfully adopt a microservices architecture in production. Instructor Laura Stone explains how to establish service readiness—from testing strategies to continuous integration and delivery, versioning, documentation, and more. Then explore different integration methods that will ensure the resilience of your architecture, as well as best practices for logging and monitoring and incident response. The course wraps with a look at a case study and some tips for overcoming the technical and cultural challenges in adopting microservices at an organization.

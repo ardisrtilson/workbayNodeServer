@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2814044
+Course_System=linkedin.com
+Course_Title=WordPress: Backing Up Your Site
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Backups are critical to getting a WordPress site running again when it's broken or, even worse, hacked. In this course, Morten Rand-Hendriksen covers four different methods for backing up and restoring your WordPress site: manual backups, host-managed backups, third-party plugins, and migration plugins. Morten explores the benefits and drawbacks of each approach, details how they work, and shows how to use each option to restore your site to a stable state. Devote some time to learning how to start backing up your WordPress data now, and save hours of frantic scrambling later.

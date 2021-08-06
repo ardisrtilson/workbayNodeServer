@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Modglin
+Course_ID=672247
+Course_System=linkedin.com
+Course_Title=AutoCAD: Creating an Enterprise Custom User Interface
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Almost every company that uses AutoCAD modifies it to suit their workflow. Custom user interfaces (CUIs) take customization to the next level, allowing organizations to standardize the tools and commands for their users. This course teaches CAD and BIM managers how to configure enterprise CUIs that can be deployed to an entire network. Instructor Josh Modglin shows how to create a new CUI, adjust the interface elements and controls, and set a main CUI apart from the enterprise CUI so that users can make their own modifications.

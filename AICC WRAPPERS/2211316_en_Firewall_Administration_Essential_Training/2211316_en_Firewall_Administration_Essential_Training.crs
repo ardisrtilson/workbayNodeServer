@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=2211316
+Course_System=linkedin.com
+Course_Title=Firewall Administration Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security is the greatest need in the digital world right now, and it shows no sign of slowing down. And when it comes to protecting a private network, a firewall is the most fundamental security technology out there. In this course, Sean Colins covers the fundamentals of firewall functionality, configuration, and administration in short, easy-to-understand segments designed to put this complex network security technology into the reach of novice to intermediate firewall administrators. Sean goes over basic and advanced firewall configuration tasks, shares practical case studies, and offers troubleshooting tips. Upon wrapping up this course, you'll be ready to get your own firewall up and running on your network.

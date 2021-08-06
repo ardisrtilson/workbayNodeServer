@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Brazzi
+Course_ID=2886079
+Course_System=linkedin.com
+Course_Title=Microsoft Teams: Working with Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By working with apps in Teams, you can do more than simple messaging and video calls. You can extend the capabilities of Teams using add-on apps. Some apps bring familiar Microsoft 365 tools and services into the Teams interface, but there are hundreds of other apps offered by 3rd party developers. In this short course, Nick demonstrates different ways to work with apps in Teams, including collaborating with apps in a team channel or chat or using apps during Teams meetings. This course also explores useful apps to streamline your work, such as Shifts, Lists, OneNote, and Polly. Nick also introduces some of the apps included in the Microsoft Viva platform and shows how to use Teams apps on a mobile device.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2281185
+Course_System=linkedin.com
+Course_Title=GraphQL Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+GraphQL—a query language for APIs that was originally built by Facebook—makes it easier for you to get the data you actually need from a query. In this course, learn how to get started with GraphQL. Instructor Emmanuel Henri walks through how to set up GraphQL, explores the GraphQL schema, and goes over the basic types and fields. He also shows how to set up persistence—including how to use SQL and MongoDB with GraphQL; covers how to add new items with mutations; and shares how to leverage some advanced features in your queries.

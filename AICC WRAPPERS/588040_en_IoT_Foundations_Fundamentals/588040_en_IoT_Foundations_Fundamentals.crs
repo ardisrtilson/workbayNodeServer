@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bruce Sinclair
+Course_ID=588040
+Course_System=linkedin.com
+Course_Title=IoT Foundations: Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet of Things (IoT) is more than just smart or connected devices. In this course, learn what IoT is, and how it works from a technical standpoint. Bruce Sinclair provides a broad overview of IoT, explaining each of its main components. He also goes into the software-defined product—the digital twin of the physical product—as well as the hardware-defined product, explaining how sensors and embedded systems help to gather data. Plus, he dives into the network fabric, and explains what external systems are and why it's important to consider them when designing an IoT product.

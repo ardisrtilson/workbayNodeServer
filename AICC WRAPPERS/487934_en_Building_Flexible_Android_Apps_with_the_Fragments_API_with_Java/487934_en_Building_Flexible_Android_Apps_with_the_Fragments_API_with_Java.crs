@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=487934
+Course_System=linkedin.com
+Course_Title=Building Flexible Android Apps with the Fragments API with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most common challenges Android developers face is the variation in screen sizes among the thousands of phones, tablets, and other devices that run Android. The Fragments API (introduced in Android 3.0) provides an elegant solution. With fragments, you can build flexible layouts that adapt to any screen size—and do so dynamically, at runtime. In this course, David Gassner shows how to define a layout, add fragments to activities with Java or XML, create alternative layouts for different screen sizes, and use resource folder names to detect and select the right layout. He also shows you how to communicate between activities and fragments with arguments and callback methods, and use fragments to manage dialogs and shared preferences.

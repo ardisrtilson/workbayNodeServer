@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Benkovich
+Course_ID=2243050
+Course_System=linkedin.com
+Course_Title=Exploring Performance and Scale with Data Options in Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Relational engines can be a solid choice for working with data, but Microsoft Azure offers many additional options, each with its own unique performance characteristics, features, and capabilities. In this course, Mike Benkovich explores what those options are and how to get the most from your investment. Mike explores storage options, including relational, NoSQL, and document databases, showing the pros and cons of each one. He steps through how to convert a real application that uses SQL Server to use Cosmos DB and Azure Storage. Plus, he looks at how to leverage storage patterns to make the most out of your investment in the cloud.

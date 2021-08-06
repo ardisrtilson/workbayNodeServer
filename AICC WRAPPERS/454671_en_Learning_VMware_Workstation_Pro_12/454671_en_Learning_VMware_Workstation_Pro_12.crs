@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Winnie
+Course_ID=454671
+Course_System=linkedin.com
+Course_Title=Learning VMware Workstation Pro 12
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware Workstation Pro is for the developer or IT professional who needs to program, test, and deploy software on multiple operating systems—all from a single PC. In this introductory course, Doug Winnie covers installing VMware Workstation Pro and setting up Windows 10, Windows XP, and Ubuntu Linux as guest operating systems. He also covers file sharing, connecting hardware such as printers, and managing snapshots.

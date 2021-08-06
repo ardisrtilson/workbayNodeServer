@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=2809158
+Course_System=linkedin.com
+Course_Title=AutoCAD: Developing A Prefab Unit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Modular and prefabricated units continue to be important in building design and construction. Explore how to use AutoCAD to create a prefab unit, starting with a simple 2D plan drawing that can be inserted into an overall 3D construction model such as a high rise building or office block. See how to use 2D drafting to lay out the basic plan of your unit, then create a 3D workspace to solidify the design. Using 3D modeling, discover how to add 3D walls and structural openings at appropriate levels in the unit design, add a floor and ceiling, and then complete the prefabricated unit that could be built offsite and craned in to a larger project.

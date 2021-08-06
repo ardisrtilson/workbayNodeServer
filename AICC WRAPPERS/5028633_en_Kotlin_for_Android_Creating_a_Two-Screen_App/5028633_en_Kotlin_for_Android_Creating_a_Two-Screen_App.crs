@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chiu-Ki Chan
+Course_ID=5028633
+Course_System=linkedin.com
+Course_Title=Kotlin for Android: Creating a Two-Screen App
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you already created a Hello World application? In this course, learn how to transform your basic application into a two-screen Android app—complete with a button that allows you to move between screens—using the Kotlin programming language. Instructor Chiu-Ki Chan walks through how to add an activity to your Android app and connect it using an intent. Along the way, she shows how to customize activities, pass parameters to other activities using intent extras, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2825483
+Course_System=linkedin.com
+Course_Title=Learning Power BI Desktop
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power BI Desktop—the powerful data analysis and visualization software from Microsoft—can help you get more insights from your data, whether that data is stored on your computer or in the cloud. In this course, discover how to leverage this easy-to-use tool to more efficiently model and visualize data. Learn how to connect various data sources, including Excel, databases, and web data sources like Wikipedia. Explore how to search and transform your data using the built-in Query Editor. Plus, instructor Gini von Courter shows how to build and arrange visualizations, create interactive reports, share your work, manage your published files in the Power BI service, and more.

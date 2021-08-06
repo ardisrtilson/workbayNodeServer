@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=765406
+Course_System=linkedin.com
+Course_Title=Learning HTML Canvas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript developers can create freeform graphics on a drawing surface known as the Canvas. The Canvas unlocks the ability to create rich, native web applications with 2D and 3D graphics. In this course, instructor Joe Marini introduces the technical concepts behind Canvas and shows how to perform drawing operations directly in a webpage. Learn how to draw basic and complex shapes, adjust colors and styles, and add shadows, patterns, and gradients. Then explore more advanced techniques such as scaling, rotating, and compositing objects. Plus, discover how to use Canvas elements to build a full-featured slideshow and a double-buffered animation.

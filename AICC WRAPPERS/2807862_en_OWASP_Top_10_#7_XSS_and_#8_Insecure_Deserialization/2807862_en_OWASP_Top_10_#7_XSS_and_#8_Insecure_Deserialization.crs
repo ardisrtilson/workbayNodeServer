@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Caroline Wong
+Course_ID=2807862
+Course_System=linkedin.com
+Course_Title=OWASP Top 10: #7 XSS and #8 Insecure Deserialization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Recent changes in application architecture and technology have sparked new opportunities and ways of working. But with these new advancements come new risks. The Open Web Application Security Project (OWASP) Top 10 list describes the ten biggest vulnerabilities that today's software developers and organizations face. In this course, Caroline Wong takes a deep dive into the seventh and eighth categories of security vulnerabilities in the OWASP Top 10—cross-site scripting (XSS) and insecure deserialization. Caroline covers how XSS and insecure deserialization work, providing real-world examples that demonstrate how they affect companies and consumers alike. She also shares techniques that can help you prevent these types of attacks.

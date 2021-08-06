@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gabriel Corbett
+Course_ID=418967
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS 2016 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This training course will teach you the essential tools and modeling techniques to design efficiently in SOLIDWORKS—the world's leading CAD software for product design and development. We use the simple but effective why, what, how method of teaching, with the end goal of creating manufacturing-ready parts and assemblies. Author Gabriel Corbett first shows how to create 2D sketches and use the Extrude and Revolve tools to turn those sketches into 3D parts. Then he shows how to create more complex geometry with sweeps, lofts, and cuts. Then we jump into lessons covering modifier tools such as Fillet, Chamfer, Draft, and Shell. Then you learn how to create uniform standard holes with the Hole Wizard, and use the pattern and mirror features to reuse geometry. Next we combine parts into assemblies and create a moving assembly from parts and subassemblies. Finally, we create accurately annotated drawings, ready to hand off to a manufacturer.

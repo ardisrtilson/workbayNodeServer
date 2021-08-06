@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2825495
+Course_System=linkedin.com
+Course_Title=Amazon EC2 Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Elastic Compute Cloud (Amazon EC2) provides secure, resizable compute capacity in the cloud. This course describes the fundamentals of this web service. Get introduced to the features of Amazon EC2, find out where it is available, and explore purchasing options based on instance preference: reserved, scheduled, spot, or dedicated. Learn how to work with AMI (Amazon Machine Image), how to launch an instance, and how to connect to an instance using Linux, Mac, or Windows.

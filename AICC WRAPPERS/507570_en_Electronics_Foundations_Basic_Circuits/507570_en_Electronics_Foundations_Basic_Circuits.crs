@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=507570
+Course_System=linkedin.com
+Course_Title=Electronics Foundations: Basic Circuits
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As is the case with many technical projects, it's possible to assemble an electronic circuit without really understanding the different parts involved—you can just connect components together to match an electronic schematic. That said, in order to debug an existing circuit—or design your own—you have to actually understand how the individual electrical components work and how to use them together. In this course, join electrical engineer Barron Stone as he shares the knowledge and tools you need to learn exactly that. Barron demonstrates how to build basic circuits using resistors, capacitors, and inductors. He dives into how each component works and shows the common circuits that use them. He explains the difference between alternating current and direct current and how to use an oscilloscope to view electrical signals. Then, he demonstrates building passive filter circuits to remove unwanted frequency components from those signals.

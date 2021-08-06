@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin L. Jackson
+Course_ID=5007866
+Course_System=linkedin.com
+Course_Title=Cloud Security Considerations for the Financial Services Industry
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud computing has real-world security implications for a number of industries. The financial services industry faces unique cybersecurity challenges, including rules and regulations to prevent fraud and protect consumer data. This course explores the cloud security requirements specific to finance, broken down by region: Asia, the Middle East, Europe, Oceania, Africa, and the Americas. Instructor Kevin L. Jackson provides a preliminary overview of cloud computing and its vulnerabilities, as well as the financial services industry’s approach to cybersecurity in general. He then provides regional breakdowns, exploring security requirements for each area. The course concludes with a review of key threats and some real-world case studies that show how different security controls can be used to defend enterprises from similar attacks.

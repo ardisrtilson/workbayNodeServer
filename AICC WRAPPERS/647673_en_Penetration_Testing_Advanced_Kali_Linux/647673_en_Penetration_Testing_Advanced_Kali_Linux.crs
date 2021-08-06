@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=647673
+Course_System=linkedin.com
+Course_Title=Penetration Testing: Advanced Kali Linux
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kali Linux is the pen-testing professional's main tool, and includes many hundreds of modules for scanning, exploitation, payloads, and post exploitation. In this course you can learn how to use Kali for advanced pen testing, including stealthy testing, privilege escalation, tunneling and exfiltration, and pivoting. Learn how to use the basic toolset and extend Kali, integrating native exploits into the Metasploitable environment. Find out how to generate and maintain a variety of shells, including Python and C++, and discover how to collect and use credentials. Get an introduction to the online Hack The Box lab where you can practice your pen-testing skills. Instructor Malcolm Shore focuses on the advanced customization of exploits and achieving root access through a sustainable shell. He has designed the course to help the learner advance as a professional pen tester, and learn key objectives needed to pass the Offensive Security Certified Professional (OSCP) exam. The training will appeal to all ethical hackers and pen testers, as well as general IT professionals.

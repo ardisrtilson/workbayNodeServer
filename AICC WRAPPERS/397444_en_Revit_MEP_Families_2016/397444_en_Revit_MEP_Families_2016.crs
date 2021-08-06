@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=397444
+Course_System=linkedin.com
+Course_Title=Revit: MEP Families (2016)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Revit families are an incredible feature, offering libraries of ready-made objects that can be used in CAD drawings or customized to fit any project. Families can also be modeled from scratch and shared with colleagues and clients. This course dives into Revit MEP families, a specific family type for mechanical, electrical, and plumbing (MEP) design. Author Eric Wing shows how to model MEP families on a topic-by-topic basic, so you can learn the ins and outs of family creation while modeling exactly what you need for your drawings today. The course starts with a review of the basics: parameters, connectors, dimensions, and various family modeling techniques. Then Eric investigates specific parts and systems that can be created with Revit families: electrical panels and junction boxes, recessed and track lighting, HVAC systems with ducting and air terminals, and pipe systems. Along the way, he introduces the reference planes, parameters, shapes, and hosting options necessary to build families on your own.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=571626
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Advanced Networking Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're a Windows Server 2016 administrator, mastering the multitude of advanced networking features offered by Microsoft can prepare you to tackle the high-performance and software defined networking scenarios you may encounter on the job. In this course, learn about these advanced networking features and how to use them to keep a high-performance data center running smoothly. Instructor Scott Burrell goes over how to configure and leverage NIC Teaming, and work with high-performance SMB environments and high-performance virtual networks. Plus, he covers software defined virtual network topics—for example, how to work with GRE tunnels—goes over different Windows Server Gateway scenarios, and shares how to plan and implement firewall policies.

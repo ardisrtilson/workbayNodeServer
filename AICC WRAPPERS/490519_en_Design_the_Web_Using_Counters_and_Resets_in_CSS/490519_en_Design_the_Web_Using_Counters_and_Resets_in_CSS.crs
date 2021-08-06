@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=490519
+Course_System=linkedin.com
+Course_Title=Design the Web: Using Counters and Resets in CSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The CSS counter properties support the automatic numbering of HTML elements—much like an unordered list, but on any HTML element. There is no impact on the underlying code and when you move content around, the numbers automatically update. Learn how to use counters in your web designs in this episode of Design the Web. Chris Converse shows how to apply counters to different elements, including headings and captions, and combine, reuse, and reset counters on a webpage.

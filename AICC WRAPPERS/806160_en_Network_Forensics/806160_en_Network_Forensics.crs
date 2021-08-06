@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=806160
+Course_System=linkedin.com
+Course_Title=Network Forensics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Network forensics is used to find legal evidence in network devices. In this course, Jungwoo Ryoo covers all of the major concepts and tools in this growing technical field. Jungwoo begins by reviewing the basics: the goals of network forensics, a network forensic investigator's typical toolset, and the legal implications of this type of work. Then, he shows how to prepare for an investigation; acquire network logs and investigate network events; collect and investigate network traffic; and leverage various network forensics tools, such as Wireshark, Splunk, and tcpdump. Along the way, he uses a combination of open-source and commercial software, so you can uncover the information you need with tools that are in your budget.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=731739
+Course_System=linkedin.com
+Course_Title=Manage Apps with Configuration Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how System Center Configuration Manager (SCCM) can help you manage and push out applications with greater ease and efficiency. In this course, instructor Robert McMillen shows enterprise desktop administrators how to create, manage, and deploy a variety of apps—including virtual apps and Office 365 apps—with SCCM. Learn how to leverage PowerShell scripts to efficiently deploy apps and accomplish commonplace tasks at a faster clip. Plus, learn how to create and deploy App-V virtual applications with SCCM, as well as configure software updates to support Office 365. The topics covered in this course can help you prepare for Microsoft certification exam 70-703: Administering Microsoft System Center Configuration Manager and Cloud Services Integration.

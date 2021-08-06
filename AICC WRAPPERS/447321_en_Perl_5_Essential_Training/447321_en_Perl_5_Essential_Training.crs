@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=447321
+Course_System=linkedin.com
+Course_Title=Perl 5 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Perl is a powerful and flexible scripting language that is uniquely suited to website development, system administration, and network programming. Perl 5 was originally released in 1994, and continues to evolve. The Modern Perl movement has embraced its mature syntax and reusable modules. Bill Weinman has designed this course to give the Perl student enough command of the language to write efficient and effective Perl scripts and maintain existing codebases. Watch to learn the details of the Perl syntax, from variables, conditionals, loops, and data structures to regular expressions, functions, and references. A quick-start guide is included for experienced developers who want to get up and running with Perl 5 fast, and the entire course is recommended for both new and experienced programmers alike. Later chapters cover file handling and reusing code with Perl modules, plus Perl best coding practices.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=2812137
+Course_System=linkedin.com
+Course_Title=Learning R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you want to participate in the data revolution, you need the right tools and skills. R is a free, open-source language for data science that is among the most popular platforms for professional analysts. Learn the basics of R and get started finding insights from your own data, in this course with professor and data scientist Barton Poulson. The lessons explain how to get started with R, including installing R, RStudio, and code packages that extend R’s power. You also see first-hand how to use R and RStudio for beginner-level data modeling, visualization, and statistical analysis. By the end of the course, you’ll have a thorough introduction to the power and flexibility of R, and understand how to leverage this tool to explore and analyze a wide variety of data.

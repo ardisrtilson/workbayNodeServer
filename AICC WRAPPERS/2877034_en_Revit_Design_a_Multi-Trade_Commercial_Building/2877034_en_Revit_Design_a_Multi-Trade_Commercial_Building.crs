@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=2877034
+Course_System=linkedin.com
+Course_Title=Revit: Design a Multi-Trade Commercial Building
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building projects are the product of the application of a variety of trades. When the time comes for construction, you'll develop a BIM Execution Plan (BxP) to govern the workflow across the various trades that come together. In this comprehensive, project-based course, instructor Eric Wing shows you how to apply Civil 3D, Revit, and BIM 360 across the entire scope of a commercial building. Eric takes you through this process from start to finish, using a complete design project. He begins by showing you how to set up the project with a Civil 3D drawing and a Civil Revit model. Eric goes over each step in architectural modeling, from exterior wall systems to stairs, railings, and elevators. He discusses key aspects of structural modeling and MEP modeling, which links in other trades. Eric concludes by showing you how to set up your model so that multiple people can work on it.

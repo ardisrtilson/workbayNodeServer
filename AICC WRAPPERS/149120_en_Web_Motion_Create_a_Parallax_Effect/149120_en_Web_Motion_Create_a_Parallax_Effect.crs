@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=149120
+Course_System=linkedin.com
+Course_Title=Web Motion: Create a Parallax Effect
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Parallax is an optical illusion that gives 2D objects a sense of depth. Parallax motion, on the other hand, is when objects in the foreground tend to move faster than the background. Adding parallax motion can make your web projects more interesting and immersive by adding the illusion of depth. In this course, Tom Green shows you how to build a parallax motion effect using a combination of Google Web Designer and Adobe Flash CC, and then create a separate, even more captivating effect in Edge Animate.

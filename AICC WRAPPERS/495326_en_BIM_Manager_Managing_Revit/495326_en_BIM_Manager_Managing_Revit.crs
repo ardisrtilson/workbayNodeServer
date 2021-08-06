@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=495326
+Course_System=linkedin.com
+Course_Title=BIM Manager: Managing Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Gain insight on how building information modeling (BIM) managers use Revit, and how you can align this software with your company's standards and workflow. To begin, create custom borders and shared parameters, and add a symbol list. Next, create custom templates using filters, phasing, and project browser organization. This course shows you how to perform these steps and how to model callout tags, elevation markers, sections, and levels, as well as how to set up a typical Revit work-sharing environment and master details model.

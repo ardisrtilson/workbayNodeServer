@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon-Luke West
+Course_ID=784296
+Course_System=linkedin.com
+Course_Title=Android Development Essential Training: Distributing Apps with Java
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Once you've created an Android app, it's time to share it with the world. Luckily, there are many avenues to distribution. This course focuses on the two primary channels: Google Play and the Amazon Appstore. The first step is to prepare your app, including cleaning up and optimizing code. Then you can learn how to package a signed application file for distribution and configure multiple variants with different features. Instructor Jon-Luke West—a product engineer who creates Android and iOS apps for a variety of markets—walks you through each step involved in getting your app into Google Play and Amazon, including creating graphics, setting pricing and product details, and publishing the app. He also shows how to track its success after release with the built-in reporting features offered by both stores, which cover everything from user feedback to crash statistics.

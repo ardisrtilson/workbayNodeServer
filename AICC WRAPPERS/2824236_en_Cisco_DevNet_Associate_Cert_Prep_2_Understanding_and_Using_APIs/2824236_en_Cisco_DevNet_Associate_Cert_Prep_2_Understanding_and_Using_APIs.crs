@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Chou
+Course_ID=2824236
+Course_System=linkedin.com
+Course_Title=Cisco DevNet Associate Cert Prep 2: Understanding and Using APIs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the Cisco DevNet Associate certification allows you to validate your ability to develop and maintain applications that are built on top of Cisco platforms. In this course, learn about using APIs to access network device features and services as you study for the Understanding and Using APIs domain of the Cisco DevNet Associate certification. Instructor Eric Chou details how to identify the basic components of API documentation and construct a request accordingly; reviews common usage patterns related to webhooks; and provides an introduction to API constraints. Eric also shares approaches for troubleshooting errors given the HTTP response code, details some of the most common API styles, and examines the three most common API authentication mechanisms and their advantages and disadvantages.

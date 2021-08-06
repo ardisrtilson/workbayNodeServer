@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=2834004
+Course_System=linkedin.com
+Course_Title=Exam Tips: Microsoft Azure Administrator (AZ-104)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning a Microsoft Azure certification can help you land a new job—or boost the salary of your current role. In this course, instructor Sharon Bennett—a Microsoft Certified Azure Solutions Architect Expert—lays out what you need to know to ace the Microsoft Azure Administrator exam (AZ-104). Sharon provides a high-level overview of each of the exam objectives, explaining what you need to know about managing Azure identities, deploying Azure compute resources, managing data in Azure Storage, and more. This course is not intended to serve as a deep dive into each of the technical skills tested on the exam; instead, Sharon provides insights into the structure of the exam itself and the skills you need to hone to pass the test.

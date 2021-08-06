@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=2823392
+Course_System=linkedin.com
+Course_Title=Microsoft Cloud Fundamentals: Troubleshooting Microsoft Online Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud-based tools and services such as Office 365, Teams, and OneDrive allow users to stay connected and productive from any location. In this course, instructor Andrew Bettany shares what you need to know to effectively troubleshoot these, and other, cloud-based online services from Microsoft. Andrew shares strategies for tackling common sign-in, password, and license issues. He also explains how to troubleshoot Microsoft Office 365, Outlook, and Office issues; handle Office 365 SharePoint Online problems, including how to recover deleted files in SharePoint Online sites; and tackle common problems with Microsoft Teams.

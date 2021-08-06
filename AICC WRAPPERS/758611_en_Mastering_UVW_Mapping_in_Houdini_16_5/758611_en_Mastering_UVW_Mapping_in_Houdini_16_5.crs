@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=758611
+Course_System=linkedin.com
+Course_Title=Mastering UVW Mapping in Houdini 16.5
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to apply and refine textures on 3D objects in Houdini with UVW mapping. In this course, Joel Bradley walks you through the UV tools available in Houdini 16.5 and shares specific situations where they may prove useful. Joel begins by explaining what UV mapping does, why you need it for your meshes, and how to set up, test, and alter UVs. He then moves on to more advanced topics, such as UV projection, texturing, and pelt mapping. He also shows how to group selections and create seams for complex object mapping, and how to sew specific UV clusters together for better seam management. Finally, Joel provides a look into the powerful Game Development Toolset that you can use for much more than games when working with Houdini and its UV mapping tool kit.

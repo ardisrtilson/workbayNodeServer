@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nigel French
+Course_ID=155651
+Course_System=linkedin.com
+Course_Title=Designing a Digital Magazine
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing for a digital magazine is similar to designing for a print magazine, but there are additional choices that you need to consider. Interactivity is important, but making it easy to read and navigate is even more critical. In this course, Nigel French covers how to use InDesign's digital publishing toolset to create a magazine for the iPad. He shows you how to add interactivity in the form of slideshows, maps, and audio and video. Plus, learn how to convert the project into a single edition iOS app.

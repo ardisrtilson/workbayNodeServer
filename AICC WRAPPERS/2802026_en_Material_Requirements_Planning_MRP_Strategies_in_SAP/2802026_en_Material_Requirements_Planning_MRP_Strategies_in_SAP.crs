@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2802026
+Course_System=linkedin.com
+Course_Title=Material Requirements Planning (MRP) Strategies in SAP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to calculate the materials required for product manufacturing with greater accuracy and speed within SAP. The SAP ERP tool has many different material requirements planning (MRP) strategies that are preconfigured and ready to implement; you just need to learn how to choose the right one. This course guides you through the configuration options and business processes behind the make-to-stock (MTS), make-to-order (MTO), and component-level MRP strategies. You can also explore a hybrid strategy for multi-use materials, for use with components in production and spare parts. Once you have completed this course, you should be able to pair the right material requirements planning strategy for every possible business scenario. This course was created by Michael Management. We are pleased to offer this training in our library.

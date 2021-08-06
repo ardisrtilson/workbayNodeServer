@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alexander Zanfir
+Course_ID=2810943
+Course_System=linkedin.com
+Course_Title=Learning Vuex
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You've built an awesome Vue.js application. But over time, you keep finding that the pieces you add don't quite integrate. Things seem to have a mind of their own, because loose connections that worked wonderfully at the beginning grow more challenging as your app gets larger. Vuex helps you bring all of the pieces together, providing a central place to manage your application's state. In this course, Alexander Zanfir steps through how to use this state management pattern and library to more effectively handle the complexities in medium-to-large-scale Vue.js apps. Alexander covers using getters to process your state data, modifying data using mutations, making asynchronous calls using actions, and more.

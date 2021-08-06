@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joey D'Antoni
+Course_ID=753902
+Course_System=linkedin.com
+Course_Title=SQL Server: Developer and DBA Collaboration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developers and database administrators (DBAs) sometimes have competing priorities—but they need to meet in the middle to ensure a successful user experience. In this one-hour class, you can learn why developers and DBAs approach application design differently, and how you can achieve compromise without sacrificing quality. Learn how to use Entity Framework and optimized queries, leverage stored procedures, and set up continuous development and deployment pipelines for your databases, while gaining some understanding about how to work together to build more robust, scalable applications.

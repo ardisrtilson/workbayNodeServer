@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2822665
+Course_System=linkedin.com
+Course_Title=Firebase Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To get a full-stack application up and running, developers often need to divert their attention from their core application to things like performance, security, offline functionality, hosting, and authentication. Firebase, once integrated correctly, takes all these concerns off the developer’s plate, allowing them to concentrate on building an app that delights users. In this course, instructor Shaun Wassell helps you get up to speed with Firebase. Shaun takes an in-depth look at how Firebase works, as well as some of the pros and cons of using the app development platform. He then demonstrates how to incorporate Firebase into a working React application, feature by feature, to turn it into a fully functional app. Learn how to leverage Firebase Authentication, which allows you to avoid setting up your own authentication server; Cloud Functions, which you can use to define back-end functionality; and more.

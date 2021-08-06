@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nishant Bhajaria
+Course_ID=2830013
+Course_System=linkedin.com
+Course_Title=Privacy by Design: Data Sharing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data sharing is vital for online businesses. Companies share user data with vendors to help grow their business, boost user engagement, and personalize their products. In addition, companies often have to share data with governments and other regulatory bodies for compliance reasons. In this course, the final installment in the Privacy series, Nishant Bhajaria goes over various techniques you can apply to help bolster data privacy before you share data. Nishant begins by stepping through the various risks associated with data sharing, as well as common misconceptions related to privacy and data sharing. He then shares strategies for protecting data privacy and making more informed data sharing decisions, including how to leverage k-anonymity and l-diversity in your work. Along the way, Nishant shares challenges that allow you to put your new skills to the test. Note: We recommend taking the previous course in this series, Privacy by Design: Data Classification, prior to beginning this course.

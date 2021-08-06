@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ketkee Aryamane
+Course_ID=636136
+Course_System=linkedin.com
+Course_Title=Java EE: Servlets and JavaServer Pages (JSP)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to build dynamic web pages using servlets and JavaServer Pages (JSP). This course starts with the basics, covering the fundamentals of servlets. Instructor Ketkee Aryamane explains how to set up your environment, and discusses GET and POST requests, as well as forwarding and redirection. She then moves on to JSP, reviewing fundamental concepts such as the JSP life cycle. She also covers session management, filters, and listeners. To wrap up, she goes over the JSP Standard Tag Library (JSTL) core module and fmt module, and also discusses the development of custom tags.

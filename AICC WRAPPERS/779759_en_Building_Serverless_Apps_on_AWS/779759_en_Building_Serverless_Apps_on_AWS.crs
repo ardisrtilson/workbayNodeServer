@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=779759
+Course_System=linkedin.com
+Course_Title=Building Serverless Apps on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to develop a NodeJS serverless app on Amazon Web Services (AWS). First, get introduced to several services: Lambda, DynamoDB, S3, Postman, and the API gateway. Then, see how to install Postman, set up an Amazon account, implement an S3 storage bucket with static content, and set up serverless Lambda compute. Next, find out how to create a table on the DynamoDB AWS service and create a POST function. Additionally, discover how to code and test final endpoint functions.

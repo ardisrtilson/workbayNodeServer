@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Cris Ippolite
+Course_ID=2877130
+Course_System=linkedin.com
+Course_Title=Learning Claris Connect
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the digital transformation era, software integration is one of the biggest unsolved challenges. Claris Connect is the solution: a cloud-based integration platform that allows you to automate tasks and create highly efficient, streamlined workflows. Businesses can create their own custom application networks, greatly reducing the time it takes to connect systems and orchestrate tasks. This course introduces Claris Connect and shows how you can leverage this tool for automating tasks that integrate applications such as FileMaker Pro, Eventbrite, Shopify, Slack, Box, Mailchimp, and more. Instructor Cris Ippolite walks you through the basics of creating new Claris Connect flows, creating actions and triggers, using utilities, and even adding schedules or approvals to your flows. He also provides real-world examples that help you visualize the uses of Claris Connect for your business.

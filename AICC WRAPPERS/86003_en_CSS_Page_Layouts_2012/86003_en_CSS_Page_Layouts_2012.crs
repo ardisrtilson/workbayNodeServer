@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Williamson
+Course_ID=86003
+Course_System=linkedin.com
+Course_Title=CSS: Page Layouts (2012)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CSS: Page Layouts introduces basic layout concepts, gives advice on how to create properly structured HTML based on prototypes and mockups, and goes into critical page layout skills such as floats and positioning. Author James Williamson shows how to combine these techniques to create fixed, fluid, and responsive layouts. Designers are also shown how to enhance their pages through the creative use of CSS techniques like multi-column text, opacity, and the background property. Exercise files are included with this course.

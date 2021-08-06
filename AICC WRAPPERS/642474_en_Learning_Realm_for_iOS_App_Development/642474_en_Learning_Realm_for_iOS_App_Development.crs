@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Advent
+Course_ID=642474
+Course_System=linkedin.com
+Course_Title=Learning Realm for iOS App Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many modern apps need the ability to store and sync data across devices, and productivity apps often need collaborative features to be useful. Realm helps developers save time by making fast work out of accessing data and developing mobile apps that work as well offline as when online. In this course, learn how to use Realm features to build data-driven apps leveraging a mobile database and reactive architecture. Learn how to plan and implement data models with Realm. Find out how to save, retrieve, modify, and delete data. Discover how to Install Realm into a new app and an existing app.

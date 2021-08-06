@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Francis
+Course_ID=475454
+Course_System=linkedin.com
+Course_Title=Data Visualization Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data Visualization Tips and Tricks is a series of standalone lessons on how to do data viz the right way, every time. Presented by award-winning data visualization expert (and Tableau-designated Zen Master) Matt Francis, this software-agnostic course is designed for experienced data scientists and analytics specialists and serves as a must-have bank of knowledge and best practices. Learn how to choose the right visualization for your data, and answer the 5 key questions you should ask yourself at the beginning of every project. Topics include understanding the relationships between data sets, making comparisons, charting relationships, visualizing data distributions, creating maps, and—most valuably—knowing when to use which types of graphs and charts. Matt also teaches you how to understand what others are doing with their own visualizations, ask informed questions, and look with a critical eye at the work of others.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Doug Rose
+Course_ID=601799
+Course_System=linkedin.com
+Course_Title=Artificial Intelligence Foundations: Neural Networks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+An artificial neural network uses the human brain as inspiration for creating a complex machine learning system. There are now neural networks that can classify millions of sounds, videos, and images. These machines can answer our questions, understand our behaviors, and even drive our cars. The network looks for subtle patterns in our data and then fine-tunes itself to improve over time. They can become experts in predicting our behavior, learning our languages, and finding new discoveries. In this course, instructor Doug Rose provides an overview of artificial neural networks, explaining what they are and how you can use them for your machine learning challenges. Discover ways that you can use this technology to do fascinating new things for your projects or your business.

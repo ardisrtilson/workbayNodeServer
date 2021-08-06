@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=2811023
+Course_System=linkedin.com
+Course_Title=AutoCAD: Importing a 2D Project into 3ds Max
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to take a flat, two-dimensional CAD drawing and use Autodesk 3ds Max to develop it into a three-dimensional model with walls and a floor. Instructor Shaun Bryant begins by demonstrating how to prepare an existing 2D CAD drawing for use in 3ds Max. Next, learn about choosing the right settings for saving the drawing in AutoCAD, then see how to import the resulting file in 3ds Max. Shaun covers which tools to use inside 3ds Max, shows how to extrude a floor and walls, talks about basic shapes which might be needed for further visualization, and demonstrates how to save a 3ds Max scene.

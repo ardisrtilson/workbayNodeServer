@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Geitgey
+Course_ID=601801
+Course_System=linkedin.com
+Course_Title=Building Deep Learning Applications with Keras 2.0
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Keras is a popular programming framework for deep learning that simplifies the process of building deep learning applications. Instead of providing all the functionality itself, it uses either TensorFlow or Theano behind the scenes and adds a standard, simplified programming interface on top. In this course, learn how to install Keras and use it to build a simple deep learning model. Explore the many powerful pre-trained deep learning models included in Keras and how to use them. Discover how to deploy Keras models, and how to transfer data between Keras and TensorFlow so that you can take advantage of all the TensorFlow tools while using Keras. When you wrap up this course, you'll be ready to start building and deploying your own models with Keras.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Graham
+Course_ID=2975169
+Course_System=linkedin.com
+Course_Title=Grasshopper and Rhino: C# Scripting
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Grasshopper, the visual programming plugin for Rhino, offers many features that can help you generate complex parametric models. Want to push the boundaries of what Grasshopper can do even further? This course shows you how. Join instructor Jeremy Graham as he goes over the fundamentals of C# programming in Grasshopper, explaining how to extend the plugin's functionality by working directly with the Rhino API. To begin, Jeremy demonstrates how to set up Grasshopper to work with C#. He then covers basic C# concepts like strings, collections, and arrays, and steps through how to build all kinds of geometry with C#. After completing the course, you'll have the knowledge you need to start using C# to extend the functionality of Grasshopper and improve your ability to formulate innovative designs.

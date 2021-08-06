@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=599598
+Course_System=linkedin.com
+Course_Title=Learning SharePoint 2016
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with Microsoft SharePoint 2016 to make it easier for you and your team to share content, collaborate, and get things done. In this course, Gini von Courter explains how to use SharePoint to build sites, work with documents, and create custom lists and libraries. Gini kicks off the course by explaining how to navigate in a team site, where your team can share data and documents and have conversations. She discusses how to create and edit documents, and save those documents in SharePoint libraries. She also shows how to use lists to work with data, and how to sync those lists with Outlook. Gini wraps up the course with a few advanced concepts, explaining how to create a new team site, and take your content beyond SharePoint by syncing libraries with computer folders.

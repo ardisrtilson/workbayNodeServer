@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=431190
+Course_System=linkedin.com
+Course_Title=Excel 2016: Macros in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Macros can help you save enormous amounts of time, but they are uncharted territory for many Excel users. Learn how to create your own simple macros to automate repetitive tasks in Excel 2016, in this course with Excel expert Dennis Taylor. Find out how to record a macro in stages, share macros between workbooks, set up keyboard shortcuts to run macros quickly, and use Visual Basic for Applications (VBA) to code macros that can't be easily recorded. Discover how to expand macros with Do loops and If statements, and test macros step-by-step. The course wraps up with a macro project that brings together each of the elements in a real-world scenario: converting mailing list data into a database-friendly format.

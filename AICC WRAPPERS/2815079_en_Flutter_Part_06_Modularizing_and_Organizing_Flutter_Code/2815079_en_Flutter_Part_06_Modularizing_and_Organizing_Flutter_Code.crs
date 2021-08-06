@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2815079
+Course_System=linkedin.com
+Course_Title=Flutter: Part 06 Modularizing and Organizing Flutter Code
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Flutter, you can design beautiful apps with minimal effort. But as your apps become more sophisticated, your code will become more complex and harder to read. This course teaches you how to organize your Flutter codebase so that it is easier to maintain and improve over time. Instructor Angela Yu explains how to effectively use Dart lists, conditionals, classes, and objects and leverage best practices such as abstraction, encapsulation, inheritance, and polymorphism. Plus, learn how to use Dart constructors to organize multiple sets of instructions. Each lesson is illustrated using a fun, real-world project—the Quizzler app—that you can build, customize, and add to your Flutter portfolio. This course was created by London App Brewery. We are pleased to host this content in our library.

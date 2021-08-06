@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2815112
+Course_System=linkedin.com
+Course_Title=Apache Flink: Batch Mode Data Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data engineering is the foundation for enabling analytics and data science applications in the world of big data. It requires building scalable data processing pipelines and delivering them in short time frames. Apache Flink, the powerful and popular stream-processing platform, was designed to help you achieve these goals. In this course, join Kumaran Ponnambalam as he focuses on how to build batch mode data pipelines with Apache Flink. Kumaran kicks off the course by reviewing the features and architecture of Apache Flink. He then takes a deeper look at the DataSet API and explores various capabilities available for transforming, aggregating, and combining data. To wrap up the course, he presents a use case project that allows you to leverage your new skills.

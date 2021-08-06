@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=483024
+Course_System=linkedin.com
+Course_Title=Next Generation CSS Design with PostCSS and CSSNext
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PostCSS—a CSS post-processor engine—transforms CSS with JavaScript, allowing you to work with the latest CSS features on older browsers. In this project-based course, learn how to work with PostCSS to create a realistic single-page site that uses cutting-edge CSS features while maintaining compatibility with older browsers. As Ray Villalobos explains how to tackle this project, he covers important concepts, such as how PostCSS and CSSNext work, how to keep your code organized by dividing your work into partials, and how to work with features like advanced pseudo-classes and custom property variables. Plus, he takes you through how to work with flexbox layouts, use color functions, set up a mobile layout, and add animations.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Maximiliano Firtman
+Course_ID=590840
+Course_System=linkedin.com
+Course_Title=Learning Enterprise Web Application Performance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most enterprise apps are moving online. But if your application takes more than three seconds to load, more than 50% of your users will abandon it. Web performance optimization (WPO) helps developers increase conversion and user efficiency while reducing server load. WPO is an essential technique for efficient web-based applications, and it's one every enterprise architect and engineer should master. This course teaches the fundamentals of WPO, including the different types of metrics and charts the experts use to measure critical performance factors like load and interaction times. Discover the right tools for measuring aspects such as parsing and rendering speed, including WebPagetest, built-in browser developer tools, Google Lighthouse, and APIs that allow you to access real-time production performance data. Plus, see techniques that will improve performance on app load and usage on both mobile and desktop devices, increasing user's efficiency and perception of the app.

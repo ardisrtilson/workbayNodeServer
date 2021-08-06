@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eve Porcello
+Course_ID=761966
+Course_System=linkedin.com
+Course_Title=Learning webpack 4
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+webpack has become a key standard among front-end development tools. A module bundler built for modern JavaScript applications, webpack is exploding in popularity due to its many configuration options. webpack 4 expands on the original promise of task, code, and dependency management with cleaner syntax, simpler configuration, and thorough support for ES6. In this course, instructor Eve Porcello covers the basics of this versatile tool. Discover how to install webpack, run a build, and edit the config file to facilitate automation. Find out how to use loaders to run tasks and process files such as CSS and inline images. Plus, Eve demos webpack plugins for managing tasks such as code splitting.

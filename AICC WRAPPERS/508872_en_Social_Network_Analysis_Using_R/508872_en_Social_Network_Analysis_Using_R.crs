@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=508872
+Course_System=linkedin.com
+Course_Title=Social Network Analysis Using R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Social Network Analysis Using R teaches analysts how to visualize and analyze data from a social network like Twitter or Facebook with the text-based statistical language, R. If you're involved in analytics in any capacity, this course will be a huge help, teaching you how the R sna and igraph modules works and how to format data for analysis, create graphs, analyze network graphs, and visualize networks. Join instructor Curt Frye and learn how to examine the relationships and trends among networks in new and exciting ways, and discover information about how individuals in an organization interact.

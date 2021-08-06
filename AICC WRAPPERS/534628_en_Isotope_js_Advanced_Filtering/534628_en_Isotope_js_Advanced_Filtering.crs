@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=534628
+Course_System=linkedin.com
+Course_Title=Isotope.js: Advanced Filtering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Isotope.js is a simple tool that helps you create advanced tile-based layouts and enable dynamic sorting and filtering of content right in the browser. You may have seen it used in interactive features for the New York Times, on NASA's front page, and in other websites featuring tiled galleries. This course shows not only how Isotope works but also how to integrate it with WordPress and other content management systems for super advanced functionality. Follow along with instructor Morten Rand-Hendriksen and find out how to bypass common implementation issues, configure layout modes, supercharge Isotope.js with extra features, make seamless user experiences with advanced URL hashes, and more. Take the time to learn Isotope today and take a lot of the grunt work out of your JavaScript development tomorrow.

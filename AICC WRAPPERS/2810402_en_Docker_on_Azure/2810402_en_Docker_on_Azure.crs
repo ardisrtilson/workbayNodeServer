@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=2810402
+Course_System=linkedin.com
+Course_Title=Docker on Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Containers are the future of app development. Microsoft has developers covered. In this course, learn how to use Docker and the powerful features in Microsoft Azure to build container-based applications. Instructor Robert Starmer begins by going over the basics of containerization, explaining why it's often easier to manage than the equivalent manual deployment process. Robert then shows how to create an Azure Container Registry (ACR), use ACR locally, connect Azure Repos with ACR, and automate container builds. He then shows how to leverage Azure Container Instances (ACI) as a way of managing containers, sharing networking, storage, and general troubleshooting tips and techniques along the way.

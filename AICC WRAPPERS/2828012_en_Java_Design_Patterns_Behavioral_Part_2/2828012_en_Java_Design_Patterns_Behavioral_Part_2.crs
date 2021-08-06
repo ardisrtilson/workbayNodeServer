@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bethan Palmer
+Course_ID=2828012
+Course_System=linkedin.com
+Course_Title=Java Design Patterns: Behavioral Part 2
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Behavioral design patterns can help you take your Java code to the next level. Join instructor Bethan Palmer as she walks you through the following design patterns, with challenges to check your understanding of each: Observer, State, Strategy, Template Method, and Visitor. Learn about the Observer pattern, which ensures an object's dependencies are notified when it changes state. Discover the State pattern, which allows an object to alter its behavior when its internal state changes, and can be used to avoid large and repetitive switch statements. Explore how the Strategy pattern allows you to create a family of interchangeable algorithms, how the Template Method pattern enables you to redefine the steps of an algorithm without changing its structure, and more. Along the way, Bethan demonstrates how to implement each design pattern in real-world situations.

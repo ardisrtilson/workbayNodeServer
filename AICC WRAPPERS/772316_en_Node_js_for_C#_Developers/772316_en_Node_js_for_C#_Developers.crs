@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robby Millsap
+Course_ID=772316
+Course_System=linkedin.com
+Course_Title=Node.js for C# Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Since its inception in 2009, Node.js has continued to grow in popularity. With its rapid prototyping and development tools, Node.js has moved from the startup to the enterprise as the full-stack framework of choice. This course is intended to help transition C# and .NET developers to enterprise Node.js development. Instructor Robby Millsap reviews the benefits and challenges of the framework, including debugging, memory management, multithreading, asynchronous programming, and package management. He also shows how easy it is to create a continuous integration workflow that includes Gulp, Babel, Visual Studio Team Services, and Azure. Whether you decide to transition to the framework full time or use Node.js as a complement to your existing toolset, the lessons you learn at the end of this course will help you become a more valued and experienced developer.

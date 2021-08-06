@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lawrence Ogrodnek
+Course_ID=806156
+Course_System=linkedin.com
+Course_Title=Deploying REST Services with Chalice for AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Serverless architectures are growing in popularity due to their low cost and promises of hands-off configuration. Chalice, a microframework for writing serverless Python apps for Amazon Web Services (AWS), is one of the easiest ways to develop and deploy serverless applications. This course explains how to leverage Chalice specifically for deploying serverless REST services. Learn how to implement common REST components, add authentication, and use Cognito for integrating a front-end app and adding sign-up and sign-in features. Instructor Larry Ogrodnek also explains how to set up advanced options such as IAM policy generation and SAM deployment, and how to perform testing of your service. Finally, learn how to set up a continuous deployment pipeline that takes advantage of everything Chalice has to offer.

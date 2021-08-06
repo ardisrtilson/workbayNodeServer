@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=777386
+Course_System=linkedin.com
+Course_Title=AutoCAD web app: Taking Your Drawings Online 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to work on your AutoCAD designs in the AutoCAD web app. Find out how to access the power of AutoCAD from your browser to create, edit, view, and annotate drawings from any device. Instructor Shaun Bryant shows how to log in, create new drawings, upload existing drawings to the cloud, and start editing your designs online. He shows how to modify objects, adjust settings, draft with commands, and use keyboard shortcuts—all the functions you would expect to find in the desktop program—while taking advantage of the new flexible, web-based workflow. Since this new app is designed to integrate with AutoCAD 2019, Shaun also shows how to take the same files back and forth between the programs, giving you the best of both worlds: portability and power.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Hur
+Course_ID=699349
+Course_System=linkedin.com
+Course_Title=Building JSF Web Applications with Java EE 7
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to build web apps using JavaServer Faces (JSF) with Java Enterprise Edition (EE). JSF is the standard for building server-side user interfaces. Follow along in this course to build a basic CRUD (create, read, update, delete) application, starting with creating classes, configuring front-end components, and performing CRUD operations. Messages, event handling, and form validation are also covered. The course concludes by going through session management and authentication.

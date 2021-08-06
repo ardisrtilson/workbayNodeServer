@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=689775
+Course_System=linkedin.com
+Course_Title=Microsoft Cognitive Services for Developers: 3 Language
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Microsoft Cognitive Services APIs allow developers to leverage the power of artificial intelligence to create apps that can more effectively understand and interpret the needs of users. In this course, learn how to work with Microsoft Cognitive Services for language. Instructor Sahil Malik explains how to work with the Bing Spell Check API, the Text Analytics API—which you can use to detect language, key phrases, and sentiment—and the Translator Text API. He wraps up the course by taking a deep dive into the exciting Language Understanding (LUIS) service, which allows apps to accept a user's input in natural language.

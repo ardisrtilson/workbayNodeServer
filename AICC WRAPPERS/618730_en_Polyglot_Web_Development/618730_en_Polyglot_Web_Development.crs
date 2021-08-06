@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kirsten Hunter
+Course_ID=618730
+Course_System=linkedin.com
+Course_Title=Polyglot Web Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Knowing multiple programming languages—and being able to pick up new ones quickly—makes you a more competitive and flexible web developer and freelancer. In this course, learn how to quickly pick up new web development languages and frameworks, including Node.js, Python, Perl, and Ruby. Discover the unique value each language brings, and how to build on what you already know. Plus, get hands-on practice with each language.

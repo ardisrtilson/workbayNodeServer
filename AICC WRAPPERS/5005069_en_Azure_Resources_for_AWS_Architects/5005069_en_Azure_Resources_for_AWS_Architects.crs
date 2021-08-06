@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Santana
+Course_ID=5005069
+Course_System=linkedin.com
+Course_Title=Azure Resources for AWS Architects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You're already familiar with the ways in which Amazon Web Services (AWS) can help you enhance your development sprint cycles and scale your business. But how does another cloud computing leader, Microsoft Azure, compare? In this course, David Santana helps IT professionals interested in adopting a multicloud strategy grasp what these two essential cloud computing services—Azure and AWS—have to offer. He details the cloud network resources, cloud compute resources, and cloud storage services in both Azure and AWS. Plus, he goes over the cloud security and IAM resources for AWS and Azure, including Azure role-based access control, and goes over how to use each modern cloud infrastructure as code tools.

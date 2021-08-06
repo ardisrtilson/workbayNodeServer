@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=536431
+Course_System=linkedin.com
+Course_Title=Responsive CSS Workflow with Sass, Bourbon, and Susy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sass is a stylesheet extension language that can help you manage unwieldy stylesheets by allowing you to leverage features that aren't available in CSS, such as nesting, variables, and inheritance. In this course, learn how to build a responsive webpage from scratch using CSS and Sass. Instructor Carrie Dils begins by explaining how Sass works, and then shows how to analyze your workflow options and work with package managers. She also explains how to use Grunt—a JavaScript task runner—to set up a development workflow, as well as how to style default HTML styles and create a mobile-first layout. Plus, Caroline shows how to build a sample webpage using features in Sass, Bourbon, and Susy.

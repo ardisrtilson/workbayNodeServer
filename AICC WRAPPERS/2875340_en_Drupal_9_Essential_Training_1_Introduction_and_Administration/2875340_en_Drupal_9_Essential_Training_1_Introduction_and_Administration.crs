@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=OSTraining, Rod Martin
+Course_ID=2875340
+Course_System=linkedin.com
+Course_Title=Drupal 9 Essential Training: 1 Introduction and Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re creating a website and considering content management systems, chances are you’re considering using Drupal. But is this free, open-source CMS the right choice for you? In this course, instructor Rod Martin covers the essential concepts and knowledge you need to get started with Drupal 9. He starts with the basics, explaining the terminology unique to Drupal. He then shows how to install Drupal in order to follow along with the optional exercises, explains the best ways to plan your Drupal website, and then covers the administration interface. After this course, you’ll have a solid base to get started in Drupal, and be ready for the next course in the Drupal 9 Essential Training series. Note: This course was created by OSTraining. We are pleased to host this training in our library.

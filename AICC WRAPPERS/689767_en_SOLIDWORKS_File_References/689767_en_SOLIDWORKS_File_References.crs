@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=689767
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: File References
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SOLIDWORKS file references are the backbone of how all assemblies and drawings are created. In this course, get acquainted with the various ways that file references can impact your SOLIDWORKS workflow, as well as how to diagnose common file reference issues. Discover where to find file references, how to understand the different indicators and errors you may come across, and how to resolve errors. Learn how to edit parts, assemblies, and drawings using file reference options. This course also covers the advanced Pack and Go, move, and replace options, which all relate. Plus, find out how to copy over a project without disrupting legacy designs.

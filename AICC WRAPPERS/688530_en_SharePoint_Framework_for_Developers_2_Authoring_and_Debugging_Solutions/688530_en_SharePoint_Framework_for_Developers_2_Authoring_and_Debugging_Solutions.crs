@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=688530
+Course_System=linkedin.com
+Course_Title=SharePoint Framework for Developers: 2 Authoring and Debugging Solutions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint Framework (SPFx) allows developers to extend SharePoint Online and SharePoint on premises, via web parts or extensions. This course shows you how to write those web parts and extensions using SPFx. It also demonstrates how to create application and field customizers and list view command sets. Instructor Sahil Malik shows how to write client-side web parts and extensions, and how to debug your SPFx projects. Plus, learn how to leverage third-party and Office 365 content delivery networks (CDNs) for SPFx deployment.

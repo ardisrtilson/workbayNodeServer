@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2822168
+Course_System=linkedin.com
+Course_Title=System Administration: Backup and Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Backups create a copy of data that can be recovered in the event of a primary data failure. These failures can be the result of hardware or software failure, data corruption, or a human-caused event, such as a malicious attack or accidental deletion. As such, system backup and recovery is a critical skill for both system administrators and the organizations they work for. This course helps system administrators ensure they're protecting data and systems from loss. Learn how to back up the two most popular operating systems—Windows and Linux—using free utilities and third-party solutions. Instructor Robert McMillen covers both local storage as well as cloud storage options, ensuring you have the maximum number of options at your disposal—and protection in any data failure scenario.

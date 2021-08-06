@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=174921
+Course_System=linkedin.com
+Course_Title=Joomla! 3 Essential Training: 1 Working with Content
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Find new and interesting ways to display your site content with Joomla!, the open-source CMS, and these tutorials from Jen Kramer. Jen shows how to create and modify the look of categories, articles, lists, and menus, and implement advanced functionality like tagging and version control. She'll teach you how to add links, images, videos, and dropdown menus to your Joomla! site, as well as configure some crucial display options. Make sure to test your new skills by taking the practice challenges issued along the way. Note: For installation and setup instructions, see the course Installing and Running Joomla! 3: Local and Web-Hosted Sites.

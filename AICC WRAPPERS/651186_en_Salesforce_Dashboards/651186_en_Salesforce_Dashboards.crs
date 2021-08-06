@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Matthew Spencer
+Course_ID=651186
+Course_System=linkedin.com
+Course_Title=Salesforce: Dashboards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Salesforce is a powerful data gathering tool. Creating dashboards is an easy way to visualize and monitor that information. In this course, Christopher Matthew Spencer guides you through building dashboards to visually represent Salesforce data. Learn how to ensure data quality, use the drag-and-drop dashboard builder, and leverage the various component types, including line, donut, funnel, scatter, and table charts. Plus, discover how to format, filter, and hide data for better presentations and greater team insights.

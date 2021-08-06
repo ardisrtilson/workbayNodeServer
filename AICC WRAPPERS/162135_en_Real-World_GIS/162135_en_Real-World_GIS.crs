@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason VanHorn
+Course_ID=162135
+Course_System=linkedin.com
+Course_Title=Real-World GIS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning GIS (geographical information systems) requires training in cartography, database management, and spatial analysis. But once you've built a solid foundation in the basics, how do you approach GIS challenges in the real world? Dr. Jason VanHorn is here to help you master practical GIS scenarios, and answers the 7 most common questions he receives from other GIS professionals, including: Where can I get quality data? How do I create projections? What's an inexpensive solution for collecting geospatial data? and Where can I find a GIS job?

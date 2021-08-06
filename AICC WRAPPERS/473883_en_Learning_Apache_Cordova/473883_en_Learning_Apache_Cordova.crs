@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Griffith
+Course_ID=473883
+Course_System=linkedin.com
+Course_Title=Learning Apache Cordova
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Cordova is the open-source version of PhoneGap, the leading tool for cross-platform app development. It's a write-once, run-anywhere solution specifically designed for mobile. But to ensure a smooth cross-platform workflow, it helps to know some setup and configuration basics. In this course, Chris Griffith introduces Apache Cordova and the PhoneGap ecosystem, including the two command-line interface (CLI) tools and the PhoneGap desktop app. He shows how to set up your local system and how to create, configure, and build your first project with the Cordova CLI. Once you've mastered the fundamentals, Chris shows how to extend your app with native and third-party plugins that enable features such as QR code detection and geolocation, and debug your app, preview it in an emulator or on an actual device, and then prep it for release in the Apple Store or on Google Play.

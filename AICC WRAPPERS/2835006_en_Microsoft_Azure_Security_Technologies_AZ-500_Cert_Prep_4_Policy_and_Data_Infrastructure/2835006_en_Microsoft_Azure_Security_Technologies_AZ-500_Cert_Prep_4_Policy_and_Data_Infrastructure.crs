@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=2835006
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Security Technologies (AZ-500) Cert Prep: 4 Policy and Data Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cybersecurity skills are in high demand, and the Microsoft Azure Security Technologies (AZ-500) exam is the perfect opportunity for IT professionals to demonstrate their skills to current and future employers. This course is the first of a two-part series that prepares candidates to excel in the Secure Data and Applications domain of the exam. Instructor Pete Zerger explains how to configure critical security policies for Azure storage accounts and enable security features for your Azure data infrastructure, including access control, Azure AD authentication, and shared access signatures for Azure Storage. Plus, learn how to secure big data solutions such as Cosmos DB and Azure Data Lake.

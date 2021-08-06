@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Gassner
+Course_ID=2886285
+Course_System=linkedin.com
+Course_Title=Android 12 and Beyond: First Look for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Android 12 has entered the building. This next version of Android—which is available to developers and other Android users as a beta preview—introduces notable new features and changes in both functionality and appearance. In this course, David Gassner goes over the updated operating system, showing developers both the latest and greatest features in Android 12 and other changes to development tools and best practices that will impact their existing apps. Learn what's new in Android 12 for end users, including changes to privacy and sharing. Explore developer enhancements, including the new RenderEffect class that lets you modify images in an Android app at runtime. Plus, David goes over how to migrate from older file management strategies to scoped storage—as well as the deadlines for implementing these required changes.

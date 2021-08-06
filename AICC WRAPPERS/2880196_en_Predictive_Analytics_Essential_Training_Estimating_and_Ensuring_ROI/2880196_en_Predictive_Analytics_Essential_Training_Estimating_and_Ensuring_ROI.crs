@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith McCormick
+Course_ID=2880196
+Course_System=linkedin.com
+Course_Title=Predictive Analytics Essential Training: Estimating and Ensuring ROI
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Nothing is more important to the future of predictive analytics teams than proving their projects have long-term value. Measuring the return on investment (ROI) often can help turn analytics into a visible profit center for your organization. Estimating ROI early—before a project even begins—can also help fast-track approval. Here Keith McCormick shows how to address ROI both before and after the predictive model is built. Learn how to create your estimate before the project starts by estimating the overall size of the problem, assigning value to possible outcomes, and judging the impact of model performance. Keith then shows a different method for calculating ROI after the model is built, during the evaluation and deployment phases, and provides tips for the ongoing monitoring of the project. He also takes a retrospective look assessed one year after model deployment. These two strategies will give you the data you need to get buy-in for your projects and provide ongoing metrics on their performance.

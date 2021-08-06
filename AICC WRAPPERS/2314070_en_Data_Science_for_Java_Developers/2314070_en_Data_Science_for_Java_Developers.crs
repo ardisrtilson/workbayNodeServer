@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Wassell
+Course_ID=2314070
+Course_System=linkedin.com
+Course_Title=Data Science for Java Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learning the basics of data science and how to apply them in Java opens up a world of possibilities for you, in terms of building software and job opportunities. In this course, instructor Shaun Wassell takes you through the skill sets required for data science, shows you how to visualize data in Java, and explores different methods of turning data into information. Shaun introduces some basic concepts and examples of data science, then walks you through the process of representing data in Java and some difficulties you may encounter. He discusses data manipulation techniques like mapping, filtering, collecting, and sorting. Shaun describes how to find, gather, clean, manipulate, and store data, so that you can start doing useful things with it. Next, he shows you the fun part: different methods you can use to turn data into information. Shaun covers Nearest-Neighbor, Bayes, linear regression, decision trees, clustering, and more.

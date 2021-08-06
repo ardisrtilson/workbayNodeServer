@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=2825170
+Course_System=linkedin.com
+Course_Title=Google Cloud Vision API by Example
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Cloud Vision API encapsulates powerful machine learning models in an easy-to-use REST API, allowing developers to leverage the power of machine learning without needing to train models of their own. Vision API gives you the power to annotate your images and text, detect objects and faces, automatically identify product logos and landmarks, and more. In this hands-on course, instructor Jonathan Fernandes helps you get up and running with this powerful product. Jonathan demonstrates how to make calls to the API with Python and leverage services that allow you to extract text from images, detect labels and facial expressions, and work effectively with batches of images.

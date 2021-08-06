@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=573615
+Course_System=linkedin.com
+Course_Title=Predictive Customer Analytics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Use big data to tell your customer's story, with predictive analytics. In this course, you can learn about the customer life cycle and how predictive analytics can help improve every step of the customer journey. Start off by learning about the various phases in a customer's life cycle. Explore the data generated inside and outside your business, and ways the data can be collected and aggregated within your organization. Then review three use cases for predictive analytics in each phase of the customer's life cycle, including acquisition, upsell, service, and retention. For each phase, you also build one predictive analytics solution in Python. In the final videos, author Kumaran Ponnambalam introduces best practices for creating a customer analytics process from the ground up.

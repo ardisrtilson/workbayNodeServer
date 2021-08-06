@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=548045
+Course_System=linkedin.com
+Course_Title=Linux: File Sharing Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interoperability is at the heart of file sharing. Being able to set up and configure environments to support standard file sharing methods is essential for system administrators. This course focuses on learning how to provide access to data across networks using systems and protocols, namely FTP (File Transfer Protocol), CIFS (Common Internet File System), and NFS (Network File System). Learn how to keep data secure by managing different types of user access—from untrusted to authenticated, multi-user groups in an Active Directory—and testing firewalls. This course also explores establishing local and remote connections, working with storage, leveraging host-based solutions, troubleshooting issues, and more.

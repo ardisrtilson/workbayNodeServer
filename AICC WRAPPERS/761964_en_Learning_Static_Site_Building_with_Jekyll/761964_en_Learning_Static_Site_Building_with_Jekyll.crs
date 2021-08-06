@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nate Barbettini
+Course_ID=761964
+Course_System=linkedin.com
+Course_Title=Learning Static Site Building with Jekyll
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Websites are a key part of modern business. Having a professional-looking website adds legitimacy to everything you sell and say. Jekyll is a free, Ruby-based static site generator that can help you build a simple website in minutes—without any plugins or advanced programming. In fact, you may find the static websites you build with Jekyll are dramatically faster, cheaper, and more secure than those built with dynamic platforms like WordPress. In this course, instructor Nate Barbettini explains how to build professional-looking, cloud-hosted websites with Jekyll. Learn how to set up Jekyll, choose a template, add posts and pages, and build your site. Nate also discusses the various deployment options available for publishing: FTP, Amazon Web Services, and hosting services like Netlify. Plus, learn how to set up a custom domain with a secure HTTPS connection in Netlify.

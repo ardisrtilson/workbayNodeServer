@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=2824009
+Course_System=linkedin.com
+Course_Title=Learning Spring with Spring Boot
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Spring is the hugely popular framework for developing Java applications in the enterprise space. In this course, discover how to leverage Spring Boot, which takes an opinionated view of the Spring platform. Follow Frank Moley as he walks through how to use Spring Boot to quickly and efficiently develop a practical, enterprise-style web application. As Frank explains how to develop the app, he helps to familiarize you with the general Spring framework. Plus, Frank dives into some of the basic projects of Spring that you can use to develop Java-based applications.

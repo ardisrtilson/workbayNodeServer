@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=530528
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: DHCP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dynamic Host Configuration Protocol (DHCP) is the heart of dynamic IP addressing, and a fundamental concept for any network administrator. This course explains how DHCP works in the context of a Windows environment, and how to manage, secure, and troubleshoot DHCP on Windows Server 2016. Ed Liberman shows how to install the DHCP server role; configure settings such as scopes, clients, and reservations; and advanced features, including DHCP failover and working in a routed environment.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=746315
+Course_System=linkedin.com
+Course_Title=Wireshark: Advanced Tools and Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance your Wireshark skillset by picking up some more sophisticated tools and techniques. In this course, instructor Lisa Bock takes a deep dive into advanced topics such as tapping into the stream, merging and sanitizing packet captures, capture engines, optimizing packet capture, and IO and stream graphs. Lisa begins with a review of network architecture. She covers ways to solve network problems, merge traffic, and sanitize captures before sharing, along with capturing session keys to decrypt traffic. She then reviews capture engines along with a discussion on wireless traffic. She reviews CLI capture—a more lightweight option that's not resource intensive—and goes over IO graphs and TCP stream graphs, which can provide you with a closer look at traffic trends and round-trip time.

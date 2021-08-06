@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=685030
+Course_System=linkedin.com
+Course_Title=iOS Development: Auto Layout Programmatically
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Auto Layout offers a constraint-based design approach that allows iOS developers to create user interfaces for multiple devices. If you're using Swift Playgrounds or need portable and modular code, programmatic Auto Layout is your prime choice. In this course, instructor Steven Lipton talks about the different options you have to create constraints programmatically in Swift—and how to use each one. He also shows how to use size classes, stack views, and priorities for the fastest, most adaptable UI on any iOS device.

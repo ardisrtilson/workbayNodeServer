@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peggy Fisher
+Course_ID=504792
+Course_System=linkedin.com
+Course_Title=Java: Build Automation with Maven
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Maven makes Java programming easier! It's referred to as a build tool, but it's so much more. Use Maven to manage the entire lifecycle of your project, generate reports, and store documents with its POM repository. And it's not just for Java; C/C++, PHP, and Scala programmers can use Maven, too. This course introduces Maven for build automation in Java, and reviews the other features and functions to consider adding to your development workflow. Staff author Peggy Fisher shows how to install Maven on Mac or Windows, work with the Project Object Model (POM), and use its extensive library of plugins for compiling, testing, deploying, packaging, reporting, and more. Plus, learn how to create a complete start-to-finish project using Maven and two different Java IDEs: NetBeans and IntelliJ.

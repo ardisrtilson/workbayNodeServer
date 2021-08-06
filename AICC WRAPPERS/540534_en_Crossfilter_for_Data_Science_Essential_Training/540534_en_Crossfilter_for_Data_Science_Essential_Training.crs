@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emma Saunders
+Course_ID=540534
+Course_System=linkedin.com
+Course_Title=Crossfilter for Data Science Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to slice and dice large and complex JavaScript data arrays with maximum speed and effectiveness? Enter Crossfilter.js. An alternative to expensive tools like Qlikview, Crossfilter manages the data that lie behind charts, allowing data scientists to group and filter data quickly and easily, right in the browser. Join Emma Saunders in this entry- through intermediate-level course, which explores data indexing and filtering with Crossfilter. Learn how to download and set up Crossfilter, create and use dimensions (which function similarly to properties) to filter data, group and reduce results, set up advanced filters to sort by range or function, and perform actions (like removals) on matching records.

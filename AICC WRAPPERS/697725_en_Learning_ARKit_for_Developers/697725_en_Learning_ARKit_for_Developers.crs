@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Advent
+Course_ID=697725
+Course_System=linkedin.com
+Course_Title=Learning ARKit for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're intrigued by the potential of augmented reality (AR)—and want to start incorporating this exciting technology in new and existing products—then this project-based course is for you. Here, learn what you need to know to create AR apps using the powerful ARKit and SpriteKit frameworks. Explore how SpriteKit and ARKit work together, how to set up an ARKit project, how to use 3D anchors, and more. In addition to covering the fundamentals of both frameworks, this course provides you with an opportunity to apply what you learned by creating a fun AR game.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2823591
+Course_System=linkedin.com
+Course_Title=CompTIA CySA+ (CS0-002) Cert Prep: 7 Compliance and Assessment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore best practices and procedures for managing privacy, security, and risk and assessing security processes as you study for the CompTIA Cybersecurity Analyst (CySA+) (CS0-002) exam. In this installment of the CySA+ (CS0-002) Cert Prep series, instructor Mike Chapple provides coverage of data privacy and protection practices, risk management, and security frameworks. Mike delves into the differences between privacy and security, how to align security with the business needs of your organization, and how to assess risk likelihood and impact through qualitative and quantitative risk assessment. He also shows how to assess key security processes, including how to best leverage audits and assessments; how to mitigate risk when working with vendors; and more. After completing this course, you'll be prepared to tackle the Compliance and Assessment domain of the CySA+ (CS0-002) exam. We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

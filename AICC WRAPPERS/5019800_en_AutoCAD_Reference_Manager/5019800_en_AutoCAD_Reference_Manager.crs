@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=5019800
+Course_System=linkedin.com
+Course_Title=AutoCAD: Reference Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As your drawings become more complex, it can be a challenge to keep track of all the file dependencies. The AutoCAD Reference Manager helps designers meet this challenge. In this course, you can learn your way around the Reference Manager and find out how to repair, replace, and export drawing reference data, including XREF links. After a brief tour of the interface, instructor Shaun Bryant shows how to use the Reference Manager to manage drawing information, update and repair file paths to references, and even work on a project with broken reference information. You can also learn how to use find and replace with the Reference Manager and export Reference Manager reports.

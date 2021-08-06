@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=2864144
+Course_System=linkedin.com
+Course_Title=Learning Cryptography and Network Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Though technology changes rapidly, the need to assure the confidentiality, integrity, authenticity, and accountability of information does not. Understanding the basics of cryptography is fundamental to keeping your networks, systems, and data secure. In this course, Lisa Bock reviews the historical and present-day uses of encryption, including techniques such as symmetric and asymmetric encryption, algorithms, and hashing. She also reviews message digest and passwords and discusses practical ways to apply cryptography to ensure data security and integrity. By the end of this course, you'll have a solid understanding of what it takes to move and store data securely.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=5040396
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Advanced Networking Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get the IT job that you’ve been looking for by advancing networking skills. Join Microsoft Certified Trainer and Solutions Expert Robert McMillen as he teaches you about the advanced networking features of Windows Server 2019. Learn how to network and secure virtual and physical computers. See a demonstration of high-performance networking, including how to work with Hyper-V and physical hosts. Robert also covers NIC teaming, ultra-fast SMB communications, VPN to Microsoft Azure linking, GRE tunnels, load balancing, and ISCSI. Additionally, he explains new and interesting ways to use ICMP tools and discusses the new and improved features of Windows Server 2019.

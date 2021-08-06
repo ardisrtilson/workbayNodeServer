@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=743158
+Course_System=linkedin.com
+Course_Title=AutoCAD: Creating Sprinkler and Fire-Alarm Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Emergency and fire-protection systems are important to get right. This course covers the basics of creating detailed sprinkler and fire-alarm drawings for a variety of spaces with AutoCAD. Start by adding custom display configurations and room tags that update automatically, and then quickly jump into creating fire piping and sprinkler heads. Then learn how to place fire-alarm devices, control panels, and conduit. Finally, instructor Eric Wing shows how to create 3D and live sections to provide detailed views into the interior of your building.

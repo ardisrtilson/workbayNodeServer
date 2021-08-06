@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eran Stern
+Course_ID=2810406
+Course_System=linkedin.com
+Course_Title=Tracking in After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tracking is an art and a science. It involves locating a point or object in your footage as it moves from frame to frame. The resulting data can be used to stabilize footage or solve camera movement. After Effects provides many powerful tracking tools, allowing you to focus on the creative rather than the technical aspects of your job. This project-based course reviews all the different methods for tracking inside After Effects: one- and two-point tracking, mask tracking, camera tracking, facial tracking, and planner tracking in Mocha AE. Instructor Eran Stern explains which scenario each tool is best suited for, and helps you use your tracking data for specific purposes—effects, rotoscoping, compositing, and more—and render the results.

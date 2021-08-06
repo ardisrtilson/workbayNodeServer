@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Schmunk
+Course_ID=789010
+Course_System=linkedin.com
+Course_Title=Learning Serum
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By gaining a solid understanding of sound synthesis, you'll be empowered to create and shape your very own sounds. In this course, learn how to use Serum, the popular synth plugin, through a series of practical lessons, tips, tricks, and sound design projects. Instructor Rick Schmunk goes over wavetable synthesis, as well as how to shape sounds using ENVs and LFOs. Plus, he covers how to use macros to add real-time changes, how to create and edit sounds, and more. Throughout the course, Rick shares tips and tricks for more efficient, nuanced usage of the tool. As new features are added to Serum, this course will be updated to ensure you're prepared to leverage all that this wavetable synthesizer has to offer.

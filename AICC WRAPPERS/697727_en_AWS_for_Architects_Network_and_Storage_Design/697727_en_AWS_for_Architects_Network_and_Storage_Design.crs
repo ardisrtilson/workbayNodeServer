@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=697727
+Course_System=linkedin.com
+Course_Title=AWS for Architects: Network and Storage Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to properly scale applications on the Amazon ecosystem. This course shows IT pros how to use AWS network and data storage design scalability services, techniques, and tools. Throughout the course, instructor Lynn Langit covers scaling networks around server-based and serverless application architectures, as well as scaling files and data. Learn how to use migration tools such as Server Migration Service, explore scaling considerations for hybrid scenarios, and review how best to scale common architectures. This course can also prepare you for the Network Design domain in the AWS Certified Solutions Architect – Professional exam.

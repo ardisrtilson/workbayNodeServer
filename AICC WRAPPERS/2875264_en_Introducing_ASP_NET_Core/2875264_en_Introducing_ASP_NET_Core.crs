@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Microsoft .NET, Leslie Richardson
+Course_ID=2875264
+Course_System=linkedin.com
+Course_Title=Introducing ASP.NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Creating a dynamic website is easier than you might think. ASP.NET lets you use C# and mix it with HTML to create Razor pages. This course shows you how to add data to a website dynamically and how to use a built-in technique called dependency injection to add services. Once you have your website working the way you want, instructor Leslie Richardson shows you how to add CSS to your Bootstrap template to make it more visually appealing. Leslie explains how to use a JSON API to help make your application’s data available to a mobile app. She discusses how to use arrays to add a product rating feature and how to add Blazor into your web application code. Plus, she walks you through debugging your code, then shows you how to publish your website to Azure. This course was created by Microsoft.NET. We are pleased to host this training in our library.

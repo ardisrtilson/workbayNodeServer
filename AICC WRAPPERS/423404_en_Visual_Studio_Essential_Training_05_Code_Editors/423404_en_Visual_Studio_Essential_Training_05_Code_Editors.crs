@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=423404
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 05 Code Editors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio's code editors are much more powerful and customizable than most developers realize. Join Walt Ritscher in this course and learn how to configure Visual Studio's settings to suit your workflow. Walt shows how to code more efficiently with IntelliSense; collaborate with other developers using comments and change tracking; refactor code; create formatting rules for C#, C++, HTML, and JavaScript; navigate existing code; and use snippets to insert small sections of boiler plate code. With these tools and techniques, you can write code faster with fewer mistakes.

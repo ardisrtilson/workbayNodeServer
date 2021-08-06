@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=180810
+Course_System=linkedin.com
+Course_Title=Blender: Vehicle Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ready to shift your modeling skills into high gear? In this course, author George Maestri shows how to build an Aston Marton DB5, James Bond's iconic set of wheels in Goldfinger, entirely from scratch in the free 3D modeling application Blender. Beginning by sourcing and importing reference imagery, George models the front end, explaining how to get the fenders just right, before completing the basic structure by sculpting the back of the car and the roof. Then learn all about tires: modeling wheels, creating tread patterns, adding spoked rims, and placing the final tires on the car. Along the way, see how to add details like the grille, headlights, windshield, and bumpers, all while smoothing out the model and setting up optimal lighting that shows off your work. Once your model is finished, find out from George how to generate a polished final render.

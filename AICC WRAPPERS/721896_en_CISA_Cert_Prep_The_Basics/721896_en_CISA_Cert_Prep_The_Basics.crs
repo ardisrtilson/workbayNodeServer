@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Lester, Human Element LLC
+Course_ID=721896
+Course_System=linkedin.com
+Course_Title=CISA Cert Prep: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Certified Information Systems Auditor (CISA) is a globally recognized certification that validates your ability to audit, control, and monitor information systems. In this course, Michael Lester provides a high-level overview of the CISA certification exam. This course kicks off the CISA Cert Prep series, which covers each exam domain in greater detail. Here, Michael introduces you to the exam, provides exam tips and practice questions, and shares what to do after you've taken the test.

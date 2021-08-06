@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=490518
+Course_System=linkedin.com
+Course_Title=Design the Web: Styling a Numbered List
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Lists on your website can be transformed into visually engaging content by applying CSS style properties. In this course, you'll see how to make simple lists adopt dynamic styles so the content on your site or application appears refined and polished. If you're a designer or developer ready to learn a bit of CSS code, this course is for you. Join Chris Converse and explore the HTML involved in numbered lists, including any sequenced or ordered lists. He helps you learn to use key CSS properties for styling lists while revealing additional design possibilities.

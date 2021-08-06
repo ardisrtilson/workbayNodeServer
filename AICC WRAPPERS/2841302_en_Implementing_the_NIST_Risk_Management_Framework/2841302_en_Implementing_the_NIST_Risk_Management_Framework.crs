@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ronald Woerner
+Course_ID=2841302
+Course_System=linkedin.com
+Course_Title=Implementing the NIST Risk Management Framework
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Risk management is a key element in any organization's information security and privacy program. The National Institute of Standards and Technology (NIST) provides a Risk Management Framework (RMF) that outlines a process for effectively managing organizational risk. In this course, learn how to implement the NIST RMF to help your organization categorize and effectively manage your security and privacy program throughout the system management lifecycle. Instructor Ronald Woerner provides an in-depth look at each of the seven steps in the NIST RMF process, covering everything from how to prepare for a risk-based approach to security to how to monitor and assess security controls in a system on an ongoing basis. Along the way, he demonstrates how each step is applied in the real world by providing a case study.

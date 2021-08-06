@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=734641
+Course_System=linkedin.com
+Course_Title=Learning Arduino: Interfacing with Hardware
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Arduino enables programmers to experiment with hardware and build interactive, digital projects connected to lights, sensors, and motors. This training course introduces you to the Arduino microcontroller, showing how to interface with three common components: an LCD screen, a seven-segment LED, and a keypad. Instructor Zahraa Khalil shows how to wire and program the interfaces and perform basic tasks: displaying randomized numbers, looping through an LED pattern, and accepting input from the keypad. The course is filled with zoomed-in, hands-on demonstrations that show how to complete the physical wiring, as well as tutorials that take you through high-level Arduino concepts and practical coding techniques. Follow along to learn how to create your own electronics with this popular maker tech platform.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=577559
+Course_System=linkedin.com
+Course_Title=Dreamweaver CC New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover the new features in Adobe Dreamweaver CC, the powerful web development and design software. This course covers the enhancements and additional tools added in the 2017 and 2018 MAX versions of Dreamweaver CC. David Powers begins with the streamlined Find and Replace bar, which is designed for quick find and replace operations. He also shows how to use find and replace in multiple documents, including advanced operations on a specific tag, as well as finding and selecting multiple elements in Code view. Next, he covers PHP support, explaining that Dreamweaver now supports PHP 7.1, and showing how to set the default version of PHP in Preferences, as well as how to set the version of PHP for an individual site. He wraps up with an overview of Dreamweaver CC 2018 MAX and the new undocking feature for Windows.

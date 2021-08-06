@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=578080
+Course_System=linkedin.com
+Course_Title=Architecting Big Data Applications: Batch Mode Application Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Batch mode consolidates data-related operations in order to reduce the load on networks. Batch mode helps software architects build big data applications that operate smoothly and efficiently under real-world conditions. In this course, you can learn about use cases and best practices for architecting batch mode applications using technologies such as Hive and Apache Spark. There is no coding involved. Instead you will see how big data tools can help solve some of the most complex challenges for businesses that generate, store, and analyze large amounts of data. The use cases are drawn from a variety of industries, including ecommerce and IT. Instructor Kumaran Ponnambalam shows how to analyze a problem, draw an architectural outline, choose the right technologies, and finalize the solution. After each use case, he reviews related best practices for data acquisition, transport, processing, storage, and service. Each lesson is rich in practical techniques and insights from a developer who has experienced the benefits and shortcomings of these technologies firsthand.

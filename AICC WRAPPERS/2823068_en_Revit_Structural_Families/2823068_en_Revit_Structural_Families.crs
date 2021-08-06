@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=2823068
+Course_System=linkedin.com
+Course_Title=Revit: Structural Families
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Families are an integral part of working in Revit, and the key to creating custom content. They group similar elements with shared parameters (such as walls or windows). While there are predefined families available in Revit, creating your own families is a great way to build a library of custom content. This course teaches you the ins and outs of creating structural families—such as foundations, framing, and trusses—in Revit 2020. Following an overview of the basics, Eric provides specific instructions on modeling different types of families. He shows how to perform 3D extrusions, use templates, and integrate formulas, as well as look up files and build in flexibility with parameters. Plus, you can learn how to create efficient sheets for printing with custom titles and shared parameters.

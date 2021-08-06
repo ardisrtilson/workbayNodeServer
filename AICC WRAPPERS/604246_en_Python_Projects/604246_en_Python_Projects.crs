@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Burkhard Meier
+Course_ID=604246
+Course_System=linkedin.com
+Course_Title=Python Projects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Strengthen your understanding of Python—the popular object-oriented language—by tackling a series of hands-on projects. In this course, Burkhard Meier explains how to work with Python 3.5 to create four distinct projects. To begin, Burkhard shows how to install the Eclipse IDE development environment with the PyDev plugin, as well as how to set breakpoints and use different debugging tools within Eclipse. He also shows how to translate classic design patterns into Python 3.5, create a GUI weather application with Tkinter, and write a Python Windows service that uses a scheduling mechanism to send out emails at set times. Note: This course was created by Packt Publishing. We are pleased to host this training in our library.

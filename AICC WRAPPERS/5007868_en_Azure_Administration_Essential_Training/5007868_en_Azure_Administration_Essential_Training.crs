@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Elfassy
+Course_ID=5007868
+Course_System=linkedin.com
+Course_Title=Azure Administration Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get a cloud administrator's view of Microsoft Azure. David Elfassy covers the essentials of Azure, providing an inside look at working with its cloud-based storage and networking services, which can scale up or down as your organization changes. He goes over Azure management tools, shares tactics for controlling costs, and shows how to manage your Azure account and configure options via PowerShell scripting. Plus, he details how to set up services successfully, including web apps, virtual machines, Active Directory, and VPNs.

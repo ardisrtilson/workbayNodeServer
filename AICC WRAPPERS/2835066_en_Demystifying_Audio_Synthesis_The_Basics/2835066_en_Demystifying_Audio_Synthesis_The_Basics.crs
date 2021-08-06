@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Hirsch
+Course_ID=2835066
+Course_System=linkedin.com
+Course_Title=Demystifying Audio Synthesis: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Early modular synthesizers that once took up entire rooms are now available at our fingertips with modern DAWs. Though software synths often use the same knobs and sliders as the originals, all the controls can be confusing. But you can crack the code and demystify synths with these tutorials from sound designer and engineer Scott Hirsch. Learn about the building blocks of synthesis (sine waves) and how you can build more complex tones with additive synthesis. Then discover how to sculpt your sound with filters and envelopes and create a number of example synth sounds, including a synth lead, a rich pad, a drum sound, and a synth bass. Along the way, Scott shares specific techniques for synth programming using software synths from Arturia, as well as Logic Pro and Ableton Live.

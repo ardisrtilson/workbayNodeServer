@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Fine
+Course_ID=2834009
+Course_System=linkedin.com
+Course_Title=Software Testing Foundations: Testing throughout the SDLC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The software development life cycle (SDLC) is a circular pattern that defines how a software application moves from concept to creation. There are a variety of approaches for managing the SDLC, including agile and waterfall methodologies. And in each phase and approach, testing is a key milestone. This course was designed to not only help quality professionals understand their role in the SDLC, but also help them grasp key management strategies in dealing with the challenges of executing alpha, beta, and even delta testing. Instructor Mike Fine delves into the different approaches for successfully managing a software project, industry best practices, and where your testing sits in each of these steps.

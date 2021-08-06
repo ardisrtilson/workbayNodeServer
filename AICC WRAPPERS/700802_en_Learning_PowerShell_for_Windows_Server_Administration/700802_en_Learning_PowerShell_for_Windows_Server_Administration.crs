@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=700802
+Course_System=linkedin.com
+Course_Title=Learning PowerShell for Windows Server Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PowerShell allows IT professionals to automate tasks and remotely manage machines across an entire network. An indispensable tool for Windows Server, PowerShell is possibly the single most important skill for new administrators to master. This training course shows how to use every part of this powerful framework. Instructor Scott Burrell explains what PowerShell is—a command-line shell and a scripting language—and how it's different from DOS and bash. He shows how to leverage cmdlets, functions, scripts and modules from Microsoft and third parties; set up execution policies and profiles to determine when scripts run; and build custom scripts of your own. Then he reviews the PowerShell pipeline—the sequence in which data is passed from one command to the next—showing how to string scripts together and redirect output. Finally, Scott shows how to pull everything you've learned together within the PowerShell Integrated Scripting Environment, a host environment for writing, testing, and troubleshooting scripts.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ted Neward
+Course_ID=614300
+Course_System=linkedin.com
+Course_Title=CLR Reflection for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+.NET permits developers to access objects at runtime without knowing their types ahead of time—enabling object relational mapping, serialization, and more. Reflection is the library that drives that ability. This course teaches intermediate .NET developers how to use Reflection to obtain type information from CLR assemblies (such as the definitions for classes, interfaces, and value types) and work with that information at runtime. Learn how to use Reflection to construct and manipulate objects at runtime, invoke methods and properties without knowing about them at compile-time, and access fields inside objects even through encapsulation boundaries. Get practical tips for managing this important process and ensure that your apps run as efficiently as possible.

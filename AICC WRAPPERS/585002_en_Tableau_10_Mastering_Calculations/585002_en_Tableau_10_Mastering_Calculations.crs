@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=585002
+Course_System=linkedin.com
+Course_Title=Tableau 10: Mastering Calculations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tableau 10—the popular analytics and visualization tool—provides you with the ability to create powerful calculations. In this course, learn how to leverage this aspect of the platform, and start creating useful and powerful formulas in Tableau Desktop. Instructor Curt Frye begins by going into data types, conversions, and function syntax, and shares how to create a calculated field and an ad hoc calculation. He then covers how to summarize data using aggregate functions, explaining how to calculate the sum of a collection of values, as well as the average, minimum, and maximum of a set. He also discusses working with times and dates, creating conditional calculations, implementing level of detail expressions, and more.

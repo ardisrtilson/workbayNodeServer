@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Parth Anand
+Course_ID=784294
+Course_System=linkedin.com
+Course_Title=ARKit and Unity: Build a Drivable Car in Augmented Reality
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to make a drivable car in augmented reality (AR) using Unity and the ARKit framework from Apple. Instructor Parth Anand helps you bolster your understanding of AR—as well as enhance your Unity skills—as he guides you step by step through the creation of an AR app that allows you to drive a realistic car against a real-world backdrop. Parth goes over how to interact with 3D objects in AR, as well as how to add the car model, use a real-world drive script, add touch controls, and resolve bugs. Plus, he shares how to add cool features to the car, including how to add realistic lighting effects and animate a car door that opens and closes.

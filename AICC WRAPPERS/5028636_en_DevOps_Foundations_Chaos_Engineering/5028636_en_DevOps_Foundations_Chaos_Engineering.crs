@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Smith
+Course_ID=5028636
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Chaos Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In a world of distributed systems, a single minute of downtime can be costly. Chaos engineering addresses the potential for catastrophic and unlikely systems failure. It’s a type of resilience testing to ensure production systems can withstand infrastructure, network, and application failures resulting from edge cases like cloud outages and natural disasters. This course explains the core concepts, benefits, and uses of chaos engineering, and shows how to implement testing with dedicated tools such as Chaos Toolkit, Chaos Monkey, and Chaos Kong. Instructor Michael Smith guides you through the basic workflow, from creating a hypothesis to running an experiment and analyzing the results. By the end of the course, you should be able to use chaos engineering to prepare your systems for the worst-case scenario.

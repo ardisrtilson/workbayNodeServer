@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=734655
+Course_System=linkedin.com
+Course_Title=Practical Software-Defined Networking: 4 SDN and OpenFlow Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course provides an introduction to software-defined networking (SDN) and OpenFlow applications. Get acquainted with the Microsoft Skype SDN API and explore the SDN infrastructure. Explore real-world applications that you can deploy in your enterprise network. Learn about some of the HP applications available in the HP App Store, and see a demonstration of real-world apps such as the HP Network Protector. This course also goes into Cisco SDN options, the basics of Cisco APIC-EM path trace, and more.

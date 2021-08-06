@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=408411
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 01 Exploring the Visual Studio Ecosystem
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio has every tool you need to be a productive developer. But it is a vast ecosystem. This course provides a comprehensive overview of the IDE, code editors, Team Foundation Server, accounts and notifications, and personalization settings that make up the core of Visual Studio. Author Walt Ritscher provides beginners with a glimpse of the breadth of the program, and gives established pros a look at the most recent changes in 2015, including new Azure tools for building scalable applications and Blend, a complementary IDE for creating modern XAML-based applications.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Guidry
+Course_ID=3129484
+Course_System=linkedin.com
+Course_Title=Learning Virtualization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtualization is a vastly important topic to IT managers, as it allows one computer to run multiple operating systems, leading to a more efficient use of hardware resources. In this course, Martin Guidry looks at the crucial concepts behind today's virtualization technologies, covering the important features, plus plenty of other tools and techniques. He starts by discussing several advantages and a few disadvantages of virtualization. He then shows how to use Microsoft Hyper-V and VMware Workstation to create and maintain virtual machines. Martin also offers advice on how to choose the right virtualization technologies for your situation and how to prepare your existing IT infrastructure to accommodate virtualization. He finishes the course with some tips for troubleshooting slow performance, network communication, and common errors in your virtual machine.

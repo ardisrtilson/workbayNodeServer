@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=612191
+Course_System=linkedin.com
+Course_Title=Windows 10: Deploy and Manage Virtual Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Application virtualization with App-V centralizes the configuration and deployment of Windows apps, while eliminating software conflicts. This hands-on course covers the skills necessary for a system admin to deploy and manage virtual apps in Windows 10. Microsoft MVP Brien Posey covers installing and configuring App-V, sequencing an application, editing and upgrading a virtual application, and deploying virtual applications. Plus, learn about deploying desktop and mobile apps via Intune.

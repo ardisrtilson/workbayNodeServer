@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bonnie Jean Brennan
+Course_ID=630623
+Course_System=linkedin.com
+Course_Title=Learning RxJS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The RxJS JavaScript library is designed for reactive programming using observables. With observables, you watch the data stream, passively listening for an event. Applications can detect changes instantly—in real time—without unnecessary network calls. This course helps explain exactly what an observable is, and shows how to use RxJS to create and subscribe to observables and leverage subjects—a specialized type of observable—for fine-grained control. Instructor Bonnie Brennan also shows how to filter, sort, and modify data with operators. Then, see how it all comes together in an interface that allows users to input search terms and get instant results from an online source like Reddit. Note: The demonstrations use RxJS with Angular. However, users of other JavaScript frameworks such as React or Vue will also benefit from the lessons in this course.

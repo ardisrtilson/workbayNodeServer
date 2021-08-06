@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=2824269
+Course_System=linkedin.com
+Course_Title=Deploying Your AWS Application to the Cloud with Docker
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Today's customers want new features to be deployed quickly, and with little to no downtime. In this course, instructor Carlos Rivas helps you streamline your workflow by building and deploying serverless applications on Amazon Web Services (AWS) using Docker. Carlos covers how to set up and configure a repository using AWS CodeCommit, a Git-compatible repository. He demonstrates how to build Docker images with CodeBuild; create a CI/CD pipeline for your CodeBuild project; build the network infrastructure for your deployment; create a task definition specific to your web application; and more. And in addition to walking through an automated build process and deployment strategy, he explains how to roll back a failed deployment if things go awry. Along the way, Carlos provides challenges that enable you to test your new skills.

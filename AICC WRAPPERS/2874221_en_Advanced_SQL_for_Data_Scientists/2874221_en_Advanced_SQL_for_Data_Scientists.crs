@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=2874221
+Course_System=linkedin.com
+Course_Title=Advanced SQL for Data Scientists
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Many data scientists know how to work with SQL—the industry-standard language for data analysis. But as data sizes grow, you need to know how to do more than simply read and write from a database. This course provides a more sophisticated approach to designing data models and optimizing queries in SQL. Instructor Dan Sullivan begins with the logical and physical design of tables—with particular focus on very large databases—and then presents a deep dive review of indexes, including specialized indexes and when to use them. The next section introduces query optimization and shows how to optimize basic, multi-join, and more complex queries. The course also covers SQL extensions, including user-defined functions and specialized data types. The techniques taught here enable more efficient analysis of large data sets using SQL, statistics, and custom business logic.

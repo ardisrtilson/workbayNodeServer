@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Wickett, Ernest Mueller
+Course_ID=669542
+Course_System=linkedin.com
+Course_Title=DevOps Foundations: Site Reliability Engineering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Site reliability engineering (SRE) is an emerging paradigm in DevOps. The biggest names in tech—companies like Google, Netflix, Microsoft, and LinkedIn—all use SRE. In fact, industry wide, site reliability engineer is replacing DevOps engineer in job posts. Simply put, SRE is software engineering applied to operations—for the cloud native era. This course introduces the basics of site reliability engineering, including how SRE fits into DevOps and how it can be integrated into your unique business environment. Instructors Ernest Mueller and James Wickett cover the major areas of expertise, including release engineering, change management, incident management and retrospectives, self-service automation, troubleshooting, performance, and deliberate adversity. Learn how to define reliability through SLAs and SLOs, handle crisis, design distributed systems, and scale your systems and your team. Plus, explore time and project management strategies that bring humanity back to the SRE's job.

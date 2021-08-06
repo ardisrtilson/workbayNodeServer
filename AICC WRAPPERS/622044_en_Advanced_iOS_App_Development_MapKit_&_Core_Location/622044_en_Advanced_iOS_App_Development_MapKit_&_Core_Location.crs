@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=622044
+Course_System=linkedin.com
+Course_Title=Advanced iOS App Development: MapKit & Core Location
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Users expect apps to be location aware—to know where they are, suggest where they should go next, and tell them how to get there. This course provides developers with advanced techniques for adding add location awareness, directions, and interactive maps to iOS applications. Steven Lipton teaches the fundamentals of MapKit and Core Location, two iOS frameworks that work that hand in hand to provide location data and services. Learn how to build a map with 2D, 3D, satellite, and flyover views; add annotations and graphic overlays; and find and add a user's location to a map. Plus, discover how to search for a location using coordinates or keywords, and generate turn-by-turn directions with the MapKit MKDirections object.

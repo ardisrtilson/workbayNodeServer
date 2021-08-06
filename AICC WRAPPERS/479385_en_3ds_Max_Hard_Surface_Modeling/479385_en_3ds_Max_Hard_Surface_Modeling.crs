@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=479385
+Course_System=linkedin.com
+Course_Title=3ds Max: Hard Surface Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Hard surface modeling is all about designing man-made objects: machines, vehicles, tools, weapons, and so on. Because the edges and angles are distinct and the surfaces are typically smooth, there are many opportunities to use 3ds Max's built-in tools to make your modeling process more efficient. 3ds Max: Hard Surface Modeling Basics helps you learn the tools and techniques to model a high-poly mesh—in this case, an old deep sea diving helmet and shoulder guard—as quickly and efficiently as possible. The assets you produce as a result of this course can be used in games, product visualizations, and more. Join Joel Bradley as he shows how to set up your environment for maximum efficiency and use a variety of techniques to execute the final design, including spline modeling, welding, component modeling, extruding from primitive objects, cutting, and box modeling. Plus, learn how to use the power and flexibility of the modifier stack to refine your hard surface models.

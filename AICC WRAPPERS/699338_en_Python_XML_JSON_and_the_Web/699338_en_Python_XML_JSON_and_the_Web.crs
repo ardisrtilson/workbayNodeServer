@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=699338
+Course_System=linkedin.com
+Course_Title=Python: XML, JSON, and the Web
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Python is a powerful tool for working with data stored on web servers. In this course, Joe Marini demonstrates how to use Python to send, retrieve, and deliver web-based data to users. Learn how XML and JSON are used to store and exchange data, see how to use Python to retrieve XML and JSON data over the web, and find out how to parse that data using a range of different Python modules and features. Joe also shows how to fetch data from URLs and retrieve and send data via HTTP using the Python Requests library.

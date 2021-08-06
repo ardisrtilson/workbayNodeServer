@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=734652
+Course_System=linkedin.com
+Course_Title=Practical Software-Defined Networking: 2 SDN and OpenFlow Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software-defined networking (SDN) allows administrators to programmatically configure, control, and deploy cloud resources—leading to better network performance and lower operating costs. In this course, you can review all the tiers of SDN architecture, including applications, controllers, and the OpenFlow protocol for network communication. Learn about OpenFlow flows that determine packet routing and review demos of eight different OpenFlow topologies. Review SDN and OpenFlow architectures using physical, logical, and reserved ports and physical, virtual, and hybrid switches, such as Raspberry Pi and Mininet. Find out what happens when a controller fails, and how to use applications such as OpenDaylight and Wireshark to administer and monitor your network. Instructor David Bombal also answers a number of frequently asked questions about OpenFlow and software-defined networks. Note: This course uses GNS3 for all demonstrations.

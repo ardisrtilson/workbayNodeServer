@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Claudine Peet
+Course_ID=718626
+Course_System=linkedin.com
+Course_Title=Applying Agile MoSCoW Prioritization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Appropriate prioritization of requirements helps ensure timely and efficient project delivery. The MoSCoW method sorts requirements into four categories: must have, should have, could have, and won't have. The framework helps the project team reach a common understanding with stakeholders and ensures you deliver high-quality results that are on time and on budget. In this course, Claudine Peet shows how to implement MoSCoW prioritization in agile project management. Learn how to define requirements, prioritize and test those requirements, and deal with changes that arise during the project life cycle. Claudine provides tips and tricks that will ensure you end up building the product with exactly the features you needed—without the features you thought you wanted.

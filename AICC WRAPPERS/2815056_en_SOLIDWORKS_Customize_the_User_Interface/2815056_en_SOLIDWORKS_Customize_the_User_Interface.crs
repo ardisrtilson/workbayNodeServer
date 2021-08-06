@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=2815056
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Customize the User Interface
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover ways to maximize the power of SOLIDWORKS by optimizing the interface to suit any workflow. Learn about how to personalize the command ribbon and toolbars to display frequently used features, as well as how to customize mouse gestures to make mouse movements more effective. Plus, explore default keyboard shortcuts that expedite common operations, and see how to customize shortcuts for even more efficiency.

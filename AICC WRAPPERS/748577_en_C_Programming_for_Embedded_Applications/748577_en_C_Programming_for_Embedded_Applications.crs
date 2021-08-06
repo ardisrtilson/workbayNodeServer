@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eduardo Corpeño
+Course_ID=748577
+Course_System=linkedin.com
+Course_Title=C Programming for Embedded Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to write embedded software in C and deliver applications that are small, efficient, and fast. In this course, instructor Eduardo Corpeño explains how C programming and the Internet of Things combine in embedded applications—software that permanently resides on a device. He reviews the challenges involved in this type of programming, ranging from memory, storage, and power limitations to hardware awareness. He explains how different data types can affect the performance of your app and reviews bit manipulation—an area where C shines. Eduardo shows how to manipulate bit-level data using bit masking and bit fields, demonstrating the strengths of both techniques with an Arduino controller. Then learn how to use the volatile and const variables to enforce data correctness and read-only access, and explore alternatives to traditional functions, which may take too long to run, and floating-point math, which consumes CPU.

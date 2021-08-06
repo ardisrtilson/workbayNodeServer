@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Caroline Wong
+Course_ID=704143
+Course_System=linkedin.com
+Course_Title=OWASP Top 10: #1 Injection and #2 Broken Authentication
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Open Web Application Security Project (OWASP) was formed to provide the public with the resources to understand and improve software security. The OWASP Top 10 list describes the ten biggest software vulnerabilities. In this course, application security expert Caroline Wong provides an overview of the top two: injection and broken authentication attacks. Find out how injection and broken authentication work and see real-life examples of the attacks and their impact on companies and consumers. Plus, get prevention techniques to avoid putting your applications and users at risk.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Shander
+Course_ID=630615
+Course_System=linkedin.com
+Course_Title=Picking the Right Chart for Your Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When selecting charts to showcase data, many people simply pick from the few choices available in Excel or other such software. This can be highly limiting, and can result in the selection of charts that fail to effectively convey whatever you're trying to communicate. This course can help you think more strategically about your data, and provide you with the tools you need to pick the best visual display for the type of data you're working with—and your ultimate communication goals. Main topics include getting to the key idea you're trying to communicate; finding the right standard chart for your data type; and brainstorming and experimenting to come up with alternatives to the standards.

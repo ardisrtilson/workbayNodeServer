@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Fine
+Course_ID=2825377
+Course_System=linkedin.com
+Course_Title=Software Testing Foundations: Test Planning
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The moment a product is placed on the roadmap, test managers must begin to strategize, calculate, and prepare for testing. The scope and execution of these tests is often defined by the size and impact of a product release. Whether it's leveraging past product testing or moving into an entirely new product line, you have to plan ahead to ensure that you mitigate issues while delivering a thorough and thoughtful test. This course provides testers and QA leads with the foundational knowledge they need to launch a successful test of a new software application, regardless of scale. Instructor Mike Fine steps through the entire planning process, from evaluating a product, to authoring a plan, to preparing to deliver results.

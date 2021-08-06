@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Management
+Course_ID=2804053
+Course_System=linkedin.com
+Course_Title=SAP Transportation Management Overview
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the basics of transportation management (TM) from a business perspective—while you explore the SAP Transportation Management module and its processes. This course provides a solid foundation of the TM architecture, the usable master data in SAP, and related processes, from order capture to freight settlement. Learn about carrier selection and tendering, freight order execution, track and trace activities, and producing analytics to make better decisions around transportation and supply chain management. The course also provides demos of key elements of TM in the NetWeaver Business Client. Along the way, you can learn tips and tricks as well as best practices in shipper industries, which combine best-in-class, proven transportation management capabilities with the benefits of the S/4HANA system. This course was created by Michael Management. We are pleased to offer this training in our library.

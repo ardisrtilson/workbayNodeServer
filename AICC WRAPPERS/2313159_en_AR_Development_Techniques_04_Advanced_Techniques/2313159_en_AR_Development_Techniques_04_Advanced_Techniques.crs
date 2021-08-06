@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Parth Anand
+Course_ID=2313159
+Course_System=linkedin.com
+Course_Title=AR Development Techniques 04: Advanced Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the fourth course of a four-part series, instructor Parth Anand introduces advanced techniques in Unity for AR application development, such as raycasting, pulling assets from a remote server, and creating app-less AR. Parth explains what raycasting is and how it works, then steps through how to use raycasting to build an AR balloon shooting game. Parth’s next topic is asset bundles, and he covers the steps you’ll need to follow in order to download some 3D models, apply textures, and set up different actions within your app. Next, he goes into AR Quick Look, which is used to display USDZ files and other 3D formats on iPhones and iPads. In a bonus section, Parth steps through creating a portal app.

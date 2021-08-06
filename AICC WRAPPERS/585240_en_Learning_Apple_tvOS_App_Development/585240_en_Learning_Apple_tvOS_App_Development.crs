@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Advent
+Course_ID=585240
+Course_System=linkedin.com
+Course_Title=Learning Apple tvOS App Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What makes tvOS special? How can you make an app that leverages unique Apply TV features and provides an enjoyable experience for the user? This course shows how to develop an Apple tvOS app, using Apple frameworks and technologies. Learn how to use simple UIKit components, like UIButtons. See how to work with components and views to display data. Gain an understanding of the Apple TV focus model that goes hand in hand with using the Siri remote. The course also covers video playback, the usage of layered images for an immersive user experience, and a lot more.

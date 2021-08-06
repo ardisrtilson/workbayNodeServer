@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=2976137
+Course_System=linkedin.com
+Course_Title=Revit and Unreal Engine: Real-Life Architectural Visualizations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While Autodesk Revit is an excellent 3D modeling tool for architects, rendering 3D models within the application can be time consuming and complex. Unreal Engine gives architects the ability to move this process out of Revit and create architectural visualizations that showcase how their designs would look with real-world lighting and materials. In this course, discover how to transform your Revit designs into highly realistic images and videos using the power of Unreal Engine. Instructor Shaun Bryant covers how to prepare Revit for Unreal Engine, set up 3D views in Revit, and export the Revit views for Unreal Engine. Shaun then steps through how to work in Unreal Engine, including how to handle your model geometry, work with materials and lighting, and add camera views and natural daylight to your scene. To wrap up, he shows how to render your deigns as architectural stills and videos.

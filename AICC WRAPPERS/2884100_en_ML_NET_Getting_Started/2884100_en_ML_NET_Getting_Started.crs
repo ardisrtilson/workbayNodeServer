@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Wood
+Course_ID=2884100
+Course_System=linkedin.com
+Course_Title=ML.NET: Getting Started
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’re looking to get into the world of machine learning models, but don’t know where to start, ML.NET is free software machine learning library for C# that allows you to build models without having to know all the theory behind machine learning. In this course, Jonathan Wood introduces you to ML.NET and shows how you can use it to leverage machine learning within your .NET applications. Jonathan starts with the basics of machine learning and covers both what it’s good for and scenarios when it’s not the best option. He then gets into the tools that you can utilize to help you get started building machine learning models. By the end of this course, you’ll have a better idea of the benefits of using ML.NET and why it’s a great tool for C# developers who are interested in machine learning.

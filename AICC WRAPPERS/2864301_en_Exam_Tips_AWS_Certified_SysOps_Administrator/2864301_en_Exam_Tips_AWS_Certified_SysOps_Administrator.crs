@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharif Nijim
+Course_ID=2864301
+Course_System=linkedin.com
+Course_Title=Exam Tips: AWS Certified SysOps Administrator
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning the AWS Certified SysOps Administrator – Associate certification validates your ability to operate within the AWS ecosystem. This course was designed to help IT professionals prepare for this introductory-level exam by highlighting the key topics covered on the exam, and providing tips and tricks that can help you approach the exam with confidence. Instructor Sharif Nijim outlines the benefits of certification, and identifies resources that cover the exam concepts in depth. He also explains how to register for the exam, and discusses recertification options.

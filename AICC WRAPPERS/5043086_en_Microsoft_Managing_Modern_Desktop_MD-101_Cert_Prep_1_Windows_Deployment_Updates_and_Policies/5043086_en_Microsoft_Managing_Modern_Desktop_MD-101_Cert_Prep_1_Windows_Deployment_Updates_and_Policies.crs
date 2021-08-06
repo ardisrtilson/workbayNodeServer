@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=5043086
+Course_System=linkedin.com
+Course_Title=Microsoft Managing Modern Desktop (MD-101) Cert Prep: 1 Windows Deployment, Updates, and Policies
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Deploying, managing, and securing Windows 10 devices and client applications can be complex. Cloud-based management tools such as Azure Active Directory and Microsoft Intune help administrators streamline and enhance their deployment and management workflow. In this course, instructor Andrew Bettany demonstrates how to leverage these and other tools to effectively manage a modern Windows 10 desktop environment within an enterprise. Andrew covers how to upgrade to Windows 10 and manage a staged rollout, including how to deploy devices using Windows Autopilot. Plus, see how to leverage Microsoft Intune profiles and policies to secure devices, ensure device compliance, control devices, and manage data access. This course closely aligns to the first two domains of exam MD-101: Managing Modern Desktops: Deploy and update operating systems and Manage policies and profiles.

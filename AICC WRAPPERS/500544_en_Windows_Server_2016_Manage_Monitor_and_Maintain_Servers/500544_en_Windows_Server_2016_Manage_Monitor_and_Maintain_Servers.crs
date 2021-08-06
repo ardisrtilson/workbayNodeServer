@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=500544
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Manage, Monitor, and Maintain Servers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+How healthy is your Windows Server? Everyone wants a perfect system, with no vulnerabilities or errors. But a key part of managing a Windows Server-based network is keeping it up to date and recognizing when things go wrong. This course covers managing updates and patches with Windows Server Update Services (WSUS), and monitoring your server performance and network traffic via the Performance Monitor, Message Analyzer, and other tools in Windows Server 2016. Instructor Scott Burrell also devotes a chapter to troubleshooting Windows Server with the help of event logs. In addition to help you master these key administration tasks, this course can help you prepare for Microsoft Exam 70-740, one of the qualifying exams for the 2016 MCSA certification.

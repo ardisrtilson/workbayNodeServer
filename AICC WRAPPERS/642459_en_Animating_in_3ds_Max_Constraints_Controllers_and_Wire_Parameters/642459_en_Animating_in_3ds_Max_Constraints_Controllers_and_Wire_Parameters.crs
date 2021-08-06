@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Bradley
+Course_ID=642459
+Course_System=linkedin.com
+Course_Title=Animating in 3ds Max: Constraints, Controllers, and Wire Parameters
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk 3ds Max boasts a robust set of animation tools that can be used to bring characters, machinery, and even environments to life. In this course, get acquainted with some of the fundamental tools that can be used to both create and control animations. To make this course as practical as possible, instructor Brian Bradley introduces each tool (or set of tools) in a practical exercise that helps you see the tool in action. He covers working with controllers, creating reactions, using motion capture, working with constraints and wire parameters, and more.

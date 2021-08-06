@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2822021
+Course_System=linkedin.com
+Course_Title=Building Angular and ASP.NET Core Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to build your own web application? In this course, Ervis Trupja shows you how, explaining what it takes to create a web app using Angular, the popular JavaScript framework, for the front end and the ASP.NET Web API for the back end. Ervis steps through how to build the service layer with the ASP.NET Web API to expose the required endpoints to create, read, update, and delete entries. He then shows how to build a UI using Angular with Bootstrap; implement NgRx—a framework for building reactive applications in Angular—in your app; and handle different user authentication cases with Auth0.

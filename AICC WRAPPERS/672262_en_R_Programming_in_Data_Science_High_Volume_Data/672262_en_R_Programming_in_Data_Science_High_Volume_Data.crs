@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=672262
+Course_System=linkedin.com
+Course_Title=R Programming in Data Science: High Volume Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data fills all available space, and now that storage is cheap, the amount of data has exploded. However, all that information is useless without analysis and context. The R programming language is designed to make it easier to analyze and visualize massive amounts of data. For example, R provides the ability to multiply one block of variables by another—an assumption that provides inherent advantages over other languages. This course shows why R is ideal for high volumes of data, introduces more efficient ways to use the language, and explains how to avoid the problems and capitalize on the opportunities of big data. Learn how to determine if you have enough memory and processing power, produce visualizations of big data, optimize your R code, and use advanced techniques such as parallel processing to speed up your computations. Plus, discover how to integrate R with big-data solutions such as SQL databases and Apache Spark.

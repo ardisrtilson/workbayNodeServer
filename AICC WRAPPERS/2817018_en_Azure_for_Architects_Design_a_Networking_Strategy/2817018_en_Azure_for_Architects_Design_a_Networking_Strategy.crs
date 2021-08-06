@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Duffy
+Course_ID=2817018
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Design a Networking Strategy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about designing a network strategy with Microsoft Azure and prepare for the networking portion of Exam AZ-301: Microsoft Azure Architect Design. Instructor Scott Duffy begins with a brief overview of Azure and a review of networking fundamentals, then discusses specific networking tools inside Azure. Scott covers network and application security groups, how to manage networking using the command line, PowerShell, the Azure portal, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bill Weinman
+Course_ID=2807522
+Course_System=linkedin.com
+Course_Title=MySQL Installation and Configuration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're a developer, a database analyst, or just someone looking to manage data for their small business, having the ability to install and configure MySQL is a professional asset. In this course, join instructor Bill Weinman as he steps through how to install and configure MySQL on various platforms. Bill shows how to install MySQL on a Mac, as well as machines running Windows and Ubuntu Linux. He demonstrates how to create user accounts, assign database access privileges, and manage passwords. Plus, he goes over the different storage engine options in MySQL, including InnoDB.

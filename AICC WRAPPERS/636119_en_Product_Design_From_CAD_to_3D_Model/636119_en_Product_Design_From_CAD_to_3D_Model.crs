@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jean Gorospe
+Course_ID=636119
+Course_System=linkedin.com
+Course_Title=Product Design: From CAD to 3D Model
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+After you've turned a concept into a CAD model, there are still many steps to prepare it for rendering or manufacture. This course walks you through the product design process starting from a partially-realized 2D sketch. It takes you through the finishing steps needed to turn a concept model into something functional and ready for presentation. You learn how to shape the surfaces of a model, add textures and materials, and prepare the model for final photorealistic product render. Instructor Jean Gorospe uses Rhino and KeyShot for modeling and rendering, but the skills taught in this course can apply to any software.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Charles Judd
+Course_ID=3129483
+Course_System=linkedin.com
+Course_Title=Cisco CCNP SCOR Security (350-701) Cert Prep: 3 Endpoint Protection and Secure Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the final installment of the three-part series covering the Cisco CCNP SCOR Security (350-701) exam, instructor Charles Judd details the fifth and sixth domains of the exam: Endpoint Protection and Secure Access. Charles delves into topics like multifactor authentication and endpoint posture assessments, before looking into ways to achieve secure access with several different Cisco security solutions. After completing this course and series, you’ll have a solid base of preparation for the Cisco CCNP SCOR Security (350-701) exam.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=150165
+Course_System=linkedin.com
+Course_Title=Learning Excel What-If Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make better decisions for your business by taking a deeper dive into your data with Microsoft Excel's analysis tools. In this advanced course, Curt Frye shows how to analyze hypothetical business cases using formulas and variable data. He'll show you how to build data tables, define alternative data sets with scenarios, find target values with Goal Seek, and analyze complex problems with Solver. The last two chapters show you how to create a configurable model with sliders and check boxes and how to run a Monte Carlo simulation.

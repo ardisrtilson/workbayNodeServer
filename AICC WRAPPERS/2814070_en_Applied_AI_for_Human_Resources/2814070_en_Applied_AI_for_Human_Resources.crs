@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=2814070
+Course_System=linkedin.com
+Course_Title=Applied AI for Human Resources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A global economy and remote workforce have made it difficult for HR departments to track employee satisfaction and motivation. However, using artificial intelligence, data scientists and engineers can now generate powerful insights to improve hiring, training, retention, and more. This course explores the ways AI and big data can help HR. Examine three key use cases in the human resources world: predicting employee attrition, mapping collaboration, and creating training recommendations. For each of these use cases, instructor Kumaran Ponnambalam collects and processes data, builds machine learning models, and predicts key outcomes using tools like Python, Jupyter Notebooks, TensorFlow, and Keras. He also briefly explains how to design models to perform other common HR tasks, such as predicting future performance, screening candidates, and even tracking morale. The course concludes with some best practices, including addressing security and privacy concerns particular to HR.

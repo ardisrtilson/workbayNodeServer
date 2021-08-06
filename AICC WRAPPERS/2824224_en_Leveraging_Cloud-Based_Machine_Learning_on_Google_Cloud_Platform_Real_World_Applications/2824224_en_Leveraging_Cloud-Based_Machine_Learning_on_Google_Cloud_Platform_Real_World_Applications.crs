@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=2824224
+Course_System=linkedin.com
+Course_Title=Leveraging Cloud-Based Machine Learning on Google Cloud Platform: Real World Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In order to successfully leverage AI on Google Cloud Platform (GCP), you must understand what AI is and become familiar with the native tools that GCP offers. This practical course takes you through the basics of leveraging GCP for AI-based applications, including the tools that you can leverage today and how to use them correctly. Instructor David Linthicum introduces Vision AI, a key image identification product from Google, as well as Kubeflow, the machine learning (ML) toolkit designed to simplify the process of deploying ML workflows on Kubernetes. Throughout the course, David presents a variety of real-world use cases that illustrate how these concepts work in practice.

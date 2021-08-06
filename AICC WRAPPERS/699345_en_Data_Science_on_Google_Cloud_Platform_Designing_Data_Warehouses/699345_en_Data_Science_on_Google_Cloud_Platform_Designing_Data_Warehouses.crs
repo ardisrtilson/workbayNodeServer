@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kumaran Ponnambalam
+Course_ID=699345
+Course_System=linkedin.com
+Course_Title=Data Science on Google Cloud Platform: Designing Data Warehouses
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cloud computing brings unlimited scalability and elasticity to data science applications. Expertise in the major platforms, such as Google Cloud Platform (GCP), is essential to the IT professional. This course—one of a series by veteran cloud engineering specialist and data scientist Kumaran Ponnambalam—shows how to design and build data warehouses using GCP. Explore the different types of storage options available in GCP for files, relational data, documents, and big data, including Cloud SQL, Cloud Bigtable, and Cloud BigQuery. Then learn how to use one solution, BigQuery, to perform data storage and query operations, and review advanced use cases, such as working with partition tables and external data sources. Finally, learn best practices for table design, storage and query optimization, and monitoring of data warehouses in BigQuery.

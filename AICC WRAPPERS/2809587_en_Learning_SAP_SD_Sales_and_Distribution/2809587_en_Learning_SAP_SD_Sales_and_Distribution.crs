@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Valley
+Course_ID=2809587
+Course_System=linkedin.com
+Course_Title=Learning SAP SD (Sales and Distribution)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SAP Sales and Distribution (SD)—a key module in SAP ERP— stores customer and product data for selling, shipping, and billing. In this course, instructor Justin Valley delves into SAP SD, explaining how to approach common transactions and reports in the module. To begin, Justin provides a high-level overview of integral SD processes, as well as how the different processes fit into SAP ERP. Next, he goes over the essential elements of master data in SAP SD and steps through the sales, distribution, billing, and returns processes. Plus, he shows how to run reports that give you an immediate look at the health and efficiency of your sales department.

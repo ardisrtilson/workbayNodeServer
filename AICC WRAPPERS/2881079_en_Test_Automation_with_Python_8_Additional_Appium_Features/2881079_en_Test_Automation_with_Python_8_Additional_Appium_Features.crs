@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2881079
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 8 Additional Appium Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This installment of the Test Automation with Python covers some more advanced Appium features, starting with the mobile device itself and covering topics like file management and the various calls you can use in your app like geolocation, device orientation, and locking and unlocking. The course then moves on to managing apps with Appium, including installing, activating, upgrading, and testing multiple apps. Also covered are Android Activities, which are the separate components that make up Android apps. This course finishes by showing how to use Appium to test web apps as well as hybrid apps—native apps with web views. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Swersky
+Course_ID=2819143
+Course_System=linkedin.com
+Course_Title=Enterprise Architecture in Practice
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enterprise architecture (EA) is largely an art that's best taught by example. The alignment of technology and business strategies requires a nuanced understanding of how to manage people, processes, and the technical assets that power an organization. In this course, David Swersky focuses on the practical applications of EA as he steps through the technological transformation of a fictional company, Brick and Mortar. Throughout the course, David shows how an executive would assess the technology in use by Brick and Mortar, and then create and execute a plan to modernize. Learn how to build your EA team and produce roadmaps for strategic planning. Plus, discover what the day-to-day operations of an EA team looks like, as well as how to tackle common challenges.

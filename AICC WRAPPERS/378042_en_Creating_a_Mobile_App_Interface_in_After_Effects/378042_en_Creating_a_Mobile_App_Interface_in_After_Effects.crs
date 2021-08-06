@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andy Needham
+Course_ID=378042
+Course_System=linkedin.com
+Course_Title=Creating a Mobile App Interface in After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most apps follow the same interface design principles—principles defined in the iOS, Android, and Windows Phone specifications. Prototyping your interface with tools like Illustrator and After Effects can ensure your app meets platform guidelines and help you resolve usability issues before going through a lengthy development cycle. In this course, Andy Needham shows how to create an app interface from scratch using Adobe Illustrator, and then take the finished design into After Effects for animation. This is a start-to-finish project, going from concept sketches to the final product (an animated GIF). The prototype will showcase the navigation and interactive aspects of the app interface and can be used for marketing or gathering client and user feedback.

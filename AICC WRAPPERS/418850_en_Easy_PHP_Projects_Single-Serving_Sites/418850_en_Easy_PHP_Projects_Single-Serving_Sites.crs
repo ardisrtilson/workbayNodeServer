@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=418850
+Course_System=linkedin.com
+Course_Title=Easy PHP Projects: Single-Serving Sites
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Sometimes simple websites are more effective than complex ones. In this course, discover the beauty and power of single-serving sites. Easy PHP Projects is a series of small-scale PHP projects targeted at PHP beginners as well as experienced developers looking to practice their skills. Each of the projects in this installment results in a stand-alone, single-page website. Kevin Skoglund shows how to determine a user's IP address and browser details, parse and compare dates, generate dynamic page styles, and create sentences from randomized fragments.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Helfen
+Course_ID=142115
+Course_System=linkedin.com
+Course_Title=Inventor 2014 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Already up and running? This course is the next step in building your Autodesk Inventor skillset. Author John Helfen takes you through the interface and key processes of this parametric design system, including sketching, part modeling, assemblies, and drawings. Each process works in conjunction with the rest, allowing you to create parts and assemblies and document them in a way that they can be manufactured. Learn how to set up your project file; create and modify geometry; create extrusions, sweeps, and lofts; build parts with placed features and patterns of features; and create iParts and iFeatures. John also covers assembly visualization techniques, drawing views, and balloons and parts lists. The course was created and produced by John Helfen. We're honored to host this training in our library.

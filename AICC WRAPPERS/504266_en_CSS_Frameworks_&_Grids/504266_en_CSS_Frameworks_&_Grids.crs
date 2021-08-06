@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carrie Dils
+Course_ID=504266
+Course_System=linkedin.com
+Course_Title=CSS: Frameworks & Grids
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Have you wondered if using a CSS framework will speed up your website development? Frameworks give you the files and assets you need to build most websites—giving you a head start on your design process and templates for producing better, more consistent code. But they're not right for every project. Carrie Dils introduces the types of frameworks available, including the most popular open-source options like Bootstrap and Foundation, and provides an honest assessment of their pros and cons. She guides you through the download and setup steps and helps you build a basic framework-based site. Chapter 5 explores CSS grid systems, including Flexbox and Grid (the CSS Grid Layout module), which provide a simple system for laying out page content in columns and rows.

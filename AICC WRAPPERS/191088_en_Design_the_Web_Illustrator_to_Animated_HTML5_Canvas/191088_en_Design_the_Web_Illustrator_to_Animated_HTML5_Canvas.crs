@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=191088
+Course_System=linkedin.com
+Course_Title=Design the Web: Illustrator to Animated HTML5 Canvas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create a web animation from a simple Illustrator file, with Ai2Canvas—a free plugin that works with nearly every version of Illustrator, from CS3 to CC. In this short Design the Web project, Chris Converse shows how to achieve complex animations with Ai2Canvas, simply by naming your layers with different animation properties. He also demonstrates how to combine properties like rotation and origin, for more interesting motion designs, and compress project files for web delivery. The exercise files for this course are free to all lynda.com members, so download them today.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Laurie Ann Ulrich
+Course_ID=5005051
+Course_System=linkedin.com
+Course_Title=Access Quick Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Access is a powerful tool for collecting, querying, and reporting data. This series provides tips on how to do all that more effectively. Laurie Ann Ulrich—author of Access for Dummies—provides solutions and shortcuts for making your database more logical, your form and queries more useful, your reports more informative and engaging, and your workflow more efficient. From storyboarding your database to setting up input masks and parameter prompts, these tips are perfect for novice and experienced users alike.

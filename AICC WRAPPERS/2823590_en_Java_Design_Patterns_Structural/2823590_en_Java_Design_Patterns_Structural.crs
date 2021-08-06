@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bethan Palmer
+Course_ID=2823590
+Course_System=linkedin.com
+Course_Title=Java Design Patterns: Structural
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Design patterns provide a kind of template for writing quality code. Knowing which design pattern to use in which scenario can be challenging, but will make you a better Java programmer. This course takes a deep dive into structural patterns, which can help you identify relationships and organize code into larger structures. Instructor Bethan Palmer shows how to use the seven most popular structural design patterns—Adapter, Bridge, Composite, Decorator, Façade, Flyweight, and Proxy—to write better, more maintainable Java code. She provides example use cases, complete with implementation instructions and tips for avoiding the unique challenges posed by each pattern. Every chapter contains a challenge to practice your new skills. By the end of the course, you'll be armed with the knowledge necessary to implement structural design patterns in your own Java projects.

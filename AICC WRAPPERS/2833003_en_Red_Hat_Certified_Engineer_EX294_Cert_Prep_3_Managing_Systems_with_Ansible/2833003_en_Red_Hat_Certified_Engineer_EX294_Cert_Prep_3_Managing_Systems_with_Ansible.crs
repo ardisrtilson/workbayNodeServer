@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2833003
+Course_System=linkedin.com
+Course_Title=Red Hat Certified Engineer (EX294) Cert Prep: 3 Managing Systems with Ansible
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Red Hat Certified Engineer (RHCE) is one of the top Linux certifications. And the main focus of the RHCE exam—IT automation using Ansible Engine—is a topic that's valuable for both aspiring RHCEs and anyone using Ansible Engine. In this course, the final installment in the Red Hat Certified Engineer (EX294) Cert Prep series, review the basics of using Ansible modules for system administration and working with roles as you prepare for the Red Hat Certified Engineer (EX294) exam. Instructor Grant McWilliams covers creating Ansible roles and introduces dynamic content using Jinja2 and variables. He goes over the different Ansible modules specially designed to manage system software, users, services, and tasks. Plus, get troubleshooting tips, including how to use the debug module to spot problems.

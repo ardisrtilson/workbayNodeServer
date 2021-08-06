@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=5035808
+Course_System=linkedin.com
+Course_Title=Efficient Python Production Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Writing code can be easy, but maintaining a product is always a challenge. In this course, learn what it takes to efficiently manage your Python projects. Instructor Miki Tebeka delves into the ancillary tasks around Python programming, such as dependency management, development methodologies, metrics, logging, testing, and deployment. While these topics aren't strictly related to coding, they're essential to making sure your code is production ready. Learn how to tackle challenges related to dependency management, effectively approach testing, configure a logging system, design metrics, leverage different deployment strategies, and more.

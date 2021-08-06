@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2885258
+Course_System=linkedin.com
+Course_Title=Microsoft Teams: Building Custom Apps with the Dataverse
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For many users and organizations, Microsoft Teams isn’t just for chatting with coworkers and team members, it’s the new work hub. You can hold meetings, share files, and access frequently used apps, all within Teams. In this course, Gini von Courter shows how to take Teams to the next level by building custom apps using Microsoft Power Apps and the Microsoft Dataverse. Custom apps in Teams allows specific members of a group or organization to have a data-rich experience while using Teams, such as sharing table-based data, collecting data from multiple sources, aggregating data across the web, and even making mobile data-based apps that launch inside of Microsoft Teams. Best of all, with Power Apps, you don’t need to write a single line of code to create an application. If you can create a table in Excel or a list in Teams, you have everything you need to create apps in Teams.

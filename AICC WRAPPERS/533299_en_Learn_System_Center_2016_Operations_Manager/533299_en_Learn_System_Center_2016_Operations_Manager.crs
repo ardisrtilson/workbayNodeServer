@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=533299
+Course_System=linkedin.com
+Course_Title=Learn System Center 2016: Operations Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Monitor your operating systems, virtual machines, and applications both onsite and in the cloud. System Center Operations Manager (SCOM) allows you to perform administration and monitoring tasks across platforms. This course shows how to prepare your environments for implementation of Operations Manager, deploy it, and use it. Standards such as ITIL and MOF service monitoring and integration with SQL Server Reporting Services are also covered.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Jennifer Shin
+Course_ID=2871170
+Course_System=linkedin.com
+Course_Title=Using Public Health Dashboards
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Certain events bring big data into the public eye. The COVID-19 pandemic has generated an extensive amount of data from public institutions that are publishing their own dashboards, including governments, hospitals, and schools. However, when using these resources, it's important to be able to evaluate the accuracy of the data and even more critical to use the data in a responsible manner. Learn how to evaluate the various dashboards that are available to researchers, including the COVID-19 dashboard from John Hopkins University and the Institute for Health Metrics and Evaluation (IHME) dashboard, in this course with data scientist and professor Jennifer Shin. Learn how to view and interpret dashboard metrics and visualizations and use them effectively in your own data science projects. This course was created by Madecraft. We are pleased to host this content in our library.

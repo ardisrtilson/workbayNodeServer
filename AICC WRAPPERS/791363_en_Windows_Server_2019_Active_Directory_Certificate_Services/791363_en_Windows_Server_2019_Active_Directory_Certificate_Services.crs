@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=791363
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Active Directory Certificate Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Active Directory Certificate Services (AD CS) allows workstations, servers, and applications to establish trust within an Active Directory forest without the cost of third-party certificates like TLS. This course shows how the AD CS role can be used to verify identity, encrypt communication, and establish trust in a Windows Server 2019 environment. Instructor Scott Burrell dissects the anatomy of a certificate and shows how to configure a public key infrastructure (PKI) in your own domain. He covers multiple ways to manually and automatically issue certificates and revoke certificates when they're no longer needed via a certificate revocation list.

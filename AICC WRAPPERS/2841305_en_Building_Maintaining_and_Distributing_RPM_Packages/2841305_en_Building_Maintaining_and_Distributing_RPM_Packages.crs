@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=2841305
+Course_System=linkedin.com
+Course_Title=Building, Maintaining, and Distributing RPM Packages
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Distributing software in Red Hat Enterprise Linux, CentOS, Fedora, and other distros relies on the RPM Package Manager. If you're curious about RPM—and how the packages you use to install software are created—then this course is for you. Join Scott Simpson as he shows system administrators how to create, maintain, and distribute RPM packages. Scott describes how to create RPM packages both from precompiled binaries and source code. He also discusses how to patch existing software and distribute packages to end users either as files or through repositories. Plus, he demonstrates how to create your own software repositories to host your packages.

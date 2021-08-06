@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=721905
+Course_System=linkedin.com
+Course_Title=Excel Business Intelligence: Data Modeling 101
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the basics of data modeling in Microsoft Excel from experienced Excel trainer Chris Dutton. In this course—the second installment in the Excel Business Intelligence series—Chris discusses the essentials of database design and normalization. He steps through the data model interface in Excel and provides tried-and-true tips and tricks. The topics covered in this course can help you bolster your understanding of table relationships, hierarchies, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2809162
+Course_System=linkedin.com
+Course_Title=WordPress: Building Progressive Themes with WP Rig
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+WP Rig, a new toolkit, makes building progressive themes in WordPress easy. It ships with a fully styled starter theme that can be easily customized, and it lints, optimizes, and minifies your changes as you code, making your themes as fast and performant as possible. In this course, instructor Morten Rand-Henriksen shows how to install and configure WP Rig and build a new progressive theme right out of the box. Learn how to edit the underlying CSS, PHP, and JavaScript code and add advanced features such as widgets, custom menus, backgrounds, and logos. Watch a practical example of how to extend WP Rig. Plus, see demonstrations of how to add a footer widget, build a basic component, and export a theme.

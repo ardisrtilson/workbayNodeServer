@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emma Saunders
+Course_ID=2875061
+Course_System=linkedin.com
+Course_Title=Advanced Power BI Custom Visuals with d3.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power BI is rapidly becoming one of the most popular reporting and visualization tools and is a great way for non-technical users to build their own reports and data visualizations. However, Power BI comes with a rather limited set of standard visuals, and creating custom visuals can be a daunting process, one that requires JavaScript or TypeScript programmers. In this course, Emma Saunders shows programmers who are experienced at creating data visualizations on the web how to create custom visuals in Power BI. Emma starts with the basics of setting up your environment and installing the multitude of requisite files, then shows how to set up an account to access Power BI service. She explains the folder structure for the over 5,000 files you need for a single custom visual, before diving into the creation of custom visuals using single, categorical, and grouped data aggregation.

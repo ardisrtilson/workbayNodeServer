@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Angela Wick
+Course_ID=580635
+Course_System=linkedin.com
+Course_Title=Requirements Elicitation and Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+To define great requirements, it's not enough to simply ask customers and stakeholders what they want. By leveraging requirements elicitation and analysis techniques, business analysts can come up with more innovative solutions. In this course, explore these techniques, and learn why they're important, and how to blend them together and tailor them to your project. Angela Wick provides an overview of the process, and discusses how elicitation and analysis work together. She also covers different ways of gathering requirements—such as brainstorming, observation, and workshops—before moving on to analysis techniques such as context diagrams, user stories, and decision tables. At the conclusion of the course, she explains how to select the right approach for a particular product or project type.

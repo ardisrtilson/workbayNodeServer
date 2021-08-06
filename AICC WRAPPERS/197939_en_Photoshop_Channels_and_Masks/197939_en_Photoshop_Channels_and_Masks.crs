@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Deke McClelland
+Course_ID=197939
+Course_System=linkedin.com
+Course_Title=Photoshop: Channels and Masks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to leverage masks and channels to isolate areas of an image for making enhancements. Join Photoshop expert Deke McClelland as he takes you step by step through working with channels and masks in Adobe Photoshop. First, Deke explains how channels and masks work. Then he shows how to make selections and use the Color Range command and the Focus Area command. Next, he covers refining selections, extracting masks, blending, and mixing. Additionally, Deke demonstrates how to put all of the layers together into a final composite.

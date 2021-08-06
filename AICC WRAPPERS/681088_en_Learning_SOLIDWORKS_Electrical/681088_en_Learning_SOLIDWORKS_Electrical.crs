@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Flett
+Course_ID=681088
+Course_System=linkedin.com
+Course_Title=Learning SOLIDWORKS Electrical
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with SOLIDWORKS Electrical, a design package that can help make the work of designing and developing electrical systems a bit easier. Join instructor Justin Flett as he covers the fundamentals of SOLIDWORKS Electrical, and explains how to use this software to generate electrical engineering design schematics and reports. Justin kicks off the course by discussing the overall process of generating an electrical design project, including how to work with the user interface and build a custom project template. He then explains how to generate electrical schematics and components; create, customize, and use wire styles within your schematic drawings; create your own custom symbol from scratch; edit a PLC; generate final reports for your electrical projects; and more.

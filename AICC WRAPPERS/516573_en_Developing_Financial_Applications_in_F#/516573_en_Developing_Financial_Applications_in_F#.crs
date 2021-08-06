@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kit Eason
+Course_ID=516573
+Course_System=linkedin.com
+Course_Title=Developing Financial Applications in F#
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+F# is a functional-first programming language developed by Microsoft and used extensively in financial analysis and financial applications. F# expert developer Kit Eason steps you through the process of developing a simple F# financial application: a Twitter bot that charts stock price changes and respond to tweets with some simple descriptors of the stock performance, including gain/loss and highs/lows. Along the way, you'll learn the basics of F# syntax, including values, arrays, functions, and expressions, and how to test your code, analyze and chart third-party data. The lessons also provide a primer to concepts like test-driven development and railway-oriented programming—best practices for any F# development workflow.

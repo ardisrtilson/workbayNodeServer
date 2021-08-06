@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Conrad Carlberg
+Course_ID=540348
+Course_System=linkedin.com
+Course_Title=Logistic Regression in R and Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Business decisions are often binary: take on this project or put it off for a year; extend credit to this customer or insist on cash; open a new retail outlet in a particular location or find another spot. When an outcome is a continuous variable such as revenue, ordinary regression is often a good technique, but when there are only two outcomes, logistic regression usually offers better tools. Learn how to use R and Excel to analyze data in this course with Conrad Carlberg. He takes you through advanced logistic regression, starting with odds and logarithms and then moving on into binomial distribution and converting predicted odds back to probabilities. After this foundation is established, he shifts the focus to inferential statistics, likelihood ratios, and multinomial regression. Conrad's comprehensive coverage of how to perform logistic regression includes tackling common problems, explaining relationships, reviewing outcomes, and interpreting results.

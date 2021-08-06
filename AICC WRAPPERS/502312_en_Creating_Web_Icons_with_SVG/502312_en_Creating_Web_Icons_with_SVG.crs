@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=502312
+Course_System=linkedin.com
+Course_Title=Creating Web Icons with SVG
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As designers and developers of the web, we want graphics to look sharp, but we need to keep file sizes down for performance. How do you get the best of both worlds? There is pretty much only one way to go: SVG. SVG is an XML-based method for instructing the browser to draw scalable vector graphics based on defined shapes and coordinates. The challenge with SVGs is they are not like other graphic files: Rather than a grid of pixels, they are code instructions interpreted by the browser on the fly. This poses some unique challenges and unique opportunities when it comes to implementation. In this course, you'll learn various methods to deploy SVG icons in webpages, each with its own use cases, benefits, and drawbacks. Morten Rand-Hendriksen shows how to insert individual SVG images, add SVGs as inline elements and SVG sprites via the command line, and automate SVGs with Grunticon. Plus, get tips on making your graphics backward-compatible and accessible, and using SVG icons in WordPress.

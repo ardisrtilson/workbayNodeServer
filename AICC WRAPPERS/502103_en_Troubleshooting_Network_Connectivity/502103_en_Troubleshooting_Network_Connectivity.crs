@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Greg Sowell
+Course_ID=502103
+Course_System=linkedin.com
+Course_Title=Troubleshooting Network Connectivity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet is down is the last thing any network admin wants to hear. But failures are bound to happen to any network, whether enterprise, small business, or home. This course shows how to diagnose the source of the problem by analyzing what works and what doesn't work, layer by layer, and explains how to fix each type of problem. Greg Sowell shows how to troubleshoot physical media (e.g., copper and fiber), kill rogue DHCP servers, and understand how switching loops and DNS issues start. Plus, learn how to troubleshoot Wi-Fi interference, verify sockets, use packet capture to verify network operations, and change pivot from reactive to proactive remedies with a network management system (NMS) and inexpensive probes. Even if you're rusty on your OSI model knowledge, this course is invaluable if you're having trouble with your network. It offers a clear, practical troubleshooting guide to narrowing down and solving most problems related to network connectivity.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eddie Davila
+Course_ID=2866076
+Course_System=linkedin.com
+Course_Title=Statistics Foundations: The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Statistics is not just the realm of data scientists. All types of jobs use statistics. Statistics are important for making decisions, new discoveries, investments, and predictions. Whether the subject is political races, sports rankings, shopping trends, or healthcare advancements, statistics is an instrument for understanding your favorite topic at a deeper level. In this course, Professor Eddie Davila offers beginner-level lessons, so you too can master the terms, formulas, and techniques needed to perform the most common types of statistics. Eddie covers several examples of data and charts. He explains how to find the middle of your data set, as well as the mean and median. He introduces range, then goes into standard deviation and what to do with outliers. These techniques help you understand your data, prove theories, and save time, money, and other valuable resources—all by understanding the numbers.

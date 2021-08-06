@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=5035805
+Course_System=linkedin.com
+Course_Title=C: Data Structures, Pointers, and File Systems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C is a foundational language for a variety of other programming languages, as well as an up-and-coming language for embedded systems. If you’re interested in broadening your knowledge of C, then this course is for you. Join instructor Dan Gookin as he takes a deep dive into data structures, pointers, and other key topics in this essential programming language. Dan digs into a variety of programming concepts such as arrays, structures, characters, and strings. He also goes over pointers—variables that hold a memory location—explaining how to use pointers to manipulate data, do pointer math, and more. He wraps up the course by sharing a few special techniques, including how to solve math puzzles with C.

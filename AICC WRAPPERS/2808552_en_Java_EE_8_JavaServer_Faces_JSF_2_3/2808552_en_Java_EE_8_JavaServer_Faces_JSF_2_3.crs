@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tayo Koleoso
+Course_ID=2808552
+Course_System=linkedin.com
+Course_Title=Java EE 8: JavaServer Faces JSF 2.3
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Java EE specification is the industry standard for building enterprise-level web applications. In this course, instructor Tayo Koleoso focuses on JavaServer Faces (JSF) 2.3 and shows Java programmers all of the most significant new features in the popular web application development framework. Get an introduction to the new WebSockets feature in JSF, and how to use it to supercharge your web app. Discover how to work with the latest DateTime components, leverage the new backing bean improvements, configure web application security using the new Java EE 8 security annotations, and more.

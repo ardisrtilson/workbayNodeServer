@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Wood
+Course_ID=471834
+Course_System=linkedin.com
+Course_Title=Designing Websites for Performance
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Designing Websites for Performance explores quick patterns, tips, and tricks for working web designers. In this installment, Brian Wood shows you how to optimize and minimize the size of your web graphics for a smooth, seamless browsing experience. Learn how fonts affect page performance, how to use vector artwork for scalability and smaller file sizes, and the best file formats and compression methods for web graphics.

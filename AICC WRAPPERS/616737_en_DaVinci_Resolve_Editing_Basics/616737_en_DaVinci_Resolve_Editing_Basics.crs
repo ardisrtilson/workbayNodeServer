@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff I. Greenberg
+Course_ID=616737
+Course_System=linkedin.com
+Course_Title=DaVinci Resolve: Editing Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+DaVinci Resolve isn't just an amazing color correction tool; it's also a full-featured editor. This course covers the key techniques editors need to transition to Resolve—and skip all the speedbumps. Video expert Jeff Greenberg introduces editing techniques such as three-point editing, drag-and-drop editing, and trimming in the Timeline. Then learn how to adjust audio using Fairlight, the powerful in-app DAW, and add transition and effects. Jeff then reviews the powerful color correction tools that Resolve is best known for, focusing on the features that are most useful to editors, such as video scopes. He also shows how to edit multicam footage using the MultiClip tool, and wraps up the course with a look at output and media management.

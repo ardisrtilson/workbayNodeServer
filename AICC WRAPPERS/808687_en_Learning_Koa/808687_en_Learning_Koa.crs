@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=808687
+Course_System=linkedin.com
+Course_Title=Learning Koa
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with Koa, a popular middleware framework for Node.js that was designed by the team behind Express. In this course, Emmanuel Henri helps you get up and running with this popular web framework, detailing how to work with Koa in your web apps and APIs. After providing a basic overview of Koa—as well as how it differs from Express—he discusses how to work with Context, which encapsulates the Node request and response objects into one object. He then goes over how to use async with Koa and how cascading middleware relates to your back-end environment, as well as how cascading middleware can be applied to async calls in a Koa environment.

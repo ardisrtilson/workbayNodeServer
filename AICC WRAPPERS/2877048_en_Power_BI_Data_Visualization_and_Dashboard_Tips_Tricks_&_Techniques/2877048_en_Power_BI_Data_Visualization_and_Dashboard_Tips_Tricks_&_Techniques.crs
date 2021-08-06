@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emma Saunders
+Course_ID=2877048
+Course_System=linkedin.com
+Course_Title=Power BI Data Visualization and Dashboard Tips, Tricks, & Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Power BI is a software that lets users visualize and report data flexibly and share it in a number of ways. It is rapidly gaining market share, as it is affordable and well-integrated with other Microsoft tools. In this course, instructor Emma Saunders shows you how you can use Power BI to create reports and visualizations with flair and share them easily with colleagues. Emma explains the Power BI app (desktop) and service (web browser). She takes you through a sample report to show how it’s built, then goes over how and why to design and structure a report, including how to structure tabs, how many visuals to put on a page, and how to draw attention to one visual over another. Emma covers more advanced visuals, as well, including statistical diagrams and maps for geographic data. She walks you through how to design reports like a pro in the Power BI service, from basic layouts to choosing specific themes and fonts.

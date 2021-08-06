@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=2877285
+Course_System=linkedin.com
+Course_Title=Using SABSA to Architect Cloud Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The security required for cloud deployments is quite different from the security applied to on-site infrastructure. In order to ensure the most effective cloud security, cloud deployments should be properly architected. In this course, instructor Malcolm Shore shows how to do this using the SABSA enterprise security architecture. Malcolm goes over strategy, planning, and the ongoing architectural management processes needed to maintain the architecture and keep it relevant. He walks you through establishing a conceptual architecture, threat modeling, and risk management, then explains how the elements of the contextual and conceptual layers work together to provide a conceptual architecture suitable for the cloud. Malcolm covers how to create the logical architecture and align security services with attributes. He concludes with a description of cloud-delivered security services and a review of what you covered in the course.

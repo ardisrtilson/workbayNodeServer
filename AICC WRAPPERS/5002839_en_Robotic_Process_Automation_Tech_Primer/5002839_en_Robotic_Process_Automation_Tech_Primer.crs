@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bryan Lamb
+Course_ID=5002839
+Course_System=linkedin.com
+Course_Title=Robotic Process Automation: Tech Primer
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Robotic process automation (RPA) is a powerful way to develop software-based robots to automate repetitive and manual tasks. To get started in RPA, it's important to master a broad base of business and technical skills. This course reviews these core skills, including flowchart fundamentals, file system basics, and important programming concepts. Learn how to build detailed flowcharts to document enterprise processes spanning multiple technologies, including email, documents, databases, websites, mainframes, and APIs. Discover how to navigate the Windows file system from top to bottom, in order to read and write data from text, PDF, spreadsheet, database, and other files. Explore the structure and programming behind websites and learn how to select and manipulate individual web elements. Finally, explore entry-level programming concepts such as data types, operators, control flow, and object-oriented design. The lessons provide the gateway you need to get started in robotic process automation: a critical emerging field.

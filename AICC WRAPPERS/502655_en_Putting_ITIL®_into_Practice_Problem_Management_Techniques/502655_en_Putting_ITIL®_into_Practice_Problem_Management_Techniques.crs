@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Pultorak
+Course_ID=502655
+Course_System=linkedin.com
+Course_Title=Putting ITIL® into Practice: Problem Management Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Problem management is about preventing and resolving the problems underlying interruptions of IT services. A set of shared techniques can make the difference between success and failure. ITIL® mentions a set of techniques as best practice, but does not cover how to apply them. This course bridges the gap for IT pros, giving them a concise introduction to the seven problem management techniques endorsed by ITIL, including: Brainstorming Ishikawa diagrams Kepner-Tregoe root cause analysis Fault tree analysis Component failure impact analysis Service outage analysis Post-implementation and major problem review ITIL trainer David Pultorak outlines the what, why, where, and how of each technique, and provide examples so you can practice with the goal of placing each technique into muscle memory. He examines the 4 Ps that can contribute to or help resolve every problem—people, processes, products, and partners—and provides tips on where to go next.

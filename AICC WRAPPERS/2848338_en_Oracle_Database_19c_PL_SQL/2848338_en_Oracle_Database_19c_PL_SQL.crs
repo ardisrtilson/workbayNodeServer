@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bob Bryla
+Course_ID=2848338
+Course_System=linkedin.com
+Course_Title=Oracle Database 19c: PL/SQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PL/SQL is the companion programming language to Oracle Database. Having a modern programming language that integrates with the database itself makes the Oracle Database platform scalable and extensible for more applications. In this course, Bob Bryla reviews the major features of Oracle PL/SQL under Oracle Database 19c. Bob covers key aspects of this procedural language, including looping, conditional statements, and exception handling when something goes wrong. He shows how to more effectively use the built-in procedures of PL/SQL, as well as write your own. Plus, he covers the PL/SQL security model and demonstrates how to run SQL queries and DDL statements from within PL/SQL.

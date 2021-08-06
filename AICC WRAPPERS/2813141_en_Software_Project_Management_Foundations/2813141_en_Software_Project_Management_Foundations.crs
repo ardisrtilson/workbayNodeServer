@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kelley O'Connell
+Course_ID=2813141
+Course_System=linkedin.com
+Course_Title=Software Project Management Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore project management and learn what goes into leading a project as the manager. Discover what often causes projects to struggle. Learn about waterfall and agile, the two most widely used project management frameworks. Find out how to choose which framework is best suited for different software projects and learn about the software development life cycle (SDLC). Instructor Kelley O’Connell also covers specific skills and topics that can help project managers lead software projects to a successful conclusion.

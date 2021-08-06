@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeremy Graham
+Course_ID=2312490
+Course_System=linkedin.com
+Course_Title=Revit: Generative Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Generative design enables designers to iteratively generate and evaluate a multitude of design options, discovering solutions that they might not find through traditional methods. This course provides an introduction to generative design while using the new built-in tools in Revit 2021. Learn how to load and run sample studies provided by Autodesk directly within Revit, review the outcomes, and refine the variables to explore more solutions. Then learn how to create new generative design templates using Dynamo, the built-in visual programming tool for Revit. Discover how to specify the inputs and outputs for your generative design scripts and use the Data.Remember and Data.Gate nodes to store and control the data that flows between Revit and the generative design workflow. In the final section, instructor Jeremy Graham walks step by step through a sample study, demonstrating how to set up and run a generative design graph within Dynamo and then export the study for use within Revit.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=580666
+Course_System=linkedin.com
+Course_Title=Google Apps Script for JavaScript Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Apps Script has a robust set of APIs available to any JavaScript developer looking to automate content creation tasks by leveraging the storage space of Google Drive and the collaborative nature of Google Docs. In this course, discover how to automatically generate Markdown documentation for your projects using the power of Google Drive and Google Docs. Jesse Freeman explains how to get started with Google Apps Script development, as well as how to work with files and folders in Google Drive. Plus, he goes into how to convert a Google Docs file into Markdown and format Markdown elements.

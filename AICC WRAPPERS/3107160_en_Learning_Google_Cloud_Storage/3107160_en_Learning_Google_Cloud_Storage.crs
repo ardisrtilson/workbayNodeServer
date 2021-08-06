@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Johnson
+Course_ID=3107160
+Course_System=linkedin.com
+Course_Title=Learning Google Cloud Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Google Cloud remains in the top three cloud platforms, and storage remains a high priority for individuals and businesses. In this course, instructor Mark Johnson covers the fundamentals of storage on the Google Cloud platform (GCP). Mark begins with an overview of object storage on GCP. He dives into both relational and non-relational databases, with useful explanations and demos. During the course, Mark addresses GCP services like Firestore, Bigtable, and Cloud Spanner. He wraps up with an introduction to data warehousing and analytics.

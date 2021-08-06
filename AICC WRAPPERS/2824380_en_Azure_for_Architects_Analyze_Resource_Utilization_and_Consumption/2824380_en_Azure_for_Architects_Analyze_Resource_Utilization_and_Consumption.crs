@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Duffy
+Course_ID=2824380
+Course_System=linkedin.com
+Course_Title=Azure for Architects: Analyze Resource Utilization and Consumption
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore Microsoft Azure pricing and costs. Instructor Scott Duffy shows how to examine current costs being incurred and how to predict future costs. Learn about viewing listed prices, working with the Azure portal, connecting Azure cost management with AWS, and more. The concepts covered in this course can help you prepare for the Microsoft Azure Architect Technologies exam (AZ-300), a required exam for the Azure Solutions Architect Expert certification.

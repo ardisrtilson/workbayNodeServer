@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steve Wright
+Course_ID=192461
+Course_System=linkedin.com
+Course_Title=Compositing Zombies in NUKE
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Practice your NUKE skills and prepare for the zombie apocalypse in this NUKE Compositing tutorial. Along with the green-screen zombie clip and graveyard plate supplied in the exercise files, you'll use NUKE's keying, color correction, and effects tools to make a zombie rise from the grave and animate the glow of an approaching zombie hoard. First you'll learn how to apply a quick key with Primatte, and enhance the zombie with realistic blood, red eyes, and fangs. Then, turning to the graveyard plate, you'll make a day-for-night color correction and add interactive lighting. Finally, you'll composite the key, plate, and effects and finalize the shot, using color correction and a push in effect. The process is broken down into easy-to-watch five-minute videos, rich in valuable VFX production techniques from compositing guru Steve Wright. For more training on the basics, see NUKE Essential Training..

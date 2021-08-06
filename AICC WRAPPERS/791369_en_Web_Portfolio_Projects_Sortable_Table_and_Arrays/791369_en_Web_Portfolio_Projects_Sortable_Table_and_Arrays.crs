@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Leigh Lawhon
+Course_ID=791369
+Course_System=linkedin.com
+Course_Title=Web Portfolio Projects: Sortable Table and Arrays
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a JavaScript developer vying for a new position, you may encounter tricky interview questions that test you on topics you may not have encountered in the real world. In this practical course, instructor Leigh Lawhon shows how to build a portfolio piece that addresses some of the common interview questions on arrays, sorting algorithms, and optimizing code performance. Prepare for your next technical interview as you boost your understanding of key concepts, such as the insertion sort and merge sort algorithms, as well as how to create your own algorithms. Throughout the course, Leigh shares how to best communicate your knowledge when faced with tough questions.

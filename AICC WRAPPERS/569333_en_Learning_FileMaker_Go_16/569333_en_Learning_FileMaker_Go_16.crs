@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Cris Ippolite
+Course_ID=569333
+Course_System=linkedin.com
+Course_Title=Learning FileMaker Go 16
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started with FileMaker Go 16, the free app that allows you to run your FileMaker custom apps on iOS devices like the iPhone and iPad. FileMaker expert Cris Ippolite begins the course by providing examples of real-world FileMaker Go custom apps. He shows how to navigate the FileMaker Go 16 interface, design custom apps for iOS devices, and use container fields to play movies, capture signatures, and scan barcodes. Cris helps you gain a practical understanding of the concepts covered in this course by providing guidance and examples based on his own experiences developing FileMaker Go apps for clients.

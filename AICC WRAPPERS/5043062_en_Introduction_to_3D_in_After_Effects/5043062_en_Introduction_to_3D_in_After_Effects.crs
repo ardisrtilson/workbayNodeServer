@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ian Robinson
+Course_ID=5043062
+Course_System=linkedin.com
+Course_Title=Introduction to 3D in After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Navigating the variety of different methods for creating 3D inside of After Effects can be a bit overwhelming. In this course, instructor Ian Robinson brings clarity to all of the options at your disposal, highlighting each one and explaining when to opt for a particular method. Learn about working with 2D layers in 3D space, including how to enable 3D and position and view 3D layers. Plus, explore how to work in the Classic 3D renderer and the Cinema 4D renderer, as well as how to create 3D layers natively inside of Cinema 4D Lite. To wrap up, he shows how to combine multiple renderers in one composition.

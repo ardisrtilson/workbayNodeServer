@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=751330
+Course_System=linkedin.com
+Course_Title=Penetration Testing: Advanced Web Testing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Websites are one of the most vulnerable pieces of technology since their contents are exposed on the internet. By understanding how attackers locate and exploit these vulnerabilities, you can help build more secure websites and applications. This course shows how to perform advanced web testing using Burp Suite, the professional pen testing framework. Instructor Malcolm Shore also introduces other scanning tools, including Whatweb, Dirbuster, DirScanner, DIRB, and Wfuzz, for finding hidden webpages and other nonstandard attack vectors. Once scanning is complete, you can learn how to zero in on vulnerabilities and intercept messages, integrating tools like sqlmap and Nikto. Then find out how to attack a site using uploaded shell files, SQL injection, and login circumvention. Malcolm shares different approaches for JavaScript, PHP, and Jenkins-based sites, as well as techniques for penetrating content management systems such as WordPress and Joomla. By the end of the course, you should be able to gain access to websites and applications, access data from web servers, use command shells, and perform advanced web testing with Burp Suite and other pen testing tools.

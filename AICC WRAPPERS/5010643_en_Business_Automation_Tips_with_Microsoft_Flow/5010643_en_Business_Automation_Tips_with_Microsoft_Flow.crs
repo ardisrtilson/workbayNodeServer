@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=5010643
+Course_System=linkedin.com
+Course_Title=Business Automation Tips with Microsoft Flow
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you find yourself trudging through the same repetitive tasks, day after day? Using Microsoft Flow, you can win back some of your time by creating automated workflows. In this course, digital transformation expert Phil Gold shows how to quickly automate real-world business tasks using Flow. Discover how to integrate workflows between Office 365 applications, such as saving Outlook mail attachments directly into OneNote. Plus, see how to connect Flow to applications outside of the Microsoft ecosystem, including how to save email attachments to Google Drive and sync events from Google to your Outlook calendar.

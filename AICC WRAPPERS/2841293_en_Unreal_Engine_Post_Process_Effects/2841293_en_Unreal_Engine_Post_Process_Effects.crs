@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=2841293
+Course_System=linkedin.com
+Course_Title=Unreal Engine: Post Process Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By mastering the post processing effects in Unreal, artists can have total control over the look and feel of their final scene. In this course, join instructor Joel Bradley as he goes over the essential tools and techniques you need to take your finished scene to the next level of realism. Learn how to add imperfections to the camera to better mimic how real-world cameras react. Discover how to correctly add lens effects, adjust their intensity, and tint the lens flares for greater artistic control. Learn how to use global controls and lookup tables to adjust color and lighting inside a space. Plus, learn how to create a post process material, add animated post process effects to enhance your production, and more.

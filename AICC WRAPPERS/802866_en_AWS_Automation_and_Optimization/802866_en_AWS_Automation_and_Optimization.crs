@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=802866
+Course_System=linkedin.com
+Course_Title=AWS: Automation and Optimization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enhance system productivity, improve performance, and reduce costs by learning how to automate and optimize processes using Amazon Web Services (AWS). This course covers different strategies for optimizing and automating processes and for auto-scaling. SysOps admins can learn how to build highly available solutions while efficiently utilizing resources. Shyam Raj provides guidance around how to control costs and successfully manage cloud operations. This course covers content that is included in the AWS Certified SysOps Administrator exam and can be used in preparation for that exam.

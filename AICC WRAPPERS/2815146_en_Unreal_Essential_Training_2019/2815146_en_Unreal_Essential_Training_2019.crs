@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Simon Manning
+Course_ID=2815146
+Course_System=linkedin.com
+Course_Title=Unreal Essential Training (2019)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Unreal isn’t just for gaming anymore. Industries such as automotive design, architecture, healthcare, and education are embracing the real-time development tools for creating engaging and interactive visuals. Unreal Engine can power it all. In this course, Simon Manning teaches the essential skills you need to build immersive user experiences of all kinds with Unreal Engine 4, including lighting, effects, and visual scripting. He covers creating your first project, building a base landscape, blocking out levels, and importing assets for use in the design. Want to find out how to craft a unique look? Learn about working with materials, post-processing effects, and particle systems in Unreal. Plus, find out how to optimize the performance for your projects and package projects for distribution.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2823323
+Course_System=linkedin.com
+Course_Title=Learning Amazon Web Services (AWS) for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) is the leading cloud service provider today, ahead of competitors such as Microsoft Azure and Google Cloud Platform. It is seen by many as the standard for functional, reliable, interoperable, and affordable cloud services. Developers need to understand what it means to develop on and migrate to the cloud—and comprehend the overall landscape of AWS before diving into the platform. This course provides a high-level overview just for developers, focusing on the AWS features and services of the most interest to them. Instructor Bear Cahill introduces AWS Lambda, DynamoDB, ElastiCache, Elastic Beanstalk, S3, SQS, SNS, and many more key features and services.

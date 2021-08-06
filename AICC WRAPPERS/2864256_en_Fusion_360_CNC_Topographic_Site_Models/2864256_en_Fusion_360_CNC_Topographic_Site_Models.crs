@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Morgan
+Course_ID=2864256
+Course_System=linkedin.com
+Course_Title=Fusion 360: CNC Topographic Site Models
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Topographic site models are needed to understand architectural planning in a visual and tactile way. Instructor Olivia Morgan teaches you techniques for using CAD, CAM, and CNC to design and manufacture site models in a fraction of the time it would take to make with a 3D printer or laser cutter. The course demonstrates how to import topography into Fusion 360; define the layers, roads, and buildings; and set up the CAM toolpaths that will ultimately fabricate the model. The course comes with exercise files that you can use to practice what Olivia presents. Olivia covers new setups, the tool library, several different paths, and a smooth topography alternative to the stepped topography model.

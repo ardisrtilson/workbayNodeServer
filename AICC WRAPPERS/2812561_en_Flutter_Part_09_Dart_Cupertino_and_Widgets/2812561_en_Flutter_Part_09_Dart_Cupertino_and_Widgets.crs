@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=London App Brewery, Angela Yu
+Course_ID=2812561
+Course_System=linkedin.com
+Course_Title=Flutter: Part 09 Dart, Cupertino, and Widgets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your Flutter skills to the next level. Learn intermediate to advanced Flutter and Dart coding techniques by building a cryptocurrency app. Discover how to use dropdown widgets to create complex navigation, automate execution of your code with Dart loops, and use Cupertino widgets to match the menu styles in iOS. Instructor Angela Yu also shows how to detect your user’s operating system and dynamically update the interface of your app to match the platform. Each lesson is illustrated using a fun, real-world project—a bitcoin ticker app—that you can build, customize, and add to your Flutter portfolio. This course was created by London App Brewery. We are pleased to host this content in our library.

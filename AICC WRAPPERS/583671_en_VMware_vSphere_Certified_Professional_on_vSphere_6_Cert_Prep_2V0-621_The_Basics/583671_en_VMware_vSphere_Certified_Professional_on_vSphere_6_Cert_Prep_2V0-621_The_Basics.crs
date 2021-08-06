@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=583671
+Course_System=linkedin.com
+Course_Title=VMware vSphere Certified Professional on vSphere 6 Cert Prep (2V0-621): The Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Demonstrate your ability to deploy and manage VMware vSphere 6 environments by working towards becoming VCP6-DCV certified. In this course, VMware Certified Instructor Rick Crisci helps you get ready for the VMware Certified Professional 6 – Data Center Virtualization Exam (2V0-621)—one of the required exams for VCP6-DCV certification—by providing you with an overview of the test. Rick goes over the specifics of the exam, covering certification prerequisites, the question types you should expect to see, and study tips. He then provides an overview of the 10 exam domains, and provides references to the corresponding courses on LinkedIn Learning and Lynda.com. Finally, he shares other resources that can help you prepare for the exam, including hands-on labs and live, instructor-led training.

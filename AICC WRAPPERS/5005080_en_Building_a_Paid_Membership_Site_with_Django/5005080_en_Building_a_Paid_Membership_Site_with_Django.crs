@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Walter
+Course_ID=5005080
+Course_System=linkedin.com
+Course_Title=Building a Paid Membership Site with Django
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, put your Django skills to the test by building a membership site that is able to share content with users and collect payments. This course covers setting up the checkout for the site, managing users, configuring access controls, and releasing premium content to subscribers. By the end of this course, you will have learned how to create a visually pleasing and functional membership site with Django.

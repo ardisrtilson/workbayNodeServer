@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=SAS Institute
+Course_ID=2823034
+Course_System=linkedin.com
+Course_Title=SAS® 9.4 Cert Prep: Part 05 Analyzing and Reporting on Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Want to get ahead in a crowded job market? Get certified with SAS. This course is part of a series by the SAS Institute, designed to prepare you for the SAS 9.4 certification. The following videos introduce you to methods that you can use to create professional and engaging data analysis reports in SAS. Instructor Stacey Syphus explains how to enhance reports with titles, footnotes, segments, labels, and macro variables; create frequency reports; and create summary statistics reports. This course was created by SAS Institute. We are pleased to offer this training in our library.

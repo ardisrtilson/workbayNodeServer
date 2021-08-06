@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Madecraft, Sara Anstey, Lacey Westphal, Sam Cvetkovski, Louis Tremblay
+Course_ID=2861045
+Course_System=linkedin.com
+Course_Title=15 Mistakes to Avoid in Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a data scientist, your goal is to always be growing your skills. But, if you realize it or not, there are errors you may be making that are keeping you from moving to the next level. In this course, learn the top 15 data science mistakes: misunderstanding business problems, using the wrong tools, starting without a plan, and much more. Four leading data scientists share the hard-won lessons they've learned about alienating colleagues with technical jargon, moving too fast, and using sample sizes that are just too small. Find out why you should make your best effort to prevent bias—and avoid overpromising solutions to stakeholders. Plus, learn why writing custom code can lead to a big waste of time and why the most promising data science insights fall flat without a compelling story. This course was created by Madecraft. We are pleased to host this content in our library.

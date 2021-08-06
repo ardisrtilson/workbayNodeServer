@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sidney Andrews
+Course_ID=2825703
+Course_System=linkedin.com
+Course_Title=Azure for Developers: Introduction to the Microsoft Identity Platform
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Microsoft Identity Platform is generating buzz in the developer community—and for good reason. This new platform provides developers with a new, unified system for authentication and authorization with the Microsoft Graph, Microsoft secured APIs, third-party APIs, and even your own APIs. In this course, join instructor Sidney Andrews as he shows developers how to get up and running with the Microsoft Identity Platform. Sidney provides an overview of the platform, along with how to use its Microsoft Authentication Library (MSAL) in C# code. He covers how to manually authenticate to the Microsoft Identity Platform, including how to register a new application in Azure Active Directory, authenticate an identity, and obtain and use security tokens. He then discusses how to authenticate to the Microsoft Identity Platform using MSAL.

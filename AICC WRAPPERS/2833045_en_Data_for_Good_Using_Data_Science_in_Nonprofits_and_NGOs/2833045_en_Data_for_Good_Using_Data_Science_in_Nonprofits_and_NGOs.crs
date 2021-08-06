@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Martin Kemka
+Course_ID=2833045
+Course_System=linkedin.com
+Course_Title=Data for Good: Using Data Science in Nonprofits and NGOs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The revolution in data science has transformed, for better or worse, the way companies do business in the last few decades. But data science isn't just for capitalists. AI is one of the most important forces for change developed in the last century, and we've only begun to recognize its true power and potential. In Data for Good: Using Data Science in Nonprofits and NGOs, Martin Kemka examines how data science and machine learning can be used outside of the for-profit sector. He covers parameters for how data works to influence our world, how the data-for-good concept can be applied, how to determine the best problems to solve with data, and what tools are needed. Martin also provides real-world case studies and challenges to further illustrate the lessons.

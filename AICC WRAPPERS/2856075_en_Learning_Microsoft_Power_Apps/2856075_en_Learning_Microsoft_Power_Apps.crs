@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2856075
+Course_System=linkedin.com
+Course_Title=Learning Microsoft Power Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft PowerApps gives you the ability to create powerful business apps that run on phones, tablets, and browsers, and pull data from over 200 sources, including Salesforce and integrated Microsoft products. In this course, join Gini von Courter as she explores how to leverage PowerApps to turn an Excel workbook into a simple business app that can be used on a mobile device or in a browser. She begins by showing how to get started, explaining how to sign up for PowerApps and upload the Excel file to OneDrive. Next, she covers how to create, view, and edit an app, including how to edit layouts and apply themes. To wrap up the course, Gini demonstrates how to share and manage your apps, and run them on an iOS, Windows, or Android device.

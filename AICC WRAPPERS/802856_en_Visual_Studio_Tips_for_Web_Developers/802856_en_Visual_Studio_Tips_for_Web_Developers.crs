@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=802856
+Course_System=linkedin.com
+Course_Title=Visual Studio Tips for Web Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Visual Studio is a popular and powerful IDE that offers developers an array of helpful tools and features. In this course, instructor Walt Ritscher shares some of his favorites, providing you with practical tips that can help you streamline your web development workflow and make your developer environment a more pleasant place to visit. Learn how to configure and work with Browser Link, a feature that allows you to connect multiple browsers together and synchronize changes across them when testing web applications. Plus, explore essential extensions such as the Markdown Editor and Roslynator 2017.

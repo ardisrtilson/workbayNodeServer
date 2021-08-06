@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Skoglund
+Course_ID=2355069
+Course_System=linkedin.com
+Course_Title=Unix Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Although it was developed in the 1970s, Unix remains an essential skill for anyone working in technology today, and serves as the backbone of many modern technologies like smartphones, streaming services, and supercomputers. In Unix Essential Training, Kevin Skoglund teaches Unix from the ground up, starting with the basics of the command line and the most important Unix commands. Regardless of whether you’re using Mac OS, Windows, or Linux, Kevin helps you unlock the powerful capabilities of Unix by walking you through how to use command-line syntax to perform common tasks such as file management, data entry, and text manipulation. By the end of the course, you’ll have tools that you can immediately apply to your own work.

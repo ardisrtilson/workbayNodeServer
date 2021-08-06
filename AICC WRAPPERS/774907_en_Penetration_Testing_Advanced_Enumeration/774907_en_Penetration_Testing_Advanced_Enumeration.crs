@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Malcolm Shore
+Course_ID=774907
+Course_System=linkedin.com
+Course_Title=Penetration Testing: Advanced Enumeration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Enumeration is the key to achieving success with penetration testing, and learning how to do it effectively can be challenging. Whether you're preparing for the Offensive Security Certified Professional (OSCP) exam or you're just looking to brush up on enumeration, this course can help you become more adept at this essential phase in pen testing. Instructor Malcolm Shore provides a refresher on the basic methods of enumerating networks and target systems, offering you hands-on experience with the main tools. Malcolm then digs deeper into some more sophisticated uses of the tools and introduces new ones which provide a broader range of enumeration options. He also discusses some automated systems which bring together many tools to do scripted enumeration.

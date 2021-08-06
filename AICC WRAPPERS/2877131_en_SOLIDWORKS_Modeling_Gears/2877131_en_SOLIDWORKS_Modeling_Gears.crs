@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ryan Krawchuk
+Course_ID=2877131
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Modeling Gears
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you need to design and build gears for work, study, or a hobby? In this course, instructor Ryan Krawchuk covers the basics of mechanical gears, gives a hands-on lesson on modeling a spur gear using SOLIDWORKS, and then describes how to create a simple assembly. Ryan begins with a description of spur gears, helical gears, and others gears, as well as their respective applications. He covers key gear design attributes and nomenclature. Ryan steps you through spur gear equations, for both metric and English measurement systems, then goes through each step in modeling a spur gear. Once your gear model is complete, he shows you how to design the mounting plate that gears sit on, how to insert gears and mounting plates into your assembly, and how to use concentric and coincident gear mates. He discusses how to use a series of gear mates to allow gears to rotate dynamically to one another, then concludes by showing you how to animate your assembly with a SOLIDWORKS motion study.

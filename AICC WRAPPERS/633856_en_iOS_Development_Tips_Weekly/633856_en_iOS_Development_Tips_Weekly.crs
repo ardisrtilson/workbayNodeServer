@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Lipton
+Course_ID=633856
+Course_System=linkedin.com
+Course_Title=iOS Development Tips Weekly
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What if it only took a few minutes a week to become a better iOS developer? This series is designed to provide small, smart hacks that can improve the way you code with Xcode and Swift. Tune in every Tuesday for another short video, on topics such as version control with Git, MapKit, iPad Playgrounds, and iPhone X development. Create faster, more reliable, and better-looking apps for iPad, iPhone, or Apple Watch. Steven Lipton will help you take your iOS (and watchOS) projects to the next level, one week at a time. Note: Because this is an ongoing series, viewers will not receive a certificate of completion.

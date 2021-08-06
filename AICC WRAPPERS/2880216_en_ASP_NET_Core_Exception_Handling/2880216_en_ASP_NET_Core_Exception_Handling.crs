@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2880216
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Exception Handling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When things go bad, good programmers are ready. Exception handling allows you to ensure your applications respond to errors with grace. With the right exception handling, your user’s experience will never be disrupted. This course teaches the basics of handling exceptions in the ASP.NET Core framework. Instructor Ervis Trupja starts with an overview of exception handling and then works through the various techniques to catch exceptions in ASP.NET. Learn how to use try-catch-finally to identify and handle errors, using both built-in and custom exception types. Then discover how to handle errors more efficiently with global handlers, and add exception filters to your .NET Core applications to apply global policies to unhandled exceptions.

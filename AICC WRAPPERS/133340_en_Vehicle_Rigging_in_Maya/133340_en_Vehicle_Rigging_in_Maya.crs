@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Crespi
+Course_ID=133340
+Course_System=linkedin.com
+Course_Title=Vehicle Rigging in Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to rig a car model in Autodesk Maya for use in animation, games, design visualization, and visual effects. Author Adam Crespi starts with an overview of parenting and hierarchy, moving into separating the model into working components. From there, you'll learn about creating controllers, constructing functioning wheel assemblies, and constraining the suspension. Expressions are used to tie the rig components together and add a degree of autonomous motion and rotation. Last, a bonus chapter on materials shows how to add realistic shaders onto the car and tie the controls to functionality such as operable headlights and taillights. Note: Some experience with polygonal modeling in Maya and beginning knowledge of rigging and constraints will help you get the most from this course.

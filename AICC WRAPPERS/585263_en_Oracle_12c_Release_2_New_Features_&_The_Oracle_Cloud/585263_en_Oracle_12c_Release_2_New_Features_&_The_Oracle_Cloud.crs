@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Yahalom
+Course_ID=585263
+Course_System=linkedin.com
+Course_Title=Oracle 12c Release 2 New Features & The Oracle Cloud
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Oracle 12c Release 2 introduced new features for improved performance, high availability, development, and more. Also, Oracle 12c Release 2 was the first Oracle database that was launched as a cloud-first database powered by the Oracle Cloud platform. In this course, explore some of the most interesting new features, and learn what you need to know to create and connect to a database in the Oracle Cloud. David Yahalom shows how to register for an Oracle Cloud account, and create new databases using the user interfaces. He also provides hands-on demos of some of the most exciting new features available exclusively in Oracle 12c Release 2, including new features for pluggable databases (PDBs) and partition management.

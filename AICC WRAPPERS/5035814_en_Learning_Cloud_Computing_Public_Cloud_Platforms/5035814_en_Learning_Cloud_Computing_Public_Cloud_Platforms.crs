@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=5035814
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: Public Cloud Platforms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are many providers to choose from when it comes to cloud computing. So, how do you know which one to select for your organization? This course examines industry-leading public cloud platforms and compares the services offered. Instructor David Linthicum provides an overview of the “big four”: Amazon Web Services, Microsoft Azure, Google Cloud Platform, and Alibaba Cloud. Learn the fundamentals of public cloud solutions, consider reasons why you might switch your business from a private cloud to public, and discover the features and services offered by several providers—from security to integration and compatibility features.

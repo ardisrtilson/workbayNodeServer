@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Darrin Lile
+Course_ID=606041
+Course_System=linkedin.com
+Course_Title=Blender: Hard Surface Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Interested in using Blender to model hard surface objects like vehicles or machinery? Learn how to create realistic hard surfaces, such as the skid-steer loader featured in this course. Instructor Darrin Lile takes you step by step through a production workflow designed to ensure technical accuracy and maximize your design efficiency. He shows how to use the Blender Bevel and Path tools and proportional editing techniques to model the forms. Then he adds depth with the Solidify Modifier, smooths the mesh with Subdivision Surface Modifier, and replicates objects with the Array Modifier. Plus, learn to add lights and materials and render the scene for final presentation.

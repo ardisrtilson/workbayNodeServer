@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chiu-Ki Chan
+Course_ID=645031
+Course_System=linkedin.com
+Course_Title=Creating Your First Android App with Kotlin
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kotlin is now officially supported by Google as an Android development language. This announcement has been widely applauded by developers, many of whom were already using Kotlin. Learn how to build a simple application with Kotlin and make it your language of choice. This course is designed for new Android developers who want to start with Kotlin. Instructor Chiu-Ki Chan spends time explaining the benefits of Kotlin, which is more concise and safe than Java, and explains the basic components of an app built with this programming language.

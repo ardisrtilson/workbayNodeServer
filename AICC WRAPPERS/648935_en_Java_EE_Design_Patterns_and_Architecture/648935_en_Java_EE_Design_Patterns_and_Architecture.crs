@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Theedom
+Course_ID=648935
+Course_System=linkedin.com
+Course_Title=Java EE: Design Patterns and Architecture
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Discover how to prevent common design issues and increase programming efficiency using design patterns and architecture in Java EE. In this course, instructor Alex Theedom dives into the fundamental topic of design patterns and software architecture, equipping you with the knowledge you need to choose the right architecture for your application. Alex covers the Gang of Four classic patterns, discussing the unique way they are implemented in the Java EE platform. This includes the Singleton, Facade, Observer, and Decorator patterns. He then goes over some of the most important architectural patterns used by the platform, including Filter, model-view-controller (MVC), Front Controller, and Interceptor. After diving into design patterns, he moves on to the topic of architecture, discussing the motivation and need for architecture and introducing some of the best-known structures. Alex finishes the course with a discussion of monolithic and microservice architectures.

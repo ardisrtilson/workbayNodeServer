@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sasha Vodnik
+Course_ID=609026
+Course_System=linkedin.com
+Course_Title=Learning App Building with Vanilla JavaScript
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+JavaScript libraries like jQuery and frameworks like React have a lot of benefits to offer, but performance can be a tradeoff. Removing jQuery and React can improve site speed without impacting user experience. But many developers have never learned the equivalent code in JavaScript. This course teaches you how to program the same features and functionality with vanilla JavaScript. Instructor Sasha Vodnik starts with an app built with jQuery and React and replaces it piece by piece with vanilla JavaScript. He removes the dependencies and shows that the app still works, conducting performance tests to compare the start and end code. Topics include replacing DOM manipulation, replacing Ajax, replacing event listeners, and replacing simple animations, like show, hide, and toggle. The end result is a pure JavaScript app that is backwards and cross-browser compatible—no libraries necessary!

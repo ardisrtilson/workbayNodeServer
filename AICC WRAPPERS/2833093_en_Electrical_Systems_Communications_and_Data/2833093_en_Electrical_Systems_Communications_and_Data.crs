@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christopher Randall
+Course_ID=2833093
+Course_System=linkedin.com
+Course_Title=Electrical Systems: Communications and Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Communications and data systems are all around. Everything is connected and dependent on communication and data. In this course, Christopher Randall introduces the different types of communication and data systems, explains the basic components, and shows how they go together. He details the two primary types of connectivity, copper wire and fiber optic, and shows how wireless networking fits in. Throughout the course, Chris also explains the equipment that ties all these networking transport mechanisms together.

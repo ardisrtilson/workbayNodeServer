@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Dankwardt
+Course_ID=2848335
+Course_System=linkedin.com
+Course_Title=Linux Device Drivers 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+One of the most important functions of any operating system is managing various types of hardware connected to the system, from simpler items like serial ports and keyboards to more complex hardware like USB cameras, hard drives, and networked devices. By understanding how Linux device drivers function, you can derive useful insights into the behavior of the Linux kernel and how users and developers can—and cannot—interact with devices. In this course, Kevin Dankwardt explains how loadable kernel modules work, then details three different types of Linux device drivers—character device drivers, block drivers, and network drivers—and the aspects and uses of each. Kevin covers the basics of each type of driver, and then guides you through writing, debugging, tracing, and adding functionality to the different device drivers.

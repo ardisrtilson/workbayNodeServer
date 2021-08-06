@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=520192
+Course_System=linkedin.com
+Course_Title=VMware vSphere: Advanced Storage Configuration and Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You have a lot of options when it comes to vSphere storage, physical and virtual alike. This course helps you understand the options, choose the right storage solution for you, and configure and administer vSphere storage, including services such as authentication and sharing. Learn how to create and manage data stores, use advanced monitoring and design techniques, and leverage exciting new software-driven storage technologies such as VSAN and Virtual Volumes. VMware Certified Instructor Rick Crisci demonstrates all the concepts using the free lab environments from VMware Hands-on Labs and Inspired vLabs, which you can use to follow along at home without having to set up your own vSphere environment. Note: This course maps to the Configure and Administer Advanced vSphere 6.x Storage domain from the VCP6-DCV exam blueprint. Learn more about the exam objectives at VMware's site.

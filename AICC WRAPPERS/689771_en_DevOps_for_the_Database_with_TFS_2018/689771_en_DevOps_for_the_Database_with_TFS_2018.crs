@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Randell
+Course_ID=689771
+Course_System=linkedin.com
+Course_Title=DevOps for the Database with TFS 2018
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Having well-managed SQL Server databases is critical to the successful operation of business applications. In this course, learn how to add version control to a database using Team Foundation Server (TFS) 2018. This course covers the end-to-end DevOps life cycle of putting a database under version control and carrying out deployments through a release pipeline. First, an overview of tooling solutions is discussed. Next, configuring a database for version control is shown. Then, building a database is demonstrated, followed by release management and making deployments. Additionally, testing databases and troubleshooting real-world issues are each explored.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rudolph Rosenberg
+Course_ID=173210
+Course_System=linkedin.com
+Course_Title=Financial Analysis: Analyzing the Bottom Line with Excel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to analyze the bottom line (or profitability) of your company and identify areas of under- or overperformance with Excel. Rudolph Rosenberg, author of the Financial Analysis series, shows how to use the data your company generates every day to break down your gross margin and operating expenses. He introduces the tools and techniques you can use in Excel to prepare and analyze that data, including PivotTables and the invaluable SUMIF function. Plus, you'll learn to identify and analyze sales and marketing spending, staff expenditures, and productivity separately, so you can get a really clear picture of your data from multiple angles. Also check out the companion course, Financial Analysis: Analyzing the Top Line with Excel.

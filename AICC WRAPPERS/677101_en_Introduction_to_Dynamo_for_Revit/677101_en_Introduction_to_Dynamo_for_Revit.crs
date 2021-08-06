@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=677101
+Course_System=linkedin.com
+Course_Title=Introduction to Dynamo for Revit
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Dynamo allows you to build custom tools that can help you solve modeling challenges with greater efficiency—and it's already included in your Revit software. If you've been meaning to learn how to leverage Dynamo in your workflow, this course can help you get started by exploring practical applications of this powerful tool. Paul F. Aubin provides several examples of how to use Dynamo to speed up common procedures, including how to rename multiple project views and place component families along a path. Plus, he demonstrates how to use Dynamo to place adaptive component families.

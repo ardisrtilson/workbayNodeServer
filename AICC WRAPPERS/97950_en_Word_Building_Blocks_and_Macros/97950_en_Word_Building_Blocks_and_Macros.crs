@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mariann Siegert
+Course_ID=97950
+Course_System=linkedin.com
+Course_Title=Word: Building Blocks and Macros
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Streamline your workflows and cut time spent on document creation by taking advantage of building blocks and macros in Microsoft Word. Author Mariann Siegert illustrates how to create, store, and effortlessly reuse pieces of document information such as boilerplate text, graphics, tables, shapes, fields, and content controls. The course also explains how to record macros to capture the steps in your workflow and run them with a single click. The course includes five real-world projects and introduces Visual Basic for Applications (VBA), the language on which Word macros are based.

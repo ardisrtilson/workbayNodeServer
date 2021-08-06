@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=2835018
+Course_System=linkedin.com
+Course_Title=AWS Administration: Migrating Virtual Machines
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understanding how to successfully carry out migration of existing workloads is a crucial step for cloud admins. Amazon Web Services (AWS) offers Server Migration Service for quickly migrating thousands of workloads to the cloud. In this course, instructor Brien Posey begins with an introduction to the benefits and limitations of AWS Server Migration Service and the basic requirements for both Linux and Windows virtual machine (VM) migrations. From there, he leads you through three hands-on demonstrations covering migration of VMware, Hyper-V, and Azure virtual machines. The course concludes with instructions for replicating VMware, Hyper-V, and Azure VMs and creating EC2 instances from the replicated VMs.

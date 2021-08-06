@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barton Poulson
+Course_ID=5016725
+Course_System=linkedin.com
+Course_Title=Introduction to jamovi
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+jamovi is a free, open-source data analysis application that bridges the gap between the freedom and power of R and the accessibility of SPSS. In this course, learn how to do data analysis that's both fast and friendly with jamovi. Instructor Barton Poulson demonstrates how to install jamovi and third-party modules, import and wrangle data, create visualizations based on ggplot2, and analyze data using advanced methods. Plus, see how to share your work with unified files and collaborate with the Open Science Framework (OSF).

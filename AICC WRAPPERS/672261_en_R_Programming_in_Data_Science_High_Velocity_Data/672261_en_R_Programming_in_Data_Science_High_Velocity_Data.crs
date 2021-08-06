@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=672261
+Course_System=linkedin.com
+Course_Title=R Programming in Data Science: High Velocity Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+High-velocity data—such as the information that springs from Twitter and IoT devices—comes barreling in at a speed beyond normal comprehension, demanding high-performance from both hardware and software. While it might not initially appear up to the challenge, the R programming language can be revved up to operate with high-velocity data. Written close to the metal by sitting directly on top of the C programming language, R provides a rich set of data structures and concepts. This course drills down into efficient R programming, providing practical strategies that can help you work your mojo on high-velocity data. Instructor Mark Niemann-Ross begins by sharing a framework for understanding the different types of high-velocity data. He then covers how to use R to acquire high-velocity data, as well as how to leverage profiling tools and optimize R code for use with high-velocity data. He wraps up by exploring how to use R to present data, including how to use Shiny—an R package that allows you to build web apps straight from R—for interactive dashboards.

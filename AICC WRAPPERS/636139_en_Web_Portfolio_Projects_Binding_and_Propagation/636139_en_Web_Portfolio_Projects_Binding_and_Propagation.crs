@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Leigh Lawhon
+Course_ID=636139
+Course_System=linkedin.com
+Course_Title=Web Portfolio Projects: Binding and Propagation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you familiar with foundational JavaScript concepts, but want to continue to build your understanding of this essential scripting language? In this course, explore some more advanced JavaScript concepts—including how to manage propagation and binding—as you learn how to build a few interesting card games. Instructor Leigh Lawhon begins by explaining how to plan your application, breaking down the card game into its basic objects. She then goes over how to add a card flip animation to your project using CSS3, looks at three contexts of this with methods, and explains how to add a shuffle function. Leigh also goes over the drag-and-drop life cycle, how to use prototypical inheritance to optimize your code, and more.

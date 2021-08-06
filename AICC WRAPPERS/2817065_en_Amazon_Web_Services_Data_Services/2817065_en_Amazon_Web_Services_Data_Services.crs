@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2817065
+Course_System=linkedin.com
+Course_Title=Amazon Web Services: Data Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Why use Amazon Web Services for data storage? AWS provides big data services at a small cost, offering one of the most full-featured and scalable solution sets around. Start here to explore your storage and framework options when working with data services on the Amazon cloud. Your guide, Lynn Langit, a working big data architect, helps you navigate the options when it comes to file storage, relational and NoSQL data storage, data warehousing, graph and ledger databases, and data lakes. Plus, learn how to run open-source processing tools such as Hadoop and Spark on AWS and leverage new serverless data services, including Athena serverless queries and the auto-scaling version of the Aurora relational database service, Aurora Serverless.

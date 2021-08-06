@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rodrigo Díaz Concha
+Course_ID=2824141
+Course_System=linkedin.com
+Course_Title=Azure Service Fabric for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Service Fabric handles infrastructure needs, deployment, and scaling, allowing developers to spend more time on features. Service Fabric powers core Azure infrastructure and other Microsoft services, and you can use this technology in your own software solutions to achieve high-availability, better reliability, scalability, and performance. In this course, learn about the platform's main benefits, as well as how to build Service Fabric applications for the cloud or on premises. Instructor Rodrigo Díaz Concha details the benefits of Service Fabric as a distributed microservices platform, the Service Fabric application model, as well as its overall development cycle. He also shows how to create Service Fabric clusters from the Azure Portal and CLI, develop container-based Service Fabric microservices solutions, and more.

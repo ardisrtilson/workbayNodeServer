@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=196580
+Course_System=linkedin.com
+Course_Title=Word 2013: Mail Merge in Depth
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take advantage of Word's Mail Merge feature to save time building customized documents. This course offers tutorials on creating personalized letters, envelopes, labels, and even email messages. Author Gini Courter shows how to connect to data sources in Access, Outlook, and Excel; create new data sources; add attachments to merged email messages; use IF…THEN…ELSE and other rules for advanced mail merges; and troubleshoot Mail Merge issues.

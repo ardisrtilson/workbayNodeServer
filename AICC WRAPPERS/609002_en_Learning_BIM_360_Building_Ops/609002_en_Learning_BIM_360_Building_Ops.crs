@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=609002
+Course_System=linkedin.com
+Course_Title=Learning BIM 360 Building Ops
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk has finally closed the gap and brought BIM into the building! BIM 360 Ops leverages all of the effort from design and construction. It allows you to connect BIM data to building maintenance and operations, for better troubleshooting and performance. Learn how to use BIM 360 Ops for facility management in this course with certified Autodesk instructor Eric Wing. Eric shows how to set up a portfolio in BIM 360 Ops and add specific buildings. He explains how to import Revit models, add occupants and assets, and generate work orders for scheduled and preventative maintenance. Eric also helps you track your inventory by recording the serial numbers and barcodes assigned to assets in BIM 360 Ops. Plus, learn how to store documentation like inspections, plans, and service-level agreements for buildings in your portfolio.

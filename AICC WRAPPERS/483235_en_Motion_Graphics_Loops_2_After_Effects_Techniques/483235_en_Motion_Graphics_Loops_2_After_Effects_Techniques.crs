@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Owen Lowery
+Course_ID=483235
+Course_System=linkedin.com
+Course_Title=Motion Graphics Loops: 2 After Effects Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn looping animation techniques for motion graphics and web design using Adobe After Effects. Owen Lowery shows you how to create a never-ending animated loop comprised of multiple nested looped elements and render the results as an animated GIF. Along the way, you'll learn how to work with AE expressions, loop footage with Time Remap, and use effects such as Echo and Offset to create background loops. At the end of the project, you'll render the results as versatile animated GIFs, using Photoshop and the third-party AE Scripts plugin.

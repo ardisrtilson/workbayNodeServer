@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Gookin
+Course_ID=689762
+Course_System=linkedin.com
+Course_Title=Learning Android Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Keep the critical data on your smartphone or tablet safe and secure. Follow along with Dan Gookin as he demystifies common security terms and concepts for Android users, goes over security risks, and discusses what to do when a device is lost or stolen. Dan explains how to protect passwords on a device, back up your data, disable photo uploads, and protect devices from malware. Plus, he shares how to keep online accounts safe with strong passwords and other measures.

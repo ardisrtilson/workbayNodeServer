@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=James Gonzalez
+Course_ID=514200
+Course_System=linkedin.com
+Course_Title=Windows 10: Configure Storage
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to protect sensitive data? Free up storage space? Or bring bad drives back to life? If so, this course is for you. James Gonzalez reviews the basics of Windows 10 storage configuration, troubleshooting, and encryption—all the essential skills for network administrators who work with Windows environments. Learn how to troubleshoot Windows Storage Spaces, removable USB drives, memory caches, and drive failures. Discover how to set up file sharing and permissions across your network. Plus, find out how to encrypt files, volumes, and drives with EFS and BitLocker. This course is also part of a series designed to help you prepare for the Microsoft exam 70-697: Configuring Windows Devices.

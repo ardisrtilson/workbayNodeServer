@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sue Jenkins
+Course_ID=2809362
+Course_System=linkedin.com
+Course_Title=Adobe Photoshop to XD: Web Design Process
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Transition your Photoshop-based web design process to a more UX-based workflow by adding Adobe XD. Vector-based XD allows for faster design revisions, easy adaptability to a variety of device sizes, and quicker development of prototypes to get customer buy-in before the development process begins. In this course, you’ll learn how to set up XD, prototype and collaborate your UX designs with clients and stakeholders, leverage cross-product workflows between Photoshop and XD, and export web-ready assets for developers.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=761941
+Course_System=linkedin.com
+Course_Title=SketchUp Pro: Dynamic Components
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SketchUp dynamic components are reusable design elements with special attributes: parametric functions, interactivity, animation, and more. Creating your own dynamic components allows you to build a library of custom designs and easily share them with others. This training course shows how to use SketchUp Pro to build dynamic components from scratch. Instructor Scott Onstott starts by reviewing the premade dynamic components found in the Components panel and 3D Warehouse. Then he explores the build process: adding attributes, creating formulas, nesting component parts, and assigning materials. He even shows how to add a dialog box to change attribute values from a user-friendly interface. The last half of the course contains a collection of mini-projects: from fences that automatically add pickets as you scale to cabinets with animated drawers. Each project can be recreated in the Windows or Mac versions of SketchUp Pro. Finally, Scott closes with some tips for scaling materials along with your dynamic components.

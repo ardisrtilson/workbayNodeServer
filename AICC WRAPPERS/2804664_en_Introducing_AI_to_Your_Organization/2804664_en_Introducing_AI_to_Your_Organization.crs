@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Fernandes
+Course_ID=2804664
+Course_System=linkedin.com
+Course_Title=Introducing AI to Your Organization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Artificial intelligence (AI) is taking the world by storm. Manufacturing, healthcare, and a host of other industries are steadily adopting this technology to streamline processes, enhance predictability, and generally keep ahead of the curve. In this course, discover what it takes to successfully introduce AI to your organization. Instructor Jonathan Fernandes steps through how to determine whether your organization is ready for AI, as well as how to develop and present a compelling business case for adopting the technology. Plus, he shares how to successfully implement AI—including how to do so using the scrum methodology—how to handle data collection and AI modeling, deploy, and finally monitor AI models once in production.

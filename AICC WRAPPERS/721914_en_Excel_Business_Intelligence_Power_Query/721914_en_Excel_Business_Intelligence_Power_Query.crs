@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=721914
+Course_System=linkedin.com
+Course_Title=Excel Business Intelligence: Power Query
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Excel includes a powerful feature called Power Query—also known as Get & Transform or Get Data—which provides fast and powerful data gathering and cleansing capabilities. In this course—the first installment in the Excel Business Intelligence series—follow along with experienced Excel trainer Chris Dutton as he shows you the robust capabilities of Power Query. Chris kicks off the course by outlining the power Excel landscape and spelling out when to use business intelligence tools like Power Query, Power Pivot, and DAX. He then dives into Power Query, explaining how to leverage key query editing tools to connect and transform data. Learn about basic Power Query table transformations, text-specific query editing tools, how to merge and append queries, and more. Chris also shares best practices for working efficiently with Power Query.

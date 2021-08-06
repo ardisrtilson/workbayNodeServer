@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Frank P Moley III
+Course_ID=761955
+Course_System=linkedin.com
+Course_Title=Spring 5.0 and Spring Boot 2.0 New Features
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Spring developers are always listening to feedback and feature requests. They have responded with Spring 5, a version that's packed with exciting new enhancements. This course gets you up to speed with the latest and greatest in Spring Framework 5.0 and Spring Boot 2.0, including reactive Spring and Spring Actuator. Instructor Frank Moley covers the new support structure for Java 8 and Java EE 7, and explains which packages, classes, and methods have been removed. Next, learn about the changes to Servlet 3 and 4, data binding for immutable objects, and the spring-web-reactive module for reactive programming. Then explore the integration for Junit Jupiter, parallel test execution, and mock environments. Finally, review the changes in Spring Boot, including third-party library upgrades and Spring Boot Actuator for monitoring the health of production applications.

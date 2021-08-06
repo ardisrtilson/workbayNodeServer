@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=2824383
+Course_System=linkedin.com
+Course_Title=Advanced C#: Thread-Safe Data with Concurrent Collections
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A thread-safe class is one whose members are protected from situations in which one thread interrupts another thread. The standard .NET collection types are not thread safe, which can lead to a slew of problems, including race conditions, data corruption, and unexpected exceptions in modern multithreaded applications. In this course, instructor Walt Ritscher demonstrates how to work with the thread-safe concurrent collections to share data across threads and build more scalable applications. Using practical examples, Walt outlines the problems you can face when working in multithreaded applications and explains why concurrent collections are great at handling multiple threads. He explores how to work with the ConcurrentDictionary class, including how to update data in ConcurrentDictionary. Plus, learn about the producer-consumer pattern and how it relates to concurrent collections types, how to use BlockingCollection—a thread-safe collection class—and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Milner
+Course_ID=2833010
+Course_System=linkedin.com
+Course_Title=Building a Web Application on Microsoft Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Azure boasts a variety of services for developers looking to build a web application on the cloud. In this hands-on course, Matt Milner details how to build web applications that take advantage of several of these services, including Cosmos DB, Logic Apps, Azure Functions, and Azure Resource Manager. To introduce you to these options, Matt steps through how to extend a sample web app using Azure services, explaining why each option he selected is ideal for this particular project, as well as how to integrate and leverage each option. Learn about using Logic Apps for workflow and integration, how Azure Functions enable serverless compute and integrate with other offerings, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Valley
+Course_ID=3129467
+Course_System=linkedin.com
+Course_Title=SAP Financials Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Justin Valley dives into the financial accounting module of SAP FI ERP. Justin covers the general ledger, accounts receivable, accounts payable, and asset accounting submodules. After going over the general ledger and SAP FI integration, Justin discusses SAP financials master data, company codes, reconciliation accounts, and more. He goes into the general ledger in more depth, then describes the transactions and reports you can access through accounts payable and accounts receivable. Justin gives you an overview of asset accounting and goes on to describe creating asset master records, acquiring an asset, posting unplanned asset depreciation, and more.

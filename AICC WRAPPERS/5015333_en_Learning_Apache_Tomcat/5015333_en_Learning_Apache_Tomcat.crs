@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Josh Samuelson
+Course_ID=5015333
+Course_System=linkedin.com
+Course_Title=Learning Apache Tomcat
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get up and running with Apache Tomcat, the popular web application server for running Java-based apps. In this course, instructor Josh Samuelson highlights the tool’s major components and shows how to set up Tomcat and use it to install web applications. Along the way, Josh digs into some more advanced concepts, including how web servers handle encryption and how to encrypt web traffic with Tomcat. Plus, he shows how to deploy a web app using Tomcat Manager, the web-based UI for managing a Tomcat instance.

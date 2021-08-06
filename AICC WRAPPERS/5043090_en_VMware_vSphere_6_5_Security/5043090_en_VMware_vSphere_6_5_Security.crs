@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043090
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to administer the critical security components of vSphere 6.5, the data center virtualization platform from VMware. This course covers core vSphere security concepts, topics which are part of the VMware Certified Professional exam. Instructor Rick Crisci starts the course by demonstrating single sign-on (SSO) setup, followed by user role and permission configuration using vCenter. Then he explains how to secure virtual machines, harden host servers, and select encryption options. Explore ESXi, vMotion, and more, as he demonstrates common tasks that you may need to perform as a vSphere system administrator.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sam Sehgal
+Course_ID=2837231
+Course_System=linkedin.com
+Course_Title=Securing Containers and Kubernetes Ecosystem
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Containers have transformed the way applications are built, deployed, and managed. But it’s only a matter a time before a vulnerability or misconfiguration leads to a newsworthy security breach. Establishing security controls is essential to protect applications being deployed in orchestration systems like Kubernetes. This course explains how to secure containers and the Kubernetes ecosystem using a simple five-factor model. Instructor Sam Sehgal—a security strategist and architect —reviews the containers and Kubernetes technology architecture, the application development and deployment life cycle, as well as the attack surface and vectors. He then introduces his five-factor security model to protect Kubernetes and its components, and shows how to apply security controls to the design and code, images and registries, containers and hosts, applications, and Kubernetes clusters.

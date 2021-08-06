@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=503929
+Course_System=linkedin.com
+Course_Title=Learning Microsoft SQL Server 2016
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SQL Server can be intimidating, especially for people who have never worked with databases before. A quick overview can go a long way to making you feel more comfortable digging into its powerful capabilities. This course introduces the most important features of SQL Server 2016, and is designed to act as the student's very first look at how the server operates. Adam Wilbert shows how to install a local copy of SQL Server; demonstrates the working environment, SQL Server Management Studio; and walks students through their first hour creating tables, defining relationships, and writing and running queries with Transact-SQL commands. Everything you need to accomplish to create your first database is covered in just 80 minutes. Start watching to get up and running with this professional-grade database management system.

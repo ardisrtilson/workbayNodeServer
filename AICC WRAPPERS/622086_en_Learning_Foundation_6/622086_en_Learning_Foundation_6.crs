@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jen Kramer
+Course_ID=622086
+Course_System=linkedin.com
+Course_Title=Learning Foundation 6
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to build a responsive website or app quickly? Foundation 6 simplifies the creation of mobile-ready, cross-browser interfaces. An open-source framework, it features a 12-column grid; buttons of many different shapes, sizes, and functionality; fully functional components that are ready to use; and much more. Plus, its Flexbox-based grid system and easy-to-edit styles make it a real timesaver—even for more advanced developers. Get an introduction to the most frequently used Foundation components, and how they fit together, in this introductory training course. Instructor Jen Kramer helps you create a responsive layout, modify the look and feel by editing the underlying CSS, and customize the navigation. She demonstrates how to add card-based approaches, modal dialogs, photo carousels, and other JavaScript-based effects.

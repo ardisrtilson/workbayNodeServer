@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Roger Miller
+Course_ID=2861079
+Course_System=linkedin.com
+Course_Title=Unity: Building VR User Interfaces
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The explosion of growth and innovation in the virtual reality (VR) industry has led some to describe it as the next level in computing. In this course, discover how to create meaningful interactions for users of VR content. Join instructor Roger Miller as he shows how to use Unity to create intuitive user interfaces for VR on the Oculus Quest. Learn about critical visualization tools and concepts for VR. Explore the technological and psychological implications of common UX interface elements like heads-up displays, reticles, and dialogs. Learn about considerations like viewing distance and creating UI for the whole body. Plus, discover how to set up mipmaps, implement basic teleportation to navigate your 3D world, and much more.

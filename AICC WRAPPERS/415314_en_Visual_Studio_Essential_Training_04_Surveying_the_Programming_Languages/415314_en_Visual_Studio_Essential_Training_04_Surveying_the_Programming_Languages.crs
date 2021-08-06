@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=415314
+Course_System=linkedin.com
+Course_Title=Visual Studio Essential Training: 04 Surveying the Programming Languages
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You have many choices when you start coding in Visual Studio. Language is one of the most exciting. In this installment of Visual Studio 2015 Essentials, Walt Ritscher surveys the programming languages available, including C#, Visual Basic, C++, and F#, as well as some non-Microsoft languages that can be added to Visual Studio. Walt reviews the basic syntax of the four core languages and shows how to write a simple application in each one.

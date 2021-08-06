@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2810629
+Course_System=linkedin.com
+Course_Title=AWS for Developers: RDS MySQL Database with Lambdas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The demands of online resources, especially databases, is growing for app development. AWS puts the power of relational databases (RDS) in the hands of developers with Lambdas, but without the difficulty of server configuration and maintenance. AWS provides the power of the server without the needs of configuration, development, and maintenance. In this course, learn how to leverage a RDS MySQL Database, a relational database that can be accessed from an app via Lambdas. Bear Cahill covers AWS account setup, creating a MySQL database, initializing a Node.js project, converting code to Lambda, testing, using SQL queries to work with rows of data, and more.

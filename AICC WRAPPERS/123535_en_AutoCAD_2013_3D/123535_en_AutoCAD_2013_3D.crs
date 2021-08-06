@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Onstott
+Course_ID=123535
+Course_System=linkedin.com
+Course_Title=AutoCAD 2013: 3D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're comfortable with 2D drawing in AutoCAD 2013 and ready to start creating and designing three-dimensional models, this workshop from AutoCAD expert and author Scott Onstott is for you. Learn about 3D navigation and wireframing; surface, solid, and mesh modeling techniques; designing and assigning materials; placing natural and artificial lights; and configuring both direct and global illumination rendering parameters to create photorealistic renderings. With the 3D techniques from this course, you can prepare to bring your designs one step closer to reality.

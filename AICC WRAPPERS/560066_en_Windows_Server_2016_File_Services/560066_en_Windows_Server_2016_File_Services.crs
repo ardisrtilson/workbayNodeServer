@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=560066
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: File Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Ensuring that your file services environments remain efficient is an essential aspect of enterprise computing. In this course, explore how to work with files and file services in Windows Server 2016. Join Ed Liberman as he explains how to work with File Server Resource Manager—a capacity management tool—and Distributed File System, which helps you provide fault tolerance and redundancy to your data. Plus, Ed shares several ways to help keep your data secure, including encrypting files using the Encrypting File System, and auditing file access.

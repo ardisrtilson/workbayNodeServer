@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=176497
+Course_System=linkedin.com
+Course_Title=Design the Web: Pie Charts with CSS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to display your data in a pie chart, with nothing more than HTML and CSS. Chris Converse shows how to create complex shapes with CSS3 properties and nested HTML5 elements. The course exercise files are free to all members and contain handy cut-and-paste code snippets that allow you to follow along with the instructions easily. When you're done, you'll have an elegant pie chart that will work in all HTML5-enabled web browsers, including Chrome, Firefox, Safari, and Internet Explorer.

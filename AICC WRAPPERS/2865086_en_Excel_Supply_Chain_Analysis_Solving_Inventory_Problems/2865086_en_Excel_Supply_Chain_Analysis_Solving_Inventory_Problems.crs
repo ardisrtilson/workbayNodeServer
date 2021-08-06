@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Curt Frye
+Course_ID=2865086
+Course_System=linkedin.com
+Course_Title=Excel Supply Chain Analysis: Solving Inventory Problems
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel pro Curt Frye shows how to analyze inventory costs and develop effective inventory policies within a supply chain. He explains how to calculate total costs and total relevant costs for a product. He covers how to incorporate the effects of lead time into analysis and how to determine how much extra those minimum orders cost. Curt goes into how to evaluate quantity discounts and how to calculate production quantities to maximize profit. He discusses how back orders affect inventory policies and how to calculate the economic order quantity for inventory policies that allow back orders. He introduces you to difficulties associated with goods that have a limited lifespan, often called the newsvendor problem, then shows you how to generate the data and summaries required to solve a newsvendor problem. In conclusion, Curt walks you through how to calculate the base stock level for a target level of service and how to calculate a reorder point based on cycle service level performance.

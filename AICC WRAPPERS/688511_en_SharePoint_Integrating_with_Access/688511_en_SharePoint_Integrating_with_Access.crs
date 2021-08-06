@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Hunt
+Course_ID=688511
+Course_System=linkedin.com
+Course_Title=SharePoint: Integrating with Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using the user-friendly data input features of SharePoint Online—along with an Access database—you can build business apps that mobilize workflows and create easy-to-manage databases. In this course, learn how to integrate Access with SharePoint to make data-rich applications. Instructor Robin Hunt shares strategies and techniques that can help you work smarter with these two programs. Robin explains how to align data between SharePoint and Access and set up alerts from Access. She also covers how to build forms and reports for your integration—including how to create views that recreate some of your most valuable reports; how to build views for data in SharePoint; how to generate Excel reports for SharePoint; and how to finalize a database for production.

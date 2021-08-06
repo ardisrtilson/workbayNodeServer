@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pooja Jaisingh
+Course_ID=376380
+Course_System=linkedin.com
+Course_Title=Captivate 8: Advanced Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take your Captivate 8 elearning projects to the next level, with this set of advanced techniques. Pooja Jaisingh explores using variables, events, and actions to guide the learning flow. Then she shows how to take advantage of the program's advanced features, like geolocation, responsive animation and interactions, lightboxes, quizzes, and text to speech, to create more interactive content. All the techniques are guided by current best practices for elearning authoring, which are included in the final chapter along with some productivity tips.

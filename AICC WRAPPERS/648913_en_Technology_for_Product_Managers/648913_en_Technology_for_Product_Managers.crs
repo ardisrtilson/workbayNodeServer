@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Cole Mercer
+Course_ID=648913
+Course_System=linkedin.com
+Course_Title=Technology for Product Managers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Product managers must know technology basics. They need to have the vocabulary to speak to engineers, UX designers, and executives-and translate messages between these very different stakeholders. A product manager should know how the internet works, how front end differs from back end, what the major programming languages are, and why web and mobile developers are so in demand. This course provides an overview of the basics, including terminology and trends that will affect your work and collaboration with your team. Instructor Cole Mercer reviews the fundamental building blocks of modern software applications-from the web that connects all the working parts, to the data, users, and the build tools that developers use every day. He discusses the differences between desktop, web, and mobile development, and reviews the role of version control systems in deployment and release.

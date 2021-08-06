@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Erin Allard
+Course_ID=779747
+Course_System=linkedin.com
+Course_Title=Python Data Structures:  Stacks, Queues, and Deques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data structures like stacks and queues come up frequently in interviews for technical roles. Though many candidates may never encounter data structures in day-to-day programming, showing a mastery of these concepts can help you rock your next interview—and add to your coding toolkit. In this course, Erin Allard shows how to use Python to build the top three linear data structures: stacks, queues, and deques. She compares and contrasts the data structures and shows how to implement them in an object-oriented way in Python. Learn how to define each class and use Python's built-in methods to accomplish the necessary behaviors, such as push, pop, and peek; enqueue and dequeue; and add_front and remove_rear. Challenges in each chapter help practice your new skills and prepare for your next interview.

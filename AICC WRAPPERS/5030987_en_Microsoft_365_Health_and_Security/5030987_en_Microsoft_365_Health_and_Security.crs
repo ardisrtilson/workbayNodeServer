@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=5030987
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Health and Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft 365 is a complete, intelligent solution, including Office 365, Windows 10, and Enterprise Mobility + Security. This course presents fundamental concepts for enterprise administrators around security, compliance, and user management of Microsoft 365. Instructor Brien Posey shows how to configure messaging, set up analytics, run reports, create users, and manage roles and passwords. Plus, learn how to set up multi-factor authentication (MFA) for an additional layer of verification. After completing this course, you’ll have the skills you need to maintain the ongoing health and security of your Microsoft 365 deployment.

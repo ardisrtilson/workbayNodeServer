@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=659282
+Course_System=linkedin.com
+Course_Title=Microsoft Teams Bot Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bots in Microsoft Teams allow users to interact naturally through chat. They can interact with a user in a one-on-one scope or talk to a team when they are @mentioned. In this course, join instructor Sahil Malik as he explains how to set up, configure, and build a bot for Microsoft Teams. Along the way, Sahil shares plenty of tips and best practices that can help you get acquainted with the Microsoft Bot Framework, and learn how to use it to efficiently write bots for Teams. He goes over how to register your bots, enable side loading, write code for scenarios that are specific to Teams, test your bots, and more.

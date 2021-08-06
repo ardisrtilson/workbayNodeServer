@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jeff Winesett
+Course_ID=2815060
+Course_System=linkedin.com
+Course_Title=AWS Essential Training for Architects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) is one of the most widely used cloud platforms, and the top pick for many organizations looking to scale and reduce costs by adopting a cloud infrastructure strategy. This course explores AWS from the architect’s perspective, focusing on the foundations you need to build scalable and reliable cloud-based application architectures. Instructor Jeff Winesett covers everything from high-level principles and best practices to hands-on implementation, optimization, and security. He takes three different approaches—manual, automated, and serverless—so you can see how AWS fits a variety of workflows and architectures. Each lesson is backed with practical examples, grounding services like Elastic Load Balancing, RDS, DynamoDB, and CloudFront in a real-world context.

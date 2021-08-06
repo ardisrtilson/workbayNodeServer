@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=John Helfen
+Course_ID=473456
+Course_System=linkedin.com
+Course_Title=Autodesk Inventor 2017 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn everything you need to know about product and manufacturing design with Autodesk Inventor 2017. In this course, author John Helfen takes you through the interface, tools, and key processes of this industry-leading parametric design system. The main techniques are sketching, parts modeling, assembly building, and drawing. John shows how to create a sketch; turn the sketch into a 3D part with Extrude, Revolve, and Loft commands; combine parts into assemblies; and document your designs. Each of these methods works in conjunction with the others, allowing you to create manufacturing-ready parts and assemblies to present to fabricators, clients, and colleagues.

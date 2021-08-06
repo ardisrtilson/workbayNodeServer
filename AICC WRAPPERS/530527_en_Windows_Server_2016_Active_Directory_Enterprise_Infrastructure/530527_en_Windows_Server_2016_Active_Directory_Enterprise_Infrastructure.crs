@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=530527
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Active Directory Enterprise Infrastructure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Active Directory is the foundation for user and group management, Group Policy, and security in Windows Server 2016. This course shows how to administer Active Directory services in an enterprise environment. Follow along with Ed Liberman as he shows how to deploy child/tree domains, establish trust relationships, set up forest trusts, and create Active Directory Domain Services (AD DS) sites and subnets. Plus, learn how to configure replication between locations in a global Active Directory environment.

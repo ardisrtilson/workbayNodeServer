@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Linthicum
+Course_ID=3107161
+Course_System=linkedin.com
+Course_Title=Learning Cloud Computing: The Cloud and DevOps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Move DevOps to the cloud and become more agile at software development and operations. This course explains how to set up a cloud-based DevOps process and leverage services offered by Amazon and Microsoft. Cloud computing expert David Linthicum first introduces the business case for DevOps in the cloud, which can ensure scalable and continuous delivery, testing, integration, and deployment for organizations of any size. He then explains how to establish a DevOps process on the cloud, and reviews DevOps solutions offered in Amazon Web Services and Microsoft Azure. Plus, review some use cases that demo real-world implementations of DevOps services on the cloud.

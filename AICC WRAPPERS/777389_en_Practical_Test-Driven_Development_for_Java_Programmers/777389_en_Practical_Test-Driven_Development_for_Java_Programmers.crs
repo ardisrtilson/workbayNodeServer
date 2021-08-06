@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Greencroft
+Course_ID=777389
+Course_System=linkedin.com
+Course_Title=Practical Test-Driven Development for Java Programmers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use tests to drive the writing of your code, a key component of agile programming. More than just theory, this course covers a range of practical topics that can help Java developers get up and running with test-driven development (TDD). Instructor Matt Greencroft helps to acquaint you with the process that's required for TDD, as well as how to deal with real-world challenges you may encounter when carrying out TDD. Discover how to write your first test and determine what makes a good or bad test. Plus, learn how to test code where there's a dependency on third-party resources, how to create mocks and stubs with Mockito—a popular third-party library—and more.

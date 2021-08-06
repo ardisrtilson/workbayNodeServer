@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=664832
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Software Defined Networking Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software-defined networking (SDN)—a way to segment traffic between networks and virtual machines—is a key concept in server administration, networking administration, cloud computing, and data center management. This course covers key concepts and tasks that can prepare you to become a software-defined networking administrator. Instructor Robert McMillen begins by providing an introduction to software-defined networks, and sharing how Virtual Machine Manager is used to configure SDN. He then dives into preparing the environments, including how to prepare logical networks and how to copy and import a script to a library in Virtual Machine Manager. He also shares how to add a cluster, configure deployment, and troubleshoot deployment issues. Note: This course is the second of two that cover SDN in a Server 2016 network. This course maps to the SDN deployment objectives in Exam 70-745.

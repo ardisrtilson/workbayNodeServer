@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=368921
+Course_System=linkedin.com
+Course_Title=Grunt.js: Web Workflows
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developing a workflow will help you program, test, and deploy your web applications more easily and efficiently. Tools like Grunt.js make generating workflows as easy as writing a setup file. Here Ray Villalobos covers the key steps in creating a Grunt-based web workflow, from creating tasks to process Sass and combine scripts to automating the entire workflow. He also shows how to use Bower.io to quickly load frameworks such as Bootstrap, jQuery, and Mustache.js.

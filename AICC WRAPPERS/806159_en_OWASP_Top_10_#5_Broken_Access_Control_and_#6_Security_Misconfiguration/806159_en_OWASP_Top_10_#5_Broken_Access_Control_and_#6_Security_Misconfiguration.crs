@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Caroline Wong
+Course_ID=806159
+Course_System=linkedin.com
+Course_Title=OWASP Top 10: #5 Broken Access Control and #6 Security Misconfiguration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security-related incidents pose major threats to organizations of all sizes, as well as the customers they serve. The Open Web Application Security Project (OWASP) was formed to educate the public about some of the most common security vulnerabilities. OWASP also provides a list—the OWASP top ten—that highlights the most critical security risks out there. In this course, Caroline Wong explores broken access control and security misconfiguration, the fifth and sixth categories of security vulnerabilities in the OWASP Top 10. Caroline explains how these threats work and provides real-life examples of how they can impact companies and consumers. Plus, she provides techniques that can help you prevent broken access control and security misconfiguration from impacting your organization.

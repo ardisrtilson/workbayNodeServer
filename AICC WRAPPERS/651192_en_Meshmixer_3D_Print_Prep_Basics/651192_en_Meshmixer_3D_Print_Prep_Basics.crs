@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Kloski
+Course_ID=651192
+Course_System=linkedin.com
+Course_Title=Meshmixer: 3D Print Prep Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Meshmixer—the 3D modeling Swiss Army knife from Autodesk—boasts several helpful tools that can enhance your 3D modeling workflow. One of its most notable features is its ability to analyze and determine how objects will most successfully 3D print in physical form, and then help you prepare those objects for physical production. In this course, join Nick Kloski as he shows how to prepare 3D models for additive manufacturing on a 3D printer in Meshmixer. He demonstrates how to use the software's powerful tools for analysis and repair, as well as how to prepare for dual extrusion. This course was recorded and produced by HoneyPoint3D. We're pleased to host this training in our library.

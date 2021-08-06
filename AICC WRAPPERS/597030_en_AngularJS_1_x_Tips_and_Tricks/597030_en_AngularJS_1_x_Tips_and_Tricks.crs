@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aviv Ben-Yosef
+Course_ID=597030
+Course_System=linkedin.com
+Course_Title=AngularJS 1.x Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While AngularJS 1.x is generally a well-tested and well-understood framework, it still has secrets to share. In this course, learn lesser known facts about AngularJS 1.x that can help you build better applications. Aviv Ben-Yosef begins by taking you through techniques for making your AngularJS 1.x apps faster, including one-time binding. Next, he dives into AngularJS 1.x concepts that every developer should have in their toolkit. Finally, he shares a few tricks—such as multiple transclusion and turning URLs in paragraphs into safe links—that can help you when you work on larger apps.

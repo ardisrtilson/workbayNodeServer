@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ron Davis
+Course_ID=361204
+Course_System=linkedin.com
+Course_Title=SharePoint 2013: Site and Collection Administration
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint administrators: learn how to manage sites and collections for your organization with these short, focused SharePoint tutorials. Author Ron Davis familiarizes new and part-time administrators with common duties involved with administrating SharePoint, such as navigating the SharePoint architecture; handling permissions and quotas; backing up and restoring data; creating site libraries, lists, and site pages; and branding your SharePoint site with the Design Manager. This course is an excellent starting point to understand your responsibilities as a collection or site admin.

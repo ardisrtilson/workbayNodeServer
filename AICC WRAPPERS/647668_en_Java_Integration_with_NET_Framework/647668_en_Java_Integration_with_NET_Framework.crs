@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Reynald Adolphe
+Course_ID=647668
+Course_System=linkedin.com
+Course_Title=Java Integration with .NET Framework
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you interested in learning how to use .NET components within a Java environment? In this course, discover how to use Javonet—a framework that was designed for native integration—to access and use .NET assemblies directly from a Java platform. Reynald Adolphe discusses the purpose and significance of integrating Java with .NET, shares integration options, and goes over the challenges and benefits of native integration. He also covers using .NET C# instance and status methods from Java, working with fields and properties, embedding .NET UI controls in a Java interface, and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=503882
+Course_System=linkedin.com
+Course_Title=Unreal Engine: Motion Graphics Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Expand your motion graphics skillset by learning how to prepare and import assets into the video game engine Unreal Engine 4 (UE4). In this course, Scott Pagano demonstrates techniques to help you get the most out of UE4 for motion graphics projects. Scott shows you processes to design and build animated assets that will translate with ease from Maya or Cinema 4D into UE4. He explains how to prepare and export animated geometry using blendshapes and rigs. He also explains how to export Alembic files for import into the Unreal Editor. The instructions he provides are designed to help you gain a solid grasp of effective workflows so you will be able to create dynamic, animated content while harnessing the power of real-time rendering.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Christiansen
+Course_ID=114912
+Course_System=linkedin.com
+Course_Title=After Effects Compositing: 5 Rotoscoping & Edges
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+So you've decided to rotoscope. Performing a roto, an animated selection with masking and paint tools, is time consuming, but the result can be amazing. In this course, Mark Christiansen teaches you how to roto, and how not to roto, in After Effects. His technique relies on a mostly manual masking and painting process, but he also introduces some procedural tools, such as tracking, to make your job go faster. Learn how to build simple rotos and more advanced articulated rotos, replace missing or mismatched backgrounds, separate foreground action to visual effects, and make the results look more realistic with soft edges and motion blur. Mark also reveals techniques for painting with the Brush and Clone tools and tricks for working with the Roto Brush.

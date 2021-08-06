@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Rout
+Course_ID=574713
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Test-Driven Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get practical, hands-on experience implementing test-driven development of ASP.NET Core applications. Apps developed with a solid testing strategy are cleaner, more flexible, and easier to change on the fly. This course provides developers with the baseline knowledge of TDD so they can iterate through both new and existing code. Instructor Richard Rout introduces some helpful tools for ASP.NET Core testing, including Visual Studio, ReSharper, and the xUnit and Mock frameworks. Then he covers concepts such as dependency injection and version control, and shows how to set up a web app for testing. Finally, he walks through the red-green-refactor test cycle, including writing failing and passing tests, running tests, and refactoring code to improve quality. Note: Examples in this course were developed using C# ASP.NET Core, but the concepts apply to all .NET Core applications.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5007869
+Course_System=linkedin.com
+Course_Title=Cert Prep: VMware Certified Associate (VCA-DBT)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Demonstrate your understanding of essential virtualization concepts and VMware technologies by earning the VMware Certified Associate - Digital Business Transformation (VCA-DBT) credential. In this course, instructor Rick Crisci provides you with the knowledge you need to ace the VMware Certified Associate – Digital Business Transformation exam. Rick covers vSAN, NSX, vSphere, and other VMware virtualization technologies that are represented on the VCA-DBT exam blueprint. Review use cases for vSphere, vSAN, and NSX; how to design vSphere for availability, manageability, performance, recoverability, and security; how Horizon 7 can be used to deliver virtual desktops and applications to users; and more.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Martin
+Course_ID=521144
+Course_System=linkedin.com
+Course_Title=MicroStation 3D Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The latest version of MicroStation V8i SELECTseries from Bentley is a highly optimized 2D and 3D CAD and information-modeling program. This project-based course is designed to help you acquire the 3D tools and skills you need to view, model, document, and visualize your designs with MicroStation so you can confidently tackle design projects of any size or complexity. David Martin goes over the user interface and explains how to set drawing preferences and working units. After providing you with an introduction to the software, he dives into several drawing and dimensioning projects—a basic one-view drawing, a three-view orthographic projection drawing, an auxiliary-view drawing, and a four-part assembly drawing.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=2832049
+Course_System=linkedin.com
+Course_Title=Quantity Takeoffs for BIM
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Quantification is a core piece of functionality of Navisworks. Using a 3D model, you can create a highly accurate quantity takeoff that ties it physically to the model. This allows you to see items that have been accounted for—and those that have not—and make more accurate material estimates. If you don't have a 3D model, don't worry. With this course, you will learn how to take off a 2D sheet set as well. Expert Eric Wing shows how to set up a takeoff workbook using the built-in catalogs in Navisworks (CSI and Uniformat), use your own custom catalogs, and perform model and virtual takeoffs. Plus, learn to perform 2D takeoffs from a DWF sheet set.

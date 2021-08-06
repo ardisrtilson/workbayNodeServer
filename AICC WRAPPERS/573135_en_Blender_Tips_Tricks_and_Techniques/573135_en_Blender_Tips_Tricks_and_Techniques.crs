@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Andrade
+Course_ID=573135
+Course_System=linkedin.com
+Course_Title=Blender: Tips, Tricks and Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blender boasts a variety of essential features and add-ons for 3D creation. In this weekly series, learn how to better leverage these tools—and work with some features that you may not have heard of yet. Join David Andrade as he covers a variety of topics, including useful Blender simulations, updates to Blender such as the Principled BSDF shader, and animation techniques. Tune in every Wednesday for a new Blender trick to enhance your media production workflow. Note: Because this is an ongoing series, viewers will not receive a certificate of completion.

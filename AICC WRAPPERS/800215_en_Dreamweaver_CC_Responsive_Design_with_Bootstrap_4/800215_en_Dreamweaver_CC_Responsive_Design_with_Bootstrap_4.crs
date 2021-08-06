@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=800215
+Course_System=linkedin.com
+Course_Title=Dreamweaver CC: Responsive Design with Bootstrap 4
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dreamweaver CC—coupled with Bootstrap 4—makes it easier for design-minded professionals to build websites that look great on desktops and mobile devices alike. In this course, learn how to efficiently build responsive web pages using Dreamweaver CC and Bootstrap, the popular HTML, CSS, and JavaScript framework. Instructor David Powers demonstrates how to define a Bootstrap layout grid, insert a navigation bar, add a hero image, and resize, offset, duplicate, and copy Bootstrap columns. Plus, he covers how to edit Bootstrap components such as cards and carousels.

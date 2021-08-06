@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peter Gruenbaum
+Course_ID=540498
+Course_System=linkedin.com
+Course_Title=Learn API Documentation with JSON and XML
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Document the ins and outs of the data sent and received by web APIs so that developers can understand how to build applications that can successfully use that data. Programming and technical writing expert Peter Gruenbaum knows that APIs are becoming increasingly more important, which is why, in this course, he shows you how to document structured data using data-interchange formats to help you establish strong, foundational skills in web API documentation. Peter shares the benefits of creating good documentation, explains the differences between responses and requests, and discusses how to work with common data types and collections—from numbers and text to arrays and dictionaries. He then shows how to create and document structured data using JSON and then XML. He wraps up the course by examining the pros and cons of available documentation and collaboration tools like wikis and knowledge bases.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Clarissa Peterson
+Course_ID=743192
+Course_System=linkedin.com
+Course_Title=Responsive Layout
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Responsive design demands that websites adapt to the device they are displayed on. Responsive layout is key, and HTML and CSS now offer features that make it easier than ever to create layouts that will work well on a wide range of devices and screen sizes. In this course, Clarissa Peterson covers the basics of designing responsive website layouts with the latest standards, including CSS Flexbox and Grid. Review the basics, such as working with the position and float properties to adjust the location of elements on screen, and discover how to use media queries to proactively update your layout. Then dive into CSS Grid, including aligning and ordering items within the grid, and find out to work flexbox containers. Finally, learn to build a 12-column design that combines Grid and Flexbox in one layout.

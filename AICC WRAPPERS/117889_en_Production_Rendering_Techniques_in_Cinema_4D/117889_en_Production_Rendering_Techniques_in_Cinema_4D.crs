@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Donovan Keith
+Course_ID=117889
+Course_System=linkedin.com
+Course_Title=Production Rendering Techniques in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This course introduces the many advanced features of the CINEMA 4D rendering and lighting toolsets. Discover how to better simulate real-world surfaces, photography, and lighting scenarios. Author Donovan Keith shows how to add realistic shallow depth-of-field effects with the physical renderer, use blurry reflections to create a type treatment, and light scenes with HDRI photographs and global illumination. Plus, learn tricks for achieving similar effects under tight deadlines.

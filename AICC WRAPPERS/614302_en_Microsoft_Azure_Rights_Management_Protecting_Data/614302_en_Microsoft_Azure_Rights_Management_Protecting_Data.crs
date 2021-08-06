@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Culp
+Course_ID=614302
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Rights Management: Protecting Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure Rights Management offers data security in Office 365. This cloud-based service uses encryption, identity, and authorization policies to help protect user data. What's more, it works across multiple devices—phones, tablets, and PCs. This course provides an overview of Azure Rights Management, including the business scenarios in which it can be used. Then, through a series of demos, instructor Brian Culp shows how to plan for Azure Rights Management, activate the service, deploy templates in Office 365, and encrypt documents and email.

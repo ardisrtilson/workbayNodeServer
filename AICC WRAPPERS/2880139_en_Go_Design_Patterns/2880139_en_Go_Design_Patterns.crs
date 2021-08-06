@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Marini
+Course_ID=2880139
+Course_System=linkedin.com
+Course_Title=Go Design Patterns
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Go, a multi-paradigm programming language, features design patterns that allow developers to address common problems efficiently. In this course, senior developer advocate Joe Marini covers creation, structural, and behavioral design patterns. Joe begins with an overview of design patterns and design pattern categories. Then he gives you overviews and examples of several creational patterns, including builder pattern, factory pattern, and singleton pattern. He does the same for structural patterns, covering adapter patterns and facade patterns. Joe concludes with behavioral patterns such as an observer pattern and an iterator pattern.

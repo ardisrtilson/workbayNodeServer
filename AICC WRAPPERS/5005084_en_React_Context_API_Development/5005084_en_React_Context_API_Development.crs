@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5005084
+Course_System=linkedin.com
+Course_Title=React: Context API Development
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+React components provide convenient units of self-contained functionality—but wiring them together, especially when data goes to multiple places, can get repetitive. In this course, join Emmanuel Henri as he explores the React context API, which lets you share values across component trees and subtrees. As he steps through the course project, Emmanuel goes over the syntax of context, how to set it up in your projects, and how to update context. Plus, learn how to consume multiple contexts into your app, as well as what to avoid when working with context.

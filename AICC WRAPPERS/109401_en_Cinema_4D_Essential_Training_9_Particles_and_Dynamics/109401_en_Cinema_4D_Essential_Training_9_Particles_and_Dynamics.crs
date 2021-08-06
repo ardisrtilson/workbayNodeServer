@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rob Garrott
+Course_ID=109401
+Course_System=linkedin.com
+Course_Title=Cinema 4D Essential Training: 9 Particles and Dynamics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+CINEMA 4D Essentials with Rob Garrott is a graduated introduction to this complex 3D modeling, rendering, and animation program, which breaks down into installments that can be completed within 2 hours. In this installment, Rob introduces particles, a cluster of objects used to simulate effects like snow, sparks, fog, or fire, and dynamics, which allow you to define how objects interact with their environment. The course covers creating a splash effect with particles, working with more advanced Thinking Particles, and how to understand the difference between the dynamics system's rigid bodies and soft bodies.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2849270
+Course_System=linkedin.com
+Course_Title=Cisco CCNP ENARSI (300-410) Cert Prep: 3 Infrastructure Security
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Implementing Cisco Enterprise Advanced Routing and Services v1.0 (ENARSI 300-410) exam is a 90-minute exam associated with the Cisco Certified Network Professional (CCNP) Enterprise and Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation certifications. This exam certifies a candidate's knowledge regarding the implementation and troubleshooting of advanced routing technologies and services, including Layer 3, VPN, and infrastructure services. This course covers the third domain: Infrastructure Security. Learn the basics of secure VPN technologies such as MPLS and DMVPN and enterprise security foundations, such as troubleshooting RADIUS and router security, using access control lists, and leveraging router address and source guards. Instructor Kevin Wallace takes you through practical examples designed for busy working professionals who want to take their careers—and their networks—to the next level. This course was created by Kevin Wallace Training. We are pleased to offer this training in our library.

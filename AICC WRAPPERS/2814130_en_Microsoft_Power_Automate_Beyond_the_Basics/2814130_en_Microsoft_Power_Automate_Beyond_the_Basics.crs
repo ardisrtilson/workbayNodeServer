@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Gini von Courter
+Course_ID=2814130
+Course_System=linkedin.com
+Course_Title=Microsoft Power Automate: Beyond the Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to automate recurring business tasks with Microsoft Flow. Flow is a no-code tool designed for business users who want to save time, program manual processes, and build intelligent solutions to their organization’s business challenges. In this intermediate-level course, Gini von Courter goes deeper into using Flow to help streamline routine tasks. Discover how to create multiple flow types, schedule flows, trigger flows, and create portable flows that can be deployed to others in your organization. Gini also walks through an example in Microsoft Teams, so you can see the complete workflow for creating, testing, and deploying flows.

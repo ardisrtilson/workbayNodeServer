@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=540502
+Course_System=linkedin.com
+Course_Title=AutoCAD: Effective Annotating
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Annotations allow you to communicate your design intent. This Windows-specific course outlines how to use AutoCAD, the flagship CAD platform from Autodesk, to effectively annotate your drawings. Starting with the basics, Shaun Bryant walks you through the different types of annotations, covering dimensions, tables, text, and centerlines. He shows you how to use text in your drawings, dimension accurately, set up an AutoCAD table, and mark up an AutoCAD drawing. Shaun's clear, step-by-step instructions help you master this popular platform at your own pace.

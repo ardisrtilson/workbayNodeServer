@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eric Wing
+Course_ID=794119
+Course_System=linkedin.com
+Course_Title=Green Building Studio: Energy Analysis
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Green Building Studio (GBS) helps you optimize the energy efficiency and carbon footprint of your building designs. It can read BIM data directly from Revit models, providing a fast and efficient workflow for energy analysis. This course shows you the steps involved, starting with setting up a Green Building Studio project and exporting the Revit model geometry, room data, and energy information into GBS-friendly XML. Instructor Eric Wing then shows how to run the energy analysis and create design alternatives for comparison—right from Green Building Studio.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=134617
+Course_System=linkedin.com
+Course_Title=Learning Character Animation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The fundamentals of great character animation are rooted in posing your model in a way that reads true, animating from pose to pose to mimic natural movement, and simulating convincing dialogue. Start here to learn the skills all beginning animators need to know to bring their characters to life, regardless of software or style. Author and animator George Maestri first teaches you how to position your model and create realistic poses that tell stories and consider balance and weight. Next, you'll take those poses and animate between them in what's called pose-to-pose animation. Then you'll get your character moving in a basic walk cycle, add expression to the face, and incorporate dialogue. Finally, you'll learn how to tie all the fundamentals together in a scene complete with pose-to-pose animation and dialogue.

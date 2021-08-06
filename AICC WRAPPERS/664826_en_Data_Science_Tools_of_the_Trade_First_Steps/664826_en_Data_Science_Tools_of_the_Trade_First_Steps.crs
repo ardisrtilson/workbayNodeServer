@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jungwoo Ryoo
+Course_ID=664826
+Course_System=linkedin.com
+Course_Title=Data Science Tools of the Trade: First Steps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The explosion of data in recent years has made the field of data science—in which professionals work to glean insights from this abundant information—increasingly more vital. If you're looking to pursue a career or to work with experts in this rapidly-growing field, it's crucial that you familiarize yourself with the tools of the trade. In this course, instructor Jungwoo Ryoo helps to acquaint you with some of the most well-known data science tools in the areas of cloud computing, distributed file storage, distributed processing, and machine learning. Throughout this course, Jungwoo provides coverage of Proxmox, Hadoop, Spark, and Weka, discussing how to install and leverage each tool in your data science workflow. To wrap up, he explains how Hadoop, Spark, and Weka can work collaboratively to produce the best results.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Denton
+Course_ID=5043075
+Course_System=linkedin.com
+Course_Title=UiPath Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+UiPath uses Windows Workflow Foundation and the power of .NET to provide a solution that allows organizations to automate all manner of repetitive tasks. Curious about how to leverage this popular robotic process automation (RPA) software in your organization? In this course, instructor Richard Denton steps through the fundamental features of UiPath, demonstrating how to build a robust, scalable process along the way. After providing an introduction to UiPath Studio, Richard shows how to record a login, find work items, extract data, and extract work item details. Plus, he covers how to create a dynamic component, work with web pages, create reports, grasp how the UiPath framework handles exceptions, and more.

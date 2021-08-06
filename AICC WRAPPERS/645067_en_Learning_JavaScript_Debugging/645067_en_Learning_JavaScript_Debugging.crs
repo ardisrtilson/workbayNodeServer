@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Chellman
+Course_ID=645067
+Course_System=linkedin.com
+Course_Title=Learning JavaScript Debugging
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Whether you're new to coding or an experienced developer, bugs are an inevitable part of web development. Debuggers can make the task of finding and fixing those bugs much easier. In this course, learn how to work with a debugger to efficiently locate and resolve issues in your JavaScript projects. Instructor Joe Chellman provides a language-centered guide to dealing with the complexities involved in creating for the largest distributed platform out there: the web. He covers why we need debuggers, goes over notable jargon and concepts, and steps through the basics of using a debugger. He then takes a look at debugging in practice, sharing how to debug a React application in Chrome, how to debug on iOS using Simulator, how to debug a WordPress theme in Visual Studio Code, and more.

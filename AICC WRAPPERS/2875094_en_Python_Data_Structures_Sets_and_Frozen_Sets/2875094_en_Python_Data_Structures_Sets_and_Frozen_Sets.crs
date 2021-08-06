@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mridu Bhatnagar
+Course_ID=2875094
+Course_System=linkedin.com
+Course_Title=Python Data Structures: Sets and Frozen Sets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Mridu Bhatnagar takes you through the basics of using Python sets and frozen sets. If you’re in the early stages of your Python programming career, or if you just need a refresher, join Mridu as she discusses the basic mechanics and functions of these data structures. Mridu gives a high-level overview of sets and frozen sets and then dives into the various methods to work with them. She discusses use cases and topics like how to modify a set and use built-in functions. Mridu also provides challenge and solution videos to test your knowledge as you go along. If you’re looking to learn important aspects about sets and frozen sets in Python, without jumping into a long project-based course, Mridu’s course is for you.

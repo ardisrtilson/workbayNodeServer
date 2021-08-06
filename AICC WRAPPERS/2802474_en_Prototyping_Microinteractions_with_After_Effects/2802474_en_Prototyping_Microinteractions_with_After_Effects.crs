@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2802474
+Course_System=linkedin.com
+Course_Title=Prototyping Microinteractions with After Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+After Effects is more than a video effects application. For UX designers, it’s a go-to tool for prototyping. With After Effects, designers can create small but meaningful interactions—microinteractions—that communicate details such as timing and visual feedback to developers and clients. In this course, Tom Green shows how to build microinteractions in After Effects, using features such as the Graph Editor, easing, and Keyframe Velocity. Develop your skills as you work your way through simple projects, from taps to swipes, and then dive into more advanced projects that integrate Photoshop, Illustrator, and Adobe XD. In these hands-on exercises, you can learn how to prototype more complex designs, such as accordion menus and 3D interactions. Each lesson shows how to capitalize on the motion-driven workflow in After Effects to capture the subtle details of your design.

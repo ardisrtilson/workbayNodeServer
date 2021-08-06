@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=2832038
+Course_System=linkedin.com
+Course_Title=Faster pandas
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data scientists often favor pandas, because it lets them work efficiently with larger amounts of data—a useful quality as data sets become bigger and bigger. In this course, instructor Miki Tebeka shows you how to improve your pandas’ code’s speed and efficiency. First, Miki explains why performance matters and how you can measure it with Python profilers. Then, the course teaches you how to use vectorization to manipulate data. The course also walks through some common mistakes and how to address them. Python and pandas have many high-performance built-in functions, and Miki covers how to use them. Pandas can use a lot of memory, so Miki offers good tips on how to save memory. The course demonstrates how to serialize data with SQL and HDF5. Then Miki goes over how to speed up your code with Numba and Cython. Alternative DataFrames can also speed up your code, and Miki steps through some options. Plus, explore a few extra resources that you can check out.

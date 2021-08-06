@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Fine
+Course_ID=2824201
+Course_System=linkedin.com
+Course_Title=Software Testing Foundations: Test Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software testing is characterized by unknown issues and unpredictable results. What bugs might be discovered? What happens if the product stops working? Does the test plan cover everything? What happens if the quality team misses a critical issue? The fact is good test management can mitigate and even fix most of these concerns. This course covers the best practices and processes involved in effectively managing a quality test. Join instructor Mike Fine and learn how to prepare for testing, execute your test plan, manage the data that results, and understand the next step of the software development cycle. Whether your organization has 1,000 people working on development or just one, the techniques you learn here will help you move a new software application from a prototype to full release and ensure a quality product is delivered.

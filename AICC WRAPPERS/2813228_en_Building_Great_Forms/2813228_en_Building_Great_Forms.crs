@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emily Kay
+Course_ID=2813228
+Course_System=linkedin.com
+Course_Title=Building Great Forms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While creating forms with HTML and CSS is a core web development skill, making great forms requires a lot more than the basics. Emily Kay brings her years of experience working with customers and developers to explain how to create forms people will find useful and even enjoyable. Learn how to set up a basic form and add buttons, toggle switches, date pickers, and more. Become well-versed in form-specific CSS techniques and tricks, and add JavaScript to catapult your forms to the next level. Emily takes you through four start-to-finish projects featuring the most popular types of web forms: login, booking, payment, and search forms. Plus, learn how to incorporate accessibility and form validation and build a post-submission success page to let users know their entries have been accepted. Note: Usability and layout considerations differ based on device and platform. All of the forms built in this course work equally well on mobile devices and desktops as well as all of the modern browsers.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=149117
+Course_System=linkedin.com
+Course_Title=Web Motion: Create an Animated Banner Ad
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to create a simple web banner with motion and interactivity. This installment of Web Motion for Beginners shows you how to take a client project from concept to completion—in this case for a banner ad that invites viewers to visit Ontario, Canada. Tom Green shows how to build on an initial idea with sketches and wireframes, and create your image assets in Adobe Photoshop and Illustrator. You'll then assemble the ad in Edge Animate and create interactive buttons with the Gradient feature.

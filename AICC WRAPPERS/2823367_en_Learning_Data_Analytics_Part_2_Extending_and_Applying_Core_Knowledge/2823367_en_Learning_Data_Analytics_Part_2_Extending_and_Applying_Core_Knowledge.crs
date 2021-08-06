@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robin Hunt
+Course_ID=2823367
+Course_System=linkedin.com
+Course_Title=Learning Data Analytics Part 2: Extending and Applying Core Knowledge
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+It’s one thing to work with data. It’s another to provide quality data sets and accurate visualizations for decisions to be made. If you are considering a course emphasis or a career in data analytics, this course can help you get off to a good start. Robin Hunt, CEO and co-founder of ThinkData Solutions, shares practical skills to help you get the most from your data and jumpstart your career in data. Robin discusses business rules, filtering out the noise in the data we all deal with, and how to deliver what decision-makers want. She covers how to create data sets with queries, joins, and appends, then goes into building aggregate data with total queries. Robin goes over pivots, how to use pivots to build basic dashboards and visualizations, and how to use Power Query for data transformations. She concludes with best practices for meetings and taking your work to the next level for your organization.

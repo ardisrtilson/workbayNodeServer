@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=2811022
+Course_System=linkedin.com
+Course_Title=AutoCAD: Advanced Dynamic Blocks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Regular blocks allow you to reuse a group of objects repeatedly, thus saving time and creating consistency in your AutoCAD drawings. Dynamic blocks take that power a step further, allowing you to adjust the shape, size, or configuration of blocks as you insert them. In this course, learn how to use dynamic blocks to their full potential in AutoCAD, as well as how to create them, using advanced techniques in the Block Editor. This course teaches you the basics, from working with existing dynamic blocks to setting up custom dynamic blocks. Instructor Shaun Bryant shows how to create standard and dynamic blocks, adjust block definitions with the Block Editor, add parameters (aka rules) to control block behavior, and control the visibility of objects in dynamic blocks with visibility states.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael Lester, Human Element LLC
+Course_ID=585257
+Course_System=linkedin.com
+Course_Title=CISA Cert Prep: 1 Auditing Information Systems for IS Auditors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Earning a CISA certification validates your ability to audit, control, and monitor information systems. The CISA Cert Prep series prepares you to tackle this exam by going into each of the topics it covers, helping you acquire the skills you need to confidently manage IT security audits. In this course—the first in the series—take a deep dive into the concepts covered in the Process of Auditing Information Systems domain. Learn how to organize and plan an audit, put controls in place, and use a repeatable audit process to ensure that your results are meaningful and your audit is complete. Plus, learn about communicating results with an audit outbrief, embedding the audit function into operations, and how continuous auditing can help you identify and fix problems more effectively. Note: This series was created by Human Element, Michael Lester, Jordan Genung, and Steve Bennett.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christina Truong
+Course_ID=5025111
+Course_System=linkedin.com
+Course_Title=CSS Layouts: From Float to Flexbox and Grid
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+For decades, CSS developers fiddled with floats to create flexible layouts that worked across browsers. But their brilliant hack had a lot of downsides. The latest generation of CSS specs offers a better and vastly more intuitive set of tools, but moving from floats to Grid, Flexbox, or both means adjusting how you think. In this course, Christina Truong guides you though this process, from initial concepts to complete conversion, highlighting the different ways to create page layouts with modern CSS. Explore how to work with the display and float properties; use relative, absolute, and fixed positioning for laying out components; create basic Grid and Flexbox layouts; and more.

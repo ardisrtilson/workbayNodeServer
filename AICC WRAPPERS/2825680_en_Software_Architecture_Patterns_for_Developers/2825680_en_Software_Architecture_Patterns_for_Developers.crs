@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Peter Morlion
+Course_ID=2825680
+Course_System=linkedin.com
+Course_Title=Software Architecture: Patterns for Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+As a developer, you're ultimately building software to solve problems for your users. But a successful application also needs to be easy for you and other developers to work with. Enter software architecture patterns. These trusted solutions allow you to translate complex architectural problems to recognizable patterns. In this course, instructor Peter Morlion covers a variety of software architecture patterns, showing you how to apply the correct architecture to new systems and recognize patterns in existing systems. Peter goes over application landscape patterns such as microservices. He also covers application structure patterns like event sourcing, as well as UI patterns like model-view-controller (MVC). Along the way, he shares pros and cons that help you determine which patterns to use.

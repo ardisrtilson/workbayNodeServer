@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2849211
+Course_System=linkedin.com
+Course_Title=JNCIA (JN0-103) Cert Prep: 3 Routing Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Juniper Networks Certified Associate-Junos (JNCIA-Junos) exam certifies a network administrator's proficiency with the Junos operating system. It's the first prerequisite for advanced Juniper Networks certifications such as JNCIS, JNCIP, and JNCIE and a key competitive factor in your job search. This course teaches the concepts covered in last two exam objectives: Routing Fundamentals and Routing Policy and Firewall Filters. Learn about controlling packet transfer with routing and forwarding, configuring route preference, and using static vs. dynamic routing. Explore default routing policies on Junos, policy structure and terms, policy match, and the process for importing and exporting policies. Finally, review firewall filters, including filter match criteria, match types, and actions. Completing all three courses in the series will help prepare you to pass the related 65-question certification exam, JN0-103.

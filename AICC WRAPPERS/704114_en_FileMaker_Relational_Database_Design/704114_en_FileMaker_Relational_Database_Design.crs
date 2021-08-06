@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Cris Ippolite
+Course_ID=704114
+Course_System=linkedin.com
+Course_Title=FileMaker: Relational Database Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understanding which data tables to create and how to link them together via relationships is key to mastering the relational database capabilities of FileMaker Pro. In this course, join instructor Cris Ippolite as he shows how to translate aspects of the real world into the form and language of a relational database. Cris begins by reviewing some of the basic concepts of data modeling, introducing tables, key fields, and the relationship graph. After demonstrating how to establish relationships in a database, he discusses using these relationships in portals, in calculations, and while navigating. He also includes three practical data modeling examples to help you grasp how these concepts work in the real world. This course applies to versions of FileMaker Pro from 16 through the most current version.

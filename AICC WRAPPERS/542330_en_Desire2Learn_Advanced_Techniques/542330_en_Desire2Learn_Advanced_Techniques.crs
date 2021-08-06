@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Ackmann
+Course_ID=542330
+Course_System=linkedin.com
+Course_Title=Desire2Learn: Advanced Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Taking the time to build on your existing knowledge of Desire2Learn (D2L) can help you increase your efficiency and provide your students with a richer learning experience. In this course, discover some of the hidden gems of D2L. Explore advanced tools for managing your online course, such as using chat windows and sending automated emails. Learn about more in-depth ways to assess student learning using the platform's diagnostic and reporting tools. Discover advanced quiz question types and assessment tools like surveys and ePortfolios. Plus, check out higher-level course setup features like copying over existing courses and adding new users.

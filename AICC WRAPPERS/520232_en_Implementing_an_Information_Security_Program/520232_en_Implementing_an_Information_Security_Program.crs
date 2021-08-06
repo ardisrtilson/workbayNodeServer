@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kip Boyle
+Course_ID=520232
+Course_System=linkedin.com
+Course_Title=Implementing an Information Security Program
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building and operating an information security program at your organization can be challenging. The scope can be vast and complex. Thinking of all the ways an organization can fail and coming up with actionable measures you can take to prevent issues, mitigate risk, or recover from events is a large undertaking. In this course, Kip Boyle, president of Cyber Risk Opportunities, guides you through the entire process of creating an information security program, rolling it out to your organization, and maintaining it for continuous risk management.

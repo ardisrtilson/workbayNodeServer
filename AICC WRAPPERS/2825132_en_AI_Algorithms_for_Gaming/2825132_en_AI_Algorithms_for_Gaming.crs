@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eduardo Corpeño
+Course_ID=2825132
+Course_System=linkedin.com
+Course_Title=AI Algorithms for Gaming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In 1997, an IBM computer named Deep Blue beat Gerry Kasparov, a world chess champion, after a six-game match. While AI technology has grown in exciting, and often revolutionary, ways since Deep Blue's victory at the chessboard in the late 90s, many of the techniques it implemented are still relevant today. In this course, explore some of these techniques as you learn how to leverage key AI algorithms to create two-player, turn-based games that are challenging enough to keep players guessing. Instructor Eduardo Corpeño covers using the minimax algorithm for decision-making, the iterative deepening algorithm for making the best possible decision by a deadline, and alpha-beta pruning to improve the running time, among other clever approaches. Plus, he gives you a chance to try out these techniques yourself as he steps through the development of a cat trap game using Python.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=5035826
+Course_System=linkedin.com
+Course_Title=Building Full-Stack Apps with React and Spring
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Pairing a popular front-end framework with a full-featured back-end solution is a natural next step for developers who want to go “full stack”: building interfaces and the code that powers them. In this course, instructor Emmanuel Henri explains how to get a full-stack app up and running with React and Spring. He walks you through a complete sample project: a REST API with a form-based interface. Along the way, you can learn how to set up the project, define Spring models, create endpoints, and then build an interface from React components. Once you’ve completed the training, you can use the same techniques and technologies to build your own full-stack JavaScript and Spring applications.

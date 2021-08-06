@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=475943
+Course_System=linkedin.com
+Course_Title=AutoCAD Facilities Management: Occupancy
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Computer-aided facilities management (CAFM) is a three-step process. Once you have 1) defined the available area and 2) developed areas into usable spaces, it's time to 3) identify the people and equipment that will occupy each room. AutoCAD, Autodesk's flagship CAD platform, is the world's most popular tool for this job. Join Shaun Bryant as he shows how to use AutoCAD to specify occupancy in your CAFM drawings. He shows how to set up drawings, create occupancy blocks and polylines, define occupancy areas, set up tables to house your occupancy data, and annotate drawings with that data. By the end of the course, you'll be able to export the information to applications such as Microsoft Excel, so you can analyze the data in a tabular format.

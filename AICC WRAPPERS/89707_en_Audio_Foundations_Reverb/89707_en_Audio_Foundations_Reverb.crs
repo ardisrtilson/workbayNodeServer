@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex U. Case
+Course_ID=89707
+Course_System=linkedin.com
+Course_Title=Audio Foundations: Reverb
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This installment of Foundations of Audio explains one of the most essential ingredients in audio mixing, reverb—the time it takes for sound to bounce, echo, and decay during a live performance or recording. Reverb gives a natural richness to your recordings, which is possible to reproduce. Producer and audio engineer Alex U. Case covers the acoustic, mechanical, and digital means for creating reverb, and charts the parameters (room size, density, etc.) you'll need to know to take advantage of the original recording space and enhance it in post. He then shows how to simulate reverb digitally with effects, adding timbre, texture, and contrast, and improve the sound of your mixes with a sense of space and depth. These techniques can be practiced with the free Get in the Mix sessions, currently available for Pro Tools and Logic Pro.

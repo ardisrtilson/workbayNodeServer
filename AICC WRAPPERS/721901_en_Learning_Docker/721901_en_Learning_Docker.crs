@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Arthur Ulfeldt
+Course_ID=721901
+Course_System=linkedin.com
+Course_Title=Learning Docker
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Docker is the next step beyond virtualization. A Docker image contains everything it needs to run, independent of the Linux server on which it lives: a copy of the operating system, a database, code, configuration files, dependencies, and so on. Images can also be packaged and shared with other Docker admins. Arthur Ulfeldt uses Docker to run complex systems with millions of users and hundreds of containers. Here, he shares his knowledge with you. He introduces the basics of Docker, including its containers, Dockerfiles (or base images), and capabilities for networking, data management, infrastructure optimization, and more. Watch and learn how to build your own containers, as well as how to network and link containers.

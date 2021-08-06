@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brandon Rich
+Course_ID=616728
+Course_System=linkedin.com
+Course_Title=AWS: Storage and Data Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services offers solutions that are ideal for managing data on a sliding scale—from small businesses to big data applications. This course teaches system administrators the intermediate-level skills they need to successfully manage data in the cloud with AWS: configuring storage, creating backups, enforcing compliance requirements, and managing the disaster recovery process. The training can also be used as preparation for the Data Management domain within the AWS Certified SysOps Administrator exam. Join AWS architect Brandon Rich and learn how to configure object storage solutions and lifecycle management in Simple Storage Service (S3), a web service offered by AWS, and migrate, back up, and replicate relational data in RDS. Find out how to leverage flexible network storage with Elastic File System (EFS), and use the new AWS Glue service to move and transform data. Plus, learn how Snowball can help you transfer truckloads of data in and out of the cloud.

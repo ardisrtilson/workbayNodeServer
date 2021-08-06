@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=667382
+Course_System=linkedin.com
+Course_Title=Windows Server 2016: Active Directory Federation Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In today's complex computing environment, data is often shared across organizations and domains. How do you verify user identity across boundaries like these? Active Directory Federation Services (AD FS) provides a single sign-on solution for Windows-based networks that need to access external applications or share resources with business partners. This course shows how to configure AD FS authentication, including multi-factor authentication and Web Application Proxy, in Windows Server 2016. Instructor Scott Burrell also shows how to configure claims-based authentication, look up user identities in an LDAP directory, integrate Azure and Office 365, register mobile devices, and protect your organization from document leaks and other content theft with Active Directory Rights Management.

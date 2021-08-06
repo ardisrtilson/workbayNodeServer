@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=5010654
+Course_System=linkedin.com
+Course_Title=Learning Tor and the Dark Web
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The dark web—a bastion of encrypted websites that can be visited and hosted anonymously—is home to criminals and privacy-minded citizens alike. In this course, learn about the social and technical underpinnings of the dark web, as well as how you can access and host websites that are hidden from prying eyes. Instructor Mike Chapple provides some history on the dark web and the Tor Browser, the basic software needed to access the dark web and browse the internet anonymously. He then goes over the basics of encryption and shines a light on the technical aspects of the Tor network, as well as how to use it to browse the standard Internet anonymously. Plus, get briefed on the potential vulnerabilities that users of anonymized networks should watch out for.

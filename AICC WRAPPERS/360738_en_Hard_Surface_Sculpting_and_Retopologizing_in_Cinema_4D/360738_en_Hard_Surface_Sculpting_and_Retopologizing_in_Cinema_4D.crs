@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Trachtenberg
+Course_ID=360738
+Course_System=linkedin.com
+Course_Title=Hard Surface Sculpting and Retopologizing in Cinema 4D
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using CINEMA 4D's sculpting tools, you can create hard surface models without the constraints imposed by traditional polygon and NURBS modeling techniques. Then you can retopologize your sculpt to produce a lighter model more suitable for complex scenes and animation. Your sculpted model becomes, in essence, a frame around which you can build a well-constructed polygon model. In this course, modeling expert Adam Trachtenberg shows viewers how to use the sculpting tools in C4D to create a hard surface model, retopologize the sculpted model, return to sculpting mode to add fine details, and generate texture maps that approximate the illusion of detail—without the weight of polygons. He demonstrates the steps using a fantasy spaceship model, the kind you'd see in professional video games, television, or feature films. Watch and learn how to use these techniques to build your own.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Porter
+Course_ID=485806
+Course_System=linkedin.com
+Course_Title=Sculpting a Game Environment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how game artists work with a variety of software to create assets used in real-world games, while you sculpt a unique environment of your very own. Mike Porter is a 20-year veteran of the game industry, with stints at Microsoft and Super X Studios, where he worked on properties such as Counter-Strike: Condition Zero and Halo 3. Get an inside look at his development process, as he leads you through the process of designing in Photoshop, modeling and sculpting in ZBrush, and rendering assets for placement in a game engine like Unreal. The end result is a simple vertical slice of a game environment, but the ultimate goal is to show new and intermediate game artists how concepts are evolved over time, what pitfalls to avoid, and how to integrate new techniques into an existing workflow.

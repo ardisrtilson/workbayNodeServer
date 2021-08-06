@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alex Banks
+Course_ID=661808
+Course_System=linkedin.com
+Course_Title=Advanced Node.js
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn advanced techniques for asynchronous programming and data streaming in Node.js. In this course, instructor Alex Banks shows how to use asynchronous patterns such as callbacks, promises, and async/await to manage processes and enforce sequential, parallel, and concurrent execution. He then reviews streams, a critical feature for reading and writing data from Node applications. He introduces the four different types of streams—readable, writeable, duplex, and transform—and shows how to minimize backpressure, or buildup, in data transmission. In the final section, Alex shows how to combine the techniques and build an HTTP server for streaming video over the web. Learn how to ensure the stream is cross-browser compatible and collect multipart/form-data, such as text data and files, from the upload stream. By the end of the course, you'll have a powerful new toolset for building advanced, enterprise-scale applications with Node.js.

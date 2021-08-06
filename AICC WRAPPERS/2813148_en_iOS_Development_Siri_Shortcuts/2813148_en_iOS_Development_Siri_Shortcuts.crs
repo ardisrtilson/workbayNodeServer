@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mohammad Azam
+Course_ID=2813148
+Course_System=linkedin.com
+Course_Title=iOS Development: Siri Shortcuts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Siri Shortcuts—which debuted with the release of iOS 12—helps users streamline their workflow by automating common tasks. It also leverages the power of machine learning to predict shortcuts based on a user's recurring actions in different apps. Curious about how to implement Siri Shortcuts in your development workflow? In this course, Mohammad Azam helps you get up and running with this iOS feature, explaining how to implement Siri Shortcuts using NSUserActivity, as well as by creating custom intents. He shows how to add Siri Shortcuts to an existing application, use custom responses to enhance interactions with users, add Siri voice shortcuts, and more.

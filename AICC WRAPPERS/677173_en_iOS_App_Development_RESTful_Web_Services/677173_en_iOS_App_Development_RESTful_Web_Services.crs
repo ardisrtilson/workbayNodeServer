@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=677173
+Course_System=linkedin.com
+Course_Title=iOS App Development: RESTful Web Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Review the key concepts you need to know to create queries to a RESTful JSON server API. Learn the core fundamentals for creating a request, and review how to do the standard operations on server-side data: create, read, update, and delete (CRUD). Discover how to parse JSON data directly into object instances with the Codable protocol. Plus, learn about more advanced uses of the Codable protocol, including how to implement manual decoding of data.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Marc de Vinck
+Course_ID=2849038
+Course_System=linkedin.com
+Course_Title=Learning Soldering for Electronics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In an electronic product such as a cell phone, toy, or automobile, electronic components are attached using solder, a metal compound that melts at a low-enough temperature to be able to be worked by hand or machine. Whether you are prototyping a new product, manufacturing a product at scale, or working on a project in your spare time, you will need to learn how to solder in order to create the electrical and mechanical connections that make it all work. In this course, learn about the tools and techniques needed to make great solder connections. Plus, get troubleshooting tips, including how to fix a cold solder joint and repair a mistake in a PCB.

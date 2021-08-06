@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mike Chapple
+Course_ID=2813187
+Course_System=linkedin.com
+Course_Title=CCSP Cert Prep: 5 Cloud Security Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The omnipresence of cloud computing in the business world has created a high demand for cybersecurity professionals with cloud expertise. Earning the Certified Cloud Security Professional (CCSP) certification demonstrates that you have the skills needed to help businesses secure information and systems that used to live on site. In this course, learn how security operations function in the world of cloud computing as you prepare for the Certified Cloud Security Professional (CCSP) exam. This course covers the fifth domain of that exam: Cloud Security Operations. Mike Chapple demonstrates how to build, operate, and manage the physical and logical infrastructure required to support cloud computing. Plus, learn about digital forensics and the incident response process. Note: This course is designed to cover the most recent version of the CCSP exam, released in August 2019.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=693102
+Course_System=linkedin.com
+Course_Title=Running Microsoft Workloads on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Amazon Web Services (AWS) has been running Microsoft workloads-the majority of workloads for enterprise customers-since 2006. This course provides guidance for successfully running Microsoft workloads after a migration to the Amazon cloud. Instructor Brien Posey teaches you how to create Windows EC2 instances, creating a native cloud-based Active Directory environment, join an instance to a Cloud AD, and manage resources with Amazon Lightsail.

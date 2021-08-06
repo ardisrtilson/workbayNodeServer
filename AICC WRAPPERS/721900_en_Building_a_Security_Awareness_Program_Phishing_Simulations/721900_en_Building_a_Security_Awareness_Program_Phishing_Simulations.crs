@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lauren Zink
+Course_ID=721900
+Course_System=linkedin.com
+Course_Title=Building a Security Awareness Program: Phishing Simulations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Security awareness training is essential for any enterprise. But how do you keep employees alert to ever-evolving threats like phishing? In this course, Lauren Zink explores one popular method of raising security awareness: conducting phishing simulations. Whether you have a training program in place or you are trying to start one, this course provides guidance on building tests that can help employees understand the social engineering techniques that hackers use to get them to reveal credentials and proprietary data. Learn how to test your employees by writing realistic phishing emails and use metrics and feedback from the test to grow the program. Lauren explains exactly how to plan, execute, and conclude your test and how to make it a beneficial learning experience for you and your employees.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=William Carney
+Course_ID=642470
+Course_System=linkedin.com
+Course_Title=Revit and Dynamo for Interior Design
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Autodesk Dynamo helps users overcome many of the design challenges they face in Revit. Using Dynamo, interior designers can create visual logic to approach their modeling challenges in smarter, more efficient ways. This course shows how to use different Revit features—and automated assistance from Dynamo—to streamline the design and documentation process in Revit. Explore key Dynamo concepts, including how to place families and combine parameter information. In addition, discover how to model walls and floors, create a graphic finish legend, and synchronize modeled information with the room finish schedule.

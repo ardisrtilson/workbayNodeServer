@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Pete Zerger
+Course_ID=2848079
+Course_System=linkedin.com
+Course_Title=Microsoft Azure Security Technologies (AZ-500) Cert Prep: 1 Manage Identity and Access
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Cybersecurity skills are in high demand, and the Microsoft Azure Security Technologies (AZ-500) exam is the perfect opportunity for IT professionals to demonstrate their skills to current and future employers. This course prepares certification candidates to excel in the Manage Identity and Access domain of the AZ-500 exam. Microsoft MVP Pete Zerger has designed lectures and hands-on demos to teach the key skills, including configuring and managing app registrations, enabling multi-factor authentication, configuring conditional auth controls, and implementing Privileged Identity Management (PIM) for just-in-time access. Plus, learn how to manage API and subscription-level access, balancing programmatic access and automation with security.

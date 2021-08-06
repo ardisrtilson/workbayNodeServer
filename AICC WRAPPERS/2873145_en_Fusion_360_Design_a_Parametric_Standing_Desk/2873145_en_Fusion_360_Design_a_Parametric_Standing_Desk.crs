@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Product Design Online
+Course_ID=2873145
+Course_System=linkedin.com
+Course_Title=Fusion 360: Design a Parametric Standing Desk
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fusion 360 is a unique CAD and CAM package for product design. In this course, product designer Kevin Kennedy showcases the unique abilities of Fusion 360 to design a piece of furniture and teaches how to create parametric designs that can be driven with dimensions and constraints. Kevin first shows how to fully define sketches as the building block for parametric design. He then covers how to assemble parts in their correct position with the use of joints. Along the way, Kevin goes over best practices and additional considerations you need to make when designing. By the end of the course, you’ll have the knowledge to set up models that can adapt to changes in requirements or user needs.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Christiansen
+Course_ID=114911
+Course_System=linkedin.com
+Course_Title=After Effects Compositing: 6 Tracking and Stabilization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Tracking is one of the most powerful ways to make your After Effects work more sophisticated, and one of the hardest to get right. The human eye has an uncanny ability to sense the accuracy of motion. But once you learn to take advantage of the automated 3D tracker, automated motion stabilizer, and 2D point tracker in After Effects—as well as third-party scripts and planar tracking with mocha—a world of possibilities is opened. Here, Mark Christiansen shows how to use the five different After Effects trackers, customizing them to work best in the situations that motion graphics artists encounter most often. He covers the fundamentals, as well as opportunities to think outside the box, especially when an automated approach won't work.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shonna Smith
+Course_ID=765402
+Course_System=linkedin.com
+Course_Title=Building Real-Time Web Apps with Spring Boot and WebSockets
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Nearly all of today's most popular chat apps and collaboration platforms offer immediate feedback, allowing users to exchange instant messages and see when their peers are typing responses. If you're looking to get up to speed on real-time app development for work—or you just want to diversify your development repertoire—then this course can help. Join Shonna Smith as she shows how to build upon your existing enterprise Java development skill set to develop a real-time web app with the Spring framework and WebSocket API. As she walks through how to build a chat app, Shonna goes over the design elements specific to real-time web apps, as well as how to develop and test the server-side and client-side components.

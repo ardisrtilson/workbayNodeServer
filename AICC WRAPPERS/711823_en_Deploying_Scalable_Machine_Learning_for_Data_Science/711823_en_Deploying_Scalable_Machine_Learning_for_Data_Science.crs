@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dan Sullivan
+Course_ID=711823
+Course_System=linkedin.com
+Course_Title=Deploying Scalable Machine Learning for Data Science
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Machine learning models often run in complex production environments that can adapt to the ebb and flow of big data. The tools and practices that help data scientists rapidly build machine learning models are not sufficient to deploy those models at scale. To deliver scalable solutions, you need a whole new toolset. This course provides data scientists and DevOps engineers with an overview of common design patterns for scalable machine learning architectures, as well as tools for deploying and maintaining machine learning models in production. Instructor Dan Sullivan reviews three technologies that enable scalable machine learning: services that expose models through APIs, containers for deploying models, and orchestration tools like Kubernetes that help manage containers and clusters. Plus, get tips for monitoring the performance of your services in production environments.

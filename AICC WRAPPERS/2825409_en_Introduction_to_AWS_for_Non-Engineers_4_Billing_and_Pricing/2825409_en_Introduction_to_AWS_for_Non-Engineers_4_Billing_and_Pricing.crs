@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Hiroko Nishimura
+Course_ID=2825409
+Course_System=linkedin.com
+Course_Title=Introduction to AWS for Non-Engineers: 4 Billing and Pricing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Curious about the price tag associated with moving your data center to the cloud? In this course—the fourth installment in the Introduction to AWS for Non-Engineers series—get a nontechnical overview of billing, pricing, and support plans in Amazon Web Services (AWS). Instructor Hiroko Nishimura—founder of Intro to AWS for Newbies—provides an overview of the Billing and Cost Management dashboard, which provides an at-a-glance look at all your monthly charges, alerts, and service usages. She then details the different types of charges you may incur; shares tools that you can use to keep costs down; and covers the different support plans offered by AWS. Note: This course also maps to the fourth domain of the AWS Certified Cloud Practitioner exam. Taking all four courses in the Introduction to AWS for Non-Engineers series will help you prepare for the exam.

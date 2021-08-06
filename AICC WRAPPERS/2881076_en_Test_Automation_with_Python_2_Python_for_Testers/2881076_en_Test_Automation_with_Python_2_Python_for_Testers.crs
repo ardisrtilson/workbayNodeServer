@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=HeadSpin University
+Course_ID=2881076
+Course_System=linkedin.com
+Course_Title=Test Automation with Python: 2 Python for Testers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+This second course in the Test Automation with Python series focuses on writing code to automate software testing. As opposed to no-code tests where you record your actions in an app for later playback, writing code for automation gives you more flexibility in many cases, such as when a small change to the app causes the testing process to change. This course also explains the choice of Python as the programming language. While Java is probably the most popular language used with Selenium and Appium, it can lead to unnecessary complexity and confusion unless you know it well. Python, meanwhile, is powerful, simple, and expressive, and in some ways is more flexible in terms of executing UI test automation. This course walks you through the entire process, from installing Python, to writing your first script, all the way through completion, testing, and troubleshooting your code. Note: This course was created by HeadSpin University. We are pleased to host this training in our library.

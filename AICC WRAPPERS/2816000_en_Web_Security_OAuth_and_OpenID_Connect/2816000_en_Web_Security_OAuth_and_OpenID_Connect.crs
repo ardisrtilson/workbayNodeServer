@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Keith Casey
+Course_ID=2816000
+Course_System=linkedin.com
+Course_Title=Web Security: OAuth and OpenID Connect
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While many technical professionals claim to know and understand OAuth, reality often suggests otherwise. Implementing the proper grant types and the required flows while securely protecting your secrets is challenging at best and catastrophic at worst. Fundamentally, professionals often struggle with OAuth because they misunderstand what it is, what use cases it is particularly good and bad at, and how to integrate it smoothly and safely into their systems. In this course, Keith Casey reviews the basics of OAuth 2.0 and OpenID Connect and shows how to use them to authenticate your applications. He covers tokens and scopes; designing and building the key flows; common security considerations; and more.

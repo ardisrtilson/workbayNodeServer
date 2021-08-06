@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=2851014
+Course_System=linkedin.com
+Course_Title=Unreal Engine Blueprint Interaction for ArchViz Projects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Architectural visualization renderings allow designers to create amazingly detailed virtual building models, and make the designer-client interaction much easier than in the days of hand-drawn designs. As technology catches up with imagination, it’s now possible to generate extremely detailed interactive architectural visualizations, creating a more engaging experience than just watching a video or flicking through still image renders. In this course, Joel Bradley walks you through the creation of four key types of interactions that will give arch viz artists a wide range of options on their next project. Through the creation of interactive items like computer monitors, swinging doors, and functioning light switches, Joel illustrates how adding interactive behaviors can give a client presentation a sense of immersion that helps the project move smoothly through the design phase.

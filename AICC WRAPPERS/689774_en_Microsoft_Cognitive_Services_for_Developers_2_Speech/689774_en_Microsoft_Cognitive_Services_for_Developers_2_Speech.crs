@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sahil Malik
+Course_ID=689774
+Course_System=linkedin.com
+Course_Title=Microsoft Cognitive Services for Developers: 2 Speech
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Cognitive Services opens up artificial intelligence to every developer. Cognitive Services gives us access to powerful AI algorithms that allow our apps to hear, speak, identify, and interpret information using natural methods of communication. This course explores the speech APIs, which are responsible for text translation, text to speech, and speaker recognition. Instructor Sahil Malik shows you how to configure Cognitive Services and use the speech capabilities to translate text, convert text to speech and speech to text, and identify and authenticate multiple speakers. Along the way, he covers various APIs, including Translate Text, Bing Speech, and Speaker Recognition.

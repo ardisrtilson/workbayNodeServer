@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=517444
+Course_System=linkedin.com
+Course_Title=Linux: System Information and Directory Structure Tools
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Managing the Linux operating system can be a complex task. In this course, instructor and Linux enthusiast Grant McWilliams dives into the Linux directory structure and provides you with a primer on basic tools and command-line text editing. He covers querying the operating system for hardware, OS, and user information. He explains how to identify directories, discover each directory's purpose, and how to navigate and search the Linux filesystem using commands. Plus, find out how to archive and compress files using gzip, tar, and other tools, and edit files using Vim and nano text editors.

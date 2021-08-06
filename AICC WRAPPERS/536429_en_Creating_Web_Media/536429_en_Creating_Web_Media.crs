@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=536429
+Course_System=linkedin.com
+Course_Title=Creating Web Media
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+High-quality media is a must for any website. But to keep visitors happy, it has to load fast and look great. Web developers need to be able to balance quality and performance for all types, including graphics, animation, video, and audio. Creating Web Media is a series that will help you create, optimize, and implement media in the most modern way possible. Follow along with Chris Converse to learn new ways to integrate bitmap and vector graphics (including SVG), audio and video, and feeds from social media and streaming video sites into your sites, using CSS, HTML, and JavaScript.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=580647
+Course_System=linkedin.com
+Course_Title=C# File System Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You may often need to access the underlying file system within your C# application. In this course, discover how to work with .NET System.IO classes for accessing the file system. Instructor Jesse Freeman shows how to create, delete, and move folders using the Directory class, as well as how to create, read, copy, edit, and move config files. Plus, he explains how to protect your file system, and organize your file access logic by abstracting out your file system API calls into a single class.

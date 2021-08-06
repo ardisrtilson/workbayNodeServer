@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Nick Brazzi
+Course_ID=2849191
+Course_System=linkedin.com
+Course_Title=Microsoft Teams: Working with External Guests
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You can use the communication and collaboration features of Microsoft Teams with anyone, whether or not they’re inside your organization. Working with external users can be tricky, but in this course, instructor Nick Brazzi covers all the bases. Nick clearly defines what a guest user is and how to invite one to join your organization. He shows how a guest user accepts an invitation, sets up a Microsoft account, and signs into Teams as a guest. He explains limitations for guest users and shows you how to identify them in Team conversations and meetings. Nick teaches you how to invite guest users to meetings and how to join or start a meeting as a guest user. In conclusion, he shows you how to remove guests from a team and from a Microsoft 365 organization.

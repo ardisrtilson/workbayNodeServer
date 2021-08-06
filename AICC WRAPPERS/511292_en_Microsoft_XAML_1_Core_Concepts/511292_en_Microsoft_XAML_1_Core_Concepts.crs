@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Walt Ritscher
+Course_ID=511292
+Course_System=linkedin.com
+Course_Title=Microsoft XAML: 1 Core Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+What is XAML? XAML is one of the primary languages used to create user interfaces for .NET and Windows apps. This course, part one in our XAML series, provides an overview of the what, when, and how of XAML for the Microsoft developer who wants to build better user interfaces for their applications. Learn why markup is so important in UI definition, which frameworks use XAML, and how to identify parts of a XAML file. Author Walt Ritscher shares his preferred settings for working with XAML in Visual Studio 2015, explores XAML namespaces and namespace mapping, and discusses the use of XAML in other popular frameworks, including Windows Presentation Foundations, Universal Windows, and Silverlight.

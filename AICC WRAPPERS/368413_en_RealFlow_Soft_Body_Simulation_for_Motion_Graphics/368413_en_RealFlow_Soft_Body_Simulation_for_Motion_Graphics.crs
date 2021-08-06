@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ran Ben Avraham
+Course_ID=368413
+Course_System=linkedin.com
+Course_Title=RealFlow: Soft Body Simulation for Motion Graphics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to simulate soft bodies in a physically accurate way with RealFlow. Soft bodies are a great way to model soft, malleable surfaces, especially ones that collide with other objects. In this tutorial, working along with author Ran Ben Avraham, you'll concentrate on RealFlow's soft bodies dynamics system, while following a realistic production workflow pipeline. After identifying an initial design concept (a logo bouncing on a trampoline), the course takes you through importing the geometry for the scene, setting up your dynamics properties and scale, simulating and animating the soft bodies, and rendering and compositing the finished video with Maya and After Effects. Ran also covers creating multiple simulations and slow-motion simulations from the same RealFlow scene. Note this is a project-based learning experience, designed for members who are already familiar with RealFlow. Each step of the process is rich with lessons applicable to the variations that motion design artists will face in the real world.

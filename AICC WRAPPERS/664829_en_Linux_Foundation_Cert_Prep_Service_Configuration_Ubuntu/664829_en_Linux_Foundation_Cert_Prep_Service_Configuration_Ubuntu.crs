@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=664829
+Course_System=linkedin.com
+Course_Title=Linux Foundation Cert Prep: Service Configuration (Ubuntu)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+LFCS is one of the most popular Linux certifications. This course maps to the portion of the LFCS exam covering services: the super useful and dependable programs that provide system logging, web hosting, and more. Instructor Scott Simpson shows how to manage how services run on Linux, and how to set up the most common and popular services: web servers, Secure Shell, databases, time synchronization, and remote logging. Plus, learn how to secure services at the host or user level, to keep your Linux system safe from attacks and data breaches.

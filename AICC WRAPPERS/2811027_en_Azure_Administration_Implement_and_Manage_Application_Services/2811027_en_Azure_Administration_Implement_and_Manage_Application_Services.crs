@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiago Costa
+Course_ID=2811027
+Course_System=linkedin.com
+Course_Title=Azure Administration: Implement and Manage Application Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Azure App Service allows to host your web and API apps and provides an amazing set of features, including security, load balancing, autoscaling, automated management, and DevOps optimization. In this course, instructor Tiago Costa offers an introduction to App Service, covering the benefits, available plans, and features for building scalable solutions that can be deployed worldwide. He provides guidance on developing Azure web apps; instruction for managing and deploying app services with ARM templates, Azure DevOps, and GitHub; and explores essential security topics, such as authentication, backups, and monitoring. Plus, learn about advanced topics such as deployment slots, containers, and global distribution with Azure Content Delivery Network (CDN) and Traffic Manager. This course is an ideal deep dive for Azure admins and DevOps professionals wishing to understand more about how to use Azure App Service—as well as anyone wishing to advance their App Service skills in preparation for the AZ-103 Azure Admin exam.

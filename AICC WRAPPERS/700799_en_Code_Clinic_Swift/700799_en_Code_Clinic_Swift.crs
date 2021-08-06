@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Todd Perkins
+Course_ID=700799
+Course_System=linkedin.com
+Course_Title=Code Clinic: Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Practice coding with Swift, the programming language for iOS and Mac. Code Clinic is a series of courses that solve the same problems using different programming languages. It gives developers a chance to experiment with new platforms and compare their strengths. In this course, Todd Perkins takes you through six different challenges and provides an overview of his solutions in Swift. Challenges cover topics such as statistical analysis, geolocation, facial recognition, and accessing peripheral devices. Each lesson provides practical skills, valuable design patterns, and code snippets you can use in your own projects. Visit other courses in the series to see how to solve the exact same challenges in languages like C#, C++, Java, PHP, Python, and Ruby.

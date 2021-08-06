@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Advent
+Course_ID=2841535
+Course_System=linkedin.com
+Course_Title=Building an App for All Apple Platforms
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Each Apple platform—macOS, iOS, iPadOS, watchOS and tvOS—offers individual capabilities and user experience, yet also integrates tightly to provide a unified feel. In this project-based course, learn how to build an app that will not only run seamlessly across all Apple platforms, but also fit the specific function and UX of each device. In a sample project, discover how to set up a multiplatform template and build user interfaces leveraging a single set of tools and APIs. Consider different navigation requirements for iPhone, iPad, and Mac, and explore the design principles particular to each one. Plus, discover how to write platform-specific and independent code.

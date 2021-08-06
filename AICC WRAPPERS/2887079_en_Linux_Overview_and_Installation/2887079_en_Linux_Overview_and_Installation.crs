@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Grant McWilliams
+Course_ID=2887079
+Course_System=linkedin.com
+Course_Title=Linux: Overview and Installation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Linux is a term that we are hearing more often lately, but what is it? In this course, instructor Grant McWilliams explains what Linux is and how it differs from other operating systems, then walks through how to install it to a virtual machine and use it. Grant tells you about Linux and its history and gives you an overview of the versions—called distributions—of Linux that are available. He goes over virtualization, including how to install VirtualBox and create a virtual machine in VirtualBox. Once you’ve created and optimized your virtual machine, Grant steps through installing and configuring Enterprise Linux, including the GNOME 3 desktop. He concludes with useful advice on how you can install popular software from third-party repositories in Linux and how you can customize your GNOME 3 desktop.

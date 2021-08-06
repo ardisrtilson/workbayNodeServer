@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=622079
+Course_System=linkedin.com
+Course_Title=Exchange 2016: Compliance, Archiving, eDiscovery, and Auditing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Although much of modern business communication is conducted through email, many professionals are still unsure about how to properly secure these critical messages. In this course, learn how to work with features that can help maintain the security of your organization's emails. This course maps to the fifth domain of Exam 70-345, Designing and Deploying Microsoft Exchange Server 2016—Plan, deploy, and manage compliance, archiving, eDiscovery, and auditing. Join Scott Burrell as he covers data loss prevention solutions, planning and configuring retention policies, and how to search mailboxes in the situation of legal discovery. Plus, he goes into other features—such as MailTips and transport rules—that can help users make more informed choices as they write emails.

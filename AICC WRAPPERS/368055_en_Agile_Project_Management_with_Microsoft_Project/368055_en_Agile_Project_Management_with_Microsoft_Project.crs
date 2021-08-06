@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bonnie Biafore
+Course_ID=368055
+Course_System=linkedin.com
+Course_Title=Agile Project Management with Microsoft Project
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Microsoft Project to manage agile projects. Bonnie Biafore covers setting up agile projects for success, creating custom fields to track elements unique to the agile project method, such as features and sprints, and managing and updating agile task lists as work is completed. She also shows how to manage traditionally scheduled tasks and agile work side by side, track agile project progress, generate burndown reports, and determine your team's velocity. Plus, learn about the agile tools that are built into the Project Online desktop client.

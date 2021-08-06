@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2830015
+Course_System=linkedin.com
+Course_Title=Learning Windows Admin Center
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Windows Admin Center, a locally deployed browser-based app, to manage PCs, servers, clients, virtual machines, clusters, and hyper-converged infrastructure. This course shows how to install and use Windows Admin Center to perform system administration from any location with an internet connection. Robert McMillen provides a tour of the interface and demonstrates how to complete common tasks. He covers firewall and DNS setup, server administration, client management, Azure resource management, cluster management, and more.

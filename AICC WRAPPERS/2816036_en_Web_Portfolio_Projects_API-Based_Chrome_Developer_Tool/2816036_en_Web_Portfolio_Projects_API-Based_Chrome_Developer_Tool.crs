@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Leigh Lawhon
+Course_ID=2816036
+Course_System=linkedin.com
+Course_Title=Web Portfolio Projects: API-Based Chrome Developer Tool
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building web applications on APIs has become more and more standard, but it remains a difficult skill to master for developers. Working with the intricate connections of API-based applications can be challenging; however, you can build a developer tool, built into your browser, that communicates with web content and shows your skills to prospective employers. In this course, instructor Leigh Lawhon helps you combine two critical skills: APIs calls and developer tool creation. Using practical examples, Leigh demonstrates how to build a Chrome Developer Tool (DevTool) that interacts with the GitKraken Glo Board API. Along the way, she steps through the basics of working with APIs, how to authenticate using personal access tokens, and how to use Fetch and Promises to get data from the Glo Board API.

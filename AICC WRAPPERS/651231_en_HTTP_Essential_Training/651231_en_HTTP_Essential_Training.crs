@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=651231
+Course_System=linkedin.com
+Course_Title=HTTP Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Hypertext Transfer Protocol (HTTP) is one of the most utilized protocols on the internet. In this course, instructor Morten Rand-Hendriksen helps you bolster your understanding of how HTTP works by reviewing fundamental concepts. He begins by explaining what HTTP is, and then covers key terminology and the HTTP flow. He then discusses the request/response pair, HTTP methods, and status messages. To wrap up, he goes over HTTP headers, explaining what they are and how to see them.

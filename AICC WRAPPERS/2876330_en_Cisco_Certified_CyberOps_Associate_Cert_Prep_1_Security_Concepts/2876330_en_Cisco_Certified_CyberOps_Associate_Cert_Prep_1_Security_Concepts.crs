@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=2876330
+Course_System=linkedin.com
+Course_Title=Cisco Certified CyberOps Associate Cert Prep: 1 Security Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, instructor Lisa Bock helps you prepare for the Cisco CBROPS exam. Lisa covers the principles of a defense-in-depth strategy, to ensure the confidentiality, availability, and integrity of a system. Lisa outlines today’s threats and threat actors, and explores the relationship between risk, threat, vulnerability, and exploit. She helps you understand the metrics that make up the Common Vulnerability Scoring System. She reviews access control models and stresses the importance of employing the principle of least privilege. Lisa covers the challenges of complex environments in monitoring traffic and describes how using SIEM, SOAR, and log management helps consolidate information. She summarizes security deployments, such as network and endpoint systems. Lisa compares anti-malware applications, outlines the benefits of using threat intelligence, and concludes by describing methods you can use to manage risks and prevent data loss.

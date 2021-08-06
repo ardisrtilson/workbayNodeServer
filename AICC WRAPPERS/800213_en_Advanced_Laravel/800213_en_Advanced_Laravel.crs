@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Yost
+Course_ID=800213
+Course_System=linkedin.com
+Course_Title=Advanced Laravel
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Laravel is one of today's most popular PHP frameworks for building elegant applications. In this course, learn how to get the most out of Laravel when working with controllers, routes, views, and the Eloquent ORM. Instructor Justin Yost steps through how to build a new Laravel application, exploring a variety of features along the way that you can leverage to work smarter with the framework. Get advanced tips for iterating a collection, working with the Blade templating engine, building middleware, and more.

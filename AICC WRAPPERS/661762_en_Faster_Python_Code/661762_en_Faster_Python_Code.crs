@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Miki Tebeka
+Course_ID=661762
+Course_System=linkedin.com
+Course_Title=Faster Python Code
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By optimizing your Python code, you can ensure that your code uses fewer resources and runs faster than it did previously. In this advanced course, explore tips and techniques that can help you optimize your code to make it more efficient. Instructor Miki Tebeka covers general tools of the trade, including how to leverage the tools Python provides for measuring time, and how to use line_profiler to get line-by-line profiling information. Miki also shares how to pick the right data structures, how approximation algorithms can speed up your code, and how to use NumPy for fast numeric computation. He wraps up the course with a discussion of how to integrate performance in your process.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dennis Taylor
+Course_ID=728368
+Course_System=linkedin.com
+Course_Title=Excel 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Start mastering Excel, the world-renowned powerful spreadsheet program, with Excel expert Dennis Taylor. Learn how to enter data, organize data, perform calculations with simple functions, work with multiple worksheets, format the appearance of data and cells, build charts, and create PivotTables. Find out how to use the IF, VLOOKUP, and COUNTIF family of functions. See how to use data analysis tools, including Goal Seek and Solver. Discover how to automate tasks with macros, manage data, and more.

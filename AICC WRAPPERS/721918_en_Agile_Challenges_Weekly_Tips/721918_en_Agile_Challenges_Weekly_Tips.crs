@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kelley O'Connell
+Course_ID=721918
+Course_System=linkedin.com
+Course_Title=Agile Challenges Weekly Tips
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are many resources for getting started with agile, but few for troubleshooting when agile goes wrong. This series helps you identify and resolve common issues that project teams face when practicing agile. Certified ScrumMaster and agile coach Kelly O'Connell covers challenges such as team dysfunction, siloed activity, misaligned sprint commitments, and lack of training. Her tips address the problems that aren't covered in most agile courses, and give you innovative solutions to help lead your agile team through challenges on the way to success.

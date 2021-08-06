@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ketkee Aryamane
+Course_ID=2876073
+Course_System=linkedin.com
+Course_Title=Building Java Microservices with gRPC
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Given the increasing trend toward microservices architecture, more and more businesses are adopting gRPC, which helps developers build scalable microservices with a low latency and higher throughput. In this course, Ketkee Aryamane covers the fundamentals of gRPC and its key features. Ketkee starts with the basic theory behind RPC and the HTTP/2 protocol, then shows how to build two gRPC services in Java from scratch using protocol buffers, and connects those services with each other using gRPC. She also covers how to generate clients that can invoke those services. If you’re a developer looking for new ways of developing web services, following along with Ketkee as she builds microservices from scratch is a great way to learn new concepts, while also seeing these concepts put to practical use.

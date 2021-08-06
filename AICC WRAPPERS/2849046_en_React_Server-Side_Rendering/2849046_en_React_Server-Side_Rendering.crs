@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Emmanuel Henri
+Course_ID=2849046
+Course_System=linkedin.com
+Course_Title=React: Server-Side Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Server-side rendering lets you optimize your applications to use client or server resources depending on network and device circumstances. Old device on a slow network? Render on the server. New device, fast network? You should probably let the client do the work. Some call the resulting architecture universal, others isomorphic, but the results are smooth. Learn about implementing server-side rendering, or SSR, in your React projects. Emmanuel Henri shows how to set up an SSR project with React and Next.js, add a centralized store with Redux, and configure custom routes with Express and Next.js. He wraps up the course with a discussion of code splitting, which can improve application performance.

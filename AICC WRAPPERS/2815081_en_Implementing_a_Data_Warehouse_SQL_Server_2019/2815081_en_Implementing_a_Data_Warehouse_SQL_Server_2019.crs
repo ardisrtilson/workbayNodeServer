@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2815081
+Course_System=linkedin.com
+Course_Title=Implementing a Data Warehouse SQL Server 2019
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Dimensional models like data warehouses can provide a more accessible and consistent form of data storage than relational databases. You can consolidate data from multiple sources into a single repository for business intelligence, analysis, and reporting. This course explains how to create a long-term data storage solution using local SQL Server instances and Azure SQL Data Warehouse. Instructor Adam Wilbert shows how to build a data warehouse from the ground up, starting with the tables and views; establish control flow; enforce data quality; and use your data in services such as SQL Server Reporting Services and Power BI. By the end of the course, you will be able to implement a robust, custom solution to serve all your organization’s business intelligence, reporting, and analysis needs.

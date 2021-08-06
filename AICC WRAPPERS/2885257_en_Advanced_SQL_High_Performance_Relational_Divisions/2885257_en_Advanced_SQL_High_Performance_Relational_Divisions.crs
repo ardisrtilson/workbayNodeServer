@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ami Levin
+Course_ID=2885257
+Course_System=linkedin.com
+Course_Title=Advanced SQL: High Performance Relational Divisions
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, Ami Levin continues his Advanced SQL series with a new installment focused on conquering relational division challenges. As Ami points out, you’ve probably encountered relational division before, even if you’re unfamiliar with the term. Ami therefore starts with a background of relational division, including how relational algebra and the Cartesian product fit in to the picture. He then dives into SQL and shows the challenging aspects of relational division and three different techniques to solve them, highlighting the pros and cons of each approach. Along the way, Amin challenges you to write your own queries before walking through the methodology he uses. By the end of this course, you will gain valuable insight into how SQL works, be able to identify relational division challenges, and know how to implement the best solutions.

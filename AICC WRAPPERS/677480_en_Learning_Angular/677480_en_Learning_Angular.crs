@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=677480
+Course_System=linkedin.com
+Course_Title=Learning Angular
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Frameworks can help you get things done quickly by providing a model for development that yields special functionality. This course helps to acquaint you with a superheroic JavaScript framework for building single-page web applications—Angular. Ray Villalobos introduces the main features of the Angular framework, which was designed by Google to help you quickly develop web applications with advanced features like declarative templates and data-binding. Ray begins by explaining how to work with the Angular CLI, and demonstrating how to install additional frameworks—including jQuery and Bootstrap—to an Angular project. He then explains how to work with templates in Angular, bind data to templates, use lifecycle methods, and more.

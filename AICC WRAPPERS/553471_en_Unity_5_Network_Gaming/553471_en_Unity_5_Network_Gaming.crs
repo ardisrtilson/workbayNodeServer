@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bruce Van Horn
+Course_ID=553471
+Course_System=linkedin.com
+Course_Title=Unity 5: Network Gaming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Adding a multiplayer component can enhance a game's overall playability—not to mention its staying power in the marketplace. In this course, boost your network development skills and discover how to use Unity 5 to add multiplayer network components to your games. Bruce Van Horn starts by covering a little network game theory, and then dives into the creation of a multiplayer tank combat game. Learn how to adapt this classic game concept into a network-playable LAN game that can be played over the Internet. Along the way, learn about setting up the Network Manager, adding health indicators, fragging the enemy, and more.

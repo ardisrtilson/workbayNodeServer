@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott M Burrell
+Course_ID=761950
+Course_System=linkedin.com
+Course_Title=Windows Server 2019 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn the essentials you need to install and administer Windows Server 2019. Discover how to choose your server roles; set up different server environments, including hyperconverged infrastructure; and configure storage, identity and access, and virtualization. Instructor Scott Burrell reviews the basics of PowerShell scripting for automated administration, and reviews the Windows Admin Center and Remote Server Administration Tools (RSAT). Plus, learn how the IT community has influenced the features included in Windows Server 2019 and what you can expect from the new Microsoft release strategy, which funnels updates along two branches: Long-Term Servicing Channel and Semi-Annual Channel.

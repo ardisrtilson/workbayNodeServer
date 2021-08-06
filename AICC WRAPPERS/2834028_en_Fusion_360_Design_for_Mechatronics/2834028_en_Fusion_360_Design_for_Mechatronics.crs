@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Flett
+Course_ID=2834028
+Course_System=linkedin.com
+Course_Title=Fusion 360: Design for Mechatronics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Fusion 360 is a world-leading mechanical design software. But it also has an overlooked toolset for mechanical–electrical (mechatronic) design. This course teaches engineers and designers how to create simple mechatronic projects and documentation using Fusion 360. Instructor Justin Flett recaps the basics of the software, showing how to generate simple mechanical parts for a robot. He then reviews the advanced tools for plastics and casting design—Draft, Shell, and Rib—commonly used for mechatronics enclosures and casings. He shows how to incorporate components, plus motors and fasteners, into an assembly and how to route wires and cables. Finally, Justin explains how to generate final output, including exploded views and drawing, STEP, and PDF files for use in manufacturing.

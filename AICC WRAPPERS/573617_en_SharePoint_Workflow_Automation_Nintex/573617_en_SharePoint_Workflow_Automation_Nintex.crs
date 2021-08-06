@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiffany Songvilay
+Course_ID=573617
+Course_System=linkedin.com
+Course_Title=SharePoint Workflow Automation: Nintex
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Make more of your repeat processes run automatically by leveraging the workflow capabilities of SharePoint. Admins and power users can readily learn and adopt the Nintex plugin as a solution for creating workflows, without having to write code. This course explores how to use Nintex, including how to automate an approval workflow, add workflow actions, monitor workflows, and design drag-and-drop forms.

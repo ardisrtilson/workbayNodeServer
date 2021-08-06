@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Morten Rand-Hendriksen
+Course_ID=2822020
+Course_System=linkedin.com
+Course_Title=CSS: Variable Fonts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Digital typography has long promised dramatic flexibility, but only delivered it in part. Yes, fonts that change size have become ordinary, and we've learned to expect multiple variations in a family, but precisely specifying blends has remained difficult. New fonts and a new CSS specification are changing this, though, letting developers specify many axes beyond font size. It's now much easier to create attractive and varied pages, using only a single font as the base. In this course, Morten Rand-Hendriksen demonstrates how to use variable fonts to make designs pop while preserving efficient use of bandwidth. Explore the basics of variable fonts—which allow you to download one font file and vary it as required—as well as how to use them in practice and support backwards compatibility.

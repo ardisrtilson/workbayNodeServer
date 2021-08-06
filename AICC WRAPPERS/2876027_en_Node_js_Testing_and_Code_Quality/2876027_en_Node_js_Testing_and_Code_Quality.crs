@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Peck
+Course_ID=2876027
+Course_System=linkedin.com
+Course_Title=Node.js: Testing and Code Quality
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Most software engineers would agree that clean code is easier to maintain than messy code, but what exactly does that look like, and how do go about cleaning up messy code? In this course, Jon Peck shows how to measure quality, implement testing, and measure code coverage in your Node.js apps, using a complete but buggy restaurant booking application to illustrate the concepts. Jon first reviews JavaScript fundamentals and testing and code quality concepts. He then explains how to use linters to find suspicious code; explores different testing frameworks and their components; and shows how to isolate your code for testing using test doubles, then verify with spies and mocks. Jon wraps up the course by showing how to generate reports on code health across your entire codebase. Along the way, he provides challenge and solution videos so you can test your knowledge of each section before moving on.

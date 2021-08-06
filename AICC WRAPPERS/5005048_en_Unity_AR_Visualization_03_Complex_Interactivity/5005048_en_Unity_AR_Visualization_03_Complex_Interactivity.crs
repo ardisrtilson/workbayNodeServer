@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Roger Miller
+Course_ID=5005048
+Course_System=linkedin.com
+Course_Title=Unity: AR Visualization 03 Complex Interactivity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Augmented reality is most powerful when it offers shared experiences: opportunities to collaborate in a virtual world. In this course, you can take the functional AR application built in Roger Miller’s previous courses—a 3D parts manager for the aerospace industry—and learn how to share and update the app’s data, from simple notes to object positions in real time, using PlayerIO. The resulting apps allows multiple users to manipulate and exchange notes on the same parts. Along the way, Roger explains how to script functionality that allows users to take, save, and share notes and sync data as well as movement within the app. This course is ideal for Unity engineers that want to expand their scripting and programming skills and break into the AR development space.

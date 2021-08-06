@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=756319
+Course_System=linkedin.com
+Course_Title=Azure Spark Databricks Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Apache Spark and Microsoft Azure are two of the most in-demand platforms and technology sets in use by today's data science teams. These two platforms join forces in Azure Databricks‚ an Apache Spark-based analytics platform designed to make the work of data analytics easier and more collaborative. In this course, Lynn Langit digs into patterns, tools, and best practices that can help developers and DevOps specialists use Azure Databricks to efficiently build big data solutions on Apache Spark. Lynn covers how to set up clusters and use Azure Databricks notebooks, jobs, and services to implement big data workloads. She also explores data pipelines with Azure Databricks—including how to use ML Pipelines—as well as architectural patterns for machine learning.

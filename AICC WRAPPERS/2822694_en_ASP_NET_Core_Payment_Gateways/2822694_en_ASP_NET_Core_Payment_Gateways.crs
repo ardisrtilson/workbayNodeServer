@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ervis Trupja
+Course_ID=2822694
+Course_System=linkedin.com
+Course_Title=ASP.NET Core: Payment Gateways
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Need to sell products or services online using your personal or commercial application? In this course, learn how to implement payment gateways in ASP.NET Core apps using two popular payment services: Stripe and Braintree. Using real-world examples, instructor Ervis Trupja explains what payment gateways are and why you'd want to use one versus creating your own payments system. Ervis then delves into how to use the Braintree payment gateway to process credit card and PayPal transactions, as well as how to leverage Stripe to offer subscription-based payments to users. Plus, he explains how to create a custom Stripe admin dashboard where you can easily manage your account.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Olivia Morgan
+Course_ID=2866029
+Course_System=linkedin.com
+Course_Title=Rhino: Modeling for 3D Printing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino is a powerful digital modeling tool for architects, engineers, and product designers. The surface modeling freedom Rhino allows can create complex designs that are not always the best for physical fabrication. To prepare a model for 3D printing, you need to create closed clean geometry. In this course, instructor Olivia Morgan covers good modeling techniques from start to finish, for 3D printing projects and other physical fabrication methods. She also offers tips you can use if anything goes wrong during the modeling process. These skills include boolean troubleshooting, repairing holes, and fixing “bad objects.” Finally, Olivia covers how to properly export your model for different 3D printers, using real world examples.

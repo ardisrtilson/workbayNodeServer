@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043094
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Resource Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Understanding how systems manage resources—and how to customize the default behavior—are essential concepts for any system administrator. In this course, learn how to manage VMware vSphere 6.5 resources using shares, limits, reservations, Distributed Resource Scheduler (DRS), and more. The concepts covered here can also prepare you for the VMware Certified Professional 6.5 - Data Center Virtualization (VCP6.5-DCV) exam. The course begins by showing how to verify virtual machine resource configurations, including how to adjust the CPU and memory resource settings and analyze the results of your configurations. Plus, learn about resource pools, expandable reservations, Distributed Resource Scheduler (DRS), DRS monitoring, and DRS affinity rules.

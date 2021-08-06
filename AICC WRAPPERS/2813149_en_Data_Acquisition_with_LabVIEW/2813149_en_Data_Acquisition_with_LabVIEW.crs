@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=2813149
+Course_System=linkedin.com
+Course_Title=Data Acquisition with LabVIEW
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+There are thousands of different types of sensors out there, acquiring and measuring data from the real world. But how do you get that data into the computer for processing? LabView is a leading system-engineering platform for interfacing with data-acquisition hardware. In this course, Barron Stone demonstrates how to program LabVIEW to control National Instruments data acquisition (DAQ) hardware and acquire and generate analog and digital signals. Barron provides guidance on choosing devices, setting up LabVIEW, connecting and simulating devices, and acquiring both analog and digital input and output. He also explains how to configure LabVIEW triggers, log data, read files, and connect third-party hardware with the wide variety of instrument drivers available for LabVIEW.

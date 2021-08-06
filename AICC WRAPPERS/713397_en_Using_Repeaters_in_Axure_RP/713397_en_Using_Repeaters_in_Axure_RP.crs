@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Renata Phillippi
+Course_ID=713397
+Course_System=linkedin.com
+Course_Title=Using Repeaters in Axure RP
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Axure RP repeaters allow you to display, sort, and filter table-based data. They're great for prototyping more complex, data-driven websites and applications, such as directories, catalogs, and product listings. In this course, instructor Renata Phillippi shows how to use repeater widgets in your own Axure projects. She explains how to create basic repeaters; sort, filter, and edit the data; and then style the repeaters, adding images and pagination. She also shows how to build a new repeater-based project, a products page, from scratch.

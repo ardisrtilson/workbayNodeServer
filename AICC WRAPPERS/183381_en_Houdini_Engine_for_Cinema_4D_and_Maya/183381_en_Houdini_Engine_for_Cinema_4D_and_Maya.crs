@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Pagano
+Course_ID=183381
+Course_System=linkedin.com
+Course_Title=Houdini Engine for Cinema 4D and Maya
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The procedural power of Houdini is now accessible in other applications via the Houdini Engine plugin. This allows technical directors to package and export systems as Houdini digital assets (HDAs) for use in environments that artists are already comfortable with Maya, CINEMA 4D, and other popular 3D tools. This course introduces the typical Houdini pipeline for creating complex systems that can be passed along to shot creation. Scott Pagano shows how to load the Houdini Engine in Maya and CINEMA 4D, create simple geometric networks, build more complex particle systems and fluid simulations, and create a procedural building generator for quickly blocking out buildings in Maya and C4D scenes.

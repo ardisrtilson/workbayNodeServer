@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert McMillen
+Course_ID=2880244
+Course_System=linkedin.com
+Course_Title=Introduction to Network Routing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you have any interest in IT—either as a prospective career or just want to extend your knowledge base—one of the most important areas you need to understand is computer networking. Networking brings computers and devices together, allowing access to shared data and programs to anyone on the network regardless of physical location, and when it doesn't work correctly the entire organization suffers. In this course, Robert McMillen gives an introduction to networking, starting with the basics of what makes up a network, before going into the key foundational aspects you need to know about networking, including the structure of an IP address and how data packets are used to drive data from one computer to another using the IP protocol. Robert shows how to count in binary, understand static and dynamic routing, use network tools, and why you need to know these things to have a career in the IT field.

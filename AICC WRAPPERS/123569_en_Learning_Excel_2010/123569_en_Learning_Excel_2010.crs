@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Grover
+Course_ID=123569
+Course_System=linkedin.com
+Course_Title=Learning Excel 2010
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Excel is the industry-standard spreadsheet program, and almost all of us find ourselves using it at one point or another. In this workshop veteran author Chris Grover teaches you the fundamental skills you need to work with Excel, starting with basics like entering and formatting numbers and text, then moving on to writing formulas and using Excel's built-in functions. Learn about sorting, filtering, and lookup, as well as charts, graphs and sparklines, and even advanced tools like pivot tables. Along the way, Chris covers the new features in Excel 2010 and techniques for troubleshooting your spreadsheet when something goes wrong.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Duard Lynn Davis
+Course_ID=5010649
+Course_System=linkedin.com
+Course_Title=Introduction to Test Classes in Salesforce
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to write test code is a valuable skill for any developer who customizes the Salesforce platform for their organization. In this course, join instructor Duard Lynn Davis as he shows why test classes are needed, how to write them for supportability, and how to achieve maximum code coverage. Learn how to create a basic test class, implement test code using test factory methods, and address common concerns with test classes, including how to use asserts to validate that your code is performing as expected. Plus, explore more advanced testing topics, such as how to test each aspect of batch Apex code.

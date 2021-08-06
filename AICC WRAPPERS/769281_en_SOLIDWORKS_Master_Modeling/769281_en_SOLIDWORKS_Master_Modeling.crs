@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Antanavige
+Course_ID=769281
+Course_System=linkedin.com
+Course_Title=SOLIDWORKS: Master Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Instead of creating a model by designing parts and grouping the parts into assemblies, instructor David Antanavige shows you how to create a complete assembly first, then push the design out to various part files and drawings for production. Starting with one master design allows you to make changes through file and external references inside SOLIDWORKS as opposed to updating each component file individually. This approach can save huge amounts of time on a complex project with many interconnected parts that have to match up correctly. David covers the steps involved, and more, in this course.

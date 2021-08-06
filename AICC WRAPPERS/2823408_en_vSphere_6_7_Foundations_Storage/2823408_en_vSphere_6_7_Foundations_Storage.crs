@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=2823408
+Course_System=linkedin.com
+Course_Title=vSphere 6.7 Foundations: Storage 
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VMware vSphere is everywhere. Nonvirtualized data centers are a thing of the past; in order to stay relevant—and scale infrastructure to meet business needs—you must understand vSphere. vSphere 6.7 Foundations is an eight-part series designed for anyone who wants to learn vSphere, including absolute beginners, and develop the knowledge to pass the VMware vSphere 6.7 Foundations exam (2V0-01.19). In this course, instructor Rick Crisci explains how to configure and manage virtual storage in a vSphere 6.7 environment. Learn about the various storage solutions—VMFS, NFS, fiber channel, iSCSI, and VSAN—and follow along with hands-on demos that show how to configure iSCSI and an NFS datastore in vSphere 6.7. This course was created by Rick Crisci. We are pleased to host this training in our library.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Barron Stone
+Course_ID=2812495
+Course_System=linkedin.com
+Course_Title=Learning LabVIEW
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you're charged with collecting and processing data from a variety of devices and systems—and, in turn, need to build software that interfaces with test and measurement equipment—traditional, text-based programming approaches may not be ideal. LabVIEW—a popular systems engineering platform—offers a unique approach. Using block diagrams, you can create virtual instruments that contain the logic you'll need to work with for your real devices, as well as build control panels that will help you monitor and manage them. In this course, instructor Barron Stone helps you get up and running with LabVIEW, showing how to write programs using its graphical programming approach. Along the way, he provides challenges and solutions that help you test your skills.

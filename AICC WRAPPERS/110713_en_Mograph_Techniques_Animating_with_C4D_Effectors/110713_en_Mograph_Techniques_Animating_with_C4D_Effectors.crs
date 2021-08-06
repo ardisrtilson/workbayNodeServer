@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=EJ Hassenfratz
+Course_ID=110713
+Course_System=linkedin.com
+Course_Title=Mograph Techniques: Animating with C4D Effectors
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Harness the power of the CINEMA 4D MoGraph module to create complex animations with only a couple of keyframes. By stacking multiple MoGraph effectors, you can achieve nice-looking animations quickly and easily, saving you time spent keyframing moves manually. Discover how to change your text on the fly or create iterations of it, while keeping the animation intact. Author EJ Hassenfratz introduces a real-world postproduction workflow, by creating a network bumper promo. This project covers creating 3D text in CINEMA 4D, compositing, and adding final polish to the footage inside of Adobe After Effects.

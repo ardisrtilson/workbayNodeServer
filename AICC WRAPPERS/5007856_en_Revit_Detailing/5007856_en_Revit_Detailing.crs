@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=5007856
+Course_System=linkedin.com
+Course_Title=Revit: Detailing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While Revit is a tool for building information modeling (BIM)—and BIM is a 3D-model-based process—2D drafting and detailing are still fundamental aspects of the Revit design workflow. In this course, Paul F. Aubin demonstrates how to create, manage, and reuse 2D construction details in Revit. Paul shows how to create drafting and legend views in Revit, use 2D linework, place detail components, and complete a detail by adding notes and dimensions. He shows how to create hybrid details, which incorporate a live view of the model geometry with view-specific detailing applied on top. Plus, he demonstrates how to speed up your workflow by using existing CAD details and exporting details from project to project.

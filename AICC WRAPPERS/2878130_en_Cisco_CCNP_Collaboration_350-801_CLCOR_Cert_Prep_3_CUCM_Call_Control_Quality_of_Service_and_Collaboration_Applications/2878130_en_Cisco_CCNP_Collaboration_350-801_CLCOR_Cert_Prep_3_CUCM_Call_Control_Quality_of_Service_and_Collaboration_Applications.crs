@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Kevin Wallace
+Course_ID=2878130
+Course_System=linkedin.com
+Course_Title=Cisco CCNP Collaboration 350-801 (CLCOR) Cert Prep: 3 CUCM Call Control, Quality of Service, and Collaboration Applications
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Are you getting ready for the Cisco CCNP Collaboration or the Cisco CCIE Collaboration certification? In this course, instructor Kevin Wallace covers everything you need to know about Cisco Unified Communications Manager (CUCM) call control, quality of service (QoS), and collaboration applications, to help you pass your CCNP Collaboration certification. Kevin introduces you to call control, including SIP route patterns and digit manipulation. He goes over the basics of QoS and the need for it within your unified communications environment, then explains how to configure QoS on both a router and a switch. Kevin discusses how to expand your collaboration solution by installing application servers. He concludes with some useful advice on exam preparation. Note: This course was created by Kevin Wallace. We are pleased to host this training in our library.

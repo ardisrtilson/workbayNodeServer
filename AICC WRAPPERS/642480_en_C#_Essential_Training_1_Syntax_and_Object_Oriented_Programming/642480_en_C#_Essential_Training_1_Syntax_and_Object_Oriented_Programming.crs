@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bruce Van Horn
+Course_ID=642480
+Course_System=linkedin.com
+Course_Title=C# Essential Training: 1 Syntax and Object Oriented Programming
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get started in Microsoft application development by learning C#. Fast, capable, and productive, C# combines the best features of C++ and Java—with none of the reference counting or performance concerns. We've broken our C# Essential Training course into two parts, so you can focus on the language features you need to learn most. This part teaches the essential components of the syntax, including variables, strings, operations, classes, and methods. Follow along with instructor Bruce Van Horn, and learn how to build a class inside a reusable library, which is then consumed by a simple user interface. Plus, learn about encapsulation, inheritance, and the extension methods that make C# a great object-oriented programming language. This course is your first and best resource for programming with C#—the simple, modern, and popular choice for Windows developers.

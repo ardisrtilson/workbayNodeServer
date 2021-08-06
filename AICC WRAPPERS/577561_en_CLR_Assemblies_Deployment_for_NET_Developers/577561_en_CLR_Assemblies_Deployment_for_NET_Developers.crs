@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ted Neward
+Course_ID=577561
+Course_System=linkedin.com
+Course_Title=CLR Assemblies Deployment for .NET Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Assemblies are fundamental units of deployment for .NET Framework applications, and understanding how assemblies manage code is crucial for developers. In this course, discover how to work with .NET assemblies. Ted Neward walks through the basics of and explains common language runtime (CLR) interactions. He goes into the physics of assemblies, covers assemblies and modules, explains how assemblies scope various elements inside of the CLR, and discusses how to reference assemblies from managed code. He also reviews the security guarantees that the CLR can provide, such as resisting attempts to tamper with assemblies.

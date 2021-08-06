@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carlos Rivas
+Course_ID=3129475
+Course_System=linkedin.com
+Course_Title=AWS Machine Learning: Building an Expense Tracker Using Amazon Textract
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you’ve ever used an optical character recognition (OCR) program, you know that scanning documents for text can often be hit or miss. If you’re a developer working on an app that's dependent on accurate text scanning, say for an expense report, hit or miss just won’t cut it. In this project-based course, Carlos Rivera shows you how to use Amazon Textract to analyze scanned documents and convert them to text. Textract eliminates the complexity of having to train machine learning models from scratch to perform data capture tasks. And as Carlos points out, the program not only recognizes text, but it also considers the layout of the scanned document. Follow along with Carlos as he creates a serverless expense tracker that reads text from images using Textract, starting with the basic jargon of the program, through project implementation, and then implementing Textract.

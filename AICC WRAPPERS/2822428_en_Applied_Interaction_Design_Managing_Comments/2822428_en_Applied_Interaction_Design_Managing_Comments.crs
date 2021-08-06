@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2822428
+Course_System=linkedin.com
+Course_Title=Applied Interaction Design: Managing Comments
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this quick, hands-on interaction design course, Tom Green shows how to quickly prototype a comment management flow for an online discussion app using Adobe Photoshop. The project uses a common design pattern for archiving and deleting messages, but Tom shows how to customize it and break with convention without confusing users. Learn how to wireframe motion elements in your design using the Photoshop timeline, transform the pattern into a hi-fi prototype, and output video and animated GIF files that shows the flow in action. The end result is a high-quality UX prototype that will delight stakeholders and help you better leverage tools like Photoshop for your next design.

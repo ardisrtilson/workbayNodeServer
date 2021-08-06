@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Mayfield
+Course_ID=383529
+Course_System=linkedin.com
+Course_Title=Digital Audio Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn everything you need to know about working with digital audio. In this flagship course, author Matt Mayfield demonstrates a wide array of audio and music fundamentals. The lessons are designed for new musicians, songwriters, producers, and engineers; those making the leap from analog to digital; and professionals who need to brush up on a concept or two. The course starts with explanations of what sound really is and how we hear it, including discussions on frequency, amplitude, phase, and psychoacoustics. Matt explores analog audio signal path, explaining connections, gain staging, and metering. Next, he brings the audio signal into the digital domain, discussing analog to digital conversion, digital gain staging, file formats and compression, and dither. Then the course digs into digital audio workstations (DAWs), explaining the concepts and misconceptions involved in digital recording systems. Matt describes how memory, CPU speed, and storage affect your DAW's performance, as well as how to manage computer resources and understand the plethora of file formats associated with digital recording. He follows with an overview of MIDI: how to generate, store, process, and communicate MIDI data. He wraps up with the audio processors that are often used for mixing in a DAW—including EQ, compressors, reverb, delay, and many others.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brian Randell
+Course_ID=691728
+Course_System=linkedin.com
+Course_Title=DevOps for the Database with VSTS and Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Databases are critical to most line-of-business applications; they need to be tightly managed to perform well in a DevOps environment. This course targets developers and database admins who write code and work with SQL Server databases. Instructor Brian Randall shows how to put a database under version control and move through an automated release pipeline using Visual Studio Team Services (VSTS) and Azure. Learn how to build a SQL database using a continuous integration workflow, release the database via continuous deployment, and bake in quality from the beginning, by testing the database with a number of different tools. Plus, learn how to troubleshoot over a dozen real-world issues that admins encounter with SQL databases, from database drift to multi-environment deploys.

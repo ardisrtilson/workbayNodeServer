@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ed Liberman
+Course_ID=772335
+Course_System=linkedin.com
+Course_Title=Windows Server 2019: Install and Configure Active Directory
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Identity management is a critical part of managing an enterprise network. Active Directory is the foundation for user administration, group policy, and security in a Windows Server environment. This course shows how to install and configure Active Directory Domain Services (AD DS) in Windows Server 2019. Learn how to deploy AD DS, install additional controllers, configure permissions, and manage AD objects, including user and computer accounts, groups, and organization units. Microsoft Certified Trainer Ed Liberman shows how to perform these basic administration tasks using AD Admin Center and the command line, so you will be well versed in the tools that Windows Server administrators use most.

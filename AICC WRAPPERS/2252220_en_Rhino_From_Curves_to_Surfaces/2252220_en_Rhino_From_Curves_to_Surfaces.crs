@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Dave Schultze
+Course_ID=2252220
+Course_System=linkedin.com
+Course_Title=Rhino: From Curves to Surfaces
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Rhino is an advanced 3D modeling tool used in architecture and industrial design. In this course, you can learn tips and techniques for a modeling process to make complex forms from simpler forms: from curves to surfaces. Instructor Dave Schultze starts with his intersection technique for quickly building and changing models. Then he proceeds through a variety of modeling projects that showcase some of Rhino’s most powerful commands, from building a space helmet with Rail Revolve, to modeling a fabric cape from smaller curves and a loft, to building a realistic 3D gear. Plus, learn tips for organic modeling and adding details to curved surfaces.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Aileen Smith
+Course_ID=2241059
+Course_System=linkedin.com
+Course_Title=Serverless and Microservices for AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The benefit of serverless architectures are well-defined. Serverless helps developers focus on what they do best—building solutions—without the difficulty of managing and scaling infrastructure. However, when it comes to implementation, the instructions are much less clear. In this course, developer and AWS Community Hero Aileen Smith explores both the how and the why of serverless microservices architectures in AWS. Learn how to leverage Lambda functions and Elastic Container Service (ECS) components, choose the right integration technology, configure an API for access, and coordinate serverless workflows with Step Functions. Aileen also shows how to transition an existing application to serverless and solve common deployment and management challenges.

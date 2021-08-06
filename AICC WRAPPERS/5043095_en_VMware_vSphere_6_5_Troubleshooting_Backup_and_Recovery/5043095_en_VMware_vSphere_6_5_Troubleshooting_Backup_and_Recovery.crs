@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Rick Crisci
+Course_ID=5043095
+Course_System=linkedin.com
+Course_Title=VMware vSphere 6.5 Troubleshooting, Backup, and Recovery
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Find out how to use vSphere to diagnose problems, troubleshoot issues, and protect deployments by implementing backup and recovery solutions. Instructor Rick Crisci starts the course by demonstrating how to use restart services and access the shell. Learn how to use data from monitoring logs to identify issues. See how to generate a support bundle. Watch how to create VM backups and replications for potential use during rollbacks and business continuity. This course covers advanced vSphere concepts that are are part of the VMware Certified Professional exam.

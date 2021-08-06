@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joel Bradley
+Course_ID=2834005
+Course_System=linkedin.com
+Course_Title=Substance Designer 2020 Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Substance Designer is a powerful, procedurally based tool for creating textures for 3D art and games. This course was designed to give texture artists a complete overview of the Substance Designer 2020 application. If you're new to the field, this course can help you quickly start creating your own textures. If you're an experienced artist looking to add a new application to your toolbox, this course provides plenty of in-depth material with which to work. Instructor Joel Bradley begins with an overview of the application, discussing key concepts such as how to set preferences, use the Materials menu wisely, and make lighting changes. He then covers essential concepts such as how to import meshes and leverage the array of essential atomic nodes in Substance Designer, including the Blend, Curve, Blur, and Gradient nodes. Joel closes out the course by explaining how to get the most out of published substances, including how to export and import packages from Designer.

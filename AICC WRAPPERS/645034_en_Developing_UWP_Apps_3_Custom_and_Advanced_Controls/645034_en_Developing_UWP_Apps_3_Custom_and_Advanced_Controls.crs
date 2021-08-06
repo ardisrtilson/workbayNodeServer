@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Peterson
+Course_ID=645034
+Course_System=linkedin.com
+Course_Title=Developing UWP Apps: 3 Custom and Advanced Controls
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Controls can make or break a user interface. And with the Universal Windows Platform (UWP), the expectation is that the UI will be intuitive, fast, and fluid. In this course, discover how to create, customize, and extend controls that consistently perform and easily adapt. Instructor Scott Peterson covers more about the UWP controls, how to implement custom controls, and how to integrate third-party controls into your apps. Note: This course was created by Wintellect. We are pleased to host this training in our library.

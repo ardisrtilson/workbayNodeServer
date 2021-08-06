@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Eve Porcello
+Course_ID=574714
+Course_System=linkedin.com
+Course_Title=Learning GraphQL
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data-driven applications depend on remote queries that run through APIs. For years, web services have provided basic support for simple query structures. Those services, however, often constrained developers who needed more granular approaches that provided flexibility without creating a huge collection of unnecessary calls. GraphQL—a query language for APIs that was originally built by Facebook—allows developers to choose the kinds of requests they want to make, and receive information on multiple facets of that query in one request. The GraphQL approach to querying across networks can address a wide variety of large-scale development problems. In this course, learn how to get started with GraphQL. Eve Porcello walks through the basics of this query language, diving into the data fetching specification, and helping you get up to speed with the syntax and vocabulary of GraphQL. Eve explains how to create basic queries, including how to work with arguments and multiple fields. She also goes into complex techniques for handling data, including working with aliases, fragments, and pagination. Plus, she covers how to edit and transform data with mutations.

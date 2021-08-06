@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=5019808
+Course_System=linkedin.com
+Course_Title=Azure Administration: Deploy and Manage Virtual Machines
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Take the next step on the path to becoming a Microsoft certified Azure Administrator: Learn how to deploy and manage virtual machines (VMs). This course is designed to teach IT professionals the skills needed to create, deploy, and maintain virtual machines, including configuring virtual networks, automating VM deployment, and implementing backups. This demo-heavy course can also be used as a resource in preparation for the Microsoft Azure Administrator exam (AZ-103) or the Microsoft Azure Architect Technologies exam (AZ-300). Instructor Sharon Bennett also explains how to apply Desired State Configurations via PowerShell, how to use scale sets, and how to move and back up VMs.

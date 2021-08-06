@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Zahraa Khalil
+Course_ID=783858
+Course_System=linkedin.com
+Course_Title=Learning Arduino: Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Arduino, the family of open-source single-board microcontrollers, can power a variety of complex projects, from robots to wearable tech. That said, the technology is relatively easy to pick up, even for those without an electronics background. In this course, Zahraa Khalil covers the basic features and capabilities of an Arduino board, equipping beginners with the knowledge they need to start programming their own projects. Zahraa goes over fundamental concepts, such as how to set up the Arduino board with the Arduino IDE. She also shows how to wire up an LED to your Arduino board and write a program to blink the LED lights. Plus, she goes over pushbuttons, explaining why they are considered inputs to the Arduino board, as well as how to activate an LED with a pushbutton.

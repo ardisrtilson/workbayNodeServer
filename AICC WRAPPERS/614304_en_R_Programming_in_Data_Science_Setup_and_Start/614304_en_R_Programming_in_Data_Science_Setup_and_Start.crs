@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=614304
+Course_System=linkedin.com
+Course_Title=R Programming in Data Science: Setup and Start
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+R is powerful, but not intuitive. There is a strong and diverse R ecosystem, and data scientists are expected to mix and match from the different versions and packages. Before you can even begin programming, you have to choose, install, and set up R to work for you. In this course, Mark Niemann-Ross provides a direct and efficient introduction to the many flavors of the R programming language, including base R, tidyverse R, R Open from Microsoft, and Bioconductor R. He also provides a peek at programming with R interactively and via the command line, and introduces some helpful packages for working with SQL, 3D graphics, data, and clusters in R. At the end of this short course, you will have installed a version of R along with a few core libraries and an optimized IDE.

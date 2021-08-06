@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Matt Hester
+Course_ID=2823141
+Course_System=linkedin.com
+Course_Title=Azure Administration: Business Continuity
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Organizations need to ensure that their data stays safe—even when accidents and disasters strike. In this course, learn how to help your organization overcome unexpected or challenging events by implementing an effective business continuity plan using options in Microsoft Azure. Using practical examples, instructor Matt Hester demonstrates how to implement a business continuity and disaster recovery (BCDR) strategy, regardless of whether your infrastructure is on-premises, in the cloud, or a hybrid setup. Matt details how to use Azure Backup Server and Site Recovery to keep data safe and recoverable. Plus, he shows how to configure your systems to remain continuously available during planned or unplanned downtime.

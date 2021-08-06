@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ben Sullins
+Course_ID=558576
+Course_System=linkedin.com
+Course_Title=SQL Tips, Tricks, & Techniques
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get Ben Sullins's 12 must-have SQL techniques for data science pros—engineers, DevOps, data miners, programmers, and other systems specialists. Ben's tips focus on practical applications of SQL queries for data analysis. Learn how to retrieve data, join tables, calculate rolling averages and rankings, work with dates and times, use window functions, aggregate and filter data, and much more. Each tip is short, relevant, and up to date with current industry best practices—making this the perfect course for busy analysts who normally struggle to find time to build their skills.

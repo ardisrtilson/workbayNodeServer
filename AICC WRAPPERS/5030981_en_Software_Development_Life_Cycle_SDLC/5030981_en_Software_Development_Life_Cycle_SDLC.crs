@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shashi Shekhar
+Course_ID=5030981
+Course_System=linkedin.com
+Course_Title=Software Development Life Cycle (SDLC)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+From scrum to Six Sigma, there's an abundance of options for architecting an organization's workflow. And since there's no one-size-fits-all approach to software development, it's important for software project managers, architects, and team leads to grasp the different options at their disposal before making a decision that affects the budgeting, staffing, and management of software delivery. This course zooms out on the software development landscape to provide a high-level look at a variety of software development life cycle (SDLC) approaches—from traditional methods to more modern processes. Instructor Shashi Shekhar provides a brief overview of each method, highlighting how each one is unique and can be applicable today. Learn about lean, kanban, DevOps, and more.

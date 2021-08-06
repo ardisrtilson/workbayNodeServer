@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tom Green
+Course_ID=2833018
+Course_System=linkedin.com
+Course_Title=User Experience (UX) for Non-Designers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+User experience (UX) design is more than just pushing pixels and adding interactivity. It's a people-centric practice that involves many stakeholders—not all of them professional designers. This course teaches the principles of user experience design from the perspective of a non-designer who needs to work with UX teams, studios, and projects. Instructor Tom Green explains the four-stage process of UX design, starting with user research—the stage where you build out personas, user scenarios, and user flows. Next, learn about UX conceptualization, where initial ideas are translated into sketches, wireframes, and paper prototypes. Tom then tackles the actual design process. In this phase, you can see how functional prototypes are generated, complete with imagery, copy, and basic interactivity. Plus, learn about the importance of testing your designs at multiple points in the process and incorporating feedback before handoff to developers.

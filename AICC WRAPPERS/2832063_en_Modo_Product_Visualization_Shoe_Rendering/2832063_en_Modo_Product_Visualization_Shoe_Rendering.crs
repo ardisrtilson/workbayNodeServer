@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Yot
+Course_ID=2832063
+Course_System=linkedin.com
+Course_Title=Modo Product Visualization: Shoe Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With Modo, artists have a powerful 3D platform for modeling, rendering, texturing, and animating. This is the second of a two-part course. In the first course, instructor Richard Yot showed how to create a detailed shoe model. In this course, Richard uses the process of rendering a shoe to explain what makes Modo different from other 3D tools, as well as teach key workflows for modeling, lighting, and rendering beautiful 3D objects. Richard shows you how to set up believable, realistic lighting. A shoe can contain a number of different textures, and Richard steps through how to create detailed, realistic surfaces for all of them. Once you have modeled the shoe, Richard shows you how to finalize the lighting, use a Preview render for any fine-tuning before the final render, and set up render passes. It’s important to make sure you have the Modo camera set up for the shot you want to take, including rendering passes, and Richard describes variations on how to set up your final render.

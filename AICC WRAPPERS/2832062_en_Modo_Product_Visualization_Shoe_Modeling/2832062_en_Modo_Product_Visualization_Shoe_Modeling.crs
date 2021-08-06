@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Richard Yot
+Course_ID=2832062
+Course_System=linkedin.com
+Course_Title=Modo Product Visualization: Shoe Modeling
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this course, the first installment in a two-part series, learn how to model a shoe from scratch using Modo, a powerful platform for 3D modeling, rendering, and texturing. Modo gives artists a powerful 3D platform for modeling, rendering, texturing, and animating. In the two-part Modo Product Visualization series, instructor Richard Yot uses the process of rendering a shoe from scratch to introduce key concepts that make Modo different from other 3D tools, as well as key workflows for modeling, lighting, and rendering beautiful 3D objects. In this course, the first installment in the series, Richard walks you through prototyping, from importing sketches to rendering a prototype with cel shading. Since this example project is modeling a shoe, he then shows you how to model the sole, including assigning materials to it. Once the sole is modeled, he moves on to modeling and thickening the main shapes, then the panels. Next, Richard covers how to model, edit, and add details to the lace holders and the shoelaces. Plus, he shows how to unwrap what you’ve modeled using UV mapping. Tune into the next installment in this series to learn how to render the project you started in this course.

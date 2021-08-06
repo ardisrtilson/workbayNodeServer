@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael McDonald
+Course_ID=569337
+Course_System=linkedin.com
+Course_Title=Financial Forecasting with Big Data
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Big data is transforming the world of business. Yet many people don't understand what big data and business intelligence are, or how to apply the techniques to their day-to-day jobs. This course addresses that knowledge gap, giving businesspeople practical methods to create quick and relevant business forecasts using big data. Join Professor Michael McDonald and discover how to use predictive analytics to forecast key performance indicators of interest, such as quarterly sales, projected cash flow, or even optimized product pricing. All you need is Microsoft Excel. Michael uses the built-in formulas, functions, and calculations to perform regression analysis, calculate confidence intervals, and stress test your results. You'll walk away from the course able to immediately begin creating forecasts for your own business needs.

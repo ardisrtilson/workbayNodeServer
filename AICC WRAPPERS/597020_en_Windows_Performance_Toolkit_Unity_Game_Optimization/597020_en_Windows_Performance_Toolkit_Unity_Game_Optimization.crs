@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Thomas Pantels
+Course_ID=597020
+Course_System=linkedin.com
+Course_Title=Windows Performance Toolkit: Unity Game Optimization
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+You have just finished your new Unity game, but it's not performing the way you expected. Watch this course to learn how to use the Windows Performance Toolkit to optimize the gaming experience. Determine if your Unity game is CPU bound by learning how to analyze CPU usage in Windows Performance Analyzer. Then, find out how to adjust Unity settings to improve game performance. At the end of the course, instructor Thomas Pantels compares pre- and post-optimization metrics to show exactly how much the Windows Performance Toolkit can benefit your game development workflow.

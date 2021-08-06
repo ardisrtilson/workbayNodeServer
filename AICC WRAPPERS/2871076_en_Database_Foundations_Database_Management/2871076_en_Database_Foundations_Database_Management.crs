@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Wilbert
+Course_ID=2871076
+Course_System=linkedin.com
+Course_Title=Database Foundations: Database Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In the realm of relational databases, the table is the main event, the showstopper, the lead singer, the king. However, there are several other components of databases that are just as vital to a fully functioning system. In this course—the third part of his Database Foundations series—Adam Wilbert turns the spotlight on the supporting cast of database management characters. He covers topics like view objects, query performance, transactions, and stored procedures, and shows how each is an integral part of database management. Adam also includes challenges designed to test your skills as the course advances. As Adam illustrates, knowledge of these elements of database management can enhance your system performance and lead to a more consistent end-user experience.

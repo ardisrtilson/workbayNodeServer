@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=373558
+Course_System=linkedin.com
+Course_Title=Creating an HTML5 Banner Ad with GreenSock (GSAP)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The GreenSock Animation Platform (GSAP) provides a fast, performance-optimized, framework for creating HTML5 animations. Learn to combine JavaScript and GSAP with any of your HTML-based projects, including websites, digital magazines and books, and even mobile apps. In this course, Chris Converse shows how to combine GreenSock with HTML, CSS, and a sprite sheet graphic, to create a complete animated banner ad. He'll also introduce techniques for combining animations, rearranging elements, and jumping to specific points in the animation for testing. Plus, find out how to streamline your ad by serving just the files you need—reducing the file size and download speed. The exercise files are free to all members. Download them and get started building your own project with GreenSock.

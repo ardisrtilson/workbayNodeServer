@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Robert Starmer
+Course_ID=2837200
+Course_System=linkedin.com
+Course_Title=Running Kubernetes on AWS (EKS)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kubernetes fans rejoice. You can now use this popular container orchestration tool with Amazon Web Services (AWS) to deploy enterprise-scale Kubernetes clusters—without the headaches of managing multiple masters. This course teaches you the ins and outs of Amazon Elastic Container Service for Kubernetes (Amazon EKS), including understanding the deployment model and creating the needed Identity and Access Management (IAM) roles and policies. Instructor Robert Stormer also shows how to deploy and scale EKS workers to meet your needs, and integrate storage and networking. Plus, find out how to manage user access with Amazon IAM and Kubernetes RBAC, and monitor your deployments and underlying resources. Along the way, Robert introduces useful Kubernetes extensions and add-ons that can be used in the AWS environment.

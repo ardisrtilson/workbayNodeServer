@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Niemann-Ross
+Course_ID=5007872
+Course_System=linkedin.com
+Course_Title=Raspberry Pi Weekly
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Raspberry Pi lets you explore electronics, computer, programming, and the Internet of Things. You can build complex projects on a budget—from robots to media servers. This weekly series helps you create meaningful projects in a short time, and learn tips and key techniques that will help you across your creations. Each episode teaches you a coherent set of software and hardware approaches to connect computing power to the physical world. Join instructor Mark Niemann-Ross every week for a new Raspberry Pi technique. Note: Because this course is an ongoing series, viewers will not receive a certificate of completion.

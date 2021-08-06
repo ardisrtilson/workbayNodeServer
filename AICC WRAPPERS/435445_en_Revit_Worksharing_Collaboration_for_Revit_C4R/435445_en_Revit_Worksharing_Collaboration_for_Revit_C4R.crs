@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Paul F. Aubin
+Course_ID=435445
+Course_System=linkedin.com
+Course_Title=Revit Worksharing: Collaboration for Revit (C4R)
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+If you use Revit in an office environment and collaborate with other Revit users, then worksharing is likely already part of your life. Worksharing makes it possible for multiple users to access and make changes to a single project at the same time. Collaboration for Revit (C4R) allows users to collaborate in the cloud using worksharing much as they would on a local area network. In this course, explore how to use C4R to collaborate with other users on a Revit project. Plus, learn about how the functionality of C4R leverages BIM 360 Team, an Autodesk cloud-based team sharing solution; this allows you to make your Revit models and other associated project files accessible to all stakeholders, including internal users, clients, and other external consultants.

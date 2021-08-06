@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=366454
+Course_System=linkedin.com
+Course_Title=Design the Web: Responsive SVG Images
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+When you need more control over the imagery in your websites and interactive projects, scalable vector graphics are a great place to turn. SVG images are resolution-independent, which means they look great at any size, and they can be manipulated with CSS. This installment of Design the Web with Chris Converse explores the design possibilities offered by combining SVG graphics with CSS media queries. Start watching to learn how to create your own responsive SVG images.

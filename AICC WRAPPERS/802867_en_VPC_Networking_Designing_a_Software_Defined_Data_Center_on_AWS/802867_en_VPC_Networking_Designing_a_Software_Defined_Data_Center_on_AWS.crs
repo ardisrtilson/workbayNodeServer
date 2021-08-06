@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Mark Wilkins
+Course_ID=802867
+Course_System=linkedin.com
+Course_Title=VPC Networking: Designing a Software Defined Data Center on AWS
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Virtual private clouds (VPC) are the heart of your AWS network. They connects AWS resources, route traffic, and provide security. To get started on AWS, you first need to create a VPC. In this course, instructor Mark Wilkins teaches VPC networking on AWS using a use case scenario for a company that hopes to move an on-premises app to the cloud using a multitier software-defined data center at AWS. Mark takes you through the example step by step: from defining the VPC and choosing regions and availability zones, to creating subnets, configuring custom route tables, assigning IP addresses, and creating security groups to control access. In addition, learn about setting up private and public connections, including an internet gateway; monitoring your VPC activity; and setting up identity and access management and compliance controls. By the end of this course, you should have the knowledge necessary to set up your own VPCs to deploy two- and three-tier applications on the AWS cloud.

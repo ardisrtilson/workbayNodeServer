@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jon Peck
+Course_ID=587676
+Course_System=linkedin.com
+Course_Title=Linux for PHP Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Set yourself up for PHP programming in Linux—the fast, powerful, and free development environment that can be virtualized on almost any machine, including Mac and Windows computers. Explore various Linux distributions and the LAMP stack: the most ubiquitous web server solution on the Internet. Begin by downloading Linux, installing the operating system, and then configuring each additional stack element: Apache, MySQL, and PHP. Instructor Jon Peck describes how the LAMP components work together to support and network your web applications. You'll also learn how to manage Linux from the command line, optimize your system's performance for virtualization, and troubleshoot common installation and configuration issues. Plus, install some of the top PHP tools and frameworks, including Composer, Symfony, and Laravel. Note: The demonstrations use the Ubuntu distribution of Linux, but the skills are applicable to other Linux distributions.

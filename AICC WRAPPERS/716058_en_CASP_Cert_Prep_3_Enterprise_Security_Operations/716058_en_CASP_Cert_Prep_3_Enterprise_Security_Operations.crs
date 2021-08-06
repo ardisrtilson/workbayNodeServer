@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jason Dion
+Course_ID=716058
+Course_System=linkedin.com
+Course_Title=CASP+ Cert Prep: 3 Enterprise Security Operations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Testing the security of an enterprise network ensures a business can withstand today's threats. The third domain of the CompTIA Advanced Security Practitioner (CASP+) certification—Enterprise Security Operations—assesses whether you understand the basics of penetration testing and the tools and techniques attackers use to infiltrate your network. This course helps you prepare for the CASP+ exam, while deepening your knowledge of security assessments, vulnerability assessments, penetration tests, and incident response and recovery. Follow along with instructor Jason Dion as he covers topics such as reconnaissance, auditing, code reviews, and the tools used during containment and recovery. By the end of the course, you'll be one step closer to CASP+ certification—a key tool for demonstrating your advanced cybersecurity knowledge to prospective employers and clients. We are a CompTIA Content Publishing Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2841310
+Course_System=linkedin.com
+Course_Title=Building a Video Chat App with Vue.js and Firebase
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+With more people needing to stay connected virtually, video chat applications like Zoom and Microsoft Teams have exploded in popularity. Curious about how you might build a video chat application of your own? In this course, instructor Ray Villalobos shows you how. To help you grasp the concepts covered in this course, Ray steps through the creation of a project. Firebase conveniently provides a foundation for both the data and the video in your project, and Vue.js lets you build a user interface around those components. Plus, learn how to work with WebRTC, an open-source project that you can use to enable real-time communication of audio, video, and data in your app. Along the way, discover how to use Firebase to set up user registration and authentication, check users into a virtual room, add attendees to a meeting, use security rules, and more.

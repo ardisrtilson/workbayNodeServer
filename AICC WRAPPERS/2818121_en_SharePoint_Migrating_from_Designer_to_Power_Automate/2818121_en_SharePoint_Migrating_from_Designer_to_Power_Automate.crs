@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=April Dunnam
+Course_ID=2818121
+Course_System=linkedin.com
+Course_Title=SharePoint: Migrating from Designer to Power Automate
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Explore how to use Power Automate, formerly Microsoft Flow, the cloud-based software for creating and automating workflows and tasks. As Power Automate becomes the default tool for creating business-based automation in SharePoint, learn about how to migrate SharePoint Designer workflows to accomplish the same tasks. Instructor April Dunnam walks through the features of Power Automate while pointing out notable differences from and improvements to SharePoint Designer features and methods including the recurrence trigger, calling an API using a flow, and project approval templates.

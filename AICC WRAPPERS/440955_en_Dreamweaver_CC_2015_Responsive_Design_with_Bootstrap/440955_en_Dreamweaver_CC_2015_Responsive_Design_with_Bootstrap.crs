@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Powers
+Course_ID=440955
+Course_System=linkedin.com
+Course_Title=Dreamweaver CC 2015: Responsive Design with Bootstrap
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Bootstrap—the popular HTML, CSS, and JavaScript framework for building responsive mobile-first websites—has been fully integrated into Dreamweaver CC 2015. The combo puts responsive web design within reach of all Creative Cloud members. This project-based course will show you how to define a Bootstrap layout grid in Dreamweaver, and build a responsive webpage using Bootstrap components and Dreamweaver's column tools. Author David Powers also shows how to add a hero image to your front page, create placeholder content with the text editor Emmet, and go straight to the DOM to move page elements around, avoiding the need to restructure the HTML.

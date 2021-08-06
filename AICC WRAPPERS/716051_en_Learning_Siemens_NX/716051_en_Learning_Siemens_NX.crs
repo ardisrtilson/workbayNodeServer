@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Steven Marjieh
+Course_ID=716051
+Course_System=linkedin.com
+Course_Title=Learning Siemens NX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Siemens NX is a powerful and integrated CAD package for product design, engineering, and manufacturing. In this course, Steven Marjieh provides an overview of NX, sharing what you need to know to start using this flexible solution to develop products. Steven begins by acquainting you with the user interface, covering elements such as menus and the Work Coordinate System (WCS). He also takes you through the modeling workflow and shows how to create and edit sketches, create assemblies, approach drafting, and more.

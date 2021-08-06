@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Daniel Lachance
+Course_ID=2883166
+Course_System=linkedin.com
+Course_Title=CCSK Cert Prep: 5 Application Security and Identity Management for Cloud Computing
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Developing and managing cloud-based applications requires that security be considered in all DevOps activities. In this course, instructor Daniel Lachance teaches you about application security in the cloud and helps you prepare for the portion of the CCSK exam devoted to application security and identity management for cloud computing. Daniel begins with ways you can use identity and access management, identity federation, Amazon Web Services IAM groups, multifactor authentication (MFA), and more to manage what data is available online and how it can be accessed. He explains several facets of developing software in the cloud, then concludes with a thorough discussion of container cloud solutions, such as application containers, Azure container registries, and application load balancing.

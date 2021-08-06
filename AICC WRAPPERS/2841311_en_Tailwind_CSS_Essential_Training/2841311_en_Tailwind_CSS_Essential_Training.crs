@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Ray Villalobos
+Course_ID=2841311
+Course_System=linkedin.com
+Course_Title=Tailwind CSS Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+While the ways in which we work on the web evolve over time, every now and then, a true game changer comes along. The Tailwind CSS utility-first approach throws out many of the traditional CSS approaches to building projects, allowing you to create a complete and unique website without writing a single line of CSS. In this course, LinkedIn senior staff instructor Ray Villalobos shows how Tailwind CSS offers a lightweight but sophisticated approach to styling content in your sites and apps through labeling with appropriate class names. Ray illustrates how you can manage everything from fonts, colors, borders, and the whole layout of your pages by adding Tailwind and specifying its use on the HTML elements in your pages, all without having to touch a style document.

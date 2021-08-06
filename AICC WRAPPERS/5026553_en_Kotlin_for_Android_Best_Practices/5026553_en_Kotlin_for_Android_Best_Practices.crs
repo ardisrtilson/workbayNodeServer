@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chiu-Ki Chan
+Course_ID=5026553
+Course_System=linkedin.com
+Course_Title=Kotlin for Android: Best Practices
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kotlin is a popular programming language, and for good reason; it’s pragmatic, fun, and officially supported by Google as an Android development language. In this course, discover how to leverage the power of Kotlin when developing Android mobile apps. Instructor Chiu-Ki Chan shares best practices for working with some of this popular language’s most helpful features. Discover how to dynamically fetch the value of a property with getter, use Kotlin Android extensions, work with scope functions, and format your strings with string templates. Plus, see how to use the Android KTX extensions from Google to make your Android code more readable.

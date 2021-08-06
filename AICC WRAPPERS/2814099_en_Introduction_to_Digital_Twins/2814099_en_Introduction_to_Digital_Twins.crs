@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=2814099
+Course_System=linkedin.com
+Course_Title=Introduction to Digital Twins
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+During the manned missions to the moon by NASA in the 1960s and 1970s, engineers on the ground had physical twins of the spacecrafts and equipment in space. They would use these twins to troubleshoot issues, try out different ideas, and simulate outcomes. Only when they were confident in this work would they tell the astronauts what to do. Today, technology enables us to precisely simulate the physical world in a digital format. A digital twin is a virtual representation of a physical thing capable of simulating its behavior in real time under various conditions. In this short course, Jonathan Reichental breaks down how this valuable technology works, why it matters, and how it can revolutionize how your organization designs, builds, and maintains solutions.

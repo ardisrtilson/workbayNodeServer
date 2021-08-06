@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Monika Wahi
+Course_ID=504399
+Course_System=linkedin.com
+Course_Title=Descriptive Healthcare Analytics in R
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Analyze behavior and risk using R, the open-source statistical computing software. R provides an environment and a language you can use to analyze data, including the publicly available Behavioral Risk Factor Surveillance Survey (BRFSS) dataset. This course teaches core healthcare data science skills, including epidemiology, as well as how to perform a cross-sectional analysis, set up a data dictionary, develop metadata, determine confounders, apply exclusions, create diagrams, generate continuous and categorical outcome variables, and more. Join biotech expert and epidemiologist Monika Wahi as she first discusses design and ethical considerations, and then takes you through the steps of conducting a descriptive analysis. This detailed, practical course is designed to help those in the field of public health, medicine, and data science to edit, analyze, and interpret data. Learn how to code new variables, use the forward-stepwise modeling process, and document your decisions. Find out how to visualize results by generating charts and graphics, and how to add tables and figures to your documentation. This course helps equip you to independently design, develop, and execute a full BRFSS analysis, and even publish your results in scientific publications or journals.

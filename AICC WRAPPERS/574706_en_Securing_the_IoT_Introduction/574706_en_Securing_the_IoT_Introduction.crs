@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=574706
+Course_System=linkedin.com
+Course_Title=Securing the IoT: Introduction
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Internet of Things (IoT) is how devices on the Internet communicate through omnipresent sensors. Since its inception, consumers have connected smart devices to the network at an exponential rate, bringing us closer to a future where everyday things all interconnect. In this course—the first in a series that focuses on securing the Internet of Things—you can get started with this essential concept. Lisa Bock kicks off the course with an overview of IoT, and the types of IoT devices designed to improve the quality of life in homes and businesses. Lisa covers different networks that range in size and purpose—LANS, WANS and PANS—and explains how businesses invest heavily in IoT in order to keep a competitive edge, going into IoT developments in automobiles, building automation, and the medical field. She then evaluates consumer devices, such as wearables and mobile devices. Plus, she discusses zero-configuration networking, service discovery, designing IoT security, and more.

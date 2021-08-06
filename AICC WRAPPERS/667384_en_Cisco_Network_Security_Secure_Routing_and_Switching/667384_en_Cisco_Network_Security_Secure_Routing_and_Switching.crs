@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lisa Bock
+Course_ID=667384
+Course_System=linkedin.com
+Course_Title=Cisco Network Security: Secure Routing and Switching
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+A malicious person that gains access to a switch or router can modify system integrity to steal information or disrupt communications. Qualified network administrators should know how to prevent attacks by securing networking devices. This course covers secure routing and switching, including mitigation procedures and VLAN switching. Lisa Bock, a security ambassador, explains the difference between the control, data, and management planes in networking, and provides to an overview of Layer 3 attacks and techniques for securing Cisco routers. Next, she addresses Layer 2 attacks and techniques to secure Cisco switches. She includes mitigation procedures such as dynamic ARP inspection and BPDU guard, and wraps up with a discussion of VLAN security.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Erin Colvin
+Course_ID=724791
+Course_System=linkedin.com
+Course_Title=Learning C++
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+C++ is an efficient and versatile programming language. C++ powers systems software, desktop applications, and even video games, and it's the language that helped land humans on the moon. Simply put, C++ is a must-know for any modern-day programmer—and it's a great place to get started if you're programming for the first time. This course will get you up and running fast. Instructor Erin Colvin covers simple data types, including numbers and strings; flow-control features like loops and if, else, and switch statements; and functions, the code that encapsulates tasks your program performs. Dr. Colvin also covers working with files and special data structures such as classes and linked lists. Each chapter is full of practical code examples and challenges to help you practice your C++ skills.

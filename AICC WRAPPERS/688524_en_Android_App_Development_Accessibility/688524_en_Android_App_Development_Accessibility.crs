@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Renato Iwashima
+Course_ID=688524
+Course_System=linkedin.com
+Course_Title=Android App Development: Accessibility
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to create applications that everyone—regardless of their abilities—can independently interact with and enjoy. In this course, join instructor Renato Iwashima as he steps through the fundamentals of digital accessibility and usability for the Android platform. Renato provides a quick introduction to digital accessibility, explaining what it is, why it's important, and how to work with accessibility features such as TalkBack and Switch Access. He also covers the key principles of universal design and explains how to implement the fundamentals of accessibility and usability; add meaning and operability to user controls; improve the user experience for accessibility services; and test your Android app for accessibility.

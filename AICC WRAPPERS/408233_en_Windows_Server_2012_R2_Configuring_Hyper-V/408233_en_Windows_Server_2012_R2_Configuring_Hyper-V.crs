@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Timothy Pintello
+Course_ID=408233
+Course_System=linkedin.com
+Course_Title=Windows Server 2012 R2: Configuring Hyper-V
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get practical information on configuring Hyper-V in Windows Server 2012 R2. This course breaks Hyper-V into three areas: virtual machines, virtual machine storage, and virtual networks. In each section, Timothy Pintello provides the information you need to create these services in Hyper-V, get the settings configured so your system runs smoothly, and optimize performance so no hardware is idle.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Converse
+Course_ID=373560
+Course_System=linkedin.com
+Course_Title=Design the Web: HTML Background Video
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn to use HTML5 video as a design element, by running it below other text and graphics on your website. This episode of Design the Web quickly runs through the six steps to accomplishing this technique, including: setting up the video element, positioning a logo and caption over the video, making the layout responsive with CSS, and using Modernizr to adapt the layout for mobile users. The exercise files are free to all members, so get started now.

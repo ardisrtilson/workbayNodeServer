@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Alan Richardson
+Course_ID=2823261
+Course_System=linkedin.com
+Course_Title=Advanced Selenium: Page Objects and GUI Automation
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Page Object Model is a popular design pattern for automating web applications. Test automators can be more effective if they have mastered multiples ways of creating page objects and understand their pros and cons. In this course, Alan Richardson shows how to model GUI applications as page objects in Selenium. Discover how to refactor code into abstractions and abstract the details of your infrastructure, dependencies, and even technology elements like buttons and input fields. Explore the different types of page objects, and discover how to abstract navigation and test data. Plus, find out how to model the execution of an application with domain-specific languages. Alan closes with tips on making abstraction design decisions.

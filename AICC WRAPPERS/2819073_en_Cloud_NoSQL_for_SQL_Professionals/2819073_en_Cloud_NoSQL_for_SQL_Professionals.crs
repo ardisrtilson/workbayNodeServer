@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lynn Langit
+Course_ID=2819073
+Course_System=linkedin.com
+Course_Title=Cloud NoSQL for SQL Professionals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+NoSQL databases can store nonrelational data on a super large scale and solve problems regular databases can't handle: indexing the entire internet, predicting subscriber behavior, or targeting ads on a platform as large as Facebook. But with over 150 NoSQL database types, it can be hard for a SQL professional to know where to start. In this course, Lynn Langit breaks down these types into a few main categories and shows how to get your own NoSQL database up and running with easy-to-configure cloud solutions. Learn how to add and query data, apply the CAP theorem with NoSQL, and leverage key NoSQL trends such as multifunctionality and data lake NoSQL alternatives. Plus, explore AWS and GCP NoSQL database services such as DynamoDB, ElastiCache, and Bigtable.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=OSTraining, Rod Martin
+Course_ID=2874286
+Course_System=linkedin.com
+Course_Title=Drupal 9 Essential Training: 3 Taxonomy, Media, and Modules
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+In this installment of the Drupal 9 Essential Training series, instructor Rod Martin covers three important aspects of the Drupal content management system. First, he tackles taxonomy, which in Drupalspeak means categories. As Rod explains, if you want to categorize your content, the best way is to use the extremely flexible taxonomies in Drupal 9. Next, he covers media, and shows how to build an entire digital asset management system with the media module in Drupal. Finally, Rod takes an in-depth look at modules. While Drupal can do a lot right out of the box, modules allow you to add new features, and there are thousands of add-on modules available for Drupal. Note: This course was created by OSTraining. We are pleased to host this training in our library.

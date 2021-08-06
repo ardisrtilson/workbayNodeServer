@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Elfassy
+Course_ID=2824362
+Course_System=linkedin.com
+Course_Title=Microsoft Azure: Security Concepts
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The professionals in charge of Azure administration need to know how to secure services correctly to protect the data flowing between client computers and the cloud. This course investigates security concepts related to Azure deployment and services such as Microsoft 365 and Azure Active Directory. Find out how to use the built-in security tools in Azure, implement more robust multifactor authentication, and protect your services and data. Plus, learn how to create and configure Azure Key Vault, which allows you to centralize the storage of your app secrets (and refrain from needing to store security information in your code).

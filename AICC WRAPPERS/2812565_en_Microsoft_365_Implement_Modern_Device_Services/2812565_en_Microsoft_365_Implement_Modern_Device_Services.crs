@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Liam Cleary
+Course_ID=2812565
+Course_System=linkedin.com
+Course_Title=Microsoft 365: Implement Modern Device Services
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Mobile devices are a critical productivity tool for most organizations. But balancing mobile access with the need to protect company data and systems can be tricky. Microsoft 365 provides a comprehensive, modern solution for mobile device management, providing maximum flexibility and security. Learn how to manage your organization’s tenant mobile devices and applications in this intermediate course for Microsoft 365 administrators. Instructor and Microsoft MVP Liam Cleary shows how to implement mobile device management using Azure Active Directory and Intune; manage security and compliance profiles for iOS, Windows, and Android devices; deploy mobile applications; and plan Windows 10 deployments to Microsoft 365. Note: The lessons in this course are also designed to help prepare you for the MS-101 Microsoft Mobility and Security exam.

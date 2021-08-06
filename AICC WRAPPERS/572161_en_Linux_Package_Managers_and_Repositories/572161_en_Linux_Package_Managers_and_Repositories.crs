@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Scott Simpson
+Course_ID=572161
+Course_System=linkedin.com
+Course_Title=Linux: Package Managers and Repositories
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Software often comes bundled in packages, which makes managing the programs installed on your system a bit easier. When you need to add software to your Linux system, there are several paths you can take: you can compile source code, manually install software packages, or use package management software to automate most of the work. In this course, explore the basics of working with packages at the command line. Learn how to manage packages on RedHat and CentOS with RPM and the YUM package manager, as well as how to manage packages on Debian, Ubuntu, and related distros with dpkg and the APT tool. Plus, discover how to add software from third parties to your installation when official repositories don't have all of the software you need.

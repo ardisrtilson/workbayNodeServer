@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Carmel Eve
+Course_ID=3129477
+Course_System=linkedin.com
+Course_Title=Exam Tips AZ-204: Developing Solutions for Microsoft Azure
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The Azure exams have gone through many changes over the past few years, moving towards a more role-based exam style. As a part of this update, the AZ-204 exam was created. In this course, instructor Carmel Eve goes over how best to prepare for the AZ-204 exam, including what to practice, the exam format, and more. Carmel explains the benefits of becoming certified in Microsoft Azure and goes over the structure and goals of the exam. She covers each section of the exam, giving you a brief overview of the section then going into each topic in more detail. Carmel provides hands-on examples of how various Azure services can be used and configured. She discusses question formats and what you will encounter when you actually go to take the exam. Carmel concludes with an explanation of how the exam fits into the wider range of Microsoft certifications and highlights some options for continuing in your exam preparations.

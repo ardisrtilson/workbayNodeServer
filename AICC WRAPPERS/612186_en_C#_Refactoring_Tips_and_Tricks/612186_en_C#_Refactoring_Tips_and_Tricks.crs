@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jesse Freeman
+Course_ID=612186
+Course_System=linkedin.com
+Course_Title=C# Refactoring Tips and Tricks
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Refactoring code makes it cleaner, more performant, and readable. It eliminates unused functionality, renames and reorganizes elements to make their purpose clearer, and allows for more abstraction. This course provides C# developers with tips and tricks for refactoring existing codebases. Learn how to create a baseline for your project to back up and track the results of your work, and start removing unused code. Discover how to refactor along branches and use popular refactoring techniques, including Rename Method, Extract Method, and Encapsulate Field. Learn how to optimize code by avoiding loops, simplifying math, and inlining code, and create cleaner code that emphasizes readability. Plus, get tips on packaging and distributing refactored libraries as APIs.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Tiberiu Covaci
+Course_ID=5034180
+Course_System=linkedin.com
+Course_Title=ASP.NET Web Forms Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web Forms are a simple way to build web pages. In this course, discover how to build simple Web Forms applications in ASP.NET. Instructor Tiberiu Covaci shows how to create your first Web Forms page, debug it, create reusable code, and work with data. After stepping through how to create your first Visual Studio project, he shows how to work with Web Forms controls, shares tips for writing maintainable code, and covers different options for debugging ASP.NET applications. To wrap up, he discusses how to work with data and Microsoft SQL Server.

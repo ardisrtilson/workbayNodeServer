@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael McDonald
+Course_ID=697709
+Course_System=linkedin.com
+Course_Title=Financial Modeling Foundations
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+By distilling key information regarding cash flow levels and risks, financial modeling helps decision-makers make informed choices based on data analytics that move their firms forward. In this course, learn how to build financial models that can be used in corporate finance, investment banking, commercial banking, and portfolio management. Professor Michael McDonald covers financial statement models, investment banking models, M&A models, buyout models, and DCF models—all using Microsoft Excel. Throughout the course, Michael includes exercises—together with downloadable exercise files—that can provide you with a practical understanding of these key topics.

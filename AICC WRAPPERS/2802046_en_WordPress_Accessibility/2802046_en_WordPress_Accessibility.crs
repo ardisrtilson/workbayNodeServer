@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Joe Dolson
+Course_ID=2802046
+Course_System=linkedin.com
+Course_Title=WordPress: Accessibility
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Everybody deserves the opportunity to experience your website. Making your content, themes, and navigation accessible helps everyone—users with disabilities, visitors who find your site through search engine results, and anyone else who wants a great user experience. This course helps you make sure your website meets modern accessibility standards. You can learn how to use the power of WordPress to quickly build a beautiful website that can be used by people with different types of abilities. Author Joe Dolson provides a broad introduction to accessibility and then focuses on practical steps to ensure your WordPress themes, plugins, and content are accessible and usable to all. He also shows how to test your site to make sure it meets the most current accessibility standards.

@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Andrew Bettany
+Course_ID=5010656
+Course_System=linkedin.com
+Course_Title=Introduction to Microsoft 365 for IT Pros
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft 365 is an integrated bundle of Windows 10, Office 365, and Enterprise Mobility + Security, sold on a subscription basis. In this course, instructor Andrew Bettany provides IT professionals with a general introduction to Microsoft 365, explaining what it is, the services it comprises, and the benefits of adoption. Discover how Microsoft 365 differs from Office 365, as well as how to go about updating an existing Office 365 subscription to a Microsoft 365 subscription. Plus, learn about the components of Microsoft 365, including the security features it offers to protect your users and devices, as well as how Microsoft 365 supports a modern workplace and can help boost user productivity.

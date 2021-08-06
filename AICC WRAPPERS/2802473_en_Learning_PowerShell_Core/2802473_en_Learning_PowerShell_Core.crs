@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Adam Bertram
+Course_ID=2802473
+Course_System=linkedin.com
+Course_Title=Learning PowerShell Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+PowerShell Core—the latest iteration of the powerful scripting language—is open-source, cross-platform, and full of helpful features. In this course, instructor Adam Bertram helps you get up and running with PowerShell Core, explaining what you need to know to use PowerShell to automate a variety of day-to-day IT tasks. Adam covers the basics of working with PowerShell Core, including how to run commands, install and update modules, and work with basic functions. Plus, he highlights the differences between Windows PowerShell and PowerShell Core.

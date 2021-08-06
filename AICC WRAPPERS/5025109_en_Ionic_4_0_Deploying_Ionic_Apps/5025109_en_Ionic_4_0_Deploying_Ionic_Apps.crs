@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sani Yusuf
+Course_ID=5025109
+Course_System=linkedin.com
+Course_Title=Ionic 4.0 : Deploying Ionic Apps
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Building mobile applications is challenging and deploying one app across multiple platforms requires attention to a variety of additional details. This course walks through the intricacies of building and deploying app code that is compatible for mobile, web, and desktop. Sani Yusuf first shows you how to set up your environment, installing Ionic, Cordova, Git, and Gradle. Then, he covers the development process, followed by testing. He demonstrates how to use Ionic Appflow for mobile DevOps, Ionic Deploy for deployment, Ionic DevApp for running an app, and PWA service workers for push notifications. Sani also discusses how to use Capacitor which allows building native web apps. He wraps up the course by taking you through the steps of using Electron for desktop.

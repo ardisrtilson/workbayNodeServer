@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Christian Wenz
+Course_ID=2822409
+Course_System=linkedin.com
+Course_Title=Building Web APIs with ASP.NET Core
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Web APIs drive the most popular web and mobile apps, as well as internet-enabled devices ranging from fridges to phones. Curious about how to build a web API of your own? In this course, instructor Christian Wenz shows you how, taking you step by step through the process of building a web API with ASP.NET Core 3.1, the open-source framework for Windows, macOS, and Linux. Christian explains how routing works and how data is modeled in ASP.NET Core. He provides coverage of Entity Framework Core to help you grasp how data models in your projects connect to underlying databases. Plus, he covers essential topics such as API versioning, CRUD operations, securing your API, and more.

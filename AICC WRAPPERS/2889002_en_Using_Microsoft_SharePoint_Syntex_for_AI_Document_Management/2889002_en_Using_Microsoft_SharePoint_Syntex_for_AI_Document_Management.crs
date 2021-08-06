@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Phil Gold
+Course_ID=2889002
+Course_System=linkedin.com
+Course_Title=Using Microsoft SharePoint Syntex for AI Document Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+SharePoint Syntex is a new tool that uses AI to extract information from documents and forms in SharePoint libraries. For example, you could import hundreds of contracts and have SharePoint automatically recognize the participants in the contracts and contract amounts, or you could pull totals from a set of invoices and add that information directly into a SharePoint library column. In this course, instructor Phil Gold walks through using the Syntex AI to train models to identify types of documents and forms and to define the specific information you want to capture. After defining some basic concepts and best practices, Phil steps through setting up Syntex and creating document-understanding models and form-processing models. He shows how to build classifiers and extractors for documents, create and label collections of similar forms, and add your models to your SharePoint libraries to automatically capture data previously available only through time-consuming manual labor.

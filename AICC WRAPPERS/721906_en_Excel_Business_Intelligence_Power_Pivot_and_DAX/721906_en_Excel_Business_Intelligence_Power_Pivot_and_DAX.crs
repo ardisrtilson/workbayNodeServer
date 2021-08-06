@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chris Dutton
+Course_ID=721906
+Course_System=linkedin.com
+Course_Title=Excel Business Intelligence: Power Pivot and DAX
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Data Analysis Expressions (DAX) allow Microsoft Excel users to create powerful calculated fields in Power Pivot. In this course—the third and final installment of the Excel Business Intelligence series—experienced Excel trainer Chris Dutton spells out how to use the DAX language and Power Pivot to explore and analyze relational data models. Chris picks up where he left off in the previous installment of the series, demonstrating how to add calculated columns and measures to data models in Excel. He highlights the differences between calculated columns and DAX measures, covers common DAX formulas and functions, and discusses best practices for working with DAX and Power Pivot.

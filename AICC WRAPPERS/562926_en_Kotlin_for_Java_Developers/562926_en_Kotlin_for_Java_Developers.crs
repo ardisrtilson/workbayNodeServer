@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Troy Miles
+Course_ID=562926
+Course_System=linkedin.com
+Course_Title=Kotlin for Java Developers
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Kotlin is a concise, easy-to-use programming language from JetBrains that's 100% compatible with Java, and is an officially supported development language for Android. With its clean syntax and ability to eliminate most null pointer exceptions, Kotlin makes coding easier, faster, and generally more fun. In this course, learn the basics of Kotlin programming and explore its interoperability with Java. Troy Miles explains why you might want to learn this language, and walks through some of its key features, including operator overloading, generics, and lambdas. Plus, Troy shows how to call Java libraries from Kotlin—and vice versa—and covers functional programming in Kotlin.

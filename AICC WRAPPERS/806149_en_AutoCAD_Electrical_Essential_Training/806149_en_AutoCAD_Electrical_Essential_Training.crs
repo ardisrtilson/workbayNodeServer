@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shaun Bryant
+Course_ID=806149
+Course_System=linkedin.com
+Course_Title=AutoCAD Electrical Essential Training
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn about using the powerful AutoCAD Electrical toolset, which offers automated drafting tools for designing wiring, circuiting, PLC modules, panels, and more. Explore the interface and the process of creating precise, measured electrical drawings and schematics. Instructor Shaun Bryant shows how to design wiring diagrams, insert components and terminals, use PLC symbols in ladder diagrams, perform point-to-point wiring, create custom symbols, add annotations like title blocks to drawings, and run reports. Shaun also shows how to adjust settings, customize the built-in templates, and use the drawing update tools to reuse, copy, export, and verify drawings.

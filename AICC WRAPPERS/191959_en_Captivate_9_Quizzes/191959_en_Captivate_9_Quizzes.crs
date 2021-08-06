@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Anastasia McCune
+Course_ID=191959
+Course_System=linkedin.com
+Course_Title=Captivate 9: Quizzes
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The ability to build quizzes into elearning projects is a big draw of Adobe Captivate; this course will allow elearning creators to create and customize quizzes exactly the way they want. Author Anastasia McCune shows how to add questions, configure quiz settings, and score quiz results. She'll also show how to test knowledge in other ways, via random questions, pretests, and surveys. The course wraps up with a look at publishing quizzes for an LMS and testing the results out in Moodle.

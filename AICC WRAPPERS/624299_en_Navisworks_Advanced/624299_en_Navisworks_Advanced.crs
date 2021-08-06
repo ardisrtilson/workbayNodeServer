@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jim Cowan
+Course_ID=624299
+Course_System=linkedin.com
+Course_Title=Navisworks Advanced
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Navisworks—the powerful project review software from Autodesk—is used to manage risk by helping you detect construction issues in a virtual model and, in turn, avoid costly on-site delays. In this advanced course, enhance your Navisworks skillset by discovering how to best leverage some of the software's most exciting features. Instructor Jim Cowan explains how to navigate the user interface and create Navisworks files. He covers search sets—discussing how to create and reuse them—as well as how to explore different end goals, such as creating animations. To wrap up the course, he takes a deep dive into working with the Clash Detective tool, which you can use to identify and report clashes in your model.

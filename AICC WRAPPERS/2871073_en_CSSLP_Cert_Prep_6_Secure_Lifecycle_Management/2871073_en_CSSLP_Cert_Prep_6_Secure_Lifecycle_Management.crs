@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jerod Brennen
+Course_ID=2871073
+Course_System=linkedin.com
+Course_Title=CSSLP Cert Prep: 6 Secure Lifecycle Management
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Change is a certainty throughout the software development lifecycle (SDLC). To enhance the security state of their organization’s software, information security professionals must create a lifecycle management program that lays out how to apply clear security standards throughout the SDLC. In this course, the sixth installment of the CSSLP Cert Prep series, instructor Jerod Brennen dives into the subject of secure software lifecycle management, helping prepare you for the sixth domain of the Certified Secure Software Lifecycle Professional (CSSLP) exam: Secure Software Lifecycle Management. Jerod discusses how to define your strategy and roadmap, manage security in both adaptive and predictive methodologies, and promote security culture within your organization. He also discusses the importance of generating and maintaining software security documentation, developing security metrics, applying lessons learned to enable continuous improvement, and more.

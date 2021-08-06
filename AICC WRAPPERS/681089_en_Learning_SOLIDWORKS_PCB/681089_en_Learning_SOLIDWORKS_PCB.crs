@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Justin Flett
+Course_ID=681089
+Course_System=linkedin.com
+Course_Title=Learning SOLIDWORKS PCB
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+The SOLIDWORKS PCB design package offers functionality that can help engineers work more productively as they design and develop electronics and printed circuit boards (PCBs). In this course, learn the fundamentals of this powerful software. Instructor Justin Flett demonstrates how to customize the user interface and navigation tools to suit your personal preferences. He then steps through the process of creating a PCB design project, showing how to generate PCB schematics and board layouts. In addition, Justin demonstrates how to integrate these electronics within mechanical CAD projects.

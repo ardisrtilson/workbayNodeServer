@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sean Colins
+Course_ID=2818083
+Course_System=linkedin.com
+Course_Title=macOS for IT Administrators
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Effectively work with macOS systems as an IT administrator. In this course, instructor Sean Colins reviews the fundamentals of how the macOS works and how it interacts with management tools, networks, and server systems. Along the way, Sean provides important information regarding the administration of a wide range of macOS versions, and in many cases, when there are breakpoints in a feature or pitfalls that admins should watch out for. He goes over the overall organization of the operating system; what happens at each phase of the startup of a macOS system; MDM management; how Kerberos works in Active Directory; important Apple SSO details; how caching works; how to leverage command-line options for configuration and reporting of the caching service, and much more.

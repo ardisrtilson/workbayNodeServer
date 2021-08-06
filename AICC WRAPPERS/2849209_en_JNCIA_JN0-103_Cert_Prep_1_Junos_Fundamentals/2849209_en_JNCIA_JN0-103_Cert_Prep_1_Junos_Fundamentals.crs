@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Shyam Raj
+Course_ID=2849209
+Course_System=linkedin.com
+Course_Title=JNCIA (JN0-103) Cert Prep: 1 Junos Fundamentals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Juniper Networks provides networking solutions to the world's top 100 service providers, as well as banks, government agencies, health care organizations, and more. The Juniper Networks Certified Associate-Junos (JNCIA-Junos) exam certifies a network administrator's proficiency with the Junos operating system. It's the first prerequisite for advanced Juniper certifications such as JNCIS, JNCIP, and JNCIE and a key competitive factor in your job search. This course teaches networking fundamentals, as well as the concepts covered in the first exam objective: Junos OS Fundamentals. Learn the basics of the OSI networking model, the devices at the different layers, and IP addressing and subnetting. Then explore the core elements of the Junos OS, including the software architecture, routing, and traffic processing. Completing all three courses in the series will help prepare you to pass the related 65-question certification exam, JN0-103.

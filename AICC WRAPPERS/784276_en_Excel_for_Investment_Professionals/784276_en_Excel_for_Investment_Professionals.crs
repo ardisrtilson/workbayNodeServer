@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Michael McDonald
+Course_ID=784276
+Course_System=linkedin.com
+Course_Title=Excel for Investment Professionals
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Do you manage a portfolio of stocks or securities? Microsoft Excel offers professionals in the investment industry with a bevy of tools that they can use to make sound investments. In this course, learn how to leverage these tools and perform key investment-related activities in Excel, including investment evaluation and analysis on a stock or portfolio. Professor Michael McDonald provides an overview of the major tasks in the investment industry, and then digs into how to do single stock investment analysis. He also goes over how to compute expected returns on a stock and a portfolio, value a bond in Excel, compute performance evaluation metrics, and more.

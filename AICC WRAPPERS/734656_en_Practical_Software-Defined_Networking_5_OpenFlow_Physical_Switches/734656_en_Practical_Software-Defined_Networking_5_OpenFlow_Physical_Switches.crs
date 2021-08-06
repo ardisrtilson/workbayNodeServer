@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=David Bombal
+Course_ID=734656
+Course_System=linkedin.com
+Course_Title=Practical Software-Defined Networking: 5 OpenFlow Physical Switches
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Get an overview of the physical switches that are used with the OpenFlow communication protocol. In this course, dig deep into Zodiac FX, Raspberry Pi, and HPE physical switches. Learn about the Zodiac FX OpenFlow switch—including how to configure it, view flows, and write flows—and discover why this little switch is so great for development and testing. In addition, get an introduction to HPE physical switches and the Raspberry Pi, an affordable computer that you can configure as an OpenFlow enabled switch.

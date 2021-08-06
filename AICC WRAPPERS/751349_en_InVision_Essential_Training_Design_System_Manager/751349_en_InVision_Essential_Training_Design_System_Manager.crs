@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Drew Bridewell
+Course_ID=751349
+Course_System=linkedin.com
+Course_Title=InVision Essential Training: Design System Manager
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+InVision Design System Manager (DSM) enables teams to build a design system that provides each team member with access to a single source of truth, allowing them to better manage changes, collaborate, and maintain a consistent design experience. In this course, learn how to create and share design system assets and specs with broader project teams using InVision's Design System Manager (DSM). Instructor Drew Bridewell shows how to install and set up DSM, covers the three pillars upon which DSM is built, and explains how to create a shared DSM library. Drew also steps through how to add and edit components and leverage the platform's capabilities for collaboration and versioning.

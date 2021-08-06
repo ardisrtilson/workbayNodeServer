@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Jonathan Reichental
+Course_ID=636127
+Course_System=linkedin.com
+Course_Title=Blockchain: Beyond the Basics
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Blockchain is an exciting new technology that is redefining how we store, update, and move data. Learn about the blockchain and the implications of decentralized, encrypted data storage for business and society, in this course with Dr. Jonathan Reichental. He begins by explaining exactly how the blockchain works, including the concepts of cryptography, mining, distribution, and smart contracts. Next, he describes how the blockchain enables the most popular cryptocurrency, bitcoin. Learn how new bitcoin is generated, how it is transacted, and the requirements for participating as either an exchange, a trader, or a miner. The course also covers other popular technology manifestations of blockchain, such as Hyperledger and Ripple. Dr. Reichental then puts blockchain technology in context in several different industries, including energy and security, and helps learners understand how to think about the blockchain in ways that can be applied in any field.

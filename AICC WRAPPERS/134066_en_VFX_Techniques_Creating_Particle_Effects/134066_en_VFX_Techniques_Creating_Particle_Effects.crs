@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Lee Lanier
+Course_ID=134066
+Course_System=linkedin.com
+Course_Title=VFX Techniques: Creating Particle Effects
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+VFX Techniques is back with a new course on particle effects—everyone's favorite feature for creating realistic smoke, fire, explosions, and other phenomena. Author Lee Lanier tackles a wizard battle, producing Harry Potter–style effects as the two wizards fight with their magic wands. Using this sample footage, he shows how to generate particles with After Effect's built-in plugins, dives into the settings to adjust their appearance, and retimes and color grades the scene to create a particular magical mood. Plus, learn about green-screen removal techniques, background plate repair, CG particles, and rotoscoping techniques. This course covers puffs, sparkles, blobs, flares, smoke, sparks, and blasts, so you'll be prepared to create particles for almost any scenario.

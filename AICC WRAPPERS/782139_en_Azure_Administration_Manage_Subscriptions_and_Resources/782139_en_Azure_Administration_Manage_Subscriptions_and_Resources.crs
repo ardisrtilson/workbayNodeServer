@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Sharon Bennett
+Course_ID=782139
+Course_System=linkedin.com
+Course_Title=Azure Administration: Manage Subscriptions and Resources
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Microsoft Azure continues to make strong headway in public cloud adoptions. With Azure continuing to grow steadily, expertise in this hugely popular cloud computing platform is becoming increasingly more valuable. In this course, instructor Sharon Bennett covers the technical skills needed to successfully manage Azure subscriptions, analyze resource utilization and consumption, and manage resource groups. Learn how to configure cost center quotas and tagging, create a baseline for resources, configure and apply resource locks, and more. This course provides valuable instruction for any Azure administrator, as well as those preparing for the Microsoft Azure Administrator exam (AZ-103) or the Microsoft Azure Architect Technologies exam (AZ-300).

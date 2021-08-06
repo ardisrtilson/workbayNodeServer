@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=George Maestri
+Course_ID=2849186
+Course_System=linkedin.com
+Course_Title=Maya and Arnold: Exterior Lighting and Rendering
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Learn how to use Arnold rendering in Maya to improve your shots of architectural exteriors. Instructor George Maestri walks you through the entire process, from setting up a scene and environment to compositing the final shot in Photoshop. George provides an overview of the scene you are about to render. The course demonstrates how to set up Arnold and how to figure out where you should place your camera. Next, George explains how to add the different types of lighting that you can use in daytime shots. The course steps through how to render a daytime shot, from rendering a hero pass all the way through to your final rendering. Once the images are rendered, you can import them into Photoshop and set up the composite. After you learn about daytime shots, George walks through the process again, for nighttime shots, highlighting where the process is different.

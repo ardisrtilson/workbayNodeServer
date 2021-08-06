@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Chad Chelius
+Course_ID=2833001
+Course_System=linkedin.com
+Course_Title=Advanced Accessible PDFs
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Prioritizing accessibility doesn't mean you can't leverage the powerful tools the PDF format offers. The techniques outlined in this course can help you manage complex layouts and add advanced features like PDF forms, PDF/UA compliance, and complex tables, while keeping PDFs accessible and compliant. Instructor Chad Chelius shows how to add and adjust PDF tags to optimize the screen-reading experience, make scanned PDFs accessible, examine and repair tables, remediate existing files to meet PDF/UA standards, and add links and security with tools like Acrobat, Word, InDesign, Grackle, and pdfaPilot, addressing the accessibility issues that go beyond the everyday. Plus, learn how to use automatic features and shortcuts, such as Autotag and actions in Acrobat, to speed up your workflow.

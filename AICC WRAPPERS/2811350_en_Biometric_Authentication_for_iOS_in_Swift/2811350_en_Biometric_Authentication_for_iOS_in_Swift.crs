@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Bear Cahill
+Course_ID=2811350
+Course_System=linkedin.com
+Course_Title=Biometric Authentication for iOS in Swift
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+User security is vital to app development and user experience. Biometric authentication—which turns a user's face or fingerprint into a key—is a useful and powerful method for securing user data within an app. In this course, Bear Cahill takes a deep dive into the topic of biometric authentication, reviewing how to support the Face ID and Touch ID authentication methods in your iOS apps with Swift. Bear demonstrates how to use the LocalAuthentication framework to request user authentication using Touch ID, Face ID, or a user's passcode. Along the way, he details the specifics of authentication policies, shows how to handle a variety of errors, and explains how to handle cases when a user doesn’t want to opt for biometric authentication at all.

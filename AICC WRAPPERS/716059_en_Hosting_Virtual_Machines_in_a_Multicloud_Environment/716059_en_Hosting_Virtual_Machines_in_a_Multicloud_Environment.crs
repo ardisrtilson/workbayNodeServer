@@ -1,0 +1,14 @@
+[Course]
+Course_Creator=Brien Posey
+Course_ID=716059
+Course_System=linkedin.com
+Course_Title=Hosting Virtual Machines in a Multicloud Environment
+Level=1
+Max_Fields_CST=2
+Total_Aus=1
+Total_Blocks=1
+Version=4.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
+Using multiple cloud providers has become the norm for organizations, as multicloud environments can improve security and operational efficiency while reducing costs. In this course, Microsoft MVP Brien Posey demonstrates how to enable communication between Amazon Web Services (AWS) and Microsoft Azure. He covers virtual private clouds, gateway servers, connectivity, and more. Find out how to install the Microsoft Routing and Remote Access Service (RRAS) on an Amazon EC2 virtual machine to communicate with Azure. Then, discover how to implement virtual and local network gateways in Azure to receive and send resources between AWS. Plus, learn how to connect an Azure virtual machine to a cloud-hosted Microsoft Active Directory.
